@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- Meal Together -->
+            <VSIE_MealTogether.label>jantar romântico</VSIE_MealTogether.label>
+            <VSIE_MealTogether.letterTitle>Jantar romântico</VSIE_MealTogether.letterTitle>
+            <VSIE_MealTogether.letterText>{ORGANIZER_labelShort} está tendo uma refeição romântica com {COMPANION_labelShort}.</VSIE_MealTogether.letterText>
+            <VSIE_MealTogether.calledOffMessage>O encontro foi cancelado.</VSIE_MealTogether.calledOffMessage>
+            <VSIE_MealTogether.finishedMessage>O encontro terminou.</VSIE_MealTogether.finishedMessage>
+
+        <!-- Movie Night -->
+            <VSIE_MovieNight.label>noite do filme</VSIE_MovieNight.label>
+            <VSIE_MovieNight.letterTitle>Noite do filme</VSIE_MovieNight.letterTitle>
+            <VSIE_MovieNight.letterText>{ORGANIZER_labelShort} está tendo uma noite de cinema com {COMPANION_labelShort}.</VSIE_MovieNight.letterText>
+            <VSIE_MovieNight.calledOffMessage>O encontro foi cancelado</VSIE_MovieNight.calledOffMessage>
+            <VSIE_MovieNight.finishedMessage>O encontro terminou.</VSIE_MovieNight.finishedMessage>
+
+        <!-- Building Snowmen -->
+            <VSIE_BuildingSnowmen.label>construção de bonecos de neve</VSIE_BuildingSnowmen.label>
+            <VSIE_BuildingSnowmen.letterTitle>Construção de bonecos de neve</VSIE_BuildingSnowmen.letterTitle>
+            <VSIE_BuildingSnowmen.letterText>{ORGANIZER_labelShort} está construindo bonecos de neve com {COMPANION_labelShort}.</VSIE_BuildingSnowmen.letterText>
+            <VSIE_BuildingSnowmen.calledOffMessage>O encontro foi cancelado.</VSIE_BuildingSnowmen.calledOffMessage>
+            <VSIE_BuildingSnowmen.finishedMessage>O encontro terminou.</VSIE_BuildingSnowmen.finishedMessage>
+
+        <!-- Viewing Art Together -->
+            <VSIE_ViewingArtTogether.label>apreciação de arte</VSIE_ViewingArtTogether.label>
+            <VSIE_ViewingArtTogether.letterTitle>Apreciação de arte</VSIE_ViewingArtTogether.letterTitle>
+            <VSIE_ViewingArtTogether.letterText>{ORGANIZER_labelShort} está vendo arte com {COMPANION_labelShort}.</VSIE_ViewingArtTogether.letterText>
+            <VSIE_ViewingArtTogether.calledOffMessage>O encontro foi cancelado.</VSIE_ViewingArtTogether.calledOffMessage>
+            <VSIE_ViewingArtTogether.finishedMessage>O encontro terminou.</VSIE_ViewingArtTogether.finishedMessage>
+
+        <!-- Skygazing -->
+            <VSIE_Skygazing.label>observando o céu</VSIE_Skygazing.label>
+            <VSIE_Skygazing.letterTitle>Observando o céu</VSIE_Skygazing.letterTitle>
+            <VSIE_Skygazing.letterText>{ORGANIZER_labelShort} está observando o céu com {COMPANION_labelShort}.</VSIE_Skygazing.letterText>
+            <VSIE_Skygazing.calledOffMessage>O encontro foi cancelado.</VSIE_Skygazing.calledOffMessage>
+            <VSIE_Skygazing.finishedMessage>O encontro terminou.</VSIE_Skygazing.finishedMessage>
+
+        <!-- Going For A Walk -->
+            <VSIE_GoingForAWalk.label>caminhada</VSIE_GoingForAWalk.label>
+            <VSIE_GoingForAWalk.letterTitle>Caminhada</VSIE_GoingForAWalk.letterTitle>
+            <VSIE_GoingForAWalk.letterText>{ORGANIZER_labelShort} vai dar um passeio com {COMPANION_labelShort}.</VSIE_GoingForAWalk.letterText>
+            <VSIE_GoingForAWalk.calledOffMessage>O encontro foi cancelado.</VSIE_GoingForAWalk.calledOffMessage>
+            <VSIE_GoingForAWalk.finishedMessage>O encontro terminou.</VSIE_GoingForAWalk.finishedMessage>
+
+        <!-- Grabbing Beer -->
+            <VSIE_GrabbingBeer.label>happy hour</VSIE_GrabbingBeer.label>
+            <VSIE_GrabbingBeer.letterTitle>Happy hour</VSIE_GrabbingBeer.letterTitle>
+            <VSIE_GrabbingBeer.letterText>{ORGANIZER_labelShort} está bebendo uma cerveja e festejando com {COMPANION_labelShort}.</VSIE_GrabbingBeer.letterText>
+            <VSIE_GrabbingBeer.calledOffMessage>O happy hour foi cancelado.</VSIE_GrabbingBeer.calledOffMessage>
+            <VSIE_GrabbingBeer.finishedMessage>O happy hour terminou.</VSIE_GrabbingBeer.finishedMessage>
+
+        <!-- Binge Party -->
+            <VSIE_BingeParty.label>festa frenética</VSIE_BingeParty.label>
+            <VSIE_BingeParty.letterTitle>Festa frenética</VSIE_BingeParty.letterTitle>
+            <VSIE_BingeParty.letterText>{ORGANIZER_labelShort} sugere fazer uma festinha de farra. Esteja avisado - as festas frenéticas podem durar algumas horas. Os colonos se empanturrarão de comida e drogas até que tudo acabe. Simplesmente aliste seus colonos para impedi-los de participarem da festa.</VSIE_BingeParty.letterText>
+            <VSIE_BingeParty.calledOffMessage>A festa foi cancelada.</VSIE_BingeParty.calledOffMessage>
+            <VSIE_BingeParty.finishedMessage>A festa terminou.</VSIE_BingeParty.finishedMessage>
+        
+        <!-- Outdoor Party -->
+            <VSIE_OutdoorParty.label>festa ao ar livre</VSIE_OutdoorParty.label>
+            <VSIE_OutdoorParty.letterTitle>Festa ao ar livre</VSIE_OutdoorParty.letterTitle>
+            <VSIE_OutdoorParty.letterText>{ORGANIZER_labelShort} sugere uma festa ao ar livre. Os colonos sairão para fazer uma fogueira e depois sentarão ao redor dela e conversarão.</VSIE_OutdoorParty.letterText>
+            <VSIE_OutdoorParty.calledOffMessage>A festa foi cancelada.</VSIE_OutdoorParty.calledOffMessage>
+            <VSIE_OutdoorParty.finishedMessage>A festa terminou.</VSIE_OutdoorParty.finishedMessage>
+
+        <!-- Funeral -->
+            <VSIE_Funeral.label>funeral</VSIE_Funeral.label>
+            <VSIE_Funeral.letterTitle>Funeral</VSIE_Funeral.letterTitle>
+            <VSIE_Funeral.letterText>Colonos se reúnem sobre o túmulo de {DEADPAWN_labelShort} para homenagear sua memória.</VSIE_Funeral.letterText>
+            <VSIE_Funeral.calledOffMessage>O funeral foi cancelado.</VSIE_Funeral.calledOffMessage>
+            <VSIE_Funeral.finishedMessage>O funeral terminou.</VSIE_Funeral.finishedMessage>
+
+        <!-- Birthday Party -->
+            <VSIE_BirthdayParty.label>aniversário</VSIE_BirthdayParty.label>
+            <VSIE_BirthdayParty.letterTitle>festa de aniversário</VSIE_BirthdayParty.letterTitle>
+            <VSIE_BirthdayParty.letterText>{ORGANIZER_labelShort} está dando uma festa de aniversário! Todos os que comparecerem ganharão recreação e energia social, além de um impulso duradouro de humor positivo.</VSIE_BirthdayParty.letterText>
+            <VSIE_BirthdayParty.calledOffMessage>A festa foi cancelada.</VSIE_BirthdayParty.calledOffMessage>
+            <VSIE_BirthdayParty.finishedMessage>A festa terminou.</VSIE_BirthdayParty.finishedMessage>
+        
+</LanguageData>

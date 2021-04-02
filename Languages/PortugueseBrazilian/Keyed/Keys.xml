@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!-- Vanilla Achievements Expanded -->
+        <!-- VAE -->
+            <VAE>Vanilla Achievements Expanded</VAE>
+
+        <!-- Debug Writer -->
+            <DebugWriter>Habilitar DebugWriter</DebugWriter>
+            <DebugWriterConfirmation>Tem certeza de que deseja habilitar o DebugWriter? Isso diminuirá significativamente o desempenho em troca de dados relacionados à Conquista.</DebugWriterConfirmation>
+
+        <!-- Log Info -->
+            <GenerateLogInfo>Enviar Registros</GenerateLogInfo>
+            <GenerateLogInfoTooltip>Envie os registros relacionados às conquistas para um arquivo. Apenas para fins de depuração.</GenerateLogInfoTooltip>
+            <SuccessfulWriteToFile>Registros de conquistas enviados com sucesso para AchievementLog.txt</SuccessfulWriteToFile>
+
+        <!-- Side Bar Info -->
+            <SideBarInfo>Desbloqueie conquistas e ganhe pontos de Narrador que podem resgatados.</SideBarInfo>
+
+        <!-- Points -->
+            <StorytellerPoints>Pontos de Narrador</StorytellerPoints>
+            <PointsRedeem>Resgatar Pontos</PointsRedeem>
+            <PointsAvailable>Disponível: {0}</PointsAvailable>
+            <PointsEarned>Total Ganho: {0}</PointsEarned>
+
+        <!-- Achievements -->
+            <UnlockedDevMode>Desbloqueada com DevMode</UnlockedDevMode>
+            <AchievementLocked>Bloqueada</AchievementLocked>
+            <AchievementsUnlocked>Conquistas Desbloqueadas: {0}</AchievementsUnlocked>
+            <AchievementsTotalUnlocked>Total de Conquistas Desbloqueadas: {0}</AchievementsTotalUnlocked>
+            <AchievementUnlocked>Conquista Desbloqueada!</AchievementUnlocked>
+
+        <!-- Failed -->
+            <FailedRewardEvent>Falhou ao resgatar a recompensa {0}</FailedRewardEvent>
+            <FailedTargetFinder>O mapa deve estar carregado ou objeto alvo selecionado no mapa</FailedTargetFinder>
+            <NoValidMap>O mapa do jogador deve estar à vista para ser resgatado.</NoValidMap>
+            <IncidentNotAvailable>Incidente não disponível no momento.</IncidentNotAvailable>
+            <NotEnoughPoints>Pontos Insuficientes</NotEnoughPoints>
+
+        <!-- Random Quest Reward Item -->
+            <RandomQuestRewardItemLetter>Item de Missão</RandomQuestRewardItemLetter>
+            <RandomQuestRewardItem>O item de missão aleatório chegou!</RandomQuestRewardItem>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- Shield -->
+            <VanillaFactionsExpanded.EquipShield>Equipar {0} como escudo</VanillaFactionsExpanded.EquipShield>
+            <VanillaFactionsExpanded.EquipWarningShieldUnusable>(inutilizável com {0})</VanillaFactionsExpanded.EquipWarningShieldUnusable>
+            <VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>({0} ficará inutilizável)</VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>
+            <VanillaFactionsExpanded.Protects>Protege</VanillaFactionsExpanded.Protects>
+            <VanillaFactionsExpanded.Protects_Desc>Quais partes do corpo o escudo protege.</VanillaFactionsExpanded.Protects_Desc>
+
+        <!-- Scenario Parts -->
+            <VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>Modificadores de relação de facção</VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>
+            <VanillaFactionsExpanded.NumberRange>{0} a {1}</VanillaFactionsExpanded.NumberRange>
+            <VanillaFactionsExpanded.AllFactions>Todas as facções</VanillaFactionsExpanded.AllFactions>
+            <VanillaFactionsExpanded.AllFactionsIncludingHidden>Todas as facções, incluindo ocultas</VanillaFactionsExpanded.AllFactionsIncludingHidden>
+            <VanillaFactionsExpanded.AlwaysHostile>Sempre hostil</VanillaFactionsExpanded.AlwaysHostile>
+            <VanillaFactionsExpanded.AffectHiddenFactions>Afeta ocultas</VanillaFactionsExpanded.AffectHiddenFactions>
+            <VanillaFactionsExpanded.StartingGoodwill>Iniciando</VanillaFactionsExpanded.StartingGoodwill>
+            <VanillaFactionsExpanded.NaturalGoodwill>Natural</VanillaFactionsExpanded.NaturalGoodwill>
+
+        <!-- Stat Draw Entries -->
+            <VanillaFactionsExpanded.UsableWithShield>Utilizável com escudos</VanillaFactionsExpanded.UsableWithShield>
+            <VanillaFactionsExpanded.UsableWithShield_Desc>Se esta arma pode ou não ser utilizada se o personagem também tiver um escudo equipado.</VanillaFactionsExpanded.UsableWithShield_Desc>
+
+        <!-- New Faction Spawning -->
+            <VanillaFactionsExpanded.FactionTitle>Nova facção: {FactionName}</VanillaFactionsExpanded.FactionTitle>
+            <VanillaFactionsExpanded.ModInfo>Esta facção foi adicionada por {ModName} e atualmente não está presente em seu jogo.</VanillaFactionsExpanded.ModInfo>
+            <VanillaFactionsExpanded.AnUnknownMod>um mod desconhecido</VanillaFactionsExpanded.AnUnknownMod>
+            <VanillaFactionsExpanded.HiddenFactionInfo>Esta é uma facção oculta e não aparecerá na sua lista de facções.</VanillaFactionsExpanded.HiddenFactionInfo>
+            <VanillaFactionsExpanded.RequiredFactionInfo>Marcado como exigido por {ModName}.</VanillaFactionsExpanded.RequiredFactionInfo>
+            <VanillaFactionsExpanded.NonSpawningFactionInfo>Esta facção está marcada como não-gerar e você provavelmente deve simplesmente ignorá-la.</VanillaFactionsExpanded.NonSpawningFactionInfo>
+            <VanillaFactionsExpanded.FactionSelectOption>Selecione como proceder:</VanillaFactionsExpanded.FactionSelectOption>
+            <VanillaFactionsExpanded.FactionButtonAdd>Adicionar a facção</VanillaFactionsExpanded.FactionButtonAdd>
+            <VanillaFactionsExpanded.FactionButtonAddFull>Adicionar a facção com assentamentos</VanillaFactionsExpanded.FactionButtonAddFull>
+            <VanillaFactionsExpanded.FactionButtonSkip>Ignorar</VanillaFactionsExpanded.FactionButtonSkip>
+            <VanillaFactionsExpanded.FactionButtonIgnore>Não pergunte sobre esta facção novamente</VanillaFactionsExpanded.FactionButtonIgnore>
+            <VanillaFactionsExpanded.FactionMessageFailed>Falha ao adicionar a facção.</VanillaFactionsExpanded.FactionMessageFailed>
+            <VanillaFactionsExpanded.FactionMessageFailedFull>Falha ao criar uma facção com assentamentos.</VanillaFactionsExpanded.FactionMessageFailedFull>
+            <VanillaFactionsExpanded.FactionMessageSuccessFull>Adicionou {FactionName} com {Amount} assentamentos.</VanillaFactionsExpanded.FactionMessageSuccessFull>
+            <VanillaFactionsExpanded.FactionMessageSuccess>Adicionou {FactionName}.</VanillaFactionsExpanded.FactionMessageSuccess>
+            <VanillaFactionsExpanded.FactionSettlementsToSpawn>Assentamentos para gerar (recomendados são {0}): {1}</VanillaFactionsExpanded.FactionSettlementsToSpawn>
+            <VanillaFactionsExpanded.FactionMinDistance>A distância mínima das bases do jogador (as recomendadas são {0}): {1}</VanillaFactionsExpanded.FactionMinDistance>
+            <VanillaFactionsExpanded.FactionButtonSpawn>Gerar</VanillaFactionsExpanded.FactionButtonSpawn>
+            <VanillaFactionsExpanded.FactionButtonCancel>Cancelar</VanillaFactionsExpanded.FactionButtonCancel>
+            <VSE.Reinforcements>Assentamentos</VSE.Reinforcements>
+            <VSE.ReinforcementsDesc>Vendo que suas forças sofreram perdas, {FACTION_name} decidiu reforçar sua força de ataque</VSE.ReinforcementsDesc>
+            <VSE.CostGoodwill>custo: {0} de boa vontade</VSE.CostGoodwill>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- Aspirations -->
+            <VSIE.WorkFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de trabalhar.</VSIE.WorkFrenzyBeginLetterContinue>
+            <VSIE.GoFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de se juntar a uma caravana e se aventurar pelo mundo.</VSIE.GoFrenzyBeginLetterContinue>
+            <VSIE.ShootingFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de caçar alguns animais.</VSIE.ShootingFrenzyBeginLetterContinue>
+            <VSIE.InspiredTradeBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de realizar uma troca.</VSIE.InspiredTradeBeginLetterContinue>
+            <VSIE.InspiredRecruitmentBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de recrutar um prisioneiro.</VSIE.InspiredRecruitmentBeginLetterContinue>
+            <VSIE.InspiredTamingBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de domar um animal.</VSIE.InspiredTamingBeginLetterContinue>
+            <VSIE.InspiredSurgeryBeginLetterContinue>\n\n {PAWN_pronoun} gostaria de realizar uma cirurgia.</VSIE.InspiredSurgeryBeginLetterContinue>
+            <VSIE.InspiredCreativityBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de criar uma obra-prima ou um item lendário.</VSIE.InspiredCreativityBeginLetterContinue>
+
+        <!-- Trait Change -->
+            <VSIE.TraitChangeTitle>{PAWN_nameDef} obteve o traço {0}</VSIE.TraitChangeTitle>
+            <VSIE.TraitChangePrisonerRecruited>Quando {PAWN_nameDef} foi recrutado, descobriu-se que {PAWN_pronoun} tem o traço {0}.\n\n{1}</VSIE.TraitChangePrisonerRecruited>
+            <VSIE.TraitChangePawnResurrected>Quando {PAWN_nameDef} morreu e foi trazido de volta à vida, observou-se que agora {PAWN_pronoun} têm o traço {0}.\n\n{1}</VSIE.TraitChangePawnResurrected>
+            <VSIE.TraitChangePawnHasCatatonicBreakdown>Quando {PAWN_nameDef} sucumbiu ao colapso mental catatônico, {PAWN_pronoun} desenvolveu o traço {0}.n\n\{1}</VSIE.TraitChangePawnHasCatatonicBreakdown>
+            <VSIE.TraitChangeFamilyMemberDied>Quando o membro da família de {PAWN_nameDef} morreu, {PAWN_pronoun} desenvolveu o traço {0}.\n\n{1}</VSIE.TraitChangeFamilyMemberDied>
+            <VSIE.CatarhisAfterMentalBreak>A ruptura mental extrema de {PAWN_nameDef} causou uma mudança permanente em seu caráter, {PAWN_pronoun} desenvolveu o traço {0}.\n\n{1}</VSIE.CatarhisAfterMentalBreak>
+            <VSIE.RecoveredAfterDeadlyDisease>O tempo que {PAWN_nameDef} passou lutando contra uma doença mortal foi tempo suficiente para uma autorreflexão, {PAWN_pronoun} desenvolveu o traço {0}.\n\n{1}</VSIE.RecoveredAfterDeadlyDisease>
+            <VSIE.BirthdayEvent>{PAWN_nameDef} refletiu sobre si mesmo em seu aniversário, o que resultou no desenvolvimento do traço {0}.\n\n{1}</VSIE.BirthdayEvent>
+            <VSIE.BestowingCeremony>Possivelmente, o maior momento na vida de {PAWN_nameDef}, a cerimônia de concessão permitiu que {PAWN_pronoun} desenvolvesse o traço {0}.\n\n{1}</VSIE.BestowingCeremony>
+            <VSIE.ToughtRaidEvent>Após os eventos recentes e o ataque difícil que a colônia enfrentou, {PAWN_nameDef} refletiu sobre si mesmo e desenvolveu o traço {0}.\n\n{1}</VSIE.ToughtRaidEvent>
+
+        <!-- Social -->
+            <VSIE.Discord>Uma luta social em grupo começou.</VSIE.Discord>
+            <VSIE.OneNightStandTitle>encontro casual</VSIE.OneNightStandTitle>
+            <VSIE.OneNightStandText>{INITIATOR_nameDef} se envolveu em um caso de uma noite com {PARTNER_nameDef}. Embora ambos os colonos recebam todos os benefícios do amor regular, eles não são um casal.</VSIE.OneNightStandText>
+
+        <!-- Configuration -->
+            <VSIE.EnableMemories>Habilitar memórias</VSIE.EnableMemories>
+            <VSIE.EnableAspirations>Habilitar aspirações</VSIE.EnableAspirations>
+            <VSIE.EnableObtainingNewTraits>Habilitar obtenção de novos traços</VSIE.EnableObtainingNewTraits>
+            <VSIE.EnableVenting>Habilitar desabafos</VSIE.EnableVenting>
+            <VSIE.EnableBestFriend>Habilitar melhores amigos</VSIE.EnableBestFriend>
+            <VSIE.EnableTeaching>Habilitar ensino</VSIE.EnableTeaching>
+            <VSIE.EnableManyHandsMakeLightWork>Habilitar quanto mais melhor</VSIE.EnableManyHandsMakeLightWork>
+            <VSIE.EnableDiscord>Habilitar discórdia</VSIE.EnableDiscord>
+            <VSIE.EnableGroupActivities>Habilitar atividades em grupo</VSIE.EnableGroupActivities>
+            <VSIE.EnableDating>Habilitar encontros</VSIE.EnableDating>
+            <VSIE.EnableUnitedWeStand>Habilitar unidos nós sobreviveremos</VSIE.EnableUnitedWeStand>
+            <VSIE.EnableSocialEnvironmentThoughts>Habilitar ambientes hostis</VSIE.EnableSocialEnvironmentThoughts>
+            <VSIE.EnableOneNightStand>Habilitar encontros casuais</VSIE.EnableOneNightStand>
+        
+    <!-- Vanilla Traits Expanded -->
+        <!-- Perfectionist -->
+            <VTE.HasDestroyedItem>{PAWN_nameDef} destruiu o item {PAWN_pronon} recém-fabricado devido ao item não ser de qualidade suficiente</VTE.HasDestroyedItem>
+            <VTE.DecisesInterruptCurrentCostructionJob>{PAWN_nameDef} desistiu de {0} por enquanto por ser um perfeccionista</VTE.DecisesInterruptCurrentCostructionJob>
+
+        <!-- Clumsy -->
+            <VTE.GotBruise>{PAWN_nameDef} se machucou por ser desajeitado</VTE.GotBruise>
+
+        <!-- Heavy Sleeper -->
+            <VTE.CantBeWokenUpHeavySleeper>{PAWN_nameDef} está em um sono muito bom para ser alistado.</VTE.CantBeWokenUpHeavySleeper>
+
+        <!-- Wanderlust -->
+            <VTE.CavaranSpeedIsDoubledWanderlusts>Os colonos com sede de viagem irão a locais estrangeiros em uma velocidade maior</VTE.CavaranSpeedIsDoubledWanderlusts>
+
+        <!-- Kleptomaniac -->
+            <VTE.KleptomaniacStealsItemFrom>{PAWN_nameDef} roubou uma posse que não pertence à sua facção, isso pode prejudicar as relações entre as facções afiliadas</VTE.KleptomaniacStealsItemFrom>
+            <VTE.KleptomaniacFailedToStealItemFrom>{PAWN_nameDef} foi pego tentando roubar as posses de outra facção, isso pode prejudicar as relações entre as facções afiliadas</VTE.KleptomaniacFailedToStealItemFrom>
+            <VTE.PawnStoleItem>{PAWN_nameDef} roubou {0} de {VICTIM_nameDef}</VTE.PawnStoleItem>
+            <VTE.PawnFailedToStealItem>{PAWN_nameDef} não conseguiu roubar {0} de {VICTIM_nameDef}. Isso irritou a facção {VICTIM_nameDef}</VTE.PawnFailedToStealItem>
+
+        <!-- Big-Boned -->
+            <VTE.PawnBreaksChairs>{PAWN_nameDef} danificou {0} devido ao seu peso ou postura estranha</VTE.PawnBreaksChairs>
+
+        <!-- Coward -->
+            <VTE.PawnCowardlyFlees>{PAWN_nameDef} fugiu do combate por ser covarde</VTE.PawnCowardlyFlees>
+            <VTE.PawnCowardlyExitMapHostile>{PAWN_nameDef} fugiu do combate por ser covarde</VTE.PawnCowardlyExitMapHostile>
+            <VTE.PawnCowardlyExitMapAlly>{PAWN_nameDef} fugiu do combate por ser covarde</VTE.PawnCowardlyExitMapAlly>
+            <VTE.PawnCowardlyExitMapNeutral>{PAWN_nameDef} fugiu do combate por ser covarde</VTE.PawnCowardlyExitMapNeutral>
+
+        <!-- Absent-Minded -->
+            <VTE.PawnStopsForcedJob>{PAWN_nameDef} esqueceu de suas ordens e parou de trabalhar por enquanto</VTE.PawnStopsForcedJob>
+
+        <!-- Martial Artista -->
+            <VTE.VictimDropsEquipmentMartialArtist>{PAWN_nameDef} desarmou {VICTIM_nameDef} em combate corpo a corpo</VTE.VictimDropsEquipmentMartialArtist>
+
+    <!-- Vanilla Weapons Expanded - Laser -->
+        <!-- Weapon Warm-up -->
+            <VWEL_ToggleHotshotLabel>Aquecimento</VWEL_ToggleHotshotLabel>
+            <VWEL_ToggleHotshotDesc>Os tiros disparados aquecem a arma, permitindo maior velocidade de disparo. Superaquecimento pode levar à explosão da bateria.</VWEL_ToggleHotshotDesc>
+
+</LanguageData>

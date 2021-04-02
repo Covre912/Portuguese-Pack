@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Weapons Expanded - Laser -->
+        <!-- Laser Sword -->
+            <VWEL_LaserSword.label>espada laser</VWEL_LaserSword.label>
+            <VWEL_LaserSword.description>Um dispositivo ultratecnológico que consiste em uma alça e uma lâmina de laser extensível. Uma arma de cavalheiros.</VWEL_LaserSword.description>
+            <VWEL_LaserSword.tools.0.label>cabo</VWEL_LaserSword.tools.0.label>
+            <VWEL_LaserSword.tools.1.label>ponta</VWEL_LaserSword.tools.1.label>
+            <VWEL_LaserSword.tools.2.label>lâmina</VWEL_LaserSword.tools.2.label>
+
+</LanguageData>

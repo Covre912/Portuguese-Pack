@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Weapons Expanded -->
+        <!-- Toxin Gas -->
+            <Gas_OPToxin.label>Gás Tóxico</Gas_OPToxin.label>
+
+        <!-- Toxic Gas -->
+            <VWE_ToxicGasCloud.label>gás tóxico</VWE_ToxicGasCloud.label>
+
+        <!-- Smoke Cloud -->
+            <VWE_SmokeCloud.label>cortina de fumaça</VWE_SmokeCloud.label>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- Dating -->
+            <VSIE_MealTogether.label>jantar romântico</VSIE_MealTogether.label>
+            <VSIE_MovieNight.label>noite do filme</VSIE_MovieNight.label>
+            <VSIE_BuildingSnowmen.label>construção de bonecos de neve</VSIE_BuildingSnowmen.label>
+            <VSIE_ViewingArtTogether.label>apreciação de arte</VSIE_ViewingArtTogether.label>
+            <VSIE_Skygazing.label>observando o céu</VSIE_Skygazing.label>
+            <VSIE_GoingForAWalk.label>caminhada a dois</VSIE_GoingForAWalk.label>
+
+        <!-- Group Activities -->
+            <VSIE_GrabbingBeer.label>happy hour</VSIE_GrabbingBeer.label>
+            <VSIE_Funeral.label>funeral</VSIE_Funeral.label>
+            <VSIE_OutdoorParty.label>festa ao ar livre</VSIE_OutdoorParty.label>
+            <VSIE_BingeParty.label>festa frenética</VSIE_BingeParty.label>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Weapons Expanded - Laser -->
+        <!-- Salvage Laser Weapons -->
+            <Salvage_LaserWeapon.label>recuperar arma laser</Salvage_LaserWeapon.label>
+            <Salvage_LaserWeapon.description>Recupere uma arma laser aleatória de componentes avançados.</Salvage_LaserWeapon.description>
+            <Salvage_LaserWeapon.jobString>Recuperando arma laser.</Salvage_LaserWeapon.jobString>
+
+</LanguageData>

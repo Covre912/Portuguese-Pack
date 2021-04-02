@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageInfo>
+
+    <friendlyNameNative>Portugûes (Brasileiro)</friendlyNameNative>
+    <friendlyNameEnglish>Portuguese (Brazilian)</friendlyNameEnglish>
+    <canBeTiny>true</canBeTiny>
+    <credits>
+        <li Class="CreditRecord_Role">
+            <roleKey>Credit_Translator</roleKey>
+            <creditee>Kitsune</creditee>
+        </li>
+    </credits>
+
+</LanguageInfo>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Achievements Expanded -->
+        <!-- First Blood -->
+            <firstBlood.label>First Blood</firstBlood.label>
+            <firstBlood.description>Mate outro humano</firstBlood.description>
+
+        <!-- Bloodlust -->
+            <bloodlust.label>Sede de Sangue</bloodlust.label>
+            <bloodlust.description>Mate 100 humanos no total</bloodlust.description>
+
+        <!-- Blood For The Blood God -->
+            <bloodForTheBloodGod.label>Sangue pelo Deus do Sangue</bloodForTheBloodGod.label>
+            <bloodForTheBloodGod.description>Mate 1000 humanos no total</bloodForTheBloodGod.description>
+
+        <!-- Big Game Hunter -->
+            <bigGameHunter.label>Caçador de Grandes Presas</bigGameHunter.label>
+            <bigGameHunter.description>Cace e mate 20 Thrumbos</bigGameHunter.description>
+
+        <!-- Exterminator -->
+            <exterminator.label>Exterminador</exterminator.label>
+            <exterminator.description>Mate 150 insectóides</exterminator.description>
+
+        <!-- Dragon Slayer -->
+            <dragonSlayer.label>Caçador de Dragões</dragonSlayer.label>
+            <dragonSlayer.description>Mate 50 iguanas</dragonSlayer.description>
+
+        <!-- Australian Revenge -->
+            <australianRevenge.label>Vingança Australiana</australianRevenge.label>
+            <australianRevenge.description>Mate 30 Emas</australianRevenge.description>
+
+</LanguageData>

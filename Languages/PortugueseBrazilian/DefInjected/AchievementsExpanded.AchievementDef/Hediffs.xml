@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Achievements Expanded -->
+        <!-- T-800 -->
+            <T-800.label>T-800</T-800.label>
+            <T-800.description>Possua um único colono com pernas, braços, coluna, orelhas e olhos biônicos</T-800.description>
+
+        <!-- I'm a Pirate! -->
+            <imAPirate.label>Eu Sou um Pirata!</imAPirate.label>
+            <imAPirate.description>Instale uma perna de pau em um colono</imAPirate.description>
+
+        <!-- On Edge -->
+            <onEdge.label>No Limite</onEdge.label>
+            <onEdge.description>Ganhe imunidade quando a infecção estiver em 99%</onEdge.description>
+
+        <!-- That'll Show Him -->
+            <thatllShowHim.label>Isso Irá Lhe Mostrar</thatllShowHim.label>
+            <thatllShowHim.description>Mate um colono de fome</thatllShowHim.description>
+
+        <!-- 50 Shadows of Grey-->
+
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- Repair Machine -->
+            <VFE_Mechanoids_RepairMachine.reportString>reconstruindo máquina.</VFE_Mechanoids_RepairMachine.reportString>
+
+        <!-- Attaching Turret -->
+            <VFE_Mechanoids_AttachTurret.reportString>anexando torre.</VFE_Mechanoids_AttachTurret.reportString>
+
+        <!-- Recharge -->
+            <VFE_Mechanoids_Recharge.reportString>recarregando.<VFE_Mechanoids_Recharge.reportString>
+
+</LanguageData>

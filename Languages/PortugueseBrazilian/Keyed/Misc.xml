@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- Weapon Requires Powered Armor -->
+            <VWE.CannotEquipHeavy>Arma requer armação de exoesqueleto</VWE.CannotEquipHeavy>
+
+</LanguageData>

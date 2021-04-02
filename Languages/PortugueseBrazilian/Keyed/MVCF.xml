@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- Toggle -->
+            <MVCF.Toggle>Alternar {0}</MVCF.Toggle>
+            <MVCF.ToggleUsing>Alternar usando {0} automaticamente</MVCF.ToggleUsing>
+            <MVCF.ToggleAuto>Alternar uso automático</MVCF.ToggleAuto>
+
+</LanguageData>

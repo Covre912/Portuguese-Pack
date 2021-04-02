@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- Teaching -->
+            <VSIE_Teaching.label>ensino</VSIE_Teaching.label>
+            <VSIE_Teaching.logRulesInitiator.rulesStrings>
+                <li>r_logentry-&gt;</li>
+            </VSIE_Teaching.logRulesInitiator.rulesStrings>
+
+</LanguageData>

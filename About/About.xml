@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>Kit's Portuguese Pack</name>
+	<author>Kitsune</author>
+	<supportedVersions><li>1.2</li></supportedVersions>
+	<packageId>KIT.PortuguesePack</packageId>
+    <loadAfter>
+		<li>Ludeon.RimWorld</li>
+	</loadAfter>
+	<description>
+
+This mod aims to add portuguese translation to some mods :)
+
+Supported Mods:
+- Vanilla Achievements Expanded
+- Vanilla Expanded Framework
+- Vanilla Social Interactions Expanded
+- Vanilla Storytellers Expanded - Empress Evil
+- Vanilla Storytellers Expanded - Freya Fierce
+- Vanilla Storytellers Expanded - Igor Invader
+- Vanilla Storytellers Expanded - Perry Persistent
+- Vanilla Traits Expanded
+- Vanilla Weapons Expanded
+- Vanilla Weapons Expanded - Coilguns
+- Vanilla Weapons Expanded - Grenades
+- Vanilla Weapons Expanded - Heavy Weapons
+- Vanilla Weapons Expanded - Laser
+- Vanilla Weapons Expanded - Makeshift
+- Vanilla Weapons Expanded - Quickdraw
+
+	</description>
+</ModMetaData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- Auto Drill -->
+            <VFE_ChunkToMine>Perfurar por {0}</VFE_ChunkToMine>
+            <VFE_ChunkRandomMine>Perfurar por Pedaços de Pedra Aleatórios</VFE_ChunkRandomMine>
+            <VFE_ChooseMine>Escolha o tipo de pedra para perfurar</VFE_ChooseMine>
+            <VFE_ChooseMineDesc>Escolha o tipo de pedra para perfurar. Você pode escolher qualquer um dos tipos de rocha do mapa ou um tipo aleatório</VFE_ChooseMineDesc>
+            <VFE_RandomRock>Pedaço de pedra aleatório</VFE_RandomRock>
+
+        <!-- Output -->
+            <VFE_PleaseSelectOutput>Selecione o produto da máquina</VFE_PleaseSelectOutput>
+
+        <!-- Needs Water -->
+            <VFE_NeedsWater>Esta estrutura deve ser colocada na água</VFE_NeedsWater>
+
+</LanguageData>

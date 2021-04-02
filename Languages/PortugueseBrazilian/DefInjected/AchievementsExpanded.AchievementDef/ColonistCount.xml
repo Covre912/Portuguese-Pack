@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Achievements Expanded -->
+        <!-- I Will Survive -->
+            <iWillSurvive.label>Eu Sobreviverei</iWillSurvive.label>
+            <iWillSurvive.description>Possua 7 colonos</iWillSurvive.description>
+
+        <!-- I'm Still Standing -->
+            <imStillStanding.label>Ainda Estou de Pé</imStillStanding.label>
+            <imStillStanding.description>Possua 12 colonos</imStillStanding.description>
+
+        <!-- I'm a Survivor -->
+            <imASurvivor.label>Eu Sou um Sobrevivente</imASurvivor.label>
+            <imASurvivor.description>Possua 18 colonos</imASurvivor.description>
+
+        <!-- Ain't no Stopping us Now -->
+            <aintNoStoppingUsNow.label>Não Há Como Nos Parar Agora</aintNoStoppingUsNow.label>
+            <aintNoStoppingUsNow.description>Possua 33 colonos</aintNoStoppingUsNow.description>
+
+</LanguageData>

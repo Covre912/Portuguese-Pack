@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- Assexual -->
+            <VEF_AsexualHatched>{0} reproduziu-se assexuadamente.</VEF_AsexualHatched>
+            <VEF_AsexualCloning>{0} clonou-se.</VEF_AsexualCloning>
+            <VEF_AsexualHatchedEgg>{0} esporulou.</VEF_AsexualHatchedEgg>
+
+        <!-- Not Tameable -->
+            <VEF_NotTameable>Esta criatura é indomável</VEF_NotTameable>
+        
+        <!-- Time To Metamorphosis -->
+            <VEF_TimeToMetamorphosis>Tempo para metamorfose: {0}</VEF_TimeToMetamorphosis>
+
+        <!-- Warning Egg Explodes -->
+            <VEF_WarningEggExplodes>Atenção, este ovo explode ao chocar!</VEF_WarningEggExplodes>
+
+</LanguageData>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Achievements Expanded -->
+        <!-- Sticks and Stones -->
+            <sticksAndStones.label>Paus e Pedras</sticksAndStones.label>
+            <sticksAndStones.description>Pesquise todas as tecnologias neolíticas</sticksAndStones.description>
+        
+        <!-- Out Of The Dark Ages -->
+            <outOfTheDarkAges.label>Fora da Idade das Trevas</outOfTheDarkAges.label>
+            <outOfTheDarkAges.description>Pesquise todas as tecnologias medievais</outOfTheDarkAges.description>
+
+        <!-- Industrial Revolution -->
+            <industrialRevolution.label>Revolução Industrial</industrialRevolution.label>
+            <industrialRevolution.description>Pesquise todas as tecnologias industriais</industrialRevolution.description>
+
+        <!-- Off To The Stars -->
+            <offToTheStars.label>Para as Estrelas</offToTheStars.label>
+            <offToTheStars.description>Pesquise todas as tecnoligias espaciais</offToTheStars.description>
+
+    <!-- Vanilla Weapons Expanded -->
+        <!-- Guns Gallore -->
+            <gunsGallore.label>Loja de Armas</gunsGallore.label>
+            <gunsGallore.description>Pesquise armas de fogo especializadas</gunsGallore.description>
+
+</LanguageData>

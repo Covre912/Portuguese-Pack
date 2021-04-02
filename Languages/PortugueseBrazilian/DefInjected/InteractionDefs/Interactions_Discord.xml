@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- Discord -->
+            <VSIE_Discord.label>discórdia</VSIE_Discord.label>
+            <VSIE_Discord.logRulesInitiator.rulesStrings>
+                <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [PersonalCharacteristic] de [target].</li>
+                <li>r_logentry->[INITIATOR_nameDef] comparou o(a) [target] com um(a) [insultcomparison].</li>
+                <li>r_logentry->[INITIATOR_nameDef] chamou [target] de um(a) [insultcomparison].</li>
+        
+                <li>target(p=4)->[RECIPIENT_nameDef]</li>
+                <li>target->[PersonFamily] de [RECIPIENT_nameDef]</li>
+
+                <li>insulted(p=3)->insultou</li>
+                <li>insulted->insultou abertamente</li>
+                <li>insulted->insultou em voz alta</li>
+                <li>insulted->insultou em flagrante</li>
+                <li>insulted->insultou diretamente</li>
+                <li>insulted->insultou viciosamente</li>
+                <li>insulted->desrespeitou em flagrante</li>
+                <li>insulted->caluniou</li>
+                <li>insulted->lançou injúria sobre</li>
+                <li>insulted->ridicularizou</li>
+
+                <li>insultcomparison(p=2)->[Animal]</li>
+                <li>insultcomparison->[Enemy]</li>
+            </VSIE_Discord.logRulesInitiator.rulesStrings>
+
+</LanguageData>

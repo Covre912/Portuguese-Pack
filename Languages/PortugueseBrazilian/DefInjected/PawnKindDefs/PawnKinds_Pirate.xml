@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Weapons Expanded - Laser -->
+        <!-- Mercenary Marine-->
+            <Mercenary_Marine.label>fuzileiro naval mercenário</Mercenary_Marine.label>
+            <Mercenary_Marine.labelPlural>fuzileiros navais mercenários</Mercenary_Marine.labelPlural>
+
+</LanguageData>

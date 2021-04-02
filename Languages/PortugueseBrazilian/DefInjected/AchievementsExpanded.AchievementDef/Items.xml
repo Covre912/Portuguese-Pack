@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Achievements Expanded -->
+        <!-- One Step Closer -->
+            <oneStepCloser.label>Um Passo Mais Perto</oneStepCloser.label>
+            <oneStepCloser.description>Obtenha um Núcleo de Personalidade IA</oneStepCloser.description>
+
+        <!-- Human Leather Hat -->
+            <humanLeatherHat.label>Chapéu de Cowboy de Pele Humana</humanLeatherHat.label>
+            <humanLeatherHat.description>Crie um chapéu de cowboy de pele humana</humanLeatherHat.description>
+
+        <!-- Midas -->
+            <midas.label>Midas</midas.label>
+            <midas.description>Possua 5000 ouros</midas.description>
+
+        <!-- 4/20 Smoke It -->
+
+        <!-- Silence of The Lambs -->
+            <silenceOfTheLambs.label>Silêncio dos Inocentes</silenceOfTheLambs.label>
+            <silenceOfTheLambs.description>Obtenha 100 carnes humana</silenceOfTheLambs.description>
+
+        <!-- The Stuff of Legends -->
+            <theStuffOfLegends.label>O Material das Lendas</theStuffOfLegends.label>
+            <theStuffOfLegends.description>Crie um item lendário</theStuffOfLegends.description>
+
+        <!-- Future Caveman -->
+            <futureCaveman.label>Homem das Cavernas do Futuro</futureCaveman.label>
+            <futureCaveman.description>Crie um porrete de plastiaço</futureCaveman.description>
+    
+    <!-- Vanilla Weapons Expanded -->
+        <!-- Napoleon BonaPARTY -->
+            <napoleonBonaparty.label>Napoleão BomNaPARTY</napoleonBonaparty.label>
+            <napoleonBonaparty.description>Crie 10 mosquetes</napoleonBonaparty.description>
+
+        <!-- Posh Rock Lobber -->
+            <poshRockLobber.label>Pedra Arremessável Elegante</poshRockLobber.label>
+            <poshRockLobber.description>Crie uma pedra arremessável de jade</poshRockLobber.description>
+
+        <!-- Burn Them All! -->
+            <burnThemAll.label>Queimem todos!</burnThemAll.label>
+            <burnThemAll.description>Crie um lança-chamas</burnThemAll.description>
+
+        <!-- Supercharged! -->
+            <superCharged.label>Sobrecarregado!</superCharged.label>
+            <superCharged.description>Crie uma minigun de carga lendária</superCharged.description>
+
+</LanguageData>

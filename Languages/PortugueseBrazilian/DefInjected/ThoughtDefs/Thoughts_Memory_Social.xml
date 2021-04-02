@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- Venting -->
+            <VSIE_SharingBurden.stages.0.label>desabafou</VSIE_SharingBurden.stages.0.label>
+            <VSIE_SharingBurden.stages.0.description>Foi bom finalmente desabafar com um amigo.</VSIE_SharingBurden.stages.0.description>
+            <VSIE_VentedOnMe.stages.0.label>meu amigo desabafou para mim</VSIE_VentedOnMe.stages.0.label>
+            <VSIE_VentedOnMe.stages.0.description>Meu amigo desvendou seus sentimentos para mim.</VSIE_VentedOnMe.stages.0.description>
+
+        <!-- Jealously -->
+            <VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.label>Ciúmes</VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.label>
+            <VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.description>Estou com inveja. Meu(inha) {0} saiu com outra pessoa!</VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.description>
+
+        <!-- Social Environment -->
+            <VSIE_SocialEnvironment.stages.0.label>Boa reputação</VSIE_SocialEnvironment.stages.0.label>
+            <VSIE_SocialEnvironment.stages.0.description>Eu sou querido e respeitado aqui. Essas pessoas precisam de mim.</VSIE_SocialEnvironment.stages.0.description>
+            <VSIE_SocialEnvironment.stages.1.label>Má reputação</VSIE_SocialEnvironment.stages.1.label>
+            <VSIE_SocialEnvironment.stages.1.description>Não estou me divertindo aqui. Ninguém parece me respeitar!</VSIE_SocialEnvironment.stages.1.description>
+
+        <!-- Best Friend -->
+            <VSIE_OpinionOfMyBestFriend.stages.0.label>opinião do(a) meu(inha) {0} {1}</VSIE_OpinionOfMyBestFriend.stages.0.label>
+            <VSIE_OpinionOfMyBestFriend.stages.0.description>Estar com meu melhor amigo me faz sentir assim.</VSIE_OpinionOfMyBestFriend.stages.0.description>
+
+</LanguageData>

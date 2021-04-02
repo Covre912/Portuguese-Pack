@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Weapons Expanded -->
+        <!-- Crossbow -->
+            <VWE_Bow_Crossbow.label>besta</VWE_Bow_Crossbow.label>
+            <VWE_Bow_Crossbow.description>A besta é uma arma de longo alcance em princípio semelhante a um arco, consistindo em um conjunto semelhante a um arco montado horizontalmente em uma estrutura principal, que é portátil.\n\nEsta arma da primitiva pode enviar uma flecha até mesmo através do material mais forte.</VWE_Bow_Crossbow.description>
+            <VWE_Bow_Crossbow.tools.0.label>besta</VWE_Bow_Crossbow.0.label>
+            <VWE_Arrow_Bolt.label>flecha de besta</VWE_Arrow_Bolt.label>
+
+        <!-- Musket -->
+            <VWE_Gun_Musket.label>mosquete</VWE_Gun_Musket.label>
+            <VWE_Gun_Musket.description>Um mosquete antigo. Como um dos pioneiros de seu tipo, tem curto alcance e baixa cadência de tiro.</VWE_Gun_Musket.description>
+            <VWE_Gun_Musket.tools.0.label>coronha</VWE_Gun_Musket.tools.0.label>
+            <VWE_Gun_Musket.tools.1.label>cano</VWE_Gun_Musket.tools.1.label>
+            <Bullet_Leadball.label>tiro de chumbo</Bullet_Leadball.label>
+
+        <!-- Flintlock -->
+            <VWE_Gun_Flintlock.label>pistola de pederneira</VWE_Gun_Flintlock.label>
+            <VWE_Gun_Flintlock.description>Esta pistola possui um cano liso e uma longa empunhadura de madeira que termina em uma maçaneta. Como o próprio nome sugere, essa pistola é operada por um mecanismo de pederneira</VWE_Gun_Flintlock.description>
+            <VWE_Gun_Flintlock.tools.0.label>coronha</VWE_Gun_Flintlock.tools.0.label>
+            <VWE_Gun_Flintlock.tools.1.label>cano</VWE_Gun_Flintlock.tools.1.label>
+
+        <!-- Throwing Knives -->
+            <VWE_Throwing_Knives.label>facas de arremesso</VWE_Throwing_Knives.label>
+            <VWE_Throwing_Knives.description>Um conjunto de facas bem equilibradas, perfeitas para o lançamento.</VWE_Throwing_Knives.description>
+            <VWE_Throwing_Knives.tools.0.label>cabo</VWE_Throwing_Knives.tools.0.label>
+            <VWE_Throwing_Knives.tools.1.label>lâmina</VWE_Throwing_Knives.tools.1.label>
+            <VWE_Throwing_Knives.tools.2.label>ponta</VWE_Throwing_Knives.tools.2.label>
+            <VWE_FlyingBlade.label>faca pequena</VWE_FlyingBlade.label>
+
+        <!-- Whip -->
+            <VWE_Tool_Whip.label>chicote</VWE_Tool_Whip.label>
+            <VWE_Tool_Whip.description>Uma ferramenta tradicional usada para bater em animais para treinar orientação e obediência.\n\nPode ser usado em pessoas.</VWE_Tool_Whip.description>
+            <VWE_Tool_Whip.tools.0.label>chicote<VWE_Tool_Whip.tools.0.label>
+            <VWE_WhipSlash.label>chicotada</VWE_WhipSlash.label>
+
+</LanguageData>

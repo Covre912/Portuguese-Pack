@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Achievements Expanded -->
+        <!-- A Happy Ending -->
+            <aHappyEnding.label>Um Final Feliz</aHappyEnding.label>
+            <aHappyEnding.description>Tenha 90% de humor médio em sua colônia</aHappyEnding.description>
+
+        <!-- Are You Not Entertained? -->
+            <areYouNotEntertained.label>Você Não Está Se Divertindo?</areYouNotEntertained.label>
+            <areYouNotEntertained.description>Tenha 5% de humor médio em sua colônia</areYouNotEntertained.description>
+
+</LanguageData>

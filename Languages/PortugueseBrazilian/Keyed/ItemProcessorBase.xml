@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- Insert -->
+            <IP_InsertFirstItemDesc>Inserir</IP_InsertFirstItemDesc>
+            <IP_InsertSecondItemDesc>Inserir</IP_InsertSecondItemDesc>
+            <IP_InsertThirdItemDesc>Inserir</IP_InsertThirdItemDesc>
+            <IP_InsertFourthItemDesc>Inserir</IP_InsertFourthItemDesc>
+            <IP_InsertVariable>Inserir {0}</IP_InsertVariable>
+            <IP_InsertVariableSecond>Inserir {0} no segundo espaço</IP_InsertVariableSecond>
+            <IP_InsertVariableThird>Inserir {0} no terceiro espaço</IP_InsertVariableThird>
+
+        <!-- Output -->
+            <IP_Output>Produto {0}</IP_Output>
+            <IP_OutputVariable>Produto {0} de {1}</IP_OutputVariable>
+            <IP_OutputDesc>O processador produzirá {0}. Precisa ser alimentado {1}</IP_OutputDesc>
+
+        <!-- Can't Find Thing -->
+            <IP_CantFindThing>Nenhum item desse tipo ({0}) encontrado neste mapa</IP_CantFindThing>
+
+        <!-- Bring -->
+            <IP_BringIngredients>Traga Ingredientes</IP_BringIngredients>
+            <IP_BringIngredientsDesc>Traga os Ingredientes para iniciar o processo</IP_BringIngredientsDesc>
+
+        <!-- Cancel -->
+            <IP_CancelIngredients>Cancelar Trazendo Ingredientes</IP_CancelIngredients>
+            <IP_CancelIngredientsDesc>Cancelar Trazendo Ingredientes para este processador</IP_CancelIngredientsDesc>
+
+        <!-- No Ingredient Found -->
+            <IP_NoIngredientFound>Nenhum ingrediente encontrado no mapa</IP_NoIngredientFound>
+
+        <!-- Choose -->
+            <IP_ChooseIngredient>Escolha o Ingrediente</IP_ChooseIngredient>
+            <IP_ChooseIngredientSecond>Escolha o Segundo Ingrediente</IP_ChooseIngredientSecond>
+            <IP_ChooseIngredientThird>Escolha o Terceiro Ingrediente</IP_ChooseIngredientThird>
+            <IP_ChooseIngredientFourth>Escolha o Quarto Ingrediente</IP_ChooseIngredientFourth>
+            <IP_ChooseOutput>Escolha o Produto</IP_ChooseOutput>
+
+        <!-- Ingredient Improperly Defined -->
+            <IP_IngredientImproperlyDefined>Um dos ingredientes foi definido incorretamente para funcionar com o processador do item, entre em contato com o autor do mod</IP_IngredientImproperlyDefined>
+
+        <!-- Destroys -->
+            <IP_NoPowerDestroysWarning>{0} precisa de energia para começar a funcionar</IP_NoPowerDestroysWarning>
+            <IP_NoFuelDestroysWarning>{0} precisa ser abastecido para começar a funcionar</IP_NoFuelDestroysWarning>
+            <IP_LightDestroysWarning>{0} precisa ter um nível de luz adequado para começar a funcionar</IP_LightDestroysWarning>
+            <IP_RainDestroysWarning>{0} precisa que não esteja chovendo para começar a funcionar</IP_RainDestroysWarning>
+            <IP_TemperatureDestroysWarning>{0} precisa de uma temperatura adequada ({1} - {2}) para começar a funcionar</IP_TemperatureDestroysWarning>
+            <IP_NoPowerDestroysInitialWarning>O produto está estragando devido a uma falha de energia no processador de itens</IP_NoPowerDestroysInitialWarning>
+            <IP_NoPowerDestroysMessage>O produto estragou devido a uma falha de energia no processador de itens</IP_NoPowerDestroysMessage>
+
+        <!-- Product Finished -->
+            <IP_GenericProductFinished>Um produto concluiu o processamento e está aguardando para ser retirado</IP_GenericProductFinished>
+
+        <!-- Empty / Filled -->
+            <IP_IsEmpty>{0} está vazio</IP_IsEmpty>
+            <IP_FilledWith>{0} está preenchido com {1}</IP_FilledWith>
+            <IP_FilledWithSecond>O segundo espaço de {0} está preenchido com {1}</IP_FilledWithSecond>
+            <IP_FilledWithThird>O teceiro espaço de {0} está preenchido com {1}</IP_FilledWithThird>
+            <IP_FilledWithFourth>O quarto espaço de {0} está preenchido com {1}</IP_FilledWithFourth>
+            <IP_IngredientPercentage> (preenchido em {0} de {1})</IP_IngredientPercentage>
+
+        <!-- Processor -->
+            <IP_ProcessorWorking>{0} está funcionando: </IP_ProcessorWorking>
+            <IP_ProcessorPaused>{0} está pausado: </IP_ProcessorPaused>
+            <IP_ProcessingInProgress>{0} está processando {1}. {2} estará pronto com {3} qualidade em {4}</IP_ProcessingInProgress>
+            <IP_ProcessingInProgressNoQuality>{0} está processando {1}. {2} estará pronto em {3}></IP_ProcessingInProgressNoQuality>
+
+        <!-- Remove Product -->
+            <IP_RemoveProduct>Remover {0} ({1})</IP_RemoveProduct>
+            <IP_RemoveProductDesc>Remova {0} de {1}. O produto estará pronto no nível de qualidade atual ({2})</IP_RemoveProductDesc>
+
+        <!-- Reset Semiautomatic -->
+            <IP_ResetSemiautomatic>Redefinir Receitas</IP_ResetSemiautomatic>
+            <IP_ResetSemiautomaticDesc>Isso redefinirá o processador depois que o produto atual for concluído, então um novo ingrediente de entrada pode ser escolhido</IP_ResetSemiautomaticDesc>
+
+        <!-- No Combination -->
+            <IP_NoCombination>Nenhuma combinação encontrada para esses ingredientes</IP_NoCombination>
+
+        <!-- Auto Quality -->
+            <IP_SetAutoQuality>Defina a qualidade para a extração do produto. Quando o produto atingir essa qualidade, um colono irá extraí-lo automaticamente e levá-lo para uma pilha de estoque, se disponível. Se não for definido, os produtos serão extraídos manualmente ou com qualidade lendária.</IP_SetAutoQuality>
+            <IP_ChooseQualityAuto>Escolha a Qualidade Automática</IP_ChooseQualityAuto>
+            <IP_QualityAutoIs>Qualidade Automática: {0}</IP_QualityAutoIs>
+            <IP_QualityAutoNot>Desativar Qualidade Automática</IP_QualityAutoNot>
+            <IP_QualityAutoEstablished>Qualidade Automática, o produto será extraído no nível de qualidade: {0}</IP_QualityAutoEstablished>
+
+        <!-- Auto Toggle -->
+            <IP_ToggleAuto>Aquisição de Ingredientes Automática</IP_ToggleAuto>
+            <IP_ToggleAutoDesc>Se definido como ativo, este processador irá automaticamente pegar os ingredientes de funis adjacentes e começará a funcionar automaticamente assim que o produto for removido. Caso contrário, os colonos transportarão os ingredientes para a estrutura, e ela precisará ser ativada manualmente após ser recarregada</IP_ToggleAutoDesc>
+            <IP_ResetFullAuto>Reinicializar a Máquina</IP_ResetFullAuto>
+            <IP_ResetFullAutoDesc>Reinicializa totalmente a máquina e a faz parar. Aviso, isso irá destruir o processo e os itens de entrada</IP_ResetFullAutoDesc>
+
+        <!-- Product Waiting -->
+            <IP_ProductWaiting>Esperando pela retirada</IP_ProductWaiting>
+
+        <!-- Light -->
+            <IP_OutsideLightRange>O processo neste processador está sendo interrompido devido a um nível inadequado de luz e estragará em breve</IP_OutsideLightRange>
+            <IP_SpoiledDueToLight>O produto neste processador estragou devido a um nível inadequado de luz</IP_SpoiledDueToLight>
+
+        <!-- Rain -->
+            <IP_ItRains>O processo neste processador está sendo interrompido devido ao clima e estragará em breve</IP_ItRains>
+            <IP_SpoiledDueToRain>O produto neste processador estragou devido ao clima</IP_SpoiledDueToRain>
+
+        <!-- Temperature -->
+            <IP_WrongTemp>O processo neste processador está sendo interrompido devido a uma temperatura inadequada e estragará em breve</IP_WrongTemp>
+            <IP_SpoiledDueToWrongTemp>O produto neste processador estragou devido a uma temperatura inadequada</IP_SpoiledDueToWrongTemp>
+            <IP_TempRangeInThisMachine>. Este fermentador precisa de uma temperatura entre {0} e {1} ºC</IP_TempRangeInThisMachine>
+
+        <!-- Pause -->
+            <IP_TogglePause>Pausar / Reiniciar</IP_TogglePause>
+            <IP_TogglePauseDesc>Pausar / Reiniciar o processamento desta máquina</IP_TogglePauseDesc>
+
+        <!-- Over Threshold -->
+            <IP_OverThreshold> Esperando que a saída fique vazia. O limite de saída é {0}</IP_OverThreshold>
+
+        <!-- No Recipes Here -->
+            <IP_NoRecipesHere>Nenhuma receita encontrada para esta fábrica</IP_NoRecipesHere>
+            
+</LanguageData>

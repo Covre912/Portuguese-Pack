@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Achievements Expanded -->
+        <!-- Sharpshooter -->
+            <sharpshooter.label>Atirador Preciso</sharpshooter.label>
+            <sharpshooter.description>Faça com que um colono alcance o nível 20 em atirar</sharpshooter.description>
+
+        <!-- Mr. President -->
+            <mrPresident.label>Sr. Presidente</mrPresident.label>
+            <mrPresident.description>Faça com que um colono alcance o nível 20 em socializar</mrPresident.description>
+
+        <!-- Conan The Barbarian -->
+            <conanTheBarbarian.label>Conan O Bárbaro</conanTheBarbarian.label>
+            <conanTheBarbarian.description>Faça com que um colono alcance o nível 20 em corpo a corpo</conanTheBarbarian.description>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Storytellers Expanded - Perry Persistent -->
+        <!-- Man In The Coat -->    
+            <VSE_ManInTheCoat.label>homem de casaco</VSE_ManInTheCoat.label>
+            <VSE_ManInTheCoat.labelMale>homem de casaco</VSE_ManInTheCoat.labelMale>
+            <VSE_ManInTheCoat.labelFemale>mulher de casaco</VSE_ManInTheCoat.labelFemale>
+            <VSE_ManInTheCoat.labelPlural>homens de casaco</VSE_ManInTheCoat.labelPlural>
+
+</LanguageData>

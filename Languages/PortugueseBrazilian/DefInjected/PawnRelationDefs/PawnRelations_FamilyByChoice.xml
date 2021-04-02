@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- Best Friend -->
+            <VSIE_BestFriend.label>melhor amigo</VSIE_BestFriend.label>
+            <VSIE_BestFriend.labelFemale>melhor amiga</VSIE_BestFriend.labelFemale> 
+
+</LanguageData>

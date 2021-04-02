@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- Xenophobic Rage -->
+            <VEF_XenophobicRage.label>raiva xenofóbica</VEF_XenophobicRage.label>
+            <VEF_XenophobicRage.recoveryMessage>{0} não está mais em raiva xenofóbica.</VEF_XenophobicRage.recoveryMessage>
+            <VEF_XenophobicRage.beginLetter>{0} entrou em raiva xenofóbica.\n\n[PAWN_pronoun] decidiu matar {1}.</VEF_XenophobicRage.beginLetter>
+            <VEF_XenophobicRage.baseInspectLine>Estado mental: Raiva xenofóbica</VEF_XenophobicRage.baseInspectLine>
+
+    <!-- Vanilla Traits Expanded -->
+        <!-- Technophobe Tantrum -->
+            <VTE_TechnophobeTantrum.label>raiva tecnofóbica</VTE_TechnophobeTantrum.label>
+            <VTE_TechnophobeTantrum.recoveryMessage>{0} não está mais em uma raiva tecnofóbica.</VTE_TechnophobeTantrum.recoveryMessage>
+            <VTE_TechnophobeTantrum.beginLetter>{0} entrou em raiva tecnofóbica.\n\n[PAWN_pronoun] vai descontar sua raiva na tecnologia.</VTE_TechnophobeTantrum.beginLetter>
+            <VTE_TechnophobeTantrum.baseInspectLine>Estado mental: Raiva tecnofóbica</VTE_TechnophobeTantrum.baseInspectLine>
+
+        <!-- Panic Freezing -->
+            <VTE_PanicFreezing.label>crise de pânico</VTE_PanicFreezing.label>
+            <VTE_PanicFreezing.recoveryMessage>{0} não está mais em uma crise de pânico.</VTE_PanicFreezing.recoveryMessage>
+            <VTE_PanicFreezing.beginLetterLabel>crise de pânico</VTE_PanicFreezing.beginLetterLabel>
+            <VTE_PanicFreezing.beginLetter>{0} está tendo uma crise de pânico.</VTE_PanicFreezing.beginLetter>
+            <VTE_PanicFreezing.baseInspectLine>Estado mental: Crise de pânico</VTE_PanicFreezing.baseInspectLine>
+
+        <!-- Kleptomaniac -->
+            <VTE_Kleptomaniac.label>cleptomaníaco</VTE_Kleptomaniac.label>
+            <VTE_Kleptomaniac.recoveryMessage>{0} não está mais roubando itens de visitantes.</VTE_Kleptomaniac.recoveryMessage>
+            <VTE_Kleptomaniac.beginLetterLabel>Cleptomaníaco</VTE_Kleptomaniac.beginLetterLabel>
+            <VTE_Kleptomaniac.beginLetter>{0} está roubando itens de visitantes.</VTE_Kleptomaniac.beginLetter>
+            <VTE_Kleptomaniac.baseInspectLine>Estado mental: Cleptomaníaco</VTE_Kleptomaniac.baseInspectLine>
+
+</LanguageData>

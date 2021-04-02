@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- Teaching Utility -->
+            <VSIE_TeachingUtility.rulePack.rulesFiles>
+		        <li>ShootingTopic->Words/TeachingWords/ShootingSkill</li>
+	        	<li>AnimalsTopic->Words/TeachingWords/AnimalsSkill</li>
+	        	<li>ArtTopic->Words/TeachingWords/ArtSkill</li>
+	        	<li>ConstructionTopic->Words/TeachingWords/ConstructionSkill</li>
+	        	<li>CookingTopic->Words/TeachingWords/CookingSkill</li>
+	        	<li>CraftingTopic->Words/TeachingWords/CraftingSkill</li>
+	        	<li>GrowingTopic->Words/TeachingWords/GrowingSkill</li>
+	        	<li>IntellectualTopic->Words/TeachingWords/IntellectualSkill</li>
+	        	<li>MedicalTopic->Words/TeachingWords/MedicalSkill</li>
+	        	<li>MeleeTopic->Words/TeachingWords/MeleeSkill</li>
+	        	<li>MiningTopic->Words/TeachingWords/MiningSkill</li>
+	        	<li>SocialTopic->Words/TeachingWords/SocialSkill</li>
+            </VSIE_TeachingUtility.rulePack.rulesFiles>
+
+</LanguageData>

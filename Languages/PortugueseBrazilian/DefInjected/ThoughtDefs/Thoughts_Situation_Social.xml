@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- Bonded Pet Butchered -->
+            <VSIE_BondedPetButcheredOpinion.stages.0.label>{BUTCHER_nameDef} massacrou meu animal de estimação vinculado {VICTIM_nameDef}, eu nunca vou lhe perdoar</VSIE_BondedPetButcheredOpinion.stages.0.label>
+            
+        <!-- Friend Exposed Corpse -->
+            <VSIE_ExposedCorpseOfMyFriendOpinion.stages.0.label>{OTHERPAWN_nameDef} desenterrou e expôs o cadáver de meu {0} {VICTIM_nameDef}, o(a) desprezarei por isso</VSIE_ExposedCorpseOfMyFriendOpinion.stages.0.label>
+
+        <!-- Ingested Human Flesh -->
+            <VSIE_IngestedHumanFlesh.stages.0.label>{OTHERPAWN_nameDef} comeu carne humana, sempre terei medo dele(a)</VSIE_IngestedHumanFlesh.stages.0.label>
+
+        <!-- Binged -->
+            <VSIE_BingedFood.stages.0.label>{OTHERPAWN_nameDef} se empanturrou de comida. Que desperdício</VSIE_BingedFood.stages.0.label>
+            <VSIE_BingedDrug.stages.0.label>{OTHERPAWN_nameDef} se empanturrou de drogas. Eu não preciso de um(a) drogado(a) na minha vida</VSIE_BingedDrug.stages.0.label>
+
+        <!-- Mental Breaks -->
+            <VSIE_HideInRoom.stages.0.label>{OTHERPAWN_nameDef} estava escondendo-se em seu quarto. Esquisito(a)</VSIE_HideInRoom.stages.0.label>
+            <VSIE_WanderedInSaddness.stages.0.label>{OTHERPAWN_nameDef} vagou com a tristeza. Tenho pena de dele(a)</VSIE_WanderedInSaddness.stages.0.label>
+            <VSIE_WentIntoSadisticRage.stages.0.label>{OTHERPAWN_nameDef} entrou em fúria sádica. Absolutamente repugnante</VSIE_WentIntoSadisticRage.stages.0.label>
+            <VSIE_ThrewTantrum.stages.0.label>{OTHERPAWN_nameDef} fez birra. {OTHERPAWN_pronoun} precisa aprender um pouco sobre autocontrole</VSIE_ThrewTantrum.stages.0.label>
+            <VSIE_WentBerserk.stages.0.label>{OTHERPAWN_nameDef} enlouqueceu. Nunca me sinto seguro(a) perto dele(a)</VSIE_WentBerserk.stages.0.label>
+            <VSIE_WentOnFireStartingSpree.stages.0.label>{OTHERPAWN_nameDef} começou uma queimada. Estava tão perto de tudo o que conhecemos fôsse transformado em cinzas. Como posso perdoar isso?</VSIE_WentOnFireStartingSpree.stages.0.label>
+            <VSIE_WentOnMurderousRage.stages.0.label>{OTHERPAWN_nameDef} teve uma fúria assassina. E se eu for o próximo alvo?</VSIE_WentOnMurderousRage.stages.0.label>
+            <VSIE_RanWild.stages.0.label>{OTHERPAWN_nameDef} se tornou selvagem. Esquisito(a)</VSIE_RanWild.stages.0.label>
+            <VSIE_SlaughteredAnimalInRage.stages.0.label>{OTHERPAWN_nameDef} massacrou nosso animal em uma fúria cega. Eu o(a) desprezo</VSIE_SlaughteredAnimalInRage.stages.0.label>
+            <VSIE_InducedPrisonerToEscape.stages.0.label>{OTHERPAWN_nameDef} libertou nossos prisioneiros. Poderia ter terminado muito mal!</VSIE_InducedPrisonerToEscape.stages.0.label>
+
+        <!-- Taming -->
+            <VSIE_TamedThrumbo.stages.0.label>{OTHERPAWN_nameDef} domesticou um thrumbo. Que façanha lendária!</VSIE_TamedThrumbo.stages.0.label>
+            <VSIE_TamedMe.stages.0.label>{OTHERPAWN_nameDef} me domesticou, sempre ficarei feliz com as maravilhas que {OTHERPAWN_pronoun} me mostrou</VSIE_TamedMe.stages.0.label>
+
+        <!-- Past -->
+            <VSIE_WasPreviouslyOurEnemy.stages.0.label>{OTHERPAWN_nameDef} era anteriormente nosso inimigo. Não confio nele(a)</VSIE_WasPreviouslyOurEnemy.stages.0.label>
+            <VSIE_WasBadlyInjured.stages.0.label>{OTHERPAWN_nameDef} ficou gravemente ferido(a) em batalha. Admiro sua coragem</VSIE_WasBadlyInjured.stages.0.label>
+
+        <!-- Dating -->
+            <VSIE_DidNotAttendWedding.stages.0.label>{OTHERPAWN_nameDef} não compareceu à nossa cerimônia de casamento! Era tão difícil vir e passar um tempo comigo naquele dia?</VSIE_DidNotAttendWedding.stages.0.label>
+            <VSIE_AttendedMyWedding.stages.0.label>{OTHERPAWN_nameDef} compareceu ao meu casamento</VSIE_AttendedMyWedding.stages.0.label>
+            <VSIE_RebuffedMe.stages.0.label>{OTHERPAWN_nameDef} me rejeitou. Achei {OTHERPAWN_pronoun} era especial</VSIE_RebuffedMe.stages.0.label>
+            <VSIE_BrokeUpWithMe.stages.0.label>{OTHERPAWN_nameDef} terminou comigo. Será que irei encontrar outra pessoa?</VSIE_BrokeUpWithMe.stages.0.label>
+            <VSIE_StoleMyLover.stages.0.label>{SECONDPAWN_nameDef} roubou meu(inha) {0} {THIRDPAWN_nameDef} de mim. O que torna {SECONDPAWN_pronoun} tão melhor?</VSIE_StoleMyLover.stages.0.label>
+            <VSIE_GotSomeLovin.stages.0.label>recebeu um pouco de amor</VSIE_GotSomeLovin.stages.0.label>
+            <VSIE_GotSomeLovin.stages.0.description>Nada como uma brincadeira entre os lençóis para melhorar o clima.</VSIE_GotSomeLovin.stages.0.description>
+
+        <!-- Medicine -->
+            <VSIE_RemovedPrisonersOrgans.stages.0.label>{OTHERPAWN_nameDef} removeu os órgãos de um prisioneiro! Como pode uma pessoa ser capaz de tais coisas?</VSIE_RemovedPrisonersOrgans.stages.0.label>
+            <VSIE_FailedMedicalOperationAndKilled.stages.0.label>{OTHERPAWN_nameDef} falhou em uma operação médica e matou um de nós</VSIE_FailedMedicalOperationAndKilled.stages.0.label>
+            <VSIE_SavedMeFromMyWounds.stages.0.label>{OTHERPAWN_nameDef} salvou-me das minhas feridas. Sempre estarei em dívida com {OTHERPAWN_pronoun}</VSIE_SavedMeFromMyWounds.stages.0.label>
+            <VSIE_CuredMyFriend.stages.0.label>{SECONDPAWN_nameDef} curou meu(inha) {0} {THIRDPAWN_nameDef}, sempre serei grato(a) a {SECONDPAWN_pronoun}</VSIE_CuredMyFriend.stages.0.label>
+            <VSIE_SavedMeFromRaiders.stages.0.label>{SECONDPAWN_nameDef} me salvou de {THIRDPAWN_kindDef}, sempre estarei em dívida com {SECONDPAWN_pronoun}</VSIE_SavedMeFromRaiders.stages.0.label>
+
+        <!-- Arrested Me -->
+            <VSIE_ArrestedMe.stages.0.label>{OTHERPAWN_nameDef} me prendeu</VSIE_ArrestedMe.stages.0.label>
+
+        <!-- Resurrected Me -->
+            <VSIE_ResurrectedMe.stages.0.label>{OTHERPAWN_nameDef} me ressuscitou</VSIE_ResurrectedMe.stages.0.label>
+
+        <!-- Nice Chat -->
+            <VSIE_WeHadNiceChat.stages.0.label>{OTHERPAWN_nameDef} e eu tivemos uma boa conversa. Parece que podemos falar sobre qualquer coisa</VSIE_WeHadNiceChat.stages.0.label>
+
+        <!-- Social Fight -->
+            <VSIE_InsultedMe.stages.0.label>{OTHERPAWN_nameDef} me insultou. Palavras cortam mais fundo do que punhais</VSIE_InsultedMe.stages.0.label>
+            <VSIE_WeHadSocialFight.stages.0.label>{OTHERPAWN_nameDef} e eu tivemos uma briga social</VSIE_WeHadSocialFight.stages.0.label>
+
+        <!-- Friend Since Childhood -->
+            <VSIE_HasBeenMyFriendSinceChildhood.stages.0.label>{OTHERPAWN_nameDef} é meu(inha) amigo(a) desde a infância, temos tanto em comum que ninguém consegue nos separar</VSIE_HasBeenMyFriendSinceChildhood.stages.0.label>
+
+        <!-- Royalty -->
+            <VSIE_IsRoyalty.stages.0.label>{OTHERPAWN_nameDef} é uma realeza. Estou impressionado(a)</VSIE_IsRoyalty.stages.0.label>
+
+</LanguageData>

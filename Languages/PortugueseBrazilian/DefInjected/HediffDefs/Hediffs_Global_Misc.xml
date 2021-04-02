@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- Acid Buildup -->
+            <VEF_AcidBuildup.label>ácido</VEF_AcidBuildup.label>
+            <VEF_AcidBuildup.description>Um respingo de ácido que continua a causar queimaduras por algum tempo após o ataque inicial.</VEF_AcidBuildup.description>
+            <VEF_AcidBuildup.stages.0.label>menor, recebendo queimaduras</VEF_AcidBuildup.stages.0.label>
+            <VEF_AcidBuildup.stages.1.label>moderado, recebendo queimaduras</VEF_AcidBuildup.stages.1.label>
+            <VEF_AcidBuildup.stages.2.label>sério, recebendo queimaduras</VEF_AcidBuildup.stages.2.label>
+
+        <!-- Acid Burn -->
+            <VEF_AcidBurn.label>ácido</VEF_AcidBurn.label>
+            <VEF_AcidBurn.labelNoun>ácido</VEF_AcidBurn.labelNoun>
+            <VEF_AcidBurn.description>Ácido.</VEF_AcidBurn.description>
+            <VEF_AcidBurn.injuryProps.destroyedLabel>Corroído</VEF_AcidBurn.injuryProps.destroyedLabel>
+            <VEF_AcidBurn.injuryProps.destroyedOutLabel>Corroído</VEF_AcidBurn.injuryProps.destroyedOutLabel>
+
+    <!-- Vanilla Traits Expanded -->
+        <!-- Rebelling -->
+            <VTE_SlowWorkSpeed.label>Rebelando</VTE_SlowWorkSpeed.label>
+            <VTE_SlowWorkSpeed.labelNoun>Rebelação</VTE_SlowWorkSpeed.labelNoun>
+            <VTE_SlowWorkSpeed.description>Seja por mau humor ou por problemas mentais, rebelar-se significa que qualquer trabalho forçado é recebido com comentários e olhares maliciosos, e menos levado a sério.</VTE_SlowWorkSpeed.description>
+
+        <!-- Imsonia -->
+            <VTE_RestSlowFallFactor.label>Insônia</VTE_RestSlowFallFactor.label>
+            <VTE_RestSlowFallFactor.labelNoun>Insônia</VTE_RestSlowFallFactor.labelNoun>
+            <VTE_RestSlowFallFactor.description>Agitação física ou mental pronunciada causa insônia, insônia significa que a pessoa muitas vezes pode se sentir lenta ou exausta e dificilmente conseguirá dormir.</VTE_RestSlowFallFactor.description>
+
+        <!-- Hyper-Coagulant -->
+            <VTE_SlowerBleedingRate.label>hiper-coagulante</VTE_SlowerBleedingRate.label>
+            <VTE_SlowerBleedingRate.labelNoun>hipercoagulação</VTE_SlowerBleedingRate.labelNoun>
+            <VTE_SlowerBleedingRate.description>Uma contagem mais alta de glóbulos vermelhos significa que ocorre hipercoagulação, fazendo com que as feridas sangrem muito menos profusamente.</VTE_SlowerBleedingRate.description>
+
+        <!-- Hemophilic -->
+            <VTE_HigherBleedingRate.label>hemofílico</VTE_HigherBleedingRate.label>
+            <VTE_HigherBleedingRate.labelNoun>hemofilia</VTE_HigherBleedingRate.labelNoun>
+            <VTE_HigherBleedingRate.description>A hemofilia é a incapacidade de o sangue coagular adequadamente, fazendo com que as feridas sangrem muito mais profusamente.</VTE_HigherBleedingRate.description>
+
+</LanguageData>

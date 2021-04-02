@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Weapons Expanded -->
+        <!-- Throwable Rocks -->
+            <VWE_Throwing_Rocks.label>pedras arremessáveis</VWE_Throwing_Rocks.label>
+            <VWE_Throwing_Rocks.description>Um punhado de pedras. Pode causar ferimentos leves à queima-roupa. Não leva à morte. Simples mas efetivo.</VWE_Throwing_Rocks.description>
+            <VWE_Throwing_Rocks.tools.0.label>pedra</VWE_Throwing_Rocks.tools.0.label>
+            <VWE_Rock.label>pedra pequena</VWE_Rock.label>
+
+        <!-- Long Bow -->
+            <VWE_Bow_Long.label>arco longo</VWE_Bow_Long.label>
+            <VWE_Bow_Long.description>O arco longo é uma arma neolítica maciça de longo alcance, capaz de disparar uma flecha poderosa em distâncias extremamente longas.\n\nAs flechas disparadas deste arco voam por cima de obstáculos, evitando ser interrompidas.</VWE_Bow_Long.description>
+            <VWE_Bow_Long.tools.0.label>arco</VWE_Bow_Long.tools.0.label>
+            <VWE_Arrow_Long.label>flecha de arco longo</VWE_Arrow_Long.label>
+
+</LanguageData>

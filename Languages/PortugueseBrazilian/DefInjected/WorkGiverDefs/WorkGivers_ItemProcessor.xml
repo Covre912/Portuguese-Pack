@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- Insert First Ingredient -->
+            <IP_InsertFirstIngredient.label>trazer ingrediente</IP_InsertFirstIngredient.label>
+            <IP_InsertFirstIngredient.verb>trazer ingrediente para</IP_InsertFirstIngredient.verb>
+            <IP_InsertFirstIngredient.gerund>trazendo ingrediente para</IP_InsertFirstIngredient.gerund>
+
+        <!-- Insert Second Ingredient -->
+            <IP_InsertSecondIngredient.label>trazer ingrediente</IP_InsertSecondIngredient.label>
+            <IP_InsertSecondIngredient.verb>trazer ingrediente para</IP_InsertSecondIngredient.verb>
+            <IP_InsertSecondIngredient.gerund>trazendo ingrediente para</IP_InsertSecondIngredient.gerund>
+
+        <!-- Insert Third Ingredient -->
+            <IP_InsertThirdIngredient.label>trazer ingrediente</IP_InsertThirdIngredient.label>
+            <IP_InsertThirdIngredient.verb>trazer ingrediente para</IP_InsertThirdIngredient.verb>
+            <IP_InsertThirdIngredient.gerund>trazendo ingrediente para</IP_InsertThirdIngredient.gerund>
+
+        <!-- Remove Product -->
+            <IP_RemoveProduct.label>remover o produto finalizado</IP_RemoveProduct.label>
+            <IP_RemoveProduct.verb>remover o produto finalizado de</IP_RemoveProduct.verb>
+            <IP_RemoveProduct.gerund>removendo o produto finalizado de</IP_RemoveProduct.gerund>
+
+</LanguageData>

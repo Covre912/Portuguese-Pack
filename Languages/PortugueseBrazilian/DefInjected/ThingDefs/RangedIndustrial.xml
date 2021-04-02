@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Weapons Expanded -->
+        <!-- Smoke Grenades -->
+            <VWE_SmokeGrenade.label>granadas de fumaça</VWE_SmokeGrenade.label>
+            <VWE_SmokeGrenade.description>Latas de fumaça condensada tradicionais que explodem em uma cortina de fumaça no impact.</VWE_SmokeGrenade.description>
+            <VWE_SmokeGrenade.verbs.0.label>lançar granada de fumaça</VWE_SmokeGrenade.verbs.0.label>
+            <VWE_Projectile_SmokeGrenade.label>granada de fumaça</VWE_Projectile_SmokeGrenade.label>
+
+        <!-- Toxic Grenades -->
+            <VWE_ToxicGrenade.label>granadas tóxicas</VWE_ToxicGrenade.label>
+            <VWE_ToxicGrenade.description>Recipientes de gás letal, causam forte acúmulo tóxico em um período muito curto de tempo.</VWE_ToxicGrenade.description>
+            <VWE_ToxicGrenade.verbs.0.label>lançar granada tóxica</VWE_ToxicGrenade.verbs.0.label>
+            <VWE_Projectile_ToxicGrenade.label>granada tóxica</VWE_Projectile_ToxicGrenade.label>
+
+        <!-- Flash Grenades -->
+            <VWE_FlashGrenade.label>granadas atordoantes</VWE_FlashGrenade.label>
+            <VWE_FlashGrenade.description>Um granadas atordoante. Estonteia temporariamente inimigos orgânicos, permitindo que os usuários se aproximem.</VWE_FlashGrenade.description>
+            <VWE_FlashGrenade.verbs.0.label>lançar granada atordoante</VWE_FlashGrenade.verbs.0.label>
+            <VWE_Projectile_FlashGrenade.label>granada atordoante</VWE_Projectile_FlashGrenade.label>
+
+        <!-- Compound Bow -->
+            <VWE_Bow_Compound.label>arco composto</VWE_Bow_Compound.label>
+            <VWE_Bow_Compound.description>Um arco moderno que usa um sistema de alavancas para disparar uma flecha em longas distâncias.\n\nDevido ao mecanismo de silenciamento, este arco não emite nenhum som considerável ao disparar, o que o torna útil na caça.</VWE_Bow_Compound.description>
+            <VWE_Bow_Compound.tools.0.label>arco</VWE_Bow_Compound.tools.0.label>
+            <VWE_Arrow_Compound.label>flecha de arco composto </VWE_Arrow_Compound.label>
+
+        <!-- Hand Cannon -->
+            <VWE_Gun_HandCannon.label>canhão de mão</VWE_Gun_HandCannon.label>
+            <VWE_Gun_HandCannon.description>Um revólver de disparo lento que dispara projéteis de grande calibre a longas distâncias.</VWE_Gun_HandCannon.description>
+            <VWE_Gun_HandCannon.tools.0.label>coronha</VWE_Gun_HandCannon.tools.0.label>
+            <VWE_Gun_HandCannon.tools.1.label>cano</VWE_Gun_HandCannon.tools.1.label>
+            <VWE_Bullet_HandCannon.label>tiro de canhão de mão</VWE_Bullet_HandCannon.label>
+
+        <!-- Combat Handgun -->
+            <VWE_CombatHandgun.label>pistola de combate</VWE_CombatHandgun.label>
+            <VWE_CombatHandgun.description>Uma pistola semiautomática para defesa pessoal. O avançado sistema de contra-recuo permite que esta arma seja disparada significativamente mais rápido do que uma pistola padrão.</VWE_CombatHandgun.description>
+            <VWE_CombatHandgun.tools.0.label>coronha</VWE_CombatHandgun.tools.0.label>
+            <VWE_CombatHandgun.tools.1.label>cano</VWE_CombatHandgun.tools.1.label>
+            <VWE_Bullet_CombatHandgun.label>tiro de pistola de combate</VWE_Bullet_CombatHandgun.label>
+
+        <!-- Sawed-off Shotgun -->
+            <VWE_SawedOffShotgun.label>espingarda de cano serrado</VWE_SawedOffShotgun.label>
+            <VWE_SawedOffShotgun.description>Uma espingarda curta de cano duplo. Embora não tenha o mesmo alcance de uma espingarda padrão, esta arma dispara dois canos em sucessões rápidas.</VWE_SawedOffShotgun.description>
+            <VWE_SawedOffShotgun.tools.0.label>coronha</VWE_SawedOffShotgun.tools.0.label>
+            <VWE_SawedOffShotgun.tools.1.label>cano</VWE_SawedOffShotgun.tools.1.label>
+            <VWE_Bullet_SawedOffShotgun.label>tiro de espingarda</VWE_Bullet_SawedOffShotgun.label>
+
+        <!-- Grenade Launcher -->
+            <VWE_Gun_GrenadeLauncher.label>lançador de granadas</VWE_Gun_GrenadeLauncher.label>
+            <VWE_Gun_GrenadeLauncher.description>Um lançador de granadas militar destinado ao uso anti-infantaria.</VWE_Gun_GrenadeLauncher.description>
+            <VWE_Gun_GrenadeLauncher.tools.0.label>coronha</VWE_Gun_GrenadeLauncher.tools.0.label>
+            <VWE_Gun_GrenadeLauncher.tools.1.label>cano</VWE_Gun_GrenadeLauncher.tools.1.label>
+            <VWE_Bullet_GrenadeLauncher.label>granada de fragmentação</VWE_Bullet_GrenadeLauncher.label>
+
+        <!-- Flamethrower -->
+            <VWE_Gun_Flamethrower.label>lança-chamas</VWE_Gun_Flamethrower.label>
+            <VWE_Gun_Flamethrower.description>Um dispositivo mecânico incendiário projetado para liberar um fluxo controlável de combustível químico em chamas.</VWE_Gun_Flamethrower.description>
+            <VWE_Gun_Flamethrower.tools.0.label>coronha</VWE_Gun_Flamethrower.tools.0.label>
+            <VWE_Gun_Flamethrower.tools.1.label>cano</VWE_Gun_Flamethrower.tools.1.label>
+            <VWE_Bullet_Flamethrower.label>combustível de lança chamas</VWE_Bullet_Flamethrower.label>
+
+        <!-- Fire Extinguisher -->
+            <VWE_Gun_FireExtinguisher.label>extintor de incêndio</VWE_Gun_FireExtinguisher.label>
+            <VWE_Gun_FireExtinguisher.description>Preenchido com um supressor de chamas multiuso, este item pode ser usado para extinguir qualquer tipo de incêndio encontrado no campo.</VWE_Gun_FireExtinguisher.description>
+            <VWE_Gun_FireExtinguisher.tools.0.label>tanque</VWE_Gun_FireExtinguisher.tools.0.label>
+            <VWE_Bullet_FireExtinguisher.label>supressor de chamas</VWE_Bullet_FireExtinguisher.label>
+
+        <!-- Semi-Automatic Rifle -->
+            <VWE_Gun_SemiAutomaticRifle.label>rifle semi-automático</VWE_Gun_SemiAutomaticRifle.label>
+            <VWE_Gun_SemiAutomaticRifle.description>Modelo semiautomático de um rifle de repetição padrão. Embora não seja tão preciso e poderoso quanto o antecessor, ele compensa com uma velocidade de disparo rápida.</VWE_Gun_SemiAutomaticRifle.description>
+            <VWE_Gun_SemiAutomaticRifle.tools.0.label>coronha</VWE_Gun_SemiAutomaticRifle.tools.0.label>
+            <VWE_Gun_SemiAutomaticRifle.tools.1.label>cano</VWE_Gun_SemiAutomaticRifle.tools.1.label>
+            <VWE_Bullet_SemiAutomaticRifle.label>tiro de rifle semi-automático</VWE_Bullet_SemiAutomaticRifle.label>
+
+        <!-- Lever-Action Rifle -->
+            <VWE_Gun_LeverActionRifle.label>rifle de alavanca</VWE_Gun_LeverActionRifle.label>
+            <VWE_Gun_LeverActionRifle.description>Um rifle que usa uma alavanca localizada ao redor da área do gatilho para carregar cartuchos novos. Embora não seja tão poderoso quanto outros rifles, esta arma permite uma recarga rápida.\n\nUsada amplamente em todo o mundo ocidental pela capacidade de ser disparada com uma só mão.</VWE_Gun_LeverActionRifle.description>
+            <VWE_Gun_LeverActionRifle.tools.0.label>coronha</VWE_Gun_LeverActionRifle.tools.0.label>
+            <VWE_Gun_LeverActionRifle.tools.1.label>cano</VWE_Gun_LeverActionRifle.tools.1.label>
+            <VWE_Bullet_LeverActionRifle.label>tiro de rifle de alavanca</VWE_Bullet_LeverActionRifle.label>
+
+        <!-- Light SMG -->
+            <VWE_Gun_LightSMG.label>SMG leve</VWE_Gun_LightSMG.label>
+            <VWE_Gun_LightSMG.description>Uma submetralhadora leve aberta com resfriamento aprimorado, permitindo rajadas mais longas antes que a arma precise ser resfriada.</VWE_Gun_LightSMG.description>
+            <VWE_Gun_LightSMG.tools.0.label>coronha</VWE_Gun_LightSMG.tools.0.label>
+            <VWE_Gun_LightSMG.tools.1.label>cano</VWE_Gun_LightSMG.tools.1.label>
+            <VWE_Bullet_LightSMG.label>tiro de SMG leve</VWE_Bullet_LightSMG.label>
+
+        <!-- SMG -->
+            <VWE_Gun_SMG.label>SMG</VWE_Gun_SMG.label>
+            <VWE_Gun_SMG.description>Uma submetralhadora compacta. Embora não tenha um longo alcance, causa danos significativos de perto.</VWE_Gun_SMG.description>
+            <VWE_Gun_SMG.tools.0.label>coronha</VWE_Gun_SMG.tools.0.label>
+            <VWE_Gun_SMG.tools.1.label>cano</VWE_Gun_SMG.tools.1.label>
+            <VWE_Bullet_SMG.label>tiro de SMG</VWE_Bullet_SMG.label>
+
+        <!-- HMG -->
+            <VWE_Gun_HMG.label>metralhadora pesada</VWE_Gun_HMG.label>
+            <VWE_Gun_HMG.description>Um tipo de metralhadora refrigerada a água. É pesada e difícil de manejar, mas causa uma quantidade enorme de danos graças à munição perfurante. A munição garante uma rajada contínua de balas, desde que a pessoa que as atira seja forte o suficiente para segurar a arma.</VWE_Gun_HMG.description>
+            <VWE_Gun_HMG.tools.0.label>coronha</VWE_Gun_HMG.tools.0.label>
+            <VWE_Gun_HMG.tools.1.label>cano</VWE_Gun_HMG.tools.1.label>
+            <VWE_Bullet_HMG.label>tiro de metralhadora pesada</VWE_Bullet_HMG.label>
+
+        <!-- Service Rifle -->
+            <VWE_Gun_ServiceRifle.label>rifle de serviço</VWE_Gun_ServiceRifle.label>
+            <VWE_Gun_ServiceRifle.description>Um rifle de assalto versátil e robusto amplamente usado em toda a galáxia por forças da milícia e mercenários.\n\nNão é tão poderoso quanto um rifle de assalto, mas oferece quatro disparos em rajada.</VWE_Gun_ServiceRifle.description>
+            <VWE_Gun_ServiceRifle.tools.0.label>coronha</VWE_Gun_ServiceRifle.tools.0.label>
+            <VWE_Gun_ServiceRifle.tools.1.label>cano</VWE_Gun_ServiceRifle.tools.1.label>
+            <VWE_Bullet_ServiceRifle.label>tiro de rifle de assalto</VWE_Bullet_ServiceRifle.label>
+
+        <!-- Battle Rifle -->
+            <VWE_Gun_BattleRifle.label>rifle de batalha</VWE_Gun_BattleRifle.label>
+            <VWE_Gun_BattleRifle.description>Um rifle semiautomático comumente usado por forças especiais devido ao seu alcance e precisão.\n\nAlcance e dano ligeiramente maior do que um rifle de assalto, mas só dispara duas rajadas de tiro.</VWE_Gun_BattleRifle.description>
+            <VWE_Gun_BattleRifle.tools.0.label>coronha</VWE_Gun_BattleRifle.tools.0.label>
+            <VWE_Gun_BattleRifle.tools.1.label>cano</VWE_Gun_BattleRifle.tools.1.label>
+            <VWE_Bullet_BattleRifle.label>tiro de rifle de assalto</VWE_Bullet_BattleRifle.label>
+
+        <!-- Carbine -->
+            <VWE_Gun_Carbine.label>carabina</VWE_Gun_Carbine.label>
+            <VWE_Gun_Carbine.description>Uma carabina curta bullpup, usada frequentemente em combates urbanos de curta distância.\n\nEmbora seja precisa a curta distância, devido à coronha curta, ela é incapaz de disparar com precisão ao alcance de um rifle.</VWE_Gun_Carbine.description>
+            <VWE_Gun_Carbine.tools.0.label>coronha</VWE_Gun_Carbine.tools.0.label>
+            <VWE_Gun_Carbine.tools.1.label>cano</VWE_Gun_Carbine.tools.1.label>
+            <VWE_Bullet_Carbine.label>tiro de carabina</VWE_Bullet_Carbine.label>
+
+        <!-- Marksman Rifle -->
+            <VWE_Gun_MarksmanRifle.label>rifle de atirador</VWE_Gun_MarksmanRifle.label>
+            <VWE_Gun_MarksmanRifle.description>Um rifle de atirador designado.\n\nEmbora compartilhe semelhanças com um rifle de repetição padrão, compensa seu dano pelo dispararo de dois tiros em rápida sucessão.</VWE_Gun_MarksmanRifle.description>
+            <VWE_Gun_MarksmanRifle.tools.0.label>coronha</VWE_Gun_MarksmanRifle.tools.0.label>
+            <VWE_Gun_MarksmanRifle.tools.1.label>cano</VWE_Gun_MarksmanRifle.tools.1.label>
+            <Bullet_MarksmanRifle.label>tiro de rifle de atirador</Bullet_MarksmanRifle.label>
+
+        <!-- Anti-Material Rifle -->
+            <VWE_Gun_AntiMaterialRifle.label>rifle anti-material</VWE_Gun_AntiMaterialRifle.label>
+            <VWE_Gun_AntiMaterialRifle.description>Por ser um rifle de calibre .50, esta arma foi projetada para lutar contra o inimigos resistentes.\n\nUsada amplamente ao redor do mundo em zonas de guerra mecanóide, esta arma também é útil contra infantaria, permitindo a morte com 1 tiro.</VWE_Gun_AntiMaterialRifle.description>
+            <VWE_Gun_AntiMaterialRifle.tools.0.label>coronha</VWE_Gun_AntiMaterialRifle.tools.0.label>
+            <VWE_Gun_AntiMaterialRifle.tools.1.label>cano</VWE_Gun_AntiMaterialRifle.tools.1.label>
+            <Bullet_AntiMaterialRifle.label>tiro de rifle anti-material</Bullet_AntiMaterialRifle.label>
+
+    <!-- Vanilla Weapons Expanded - Heavy Weapons -->
+        <!-- Autocannon -->
+            <VWE_Gun_Autocannon.label>canhão automático</VWE_Gun_Autocannon.label>
+            <VWE_Gun_Autocannon.description>Um canhão automático de grande calibre. Seus projéteis de grande calibre causam grandes danos em faixas significativas. É lento e não pode atirar em alvos próximos.\n\nSendo uma arma extremamente pesada, esta requer uma armação de exoesqueleto para ser usada com eficiência.\n\nEsta arma tem um número limitado de usos.</VWE_Gun_Autocannon.description>
+            <VWE_Gun_Autocannon.tools.0.label>coronha</VWE_Gun_Autocannon.tools.0.label>
+            <VWE_Gun_Autocannon.tools.1.label>cano</VWE_Gun_Autocannon.tools.1.label>
+
+        <!-- Handheld Mortar -->
+            <VWE_Gun_HandheldMortar.label>morteiro portátil</VWE_Gun_HandheldMortar.label>
+            <VWE_Gun_HandheldMortar.description>Lançador de morteiro. Lança bombas por cima de paredes. É muito impreciso, mas tem longo alcance. É lento e não pode atirar em alvos próximos.\n\nSendo uma arma extremamente pesada, esta requer uma armação de exoesqueleto para ser usada com eficiência.\n\nEsta arma tem um número limitado de usos.</VWE_Gun_HandheldMortar.description>
+            <VWE_Gun_HandheldMortar.tools.0.label>coronha</VWE_Gun_HandheldMortar.tools.0.label>
+            <VWE_Gun_HandheldMortar.tools.1.label>cano</VWE_Gun_HandheldMortar.tools.1.label>
+
+        <!-- Heavy Flamer -->
+            <VWE_Gun_HeavyFlamer.label>lança-chamas pesado</VWE_Gun_HeavyFlamer.label>
+            <VWE_Gun_HeavyFlamer.description>Um poderoso lança-chamas militar baseado em torretas infernais mecanóides. Ele pode cobrir toda a área à frente do usuário em chamas.\n\nSendo uma arma extremamente pesada, esta requer uma armação de exoesqueleto para ser usada com eficiência.\n\nEsta arma tem um número limitado de usos.</VWE_Gun_HeavyFlamer.description>
+            <VWE_Gun_HeavyFlamer.tools.0.label>coronha</VWE_Gun_HeavyFlamer.tools.0.label>
+            <VWE_Gun_HeavyFlamer.tools.1.label>cano</VWE_Gun_HeavyFlamer.tools.1.label>
+            <VWE_Bullet_HeavyFlamer.label>tiro de lança-chamas pesado</VWE_Bullet_HeavyFlamer.label>
+
+        <!-- Swarm Missile Launcher -->
+            <VWE_Gun_SwarmMissileLauncher.label>lançador de mísseis</VWE_Gun_SwarmMissileLauncher.label>
+            <VWE_Gun_SwarmMissileLauncher.description>Um lançador de mísseis que dispara oito projéteis explosivos de pequeno calibre que rastreiam diferentes alvos.\n\nSendo uma arma extremamente pesada, esta requer uma armação de exoesqueleto para ser usada com eficiência.\n\nEsta arma tem um número limitado de usos.</VWE_Gun_SwarmMissileLauncher.description>
+            <VWE_Gun_SwarmMissileLauncher.tools.0.label>coronha</VWE_Gun_SwarmMissileLauncher.tools.0.label>
+            <VWE_Gun_SwarmMissileLauncher.tools.1.label>cano</VWE_Gun_SwarmMissileLauncher.tools.1.label>
+            <VWE_Bullet_SwarmRocket.label>míssel de enxame</VWE_Bullet_SwarmRocket.label>
+
+        <!-- Uranium Slug Rifle -->
+            <VWE_Gun_UraniumSlugRifle.label>rifle com bala de urânio</VWE_Gun_UraniumSlugRifle.label>
+            <VWE_Gun_UraniumSlugRifle.description>Um canhão automático com bala de urânio. Seus projéteis de urânio ultra-densos podem perfurar armaduras pesadas. É mais precisas a longas distâncias, e não pode disparar de perto.\n\nSendo uma arma extremamente pesada, esta requer uma armação de exoesqueleto para ser usada com eficiência.\n\nEsta arma tem um número limitado de usos.</VWE_Gun_UraniumSlugRifle.description>
+            <VWE_Gun_UraniumSlugRifle.tools.0.label>coronha</VWE_Gun_UraniumSlugRifle.tools.0.label>
+            <VWE_Gun_UraniumSlugRifle.tools.1.label>cano</VWE_Gun_UraniumSlugRifle.tools.1.label>
+
+    <!-- Vanilla Weapons Expanded - Makeshift -->
+        <!-- Makeshift Pistol-->
+            <VWE_Gun_MakeshiftPistol.label>pistola improvisada</VWE_Gun_MakeshiftPistol.label>
+            <VWE_Gun_MakeshiftPistol.description>Uma pistola improvisada, rústica, semi-automática, de design antigo e operada a gás. Carece de potência e alcance e está sujeita a emperramento.</VWE_Gun_MakeshiftPistol.description>
+            <VWE_Gun_MakeshiftPistol.tools.0.label>coronha</VWE_Gun_MakeshiftPistol.tools.0.label>
+            <VWE_Gun_MakeshiftPistol.tools.1.label>cano</VWE_Gun_MakeshiftPistol.tools.1.label>
+            <VWE_Bullet_MakeshiftPistol.label>tiro de pistola improvisada</VWE_Bullet_MakeshiftPistol.label>
+        
+        <!-- Makeshift SMG -->
+            <VWE_Gun_MakeshiftSMG.label>SMG improvisada</VWE_Gun_MakeshiftSMG.label>
+            <VWE_Gun_MakeshiftSMG.description>Uma pequena submetralhadora caseira. Tem curto alcance e está muito sujeita a emperramento devido ao design rústico e aos elementos defeituosos. Sua cadência de tiro tende a compensar suas fraquezas.</VWE_Gun_MakeshiftSMG.description>
+            <VWE_Gun_MakeshiftSMG.tools.0.label>coronha</VWE_Gun_MakeshiftSMG.tools.0.label>
+            <VWE_Gun_MakeshiftSMG.tools.1.label>cano</VWE_Gun_MakeshiftSMG.tools.1.label>
+            <VWE_Bullet_MakeshiftSMG.label>tiro de SMG improvisada</VWE_Bullet_MakeshiftSMG.label>
+
+        <!-- Makeshift Rifle -->
+            <VWE_Gun_MakeshiftRifle.label>rifle improvisado</VWE_Gun_MakeshiftRifle.label>
+            <VWE_Gun_MakeshiftRifle.description>Um rifle de assalto improvisado de uso geral operado a gás, utilizando vários componentes recuperados montados em um receptor de rifle de milícia. Tem bom alcance, potência decente e boa precisão, más está sujeito a emperramento.</VWE_Gun_MakeshiftRifle.description>
+            <VWE_Gun_MakeshiftRifle.tools.0.label>coronha</VWE_Gun_MakeshiftRifle.tools.0.label>
+            <VWE_Gun_MakeshiftRifle.tools.1.label>cano</VWE_Gun_MakeshiftRifle.tools.1.label>
+            <VWE_Bullet_MakeshiftRifle.label>tiro de rifle improvisado</VWE_Bullet_MakeshiftRifle.label>
+
+        <!-- Makeshift Shotgun -->
+            <VWE_Gun_MakeshiftShotgun.label>espingarda improvisada</VWE_Gun_MakeshiftShotgun.label>
+            <VWE_Gun_MakeshiftShotgun.description>Uma espingarda improvisada poderosa que emite uma grande rajada. Mortal, mas de curto alcance. Devido a inúmeras falhas no projeto, a quantidade de tiros disparados varia tiro a tiro.</VWE_Gun_MakeshiftShotgun.description>
+            <VWE_Gun_MakeshiftShotgun.tools.0.label>coronha</VWE_Gun_MakeshiftShotgun.tools.0.label>
+            <VWE_Gun_MakeshiftShotgun.tools.1.label>cano</VWE_Gun_MakeshiftShotgun.tools.1.label>
+            <VWE_Bullet_MakeshiftShotgun.label>tiro de espingarda improvisada</VWE_Bullet_MakeshiftShotgun.label>
+
+        <!-- Makeshift LMG -->
+            <VWE_Gun_MakeshiftLMG.label>LMG improvisada</VWE_Gun_MakeshiftLMG.label>
+            <VWE_Gun_MakeshiftLMG.description>Uma metralhadora leve improvisada operada a gás. Pesada e imprecisa, também muito propensa a emperramento. Suas longas rajadas de fogo são eficazes contra grupos de inimigos, mas a quantidade de tiros é completamente aleatória.</VWE_Gun_MakeshiftLMG.description>
+            <VWE_Gun_MakeshiftLMG.tools.0.label>coronha</VWE_Gun_MakeshiftLMG.tools.0.label>
+            <VWE_Gun_MakeshiftLMG.tools.1.label>cano</VWE_Gun_MakeshiftLMG.tools.1.label>
+            <VWE_Bullet_MakeshiftLMG.label>tiro de LMG improvisada</VWE_Bullet_MakeshiftLMG.label>
+
+    <!-- Vanilla Weapons Expanded - Quickdraw -->
+        <!-- Automatic Pistol-->
+            <VWE_Gun_AutomaticPistol.label>pistola automática</VWE_Gun_AutomaticPistol.label>
+            <VWE_Gun_AutomaticPistol.description>Uma pistola automática avançada. Não tem muita potência, mas é fácil de sacar. Dispara uma rajada de três tiros.</VWE_Gun_AutomaticPistol.description>
+            <VWE_Gun_AutomaticPistol.tools.0.label>coronha</VWE_Gun_AutomaticPistol.tools.0.label>
+            <VWE_Gun_AutomaticPistol.tools.1.label>cano</VWE_Gun_AutomaticPistol.tools.1.label>
+        
+        <!-- Bullpup Rifle -->
+            <VWE_Gun_BullpupRifle.label>rifle bullpup</VWE_Gun_BullpupRifle.label>
+            <VWE_Gun_BullpupRifle.description>Um rifle de assalto com um pente atrás do gatilho. Tem bom alcance, potência decente e boa precisão e, devido ao material leve, também é rápido para sacar e atirar.</VWE_Gun_BullpupRifle.description>
+            <VWE_Gun_BullpupRifle.tools.0.label>coronha</VWE_Gun_BullpupRifle.tools.0.label>
+            <VWE_Gun_BullpupRifle.tools.1.label>cano</VWE_Gun_BullpupRifle.tools.1.label>
+
+        <!-- Bullpup DMR -->
+            <VWE_Gun_BullpupDMR.label>DMR bullpup</VWE_Gun_BullpupDMR.label>
+            <VWE_Gun_BullpupDMR.description>Um rifle de atirador.\n\nEmbora compartilhe semelhanças com um rifle de repetição padrão, compensa seu dano pelo dispararo de dois tiros em rápida sucessão. Devido ao material leve, é rápido para sacar e atirar.</VWE_Gun_BullpupDMR.description>
+            <VWE_Gun_BullpupDMR.tools.0.label>coronha</VWE_Gun_BullpupDMR.tools.0.label>
+            <VWE_Gun_BullpupDMR.tools.1.label>cano</VWE_Gun_BullpupDMR.tools.1.label>
+            <Bullet_BullpupDMR.label>tiro de DMR bullpup</Bullet_BullpupDMR.label>
+
+        <!-- PDW -->
+            <VWE_Gun_PDW.label>PDW</VWE_Gun_PDW.label>
+            <VWE_Gun_PDW.description>Uma metralhadora compacta e leve usada como arma de defesa pessoal. Rápido para sacar e atirar.</VWE_Gun_PDW.description>
+            <VWE_Gun_PDW.tools.0.label>coronha</VWE_Gun_PDW.tools.0.label>
+            <VWE_Gun_PDW.tools.1.label>cano</VWE_Gun_PDW.tools.1.label>
+
+</LanguageData>

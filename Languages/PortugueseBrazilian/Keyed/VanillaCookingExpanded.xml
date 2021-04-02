@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- Allow Conditions -->
+            <VCE_AllowConditions>Permitir condições crônicas de saúde nos alimentos (diabetes, colesterol e pressão alta)</VCE_AllowConditions>
+
+        <!-- Must Be Installed -->
+            <VCE_MustBeInstalled>O Vanilla Cooking Expanded deve ser instalado para que essas opções tenham algum efeito</VCE_MustBeInstalled>
+
+</LanguageData>

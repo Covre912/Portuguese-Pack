@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Weapons Expanded -->
+        <!-- Charge Pistol -->
+            <VWE_Gun_ChargePistol.label>pistola de carga</VWE_Gun_ChargePistol.label>
+            <VWE_Gun_ChargePistol.description>Uma pistola com tiros carregados. A tecnologia de carga por pulso carrega cada projétil com energia instável ao deixar o cano. Liberada no impacto, a energia carregada aumenta muito o dano causado.\n\nEsta pistola de disparo de três tiros é uma arma muito eficaz implantada em todos os regimentos imperiais.</VWE_Gun_ChargePistol.description>
+            <VWE_Gun_ChargePistol.tools.0.label>cano</VWE_Gun_ChargePistol.tools.0.label>
+            <VWE_Bullet_ChargePistol.label>tiro de pistola de carga</VWE_Bullet_ChargePistol.label>
+
+        <!-- Charge Shotgun -->
+            <VWE_Gun_ChargeShotgun.label>espingarda de carga</VWE_Gun_ChargeShotgun.label>
+            <VWE_Gun_ChargeShotgun.description>Uma espingarda com tiros carregados. A tecnologia de carga por pulso carrega cada projétil com energia instável ao deixar o cano. Liberada no impacto, a energia carregada aumenta muito o dano causado.n\nMortal a curta distância, esta espingarda foi proibida pelos militares imperiais por infligir uma dor incomensurável.</VWE_Gun_ChargeShotgun.description>
+            <VWE_Gun_ChargeShotgun.tools.0.label>cano</VWE_Gun_ChargeShotgun.tools.0.label>
+            <VWE_Bullet_ChargeShotgun.label>tiro de espingarda de carga</VWE_Bullet_ChargeShotgun.label>
+
+        <!-- Charge SMG -->
+            <VWE_Gun_ChargeSMG.label>submetralhadora de carga</VWE_Gun_ChargeSMG.label>
+            <VWE_Gun_ChargeSMG.description>Uma submetralhadora com tiros carregados. A tecnologia de carga por pulso carrega cada projétil com energia instável ao deixar o cano. Liberada no impacto, a energia carregada aumenta muito o dano causado.\n\nDispara rapidamente, mas exige curta distância entre o alvo.</VWE_Gun_ChargeSMG.description>
+            <VWE_Gun_ChargeSMG.tools.0.label>cano</VWE_Gun_ChargeSMG.tools.0.label>
+            <VWE_Bullet_ChargeSMG.label>tiro de carga rápido</VWE_Bullet_ChargeSMG.label>
+
+        <!-- Charge LMG -->
+            <VWE_Gun_ChargeLMG.label>metralhadora leve de carga</VWE_Gun_ChargeLMG.label>
+            <VWE_Gun_ChargeLMG.description>Uma metralhadora leve com tiros carregados. A tecnologia de carga por pulso carrega cada projétil com energia instável ao deixar o cano. Liberada no impacto, a energia carregada aumenta muito o dano causado.\n\nA metralhadora leve de carga dispara uma rajada de projéteis em velocidade extrema, o que a torna ideal para controle de área.</VWE_Gun_ChargeLMG.description>
+            <VWE_Gun_ChargeLMG.tools.0.label>cano</VWE_Gun_ChargeLMG.tools.0.label>
+            <VWE_Bullet_ChargeLMG.label>tiro de metralhadora leve de carga</VWE_Bullet_ChargeLMG.label>
+
+        <!-- Charge Sniper Rifle -->
+            <VWE_Gun_ChargeSniperRifle.label>rifle de precisão de carga</VWE_Gun_ChargeSniperRifle.label>
+            <VWE_Gun_ChargeSniperRifle.description>Um rifle de precisão com tiros carregados. A tecnologia de carga por pulso carrega cada projétil com energia instável ao deixar o cano. Liberada no impacto, a energia carregada aumenta muito o dano causado.\n\nComo são três barris separados disparando simultaneamente, a potência e cadência são diminuídas.</VWE_Gun_ChargeSniperRifle.description>
+            <VWE_Gun_ChargeSniperRifle.tools.0.label>coronha</VWE_Gun_ChargeSniperRifle.tools.0.label>
+            <VWE_Gun_ChargeSniperRifle.tools.1.label>cano</VWE_Gun_ChargeSniperRifle.tools.1.label>
+            <VWE_Bullet_ChargeSniperRifle.label>tiro de rifle de precisão de carga</VWE_Bullet_ChargeSniperRifle.label>
+
+        <!-- Charge Minigun -->
+            <VWE_Gun_ChargeMinigun.label>minigun de carga</VWE_Gun_ChargeMinigun.label>
+            <VWE_Gun_ChargeMinigun.description>Uma minigun com tiros carregados. A tecnologia de carga por pulso carrega cada projétil com energia instável ao deixar o cano. Liberada no impacto, a energia carregada aumenta muito o dano causado.\n\nCapaz de cobrir uma área com uma rajada de projéteis anti-armadura, esta minigun é frequentemente usada por mercenários durante seus infames ataques.</VWE_Gun_ChargeMinigun.description>
+            <VWE_Gun_ChargeMinigun.tools.0.label>coronha</VWE_Gun_ChargeMinigun.tools.0.label>
+            <VWE_Gun_ChargeMinigun.tools.1.label>cano</VWE_Gun_ChargeMinigun.tools.1.label>
+            <VWE_Bullet_ChargeMinigun.label>tiro de minigun de carga</VWE_Bullet_ChargeMinigun.label>
+
+        <!-- Charge Rocket Launcher -->
+            <VWE_Gun_ChargeRocketLauncher.label>lançador de foguetes de carga</VWE_Gun_ChargeRocketLauncher.label>
+            <VWE_Gun_ChargeRocketLauncher.description>Dispara uma única ogiva anti-grão com precisão precisa devido ao direcionamento laser. A ogiva explode no ar, liberando uma onda de eletrochoque mortal.</VWE_Gun_ChargeRocketLauncher.description>
+            <VWE_Gun_ChargeRocketLauncher.tools.0.label>cano</VWE_Gun_ChargeRocketLauncher.tools.0.label>
+            <VWE_Rocket_AntiGrain.label>ogiva anti-grão</VWE_Rocket_AntiGrain.label>
+
+    <!-- Vanilla Weapons Expanded - Coilguns -->
+        <!-- Gauss Rifle -->
+            <VWE_Gun_GaussRifle.label>rifle gauss</VWE_Gun_GaussRifle.label>
+            <VWE_Gun_GaussRifle.description>Um rifle gauss com tecnologia espacial. Um conjunto de bobinas acelera o tiro ferromagnético até velocidades vertiginosas, penetrando a armadura e perfurando vários alvos. Essas armas são populares entre a infantaria e linha de frente em guerras mecanóides.</VWE_Gun_GaussRifle.description>
+            <VWE_Gun_GaussRifle.tools.0.label>coronha</VWE_Gun_GaussRifle.tools.0.label>
+            <VWE_Gun_GaussRifle.tools.1.label>cano</VWE_Gun_GaussRifle.tools.1.label>
+            <VWE_Bullet_GaussRifle.label>tiro de rifle gauss</VWE_Bullet_GaussRifle.label>
+
+        <!-- Gauss Magnum -->
+            <VWE_Gun_GaussMagnum.label>revólver gauss</VWE_Gun_GaussMagnum.label>
+            <VWE_Gun_GaussMagnum.description>Um revólver gauss com tecnologia espacial. Uma série de bobinas acelera os tiros de um tambor giratório, penetrando a armadura e perfurando os alvos em seu caminho. Carrega mais rápido do que a maioria das armas de bobina ao custo de dano.</VWE_Gun_GaussMagnum.description>
+            <VWE_Gun_GaussMagnum.tools.0.label>coronha</VWE_Gun_GaussMagnum.tools.0.label>
+            <VWE_Gun_GaussMagnum.tools.1.label>cano</VWE_Gun_GaussMagnum.tools.1.label>
+            <VWE_Bullet_GaussMagnum.label>tiro de revólver gauss</VWE_Bullet_GaussMagnum.label>
+
+        <!-- Gauss Lance -->
+            <VWE_Gun_GaussLance.label>lança gauss</VWE_Gun_GaussLance.label>
+            <VWE_Gun_GaussLance.description>Uma lança gauss com tecnologia espacial. Uma série de bobinas eletromagnéticas alavanca um único tiro em hipervelocidade, destruindo a armadura e perfurando todos os alvos em seu caminho. É disparado do quadril, utilizando um computador de bordo para rastrear e se ajustar a alvos distantes.</VWE_Gun_GaussLance.description>
+            <VWE_Gun_GaussLance.tools.0.label>cano</VWE_Gun_GaussLance.tools.0.label>
+            <VWE_Bullet_GaussLance.label>tiro de lança gauss</VWE_Bullet_GaussLance.label>
+
+    <!-- Vanilla Weapons Expanded - Laser -->
+        <!-- Laser Pistol -->
+            <VWEL_Gun_LaserPistol.label>pistola laser</VWEL_Gun_LaserPistol.label>
+            <VWEL_Gun_LaserPistol.description>Uma pistola ultratecnológica capaz de emitir um feixe de luz concentrado com potência suficiente para causar danos consideráveis.\n\nUtilizando células de bateria avançadas, esta arma é capaz de aquecer-se, aumentando a velocidade de disparo a cada tiro consecutivo.\n\nEsta arma pode superaquecer quando totalmente aquecida, resultando em uma pequena explosão da bateria ao redor do usuário.</VWEL_Gun_LaserPistol.description>
+            <VWEL_Gun_LaserPistol.tools.0.label>cano</VWEL_Gun_LaserPistol.tools.0.label>
+            <VWEL_Gun_LaserPistol.tools.1.label>coronha</VWEL_Gun_LaserPistol.tools.1.label>
+            <VWEL_Bullet_LaserPistol.label>tiro de pistola laser</VWEL_Bullet_LaserPistol.label>
+
+        <!-- Laser SMG -->
+            <VWEL_Gun_LaserSMG.label>SMG laser</VWEL_Gun_LaserSMG.label>
+            <VWEL_Gun_LaserSMG.description>Uma submetralhadora ultratecnológica capaz de emitir um feixe de luz concentrado com potência suficiente para causar danos consideráveis.\n\nUtilizando células de bateria avançadas, esta arma é capaz de aquecer-se, aumentando a velocidade de disparo a cada tiro consecutivo.\n\nEsta arma pode superaquecer quando totalmente aquecida, resultando em uma pequena explosão da bateria ao redor do usuário.</VWEL_Gun_LaserSMG.description>
+            <VWEL_Gun_LaserSMG.tools.0.label>cano</VWEL_Gun_LaserSMG.tools.0.label>
+            <VWEL_Gun_LaserSMG.tools.1.label>coronha</VWEL_Gun_LaserSMG.tools.1.label>
+
+        <!-- Laser Rifle -->
+            <VWEL_Gun_LaserRifle.label>rifle laser</VWEL_Gun_LaserRifle.label>
+            <VWEL_Gun_LaserRifle.description>Um rifle ultratecnológico capaz de emitir um feixe de luz concentrado com potência suficiente para causar danos consideráveis.\n\nUtilizando células de bateria avançadas, esta arma é capaz de aquecer-se, aumentando a velocidade de disparo a cada tiro consecutivo.\n\nEsta arma pode superaquecer quando totalmente aquecida, resultando em uma pequena explosão da bateria ao redor do usuário.</VWEL_Gun_LaserRifle.description>
+            <VWEL_Gun_LaserRifle.tools.0.label>cano</VWEL_Gun_LaserRifle.tools.0.label>
+            <VWEL_Gun_LaserRifle.tools.1.label>coronha</VWEL_Gun_LaserRifle.tools.1.label>
+            <VWEL_Bullet_LaserRifle.label>tiro de laser</VWEL_Bullet_LaserRifle.label>
+            <VWEL_Bullet_LaserRifle.description>Um feixe de laser concentrado.</VWEL_Bullet_LaserRifle.description>
+
+        <!-- Laser Shotgun -->
+            <VWEL_Gun_LaserShotgun.label>espingarda laser</VWEL_Gun_LaserShotgun.label>
+            <VWEL_Gun_LaserShotgun.description>Uma espingarda ultratecnológica capaz de emitir vários feixes de luz com potência suficiente para causar danos consideráveis.\n\nUtilizando células de bateria avançadas, esta arma é capaz de aquecer-se, aumentando a velocidade de disparo a cada tiro consecutivo.\n\nEsta arma pode superaquecer quando totalmente aquecida, resultando em uma pequena explosão da bateria ao redor do usuário.</VWEL_Gun_LaserShotgun.description>
+            <VWEL_Gun_LaserShotgun.tools.0.label>cano</VWEL_Gun_LaserShotgun.tools.0.label>
+            <VWEL_Gun_LaserShotgun.tools.1.label>coronha</VWEL_Gun_LaserShotgun.tools.1.label>
+            <VWEL_Bullet_LaserShotgun.label>tiro de laser disperso</VWEL_Bullet_LaserShotgun.label>
+            <VWEL_Bullet_LaserShotgun.description>Um feixe de laser falho.</VWEL_Bullet_LaserShotgun.description>
+
+        <!-- Laser Sniper Rifle -->
+            <VWEL_Gun_LaserSniperRifle.label>rifle de precisão laser</VWEL_Gun_LaserSniperRifle.label>
+            <VWEL_Gun_LaserSniperRifle.description>Um rifle de precisão ultratecnológico capaz de emitir um feixe de luz concentrado com potência suficiente para causar danos consideráveis.\n\nUtilizando células de bateria avançadas, esta arma é capaz de aquecer-se, aumentando a velocidade de disparo a cada tiro consecutivo.\n\nEsta arma pode superaquecer quando totalmente aquecida, resultando em uma pequena explosão da bateria ao redor do usuário.</VWEL_Gun_LaserSniperRifle.description>
+            <VWEL_Gun_LaserSniperRifle.tools.0.label>cano</VWEL_Gun_LaserSniperRifle.tools.0.label>
+            <VWEL_Gun_LaserSniperRifle.tools.1.label>coronha</VWEL_Gun_LaserSniperRifle.tools.1.label>
+            <VWEL_Bullet_LaserSniperRifle.label>tiro de laser preciso</VWEL_Bullet_LaserSniperRifle.label>
+            <VWEL_Bullet_LaserSniperRifle.description>Um feixe de laser concentrado de longo alcance.</VWEL_Bullet_LaserSniperRifle.description>
+
+        <!-- Laser Minigun -->
+            <VWEL_Gun_LaserMinigun.label>minigun laser</VWEL_Gun_LaserMinigun.label>
+            <VWEL_Gun_LaserMinigun.description>Um dispositivo de multi-barril ultratecnológico capaz de emitir um feixe de luz concentrado com potência suficiente para causar danos consideráveis.\n\nUtilizando células de bateria avançadas, esta arma é capaz de aquecer-se, aumentando a velocidade de disparo a cada tiro consecutivo.\n\nEsta arma pode superaquecer quando totalmente aquecida, resultando em uma pequena explosão da bateria ao redor do usuário.</VWEL_Gun_LaserMinigun.description>
+            <VWEL_Gun_LaserMinigun.tools.0.label>cano</VWEL_Gun_LaserMinigun.tools.0.label>
+            <VWEL_Gun_LaserMinigun.tools.1.label>coronha</VWEL_Gun_LaserMinigun.tools.1.label>
+            <VWEL_Bullet_LaserMinigun.label>tiro de minigun laser</VWEL_Bullet_LaserMinigun.label>
+            <VWEL_Bullet_LaserMinigun.description>Um feixe de laser estreito e concentrado de uma arma de multi-barril.</VWEL_Bullet_LaserMinigun.description>
+
+        <!-- Tesla Gun -->
+            <VWEL_Gun_TeslaGun.label>tesla</VWEL_Gun_TeslaGun.label>
+            <VWEL_Gun_TeslaGun.description>Um dispositivo de arco elétrico ultratecnológico capaz de emitir um feixe de luz concentrado com potência suficiente para causar danos consideráveis.\n\nUtilizando células de bateria avançadas, esta arma é capaz de aquecer-se, aumentando a velocidade de disparo a cada tiro consecutivo.\n\nEsta arma pode superaquecer quando totalmente aquecida, resultando em uma pequena explosão da bateria ao redor do usuário.</VWEL_Gun_TeslaGun.description>
+            <VWEL_Gun_TeslaGun.tools.0.label>cano</VWEL_Gun_TeslaGun.tools.0.label>
+            <VWEL_Gun_TeslaGun.tools.1.label>coronha</VWEL_Gun_TeslaGun.tools.1.label>
+            <VWEL_Bullet_TeslaGun.label>tiro de tesla</VWEL_Bullet_TeslaGun.label>
+            <VWEL_Bullet_TeslaGun.description>Um raio emitido por um dispositivo Tesla.</VWEL_Bullet_TeslaGun.description>
+
+        <!-- Salvaged Laser Pistol -->
+            <VWEL_Gun_SalvagedLaserPistol.label>pistola laser recuperada</VWEL_Gun_SalvagedLaserPistol.label>
+            <VWEL_Gun_SalvagedLaserPistol.description>Uma pistola recuperada capaz de emitir um feixe de luz concentrado com potência suficiente para causar danos consideráveis.\n\nUtilizando células de bateria avançadas, esta arma é capaz de aquecer-se, aumentando a velocidade de disparo a cada tiro consecutivo.\n\nEsta arma pode superaquecer quando totalmente aquecida, resultando em uma pequena explosão da bateria ao redor do usuário.</VWEL_Gun_SalvagedLaserPistol.description>
+            <VWEL_Gun_SalvagedLaserPistol.tools.0.label>cano</VWEL_Gun_SalvagedLaserPistol.tools.0.label>
+            <VWEL_Gun_SalvagedLaserPistol.tools.1.label>coronha</VWEL_Gun_SalvagedLaserPistol.tools.1.label>
+            <VWEL_Bullet_SalvagedLaserPistol.label>tiro de pistola laser instável</VWEL_Bullet_SalvagedLaserPistol.label>
+
+        <!-- Salvaged Laser Rifle -->
+            <VWEL_Gun_SalvagedLaserRifle.label>rifle laser recuperado</VWEL_Gun_SalvagedLaserRifle.label>
+            <VWEL_Gun_SalvagedLaserRifle.description>Um rifle recuperado capaz de emitir um feixe de luz concentrado com potência suficiente para causar danos consideráveis.\n\nUtilizando células de bateria avançadas, esta arma é capaz de aquecer-se, aumentando a velocidade de disparo a cada tiro consecutivo.\n\nEsta arma pode superaquecer quando totalmente aquecida, resultando em uma pequena explosão da bateria ao redor do usuário.</VWEL_Gun_SalvagedLaserRifle.description>
+            <VWEL_Gun_SalvagedLaserRifle.tools.0.label>cano</VWEL_Gun_SalvagedLaserRifle.tools.0.label>
+            <VWEL_Gun_SalvagedLaserRifle.tools.1.label>coronha</VWEL_Gun_SalvagedLaserRifle.tools.1.label>
+            <VWEL_Bullet_SalvagedLaserRifle.label>tiro de laser instável</VWEL_Bullet_SalvagedLaserRifle.label>
+            <VWEL_Bullet_SalvagedLaserRifle.description>Um feixe de laser instável</VWEL_Bullet_SalvagedLaserRifle.description>
+
+        <!-- Salvaged Laser Shotgun -->
+            <VWEL_Gun_SalvagedLaserShotgun.label>espingarda laser recuperada</VWEL_Gun_SalvagedLaserShotgun.label>
+            <VWEL_Gun_SalvagedLaserShotgun.description>Uma espingarda recuperada capaz de emitir vários feixes de luz com potência suficiente para causar danos consideráveis.\n\nUtilizando células de bateria avançadas, esta arma é capaz de aquecer-se, aumentando a velocidade de disparo a cada tiro consecutivo.\n\nEsta arma pode superaquecer quando totalmente aquecida, resultando em uma pequena explosão da bateria ao redor do usuário.</VWEL_Gun_SalvagedLaserShotgun.description>
+            <VWEL_Gun_SalvagedLaserShotgun.tools.0.label>cano</VWEL_Gun_SalvagedLaserShotgun.tools.0.label>
+            <VWEL_Gun_SalvagedLaserShotgun.tools.1.label>coronha</VWEL_Gun_SalvagedLaserShotgun.tools.1.label>
+            <VWEL_Bullet_SalvagedLaserShotgun.label>tiro de laser disperso instável</VWEL_Bullet_SalvagedLaserShotgun.label>
+            <VWEL_Bullet_SalvagedLaserShotgun.description>Um feixe de laser instável falho.</VWEL_Bullet_SalvagedLaserShotgun.description>
+
+        <!-- Salvaged Laser Sniper Rifle -->
+            <VWEL_Gun_SalvagedLaserSniperRifle.label>rifle de precisão laser recuperado</VWEL_Gun_SalvagedLaserSniperRifle.label>
+            <VWEL_Gun_SalvagedLaserSniperRifle.description>Um rifle de precisão recuperado capaz de emitir um feixe de luz concentrado com potência suficiente para causar danos consideráveis.\n\nUtilizando células de bateria avançadas, esta arma é capaz de aquecer-se, aumentando a velocidade de disparo a cada tiro consecutivo.\n\nEsta arma pode superaquecer quando totalmente aquecida, resultando em uma pequena explosão da bateria ao redor do usuário.</VWEL_Gun_SalvagedLaserSniperRifle.description>
+            <VWEL_Gun_SalvagedLaserSniperRifle.tools.0.label>cano</VWEL_Gun_SalvagedLaserSniperRifle.tools.0.label>
+            <VWEL_Gun_SalvagedLaserSniperRifle.tools.1.label>coronha</VWEL_Gun_SalvagedLaserSniperRifle.tools.1.label>
+            <VWEL_Bullet_SalvagedLaserSniperRifle.label>tiro de laser preciso instável</VWEL_Bullet_SalvagedLaserSniperRifle.label>
+            <VWEL_Bullet_SalvagedLaserSniperRifle.description>Um feixe de laser instável concentrado de longo alcance.</VWEL_Bullet_SalvagedLaserSniperRifle.description>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Achievements Expanded -->
+        <!-- Random Quest Item -->
+            <RandomRewardQuestItem.label>Item de Missão Aleatório</RandomRewardQuestItem.label>
+
+    <!-- Vanilla Weapons Expanded -->
+        <!-- Random Quest Item -->
+            <RandomRewardQuestItemVE.label>Item de Missão Aleatório</RandomRewardQuestItemVE.label>
+        
+</LanguageData>

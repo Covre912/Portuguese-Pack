@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Storytellers Expanded - Empress Evil -->
+        <!-- Empress Evil -->
+            <VFEI_Empress.label>Imperatriz Impiedosa</VFEI_Empress.label>
+            <VFEI_Empress.description>A Imperatriz Impiedosa não acredita no conceito de bom. Impulsionada pela raiva primordial e pelo instinto selvagem, ela o forçará a estar constantemente alerta, realizando tarefas cada vez mais difíceis até que você desista e morra. Nenhum bom evento pode acontecer, nunca.</VFEI_Empress.description>
+
+    <!-- Vanilla Storytellers Expanded - Freya Fierce -->
+        <!-- Freya Fierce -->
+            <VSE-Freya.label>Freya Feroz</VSE-Freya.label>
+            <VSE-Freya.description>Freya acredita que as melhores histórias são as de incursões e glória. Todos os anos após o primeiro ano, no início de Abrimaio, seu assentamento ficará cada vez mais infeliz até que você envie seus colonos em uma aventura ou ataque e traga de volta os despojos de guerra. Ela também limita a tecnologia apenas ao pré-industrial.</VSE-Freya.description>
+
+    <!-- Vanilla Storytellers Expanded - Igor Invader -->
+        <!-- Igor Invader -->
+            <VSE-IgorInvader.label>Igor Invasor</VSE-IgorInvader.label>
+            <VSE-IgorInvader.description>Igor Invasor não se importa com histórias chatas sobre colônias prósperas. A única história que vale a pena contar é a do combate. Ele enviará invasões a cada dois ou três dias, recompensando os jogadores por lidar com eles rapidamente e punindo os jogadores por quaisquer perdas. Este narrador dobra todos os tipos de dano.</VSE-IgorInvader.description>
+
+    <!-- Vanilla Storytellers Expanded - Perry Persistent -->
+        <!--  Perry Persistent -->
+            <VSE_PerryPersistent.label>Perry Persistente</VSE_PerryPersistent.label>
+            <VSE_PerryPersistent.description>Perry Persistente transmite uma história da mesma maneira que lida com suas investigações - com determinação e atenção aos detalhes. Ele irá mantê-lo constantemente alerta, pois todos os dias podem levá-lo ao fim de sua investigação.</VSE_PerryPersistent.description>
+
+</LanguageData>

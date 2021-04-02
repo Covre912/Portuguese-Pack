@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Achievements Expanded -->
+        <!-- Comfier Than Usual -->
+            <comfierThanUsual.label>Mais Confortável que o Normal</comfierThanUsual.label>
+            <comfierThanUsual.description>Construa uma poltrona de pele humana</comfierThanUsual.description>
+
+        <!-- The Architect -->
+            <theArchitect.label>O Arquiteto</theArchitect.label>
+            <theArchitect.description>Construa 1000 paredes</theArchitect.description>
+
+        <!-- Building the Skynet -->
+            <buildingTheSkynet.label>Construindo a Skynet</buildingTheSkynet.label>
+            <buildingTheSkynet.description>Construa 30 mini-torretas</buildingTheSkynet.description>
+
+        <!-- It Ain't Rocket Science -->
+            <itAintRocketScience.label>Não é Ciência Espacial</itAintRocketScience.label>
+            <itAintRocketScience.description>Construa uma nave</itAintRocketScience.description>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Weapons Expanded -->
+        <!-- Toxic Gas -->
+            <Dam_OPToxin.label>Gás Tóxico</Dam_OPToxin.label>
+        
+        <!--  ARL Toxic Gas -->
+            <VWE_ToxicGas.label>ARL_GásTóxico</VWE_ToxicGas.label>
+
+</LanguageData>

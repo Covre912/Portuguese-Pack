@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- Forced Factions Relations -->
+            <VFEC_ForcedFactionGoodwill.label>relações forçadas de facção</VFEC_ForcedFactionGoodwill.label>
+
+        <!-- Pawn Arrive Method -->
+            <VFEC_PlayerPawnsArriveMethodEdge.label>método de chegada do colono</VFEC_PlayerPawnsArriveMethodEdge.label>
+
+        <!-- Structure To Starting Map -->
+            <VFEC_AddStartingStructure.label>adicionar estrutura personalizada ao mapa inicial</VFEC_AddStartingStructure.label>
+
+</LanguageData>

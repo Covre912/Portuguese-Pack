@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Achievements Expanded -->
+        <!-- Mercenary -->
+            <mercenary.label>Mercenário</mercenary.label>
+            <mercenary.description>Complete 5 missões quaisquer</mercenary.description>
+
+        <!-- Ambassador Of Peace -->
+            <ambassadorOfPeace.label>Embaixador da Paz</ambassadorOfPeace.label>
+            <ambassadorOfPeace.description>Complete 3 missões de conversa de paz</ambassadorOfPeace.description>
+
+</LanguageData>

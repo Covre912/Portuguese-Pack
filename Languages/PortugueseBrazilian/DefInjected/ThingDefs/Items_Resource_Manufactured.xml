@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Weapons Expanded - Laser -->
+        <!-- Laser Random -->
+            <LaserRandom.label>arma laser recuperada</LaserRandom.label>
+            <LaserRandom.description>Um monte de componentes que, quando montados, criam uma arma laser recuperada.</LaserRandom.description>
+
+</LanguageData>

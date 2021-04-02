@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Achievements Expanded -->
+        <!-- Cheater, Cheater! -->
+            <cheaterCheater.label>Trapaceiro, Trapaceiro!</cheaterCheater.label>
+            <cheaterCheater.description>Habilite o modo desenvolvedor</cheaterCheater.description>
+
+</LanguageData>

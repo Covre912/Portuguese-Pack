@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- Inspiration Satisfied -->
+            <VSIE_InspirationSatisfied.stages.0.label>Inspiração satisfeita</VSIE_InspirationSatisfied.stages.0.label>
+            <VSIE_InspirationSatisfied.stages.0.description>Eu completei minha aspiração!</VSIE_InspirationSatisfied.stages.0.description>
+
+        <!-- Inspiration Not Satisfied -->
+            <VSIE_InspirationNotSatisfied.stages.0.label>Inspiração não satisfeita</VSIE_InspirationNotSatisfied.stages.0.label>
+            <VSIE_InspirationNotSatisfied.stages.0.description>Não consegui completar minha aspiração.</VSIE_InspirationNotSatisfied.stages.0.description>
+
+        <!-- Chat With Beer -->
+            <VSIE_HadNiceChatWithBeer.stages.0.label>Teve uma bom happy hour</VSIE_HadNiceChatWithBeer.stages.0.label>
+            <VSIE_HadNiceChatWithBeer.stages.0.description>Gostei do papo furado e do frio na mão.</VSIE_HadNiceChatWithBeer.stages.0.description>
+
+        <!-- Binge Party -->
+            <VSIE_AttendedBingeParty.stages.0.label>Participou de uma festa frenética</VSIE_AttendedBingeParty.stages.0.label>
+            <VSIE_AttendedBingeParty.stages.0.description>Eu me diverti muito na festa frenética.</VSIE_AttendedBingeParty.stages.0.description>
+
+        <!-- Outdoor Party -->
+            <VSIE_AttendedOutdoorParty.stages.0.label>Participou de uma festa ao ar livre</VSIE_AttendedOutdoorParty.stages.0.label>
+            <VSIE_AttendedOutdoorParty.stages.0.description>Eu me diverti muito lá fora!</VSIE_AttendedOutdoorParty.stages.0.description>
+
+        <!-- Closure -->
+            <VSIE_GotSomeClosure.stages.0.label>Teve uma oclusão</VSIE_GotSomeClosure.stages.0.label>
+            <VSIE_GotSomeClosure.stages.0.description>Vou valorizar cada memória.</VSIE_GotSomeClosure.stages.0.description>
+
+        <!-- Birthday Party -->
+            <VSIE_AttendedBirthdayParty.stages.0.label>Participou de uma festa de aniversário</VSIE_AttendedBirthdayParty.stages.0.label>
+            <VSIE_AttendedBirthdayParty.stages.0.description>Eu me diverti muito na festa de aniversário.</VSIE_AttendedBirthdayParty.stages.0.description>
+            <VSIE_HadBirthdayParty.stages.0.label>Teve uma festa de aniversário</VSIE_HadBirthdayParty.stages.0.label>
+            <VSIE_HadBirthdayParty.stages.0.description>Eles me deram uma festa de aniversário!</VSIE_HadBirthdayParty.stages.0.description>
+
+    <!-- Vanilla Storytellers Expanded - Freya Fierce -->
+        <!-- Raid Restless -->
+            <VFEV_RaidRestlessness.stages.0.label>Inquieto (x0)</VFEV_RaidRestlessness.stages.0.label>
+            <VFEV_RaidRestlessness.stages.0.description>Devemos começar a planejar nosso próximo ataque.</VFEV_RaidRestlessness.stages.0.description>
+            <VFEV_RaidRestlessness.stages.1.label>Inquieto (x1)</VFEV_RaidRestlessness.stages.1.label>
+            <VFEV_RaidRestlessness.stages.1.description>Viajar deve ser fácil agora, podemos facilmente saquear aqueles fracos.</VFEV_RaidRestlessness.stages.1.description>
+            <VFEV_RaidRestlessness.stages.2.label>Inquieto (x2)</VFEV_RaidRestlessness.stages.2.label>
+            <VFEV_RaidRestlessness.stages.2.description>Por que nosso bando de guerra está ficando tão dócil? Os fracos devem temer os fortes - Devemos atacar nossos inimigos logo.</VFEV_RaidRestlessness.stages.2.description>
+            <VFEV_RaidRestlessness.stages.3.label>Inquieto (x3)</VFEV_RaidRestlessness.stages.3.label>
+            <VFEV_RaidRestlessness.stages.3.description>Tantos luxos ao nosso alcance, mas somos covardes demais para massacrar nossos inimigos e tirar suas riquezas?</VFEV_RaidRestlessness.stages.3.description>
+            <VFEV_RaidRestlessness.stages.4.label>Inquieto (x4)</VFEV_RaidRestlessness.stages.4.label>
+            <VFEV_RaidRestlessness.stages.4.description>Eu perdi todas as esperanças - não há como continuarmos assim, temo que nosso povo e nossa história nunca serão lembrados.</VFEV_RaidRestlessness.stages.4.description>
+
+    <!-- Vanilla Traits Expanded -->
+        <!-- Perfectionist -->
+            <VTE_CreatedLowQualityItem.stages.0.label>Criou item de baixa qualidade</VTE_CreatedLowQualityItem.stages.0.label>
+            <VTE_CreatedLowQualityItem.stages.0.description>Eu criei lixo. Eu sinto que não consigo fazer nada certo.</VTE_CreatedLowQualityItem.stages.0.description>
+            <VTE_CouldNotFinishItem.stages.0.label>Não pôde terminar o item</VTE_CouldNotFinishItem.stages.0.label>
+            <VTE_CouldNotFinishItem.stages.0.description>Não consegui terminar meu projeto, simplesmente não estava indo bem.</VTE_CouldNotFinishItem.stages.0.description>
+
+        <!-- Neat -->
+            <VTE_PassionateCleaningWork.stages.0.label>Limpando</VTE_PassionateCleaningWork.stages.0.label>
+            <VTE_PassionateCleaningWork.stages.0.description>Na verdade, eu realmente gosto de organizar e limpar o lugar.</VTE_PassionateCleaningWork.stages.0.description>
+
+        <!-- Vengeful -->
+            <VTE_MyRivalsAreAlive.stages.0.label>Meus rivais estão vivos</VTE_MyRivalsAreAlive.stages.0.label>
+            <VTE_MyRivalsAreAlive.stages.0.description>Eu os odeio. Por que merecem viver?</VTE_MyRivalsAreAlive.stages.0.description>
+
+        <!-- Technophobe -->
+            <VTE_MechanoidIsKilled.stages.0.label>Mecanóide morreu</VTE_MechanoidIsKilled.stages.0.label>
+            <VTE_MechanoidIsKilled.stages.0.description>Essas máquinas do mal não merecem funcionar.</VTE_MechanoidIsKilled.stages.0.description>
+
+       <!-- Squeamish -->
+            <VTE_ObservedManyBlood.stages.0.label>observou muito sangue</VTE_ObservedManyBlood.stages.0.label>
+            <VTE_ObservedManyBlood.stages.0.description>Eu vi muito sangue. Só de lembrar me dá ânsia de vômito.</VTE_ObservedManyBlood.stages.0.description>
+
+        <!-- Couch Potato -->
+            <VTE_WatchedTelevisor.stages.0.label>Assistiu televisão recentemente</VTE_WatchedTelevisor.stages.0.label>
+            <VTE_WatchedTelevisor.stages.0.description>Eu tenho que descansar e acompanhar meus programas.</VTE_WatchedTelevisor.stages.0.description>
+
+      <!-- Prodigy -->
+            <VTE_NoDedicatedLaboratory.stages.0.label>Sem laboratório dedicado</VTE_NoDedicatedLaboratory.stages.0.label>
+            <VTE_NoDedicatedLaboratory.stages.0.description>Não tenho onde estudar em paz, que chato.</VTE_NoDedicatedLaboratory.stages.0.description>
+
+        <!-- Menagerist -->
+            <VTE_AnimalsInColony.stages.0.label>Nenhum animal na colônia</VTE_AnimalsInColony.stages.0.label>
+            <VTE_AnimalsInColony.stages.0.description>Não temos um único animal.</VTE_AnimalsInColony.stages.0.description>
+            <VTE_AnimalsInColony.stages.1.label>Quase nenhum animal na colônia</VTE_AnimalsInColony.stages.1.label>
+            <VTE_AnimalsInColony.stages.1.description>Quase não temos animais na colônia, isso é uma merda.</VTE_AnimalsInColony.stages.1.description>
+            <VTE_AnimalsInColony.stages.2.label>Quase nenhum animal na colônia</VTE_AnimalsInColony.stages.2.label>
+            <VTE_AnimalsInColony.stages.2.description>Quase não temos animais na colônia, é alguma coisa eu acho.</VTE_AnimalsInColony.stages.2.description>
+            <VTE_AnimalsInColony.stages.3.label>Quase nenhum animal na colônia</VTE_AnimalsInColony.stages.3.label>
+            <VTE_AnimalsInColony.stages.3.description>Quase não temos animais na colônia, é alguma coisa eu acho.</VTE_AnimalsInColony.stages.3.description>
+            <VTE_AnimalsInColony.stages.4.label>Alguns animais na colônia</VTE_AnimalsInColony.stages.4.label>
+            <VTE_AnimalsInColony.stages.4.description>Temos alguns animais na colônia, isso é bom.</VTE_AnimalsInColony.stages.4.description>
+            <VTE_AnimalsInColony.stages.5.label>Alguns animais na colônia</VTE_AnimalsInColony.stages.5.label>
+            <VTE_AnimalsInColony.stages.5.description>Temos alguns animais na colônia, isso é bom.</VTE_AnimalsInColony.stages.5.description>
+            <VTE_AnimalsInColony.stages.6.label>Alguns animais da colônia</VTE_AnimalsInColony.stages.6.label>
+            <VTE_AnimalsInColony.stages.6.description>Temos uma quantidade razoável de animais agora, estamos chegando lá.</VTE_AnimalsInColony.stages.6.description>
+            <VTE_AnimalsInColony.stages.7.label>Alguns animais da colônia</VTE_AnimalsInColony.stages.7.label>
+            <VTE_AnimalsInColony.stages.7.description>Temos uma quantidade razoável de animais agora, estamos chegando lá.</VTE_AnimalsInColony.stages.7.description>
+            <VTE_AnimalsInColony.stages.8.label>Alguns animais da colônia</VTE_AnimalsInColony.stages.8.label>
+            <VTE_AnimalsInColony.stages.8.description>Temos uma quantidade razoável de animais agora, estamos chegando lá.</VTE_AnimalsInColony.stages.8.description>
+            <VTE_AnimalsInColony.stages.9.label>Alguns animais da colônia</VTE_AnimalsInColony.stages.9.label>
+            <VTE_AnimalsInColony.stages.9.description>Temos uma quantidade razoável de animais agora, estamos chegando lá.</VTE_AnimalsInColony.stages.9.description>
+            <VTE_AnimalsInColony.stages.10.label>Muitos animais na colônia</VTE_AnimalsInColony.stages.10.label>
+            <VTE_AnimalsInColony.stages.10.description>Temos muitos animais na colônia agora, eles são maravilhosos.</VTE_AnimalsInColony.stages.10.description>
+            <VTE_AnimalsInColony.stages.11.label>Muitos animais na colônia</VTE_AnimalsInColony.stages.11.label>
+            <VTE_AnimalsInColony.stages.11.description>Temos muitos animais na colônia agora, eles são maravilhosos.</VTE_AnimalsInColony.stages.11.description>
+            <VTE_AnimalsInColony.stages.12.label>Muitos animais na colônia</VTE_AnimalsInColony.stages.12.label>
+            <VTE_AnimalsInColony.stages.12.description>Temos muitos animais na colônia agora, eles são maravilhosos.</VTE_AnimalsInColony.stages.12.description>
+            <VTE_AnimalsInColony.stages.13.label>Uma tonelada de animais na colônia</VTE_AnimalsInColony.stages.13.label>
+            <VTE_AnimalsInColony.stages.13.description>Temos tantos animais agora! Fico muito feliz em ver todos eles!</VTE_AnimalsInColony.stages.13.description>
+            <VTE_AnimalsInColony.stages.14.label>Uma tonelada de animais na colônia</VTE_AnimalsInColony.stages.14.label>
+            <VTE_AnimalsInColony.stages.14.description>Temos tantos animais agora! Fico muito feliz em ver todos eles!</VTE_AnimalsInColony.stages.14.description>
+            <VTE_AnimalsInColony.stages.15.label>Uma tonelada de animais na colônia</VTE_AnimalsInColony.stages.15.label>
+            <VTE_AnimalsInColony.stages.15.description>Temos tantos animais agora! Fico muito feliz em ver todos eles!</VTE_AnimalsInColony.stages.15.description>
+
+        <!-- Ocean Lover -->
+            <VTE_ChildOfSea.stages.0.label>Amante do oceano</VTE_ChildOfSea.stages.0.label>
+            <VTE_ChildOfSea.stages.0.description>Eu adoro estar perto do oceano e dos rios, a água é linda.</VTE_ChildOfSea.stages.0.description>
+            <VTE_SoakingWetChildOfTheSea.stages.0.label>encharcado(a)</VTE_SoakingWetChildOfTheSea.stages.0.label>
+            <VTE_SoakingWetChildOfTheSea.stages.0.description>Estou encharcado(a). Adoro isso!</VTE_SoakingWetChildOfTheSea.stages.0.description>
+
+        <!-- Mountain Lover -->
+            <VTE_ChildOfMountain.stages.0.label>Amante de montanhas</VTE_ChildOfMountain.stages.0.label>
+            <VTE_ChildOfMountain.stages.0.description>Eu adoro estar perto das montanhas, elas me tiram o fôlego.</VTE_ChildOfMountain.stages.0.description>
+            <VTE_EnvironmentDark.stages.0.label>escuridão</VTE_EnvironmentDark.stages.0.label>
+            <VTE_EnvironmentDark.stages.0.description>Eu estive no escuro por um tempo. Gosto disso.</VTE_EnvironmentDark.stages.0.description>
+
+        <!-- Mad Surgeon -->
+            <VTE_HaventHarvestedOrgansForLongTime.stages.0.label>Não colheu órgãos</VTE_HaventHarvestedOrgansForLongTime.stages.0.label>
+            <VTE_HaventHarvestedOrgansForLongTime.stages.0.description>Estou ficando impaciente e entediado, preciso de mais assuntos.</VTE_HaventHarvestedOrgansForLongTime.stages.0.description>
+            <VTE_HarvestedOrgans.stages.0.label>Colheu órgãos</VTE_HarvestedOrgans.stages.0.label>
+            <VTE_HarvestedOrgans.stages.0.description>A operação correu como o esperado, minha coleção cresceu!</VTE_HarvestedOrgans.stages.0.description>
+
+        <!-- Wanderlust -->
+            <VTE_HaventExitedColonyForLongTime.stages.0.label>Não saiu da colônia</VTE_HaventExitedColonyForLongTime.stages.0.label>
+            <VTE_HaventExitedColonyForLongTime.stages.0.description>Faz algum tempo que não saio de casa, gostaria muito de viajar, para variar.</VTE_HaventExitedColonyForLongTime.stages.0.description>
+
+        <!-- Dunce -->
+            <VTE_Dunce.stages.0.label>Burro</VTE_Dunce.stages.0.label>
+            <VTE_Dunce.stages.0.description>Eu realmente não entendo por que todo mundo está tão chateado o tempo todo.</VTE_Dunce.stages.0.description>
+
+</LanguageData>

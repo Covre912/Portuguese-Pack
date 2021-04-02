@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Weapons Expanded -->
+        <!-- Longbow -->
+            <VWE_Longbow.label>arco longo</VWE_Longbow.label>
+            <VWE_Longbow.description>Crie arcos longos, um equivalente neolítico ao rifle de precisão.</VWE_Longbow.description>
+
+        <!-- Crossbow -->
+            <VWE_Crossbow.label>besta</VWE_Crossbow.label>
+            <VWE_Crossbow.description>Crie bestas, uma arma medieval de longo alcance eficaz contra inimigos blindados.</VWE_Crossbow.description>
+
+        <!-- Compound Bow -->
+            <VWE_CompoundBow.label>arco composto</VWE_CompoundBow.label>
+            <VWE_CompoundBow.description>Crie arcos compostos, que usam componentes para disparar flechas silenciosamente com maior eficiência.</VWE_CompoundBow.description>
+
+        <!-- Tools -->
+            <VWE_Tools.label>ferramentas</VWE_Tools.label>
+            <VWE_Tools.description>Ferramentas de trabalhador para auxiliar no trabalho manual.</VWE_Tools.description>
+
+        <!-- Gunpowder -->
+            <VWE_Gunpowder.label>pólvora</VWE_Gunpowder.label>
+            <VWE_Gunpowder.description>Sintetize pólvora, o mais antigo explosivo químico conhecido.</VWE_Gunpowder.description>
+
+        <!-- Trench Warfare -->
+            <VWE_TrenchWarfare.label>guerra de trincheiras</VWE_TrenchWarfare.label>
+            <VWE_TrenchWarfare.description>Adapte uma doutrina de guerra de trincheiras com uma seleção de armas para combate corpo a corpo.</VWE_TrenchWarfare.description>
+
+        <!-- Heavy Weapons -->
+            <VWE_HeavyWeapons.label>armas pesadas</VWE_HeavyWeapons.label>
+            <VWE_HeavyWeapons.description>Crie armas pesadas que oferecem grande poder de fogo, ao custo de exigência física.</VWE_HeavyWeapons.description>
+
+        <!-- Flamethrower -->
+            <VWE_Flamethrower.label>lança-chamas</VWE_Flamethrower.label>
+            <VWE_Flamethrower.description>Construa lança-chamas, armas que projetam um longo e controlável fluxo de fogo. Sua letalidade levou à proibição em muitos países.</VWE_Flamethrower.description>
+
+        <!-- Specialized Firearms -->
+            <VWE_SpecializedFirearms.label>armas de fogo especializadas</VWE_SpecializedFirearms.label>
+            <VWE_SpecializedFirearms.description>Crie armas especializadas para cenários de combate exigentes.</VWE_SpecializedFirearms.description>
+
+        <!-- Marksman Rifle -->
+            <VWE_DesignatedMarksmanRifle.label>rifle de atirador</VWE_DesignatedMarksmanRifle.label>
+            <VWE_DesignatedMarksmanRifle.description>Crie rifles de atirador semiautomáticos, para uso em combates de longa distância.</VWE_DesignatedMarksmanRifle.description>
+
+        <!-- Tactical Grenades -->
+            <VWE_TacticalGrenades.label>granadas táticas</VWE_TacticalGrenades.label>
+            <VWE_TacticalGrenades.description>Crie granadas especializadas, úteis em uma variedade de situações.</VWE_TacticalGrenades.description>
+
+        <!-- Laser Targeting System -->
+            <VWE_LaserTargetingSystems.label>sistemas de mira laser</VWE_LaserTargetingSystems.label>
+            <VWE_LaserTargetingSystems.description>Adapte os sistemas de mira laser para uma entrega rápida e precisa de ogivas carregadas.</VWE_LaserTargetingSystems.description>
+
+    <!-- Vanilla Weapons Expanded - Coilguns -->
+        <!-- Mass Drivers -->
+            <VWE_MassDrivers.label>fatores de magnitude</VWE_MassDrivers.label>
+            <VWE_MassDrivers.description>Crie armas que utilizam eletroímãs para alavancar o tiro até a hipervelocidade, penetrando armaduras grossas e perfurando alvos semelhantes. Note que as armas requerem componentes avançados.</VWE_MassDrivers.description>
+
+    <!-- Vanilla Weapons Expanded - Laser -->
+        <!-- Salvaged Laser Weapons -->
+            <VWE_LaserWeapons.label>armas laser recuperadas</VWE_LaserWeapons.label>
+            <VWE_LaserWeapons.description>Aprenda a decompor e recuperar componentes avançados em armamento laser experimental e instável.</VWE_LaserWeapons.description>
+
+        <!-- Ultratech Laser Weapons -->
+            <VWE_UltratechLaserWeapons.label>armas laser ultratecnológicas</VWE_UltratechLaserWeapons.label>
+            <VWE_UltratechLaserWeapons.description>Crie armas laser avançadas, o auge da guerra ultratecnológica.</VWE_UltratechLaserWeapons.description>
+
+    <!-- Vanilla Weapons Expanded - Makeshift -->
+        <!-- Makeshift Weapons -->
+            <VWE_MakeshiftWeapons.label>armas improvisadas</VWE_MakeshiftWeapons.label>
+            <VWE_MakeshiftWeapons.description>Crie armas improvisadas muito pouco confiáveis, propensas a emperramento.</VWE_MakeshiftWeapons.description>
+
+    <!-- Vanilla Weapons Expanded - Quickdraw -->
+        <!-- Quick Draw -->
+            <VWE_Quickdraw.label>saque rápido</VWE_Quickdraw.label>
+            <VWE_Quickdraw.description>Crie armas leves e rápidas para sacar e atirar.</VWE_Quickdraw.description>
+
+</LanguageData>
