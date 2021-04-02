@@ -44,4 +44,214 @@
                 <li>commentedabout->contou uma piada sobre</li>
             </VSIE_Teaching_Melee.rulePack.rulesStrings>
 
+		<!-- Teaching Construction -->
+			<VSIE_Teaching_Construction.rulePack.rulesStrings>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [ConstructionTopic].</li>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [ConstructionTopic].</li>
+				<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [ConstructionTopic] para [RECIPIENT_nameDef].</li>
+
+				<li>talkedabout(p=4)->conversaram sobre</li>
+				<li>talkedabout->compartilharam sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->tagarelaram sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->brincaram com</li>
+				<li>talkedabout->brincaram com</li>
+
+                <li>commentedabout->disse algo sobre</li>
+                <li>commentedabout->disse uma palavra sobre</li>
+                <li>commentedabout->fez um comentário sobre</li>
+                <li>commentedabout->comentou sobre</li>
+                <li>commentedabout->contou uma piada sobre</li>
+			</VSIE_Teaching_Construction.rulePack.rulesStrings>
+
+		<!-- Teaching Mining -->
+			<VSIE_Teaching_Mining.rulePack.rulesStrings>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [MiningTopic].</li>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [MiningTopic].</li>
+				<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [MiningTopic] para [RECIPIENT_nameDef].</li>
+
+				<li>talkedabout(p=4)->conversaram sobre</li>
+				<li>talkedabout->compartilharam sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->tagarelaram sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->brincaram com</li>
+				<li>talkedabout->brincaram com</li>
+
+                <li>commentedabout->disse algo sobre</li>
+                <li>commentedabout->disse uma palavra sobre</li>
+                <li>commentedabout->fez um comentário sobre</li>
+                <li>commentedabout->comentou sobre</li>
+                <li>commentedabout->contou uma piada sobre</li>
+			</VSIE_Teaching_Mining.rulePack.rulesStrings>
+
+		<!-- Teaching Cooking -->
+			<VSIE_Teaching_Cooking.rulePack.rulesStrings>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [CookingTopic].</li>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [CookingTopic].</li>
+				<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [CookingTopic] para [RECIPIENT_nameDef].</li>
+
+				<li>talkedabout(p=4)->conversaram sobre</li>
+				<li>talkedabout->compartilharam sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->tagarelaram sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->brincaram com</li>
+				<li>talkedabout->brincaram com</li>
+
+                <li>commentedabout->disse algo sobre</li>
+                <li>commentedabout->disse uma palavra sobre</li>
+                <li>commentedabout->fez um comentário sobre</li>
+                <li>commentedabout->comentou sobre</li>
+                <li>commentedabout->contou uma piada sobre</li>
+			</VSIE_Teaching_Cooking.rulePack.rulesStrings>
+
+		<!-- Teaching Animals -->
+			<VSIE_Teaching_Animals.rulePack.rulesStrings>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [AnimalsTopic].</li>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [AnimalsTopic].</li>
+				<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [AnimalsTopic] para [RECIPIENT_nameDef].</li>
+
+				<li>talkedabout(p=4)->conversaram sobre</li>
+				<li>talkedabout->compartilharam sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->tagarelaram sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->brincaram com</li>
+				<li>talkedabout->brincaram com</li>
+
+                <li>commentedabout->disse algo sobre</li>
+                <li>commentedabout->disse uma palavra sobre</li>
+                <li>commentedabout->fez um comentário sobre</li>
+                <li>commentedabout->comentou sobre</li>
+                <li>commentedabout->contou uma piada sobre</li>
+			</VSIE_Teaching_Animals.rulePack.rulesStrings>
+
+		<!-- Teaching Plants -->
+			<VSIE_Teaching_Plants.rulePack.rulesStrings>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [GrowingTopic].</li>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [GrowingTopic].</li>
+				<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [GrowingTopic] para [RECIPIENT_nameDef].</li>
+
+				<li>talkedabout(p=4)->conversaram sobre</li>
+				<li>talkedabout->compartilharam sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->tagarelaram sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->brincaram com</li>
+				<li>talkedabout->brincaram com</li>
+
+                <li>commentedabout->disse algo sobre</li>
+                <li>commentedabout->disse uma palavra sobre</li>
+                <li>commentedabout->fez um comentário sobre</li>
+                <li>commentedabout->comentou sobre</li>
+                <li>commentedabout->contou uma piada sobre</li>
+			</VSIE_Teaching_Plants.rulePack.rulesStrings>
+
+		<!-- Teaching Crafting -->
+			<VSIE_Teaching_Crafting.rulePack.rulesStrings>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [CraftingTopic].</li>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [CraftingTopic].</li>
+				<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [CraftingTopic] para [RECIPIENT_nameDef].</li>
+
+				<li>talkedabout(p=4)->conversaram sobre</li>
+				<li>talkedabout->compartilharam sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->tagarelaram sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->brincaram com</li>
+				<li>talkedabout->brincaram com</li>
+
+                <li>commentedabout->disse algo sobre</li>
+                <li>commentedabout->disse uma palavra sobre</li>
+                <li>commentedabout->fez um comentário sobre</li>
+                <li>commentedabout->comentou sobre</li>
+                <li>commentedabout->contou uma piada sobre</li>
+			</VSIE_Teaching_Crafting.rulePack.rulesStrings>
+
+		<!-- Teaching Medicine -->
+			<VSIE_Teaching_Medicine.rulePack.rulesStrings>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [MedicalTopic].</li>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [MedicalTopic].</li>
+				<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [MedicalTopic] para [RECIPIENT_nameDef].</li>
+
+				<li>talkedabout(p=4)->conversaram sobre</li>
+				<li>talkedabout->compartilharam sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->tagarelaram sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->brincaram com</li>
+				<li>talkedabout->brincaram com</li>
+
+                <li>commentedabout->disse algo sobre</li>
+                <li>commentedabout->disse uma palavra sobre</li>
+                <li>commentedabout->fez um comentário sobre</li>
+                <li>commentedabout->comentou sobre</li>
+                <li>commentedabout->contou uma piada sobre</li>
+			</VSIE_Teaching_Medicine.rulePack.rulesStrings>
+
+		<!-- Teaching Artistic -->
+			<VSIE_Teaching_Artistic.rulePack.rulesStrings>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [ArtTopic].</li>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [ArtTopic].</li>
+				<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [ArtTopic] para [RECIPIENT_nameDef].</li>
+
+				<li>talkedabout(p=4)->conversaram sobre</li>
+				<li>talkedabout->compartilharam sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->tagarelaram sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->brincaram com</li>
+				<li>talkedabout->brincaram com</li>
+
+                <li>commentedabout->disse algo sobre</li>
+                <li>commentedabout->disse uma palavra sobre</li>
+                <li>commentedabout->fez um comentário sobre</li>
+                <li>commentedabout->comentou sobre</li>
+                <li>commentedabout->contou uma piada sobre</li>
+			</VSIE_Teaching_Artistic.rulePack.rulesStrings>
+
+		<!-- Teaching Social -->
+			<VSIE_Teaching_Social.rulePack.rulesStrings>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [SocialTopic].</li>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [SocialTopic].</li>
+				<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [SocialTopic] para [RECIPIENT_nameDef].</li>
+
+				<li>talkedabout(p=4)->conversaram sobre</li>
+				<li>talkedabout->compartilharam sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->tagarelaram sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->brincaram com</li>
+				<li>talkedabout->brincaram com</li>
+
+                <li>commentedabout->disse algo sobre</li>
+                <li>commentedabout->disse uma palavra sobre</li>
+                <li>commentedabout->fez um comentário sobre</li>
+                <li>commentedabout->comentou sobre</li>
+                <li>commentedabout->contou uma piada sobre</li>
+			</VSIE_Teaching_Social.rulePack.rulesStrings>
+
+		<!-- Teaching Intellectual -->
+			<VSIE_Teaching_Intellectual.rulePack.rulesStrings>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [IntellectualTopic].</li>
+				<li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [IntellectualTopic].</li>
+				<li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [IntellectualTopic] para [RECIPIENT_nameDef].</li>
+
+				<li>talkedabout(p=4)->conversaram sobre</li>
+				<li>talkedabout->compartilharam sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->tagarelaram sobre</li>
+				<li>talkedabout->falaram sobre</li>
+				<li>talkedabout->brincaram com</li>
+				<li>talkedabout->brincaram com</li>
+
+                <li>commentedabout->disse algo sobre</li>
+                <li>commentedabout->disse uma palavra sobre</li>
+                <li>commentedabout->fez um comentário sobre</li>
+                <li>commentedabout->comentou sobre</li>
+                <li>commentedabout->contou uma piada sobre</li>
+			</VSIE_Teaching_Intellectual.rulePack.rulesStrings>
+
 </LanguageData>
