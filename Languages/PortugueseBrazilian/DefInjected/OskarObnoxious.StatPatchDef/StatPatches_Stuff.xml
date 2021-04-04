@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Storytellers Expanded - Oskar Obnoxious -->
+        <!-- Stuff -->
+            <StatPatch_StuffPower_Armor_Sharp.patch.label>Armadura - Cortante</StatPatch_StuffPower_Armor_Sharp.patch.label>
+            <StatPatch_StuffPower_Armor_Blunt.patch.label>Armadura - Contundente</StatPatch_StuffPower_Armor_Blunt.patch.label>
+            <StatPatch_StuffPower_Armor_Heat.patch.label>Armadura - Calor</StatPatch_StuffPower_Armor_Heat.patch.label>
+            <StatPatch_StuffPower_Insulation_Cold.patch.label>Isolamento - Frio</StatPatch_StuffPower_Insulation_Cold.patch.label>
+            <StatPatch_StuffPower_Insulation_Heat.patch.label>Isolamento - Calor</StatPatch_StuffPower_Insulation_Heat.patch.label>
+
+</LanguageData>

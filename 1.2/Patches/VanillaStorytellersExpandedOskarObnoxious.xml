@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+	    <mods>
+		    <li>Vanilla Storytellers Expanded - Oskar Obnoxious</li>
+	    </mods>
+        <match Class="PatchOperationSequence">
+            <operations>
+                
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/OskarObnoxious.StatPatchDef[@Name = "StatPatchGenericBase"]/label</xpath>
+                    <value>
+                        <label>Estatística Global</label>
+                    </value>
+                </li>
+            
+            </operations>
+        </match>
+    </Operation>
+
+</Patch>

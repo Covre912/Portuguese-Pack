@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Storytellers Expanded - Oskar Obnoxious -->
+        <!-- General-->
+            <StatPatch_MoveSpeed.patch.label>Velocidade de movimento</StatPatch_MoveSpeed.patch.label>
+            <StatPatch_MentalBreakThreshold.patch.label>Limite de colapso mental</StatPatch_MentalBreakThreshold.patch.label>
+            <StatPatch_GlobalLearningFactor.patch.label>Fator de aprendizagem global</StatPatch_GlobalLearningFactor.patch.label>
+            <StatPatch_HungerRateMultiplier.patch.label>Taxa de fome</StatPatch_HungerRateMultiplier.patch.label>
+            <StatPatch_RestRateMultiplier.patch.label>Multiplicador de taxa de descanso</StatPatch_RestRateMultiplier.patch.label>
+            <StatPatch_EatingSpeed.patch.label>Velocidade de alimentação</StatPatch_EatingSpeed.patch.label>
+            <StatPatch_ComfyTemperatureMin.patch.label>Temperatura mínima confortável</StatPatch_ComfyTemperatureMin.patch.label>
+            <StatPatch_ComfyTemperatureMax.patch.label>Temperatura máxima confortável</StatPatch_ComfyTemperatureMax.patch.label>
+            <StatPatch_ImmunityGainSpeed.patch.label>Velocidade de ganho de imunidade</StatPatch_ImmunityGainSpeed.patch.label>
+            <StatPatch_CarryingCapacity.patch.label>Capacidade de transporte</StatPatch_CarryingCapacity.patch.label>
+            <StatPatch_MeatAmount.patch.label>Quantidade de carne</StatPatch_MeatAmount.patch.label>
+            <StatPatch_LeatherAmount.patch.label>Quantidade de couro</StatPatch_LeatherAmount.patch.label>
+            <StatPatch_MinimumHandlingSkill.patch.label>Habilidade mínima de domador</StatPatch_MinimumHandlingSkill.patch.label>
+            <StatPatch_PainShockThreshold.patch.label>Limiar de choque de dor</StatPatch_PainShockThreshold.patch.label>
+            <StatPatch_ForagedNutritionPerDay.patch.label>Nutrição forrageira por dia</StatPatch_ForagedNutritionPerDay.patch.label>
+
+        <!-- Combat -->
+            <StatPatch_MeleeHitChance.patch.label>Chance de acerto corpo a corpo</StatPatch_MeleeHitChance.patch.label>
+            <StatPatch_MeleeDodgeChance.patch.label>Chance de esquiva corpo a corpo</StatPatch_MeleeDodgeChance.patch.label>
+            <StatPatch_ShootingAccuracyPawn.patch.label>Precisão de tiro</StatPatch_ShootingAccuracyPawn.patch.label>
+            <StatPatch_AimingDelayFactor.patch.label>Tempo de pontaria</StatPatch_AimingDelayFactor.patch.label>
+            <StatPatch_PawnTrapSpringChance.patch.label>Chance de armadilha falhar</StatPatch_PawnTrapSpringChance.patch.label>
+            <StatPatch_IncomingDamageFactor.patch.label>Multiplicador de danos recebidos</StatPatch_IncomingDamageFactor.patch.label>
+
+        <!-- Social -->
+            <StatPatch_NegotiationAbility.patch.label>Poder diplomático</StatPatch_NegotiationAbility.patch.label>
+            <StatPatch_PawnBeauty.patch.label>Beleza</StatPatch_PawnBeauty.patch.label>
+            <StatPatch_ArrestSuccessChance.patch.label>Chance de sucesso na captura</StatPatch_ArrestSuccessChance.patch.label>
+            <StatPatch_TradePriceImprovement.patch.label>Melhoria dos preços do comércio</StatPatch_TradePriceImprovement.patch.label>
+            <StatPatch_SocialImpact.patch.label>Impacto social</StatPatch_SocialImpact.patch.label>
+            <StatPatch_TameAnimalChance.patch.label>Chance de domesticar animal</StatPatch_TameAnimalChance.patch.label>
+            <StatPatch_TrainAnimalChance.patch.label>Chance de treinamento de animal</StatPatch_TrainAnimalChance.patch.label>
+
+        <!-- Work -->
+            <StatPatch_WorkSpeedGlobal.patch.label>Velocidade de trabalho global</StatPatch_WorkSpeedGlobal.patch.label>
+            <StatPatch_MiningSpeed.patch.label>Velocidade de mineração</StatPatch_MiningSpeed.patch.label>
+            <StatPatch_DeepDrillingSpeed.patch.label>Velocidade de perfuração profunda</StatPatch_DeepDrillingSpeed.patch.label>
+            <StatPatch_MiningYield.patch.label>Rendimento de mineração</StatPatch_MiningYield.patch.label>
+            <StatPatch_SmoothingSpeed.patch.label>Velocidade de alisamento</StatPatch_SmoothingSpeed.patch.label>
+            <StatPatch_ResearchSpeed.patch.label>Velocidade de pesquisa</StatPatch_ResearchSpeed.patch.label>
+            <StatPatch_AnimalGatherSpeed.patch.label>Velocidade de colher em animais</StatPatch_AnimalGatherSpeed.patch.label>
+            <StatPatch_AnimalGatherYield.patch.label>Rendimento de colher em animais</StatPatch_AnimalGatherYield.patch.label>
+            <StatPatch_PlantWorkSpeed.patch.label>Velocidade de trabalho em plantas</StatPatch_PlantWorkSpeed.patch.label>
+            <StatPatch_PlantHarvestYield.patch.label>Rendimento de colheita de plantas</StatPatch_PlantHarvestYield.patch.label>
+            <StatPatch_HuntingStealth.patch.label>Caça furtiva</StatPatch_HuntingStealth.patch.label>
+            <StatPatch_ConstructionSpeed.patch.label>Velocidade de construção</StatPatch_ConstructionSpeed.patch.label>
+            <StatPatch_MedicalTendSpeed.patch.label>Velocidade de cuidado médico</StatPatch_MedicalTendSpeed.patch.label>
+            <StatPatch_MedicalTendQuality.patch.label>Qualidade de cuidado médico</StatPatch_MedicalTendQuality.patch.label>
+            <StatPatch_MedicalOperationSpeed.patch.label>Velocidade de operação médica</StatPatch_MedicalOperationSpeed.patch.label>
+            <StatPatch_MedicalSurgerySuccessChance.patch.label>Chance de sucesso de cirurgia médica</StatPatch_MedicalSurgerySuccessChance.patch.label>
+            <StatPatch_SmeltingSpeed.patch.label>Velocidade de fundição</StatPatch_SmeltingSpeed.patch.label>
+            <StatPatch_GeneralLaborSpeed.patch.label>Velocidade geral do trabalho</StatPatch_GeneralLaborSpeed.patch.label>
+            <StatPatch_CookSpeed.patch.label>Velocidade de cozimento</StatPatch_CookSpeed.patch.label>
+            <StatPatch_FoodPoisonChance.patch.label>Chance de envenenar comida</StatPatch_FoodPoisonChance.patch.label>
+            <StatPatch_DrugCookingSpeed.patch.label>Velocidade de cozimento de drogas</StatPatch_DrugCookingSpeed.patch.label>
+            <StatPatch_ButcheryFleshSpeed.patch.label>Velocidade de esquartejamento</StatPatch_ButcheryFleshSpeed.patch.label>
+            <StatPatch_ButcheryMechanoidSpeed.patch.label>Eficiência de destruição mecanoide</StatPatch_ButcheryMechanoidSpeed.patch.label>
+            <StatPatch_ButcheryFleshEfficiency.patch.label>Eficiência de esquartejamento</StatPatch_ButcheryFleshEfficiency.patch.label>
+            <StatPatch_ButcheryMechanoidEfficiency.patch.label>Eficiência de destruição mecanoide</StatPatch_ButcheryMechanoidEfficiency.patch.label>
+
+</LanguageData>

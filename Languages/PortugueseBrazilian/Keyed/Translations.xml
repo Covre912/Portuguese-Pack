@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Storytellers Expanded - Oskar Obnoxious -->
+        <!-- Labels -->
+            <PatchTitle>RimWorld {0} "{1}"</PatchTitle>
+	        <PatchTitleNoName>RimWorld {0}</PatchTitleNoName>
+	        <OskarObnoxious>Oskar Obnóxio</OskarObnoxious>
+	        <PatchNotes>Nova Atualização</PatchNotes>
+
+	    <!-- Patch Window -->
+	        <ValueChanged>{0} alterado de {1} para {2}</ValueChanged>
+	        <ValueUnchanged>{0} vai continuar o mesmo. O valor atual é {1}</ValueUnchanged>
+	        <ValueChangedDefault>O valor padrão {0} foi alterado de {1} para {2}</ValueChangedDefault>
+	        <ValueUnchangedDefault>O valor padrão {0} continuará o mesmo. O valor atual é {1}</ValueUnchangedDefault>
+
+	    <!-- Settings -->
+	        <TicksBetweenPatchNotes>Ticks Entre Atualizações</TicksBetweenPatchNotes>
+	        <TicksBetweenPatchNotesTooltip>Ticks até que a próxima atualização seja lançada.</TicksBetweenPatchNotesTooltip>
+	
+	        <DefsChangedPerPatch>Defs</DefsChangedPerPatch>
+	        <DefsChangedPerPatchTooltip>Número de Defs alterados por atualização</DefsChangedPerPatchTooltip>
+	        <FieldsChangedPerDef>Campos</FieldsChangedPerDef>
+	        <FieldsChangedPerDefTooltip>Número de Campos alterados por Def</FieldsChangedPerDefTooltip>
+	        <PatchNotesStored>Atualizações Arquivadas</PatchNotesStored>
+	        <PatchNotesStoredTooltip>Número máximo de Atualizações que serão arquivadas e visualizadas na janela de notas da atualização. Ele mostrará apenas as atuaçizações mais recentes até essa quantidade, mas todas as atualizações anteriores ainda aplicarão suas alterações.</PatchNotesStoredTooltip>
+	
+	        <ShowAllPatchNotes>Abrir Notas de Atualização</ShowAllPatchNotes>
+	        <ResetPatchNotesToDefault>Redefinir Configurações</ResetPatchNotesToDefault>
+	        <DebugShowPatchGeneration>Gerar Logs de Atualizações</DebugShowPatchGeneration>
+	        <DebugShowPatchGenerationTooltip>Envie todas as etapas de geração de atualizações para os logs de mensagens. (Apenas para depuração)</DebugShowPatchGenerationTooltip>
+
+</LanguageData>

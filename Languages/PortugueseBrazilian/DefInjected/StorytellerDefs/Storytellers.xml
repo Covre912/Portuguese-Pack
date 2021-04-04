@@ -16,6 +16,11 @@
             <VSE-IgorInvader.label>Igor Invasor</VSE-IgorInvader.label>
             <VSE-IgorInvader.description>Igor Invasor não se importa com histórias chatas sobre colônias prósperas. A única história que vale a pena contar é a do combate. Ele enviará invasões a cada dois ou três dias, recompensando os jogadores por lidar com eles rapidamente e punindo os jogadores por quaisquer perdas. Este narrador dobra todos os tipos de dano.</VSE-IgorInvader.description>
 
+    <!-- Vanilla Storytellers Expanded - Oskar Obnoxious -->
+        <!-- Oskar Obnoxious -->
+            <VSE_OskarObnoxious.label>Oskar Obnóxio</VSE_OskarObnoxious.label>
+            <VSE_OskarObnoxious.description>Oskar Obnóxio não tem consideração pelas histórias em andamento. As coisas girarão em suas cabeças inúmeras vezes antes que uma colônia apareça em chamas. Notas de atualização são lançadas com frequência e podem alterar os valores do jogo, mudando quase tudo completamente.</VSE_OskarObnoxious.description>
+
     <!-- Vanilla Storytellers Expanded - Perry Persistent -->
         <!--  Perry Persistent -->
             <VSE_PerryPersistent.label>Perry Persistente</VSE_PerryPersistent.label>
