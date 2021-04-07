@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Caravan Raid -->
+            <CaravanRaid.label>parada de caravana</CaravanRaid.label>
+            <CaravanRaid.description>Uma caravana desconhecida.</CaravanRaid.description>
+
+</LanguageData>

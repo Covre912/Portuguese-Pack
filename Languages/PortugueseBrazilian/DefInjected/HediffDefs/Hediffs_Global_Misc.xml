@@ -37,4 +37,11 @@
             <VTE_HigherBleedingRate.labelNoun>hemofilia</VTE_HigherBleedingRate.labelNoun>
             <VTE_HigherBleedingRate.description>A hemofilia é a incapacidade de o sangue coagular adequadamente, fazendo com que as feridas sangrem muito mais profusamente.</VTE_HigherBleedingRate.description>
 
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Wanted -->
+            <Wanted.label>procurado</Wanted.label>
+            <Wanted.labelNoun>procurado</Wanted.labelNoun>
+            <Wanted.description>Considerado um criminoso por uma facção.</Wanted.description>
+            <Wanted.stages.0.label>procurado</Wanted.stages.0.label>
+
 </LanguageData>

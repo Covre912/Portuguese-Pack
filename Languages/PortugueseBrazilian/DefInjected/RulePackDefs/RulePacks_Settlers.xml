@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Settlers -->
+            <NamerFactionSettler.rulePack.rulesStrings>
+                <li>r_name->O Assentamento [Color] [TerrainFeature]</li>
+            </NamerFactionSettler.rulePack.rulesStrings>
+
+        <!-- Bandits -->
+            <NamerFactionBandits.rulePack.rulesStrings>
+                <li>r_name->Os Bandidos [Color] [TerrainFeature]</li>
+            </NamerFactionBandits.rulePack.rulesStrings>
+
+</LanguageData>

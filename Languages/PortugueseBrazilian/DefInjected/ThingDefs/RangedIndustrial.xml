@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Factions Expaned - Settlers -->
+        <!-- Double-Action Revolver -->
+            <VFES_Gun_DoubleActionRevolver.label>revólver de ação dupla</VFES_Gun_DoubleActionRevolver.label>
+            <VFES_Gun_DoubleActionRevolver.description>Um revólver de ação dupla de padrão antigo. Não é muito preciso, mas tem uma velocidade de tiro decente para uma pistola e é rápido no saque.</VFES_Gun_DoubleActionRevolver.description>
+            <VFES_Gun_DoubleActionRevolver.tools.0.label>coronha</VFES_Gun_DoubleActionRevolver.tools.0.label>
+            <VFES_Gun_DoubleActionRevolver.tools.1.label>cano</VFES_Gun_DoubleActionRevolver.tools.1.label>
+
+        <!-- Double-Barreled Shotgun -->
+            <VFES_Gun_DoubleBarreledShotgun.label>espingarda de cano duplo</VFES_Gun_DoubleBarreledShotgun.label>
+            <VFES_Gun_DoubleBarreledShotgun.description>Uma antiga espingarda com dois canos carregados individualmente, que emitem um jato compacto de projéteis.</VFES_Gun_DoubleBarreledShotgun.description>
+            <VFES_Gun_DoubleBarreledShotgun.tools.0.label>coronha</VFES_Gun_DoubleBarreledShotgun.tools.0.label>
+            <VFES_Gun_DoubleBarreledShotgun.tools.1.label>cano</VFES_Gun_DoubleBarreledShotgun.tools.1.label>
+
+        <!-- Hunting Rifle -->
+            <VFES_Gun_HuntingRifle.label>rifle de caça</VFES_Gun_HuntingRifle.label>
+            <VFES_Gun_HuntingRifle.description>Um rifle de repetição antigo com uma mira. Com seu alcance excepcional e baixa taxa de tiro, é improvável que leve os animais à vingança, o que o torna uma excelente escolha para a caça.</VFES_Gun_HuntingRifle.description>
+            <VFES_Gun_HuntingRifle.tools.0.label>coronha</VFES_Gun_HuntingRifle.tools.0.label>
+            <VFES_Gun_HuntingRifle.tools.1.label>cano</VFES_Gun_HuntingRifle.tools.1.label>
+
+        <!-- Dynamite -->
+            <VFES_Weapon_GrenadeDynamite.label>dinamites</VFES_Weapon_GrenadeDynamite.label>
+            <VFES_Weapon_GrenadeDynamite.description>Varetas explosivas de combustível químico. Podem ser lançadas a uma curta distância, onde explodirão após um período de tempo aleatório.</VFES_Weapon_GrenadeDynamite.description>
+            <VFES_Weapon_GrenadeDynamite.verbs.0.label>lançar dinamite</VFES_Weapon_GrenadeDynamite.verbs.0.label>
+            <VFES_Proj_Dynamite.label>dinamite</VFES_Proj_Dynamite.label>
+
     <!-- Vanilla Weapons Expanded -->
         <!-- Smoke Grenades -->
             <VWE_SmokeGrenade.label>granadas de fumaça</VWE_SmokeGrenade.label>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Protection Fee -->
+            <ProtectionFee.label>Exigência de taxa de proteção</ProtectionFee.label>
+            <ProtectionFeeLTS.label>Exigência de taxa de proteção</ProtectionFeeLTS.label>
+
+        <!-- Drunk Muffalos -->
+            <DrunkMuffalos.label>Múfalos bêbados</DrunkMuffalos.label>
+            <DrunkMuffalosLTS.label>Múfalos bêbados</DrunkMuffalosLTS.label>
+
+</LanguageData>

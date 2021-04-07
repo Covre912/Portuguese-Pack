@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Hideout -->
+            <VFES_PlayerSettlement.label>Novo Esconderijo</VFES_PlayerSettlement.label>
+            <VFES_PlayerSettlement.description>Um pequeno esconderijo de membros de gangues e criminosos.</VFES_PlayerSettlement.description>
+            <VFES_PlayerSettlement.pawnSingular>bandido</VFES_PlayerSettlement.pawnSingular>
+            <VFES_PlayerSettlement.pawnsPlural>bandidos</VFES_PlayerSettlement.pawnsPlural>
+
+</LanguageData>

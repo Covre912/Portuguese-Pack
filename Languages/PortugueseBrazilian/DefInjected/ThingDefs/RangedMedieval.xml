@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Tomahawk -->
+            <VFES_Tomahawk.label>tomahawk</VFES_Tomahawk.label>
+            <VFES_Tomahawk.description>Um machado de uma mão semelhante a uma machadinha. Leve o suficiente para ser lançado com precisão em um alcance médio.</VFES_Tomahawk.description>
+            <VFES_Tomahawk.tools.0.label>cabo</VFES_Tomahawk.tools.0.label>
+            <VFES_Tomahawk.tools.1.label>lâmina</VFES_Tomahawk.tools.1.label>
+            <VFES_Tomahawk_Thrown.label>tomahawk</VFES_Tomahawk_Thrown.label>
+
     <!-- Vanilla Weapons Expanded -->
         <!-- Crossbow -->
             <VWE_Bow_Crossbow.label>besta</VWE_Bow_Crossbow.label>

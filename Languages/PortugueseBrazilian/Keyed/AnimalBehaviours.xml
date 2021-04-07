@@ -5,7 +5,7 @@
         <!-- Assexual -->
             <VEF_AsexualHatched>{0} reproduziu-se assexuadamente.</VEF_AsexualHatched>
             <VEF_AsexualCloning>{0} clonou-se.</VEF_AsexualCloning>
-            <VEF_AsexualHatchedEgg>{0} esporulou.</VEF_AsexualHatchedEgg>
+            <VEF_AsexualHatchedEgg>{0} chocou.</VEF_AsexualHatchedEgg>
 
         <!-- Not Tameable -->
             <VEF_NotTameable>Esta criatura é indomável</VEF_NotTameable>

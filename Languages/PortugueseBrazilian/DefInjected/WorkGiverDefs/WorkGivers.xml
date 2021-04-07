@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Take Chemshine -->
+            <TakeChemshineOutOfChemshineBarrel.label>retirar jägermeister dos barris químicos</TakeChemshineOutOfChemshineBarrel.label>
+            <TakeChemshineOutOfChemshineBarrel.verb>retirar jägermeister</TakeChemshineOutOfChemshineBarrel.verb>
+            <TakeChemshineOutOfChemshineBarrel.gerund>retirando jägermeister de</TakeChemshineOutOfChemshineBarrel.gerund>
+
+        <!-- Fill Chemshine -->
+            <FillChemshineBarrel.label>encher barris químicos</FillChemshineBarrel.label>
+            <FillChemshineBarrel.verb>encher</FillChemshineBarrel.verb>
+            <FillChemshineBarrel.gerund>enchendo</FillChemshineBarrel.gerund>
+
+</LanguageData>

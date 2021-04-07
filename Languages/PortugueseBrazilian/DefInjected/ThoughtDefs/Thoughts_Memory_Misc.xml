@@ -65,7 +65,7 @@
             <VTE_MechanoidIsKilled.stages.0.description>Essas máquinas do mal não merecem funcionar.</VTE_MechanoidIsKilled.stages.0.description>
 
        <!-- Squeamish -->
-            <VTE_ObservedManyBlood.stages.0.label>observou muito sangue</VTE_ObservedManyBlood.stages.0.label>
+            <VTE_ObservedManyBlood.stages.0.label>Observou muito sangue</VTE_ObservedManyBlood.stages.0.label>
             <VTE_ObservedManyBlood.stages.0.description>Eu vi muito sangue. Só de lembrar me dá ânsia de vômito.</VTE_ObservedManyBlood.stages.0.description>
 
         <!-- Couch Potato -->

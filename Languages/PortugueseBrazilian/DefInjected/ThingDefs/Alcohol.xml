@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Chemshine -->
+            <Chemshine.label>jägermeister</Chemshine.label>
+            <Chemshine.description>Um álcool perigoso geralmente consumido por bandidos e colonizadores industriais. Enquanto tira a tristeza e a dor, o jägermeister intoxica o sangue do bebedor com combustível químico, resultando em uma poderosa explosão após a morte.</Chemshine.description>
+            <Chemshine.ingestible.ingestCommandString>Beber {0}</Chemshine.ingestible.ingestCommandString>
+            <Chemshine.ingestible.ingestReportString>Bebendo {0}.</Chemshine.ingestible.ingestReportString>
+
+</LanguageData>

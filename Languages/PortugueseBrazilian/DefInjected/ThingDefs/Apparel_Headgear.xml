@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Bandana -->
+            <VFES_Headgear_Bandana.label>bandana</VFES_Headgear_Bandana.label>
+            <VFES_Headgear_Bandana.description>Um pedaço de tecido longo que protege a mandíbula da exposição ao vento. Torna o usuário praticamente irreconhecível.</VFES_Headgear_Bandana.description>
+
+        <!-- Sombrero -->
+            <VFES_Headgear_Sombrero.label>sombrero</VFES_Headgear_Sombrero.label>
+            <VFES_Headgear_Sombrero.description>Usado para proteger o usuário do sol. Necessário para qualquer tipo de impasse.</VFES_Headgear_Sombrero.description>
+
+        <!-- Flat Cap -->
+            <VFES_Headgear_FlatCap.label>boina</VFES_Headgear_FlatCap.label>
+            <VFES_Headgear_FlatCap.description>Uma boina prática. Protege um pouco do sol. Usado por colonos e colonizadores durante suas ocupações diárias.</VFES_Headgear_FlatCap.description>
+
+</LanguageData>

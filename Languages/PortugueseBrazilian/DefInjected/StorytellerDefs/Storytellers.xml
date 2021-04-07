@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Diego Dire -->
+            <VFES_DD.label>Diego Direto</VFES_DD.label>
+            <VFES_DD.description>Diego Direto acredita que as melhores histórias são as violentas, enfrentando adversidades desfavoráveis e caindo em uma labareda de glória com múfalos bêbados explodindo.</VFES_DD.description>
+
     <!-- Vanilla Storytellers Expanded - Empress Evil -->
         <!-- Empress Evil -->
             <VFEI_Empress.label>Imperatriz Impiedosa</VFEI_Empress.label>

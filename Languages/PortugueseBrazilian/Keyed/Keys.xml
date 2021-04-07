@@ -87,6 +87,50 @@
             <VSE.ReinforcementsDesc>Vendo que suas forças sofreram perdas, {FACTION_name} decidiu reforçar sua força de ataque</VSE.ReinforcementsDesc>
             <VSE.CostGoodwill>custo: {0} de boa vontade</VSE.CostGoodwill>
 
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Caravan Raid -->
+            <CaravanRaidLabel>Ataque à caravana de {0} </CaravanRaidLabel>
+            <CaravanRaidDialogue>Você recebeu informações sobre uma caravana de {0} que montou assentamento nas proximidades. Agora seria um bom momento para atacá-lo, mas esteja ciente de que as caravanas geralmente são vigiadas.</CaravanRaidDialogue>
+            
+        <!-- Wanted -->
+            <WantedLabel>Procurado por {0}</WantedLabel>
+            <WantedDialogue>{0} ofereceu uma recompensa por {PAWN_nameDef}, um criminoso das mais vil com muitas atrocidades sob o seu nome. {PAWN_nameDef} de {1} é procurado por {2} prata se entregue morto, o dobro se entregue vivo em um dos assentamentos de {0}.</WantedDialogue>
+            <WantedTurnIn>Entregar {PAWN_nameDef}</WantedTurnIn>
+            <WantedTurnInDescDead>Entregar o cadáver de {PAWN_nameDef} para receber uma recompensa.</WantedTurnInDescDead>
+            <WantedTurnInDescAlive>Entregar o criminoso {PAWN_nameDef} para receber uma recompensa.</WantedTurnInDescAlive>
+            <WantedTurnInLabel>{PAWN_nameDef} entregue.</WantedTurnInLabel>
+            <WantedTurnInMessageDead>Você entregou o cadáver de {PAWN_nameDef} por {0} prata.</WantedTurnInMessageDead>
+            <WantedTurnInMessageAlive>Você entregou o criminoso {PAWN_nameDef} vivo por {0} prata.</WantedTurnInMessageAlive>
+            <WantedHediff>Procurado por {0} por {1} prata </WantedHediff>
+
+        <!-- Default Settings -->
+            <DefaultSettings>Configurações Padrão</DefaultSettings>
+
+        <!-- Min/Max Reward -->
+            <MinReward>Recompensa mínima: {0}</MinReward>
+            <MaxReward>Recompensa máxima: {0}</MaxReward>
+
+        <!-- Chemsined -->
+            <Chemsined>O múfalo deve procurar o seu jägermeister: {0}</Chemsined>
+
+        <!-- Protection Fee -->
+            <ProtectionFeeLabel>Taxa de proteção</ProtectionFeeLabel>
+            <ProtectionFeeDialogue>Um bando de bandidos enviado por {0} ligou para você de perto.\n\nEles se oferecem para manter sua colônia protegida de quaisquer ameaças, mesmo as potencialmente causadas por eles, desde que você pague uma taxa de {1} prata.\n\nEsteja avisado - a recusa pode irritar os bandidos.</ProtectionFeeDialogue>
+            <ProtectionFeeAgree>Aceitar a oferta e pagar</ProtectionFeeAgree>
+            <ProtectionFeeAgreeDialogue>Os bandidos de {0} parecem felizes com o negócio e cortam a comunicação.</ProtectionFeeAgreeDialogue>
+            <ProtectionFeeDisagree>Recusar a oferta</ProtectionFeeDisagree>
+            <ProtectionFeeDisagreeDialogue>Os bandidos de {0} parecem felizes por você recusar a oferta e cortam a comunicação logo depois de garantir que eles não podem endosar sua segurança.</ProtectionFeeDisagreeDialogue>
+            <ProtectionFeeNotEnoughSilver>Prata insuficiente</ProtectionFeeNotEnoughSilver>
+
+        <!-- Drunk Muffalo -->
+            <DrunkMuffaloTitle>Múfalos Bêbados</DrunkMuffaloTitle>
+            <DrunkMuffaloMessage>Uma pequena manada de múfalos chegou na área. Parece que eles encontraram um estoque secreto de jägermeister antes, o que os faz ansiar ainda mais. Cuidado com suas travessuras.</DrunkMuffaloMessage>
+
+        <!-- Chemshine Barrel -->
+            <ContainsChemfuel>Contém {0} / {1} combustível químico.</ContainsChemfuel>
+            <ContainsChemshine>Contém {0} / {1} combustível jägermeister.</ContainsChemshine>
+            <NoChemfuel>precisa de combustível químico</NoChemfuel>
+
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Aspirations -->
             <VSIE.WorkFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de trabalhar.</VSIE.WorkFrenzyBeginLetterContinue>

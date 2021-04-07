@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Chemroot -->
+            <Plant_Chemroot.label>raiz química</Plant_Chemroot.label>
+            <Plant_Chemroot.description>Esta raiz altamente volátil é cultivada pelo seu combustível químico. É difícil de colher e só cresce em solos extremamente férteis. Apesar do risco de uma grande explosão de cadeia, essas plantas são frequentemente cultivadas por fazendeiros desesperados e agroempresas imperiais.</Plant_Chemroot.description>
+
+</LanguageData>

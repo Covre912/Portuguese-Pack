@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Vest -->
+            <Apparel_Vest.label>colete</Apparel_Vest.label>
+            <Apparel_Vest.description>Um colete simples, fornece decente isolamento ao calor e ao frio. Aumenta muito o impacto social.</Apparel_Vest.description>
+
+        <!-- Great Dress -->
+            <Apparel_GreatDress.label>vestido</Apparel_GreatDress.label>
+            <Apparel_GreatDress.description>Um vestido lindo, geralmente usado por senhoras e sufragistas. Aumenta muito o impacto social.</Apparel_GreatDress.description>
+
+</LanguageData>

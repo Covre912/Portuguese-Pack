@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Chemboiler -->
+            <ChemBoiler.label>caldeira</ChemBoiler.label>
+            <ChemBoiler.description>Um dispositivo que converte combustível químico em calor. Máquinas simples não permitem que a temperatura seja ajustada.</ChemBoiler.description>
+
+        <!-- Chemlamp -->
+            <Chemlamp.label>lâmpada química</Chemlamp.label>
+            <Chemlamp.description>Uma lâmpada alimentada por combustível químico. Pode ser colocada com segurança no exterior.</Chemlamp.description>
+
+        <!-- Chemlamp Post -->
+            <ChemlampPost.label>poste de lâmpada química</ChemlampPost.label>
+            <ChemlampPost.description>Um poste com uma lâmpada pré-industrial de combustível químico. Pode ser colocado com segurança no exterior.</ChemlampPost.description>
+
+        <!-- Chemshine Barrel -->
+            <Building_ChemshineBarrel.label>barril de jägermeister</Building_ChemshineBarrel.label>
+            <Building_ChemshineBarrel.description>Um barril para fermentar jägermeister.</Building_ChemshineBarrel.description>
+
+        <!-- Door Saloon -->
+            <DoorSaloon.label>porta de salão</DoorSaloon.label>
+            <DoorSaloon.description>Uma porta de salão para suas necessidades. Embora não forneça muita proteção, ele se abre quase instantaneamente.</DoorSaloon.description>
+
+        <!-- Post -->
+            <Post.label>poste</Post.label>
+            <Post.description>Um poste de estilo antigo para segurar um telhado.</Post.description>
+
+        <!-- Stool Bar -->
+            <StoolBar.label>banco de bar</StoolBar.label>
+            <StoolBar.description>Um banco de bar simples.</StoolBar.description>
+
+        <!-- Table Circular -->
+            <TableCircular.label>mesa circular</TableCircular.label>
+            <TableCircular.description>Mesa circular simples.</TableCircular.description>
+        
+        <!-- Table Faro -->
+            <TableFaro.label>mesa de faro</TableFaro.label>
+            <TableFaro.description>Uma mesa com tampo macio para jogar faro. Permite até dois jogadores ao mesmo tempo.</TableFaro.description>
+
+        <!-- Five Finger Fillet Table -->
+            <TableFiveFingerFilet.label>mesa de filete de cinco dedos</TableFiveFingerFilet.label>
+            <TableFiveFingerFilet.description>Uma mesa de madeira para jogar filete de cinco dedos. É possível perder um dedo ou dois.\n\nEmbora esta atividade cause cortes nos dedos dos jogadores, ela também treina lentamente a habilidade corpo a corpo.</TableFiveFingerFilet.description>
+
+        <!-- Gatiling Gun -->
+            <Gun_GatlingGun.label>metralhadora</Gun_GatlingGun.label>
+            <Gun_GatlingGun.description>Uma metralhadora automática simples feita para ser montada.</Gun_GatlingGun.description>
+
+        <!-- Windmill -->
+            <Windmill.label>moinho de vento</Windmill.label>
+            <Windmill.description>Um gerador elétrico antigo movido a vento. Requer um grande espaço livre na frente e atrás para um fluxo de ar ideal.</Windmill.description>
+
+</LanguageData>
