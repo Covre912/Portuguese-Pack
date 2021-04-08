@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Factory Floor -->
+            <VFE_FactoryFloor.label>chão de fábrica</VFE_FactoryFloor.label>
+            <VFE_FactoryFloor.description>Ladrilhos de aço reforçados, capazes de manter no lugar máquinas pesadas e complexas. Não é o mais bonito de se olhar.</VFE_FactoryFloor.description>
+
+        <!-- Factory Path -->
+            <VFE_FactoryPath.label>caminho de fábrica</VFE_FactoryPath.label>
+            <VFE_FactoryPath.description>Um caminho de fábrica designado e seguro. Aumenta a velocidade de movimento, mas precisa ser colocado no chão de fábrica.</VFE_FactoryPath.description>
+
+</LanguageData>

@@ -87,6 +87,15 @@
             <VSE.ReinforcementsDesc>Vendo que suas forças sofreram perdas, {FACTION_name} decidiu reforçar sua força de ataque</VSE.ReinforcementsDesc>
             <VSE.CostGoodwill>custo: {0} de boa vontade</VSE.CostGoodwill>
 
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Long Range Missile -->
+            <VFEM_SiloNoTarget>Atualmente sem alvo</VFEM_SiloNoTarget>
+            <VFEM_SiloTargeting>Atualmente mirando {0} de {1} </VFEM_SiloTargeting>
+            <VFEM_SiloConditionsSatisfied>Todos as condições satisfeitas</VFEM_SiloConditionsSatisfied>
+            <VFEM_SiloConditionsUnsatisfied>Faltam algumas condições</VFEM_SiloConditionsUnsatisfied>
+            <VFEM_SiloCountEntry>{0}: {1}/{2}</VFEM_SiloCountEntry>
+            <VFEM_SiloAimAtQuestSite>A localização não contém objetos grandes o suficiente para serem direcionados</VFEM_SiloAimAtQuestSite>
+
     <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Caravan Raid -->
             <CaravanRaidLabel>Ataque à caravana de {0} </CaravanRaidLabel>

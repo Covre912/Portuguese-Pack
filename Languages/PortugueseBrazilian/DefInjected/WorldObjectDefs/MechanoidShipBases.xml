@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Frigate -->
+            <VFEM_Frigate.label>fragata mecanóide</VFEM_Frigate.label>
+            <VFEM_Frigate.description>Aumenta ligeiramente a presença mecanóide.</VFEM_Frigate.description>
+
+        <!-- Destroyer -->
+            <VFEM_Destroyer.label>contratorpedeiro mecanóide</VFEM_Destroyer.label>
+            <VFEM_Destroyer.description>Aumenta a presença mecanóide.</VFEM_Destroyer.description>
+
+        <!-- Cruiser -->
+            <VFEM_Cruiser.label>cruzador</VFEM_Cruiser.label>
+            <VFEM_Cruiser.description>Aumenta muito a presença mecanóide.</VFEM_Cruiser.description>
+
+        <!-- Troopship -->
+            <VFEM_Troopship.label>transportador</VFEM_Troopship.label>
+            <VFEM_Troopship.description>Aumenta drasticamente a presença mecanóide.</VFEM_Troopship.description>
+
+        <!-- Carrier -->
+            <VFEM_Carrier.label>carregador</VFEM_Carrier.label>
+            <VFEM_Carrier.description>Aumenta tremendamente a presença mecanóide.</VFEM_Carrier.description>
+
+        <!-- Missile -->
+            <VFEM_TravelingMissile.label>míssil</VFEM_TravelingMissile.label>
+            <VFEM_TravelingMissile.description>míssil em vôo.</VFEM_TravelingMissile.description>
+
+</LanguageData>

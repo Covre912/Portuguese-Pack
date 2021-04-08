@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Advanced Centipede -->
+            <VFE_Mech_AdvancedCentipede.label>centopéia avançada</VFE_Mech_AdvancedCentipede.label>
+            <VFE_Mech_AdvancedCentipede.description>Uma versão ainda mais pesada e mais blindada do mecanóide Centopéia. Ao contrário de seus parentes mais antigos e menos avançados, esta unidade em particular é muito mais inteligente e buscará cobertura antes de tentar quebrar as linhas de defesa.</VFE_Mech_AdvancedCentipede.description>
+            <VFE_Mech_AdvancedCentipede.tools.0.label>cabeça</VFE_Mech_AdvancedCentipede.tools.0.label>
+
+        <!-- Advanced Lancer -->
+            <VFE_Mech_AdvancedLancer.label>lanceiro avançado</VFE_Mech_AdvancedLancer.label>
+            <VFE_Mech_AdvancedLancer.description>Um mecanóide de infantaria de longo alcance altamente atualizado. Ao contrário de seus parentes mais antigos e menos avançados, esta unidade em particular é muito mais inteligente e buscará cobertura e provará ser um oponente muito mais desafiador em combate corpo a corpo.</VFE_Mech_AdvancedLancer.description>
+            <VFE_Mech_AdvancedLancer.tools.0.label>punho esquerdo</VFE_Mech_AdvancedLancer.tools.0.label>
+            <VFE_Mech_AdvancedLancer.tools.1.label>punho direito</VFE_Mech_AdvancedLancer.tools.1.label>
+            <VFE_Mech_AdvancedLancer.tools.2.label>cabeça</VFE_Mech_AdvancedLancer.tools.2.label>
+
+        <!-- Advanced Knight -->
+            <VFE_Mech_AdvancedKnight.label>cavaleiro avançado</VFE_Mech_AdvancedKnight.label>
+            <VFE_Mech_AdvancedKnight.description>Um mecanóide de infantaria pesada equipado com várias atualizações. Esta variante do Cavaleiro em particular parece ter uma célula de energia acelerada, permitindo movimentos mais rápidos e um escudo de energia mais forte. Como sua variante não atualizada, o Cavaleiro vem equipado com um devastador desintegrador de carga, embora seu módulo de mira pareça ser muito mais avançado.</VFE_Mech_AdvancedKnight.description>
+            <VFE_Mech_AdvancedKnight.tools.0.label>punho esquerdo</VFE_Mech_AdvancedKnight.tools.0.label>
+            <VFE_Mech_AdvancedKnight.tools.1.label>punho direito</VFE_Mech_AdvancedKnight.tools.1.label>
+            <VFE_Mech_AdvancedKnight.tools.2.label>cabeça</VFE_Mech_AdvancedKnight.tools.2.label>
+
+        <!-- Advanced Inquisitor -->
+            <VFE_Mech_AdvancedInquisitor.label>inquisidor avançado</VFE_Mech_AdvancedInquisitor.label>
+            <VFE_Mech_AdvancedInquisitor.description>Um mecanóide de infantaria pesada equipado com várias atualizações. Apesar dos tanques de combustível químico muito maiores, esta variante do Inquisidor é mais rápida do que sua contraparte. Este mecanóide não apenas avança sobre alvos prioritários com plumas de fogo, mas também é instalado com um sistema muito melhor à prova de falhas que detona a máquina, mas também engolfa alvos próximos em fogo de combustível químico.</VFE_Mech_AdvancedInquisitor.description>
+            <VFE_Mech_AdvancedInquisitor.tools.0.label>punho esquerdo</VFE_Mech_AdvancedInquisitor.tools.0.label>
+            <VFE_Mech_AdvancedInquisitor.tools.1.label>punho direito</VFE_Mech_AdvancedInquisitor.tools.1.label>
+            <VFE_Mech_AdvancedInquisitor.tools.2.label>cabeça</VFE_Mech_AdvancedInquisitor.tools.2.label>
+
+        <!-- Advanced Scyther -->
+            <VFE_Mech_AdvancedScyther.label>ceifador avançado</VFE_Mech_AdvancedScyther.label>
+            <VFE_Mech_AdvancedScyther.description>Uma unidade mecanóide densa, estreita e muito inteligente com atualizações adicionais. Esta unidade parece utilizar propriedades antigravitacionais para se propelir muito mais rápido do que suas versões antigas, bem como superaquecer seus acessórios de braço laminado para cortar mais facilmente.</VFE_Mech_AdvancedScyther.description>
+            <VFE_Mech_AdvancedScyther.tools.0.label>lâmina esquerda</VFE_Mech_AdvancedScyther.tools.0.label>
+            <VFE_Mech_AdvancedScyther.tools.1.label>lâmina direita</VFE_Mech_AdvancedScyther.tools.1.label>
+            <VFE_Mech_AdvancedScyther.tools.2.label>cabeça</VFE_Mech_AdvancedScyther.tools.2.label>
+
+        <!-- Advanced Pikeman -->
+            <VFE_Mech_AdvancedPikeman.label>piqueiro avançado</VFE_Mech_AdvancedPikeman.label>
+            <VFE_Mech_AdvancedPikeman.description>Um mecanóide de combate especializado em armas de longo alcance. Esta unidade em particular parece ter sido atualizada com membros adicionais para movimentos mais rápidos, bem como uma camada de placas de plastiaço para defesa extra contra combatentes corpo a corpo.</VFE_Mech_AdvancedPikeman.description>
+            <VFE_Mech_AdvancedPikeman.tools.0.label>perna dianteira esquerda</VFE_Mech_AdvancedPikeman.tools.0.label>
+            <VFE_Mech_AdvancedPikeman.tools.1.label>perna dianteira direita</VFE_Mech_AdvancedPikeman.tools.1.label>
+            <VFE_Mech_AdvancedPikeman.tools.2.label>cabeça</VFE_Mech_AdvancedPikeman.tools.2.label>
+
+        <!-- Advanced Carpenter -->
+            <VFE_Mech_AdvancedCarpenter.label>carpinteiro avançado</VFE_Mech_AdvancedCarpenter.label>
+            <VFE_Mech_AdvancedCarpenter.description>Uma versão atualizada do mecanóide utilitário Carpinteiro. Separada de suas iterações anteriores, esta versão não apenas se move mais rápido, mas também utiliza tochas de plasma para desmontar quase instantaneamente todas as estruturas. Combinada com possivelmente a armadura mais pesada de todos os mecanóides, esta unidade precisa ser priorizada antes de chegar à linha de frente inimiga. Se este mecanóide detectar que está prestes a parar de funcionar, um choque EMP é emitido, que desativa temporariamente todos os eletrônicos próximos em um último esforço para quebrar a linha de frente de seus aliados.</VFE_Mech_AdvancedCarpenter.description>
+            <VFE_Mech_AdvancedCarpenter.tools.0.label>perna dianteira esquerda</VFE_Mech_AdvancedCarpenter.tools.0.label>
+            <VFE_Mech_AdvancedCarpenter.tools.1.label>perna dianteira direita</VFE_Mech_AdvancedCarpenter.tools.1.label>
+            <VFE_Mech_AdvancedCarpenter.tools.2.label>cabeça</VFE_Mech_AdvancedCarpenter.tools.2.label>
+
+        <!-- Ancient Carpenter -->
+            <VFE_AncientMech_AncientCarpenter.label>carpinteiro</VFE_AncientMech_AncientCarpenter.label>
+            <VFE_AncientMech_AncientCarpenter.description>Um mecanóide utilitário rápido e quadrúpede, destinado a montar e desmontar estruturas por meio de uma série de garras, maçaricos e brocas.</VFE_AncientMech_AncientCarpenter.description>
+            <VFE_AncientMech_AncientCarpenter.tools.0.label>perna dianteira esquerda</VFE_AncientMech_AncientCarpenter.tools.0.label>
+            <VFE_AncientMech_AncientCarpenter.tools.1.label>perna dianteira direita</VFE_AncientMech_AncientCarpenter.tools.1.label>
+            <VFE_AncientMech_AncientCarpenter.tools.2.label>cabeça</VFE_AncientMech_AncientCarpenter.tools.2.label>
+
+        <!-- Autocleaner -->
+            <VFE_Mechanoids_Autocleaner.label>aspirador automático</VFE_Mechanoids_Autocleaner.label>
+            <VFE_Mechanoids_Autocleaner.description>Um drone de velocidade média, simplório, com rodas, grandes depuradores e um intrincado sistema de câmara a vácuo. Quando usadas em conjunto, as ferramentas mencionadas resultam em um drone capaz de limpar rapidamente uma variedade de sujeira, sejam molhadas ou secas. Os resíduos coletados durante a limpeza são incinerados pouco tempo depois, enquanto o drone está carregando.</VFE_Mechanoids_Autocleaner.description>
+            <VFE_Mechanoids_Autocleaner.tools.0.label>cabeça</VFE_Mechanoids_Autocleaner.tools.0.label>
+
+        <!-- Autohauler -->
+            <VFE_Mechanoids_Autohauler.label>transportador automático</VFE_Mechanoids_Autohauler.label>
+            <VFE_Mechanoids_Autohauler.description>Um drone capaz de levantar peso com uma garra hidráulica, embora seja lento é bastante eficiente em termos de energia em comparação com a maioria dos drones.</VFE_Mechanoids_Autohauler.description>
+            <VFE_Mechanoids_Autohauler.tools.0.label>cabeça</VFE_Mechanoids_Autohauler.tools.0.label>
+
+        <!-- Autominer -->
+            <VFE_Mechanoids_Autominer.label>minerador automático</VFE_Mechanoids_Autominer.label>
+            <VFE_Mechanoids_Autominer.description>Um drone fortificado com um braço de perfuração superdimensionado e uma série de unidades de pá. Esta unidade move-se rapidamente e é capaz de cortar rochas e pedras com rapidez, no entanto, a duração da bateria deixa a desejar.</VFE_Mechanoids_Autominer.description>
+            <VFE_Mechanoids_Autominer.tools.0.label>cabeça</VFE_Mechanoids_Autominer.tools.0.label>
+
+        <!-- Combat Mechanoid -->
+            <VFE_Mechanoids_Combat.label>mecanóide de combate</VFE_Mechanoids_Combat.label>
+            <VFE_Mechanoids_Combat.description>Um drone de combate à distância simples, ligeiramente menor que um humano normal. Patrulha áreas designadas analisando ameaças próximas e os engaja de forma autônoma.</VFE_Mechanoids_Combat.description>
+            <VFE_Mechanoids_Combat.tools.0.label>cabeça</VFE_Mechanoids_Combat.tools.0.label>
+
+        <!-- Riot Mechanoid -->
+            <VFE_Mechanoids_Riot.label>mecanóide de rinha</VFE_Mechanoids_Riot.label>
+            <VFE_Mechanoids_Riot.description>Um drone de combate corpo a corpo simples, ligeiramente menor que um humano normal. Patrulha áreas designadas analisando ameaças próximas e os engaja de forma autônoma.</VFE_Mechanoids_Riot.description>
+            <VFE_Mechanoids_Riot.tools.0.label>lâmina</VFE_Mechanoids_Riot.tools.0.label>
+            <VFE_Mechanoids_Riot.tools.1.label>escudo</VFE_Mechanoids_Riot.tools.1.label>
+
+        <!-- Mobile Turret -->
+            <VFE_Mechanoids_Turret.label>torreta móvel</VFE_Mechanoids_Turret.label>
+            <VFE_Mechanoids_Turret.description>Uma plataforma simples com um local para uma torre ser instalada, permitindo poder de fogo móvel sem risco.</VFE_Mechanoids_Turret.description>
+            <VFE_Mechanoids_Turret.tools.0.label>cabeça</VFE_Mechanoids_Turret.tools.0.label>
+
+        <!-- Centipede -->
+            <VFE_Mech_Centipede.label>centopéia</VFE_Mech_Centipede.label>
+            <VFE_Mech_Centipede.description>Um mecanóides de combate pesado. Sua armadura pesada e poder de fogo os tornam muito eficazes contra defensores estáticos agrupados. Eles são um tanto vulneráveis ​​às táticas móveis.</VFE_Mech_Centipede.description>
+            <VFE_Mech_Centipede.tools.0.label>cabeça</VFE_Mech_Centipede.tools.0.label>
+
+        <!-- Lancer -->
+            <VFE_Mech_Lancer.label>lanceiro</VFE_Mech_Lancer.label>
+            <VFE_Mech_Lancer.description>Um mecanóide de combate rápido construído para combate de médio e longo alcance. Seu corpo é leve, tornando-o um alvo vulnerável ​​a curta distância - especialmente em combate corpo a corpo.</VFE_Mech_Lancer.description>
+            <VFE_Mech_Lancer.tools.0.label>punho esquerdo</VFE_Mech_Lancer.tools.0.label>
+            <VFE_Mech_Lancer.tools.1.label>punho direito</VFE_Mech_Lancer.tools.1.label>
+            <VFE_Mech_Lancer.tools.2.label>cabeça</VFE_Mech_Lancer.tools.2.label>
+
+        <!-- Knight -->
+            <VFE_Mech_Knight.label>cavaleiro</VFE_Mech_Knight.label>
+            <VFE_Mech_Knight.description>Um mecanóide bípede de velocidade média ligeiramente maior do que um humano médio, projetado para receber dano de combatentes. O espesso revestimento blindado é ainda mais encorajado por um cinto de proteção, capaz de parar projéteis. Equipado com um rifle de carga de médio alcance, o Cavaleiro é melhor combatido com explosivos de longo alcance.</VFE_Mech_Knight.description>
+            <VFE_Mech_Knight.tools.0.label>punho esquerdo</VFE_Mech_Knight.tools.0.label>
+            <VFE_Mech_Knight.tools.1.label>punho direito</VFE_Mech_Knight.tools.1.label>
+            <VFE_Mech_Knight.tools.2.label>cabeça</VFE_Mech_Knight.tools.2.label>
+
+        <!-- Inquisitor -->
+            <VFE_Mech_Inquisitor.label>inquisidor</VFE_Mech_Inquisitor.label>
+            <VFE_Mech_Inquisitor.description>Um mecanóide pesado e lento, destinado a negar área por meio do lança-chamas. Embora a própria pluma de chamas tenha um alcance curto, encontrar um Inquisidor de perto é desaconselhável, já que os tanques de combustível químico montados na parte traseira são programados para explodir em caso de mau funcionamento do sistema.</VFE_Mech_Inquisitor.description>
+            <VFE_Mech_Inquisitor.tools.0.label>punho esquerdo</VFE_Mech_Inquisitor.tools.0.label>
+            <VFE_Mech_Inquisitor.tools.1.label>punho direito</VFE_Mech_Inquisitor.tools.1.label>
+            <VFE_Mech_Inquisitor.tools.2.label>cabeça</VFE_Mech_Inquisitor.tools.2.label>
+        
+        <!-- Sycther -->
+            <VFE_Mech_Scyther.label>ceifador</VFE_Mech_Scyther.label>
+            <VFE_Mech_Scyther.description>Um mecanóide rápido e delgado, especializados em abordagem rápida e combate de curta distância. Seus corpos estão cobertos de pontas e lâminas, mas usam principalmente duas lâminas de braço para decepar membros ou estripar suas vítimas.</VFE_Mech_Scyther.description>
+            <VFE_Mech_Scyther.tools.0.label>lâmina esquerda</VFE_Mech_Scyther.tools.0.label>
+            <VFE_Mech_Scyther.tools.1.label>lâmina direita</VFE_Mech_Scyther.tools.1.label>
+            <VFE_Mech_Scyther.tools.2.label>cabeça</VFE_Mech_Scyther.tools.2.label>
+
+        <!-- Pikeman -->
+            <VFE_Mech_Pikeman.label>piqueiro</VFE_Mech_Pikeman.label>
+            <VFE_Mech_Pikeman.description>Um mecanóide de combate com várias pernas especializado em armas de longo alcance. Embora eficaz à distância, é fraco em lutas corpo a corpo.</VFE_Mech_Pikeman.description>
+            <VFE_Mech_Pikeman.tools.0.label>perna dianteira esquerda</VFE_Mech_Pikeman.tools.0.label>
+            <VFE_Mech_Pikeman.tools.1.label>perna dianteira direita</VFE_Mech_Pikeman.tools.1.label>
+            <VFE_Mech_Pikeman.tools.2.label>cabeça</VFE_Mech_Pikeman.tools.2.label>
+
+        <!-- Carpenter -->
+            <VFE_Mech_Carpenter.label>carpinteiro</VFE_Mech_Carpenter.label>
+            <VFE_Mech_Carpenter.description>Um mecanóide utilitário rápido e quadrúpede, destinado a montar e desmontar estruturas por meio de uma série de garras, maçaricos e brocas. Os carpinteiros analisam as estruturas próximas em busca de parâmetros de projeto conflitantes antes de desmontá-los.</VFE_Mech_Carpenter.description>
+            <VFE_Mech_Carpenter.tools.0.label>perna dianteira esquerda</VFE_Mech_Carpenter.tools.0.label>
+            <VFE_Mech_Carpenter.tools.1.label>perna dianteira direita</VFE_Mech_Carpenter.tools.1.label>
+            <VFE_Mech_Carpenter.tools.2.label>cabeça</VFE_Mech_Carpenter.tools.2.label>
+
+</LanguageData>

@@ -1,6 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Abandoned Factory -->
+            <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings>
+                <li>questName->A [factory] [abandoned]</li>
+                <li>questName->[factory] [abandoned]</li>
+                <li>questName->[asker_nameDef] e a [factory] [abandoned]</li>
+                <li>abandoned->Abandonada</li>
+                <li>abandoned->Antiga</li>
+                <li>abandoned->Descomissionada</li>
+                <li>abandoned->Arruinada</li>
+                <li>factory->Fábrica</li>
+                <li>factory->Linha de Produção</li>
+                <li>factory->Fábrica Automatizada</li>
+                <li>factory->Área de Manufura</li>
+            </VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings>
+            <VFE_OpportunitySite_AbandonedFactory.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos enviou uma mensagem. Aparentemente, [siteFaction_pawnsPlural] com base em uma fábrica abandonada próxima estão invadindo suas caravanas. A fábrica é controlada por [siteFaction_name]. Pode ser uma grande oportunidade para obter elementos de fábrica e componentes mecanóides.\n\n[asker_nameDef] está nos pedindo para eliminar a ameaça e não se preocupa com o destino das peças das máquinas. [asker_label] diz que [sitePart0_description].</li>
+            </VFE_OpportunitySite_AbandonedFactory.questDescriptionRules.rulesStrings>
+            <VFE_OpportunitySite_AbandonedFactory.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFE_OpportunitySite_AbandonedFactory.LetterLabelQuestExpired.slateRef>
+            <VFE_OpportunitySite_AbandonedFactory.LetterTextQuestExpired.slateRef>Os bandidos fizeram as malas e seguiram em frente. A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_AbandonedFactory.LetterTextQuestExpired.slateRef>
+            <VFE_OpportunitySite_AbandonedFactory.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFE_OpportunitySite_AbandonedFactory.LetterLabelQuestFailed.slateRef>
+            <VFE_OpportunitySite_AbandonedFactory.LetterTextQuestFailed.slateRef>Depois de serem descobertos, os bandidos se dispersaram. A missão [resolvedQuestName] terminou.</VFE_OpportunitySite_AbandonedFactory.LetterTextQuestFailed.slateRef>
+            <VFE_OpportunitySite_AbandonedFactory.LetterLabelPaymentArrived.slateRef>O pagamento chegou</VFE_OpportunitySite_AbandonedFactory.LetterLabelPaymentArrived.slateRef>
+            <VFE_OpportunitySite_AbandonedFactory.LetterTextPaymentArrived.slateRef>Você derrotou o acampamento dos bandidos!\n\nO pagamento de [asker_faction_name] chegou.</VFE_OpportunitySite_AbandonedFactory.LetterTextPaymentArrived.slateRef>
+            <VFE_OpportunitySite_AbandonedFactory.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFE_OpportunitySite_AbandonedFactory.LetterLabelFavorReceiver.slateRef>
+            <VFE_OpportunitySite_AbandonedFactory.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</VFE_OpportunitySite_AbandonedFactory.LetterTextFavorReceiver.slateRef>
+
+        <!-- Broadcasting Station -->
+            <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings>
+                <li>questName->A [station] de [broadcasting] [abandoned]</li>
+                <li>questName-> [station] de [broadcasting] [abandoned]</li>
+                <li>questName->[asker_nameDef] e a [station] de [broadcasting] [abandoned]</li>
+                <li>abandoned->Abandonada</li>
+                <li>abandoned->Antiga</li>
+                <li>abandoned->Descomissionada</li>
+                <li>abandoned->Arruniada</li>
+                <li>broadcasting->Tranmissão</li>
+                <li>broadcasting->Radar</li>
+                <li>broadcasting->Cálculo</li>
+                <li>broadcasting->Supercomputador</li>
+                <li>station->Estação</li>
+                <li>station->Facilidade</li>
+                <li>station->Antena</li>
+                <li>station->Repartição</li>
+            </VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings>
+            <VFE_OpportunitySite_BroadcastingStation.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos enviou uma mensagem. De acordo com eles, [siteFaction_pawnsPlural] tem usado uma estação de transmissão próxima como base de operações. O assentamento é controlado por [siteFaction_name]. É garantido que contém algumas unidades de supercomputador ainda em funcionamento.\n\n[asker_nameDef] está nos pedindo para cuidar dos inimigos, e não se preocupa com o destino do antigo aparato eletrônico. [asker_label] diz que [sitePart0_description].</li> 
+            </VFE_OpportunitySite_BroadcastingStation.questDescriptionRules.rulesStrings>
+            <VFE_OpportunitySite_BroadcastingStation.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFE_OpportunitySite_BroadcastingStation.LetterLabelQuestExpired.slateRef>
+            <VFE_OpportunitySite_BroadcastingStation.LetterTextQuestExpired.slateRef>Os bandidos fizeram as malas e seguiram em frente. A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_BroadcastingStation.LetterTextQuestExpired.slateRef>
+            <VFE_OpportunitySite_BroadcastingStation.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFE_OpportunitySite_BroadcastingStation.LetterLabelQuestFailed.slateRef>
+            <VFE_OpportunitySite_BroadcastingStation.LetterTextQuestFailed.slateRef>Depois de serem descobertos, os bandidos se dispersaram. A missão [resolvedQuestName] terminou.</VFE_OpportunitySite_BroadcastingStation.LetterTextQuestFailed.slateRef>
+            <VFE_OpportunitySite_BroadcastingStation.LetterLabelPaymentArrived.slateRef>O pagamento chegou</VFE_OpportunitySite_BroadcastingStation.LetterLabelPaymentArrived.slateRef>
+            <VFE_OpportunitySite_BroadcastingStation.LetterTextPaymentArrived.slateRef>Você derrotou o acampamento dos bandidos!\n\nO pagamento de [asker_faction_name] chegou.</VFE_OpportunitySite_BroadcastingStation.LetterTextPaymentArrived.slateRef>
+            <VFE_OpportunitySite_BroadcastingStation.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFE_OpportunitySite_BroadcastingStation.LetterLabelFavorReceiver.slateRef>
+            <VFE_OpportunitySite_BroadcastingStation.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</VFE_OpportunitySite_BroadcastingStation.LetterTextFavorReceiver.slateRef>
+
+        <!-- Mechanoid Attack Party -->
+            <VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings>
+				<li>questName->Salvando o povo de [asker_faction_name]</li>
+				<li>questName->Cerco de mecanóides em [asker_faction_name]</li>
+				<li>questName->[asker_faction_name] Sob Cerco</li>
+				<li>questName->[asker_faction_name] Sob Ataque</li>
+            </VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings>
+            <VFE_OpportunitySite_MechanoidAttackParty.questDescriptionRules.rulesStrings>
+				<li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], diz que o posto avançado [asker_possessive] está sob ataque de mecanóides.\n\n[asker_nameDef] não tem ninguém de sobra para ajudá-los, mas diz que se você conseguir chegar ao posto avançado a tempo, os homens que você salvar podem escolher se juntar a você.\n\nVocê pode esperar que os defensores estejam em grande desvantagem numérica e feridos.</li>
+            </VFE_OpportunitySite_MechanoidAttackParty.questDescriptionRules.rulesStrings>
+            <VFE_OpportunitySite_MechanoidAttackParty.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFE_OpportunitySite_MechanoidAttackParty.LetterLabelQuestExpired.slateRef>
+            <VFE_OpportunitySite_MechanoidAttackParty.LetterTextQuestExpired.slateRef>O posto avançado caiu para a força de ataque mecanóide. A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_MechanoidAttackParty.LetterTextQuestExpired.slateRef>
+            <VFE_OpportunitySite_MechanoidAttackParty.LetterLabelMechsAreDefeated.slateRef>Mecanóides derrotados</VFE_OpportunitySite_MechanoidAttackParty.LetterLabelMechsAreDefeated.slateRef>
+            <VFE_OpportunitySite_MechanoidAttackParty.LetterTextMechsAreDefeated.slateRef>Todos os mecanóides da área foram derrotados.</VFE_OpportunitySite_MechanoidAttackParty.LetterTextMechsAreDefeated.slateRef>
+
+        <!-- Mechanoid Ship Landing -->
+            <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings>
+				<li>questName(priority=1)->[intel] de [asker_nameDef] sobre [landing] Mecanóide</li>
+				<li>questName->[landing] Mecanóide</li>
+				<li>intel->Informação</li>
+				<li>intel->Indicação</li>
+				<li>intel->Aviso</li>
+				<li>intel->Informação</li>
+				<li>landing->Área de Pouso</li>
+				<li>landing->Plataforma de Aterrisagem</li>
+				<li>landing->Ataque Iminente</li>
+				<li>landing->Local de Aterrisagem</li>
+				<li>landing->Nave</li>
+            </VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings>
+            <VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings>
+				<li>questDescription(askerIsNull==true)->Obtivemos informações criptografadas sobre uma nave mecanóide que se aproxima, planejando pousar não muito longe de [map_definite]. O protocolo desta nave não permite o pouso se o local contiver hostis. Este local é protegido por forças mecanóides, mas destruir os quatro faróis de pouso será o suficiente para impedir a nave de pousar.\n\nFalhas ao fazer isso resultarão na nave mecanóide chegando à superfície, aumentando a presença mecanóide na área.</li>
+				<li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], informou-nos de uma nave mecanóide que pretende pousar não muito longe daqui. O protocolo desta nave não permite o pouso se o local contiver hostis. Este local é protegido por forças mecanóide, mas destruir os quatro faróis de pouso será o suficiente para impedir a nave de pousar.\n\nFalhas ao fazer isso resultarão na nave mecanóide chegando à superfície, aumentando a presença mecanóide na área.</li>
+            </VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings>
+            <VFE_OpportunitySite_MechanoidShipLanding.LetterLabelAllMechBeaconsDestroyed.slateRef>Faróis de Pouso Destruídos</VFE_OpportunitySite_MechanoidShipLanding.LetterLabelAllMechBeaconsDestroyed.slateRef>
+            <VFE_OpportunitySite_MechanoidShipLanding.LetterTextAllMechBeaconsDestroyed.slateRef>Todos os faróis de pouso foram destruídos.</VFE_OpportunitySite_MechanoidShipLanding.LetterTextAllMechBeaconsDestroyed.slateRef>
+            <VFE_OpportunitySite_MechanoidShipLanding.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFE_OpportunitySite_MechanoidShipLanding.LetterLabelQuestExpired.slateRef>
+            <VFE_OpportunitySite_MechanoidShipLanding.LetterTextQuestExpired.slateRef>A nave mecanóide pousou. A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_MechanoidShipLanding.LetterTextQuestExpired.slateRef>
+
+        <!-- Mechanoid Storage Pickup -->
+            <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings>
+                <li>questName(priority=1)->[intel] de [asker_nameDef] sobre [storage] Mecanóide</li>
+                <li>questName->[storage] Mecanóide</li>
+                <li>intel->Informação</li>
+                <li>intel->Indicação</li>
+                <li>intel->Aviso</li>
+                <li>intel->Informação</li>
+                <li>storage->Local de Armazenamento</li>
+                <li>storage->Local de Reciclagem</li>
+                <li>storage->Coordenadas de Coleta</li>
+                <li>storage->Tesouros</li>
+                <li>storage->Suprimentos</li>
+            </VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings>
+            <VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings>
+                <li>questDescription(askerIsNull==true)->Interceptamos a comunicação criptografada sobre uma grande quantidade de recursos brutos no valor de [itemStashContentsValue] prontos para coleta não muito longe de [map_definite]. A coleção consiste em:\n\n[itemStashContents]\n\nParece que os mecanóides estão guardando o local antes que os recursos sejam coletados e enviados para a órbita.</li>
+                <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], informou-nos de um recurso mecanóide [itemStashContentsValue] não muito longe de nós. A coleção consiste em:\n\n[itemStashContents]\n\n[asker_label] nos informa que os mecanóides estão guardando o local antes que os recursos sejam coletados e enviados para a órbita.</li>
+            </VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings>
+            <VFE_OpportunitySite_MechanoidStoragePickup.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFE_OpportunitySite_MechanoidStoragePickup.LetterLabelQuestExpired.slateRef>
+            <VFE_OpportunitySite_MechanoidStoragePickup.LetterTextQuestExpired.slateRef>Comunicações interceptadas indicam que o estoque de itens foi colocado em órbita.A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_MechanoidStoragePickup.LetterTextQuestExpired.slateRef>
+
     <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Caravan Raid -->
             <VFES_CaravanRaid.questNameRules.rulesStrings>
@@ -11,12 +127,11 @@
                 <li>raid->Emboscada</li>
             </VFES_CaravanRaid.questNameRules.rulesStrings>
             <VFES_CaravanRaid.questDescriptionRules.rulesStrings>
-                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos mandou uma mensagem. Aparentemente, [siteFaction_pawnsPlural] estão descansando com suas bestas antes de continuarem sua jornada.
-                    \n[asker_nameDef] nos deu sua localização, se quisermos, podemos atacá-los.</li>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos mandou uma mensagem. Aparentemente, [siteFaction_pawnsPlural] estão descansando com suas bestas antes de continuarem sua jornada.\n\n[asker_nameDef] nos deu sua localização, se quisermos, podemos atacá-los.</li>
             </VFES_CaravanRaid.questDescriptionRules.rulesStrings>
             <VFES_CaravanRaid.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFES_CaravanRaid.LetterLabelQuestExpired.slateRef>
-            <VFES_CaravanRaid.LetterTextQuestExpired.slateRef>Os [siteFaction_pawnsPlural] empacotoram suas coisas e seguiram em frente. A missão [resolutionQuestName] expirou.</VFES_CaravanRaid.LetterTextQuestExpired.slateRef>
+            <VFES_CaravanRaid.LetterTextQuestExpired.slateRef>Os [siteFaction_pawnsPlural] empacotoram suas coisas e seguiram em frente. A missão [resolvedQuestName] expirou.</VFES_CaravanRaid.LetterTextQuestExpired.slateRef>
             <VFES_CaravanRaid.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFES_CaravanRaid.LetterLabelQuestFailed.slateRef>
-            <VFES_CaravanRaid.LetterTextQuestFailed.slateRef>Depois de serem descobertos, os [siteFaction_pawnsPlural] saíram. A missão [resolutionQuestName] terminou.</VFES_CaravanRaid.LetterTextQuestFailed.slateRef>
+            <VFES_CaravanRaid.LetterTextQuestFailed.slateRef>Depois de serem descobertos, os [siteFaction_pawnsPlural] saíram. A missão [resolvedQuestName] terminou.</VFES_CaravanRaid.LetterTextQuestFailed.slateRef>
 
 </LanguageData>

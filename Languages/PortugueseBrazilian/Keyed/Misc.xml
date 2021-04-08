@@ -5,4 +5,29 @@
         <!-- Weapon Requires Powered Armor -->
             <VWE.CannotEquipHeavy>Arma requer armação de exoesqueleto</VWE.CannotEquipHeavy>
 
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Letter Join Offer -->
+            <VFEMech.LetterJoinOfferTitle>{PAWN_nameDef} desejaria juntar-se.</VFEMech.LetterJoinOfferTitle>
+            <VFEMech.LetterJoinOfferLabel>Oferta de entrada: {PAWN_nameDef}</VFEMech.LetterJoinOfferLabel>
+            <VFEMech.LetterJoinOfferText>Como um sinal de confiança e gratidão, {PAWN_nameDef} acredita que {PAWN_pronoun} pode ser uma ajuda valiosa em sua colônia. {PAWN_pronoun} deseja se juntar a você permanentemente. </VFEMech.LetterJoinOfferText>
+
+        <!-- Raid Warning -->
+            <VFEMech.RaidWarningTitle>Invasão iminente: {FACTION_name} </VFEMech.RaidWarningTitle>
+            <VFEMech.RaidWarningText>{FACTION_name} irá invadi-lo nas próximas 12 horas. {1}</VFEMech.RaidWarningText>
+
+        <!-- Settings -->
+            <VFEMech.DisableTotalWarMechanic>Desativar guerra total</VFEMech.DisableTotalWarMechanic>
+            <VFEMech.AdjustIncidentTimeInterval>Ajustar o intervalo de desembarque das naves:</VFEMech.AdjustIncidentTimeInterval>
+            <VFEMech.AdjustIncidentChanceLabel>Ajustar a chance de incidentes de desembarque de naves:</VFEMech.AdjustIncidentChanceLabel>
+            <VFEMech.AdjustMechPresenceLabel>Ajustar a presença mecanóide gerada por naves:</VFEMech.AdjustMechPresenceLabel>
+            <VFEMech.AdjustMinimunColonistCountLabel>Ajuste a contagem mínima de colonos necessária para incidentes de desembarque de naves:</VFEMech.AdjustMinimunColonistCountLabel>
+            <VFEMech.AdjustMaximumDistanceForShipsLabel>Ajuste a distância máxima para locais de desembarque de naves:</VFEMech.AdjustMaximumDistanceForShipsLabel>
+            <VFEM_factorySpeedMultiplier>Multiplicador de velocidade de fábrica</VFEM_factorySpeedMultiplier>
+            <VFEM_factorySpeedMultiplierTooltip>Multiplicador de velocidade de fábrica. O padrão é 1. Números mais baixos aceleram a velocidade dos módulos de fábrica, enquanto números mais altos fazem com que funcionem mais devagar.</VFEM_factorySpeedMultiplierTooltip>
+            <VFEM_SuperComputerResearchPointYield>Valor do rendimento do ponto de pesquisa do supercomputador. O padrão é 1.</VFEM_SuperComputerResearchPointYield>
+
+        <!-- Faction Destroyed Ship -->
+            <VFEMech.FactionDestroyedShip>{FACTION_name} destruiu {1}</VFEMech.FactionDestroyedShip>
+            <VFEMech.FactionDestroyedShipDesc>Por meio de estratégias inteligentes, com grande número de baixas e incrível perseverança, {FACTION_name} conseguiu destruir {1}.</VFEMech.FactionDestroyedShipDesc>
+
 </LanguageData>

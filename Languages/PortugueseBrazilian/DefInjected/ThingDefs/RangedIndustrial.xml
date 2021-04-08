@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <!-- Vanilla Factions Expaned - Settlers -->
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Handheld Mini-Turret -->
+            <VFE_Gun_CombatMechanoidGun.label>mini-torreta portátil</VFE_Gun_CombatMechanoidGun.label>
+            <VFE_Gun_CombatMechanoidGun.description>Uma mini-torreta portátil automática. Utiliza componentes modernos de rifle de assalto em uma estrutura mecanóide.</VFE_Gun_CombatMechanoidGun.description>
+            <VFE_Gun_CombatMechanoidGun.tools.0.label>coronha</VFE_Gun_CombatMechanoidGun.tools.0.label>
+            <VFE_Gun_CombatMechanoidGun.tools.1.label>cano</VFE_Gun_CombatMechanoidGun.tools.1.label>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Double-Action Revolver -->
             <VFES_Gun_DoubleActionRevolver.label>revólver de ação dupla</VFES_Gun_DoubleActionRevolver.label>
             <VFES_Gun_DoubleActionRevolver.description>Um revólver de ação dupla de padrão antigo. Não é muito preciso, mas tem uma velocidade de tiro decente para uma pistola e é rápido no saque.</VFES_Gun_DoubleActionRevolver.description>

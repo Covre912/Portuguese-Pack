@@ -11,4 +11,8 @@
         <!-- Structure To Starting Map -->
             <VFEC_AddStartingStructure.label>adicionar estrutura personalizada ao mapa inicial</VFEC_AddStartingStructure.label>
 
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Start With Pack Animal -->
+            <VFEM_StartingPackAnimal.label>começar com animal(is) de carga</VFEM_StartingPackAnimal.label>
+
 </LanguageData>

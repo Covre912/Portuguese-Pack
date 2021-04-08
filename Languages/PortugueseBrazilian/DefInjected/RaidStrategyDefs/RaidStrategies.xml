@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Mechanoid Ship -->
+            <VFEM_StrategyMechShipArrival.letterLabelEnemy>Nave mecanóide</VFEM_StrategyMechShipArrival.letterLabelEnemy>
+            <VFEM_StrategyMechShipArrival.arrivalTextEnemy>Os mecanóides que pousaram atacarão imediatamente. A nave fará uma cobertura de fogo e iniciará o cerco o mais rápido possível.</VFEM_StrategyMechShipArrival.arrivalTextEnemy>
+
+</LanguageData>

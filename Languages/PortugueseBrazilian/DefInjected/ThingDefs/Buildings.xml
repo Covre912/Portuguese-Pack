@@ -1,6 +1,291 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Factory Hopper -->
+            <VFEM_HeavyHopper.label>funil de fábrica</VFEM_HeavyHopper.label>
+            <VFEM_HeavyHopper.description>Contém recursos para uso por máquinas automatizadas.</VFEM_HeavyHopper.description>
+
+        <!-- Steel Extractor -->
+            <VFEM_ElectronicsFabricationFactory_SteelExtractor.label>Extrator de aço</VFEM_ElectronicsFabricationFactory_SteelExtractor.label>
+            <VFEM_ElectronicsFabricationFactory_SteelExtractor.description>Uma grande máquina com uma série de martelos, ímãs e fundições. Os martelos transformam pedaços de rocha em pó, em seguida, os ímãs coletam fragmentos metálicos antes de serem derrubados e derretidos. Esta máquina tem um rendimento notoriamente baixo, pois a maioria dos pedaços de rocha tem uma quantidade insignificante de material extraível.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Eletrônicos.</VFEM_ElectronicsFabricationFactory_SteelExtractor.description>
+
+        <!-- Component Assembler -->
+            <VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>Montador</VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>
+            <VFEM_ElectronicsFabricationFactory_ComponentAssembler.description>Uma máquina absurdamente grande composta por uma série de moldes e fundições. Essa máquina é capaz de fabricar qualquer componente eletrônico ou mecânico básico com facilidade.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Eletrônicos.</VFEM_ElectronicsFabricationFactory_ComponentAssembler.description>
+
+        <!-- Advanced Assembler -->
+            <VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>Montador avançado</VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>
+            <VFEM_ElectronicsFabricationFactory_AdvancedAssembler.description>Um amplo módulo de fábrica destinado a embutir e programar circuitos para dispositivos eletrônicos de ponta. O funcionamento interno exato deste módulo é enigmático para colônias não espaciais, entretanto o resultado final é de qualidade inquestionável.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Eletrônicos.</VFEM_ElectronicsFabricationFactory_AdvancedAssembler.description>
+
+        <!-- Chemfuel Clarifier -->
+            <VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>Clarificador automático</VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>
+            <VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.description>Uma máquina bastante rudimentar, capaz de derreter orgânicos por meio de ácido em combustível químico utilizável. Os funis anexados aceitam cadáveres ou madeira próximos, decompõe-os rapidamente e, em seguida, derrete-os em um grande tanque.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Munições e Armamentos (F.M.A.).</VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.description>
+
+        <!-- Mechanized Weaponsmith -->
+            <VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>Armeiro automático</VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>
+            <VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.description>Uma máquina muito grande com muitas partes móveis, capaz de transformar lentamente aço, componentes e tecido  através do sistema de esteiras em armamento básico. Essa máquina é capaz de criar armas leves com qualidade normal, embora esse processo consuma muito tempo e energia.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Munições e Armamentos (F.M.A.).</VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.description>
+
+        <!-- Artillery Foundry -->
+            <VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>Fundição automática</VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>
+            <VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.description>Uma máquina capaz de transformar matéria-prima em projéteis balísticos de grande calibre.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Munições e Armamentos (F.M.A.).</VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.description>
+
+        <!-- Textile Recycler -->
+            <VFEM_WearablesAndTextileFactory_TextileRecycler.label>Reciclador</VFEM_WearablesAndTextileFactory_TextileRecycler.label>
+            <VFEM_WearablesAndTextileFactory_TextileRecycler.description>Uma máquina capaz de retalhar e separar rapidamente peças de roupa em tecidos reutilizáveis. Longe de ser totalmente eficiente, mas muito útil para recuperar materiais que de outra forma seriam inúteis.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Vestuários e Têxteis (F.V.T.).</VFEM_WearablesAndTextileFactory_TextileRecycler.description>
+
+        <!-- Auto Loom -->
+            <VFEM_WearablesAndTextileFactory_AutoLoom.label>Tear automático</VFEM_WearablesAndTextileFactory_AutoLoom.label>
+            <VFEM_WearablesAndTextileFactory_AutoLoom.description>Uma grande máquina que escaneia os tecidos próximos, onde uma série de grampos, tesouras e agulhas costuram e tecem roupas básicas. O usuário só deve especificar o tipo de roupa desejada a partir de um modelo predefinido de opções.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Vestuários e Têxteis (F.V.T.).</VFEM_WearablesAndTextileFactory_AutoLoom.description>
+
+        <!-- Synthread Synthesizer -->
+            <VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>Sintetizador</VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>
+            <VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.description>Uma máquina tecnológica que dificilmente é compreendida até mesmo pelas colônias mais intelectuais. Completa com uma série de prensas de malha e agulhas de plasma capazes de realinhar atomicamente materiais básicos, resultando em um novo material indistinguível da fibra sintética.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Vestuários e Têxteis (F.V.T.).</VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.description>
+
+        <!-- Meat Grinder -->
+            <VFEM_ProvisionsPackagingFactory_MeatGrinder.label>Moedor de carne</VFEM_ProvisionsPackagingFactory_MeatGrinder.label>
+            <VFEM_ProvisionsPackagingFactory_MeatGrinder.description>Uma máquina de tamanho médio, mas intimidante, onde cadáveres são puxados por meio de pinças antes de serem pesados, analisados e rudemente rasgados. Pedaços de carne são então moídos em uma carne finamente processada e surpreendentemente saborosa, mas desconcertante. Devido à natureza abrangente do processo, a máquina produzirá o dobro da carne, mas não produzirá nenhum couro dos cadáveres inseridos.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Embalagens de Provisões (F.E.P.).</VFEM_ProvisionsPackagingFactory_MeatGrinder.description>
+
+        <!-- Conveyor Oven -->
+            <VFEM_ProvisionsPackagingFactory_ConveyorOven.label>Forno automático</VFEM_ProvisionsPackagingFactory_ConveyorOven.label>
+            <VFEM_ProvisionsPackagingFactory_ConveyorOven.description>Um forno industrial com uma correia transportadora central e sistema de vácuo, capaz de processar alimentos crus. Refeições básicas embaladas e produtos secos podem ser facilmente produzidos.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Embalagens de Provisões (F.E.P.).</VFEM_ProvisionsPackagingFactory_ConveyorOven.description>
+
+        <!-- Neutroamine Infuser -->
+            <VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>Infusor</VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>
+            <VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.description>Uma grande cuba industrial destinada a fazer o sempre evasivo produto precursor da neutroamina. Embora a receita exata do produto seja um segredo comercial, o resultado final desta máquina é um glicerol espesso feito de gordura processada muito semelhante à neutroamina.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Compostos Medicinais (F.C.M.).</VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.description>
+
+        <!-- Medicine Granulator -->
+            <VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>Granulador</VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>
+            <VFEM_MedicinalCompoundingFactory_MedicineGranulator.description>Uma máquina capaz de granular e, em seguida, prensar produtos médicos em pílulas usando uma série de pinças e prensas.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Compostos Medicinais (F.C.M.).</VFEM_MedicinalCompoundingFactory_MedicineGranulator.description>
+
+        <!-- Drug Powderizer -->
+            <VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>Pulverizador</VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>
+            <VFEM_MedicinalCompoundingFactory_DrugPowderizer.description>Uma pequena máquina destinada a processar e pulverizar o extrato de folha psicóide e, em seguida, embalá-la.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Compostos Medicinais (F.C.M.).</VFEM_MedicinalCompoundingFactory_DrugPowderizer.description>
+
+        <!-- Automatic Drill -->
+            <VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>Broca automática</VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>
+            <VFEM_MasonryAndMetallicsFactory_AutomaticDrill.description>Uma versão automatizada maior da broca profunda. Esta broca básica pode minerar e extrair pedaços de rocha para processamento posterior sem intervenção humana\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Alvenaria e Metalurgia (F.A.M.).</VFEM_MasonryAndMetallicsFactory_AutomaticDrill.description>
+
+        <!-- Masonry Saw -->
+            <VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>Serra de alvenaria</VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>
+            <VFEM_MasonryAndMetallicsFactory_MasonrySaw.description>Uma fábrica pesada e muito barulhenta, onde uma série de fechos, cinzéis e serras seguram pedaços de rocha no lugar para serem cortadas e levemente alisadas ​​em tijolos.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Alvenaria e Metalurgia (F.A.M.).</VFEM_MasonryAndMetallicsFactory_MasonrySaw.description>
+
+        <!-- Plasteel Forge -->
+            <VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>Forja de plastiaço</VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>
+            <VFEM_MasonryAndMetallicsFactory_PlasteelForge.description>Um módulo de fábrica tecnológico capaz de combinar aço, tijolos de pedra em pó e combustível químico em plastiaço. A fórmula e metodologia exatas de refino de plastiaço são bloqueadas por ferreiros militaristas, mas o produto que esta máquina produz é uma replicação próxima o suficiente.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Alvenaria e Metalurgia (F.A.M.).</VFEM_MasonryAndMetallicsFactory_PlasteelForge.description>
+
+        <!-- Versatile Assembler -->
+            <VFEM_VersatileAssembler.label>montador versátil</VFEM_VersatileAssembler.label>
+            <VFEM_VersatileAssembler.description>Uma grande fábrica construída com programabilidade avançada. O montador versátil pode ser modificado para fabricar quase tudo, desde eletrônicos até bens de consumo simples.\n\nAviso: Esta fábrica é usada para hospedar receitas de outros mods.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Não faz parte de nenhuma rede de automação, é um edifício independente.</VFEM_VersatileAssembler.description>
+
+        <!-- Autocleaner Charging Station -->
+            <VFE_Mechanoids_AutocleanerBase.label>estação de aspirador automático</VFE_Mechanoids_AutocleanerBase.label>
+            <VFE_Mechanoids_AutocleanerBase.description>Uma estação para montagem e recarga de aspiradores automáticos.</VFE_Mechanoids_AutocleanerBase.description>
+
+        <!-- Autohauler Charging Station --> 
+            <VFE_Mechanoids_AutohaulerBase.label>estação de transportador automático</VFE_Mechanoids_AutohaulerBase.label>
+            <VFE_Mechanoids_AutohaulerBase.description>Uma estação para montagem e recarga de transportadores automáticos.</VFE_Mechanoids_AutohaulerBase.description>
+
+        <!-- Autominer Charging Station -->
+            <VFE_Mechanoids_AutominerBase.label>estação de minerador automático</VFE_Mechanoids_AutominerBase.label>
+            <VFE_Mechanoids_AutominerBase.description>Uma estação para montagem e recarga de mineradores automáticos.</VFE_Mechanoids_AutominerBase.description>
+
+        <!-- Combat Mechanoid Charging Station -->
+            <VFE_Mechanoids_CombatBase.label>estação de mecanóide de combate</VFE_Mechanoids_CombatBase.label>
+            <VFE_Mechanoids_CombatBase.description>Uma estação para montagem e recarga de mecanóides de combate.</VFE_Mechanoids_CombatBase.description>
+
+        <!-- Riot Mechanoid Charging Station -->
+            <VFE_Mechanoids_RiotBase.label>estação de mecanóide de rinha</VFE_Mechanoids_RiotBase.label>
+            <VFE_Mechanoids_RiotBase.description>Uma estação para montagem e recarga de mecanóides de rinha.</VFE_Mechanoids_RiotBase.description>
+
+        <!-- Mobile Turret Charging Station -->
+            <VFE_Mechanoids_TurretBase.label>estação de torreta móvel</VFE_Mechanoids_TurretBase.label>
+            <VFE_Mechanoids_TurretBase.description>Uma estação para montagem e recarga de torretas móveis.</VFE_Mechanoids_TurretBase.description>
+
+        <!-- Autosower -->
+            <VFE_Mechanoids_Autosower.label>semeador automático</VFE_Mechanoids_Autosower.label>
+            <VFE_Mechanoids_Autosower.description>Uma estrutura em forma de calha extremamente grande formada por uma série de rodas. Irrigadores submontados acionados por pistões permitem o plantio rápido de uma grande variedade de safras. Esta máquina em particular está programada para se mover em uma direção e distância predefinidas.</VFE_Mechanoids_Autosower.description>
+
+        <!-- Autoharvester -->
+            <VFE_Mechanoids_Autoharvester.label>colheitadeiro automatizada</VFE_Mechanoids_Autoharvester.label>
+            <VFE_Mechanoids_Autoharvester.description>Uma estrutura extremamente grande e lenta formada por uma série de rodas. Espátulas e foices submontadas permitem uma colheita rápida. Esta máquina em particular está programada para se mover em uma direção e distância predefinidas.</VFE_Mechanoids_Autoharvester.description>
+
+        <!-- Mechanoid Ship Engines -->
+            <VFE_MechanoidEngines.label>Motores de nave mecanóide</VFE_MechanoidEngines.label>
+            <VFE_MechanoidEngines.description>Um conjunto de motores Johnson-Tanaka de uma nave mecanóide.</VFE_MechanoidEngines.description>
+
+        <!-- Small Mechanoid Ship Engines -->
+            <VFE_MechanoidEnginesSmall.label>Pequenos motores de nave mecanóide</VFE_MechanoidEnginesSmall.label>
+            <VFE_MechanoidEnginesSmall.description>Um conjunto de pequenos motores Johnson-Tanaka de uma nave mecanóide.</VFE_MechanoidEnginesSmall.description>
+
+        <!-- Heavy Structural Beam -->
+            <VFE_MechanoidBeamHeavy.label>viga estrutural pesada</VFE_MechanoidBeamHeavy.label>
+            <VFE_MechanoidBeamHeavy.description>Uma viga estrutural em torno da qual uma nave é construída.</VFE_MechanoidBeamHeavy.description>
+
+        <!-- Light Structural Beam -->
+            <VFE_MechanoidBeamLight.label>viga estrutural leve</VFE_MechanoidBeamLight.label>
+            <VFE_MechanoidBeamLight.description>Uma viga estrutural em torno da qual uma nave é construída.</VFE_MechanoidBeamLight.description>
+
+        <!-- Uplink Module -->
+            <VFE_MechanoidUplink.label>módulo de vínculo</VFE_MechanoidUplink.label>
+            <VFE_MechanoidUplink.description>Um módulo de vínculo diretamente conectado aos mecanóides. É responsável por obter atualizações de pedidos de programadores de guerra em órbita. Ele aumenta muito as capacidades dos mecanóides no alcance, mas destruí-lo cortará a conexão com a frota, prejudicando muito as forças mecanóide.</VFE_MechanoidUplink.description>
+
+        <!-- Reactor -->
+            <VFE_MechanoidReactor.label>reator</VFE_MechanoidReactor.label>
+            <VFE_MechanoidReactor.description>Uma unidade de geração de energia mecanóide. O gigantesco núcleo de energia vanométrica funcionará para sempre, extraindo energia das flutuações da espuma quântica. Apesar da enorme produção de energia, esforços foram feitos para estabilizá-la. Se dano suficiente for causado à couraça de plastiaço ao redor do núcleo, uma grande explosão destruirá a área local.</VFE_MechanoidReactor.description>
+
+        <!-- Terraformer -->
+            <VFE_MechanoidTerraformer.label>terraformador</VFE_MechanoidTerraformer.label>
+            <VFE_MechanoidTerraformer.description>Um dispositivo ultratecnológico de destruição em massa, o terraformador mecanóide coleta o oxigênio disponível e extrai gases tóxicos em seu lugar. O veneno vazando para o solo ao redor lentamente transforma o planeta em um deserto árido.</VFE_MechanoidTerraformer.description>
+
+        <!-- Heavy Machinery -->
+            <VFE_HeavyMachinery.label>maquinário pesado</VFE_HeavyMachinery.label>
+            <VFE_HeavyMachinery.description>Uma série de maquinários complexos, motores, sistemas de suporte e outros aparelhos misteriosos escondidos sob uma espessa camada de plastiaço.</VFE_HeavyMachinery.description>
+
+        <!-- Cargo Container -->
+            <VFE_CargoContainer.label>contêiner de carga</VFE_CargoContainer.label>
+            <VFE_CargoContainer.description>Um módulo de carga contendo vários recursos brutos frequentemente usados por mecanóides para consertar ou construir unidades.</VFE_CargoContainer.description>
+
+        <!-- Climate Adjuster -->
+            <VFE_ClimateAdjuster.label>ajustador climático</VFE_ClimateAdjuster.label>
+            <VFE_ClimateAdjuster.description>Um dispositivo ultratecnológico acoplado a uma nave mecanóide para controlar o clima. Usando produtos químicos e campos exóticos para manipular a atmosfera, ele altera a temperatura nesta região do mundo.</VFE_ClimateAdjuster.description>
+
+        <!-- EMI Dynamo -->
+            <VFE_EMIDynamo.label>dínamo IEM</VFE_EMIDynamo.label>
+            <VFE_EMIDynamo.description>Um enorme gerador de interferência eletromagnética acoplado a uma nave mecanóide. Ele interfere ou desliga dispositivos elétricos em regiões próximas.</VFE_EMIDynamo.description>
+
+        <!-- Psychic Supressor -->
+            <VFE_PsychicSuppressor.label>supressor psíquico</VFE_PsychicSuppressor.label>
+            <VFE_PsychicSuppressor.description>Um dispositivo arquotecnológico acoplado a uma nave mecanóide que gera um campo massivo de supressão psíquica sintonizado com um gênero específico. Pessoas desse gênero têm sua atividade psíquica suprimida, reduzindo sua consciência. O efeito é modulado pela sensibilidade psíquica de um indivíduo.</VFE_PsychicSuppressor.description>
+
+        <!-- Psychic Droner -->
+            <VFE_PsychicDroner.label>drone psíquico</VFE_PsychicDroner.label>
+            <VFE_PsychicDroner.description>Um dispositivo arquotecnológico acoplado a uma nave mecanóide que transmite os pensamentos de uma superinteligência louca. Ele gera um drone psíquico massivo sintonizado em um gênero e afetando toda uma região do planeta. Pessoas desse gênero ficarão perturbadas com o efeito, reduzindo seu humor e possivelmente levando-as à loucura. O efeito é modulado pela sensibilidade psíquica de um indivíduo.</VFE_PsychicDroner.description>
+
+        <!-- Charge Blaster Cannon -->
+            <VFE_Turret_ChargeBlasterCannon.label>canhão desintegrador de carga</VFE_Turret_ChargeBlasterCannon.label>
+            <VFE_Turret_ChargeBlasterCannon.description>Um canhão desintegrador de carga acoplado a uma nave mecanóide. Capaz de lançar fogo de supressão a uma distância média.</VFE_Turret_ChargeBlasterCannon.description>
+            <VFE_Gun_ChargeBlasterCannon.label>desintegrador de carga</VFE_Gun_ChargeBlasterCannon.label>
+            <VFE_Gun_ChargeBlasterCannon.description>Um desintegrador de carga de tecnologia mecanóide.</VFE_Gun_ChargeBlasterCannon.description>
+
+        <!-- Charge Lance Cannon -->
+            <VFE_Turret_ChargeLanceCannon.label>canhão de lança de carga</VFE_Turret_ChargeLanceCannon.label>
+            <VFE_Turret_ChargeLanceCannon.description>Um canhão de lança de carga acoplado a uma nave mecanóide. Dispara um projétil de canhão elétrico superalimentado a longa distância.</VFE_Turret_ChargeLanceCannon.description>
+            <VFE_Gun_ChargeLanceCannon.label>lança de carga</VFE_Gun_ChargeLanceCannon.label>
+            <VFE_Gun_ChargeLanceCannon.description>Uma lança de carga de tecnlogia mecanóide.</VFE_Gun_ChargeLanceCannon.description>
+
+        <!-- Trooper Storage -->
+            <VFE_TrooperStorage.label>armazém de tropas</VFE_TrooperStorage.label>
+            <VFE_TrooperStorage.description>Um compartimento de transporte de tropas de pequeno porte, potencialmente cheio de mecanóides prontos para o combate. Qualquer tipo de dano causado à estrutura provocará o implante de unidades defensivas.</VFE_TrooperStorage.description>
+
+        <!-- Hull Repair Module -->
+            <VFE_HullRepairModule.label>módulo de reparo</VFE_HullRepairModule.label>
+            <VFE_HullRepairModule.description>Um módulo de contêiner de nanite capaz de reforçar a nave danificada. A menos que seja destruído, este módulo irá regenerar constantemente qualquer dano causado a outros módulos da nave.</VFE_HullRepairModule.description>
+
+        <!-- Mechanoid Barrier -->
+            <VFE_MechanoidBarrier.label>barreira mecanóide</VFE_MechanoidBarrier.label>
+            <VFE_MechanoidBarrier.description>Um bloco de escudo de plastiaço quase impenetrável, geralmente usado dentro da nave para proteger os aparelhos mais vitais.</VFE_MechanoidBarrier.description>
+
+        <!-- Ship-Mounted Low Shield -->
+            <VFE_BulletShield.label>escudo de projéteis</VFE_BulletShield.label>
+            <VFE_BulletShield.description>Um dispositivo de proteção que projeta um campo repulsor. Ajustado para ângulos inferiores, por isso bloqueará projéteis no nível do solo como balas. A unidade pode ser temporariamente desativada por ataques EMP.</VFE_BulletShield.description>
+
+        <!-- Ship-Mounted Mortar Shield -->
+            <VFE_MortarShield.label>escudo de artilharia</VFE_MortarShield.label>
+            <VFE_MortarShield.description>Um dispositivo de proteção que projeta um campo repulsor. Ajustado para ângulos superiores, por isso bloqueará tiros de morteiro. A unidade pode ser temporariamente desativada por ataques EMP.</VFE_MortarShield.description>
+
+        <!-- Auto-Mortar Cannon -->
+            <VFE_Turret_AutoMortarCannon.label>morteiro automático</VFE_Turret_AutoMortarCannon.label>
+            <VFE_Turret_AutoMortarCannon.description>Uma grande peça de artilharia acoplada a uma nave mecanóide, capaz de disparar projéteis explosivos a longa distância.</VFE_Turret_AutoMortarCannon.description>
+            <VFE_Gun_AutoMortarCannon.label>morteiro automático</VFE_Gun_AutoMortarCannon.label>
+            <VFE_Gun_AutoMortarCannon.description>Um morteiro automático de tecnologia mecanóide.</VFE_Gun_AutoMortarCannon.description>
+
+        <!-- Inferno Launcher Artillery -->
+            <VFE_Turret_InfernoLauncherArtillery.label>artilharia infernal</VFE_Turret_InfernoLauncherArtillery.label>
+            <VFE_Turret_InfernoLauncherArtillery.description>Um enorme lançador infernal de cano triplo, geralmente acoplado a naves espaciais para causar danos devastadores a qualquer matéria orgânica a bordo de naves hostis.</VFE_Turret_InfernoLauncherArtillery.description>
+            <VFE_Gun_InfernoArtillery.label>artilharia infernal</VFE_Gun_InfernoArtillery.label>
+            <VFE_Gun_InfernoArtillery.description>Uma artilharia infernal de tecnlogia mecanóide.</VFE_Gun_InfernoArtillery.description>
+            <VFE_Bullet_InfernoArtillery.label>projétil de artilharia infernal</VFE_Bullet_InfernoArtillery.label>
+
+        <!-- Charge Railgun -->
+            <VFE_Turret_ChargeRailgun.label>canhão elétrico de carga</VFE_Turret_ChargeRailgun.label>
+            <VFE_Turret_ChargeRailgun.description>Um grande canhão de ferro acoplado a uma nave mecanóide, frequentemente usado para fazer furos em naves capitais hostis. Este canhão tem alcance incrível e dispara rodadas explosivas carregadas, permitindo-lhe lidar com perdas devastadoras antes mesmo de o inimigo chegar ao alcance.</VFE_Turret_ChargeRailgun.description>
+            <VFE_Gun_ChargeRailgun.label>canhão elétrico de carga</VFE_Gun_ChargeRailgun.label>
+            <VFE_Gun_ChargeRailgun.description>Um poderoso canhão elétrico de carga de tecnologia mecanóide.</VFE_Gun_ChargeRailgun.description>
+            <VFE_Bullet_ChargeRailgun.label>tiro de canhão elétrico de carga</VFE_Bullet_ChargeRailgun.label>
+
+        <!-- Orbital Bombardment Uplink -->
+            <VFE_Turret_OrbitalBombardmentUplink.label>vínculo de bombardeio orbital </VFE_Turret_OrbitalBombardmentUplink.label>
+            <VFE_Turret_OrbitalBombardmentUplink.description>Um módulo de vínculo conectado a um satélite orbital local de ataque. Ele acenderá qualquer inimigo ao alcance do bombardeio orbital, por mais que o longo período de realinhamento o torne ineficiente.</VFE_Turret_OrbitalBombardmentUplink.description>
+            <VFE_Gun_OrbitalBombardmentTargeter.label>alvo de bombardeio orbital</VFE_Gun_OrbitalBombardmentTargeter.label>
+            <VFE_Gun_OrbitalBombardmentTargeter.description>Uma antena capaz de convocar um bombardeio orbital.</VFE_Gun_OrbitalBombardmentTargeter.description>
+
+        <!-- Mechanoid Assembly Pod -->
+            <VFE_AssemblyPod.label>cápsula de montagem mecanóide</VFE_AssemblyPod.label>
+            <VFE_AssemblyPod.description>Um módulo de nave espacial contendo uma fábrica mecanóide. Capaz de transformar recursos brutos diretamente em diferentes tipos de mecanóides, e os cria continuamente até serem destruídos.</VFE_AssemblyPod.description>
+
+        <!-- Mechanoid Foundry -->
+            <VFE_AssemblyFoundry.label>fundição mecanóide</VFE_AssemblyFoundry.label>
+            <VFE_AssemblyFoundry.description>Um módulo de nave espacial contendo uma fundição mecanóide em grande escala. Capaz de gerar grandes esquadrões de mecanóides em grande velocidade, mas é incapaz de construir variantes complexas.</VFE_AssemblyFoundry.description>
+
+        <!-- Cargo Hold -->
+            <VFE_CargoHold.label>porão de carga</VFE_CargoHold.label>
+            <VFE_CargoHold.description>Um módulo de carga que contém uma grande quantidade de matéria-prima para que a nave mecanóide funcione adequadamente.</VFE_CargoHold.description>
+
+        <!-- Mechanoid Landing Beacon -->
+            <VFE_MechLandingBeacon.label>farol de pouso mecanóide </VFE_MechLandingBeacon.label>
+            <VFE_MechLandingBeacon.description>Este avançado farol de tecnologia espacial serve como guia para uma nave mecanóide.</VFE_MechLandingBeacon.description>
+
+        <!-- Conduit Pylon -->
+            <VFE_ConduitPylon.label>pilão de conduíte</VFE_ConduitPylon.label>
+            <VFE_ConduitPylon.description>Um pequeno dispositivo que se conecta a redes de energia via conduíte para estender o alcance em que os componentes eletrônicos podem se conectar aos referidos conduítes. A implementação adequada pode triplicar o intervalo em que a corrente elétrica pode ser utilizada.</VFE_ConduitPylon.description>
+
+        <!-- Supercomputer -->
+            <VFE_Supercomputer.label>supercomputador</VFE_Supercomputer.label>
+            <VFE_Supercomputer.description>Uma série de componentes mecânicos eletrônicos que imitam os processos da tecnologia de computação humana. Aqueles que desejam aproveitar o poder deste dispositivo precisam apenas designar um tópico de interesse. Não importa quão vago ou amplo seja o assunto, a máquina sincronizará com outros bancos de informações eletrônicas e por meio de redes de dados interplanetárias. Depois de sincronizar, a máquina traduzirá os dados coletados para o idioma preferido do usuário.</VFE_Supercomputer.description>
+
+        <!-- Long Range Missile Launcher -->
+            <VFE_LongRangeMissileLauncher.label>lançador de mísseis de longo alcance</VFE_LongRangeMissileLauncher.label>
+            <VFE_LongRangeMissileLauncher.description>Um silo de mísseis compacto e de alta tecnologia, capaz de lançar mísseis devastadores a vários quilômetros de distância. A quantidade de entrada de combustível determina o alcance máximo do míssil. Apenas um míssil pode ser carregado de cada vez. Ao pousar, uma explosão é capaz de nivelar completamente quase qualquer estrutura e faz com que as proximidades se tornem uma cratera inóspita.</VFE_LongRangeMissileLauncher.description>
+            <VFEM_MissileLeaving.label>míssel</VFEM_MissileLeaving.label>
+            <VFEM_MissileIncoming.label>míssel</VFEM_MissileIncoming.label>
+
+        <!-- Auto Charge Blaster -->
+            <VFE_Turret_AutoChargeBlaster.label>torreta desintegradora de carga</VFE_Turret_AutoChargeBlaster.label>
+            <VFE_Turret_AutoChargeBlaster.description>Uma torreta de carga de explosão capaz de concentrar o fogo em alvos inimigos próximos a um alcance médio. É improvável que alvos sem armadura sobrevivam mais do que algumas rajadas.</VFE_Turret_AutoChargeBlaster.description>
+            <VFE_Turret_AutoChargeBlaster.comps.4.fuelLabel>Tiros até fim da bateria</VFE_Turret_AutoChargeBlaster.comps.4.fuelLabel>
+            <VFE_Turret_AutoChargeBlaster.comps.4.fuelGizmoLabel>Nível de bateria</VFE_Turret_AutoChargeBlaster.comps.4.fuelGizmoLabel>
+            <VFE_Turret_AutoChargeBlaster.comps.4.outOfFuelMessage>Não pode atirar: Sem bateria</VFE_Turret_AutoChargeBlaster.comps.4.outOfFuelMessage>
+            <VFE_Gun_AutoChargeBlaster.label>desintegrador de carga automático</VFE_Gun_AutoChargeBlaster.label>
+            <VFE_Gun_AutoChargeBlaster.description>Um desintegrador de carga mecanóide feito para ser acoplado em uma torreta.</VFE_Gun_AutoChargeBlaster.description>
+
+        <!-- Auto Charge Lance -->
+            <VFE_Turret_AutoChargeLance.label>torreta de lança de carga</VFE_Turret_AutoChargeLance.label>
+            <VFE_Turret_AutoChargeLance.description>Uma versão altamente precisa, embora ligeiramente mais fraca, da lança de carga acoplada a uma torreta. Os alvos ainda devem ser cautelosos, já que um único tiro ainda é mais do que capaz de perfurar uma armadura de plastiaço.</VFE_Turret_AutoChargeLance.description>
+            <VFE_Turret_AutoChargeLance.comps.4.fuelLabel>Tiros até fim da bateria</VFE_Turret_AutoChargeLance.comps.4.fuelLabel>
+            <VFE_Turret_AutoChargeLance.comps.4.fuelGizmoLabel>Nível de bateria</VFE_Turret_AutoChargeLance.comps.4.fuelGizmoLabel>
+            <VFE_Turret_AutoChargeLance.comps.4.outOfFuelMessage>Não pode atirar: Sem bateria</VFE_Turret_AutoChargeLance.comps.4.outOfFuelMessage>
+            <VFE_Gun_AutoChargeLance.label>lança de carga automática</VFE_Gun_AutoChargeLance.label>
+            <VFE_Gun_AutoChargeLance.description>Uma lança de carga mecanóide feita para ser acoplada a uma torreta.</VFE_Gun_AutoChargeLance.description>
+
+        <!-- Auto Inferno Cannon -->
+            <VFE_Turret_AutoInfernoCannon.label>torreta de canhão infernal</VFE_Turret_AutoInfernoCannon.label>
+            <VFE_Turret_AutoInfernoCannon.description>Um canhão de curto alcance capaz de disparar rajadas de fogo. Essas torretas são geralmente implantadas em guerras urbanas de curto alcance.</VFE_Turret_AutoInfernoCannon.description>
+            <VFE_Turret_AutoInfernoCannon.comps.4.fuelLabel>Tiros até fim da bateria</VFE_Turret_AutoInfernoCannon.comps.4.fuelLabel>
+            <VFE_Turret_AutoInfernoCannon.comps.4.fuelGizmoLabel>Nível de bateria</VFE_Turret_AutoInfernoCannon.comps.4.fuelGizmoLabel>
+            <VFE_Turret_AutoInfernoCannon.comps.4.outOfFuelMessage>Não pode atirar: Sem bateria</VFE_Turret_AutoInfernoCannon.comps.4.outOfFuelMessage>
+            <VFE_Gun_AutoInfernoCannon.label>canhão infernal automático</VFE_Gun_AutoInfernoCannon.label>
+            <VFE_Gun_AutoInfernoCannon.description>Um canhão infernal mecanóide feito para ser acoplado a uma torreta.</VFE_Gun_AutoInfernoCannon.description>
+
+        <!-- Auto-Mortar -->
+            <VFE_Turret_AutoMortar.label>morteiro automático</VFE_Turret_AutoMortar.label>
+            <VFE_Turret_AutoMortar.description>Um morteiro automático capaz de processar coordenadas simples e condições climáticas para realizar um bombardeio constante de projéteis pré-carregados.</VFE_Turret_AutoMortar.description>
+            <VFE_Turret_AutoMortar.comps.4.fuelLabel>Projéteis restantes</VFE_Turret_AutoMortar.comps.4.fuelLabel>
+            <VFE_Turret_AutoMortar.comps.4.fuelGizmoLabel>Projéteis</VFE_Turret_AutoMortar.comps.4.fuelGizmoLabel>
+            <VFE_Turret_AutoMortar.comps.4.outOfFuelMessage>Não pode atirar: Sem projéteis</VFE_Turret_AutoMortar.comps.4.outOfFuelMessage>
+            <VFE_AutoMortar.label>morteiro automático</VFE_AutoMortar.label>
+            <VFE_AutoMortar.description>Um morteiro automático. Lança bombas sobre paredes. Muito impreciso, mas de longo alcance.</VFE_AutoMortar.description>
+
     <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Chemboiler -->
             <ChemBoiler.label>caldeira</ChemBoiler.label>

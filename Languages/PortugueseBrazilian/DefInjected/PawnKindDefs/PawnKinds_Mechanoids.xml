@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Advanced Centipede -->
+            <VFE_Mech_AdvancedCentipede.label>centopéia avançada</VFE_Mech_AdvancedCentipede.label>
+
+        <!-- Advanced Lancer -->
+            <VFE_Mech_AdvancedLancer.label>lanceiro avançado</VFE_Mech_AdvancedLancer.label>
+
+        <!-- Advanced Knight -->
+            <VFE_Mech_AdvancedKnight.label>cavaleiro avançado</VFE_Mech_AdvancedKnight.label>
+
+        <!-- Advanced Inquisitor -->
+            <VFE_Mech_AdvancedInquisitor.label>inquisidor avançado</VFE_Mech_AdvancedInquisitor.label>
+
+        <!-- Advanced Scyther -->
+            <VFE_Mech_AdvancedScyther.label>ceifador avançado</VFE_Mech_AdvancedScyther.label>
+
+        <!-- Advanced Pikeman -->
+            <VFE_Mech_AdvancedPikeman.label>piqueiro avançado</VFE_Mech_AdvancedPikeman.label>
+
+        <!-- Advanced Carpenter -->
+            <VFE_Mech_AdvancedCarpenter.label>carpinteiro avançado</VFE_Mech_AdvancedCarpenter.label>
+
+        <!-- Ancient Carpenter -->
+            <VFE_AncientMech_AncientCarpenter.label>carpinteiro</VFE_AncientMech_AncientCarpenter.label>
+
+        <!-- Autocleaner --> 
+            <VFE_Mechanoids_Autocleaner.label>aspirador automático</VFE_Mechanoids_Autocleaner.label>
+
+        <!-- Autohauler -->
+            <VFE_Mechanoids_Autohauler.label>transportador automático</VFE_Mechanoids_Autohauler.label>
+
+        <!-- Autominer -->
+            <VFE_Mechanoids_Autominer.label>minerador automático</VFE_Mechanoids_Autominer.label>
+
+        <!-- Combat Mechanoid -->
+            <VFE_Mechanoids_Combat.label>mecanóide de combate</VFE_Mechanoids_Combat.label>
+
+        <!-- Riot Mechanoid -->
+            <VFE_Mechanoids_Riot.label>mecanóide de rinha</VFE_Mechanoids_Riot.label>
+
+        <!-- Mobile Turret -->
+            <VFE_Mechanoids_Turret.label>torreta móvel</VFE_Mechanoids_Turret.label>
+
+        <!-- Centipede -->
+            <VFE_Mech_Centipede.label>centopéia</VFE_Mech_Centipede.label>
+
+        <!-- Lancer -->
+            <VFE_Mech_Lancer.label>lanceiro</VFE_Mech_Lancer.label>
+
+        <!-- Knight -->
+            <VFE_Mech_Knight.label>cavaleiro</VFE_Mech_Knight.label>
+
+        <!-- Inquisitor -->
+            <VFE_Mech_Inquisitor.label>inquisidor</VFE_Mech_Inquisitor.label>
+
+        <!-- Scyther -->
+            <VFE_Mech_Scyther.label>ceifador</VFE_Mech_Scyther.label>
+
+        <!-- Pikeman -->
+            <VFE_Mech_Pikeman.label>piqueiro</VFE_Mech_Pikeman.label>
+
+        <!-- Carpenter -->
+            <VFE_Mech_Carpenter.label>carpinteiro</VFE_Mech_Carpenter.label>
+
+</LanguageData>

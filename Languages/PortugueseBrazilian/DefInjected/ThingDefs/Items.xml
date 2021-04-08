@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Mechanoid Component -->
+            <VFE_ComponentMechanoid.label>componente mecanóide</VFE_ComponentMechanoid.label>
+            <VFE_ComponentMechanoid.description>Processadores e nano-calculadoras muito avançados, usados ​​com frequência na criação de tecnologia mecanóide.</VFE_ComponentMechanoid.description>
+
+        <!-- Processed Meat -->
+            <VFEM_ProcessedMeat.label>carne processada</VFEM_ProcessedMeat.label>
+            <VFEM_ProcessedMeat.description>Um produto de carne moída que acidentalmente inclui a pele, ossos e pele da criatura em questão. Embora a textura seja um pouco questionável, o sabor é surpreendentemente aceitável.</VFEM_ProcessedMeat.description>
+
+    <!-- Vanilla Weapons Expanded - Laser -->
+        <!-- Laser Random -->
+            <LaserRandom.label>arma laser recuperada</LaserRandom.label>
+            <LaserRandom.description>Um monte de componentes que, quando montados, criam uma arma laser recuperada.</LaserRandom.description>
+
+</LanguageData>

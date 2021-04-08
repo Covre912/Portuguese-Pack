@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Factory Basics -->
+            <VFE_FactoryBasics.label>fundamentos da fábrica</VFE_FactoryBasics.label>
+            <VFE_FactoryBasics.description>Obtenha uma compreensão básica dos fundamentos da utilização da fábrica e desbloqueie funis e o terreno capaz de suportar máquinas pesadas.</VFE_FactoryBasics.description>
+
+        <!-- Eletronics Fabrication Factory -->
+            <VFE_ElectronicsFabricationFactory.label>fabricação de eletrônicos</VFE_ElectronicsFabricationFactory.label>
+            <VFE_ElectronicsFabricationFactory.description>Pesquise uma série de máquinas que possuema capacidade de aproveitar automaticamente pequenas quantidades de aço e transformá-los em componentes mecânicos simples e componentes eletrônicos de alta tecnologia.</VFE_ElectronicsFabricationFactory.description>
+
+        <!-- Masonry And Metallics Factory -->
+            <VFE_MasonryandMetallicsFactory.label>alvenaria e metalurgia</VFE_MasonryandMetallicsFactory.label>
+            <VFE_MasonryandMetallicsFactory.description>Pesquise uma série de máquinas que possuem a capacidade de minerar automaticamente pedaços de rocha no nível da superfície, bem como processá-los em tijolos e refiná-los ainda mais em um material avançado indistinguível do plastiaço.</VFE_MasonryandMetallicsFactory.description>
+
+        <!-- Munitions And Armaments Factory -->
+            <VFE_MunitionsandArmamentsFactory.label>munições e armamentos</VFE_MunitionsandArmamentsFactory.label>
+            <VFE_MunitionsandArmamentsFactory.description>Pesquise uma série de máquinas que possuem a capacidade de refinar e clarificar automaticamente o combustível químico da matéria orgânica, bem como processá-lo em armamentos e projéteis em grande escala.</VFE_MunitionsandArmamentsFactory.description>
+
+        <!-- Wearables And Textiles Factory -->
+            <VFE_WearablesandTextilesFactory.label>vestuário e têxteis</VFE_WearablesandTextilesFactory.label>
+            <VFE_WearablesandTextilesFactory.description>Pesquise uma série de máquinas que possuem a capacidade de reciclar automaticamente roupas velhas em sucata recuperada, bem como costurar novas roupas a partir das sobras mencionadas. Além disso, desbloqueia uma máquina capaz de reconfigurar molecularmente o vestuário para imitar as propriedades da fibra sintética.</VFE_WearablesandTextilesFactory.description>
+
+        <!-- Provisions Packaging Factory -->
+            <VFE_ProvisionsPackagingFactory.label>embalagens de provisões</VFE_ProvisionsPackagingFactory.label>
+            <VFE_ProvisionsPackagingFactory.description>Pesquise uma série de máquinas que possuem a capacidade de colher de forma automática e eficiente carne animal, cozinhá-las e empacotá-las em uma variedade de refeições de sobrevivência, ração e enlatados.</VFE_ProvisionsPackagingFactory.description>
+
+        <!-- Medicinal Compounding Factory -->
+            <VFE_MedicinalCompoundingFactory.label>manipulação de medicamentos</VFE_MedicinalCompoundingFactory.label>
+            <VFE_MedicinalCompoundingFactory.description>Pesquise uma série de máquinas que possuem a capacidade de refinar automaticamente glicerol espesso extremamente semelhante ao da neutroamina, também permite o refino posterior em uma variedade de medicamentos ou drogas ilícitas.</VFE_MedicinalCompoundingFactory.description>
+
+        <!-- Basic Drone Assemby -->
+            <VFE_BasicDroneAssembly.label>montagem básica de drones</VFE_BasicDroneAssembly.label>
+            <VFE_BasicDroneAssembly.description>Pesquise uma máquina que permite a montagem de drones recarregáveis automatizados rudimentares, capazes de transportar, minerar e limpar.</VFE_BasicDroneAssembly.description>
+
+        <!-- Automated Defensive Measures -->
+            <VFE_AutomatedDefensiveMeasures.label>medidas defensivas automatizadas</VFE_AutomatedDefensiveMeasures.label>
+            <VFE_AutomatedDefensiveMeasures.description>Pesquise a capacidade de transformar drones automatizados em armas para uma variedade de propósitos, incluindo plataformas móveis de torre, morteiros e outras contramedidas defensivas.</VFE_AutomatedDefensiveMeasures.description>
+
     <!-- Vanilla Weapons Expanded -->
         <!-- Longbow -->
             <VWE_Longbow.label>arco longo</VWE_Longbow.label>

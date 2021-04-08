@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Light Charge Blaster -->
+            <VFE_Bullet_ChargeBlasterLight.label>tiro de desintegrador de carga</VFE_Bullet_ChargeBlasterLight.label>
+
+        <!-- Inferno Spewer -->
+            <VFE_Bullet_InfernoSpewer.label>tiro de lança-chamas infernal</VFE_Bullet_InfernoSpewer.label>
+
+        <!-- Advanced Light Charge Blaster -->
+            <VFE_Gun_AdvancedChargeBlasterLight.label>desintegrador de carga leve avançado</VFE_Gun_AdvancedChargeBlasterLight.label>
+            <VFE_Gun_AdvancedChargeBlasterLight.description>Uma versão menos pesada do desintegrador de carga mecanóide. Esta arma de carga dispensa energia da bateria em troca de portabilidade, como tal, a contagem da rajada e os danos são menores, no entanto, o tempo entre os tiros é menor.</VFE_Gun_AdvancedChargeBlasterLight.description>
+
+        <!-- Advanced Inferno Spewer -->
+            <VFE_Gun_AdvancedInfernoSpewer.label>lança-chamas infernal avançado</VFE_Gun_AdvancedInfernoSpewer.label>
+            <VFE_Gun_AdvancedInfernoSpewer.description>Uma arma incendiária “destruidora” que não apenas incendeia os alvos, mas superaquece o ar ao redor, quente o suficiente para derreter ossos. Enquanto o tamanho geral do tanque é reduzido, o potencial de calor e dano de cada coluna de chama aumenta significativamente.</VFE_Gun_AdvancedInfernoSpewer.description>
+
+        <!-- Advanced Heavy Charge Blaster -->
+            <VFE_Gun_AdvancedChargeBlasterHeavy.label>desintegrador de carga pesado avançado</VFE_Gun_AdvancedChargeBlasterHeavy.label>
+            <VFE_Gun_AdvancedChargeBlasterHeavy.description>Uma versão do desintegrador de carga com uma taxa de fogo notavelmente maior. Células de energia extra adicionam peso à arma e a precisão sofre um pequeno golpe devido ao aumento do recuo, no entanto, desintegradores de carga avançados suficientes resultam em uma saraivada de fogo que as fragatas imperiais não poderiam suportar.</VFE_Gun_AdvancedChargeBlasterHeavy.description>
+
+        <!-- Advanced Infernal Cannon -->
+            <VFE_Gun_AdvancedInfernoCannon.label>canhão infernal avançado</VFE_Gun_AdvancedInfernoCannon.label>
+            <VFE_Gun_AdvancedInfernoCannon.description>Uma plataforma de artilharia incendiária relativamente pequena, inicialmente usada em guerras urbanas e cercos. Muito parecido com sua variante mecanóide, o canhão infernal desdobra pequenas ogivas explosivas que são conhecidas por sacudir a terra onde pousam.</VFE_Gun_AdvancedInfernoCannon.description>
+
+        <!-- Advanced Needlegun -->
+            <VFE_Gun_AdvancedNeedle.label>pistola de agulha avançada</VFE_Gun_AdvancedNeedle.label>
+            <VFE_Gun_AdvancedNeedle.description>Uma arma avançada de atirador de elite com propulsão cinética. Embora o dano não seja muito maior do que sua versão inferior, os prós incluem uma total falta de recuo e alcance incomparável.</VFE_Gun_AdvancedNeedle.description>
+            <VFE_Gun_AdvancedNeedle.tools.0.label>cano</VFE_Gun_AdvancedNeedle.tools.0.label>
+
+        <!-- Advanced Charge Lance -->
+            <VFE_Gun_AdvancedChargeLance.label>lança de carga avançada</VFE_Gun_AdvancedChargeLance.label>
+            <VFE_Gun_AdvancedChargeLance.description>Uma versão mais pesada da lança de carga. Frequentemente posta em campo por atiradores mecanóides, a lança de carga avançada é semelhante à sua predecessora, mas troca tamanho e tempo de mira por um aumento significativo no poder de fogo.</VFE_Gun_AdvancedChargeLance.description>
+            <VFE_Gun_AdvancedChargeLance.tools.0.label>cano</VFE_Gun_AdvancedChargeLance.tools.0.label>
+
     <!-- Vanilla Weapons Expanded -->
         <!-- Charge Pistol -->
             <VWE_Gun_ChargePistol.label>pistola de carga</VWE_Gun_ChargePistol.label>

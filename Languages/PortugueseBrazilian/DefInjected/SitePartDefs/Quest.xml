@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Abandoned Factory -->
+            <VFEV_AbandonedFactory.label>fábrica abandonada</VFEV_AbandonedFactory.label>
+            <VFEV_AbandonedFactory.description>Uma fábrica abandonada.</VFEV_AbandonedFactory.description>
+
+        <!-- Abandoned Broadcasting Station -->
+            <VFEV_BroadcastingStation.label>estação de transmissão abandonada</VFEV_BroadcastingStation.label>
+            <VFEV_BroadcastingStation.description>Uma estação de transmissão abandonada.</VFEV_BroadcastingStation.description>
+
+</LanguageData>

@@ -13,7 +13,7 @@
 
         <!-- Output -->
             <IP_Output>Produto {0}</IP_Output>
-            <IP_OutputVariable>Produto {0} de {1}</IP_OutputVariable>
+            <IP_OutputVariable>{0} de {1}</IP_OutputVariable>
             <IP_OutputDesc>O processador produzirá {0}. Precisa ser alimentado {1}</IP_OutputDesc>
 
         <!-- Can't Find Thing -->
@@ -114,6 +114,15 @@
             <IP_OverThreshold> Esperando que a saída fique vazia. O limite de saída é {0}</IP_OverThreshold>
 
         <!-- No Recipes Here -->
-            <IP_NoRecipesHere>Nenhuma receita encontrada para esta fábrica</IP_NoRecipesHere>
+            <IP_NoRecipesHere>Nenhuma receita encontrada para esta máquina</IP_NoRecipesHere>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Bring Ingredients -->
+            <VFEM_BringIngredients>Extrair Ingredientes</VFEM_BringIngredients>
+            <VFEM_BringIngredientsDesc>Extraia ingredientes de funis adjacentes para iniciar o processo</VFEM_BringIngredientsDesc>
+
+        <!-- Must Place On -->
+            <VFEMech.MustPlaceOnFactoryFloor>Deve ser colocado diretamente em um chão de fábrica.</VFEMech.MustPlaceOnFactoryFloor>
+            <VFEMech.MustPlaceOnPowerConduit>Deve ser colocado diretamente em um interruptor de energia.</VFEMech.MustPlaceOnPowerConduit>
             
 </LanguageData>

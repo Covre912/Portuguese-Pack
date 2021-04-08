@@ -37,6 +37,15 @@
             <VTE_HigherBleedingRate.labelNoun>hemofilia</VTE_HigherBleedingRate.labelNoun>
             <VTE_HigherBleedingRate.description>A hemofilia é a incapacidade de o sangue coagular adequadamente, fazendo com que as feridas sangrem muito mais profusamente.</VTE_HigherBleedingRate.description>
 
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Faster Moviment -->
+            <VFE_FasterMovement.label>bônus de velocidade de movimento</VFE_FasterMovement.label>
+            <VFE_FasterMovement.description>bônus de velocidade de movimento</VFE_FasterMovement.description>
+        
+        <!-- Mechanoid Uplink -->
+            <VFE_MechanoidUplink.label>vínculo mecanóide</VFE_MechanoidUplink.label>
+            <VFE_MechanoidUplink.description>vínculo mecanóide</VFE_MechanoidUplink.description>
+
     <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Wanted -->
             <Wanted.label>procurado</Wanted.label>

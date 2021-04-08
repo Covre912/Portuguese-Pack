@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Mechanoid Swarm -->
+            <VFE_Mechanoid.label>enxame mecanóide</VFE_Mechanoid.label>
+            <VFE_Mechanoid.description>Um grande enxame orbitado de naves mecanóides de terraformação e embarcações de combate. Controlado remotamente por comandantes humanos em um dos mundos centrais, no centro desse enxame mecanóide fica um covil, onde inúmeras máquinas são construídas e desconstruídas continuamente para servir a uma causa maior.\n\nEles não estão preocupados com os direitos humanos e não percebem os habitantes deste mundo como qualquer coisa, exceto macacos que precisam ser eliminados para que o projeto de terraformação continue.\n\nEste enxame mecanóide não pode ser aliado.</VFE_Mechanoid.description>
+            <VFE_Mechanoid.pawnSingular>mecanóide</VFE_Mechanoid.pawnSingular>
+            <VFE_Mechanoid.pawnsPlural>mecanóides</VFE_Mechanoid.pawnsPlural>
+
+</LanguageData>

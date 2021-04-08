@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- The Lone Scavenger -->
+            <VFE_TheLoneScavenger.label>O Sucateador Solitário</VFE_TheLoneScavenger.label>
+            <VFE_TheLoneScavenger.scenario.description>Durante suas viagens pela superfície em busca de pedaços de sucata para vender em um dos assentamentos estrangeiros, você tropeça em uma visão inacreditável: uma fábrica abandonada totalmente automatizada. Seus sentidos de sucateador incentivam você a separá-lo e resgatar o que puder, mas seu empreendedor interior deseja ouvir as máquinas cantando novamente.
+
+Aviso: Como seu personagem inicial não terá algumas habilidades, este é um cenário difícil no início do jogo.</VFE_TheLoneScavenger.scenario.description>
+            <VFE_TheLoneScavenger.scenario.name>O Sucateador Solitário</VFE_TheLoneScavenger.scenario.name>
+            <VFE_TheLoneScavenger.scenario.summary>Um sucateador solitário com uma escolha. Difícil.</VFE_TheLoneScavenger.scenario.summary>
+            <VFE_TheLoneScavenger.scenario.parts.GameStartDialog.text>Vivendo de dia de pagamento em dia de pagamento, reunindo sucata valiosa ao redor do planeta e vendendo-a pelo melhor lance - geralmente proprietários de ferro-velho, você nunca esperava encontrar algo tão valioso quanto uma fábrica totalmente automatizada, utilizando a mais recente tecnologia mecanóide do mundo urbano
+
+Agora a escolha é sua - você vai desmontá-lo para não tentar tantos invasores que estão perturbando estas terras? Ou você vai trazer a fábrica de volta à sua antiga glória?</VFE_TheLoneScavenger.scenario.parts.GameStartDialog.text>
+            <VFE_TheLoneScavenger.scenario.parts.VFEC_AddStartingStructure.structureLabel>Uma fábrica abandonada</VFE_TheLoneScavenger.scenario.parts.VFEC_AddStartingStructure.structureLabel>
+
     <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Bandits -->
             <VFES_Bandits.label>Bandidos</VFES_Bandits.label>
@@ -9,7 +22,7 @@
             <VFES_Bandits.scenario.summary>Um grupo de bandidos tentando se reerguer. Extremamente difícil.</VFES_Bandits.scenario.summary>
             <VFES_Bandits.scenario.description>Depois do último trabalho, que deveria ser o último, você e outros membros de sua gangue foram forçados a fugir sem olhar para trás. As única coisas que vocês têm são as coisas que conseguiu roubar, extorquir e encontrar pelo caminho. Seus modos selvagens lhe deram uma má reputação, e consertar as relações com outras facções levará muito tempo.
             
-Observação: como você começará sem nenhum suprimento e com todas as outras facções hostis, este é um cenário difícil.</VFES_Bandits.scenario.description>
+Aviso: Como você começará sem nenhum suprimento e com todas as outras facções hostis, este é um cenário difícil.</VFES_Bandits.scenario.description>
             <VFES_Bandits.scenario.parts.3.text>Depois do último trabalho, que deveria ser o último, você e outros membros de sua gangue foram forçados a fugir sem olhar para trás. As única coisas que vocês têm são as coisas que conseguiu roubar, extorquir e encontrar pelo caminho. Seus modos selvagens lhe deram uma má reputação, e consertar as relações com outras facções levará muito tempo.</VFES_Bandits.scenario.parts.3.text>
 
 </LanguageData>
