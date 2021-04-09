@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [O21] Seamless Embrasures -->
+        <!--Embrasure (Letterbox)-->
+            <O21_Embrasure_Letterbox.label>Seteira horizontal</O21_Embrasure_Letterbox.label>
+            <O21_Embrasure_Letterbox.description>Uma barreira impassável com um buraco horizontal. Capaz de suportar um telhado e permite o disparo de armas através dela.</O21_Embrasure_Letterbox.description>
+
+        <!--Embrasure (Hole)-->
+            <O21_Embrasure_Hole.label>Troneira</O21_Embrasure_Hole.label>
+            <O21_Embrasure_Hole.description>Uma barreira impassável com um buraco circular. Capaz de suportar um telhado e permite o disparo de armas através dela.</O21_Embrasure_Hole.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Factory Hopper -->
             <VFEM_HeavyHopper.label>funil de fábrica</VFEM_HeavyHopper.label>
