@@ -658,4 +658,57 @@
             <VWEL_ToggleHotshotLabel>Aquecimento</VWEL_ToggleHotshotLabel>
             <VWEL_ToggleHotshotDesc>Os tiros disparados aquecem a arma, permitindo maior velocidade de disparo. Superaquecimento pode levar à explosão da bateria.</VWEL_ToggleHotshotDesc>
 
+    <!-- WeaponStats -->
+        <!-- Generic -->
+            <WeaponStats.Ground>Chão</WeaponStats.Ground>
+            <WeaponStats.Colonists>Colonos</WeaponStats.Colonists>
+            <WeaponStats.Prisoners>Prisioneiros</WeaponStats.Prisoners>
+            <WeaponStats.Hostiles>Hostis</WeaponStats.Hostiles>
+            <WeaponStats.Friendlies>Amigáveis</WeaponStats.Friendlies>
+            <WeaponStats.Corpses>Cadáveres</WeaponStats.Corpses>
+            <WeaponStats.All>Tudo</WeaponStats.All>
+            <WeaponStats.Craftable>Fabricável</WeaponStats.Craftable>
+            <WeaponStats.Storage>Armazém</WeaponStats.Storage>
+            <WeaponStats.Ranged>Distância</WeaponStats.Ranged>
+            <WeaponStats.Melee>Corpo-a-corpo</WeaponStats.Melee>
+            <WeaponStats.Grenades>Granadas</WeaponStats.Grenades>
+            <WeaponStats.Apparel>Vestuário</WeaponStats.Apparel>
+            <WeaponStats.Tools>Ferramentas</WeaponStats.Tools>
+            <WeaponStats.Other>Outros</WeaponStats.Other>
+
+        <!-- Col -->
+            <WeaponStats.ColName>Nome</WeaponStats.ColName>
+            <WeaponStats.ColQuality>Qualidade</WeaponStats.ColQuality>
+            <WeaponStats.ColHP>PV</WeaponStats.ColHP>
+            <WeaponStats.ColValue>Valor de mercado</WeaponStats.ColValue>
+            <WeaponStats.ColRange>Alcance</WeaponStats.ColRange>
+            <WeaponStats.ColCooldwn>Tempo de Recarga</WeaponStats.ColCooldwn>
+            <WeaponStats.ColWarmup>Aquecimento</WeaponStats.ColWarmup>
+            <WeaponStats.ColSights>Mira</WeaponStats.ColSights>
+            <WeaponStats.ColSpread>Dispersão</WeaponStats.ColSpread>
+            <WeaponStats.ColSway>Balanço</WeaponStats.ColSway>
+            <WeaponStats.ColBulk>Volume</WeaponStats.ColBulk>
+            <WeaponStats.ColMagazineCapacity>Capacidade do Carregador</WeaponStats.ColMagazineCapacity>
+            <WeaponStats.ColDPS>DPS</WeaponStats.ColDPS>
+            <WeaponStats.ColDPSA>DPS com Precisão</WeaponStats.ColDPSA>
+            <WeaponStats.ColDamage>Dano</WeaponStats.ColDamage>
+            <WeaponStats.ColAccuracy>Precisão</WeaponStats.ColAccuracy>
+            <WeaponStats.ColType>Tipo</WeaponStats.ColType>
+            <WeaponStats.ColRadius>Raio de Explosão</WeaponStats.ColRadius>
+            <WeaponStats.ColDelay>Atraso de Explosão</WeaponStats.ColDelay>
+            <WeaponStats.ColBlunt>Proteção (Contundante)</WeaponStats.ColBlunt>
+            <WeaponStats.ColSharp>Proteção (Afiado)</WeaponStats.ColSharp>
+            <WeaponStats.ColHeat>Proteção (Calor)</WeaponStats.ColHeat>
+            <WeaponStats.ColICold>Isolamento (Frio)</WeaponStats.ColICold>
+            <WeaponStats.ColIHeat>Isolamento (Calor)</WeaponStats.ColIHeat>
+            <WeaponStats.ColArmorPenetration>Penetração</WeaponStats.ColArmorPenetration>
+            <WeaponStats.ColCounterParry>Contador</WeaponStats.ColCounterParry>
+
+        <!-- AccRb -->
+            <WeaponStats.AccRbName.All>Tudo</WeaponStats.AccRbName.All>
+            <WeaponStats.AccRbName.Touch>Queima roupa</WeaponStats.AccRbName.Touch>
+            <WeaponStats.AccRbName.Short>Pequeno</WeaponStats.AccRbName.Short>
+            <WeaponStats.AccRbName.Medium>Médio</WeaponStats.AccRbName.Medium>
+            <WeaponStats.AccRbName.Long>Longo</WeaponStats.AccRbName.Long>
+
 </LanguageData>

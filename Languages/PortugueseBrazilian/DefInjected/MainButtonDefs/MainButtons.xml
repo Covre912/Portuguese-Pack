@@ -6,4 +6,9 @@
             <Achievements.label>conquistas</Achievements.label>
             <Achievements.description>Desbloqueie conquistas, ganhe pontos, gerencie seu progresso.</Achievements.description>
 
+    <!-- WeaponStats -->
+        <!-- Weapons -->
+            <Bodlosh_WeaponStats.label>Armas</Bodlosh_WeaponStats.label>
+            <Bodlosh_WeaponStats.description>Gerencie e verifique armas e vestuário.</Bodlosh_WeaponStats.description>
+
 </LanguageData>
