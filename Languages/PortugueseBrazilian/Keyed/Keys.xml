@@ -144,6 +144,63 @@
 	        <UseCustomBackgroundLabel>Trocar Modo</UseCustomBackgroundLabel>
 	        <UseCustomBackgroundDesc>Quando ativo, torna colonos mecânicos mais compatíveis.</UseCustomBackgroundDesc>
 
+    <!-- [SYR] Harvest Yield -->
+        <!-- Category -->
+            <HarvestYieldSettingsCategory>Harvest Yield</HarvestYieldSettingsCategory>
+  
+        <!-- Harvest Yield Max -->
+            <HarvestYieldMax>Rendimento máximo de colheita de plantas</HarvestYieldMax>
+            <HarvestYieldMaxTooltip>Quantia máxima de rendimento de colheita de plantas que um colono pode ter</HarvestYieldMaxTooltip>
+
+        <!-- Animal Yield Max -->
+            <AnimalYieldMax>Rendimento máximo de colher em animais</AnimalYieldMax>
+            <AnimalYieldMaxTooltip>Quantia máxima de rendimento de colher de animais que um colono pode ter</AnimalYieldMaxTooltip>
+
+        <!-- Mining Yield -->
+            <MiningYieldMax>Rendimento máximo de mineração</MiningYieldMax>
+            <MiningYieldMaxTooltip>Quantia máxima de rendimento de mineração que um colono pode ter</MiningYieldMaxTooltip>
+
+        <!-- Butcher Yield -->
+            <ButcherFleshYieldMax>Eficiência máxima de esquartejamento de carne</ButcherFleshYieldMax>
+            <ButcherFleshYieldMaxTooltip>Quantia máxima de eficiência de esquartejamento de carne que um colono pode ter</ButcherFleshYieldMaxTooltip>
+            <ButcherMechYieldMax>Eficiência máxima de esquartejamento de mecanoide</ButcherMechYieldMax>
+            <ButcherMechYieldMaxTooltip>Quantia máxima de eficiência de esquartejamento de mecanoide que um colono pode ter</ButcherMechYieldMaxTooltip>
+
+    <!-- [SYR] Set Up Camp -->
+        <!-- Set Up Camp -->
+            <SetUpCamp>Montar acampamento</SetUpCamp>
+            <SetUpCampDesc>Monte um acampamento que lhe permita buscar comida, minerar e caçar, assim como reorganizar a sua caravana.</SetUpCampDesc>
+            <SetUpCampFormedCamp>A caravana montou um acampamento com sucesso.</SetUpCampFormedCamp>
+
+        <!-- Settings -->
+            <SetUpCampSettingsCategoryLabel>Montar Acampamento</SetUpCampSettingsCategoryLabel>
+            <SetUpCampSettingMapSize>Tamanho do mapa para o acampamento (padrão: 75-125)</SetUpCampSettingMapSize>
+            <SetUpCampSettingsMapTimerDays>Temporizador para abandonar o acampamento (padrão: 5)</SetUpCampSettingsMapTimerDays>
+            <SetUpCampSettingsMapTimerDaysTooltip>Dias até que a caravana seja obrigada a abandonar o acampamento</SetUpCampSettingsMapTimerDaysTooltip>
+            <SetUpCampSettingsTimeout>Duração de acampamentos abandonados (padrão: 60)</SetUpCampSettingsTimeout>
+            <SetUpCampSettingsTimeoutTooltip>Dias até que os acampamentos abandonados desapareçam</SetUpCampSettingsTimeoutTooltip>
+            <SetUpCampSettingMinCampSize>Tamanho mínimo dos acampamentos</SetUpCampSettingMinCampSize>
+            <SetUpCampSettingMaxCampSize>Tamanho máximo dos acampamentos</SetUpCampSettingMaxCampSize>
+            <SetUpCampSettingsCustomMapGenDef>Ativar recursos (padrão: ligado)</SetUpCampSettingsCustomMapGenDef>
+            <SetUpCampSettingsPermanentCamps>Habilitar acampamentos permanentes (padrão: desligado, ao desativar, todos os acampamentos vazios no mapa serão eliminados!)</SetUpCampSettingsPermanentCamps>
+            <SetUpCampSettingsHomeEvents>Habilitar eventos de "mapa normal" nos acampamentos (padrão: desligado)</SetUpCampSettingsHomeEvents>
+            <SetUpCampSettingsCaravanEvents>Habilitar eventos de "caravana" nos acampamentos (padrão: desligado)</SetUpCampSettingsCaravanEvents>
+
+        <!-- Destroy Camp -->
+            <SetUpCampDestroyCamp>Abandonar o acampamento</SetUpCampDestroyCamp>
+            <SetUpCampDestroyCampDesc>Abandona este acampamento permanentemente.</SetUpCampDestroyCampDesc>
+
+        <!-- Abandon -->
+            <SetUpCampAbandonDialogue>Tem certeza que deseja destruir este acampamento de forma permanente e irreversível?</SetUpCampAbandonDialogue>
+            <SetUpCampAbandoned>Acampamento abandonado.</SetUpCampAbandoned>
+
+        <!-- Camp -->
+            <SetUpCampStillInUse>Ainda há colonos no acampamento. Você precisa formar uma caravana antes de abandonar o acampamento.</SetUpCampStillInUse>
+            <SetUpCampOccupied>Você precisa esperar antes de acampar de novo no mesmo lugar.</SetUpCampOccupied>
+
+        <!-- Generation -->
+            <SetUpCamp_GeneratingCamp>Gerando acampamento</SetUpCamp_GeneratingCamp>
+
     <!-- EDB Prepare Carefully -->
         <!-- Add Parent Child -->
             <EdB.PC.AddParentChild.Header.AddParent>Adicionar um Pai</EdB.PC.AddParentChild.Header.AddParent>
@@ -657,28 +714,6 @@
         <!-- Weapon Warm-up -->
             <VWEL_ToggleHotshotLabel>Aquecimento</VWEL_ToggleHotshotLabel>
             <VWEL_ToggleHotshotDesc>Os tiros disparados aquecem a arma, permitindo maior velocidade de disparo. Superaquecimento pode levar à explosão da bateria.</VWEL_ToggleHotshotDesc>
-
-    <!-- [SYR] Harvest Yield -->
-        <!-- Category -->
-            <HarvestYieldSettingsCategory>Harvest Yield</HarvestYieldSettingsCategory>
-  
-        <!-- Harvest Yield Max -->
-            <HarvestYieldMax>Rendimento máximo de colheita de plantas</HarvestYieldMax>
-            <HarvestYieldMaxTooltip>Quantia máxima de rendimento de colheita de plantas que um colono pode ter</HarvestYieldMaxTooltip>
-
-        <!-- Animal Yield Max -->
-            <AnimalYieldMax>Rendimento máximo de colher em animais</AnimalYieldMax>
-            <AnimalYieldMaxTooltip>Quantia máxima de rendimento de colher de animais que um colono pode ter</AnimalYieldMaxTooltip>
-
-        <!-- Mining Yield -->
-            <MiningYieldMax>Rendimento máximo de mineração</MiningYieldMax>
-            <MiningYieldMaxTooltip>Quantia máxima de rendimento de mineração que um colono pode ter</MiningYieldMaxTooltip>
-
-        <!-- Butcher Yield -->
-            <ButcherFleshYieldMax>Eficiência máxima de esquartejamento de carne</ButcherFleshYieldMax>
-            <ButcherFleshYieldMaxTooltip>Quantia máxima de eficiência de esquartejamento de carne que um colono pode ter</ButcherFleshYieldMaxTooltip>
-            <ButcherMechYieldMax>Eficiência máxima de esquartejamento de mecanoide</ButcherMechYieldMax>
-            <ButcherMechYieldMaxTooltip>Quantia máxima de eficiência de esquartejamento de mecanoide que um colono pode ter</ButcherMechYieldMaxTooltip>
 
     <!-- WeaponStats -->
         <!-- Generic -->
