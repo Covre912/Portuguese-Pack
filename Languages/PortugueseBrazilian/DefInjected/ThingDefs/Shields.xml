@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Kite Shield -->
+            <VFEM_Shield_Kite.label>escudo de pipa</VFEM_Shield_Kite.label>
+            <VFEM_Shield_Kite.description>Um grande escudo de madeira, com a frente decorativamente revestida de couro. Oferece uma quantidade moderada de proteção contra ataques corpo a corpo e à distância.</VFEM_Shield_Kite.description>
+
+        <!-- Heater Shield -->
+            <VFEM_Shield_Heater.label>escudo</VFEM_Shield_Heater.label>
+            <VFEM_Shield_Heater.description>Um escudo de aço pesado de tamanho médio, com a frente decorativamente coberta por couro. Oferece uma quantidade significativa de proteção contra ataques corpo a corpo e à distância.</VFEM_Shield_Heater.description>
+
+</LanguageData>

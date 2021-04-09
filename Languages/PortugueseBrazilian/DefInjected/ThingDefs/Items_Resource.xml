@@ -10,6 +10,11 @@
             <VFEM_ProcessedMeat.label>carne processada</VFEM_ProcessedMeat.label>
             <VFEM_ProcessedMeat.description>Um produto de carne moída que acidentalmente inclui a pele, ossos e pele da criatura em questão. Embora a textura seja um pouco questionável, o sabor é surpreendentemente aceitável.</VFEM_ProcessedMeat.description>
 
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Grapes -->
+            <VFEM_RawGrapes.label>uvas</VFEM_RawGrapes.label>
+            <VFEM_RawGrapes.description>Uvas cruas. Agradável de comer, mesmo quando cru. As uvas também podem ser transformadas em mosto, que pode ser usado para fazer vinho.</VFEM_RawGrapes.description>
+
     <!-- Vanilla Weapons Expanded - Laser -->
         <!-- Laser Random -->
             <LaserRandom.label>arma laser recuperada</LaserRandom.label>

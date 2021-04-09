@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Melee -->
+            <VFEM_Event_MeleeRound.rulePack.rulesStrings>
+                <li>r_logentry->[INITIATOR_definite] [surpassed] [skillfully] [SUBJECT_definite] com sua espada.</li>
+                <li>r_logentry->[INITIATOR_definite] [surpassed] [skillfully] [SUBJECT_definite] com sua espada com [skill].</li>
+
+                <li>skillfully->habilmente</li>
+                <li>skillfully->trivialmente</li>
+                <li>skillfully->convenientemente</li>
+                <li>skillfully->facilmente</li>
+                <li>skillfully->corajosamente</li>
+
+                <li>surpassed->superou</li>
+                <li>surpassed->bateu</li>
+                <li>surpassed->ultrapassou</li>
+                <li>surpassed->ofuscou</li>
+                <li>surpassed->dominou</li>
+
+                <li>r_logentry->[INITIATOR_definite] e [SUBJECT_definite] [intensely] [battled], [INITIATOR_definite] obteve a vitória.</li>
+
+                <li>intensely->intensamente</li>
+                <li>intensely->valentemente</li>
+
+                <li>battled->lutaram</li>
+                <li>battled->batalharam</li>
+
+                <li>r_logentry->[SUBJECT_definite] [fell] como um [toppleableThing] sobre a [skill] de [INITIATOR_definite].</li>
+
+                <li>fell->caiu</li>
+                <li>fell->desabou</li>
+                <li>fell->rendeu-se</li>
+
+                <li>toppleableThing->dominó</li>
+                <li>toppleableThing->palito de fósforo</li>
+
+                <li>skill->força</li>
+                <li>skill->coragem</li>
+            </VFEM_Event_MeleeRound.rulePack.rulesStrings>
+
+            <VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings>
+                <li>r_logentry->[SUBJECT_definite] recebeu um [wound] [woundDesc].</li>
+
+                <li>woundDesc->nojento</li>
+                <li>woundDesc->profundo</li>
+                <li>woundDesc->sangrento</li>
+                <li>woundDesc->horrível</li>
+
+                <li>wound->corte</li>
+                <li>wound->ferimento</li>
+                <li>wound->arranhão</li>
+            </VFEM_Event_MeleeDisasterCut.rulePack.rulesStrings>
+
+            <VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings>
+                <li>r_logentry->Uma parte do corpo de [SUBJECT_definite] [flew].</li>
+
+                <li>flew->voou</li>
+                <li>flew->despencou</li>
+
+                <li>r_logentry->[INITIATOR_definite] [removed] [removedAdverb] uma das partes do corpo de [SUBJECT_definite].</li>
+
+                <li>removedAdverb->brutalmente</li>
+                <li>removedAdverb->friamente</li>
+                <li>removedAdverb->habilmente</li>
+                <li>removedAdverb->cirurgicamente</li>
+                
+                <li>removed->removeu</li>
+                <li>removed->cortou</li>
+                <li>removed->desmembrou</li>
+            </VFEM_Event_MeleeDisasterPartLoss.rulePack.rulesStrings>
+
+        <!-- Jousting -->
+            <VFEM_Event_JoustingRound.rulePack.rulesStrings>
+                <li>r_logentry->[INITIATOR_definite] [demonstrated] sua [skill] com [steedControl] e com [weapon].</li>
+
+                <li>demonstrated->demonstrou</li>
+                <li>demonstrated->vangloriou-se</li>
+
+                <li>skill->habilidade</li>
+                <li>skill->precisão</li>
+                <li>skill->firmeza</li>
+
+                <li>steedControl->rédeas</li>
+                <li>steedControl->estribo</li>
+                <li>steedControl->sela</li>
+
+                <li>weapon->lança</li>
+                <li>weapon->pique</li>
+
+                <li>r_logentry->[SUBJECT_definite] falhou ao [control] seu [steed].</li>
+
+                <li>control->controlar</li>
+                <li>control->gerir</li>
+                <li>control->comandar</li>
+
+                <li>steed->múfalo</li>
+                <li>steed->cavalo</li>
+                <li>steed->dromedário</li>
+                <li>steed->urso</li>
+                <li>steed->leão</li>
+                <li>steed->rinoceronte</li>
+                <li>steed(p=0.1)->dinossauro</li>
+                <li>steed(p=0.1)->thrumbo</li>
+            </VFEM_Event_JoustingRound.rulePack.rulesStrings>
+
+            <VFEM_Event_JoustingDisaster.rulePack.rulesStrings>
+                <li>r_logentry->O [steed] de [SUBJECT_definite] ergueu-se e [kickPast] [SUBJECT_objective].</li>
+                <li>r_logentry->[SUBJECT_definite] caiu de seu [steed], qual então [kickPast] [kickAdj] [SUBJECT_objective].</li>
+
+                <li>kickAdj->brutalmente</li>
+                <li>kickAdj->selvagemente</li>
+
+                <li>kickPast->chutou</li>
+                <li>kickPast->maltratou</li>
+            </VFEM_Event_JoustingDisaster.rulePack.rulesStrings>
+
+        <!-- Archery -->
+            <VFEM_Event_ArcheryRound.rulePack.rulesStrings>
+                <li>r_logentry->[INITIATOR_definite] [hitPast] [hitAdj] seus alvos.</li>
+                <li>r_logentry->[INITIATOR_definite] [hitPast] [hitAdj] seus alvos com [speed].</li>
+
+                <li>hitAdj->precisamente</li>
+                <li>hitAdj->habilmente</li>
+
+                <li>hitPast->atingiu</li>
+                <li>hitPast->atacou</li>
+
+                <li>speed->velocidade</li>
+                <li>speed->destreza</li>
+                <li>speed->delicadeza</li>
+
+                <li>r_logentry->[SUBJECT_definite] [unable] de [hit] seus alvos.</li>
+
+                <li>unable->foi incapaz</li>
+                <li>unable->não foi capaz</li>
+
+                <li>hit->acertar</li>
+                <li>hit->atingir</li>
+            </VFEM_Event_ArcheryRound.rulePack.rulesStrings>
+
+            <VFEM_Event_ArcheryDisaster.rulePack.rulesStrings>
+                <li>r_logentry->[SUBJECT_definite] [hitPast] seu alvo que explodiu em fragmentos, ferindo [SUBJECT_objective].</li>
+                <li>r_logentry->[SUBJECT_definite] feriu-se acidentalmente enquanto tentava disparar seu arco.</li>
+            </VFEM_Event_ArcheryDisaster.rulePack.rulesStrings>
+
+            <VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings>
+                <li>r_logentry->A flecha de [INITIATOR_definite] desviou de seu curso e [hitPast] [SUBJECT_definite].</li>
+            </VFEM_Event_ArcheryDisasterAudience.rulePack.rulesStrings>
+
+</LanguageData>

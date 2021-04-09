@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- New Kingdom -->
+            <VFEM_PlayerKingdom.label>Novo Reino</VFEM_PlayerKingdom.label>
+            <VFEM_PlayerKingdom.description>Um pequeno reino.</VFEM_PlayerKingdom.description>
+            <VFEM_PlayerKingdom.pawnSingular>subordinado</VFEM_PlayerKingdom.pawnSingular>
+            <VFEM_PlayerKingdom.pawnsPlural>subordinados</VFEM_PlayerKingdom.pawnsPlural>
+
     <!-- Vanilla Factions Expanded - Settlers -->
-        <!-- Hideout -->
+        <!-- New Hideout -->
             <VFES_PlayerSettlement.label>Novo Esconderijo</VFES_PlayerSettlement.label>
             <VFES_PlayerSettlement.description>Um pequeno esconderijo de membros de gangues e criminosos.</VFES_PlayerSettlement.description>
             <VFES_PlayerSettlement.pawnSingular>bandido</VFES_PlayerSettlement.pawnSingular>

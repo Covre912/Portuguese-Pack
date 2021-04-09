@@ -38,6 +38,11 @@
             <VFE_AutomatedDefensiveMeasures.label>medidas defensivas automatizadas</VFE_AutomatedDefensiveMeasures.label>
             <VFE_AutomatedDefensiveMeasures.description>Pesquise a capacidade de transformar drones automatizados em armas para uma variedade de propósitos, incluindo plataformas móveis de torre, morteiros e outras contramedidas defensivas.</VFE_AutomatedDefensiveMeasures.description>
 
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Heavy Crossbow -->
+            <VFEM_HeavyCrossbow.label>besta pesada</VFEM_HeavyCrossbow.label>
+            <VFEM_HeavyCrossbow.description>Crie bestas pesadas, capazes de disparar um projétil que não pode ser detido pela maioria das armaduras.</VFEM_HeavyCrossbow.description>
+
     <!-- Vanilla Weapons Expanded -->
         <!-- Longbow -->
             <VWE_Longbow.label>arco longo</VWE_Longbow.label>

@@ -286,6 +286,14 @@
             <VFE_AutoMortar.label>morteiro automático</VFE_AutoMortar.label>
             <VFE_AutoMortar.description>Um morteiro automático. Lança bombas sobre paredes. Muito impreciso, mas de longo alcance.</VFE_AutoMortar.description>
 
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Wine Barrel -->
+            <VFEM_WineBarrel.label>barril de vinho</VFEM_WineBarrel.label>
+            <VFEM_WineBarrel.description>Um barril para a fermentação de mosto em vinho.</VFEM_WineBarrel.description>
+
+        <!-- Cobblestone Wall -->
+            <VFEM_CobblestoneWall.label>parede de pedra</VFEM_CobblestoneWall.label>
+
     <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Chemboiler -->
             <ChemBoiler.label>caldeira</ChemBoiler.label>

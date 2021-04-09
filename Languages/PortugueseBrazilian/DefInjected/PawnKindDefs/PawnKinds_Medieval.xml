@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Peasant -->
+            <VFEM_Medieval_Peasant.label>camponês</VFEM_Medieval_Peasant.label>
+            <VFEM_Medieval_Peasant.labelPlural>camponeses</VFEM_Medieval_Peasant.labelPlural>
+
+        <!-- Merchant -->
+            <VFEM_Medieval_Merchant.label>comerciante</VFEM_Medieval_Merchant.label>
+            <VFEM_Medieval_Merchant.labelPlural>comerciantes</VFEM_Medieval_Merchant.labelPlural>
+
+        <!-- Squire -->
+            <VFEM_Medieval_Squire.label>escudeiro</VFEM_Medieval_Squire.label>
+            <VFEM_Medieval_Squire.labelPlural>escudeiros</VFEM_Medieval_Squire.labelPlural>
+
+        <!-- Bowman -->
+            <VFEM_Medieval_Bowman.label>arqueiro</VFEM_Medieval_Bowman.label>
+            <VFEM_Medieval_Bowman.labelPlural>arqueiros</VFEM_Medieval_Bowman.labelPlural>
+
+        <!-- Footsoldier -->
+            <VFEM_Medieval_Footsoldier.label>soldado de infantaria</VFEM_Medieval_Footsoldier.label>
+            <VFEM_Medieval_Footsoldier.labelPlural>soldados de infantaria</VFEM_Medieval_Footsoldier.labelPlural>
+
+        <!-- Knight -->
+            <VFEM_Medieval_Knight.label>cavaleiro</VFEM_Medieval_Knight.label>
+            <VFEM_Medieval_Knight.labelPlural>caveleiros</VFEM_Medieval_Knight.labelPlural>
+
+        <!-- Lord -->
+            <VFEM_Medieval_Lord.label>lorde</VFEM_Medieval_Lord.label>
+            <VFEM_Medieval_Lord.labelPlural>lordes</VFEM_Medieval_Lord.labelPlural>
+
+</LanguageData>

@@ -141,4 +141,24 @@
                 <li>maybe_letter->[Letter][Letter]</li>
             </VFE_NamerShipCarrier.rulePack.rulesStrings>
 
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Faction Medieval -->
+            <VFEM_NamerFactionMedieval.rulePack.rulesStrings>
+                <li>r_name(p=0.35)->[PlaceOutlander]</li>
+                <li>r_name->O [political_union_medieval] de [PlaceOutlander]</li>
+                <li>r_name->[political_union_medieval] [PlaceOutlander]</li>
+            </VFEM_NamerFactionMedieval.rulePack.rulesStrings>
+            <VFEM_NamerFactionMedieval.rulePack.rulesFiles>
+                <li>political_union_medieval->Words/Nouns/PoliticalUnions_Medieval</li>
+            </VFEM_NamerFactionMedieval.rulePack.rulesFiles>
+
+        <!-- Settlement Medieval -->
+            <VFEM_NamerSettlementMedieval.rulePack.rulesStrings>
+                <li>r_name(p=4)->[medievalSettlementEnd] [PlaceOutlander]</li>
+                <li>r_name->[medievalSettlementEnd] [TerrainFeature] de [AnimalBadass]</li>
+            </VFEM_NamerSettlementMedieval.rulePack.rulesStrings>
+            <VFEM_NamerSettlementMedieval.rulePack.rulesFiles>
+                <li>medievalSettlementEnd->Words/Nouns/PlaceEnd_Medieval</li>
+            </VFEM_NamerSettlementMedieval.rulePack.rulesFiles>
+
 </LanguageData>

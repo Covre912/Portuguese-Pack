@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- None Shall Pass -->
+            <VFEM_BlackKnight.label>ninguém passará</VFEM_BlackKnight.label>
+            <VFEM_BlackKnight.letterLabel>Ninguém passará!</VFEM_BlackKnight.letterLabel>
+            <VFEM_BlackKnight.letterText>{0} encontrou um misterioso cavaleiro vestido de preto que parece estar guardando uma ponte!</VFEM_BlackKnight.letterText>
+
+        <!-- Enemy Raid -->
+            <VFEM_PursuitParty.label>invasão</VFEM_PursuitParty.label>
+
+        <!-- Medieval Tournament -->
+            <VFEM_Quest_MedievalTournament.label>torneio medieval</VFEM_Quest_MedievalTournament.label>
+            <VFEM_Quest_MedievalTournament.letterLabel>Torneio medieval</VFEM_Quest_MedievalTournament.letterLabel>
+            <VFEM_Quest_MedievalTournament.letterText>Espalhou-se a notícia de que {PAWN_nameDef}, {0} de {1}, sediará um torneio próximo a {2}. Esta pode ser uma boa oportunidade para ganhar boa vontade, bem como os seguintes prêmios:\n\n{3}</VFEM_Quest_MedievalTournament.letterText>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Protection Fee -->
+            <ProtectionFee.label>Exigência de taxa de proteção</ProtectionFee.label>
+            <ProtectionFeeLTS.label>Exigência de taxa de proteção</ProtectionFeeLTS.label>
+
+        <!-- Drunk Muffalos -->
+            <DrunkMuffalos.label>Múfalos bêbados</DrunkMuffalos.label>
+            <DrunkMuffalosLTS.label>Múfalos bêbados</DrunkMuffalosLTS.label>
+
+</LanguageData>

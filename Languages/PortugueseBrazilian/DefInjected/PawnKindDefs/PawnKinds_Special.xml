@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Sellsword -->
+            <VFEM_SellSword.label>mercenário</VFEM_SellSword.label>
+            <VFEM_SellSword.labelMale>mercenário</VFEM_SellSword.labelMale>
+            <VFEM_SellSword.labelFemale>mercenária</VFEM_SellSword.labelFemale>
+            <VFEM_SellSword.labelPlural>mercenários</VFEM_SellSword.labelPlural>
+
+        <!-- Black Knight -->
+            <VFEM_BlackKnight.label>cavaleiro negro</VFEM_BlackKnight.label>
+            <VFEM_BlackKnight.labelMale>cavaleiro negro</VFEM_BlackKnight.labelMale>
+            <VFEM_BlackKnight.labelFemale>cavaleira negra</VFEM_BlackKnight.labelFemale>
+            <VFEM_BlackKnight.labelPlural>cavaleiros negros</VFEM_BlackKnight.labelPlural>
+
+        <!-- Knight In The Black -->
+            <VFEM_KnightInBlack.label>cavaleiro sombrio</VFEM_KnightInBlack.label>
+            <VFEM_KnightInBlack.labelMale>cavaleiro sombrio</VFEM_KnightInBlack.labelMale>
+            <VFEM_KnightInBlack.labelFemale>cavaleira sombria</VFEM_KnightInBlack.labelFemale>
+            <VFEM_KnightInBlack.labelPlural>cavaleiros sombiros</VFEM_KnightInBlack.labelPlural>
+
     <!-- Vanilla Storytellers Expanded - Perry Persistent -->
         <!-- Man In The Coat -->    
             <VSE_ManInTheCoat.label>homem de casaco</VSE_ManInTheCoat.label>

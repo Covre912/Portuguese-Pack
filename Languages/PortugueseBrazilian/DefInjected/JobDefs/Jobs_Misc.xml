@@ -5,6 +5,16 @@
         <!-- Equip Shield -->
             <VFEC_EquipShield.reportString>equipando TargetA.</VFEC_EquipShield.reportString>
 
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Equip Shield -->
+            <VFEM_EquipShield.reportString>equipando TargetA.</VFEM_EquipShield.reportString>
+
+        <!-- Fill Wine Barrel -->
+            <VFEM_FillWineBarrel.reportString>preenchendo TargetA.</VFEM_FillWineBarrel.reportString>
+
+        <!-- Take Wine Out Of Wine Barrel -->
+            <VFEM_TakeWineOutOfWineBarrel.reportString>retirando vinho de TargetA.</VFEM_TakeWineOutOfWineBarrel.reportString>
+
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Vent To Friend -->
             <VSIE_VentToFriend.reportString>desabafando para TargetA.</VSIE_VentToFriend.reportString>

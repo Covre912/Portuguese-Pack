@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Grape Plant -->
+            <VFEM_Plant_Grape.label>videira</VFEM_Plant_Grape.label>
+            <VFEM_Plant_Grape.description>Uma videira de tamanho médio que dá uvas quando colhida - um ingrediente essencial na produção de vinho que também tem um sabor agradável quando comido cru. Leva muito tempo para crescer inicialmente, mas pode ser colhida repetidamente.</VFEM_Plant_Grape.description>
+
     <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Chemroot -->
             <Plant_Chemroot.label>raiz química</Plant_Chemroot.label>

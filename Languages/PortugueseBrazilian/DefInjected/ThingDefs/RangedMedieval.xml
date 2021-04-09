@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Heavy Crossbow -->
+            <VFEM_Bow_HeavyCrossbow.label>besta pesada</VFEM_Bow_HeavyCrossbow.label>
+            <VFEM_Bow_HeavyCrossbow.description>Uma besta pesada consistindo em um conjunto semelhante a um arco montado horizontalmente em uma estrutura robusta, que é portátil de forma semelhante à culatra de uma arma longa.\n\nEsta besta pesada dispara flechas devastadoras, capaz de perfurar várias camadas de metal.</VFEM_Bow_HeavyCrossbow.description>
+            <VFEM_Bow_HeavyCrossbow.tools.0.label>besta</VFEM_Bow_HeavyCrossbow.tools.0.label>
+
     <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Tomahawk -->
             <VFES_Tomahawk.label>tomahawk</VFES_Tomahawk.label>

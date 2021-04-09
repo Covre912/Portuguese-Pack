@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Wine -->
+            <VFEM_Wine.label>vinho</VFEM_Wine.label>
+            <VFEM_Wine.description>Uma garrafa grande de uma bebida alcoólica forte feita de uvas fermentadas. O consumo excessivo pode levar a desmaios e, com o tempo, ao vício.</VFEM_Wine.description>
+            <VFEM_Wine.ingestible.ingestCommandString>Beber {0}</VFEM_Wine.ingestible.ingestCommandString>
+            <VFEM_Wine.ingestible.ingestReportString>Bebendo {0}.</VFEM_Wine.ingestible.ingestReportString>
+
+        <!-- Grape Must -->
+            <VFEM_Must.label>mosto de uva</VFEM_Must.label>
+            <VFEM_Must.description>Vinho não fermentado. Essa substância precisa fermentar em um barril antes de se tornar vinho potável.</VFEM_Must.description>      
+
     <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Chemshine -->
             <Chemshine.label>jägermeister</Chemshine.label>

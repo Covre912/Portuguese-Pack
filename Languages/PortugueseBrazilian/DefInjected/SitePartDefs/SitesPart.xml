@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- Ennemies Presence -->
+            <KCSG_EnnemiesPresence.label>presença de inimigos</KCSG_EnnemiesPresence.label>
+            <KCSG_EnnemiesPresence.description>Inimigos estão presentes neste lugar.</KCSG_EnnemiesPresence.description>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Mechanoid Attack Party -->
+            <VFE_MechanoidAttackParty.label>um posto avançado amigável sob ataque mecanóide</VFE_MechanoidAttackParty.label>
+            <VFE_MechanoidAttackParty.description>Um refugiado encalhado e incapacitado implorando por ajuda.</VFE_MechanoidAttackParty.description>
+
+        <!-- Mechanoid Ship Landing -->
+            <VFE_MechanoidShipLanding.label>aterragem de nave mecanóide</VFE_MechanoidShipLanding.label>
+            <VFE_MechanoidShipLanding.description>aterragem de nave mecanóide.</VFE_MechanoidShipLanding.description>
+
+        <!-- Mechanoid Storage -->
+            <VFE_MechanoidStorage.label>armazenamento mecanóide</VFE_MechanoidStorage.label>
+            <VFE_MechanoidStorage.description>armazenamento mecanóide.</VFE_MechanoidStorage.description>
+        
+        <!-- Abandoned Factory -->
+            <VFEV_AbandonedFactory.label>fábrica abandonada</VFEV_AbandonedFactory.label>
+            <VFEV_AbandonedFactory.description>Uma fábrica abandonada.</VFEV_AbandonedFactory.description>
+
+        <!-- Abandoned Broadcasting Station -->
+            <VFEV_BroadcastingStation.label>estação de transmissão abandonada</VFEV_BroadcastingStation.label>
+            <VFEV_BroadcastingStation.description>Uma estação de transmissão abandonada.</VFEV_BroadcastingStation.description>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Castle Ruins -->
+            <VFEM_CastleRuins.label>ruínas do castelo</VFEM_CastleRuins.label>
+            <VFEM_CastleRuins.description>Ruínas recém-descobertas que podem conter itens valiosos.</VFEM_CastleRuins.description>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Wanted Hideout -->
+            <WantedHideout.label>esconderijo segur</WantedHideout.label>
+            <WantedHideout.description>Um esconderijo seguro para um criminoso procurado.</WantedHideout.description>
+
+        <!-- Caravan Raid -->
+            <CaravanRaid.label>parada de caravana</CaravanRaid.label>
+            <CaravanRaid.description>Uma caravana desconhecida.</CaravanRaid.description>
+
+</LanguageData>

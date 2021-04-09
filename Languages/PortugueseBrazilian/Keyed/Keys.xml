@@ -11,7 +11,7 @@
 
     <!-- [KV] Faction Control -->
         <!-- Faction Control -->
-            <RFC.FactionControlName>Controle de Facções</RFC.FactionControlName>
+            <RFC.FactionControlName>Faction Control</RFC.FactionControlName>
 	        <RFC.FactionControl>Controle de Facções - Opções Principais</RFC.FactionControl>
 	        <RFC.FactionControlFactionOptions>Controle de Facções - Opções de Facção</RFC.FactionControlFactionOptions>
 	        <RFC.CustomFactionControl>Controle de Facções - Facções Modificadas</RFC.CustomFactionControl>
@@ -455,6 +455,39 @@
             <VFEM_SiloConditionsUnsatisfied>Faltam algumas condições</VFEM_SiloConditionsUnsatisfied>
             <VFEM_SiloCountEntry>{0}: {1}/{2}</VFEM_SiloCountEntry>
             <VFEM_SiloAimAtQuestSite>A localização não contém objetos grandes o suficiente para serem direcionados</VFEM_SiloAimAtQuestSite>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Wine Barrel -->
+            <VanillaFactionsExpanded.NoMust>precisa de mosto de uva</VanillaFactionsExpanded.NoMust>
+            <VanillaFactionsExpanded.ContainsMust>Contém {0} / {1} mosto</VanillaFactionsExpanded.ContainsMust>
+            <VanillaFactionsExpanded.ContainsWine>Contém {0} / {1} vinho</VanillaFactionsExpanded.ContainsWine>
+            <VanillaFactionsExpanded.TargetWineQuality>Qualidade alvo: {0}</VanillaFactionsExpanded.TargetWineQuality>
+            <VanillaFactionsExpanded.TargetWineQualityMulti>Definir qualidade alvo</VanillaFactionsExpanded.TargetWineQualityMulti>
+            <VanillaFactionsExpanded.TargetWineQuality_Description>Seus colonos removerão o vinho deste barril quando ele atingir a qualidade desejada.</VanillaFactionsExpanded.TargetWineQuality_Description>
+
+        <!-- Tournaments -->
+            <VanillaFactionsExpanded.TournamentDurationDays>O torneio vai durar {0} dias.</VanillaFactionsExpanded.TournamentDurationDays>
+            <VanillaFactionsExpanded.MedievalTournamentInspectString>Prêmio: {0} ({1} restantes)</VanillaFactionsExpanded.MedievalTournamentInspectString>
+            <VanillaFactionsExpanded.AttendMedievalTournament>Atender ao {0}</VanillaFactionsExpanded.AttendMedievalTournament>
+            <VanillaFactionsExpanded.CaravanAttending>Atendendo ao {0}</VanillaFactionsExpanded.CaravanAttending>
+            <VanillaFactionsExpanded.MedievalTournamentInitial>Este torneio está sendo hospedado por {0} de {1}, a categoria é {2}. Existem {3} outros competidores neste torneio, todos ansiosos para ter a chance de ganhar os seguintes prêmios:\n\n{4}</VanillaFactionsExpanded.MedievalTournamentInitial>
+            <VanillaFactionsExpanded.Participate>Participante</VanillaFactionsExpanded.Participate>
+            <VanillaFactionsExpanded.ParticipateInitial>Você escolheu participar deste torneio. Nomeie seu campeão:</VanillaFactionsExpanded.ParticipateInitial>
+            <VanillaFactionsExpanded.PredictedPerformance>chances</VanillaFactionsExpanded.PredictedPerformance>
+            <VanillaFactionsExpanded.CannotParticipate>não pode participar</VanillaFactionsExpanded.CannotParticipate>
+            <VanillaFactionsExpanded.TournamentWinLetter>Torneio ganho</VanillaFactionsExpanded.TournamentWinLetter>
+            <VanillaFactionsExpanded.TournamentWinLetter_Text>Parabéns, {PAWN_labelShort} terminou em {0}º no torneio! Você ganhou boa vontade com {2} e ganhou os seguintes prêmios:\n\n{3}</VanillaFactionsExpanded.TournamentWinLetter_Text>
+            <VanillaFactionsExpanded.TournamentLossLetter>Torneio perdido</VanillaFactionsExpanded.TournamentLossLetter>
+            <VanillaFactionsExpanded.TournamentLossLetter_Text>{PAWN_labelShort} infelizmente não conseguiu vencer o torneio. {PAWN_pronoun} terminou em {0}º lugar.</VanillaFactionsExpanded.TournamentLossLetter_Text>
+            <VanillaFactionsExpanded.TournamentCancelledLetter>Torneio cancelado</VanillaFactionsExpanded.TournamentCancelledLetter>
+            <VanillaFactionsExpanded.TournamentCancelledLetter_Text>O torneio teve que ser cancelado devido a um incidente.</VanillaFactionsExpanded.TournamentCancelledLetter_Text>
+            <VanillaFactionsExpanded.TournamentExpGains>{PAWN_labelShort} ganhou {0} de experiência.</VanillaFactionsExpanded.TournamentExpGains>
+            <VanillaFactionsExpanded.LogEntryLine>Rodada {0}: {1}</VanillaFactionsExpanded.LogEntryLine>
+            <VanillaFactionsExpanded.Leave>Sair</VanillaFactionsExpanded.Leave>
+
+        <!-- Enemy caravans -->
+            <VanillaFactionsExpanded.AttackEnemyCaravan>Atacar {0}</VanillaFactionsExpanded.AttackEnemyCaravan>
+            <VanillaFactionsExpanded.AttackingEnemyCaravan>Atacando {0}</VanillaFactionsExpanded.AttackingEnemyCaravan>
 
     <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Caravan Raid -->

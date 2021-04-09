@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Light Plate Helmet -->
+            <VFEM_Apparel_PlateHelmetLight.label>capacete de placa leve</VFEM_Apparel_PlateHelmetLight.label>
+            <VFEM_Apparel_PlateHelmetLight.description>Um capacete medieval leve que oferece proteção moderada contra ataques violentos. Não é eficaz contra armas contundentes. Restringe o campo de visão do usuário.</VFEM_Apparel_PlateHelmetLight.description>
+
+        <!-- Heavy Plate Helmet -->
+            <VFEM_Apparel_PlateHelmetHeavy.label>capacete de placa pesado</VFEM_Apparel_PlateHelmetHeavy.label>
+            <VFEM_Apparel_PlateHelmetHeavy.description>Um capacete medieval pesado que cobre toda a cabeça. Oferece uma quantidade considerável de proteção, mas restringe o campo de visão do usuário.</VFEM_Apparel_PlateHelmetHeavy.description>
+
     <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Bandana -->
             <VFES_Headgear_Bandana.label>bandana</VFES_Headgear_Bandana.label>

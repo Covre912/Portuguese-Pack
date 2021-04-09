@@ -6,6 +6,11 @@
             <VFEMech-IgorInvader.label>Igor Invasor</VFEMech-IgorInvader.label>
             <VFEMech-IgorInvader.description>Igor Invasor não se importa com histórias chatas sobre colônias prósperas. A única história que vale a pena contar é a do combate. Ele enviará invasões a cada dois ou três dias, recompensando os jogadores por lidar com eles rapidamente e punindo os jogadores por quaisquer perdas. Este narrador dobra todos os tipos de dano, mas também avisa sobre as próximas invasões 12 horas antes de acontecerem.</VFEMech-IgorInvader.description>
 
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Maynard Medieval -->
+            <VFEM_Maynard.label>Maynard Medieval</VFEM_Maynard.label>
+            <VFEM_Maynard.description>Maynard gosta de contar histórias de heroísmo - com prosperidade e perigo. A maioria das facções e todas as pesquisas serão limitadas às eras medieval e pré-medieval.</VFEM_Maynard.description>
+
     <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Diego Dire -->
             <VFES_DD.label>Diego Direto</VFES_DD.label>

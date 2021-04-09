@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+	    <mods>
+		    <li>Vanilla Factions Expanded - Medieval</li>
+	    </mods>
+        <match Class="PatchOperationSequence">
+            <operations>
+                
+                <!-- Medieval Faction Base -->
+                    <li Class="PatchOperationReplace">
+                        <xpath>Defs/FactionDef[@Name = "VFEM_MedievalFactionBase"]/pawnSingular</xpath>
+                        <value>
+                            <pawnSingular>subordinado</pawnSingular>
+                        </value>
+                    </li>
+
+                    <li Class="PatchOperationReplace">
+                        <xpath>Defs/FactionDef[@Name = "VFEM_MedievalFactionBase"]/pawnsPlural</xpath>
+                        <value>
+                            <pawnsPlural>subordinados</pawnsPlural>
+                        </value>
+                    </li>
+
+                <!-- Base Shield -->
+                    <li Class="PatchOperationReplace">
+                        <xpath>Defs/ThingDef[@Name = "VFEM_BaseShield"]/tools</xpath>
+                        <value>
+                            <tools>
+                                <li>
+                                    <label>base</label>
+                                    <capacities>
+                                        <li>Poke</li>
+                                    </capacities>
+                                    <power>9</power>
+                                    <cooldownTime>2</cooldownTime>
+                                </li>
+                                <li>
+                                    <label>centro</label>
+                                    <labelUsedInLogging>false</labelUsedInLogging>
+                                    <capacities>
+                                        <li>Blunt</li>
+                                    </capacities>
+                                    <power>9</power>
+                                    <cooldownTime>2</cooldownTime>
+                                </li>
+                            </tools>
+                        </value>
+                    </li>
+            
+            </operations>
+        </match>
+    </Operation>
+
+</Patch>

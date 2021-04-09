@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Melee -->
+            <VFEM_Melee.label>corpo-a-corpo</VFEM_Melee.label>
+            <VFEM_Melee.description>A categoria para este torneio é corpo-a-corpo. Ter um colono com alta precisão de combate corpo-a-corpo seria uma vantagem.</VFEM_Melee.description>
+
+        <!-- Jousting -->
+            <VFEM_Jousting.label>justa</VFEM_Jousting.label>
+            <VFEM_Jousting.description>A categoria para este torneio é justa. Ter um colono com alta precisão de combate corpo-a-corpo e habilidade no manejo de animais seria uma vantagem.</VFEM_Jousting.description>
+
+        <!-- Archery -->
+            <VFEM_Archery.label>tiro com arco</VFEM_Archery.label>
+            <VFEM_Archery.description>A categoria para este torneio é tiro com arco. Ter um colono com alta precisão de tiro seria uma vantagem.</VFEM_Archery.description>
+
+</LanguageData>
