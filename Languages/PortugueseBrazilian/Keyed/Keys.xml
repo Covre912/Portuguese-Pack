@@ -166,6 +166,54 @@
             <ButcherMechYieldMax>Eficiência máxima de esquartejamento de mecanoide</ButcherMechYieldMax>
             <ButcherMechYieldMaxTooltip>Quantia máxima de eficiência de esquartejamento de mecanoide que um colono pode ter</ButcherMechYieldMaxTooltip>
 
+    <!-- [SYR] Individuality -->
+        <!-- Category -->
+            <SyrTraitsSettingsCategory>Individualidade</SyrTraitsSettingsCategory>
+  
+        <!-- Traits -->
+            <SyrTraitsTraitCount>Número de traços que surgem com colonos</SyrTraitsTraitCount>
+            <SyrTraitsDisabled>Recursos românticos desativados porque</SyrTraitsDisabled>
+            <SyrTraitsDisabledPsychology>Psychology está ativo</SyrTraitsDisabledPsychology>
+            <SyrTraitsDisabledRationalRomance>Rational Romance está ativo</SyrTraitsDisabledRationalRomance>
+            <SyrTraitsDisableRomance>Desativar recursos românticos</SyrTraitsDisableRomance>
+            <SyrTraitsDisableRomanceTooltip>Desativa os valores de sexualidade e confiança e seus efeitos</SyrTraitsDisableRomanceTooltip>
+            <SyrTraitsSexualityCommonality>Comunalidade de sexualidades</SyrTraitsSexualityCommonality>
+            <SyrTraitsSexualityCommonalityStraight>Hétero</SyrTraitsSexualityCommonalityStraight>
+            <SyrTraitsSexualityCommonalityBi>Bi</SyrTraitsSexualityCommonalityBi>
+            <SyrTraitsSexualityCommonalityGay>Gay</SyrTraitsSexualityCommonalityGay>
+            <SyrTraitsSexualityCommonalityAsexual>Assexual</SyrTraitsSexualityCommonalityAsexual>
+            <SyrTraitsDefaultSettings>Redefinir para o padrão</SyrTraitsDefaultSettings>
+            <SyrTraitsDefaultSettingsTooltip>Redefinir configurações para os valores padrão</SyrTraitsDefaultSettingsTooltip>
+            <SyrTraitsDaVinciGene>Gene Da Vinci</SyrTraitsDaVinciGene>
+            <SyrTraitsSlowLearnerLabel>Aprendiz lento</SyrTraitsSlowLearnerLabel>
+            <SyrTraitsSlowLearner>Bônus do total de habilidades</SyrTraitsSlowLearner>
+
+        <!-- Individuality -->
+            <IndividualityWindow>Individualidade</IndividualityWindow>
+            <IndividualityTooltip>Ver individualidade</IndividualityTooltip>
+
+        <!-- Sexuality -->
+            <SexualityPawn>Sexualidade</SexualityPawn>
+            <SexualityPawnTooltip>Por quais gêneros esta pessoa sente atração</SexualityPawnTooltip>
+
+        <!-- Romance Factor -->
+            <RomanceFactor>Confiança</RomanceFactor>
+            <RomanceFactorTooltip>A probabilidade desta pessoa tentar cortejar alguém</RomanceFactorTooltip>
+
+        <!-- Psychic Factor -->
+            <PsychicFactor>Sensibilidade psíquica</PsychicFactor>
+            <PsychicFactorTooltip>A sensibilidade natural desta pessoa a fenômenos psíquicos</PsychicFactorTooltip>
+
+        <!-- Body Weight -->
+            <BodyWeight>Peso corporal</BodyWeight>
+            <BodyWeightTooltip>O peso desta pessoa</BodyWeightTooltip>
+            <BodyWeightOffset>Forma corporal natural</BodyWeightOffset>
+
+        <!-- Edit Mode -->
+            <SyrIndividuality_EditModeOn>Ativar modo de edição</SyrIndividuality_EditModeOn>
+            <SyrIndividuality_EditModeOff>Desativar modo de edição</SyrIndividuality_EditModeOff>
+            <SyrIndividuality_EditModeTooltip>Clique com o botão esquerdo em um campo para aumentar, clique com o botão direito para diminuir</SyrIndividuality_EditModeTooltip>
+
     <!-- [SYR] Set Up Camp -->
         <!-- Set Up Camp -->
             <SetUpCamp>Montar acampamento</SetUpCamp>

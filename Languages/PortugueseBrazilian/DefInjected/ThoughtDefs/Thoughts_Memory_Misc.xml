@@ -91,6 +91,43 @@
             <VSIE_HadBirthdayParty.stages.0.label>Teve uma festa de aniversário</VSIE_HadBirthdayParty.stages.0.label>
             <VSIE_HadBirthdayParty.stages.0.description>Eles me deram uma festa de aniversário!</VSIE_HadBirthdayParty.stages.0.description>
 
+    <!-- [SYR] Individuality -->
+        <!--Green Thumb-->
+            <Thought_SYR_GreenThumb.stages.0.label>dedo verde frustrado</Thought_SYR_GreenThumb.stages.0.label>
+            <Thought_SYR_GreenThumb.stages.0.description>Por que não tem plantas no meu quarto?</Thought_SYR_GreenThumb.stages.0.description>
+            <Thought_SYR_GreenThumb.stages.1.label>dedo verde infeliz</Thought_SYR_GreenThumb.stages.1.label>
+            <Thought_SYR_GreenThumb.stages.1.description>Posso ter mais algumas plantas no meu quarto? Só uma ou duas não bastam.</Thought_SYR_GreenThumb.stages.1.description>
+            <Thought_SYR_GreenThumb.stages.2.label>dedo verde satisfeito</Thought_SYR_GreenThumb.stages.2.label>
+            <Thought_SYR_GreenThumb.stages.2.description>Tem algumas belas plantas no meu quarto, mas eu adoraria se houvesse mais.</Thought_SYR_GreenThumb.stages.2.description>
+            <Thought_SYR_GreenThumb.stages.3.label>dedo verde feliz</Thought_SYR_GreenThumb.stages.3.label>
+            <Thought_SYR_GreenThumb.stages.3.description>Tem algumas belas plantas no meu quarto, mas eu adoraria se houvesse ainda mais.</Thought_SYR_GreenThumb.stages.3.description>
+            <Thought_SYR_GreenThumb.stages.4.label>dedo verde encantado</Thought_SYR_GreenThumb.stages.4.label>
+            <Thought_SYR_GreenThumb.stages.4.description>Tem várias belas plantas no meu quarto, mas poderia haver um pouquinho mais.</Thought_SYR_GreenThumb.stages.4.description>
+            <Thought_SYR_GreenThumb.stages.5.label>dedo verde maravilhado</Thought_SYR_GreenThumb.stages.5.label>
+            <Thought_SYR_GreenThumb.stages.5.description>Tem tantas plantas maravilhosas no meu quarto.</Thought_SYR_GreenThumb.stages.5.description>
+
+        <!--Prosthophobe-->
+            <ProsthophobeHappy.stages.0.label>purista do corpo feliz</ProsthophobeHappy.stages.0.label>
+            <ProsthophobeHappy.stages.0.description>Puro e imaculado, meu corpo é íntegro, sem qualquer parte artificial.</ProsthophobeHappy.stages.0.description>
+
+        <!--Feeling Random-->
+            <FeelingRandom.stages.0.label>Sentindo-se maníaco(a)</FeelingRandom.stages.0.label>
+            <FeelingRandom.stages.0.description>Sem motivo aparente, eu simplesmente me sinto fantástico(a) agora!</FeelingRandom.stages.0.description>
+            <FeelingRandom.stages.1.label>Sentindo-se ótimo(a)</FeelingRandom.stages.1.label>
+            <FeelingRandom.stages.1.description>Sem motivo aparente, eu simplesmente me sinto ótimo(a) agora.</FeelingRandom.stages.1.description>
+            <FeelingRandom.stages.2.label>Sentindo-se bem</FeelingRandom.stages.2.label>
+            <FeelingRandom.stages.2.description>Sem motivo aparente, eu simplesmente me sinto bem agora.</FeelingRandom.stages.2.description>
+            <FeelingRandom.stages.3.label>Sentindo-se mal</FeelingRandom.stages.3.label>
+            <FeelingRandom.stages.3.description>Sem motivo aparente, eu simplesmente me sinto mal agora.</FeelingRandom.stages.3.description>
+            <FeelingRandom.stages.4.label>Sentindo-se péssimo(a)</FeelingRandom.stages.4.label>
+            <FeelingRandom.stages.4.description>Sem motivo aparente, eu simplesmente me sinto péssimo(a) agora.</FeelingRandom.stages.4.description>
+            <FeelingRandom.stages.5.label>Sentindo-se depressivo(a)</FeelingRandom.stages.5.label>
+            <FeelingRandom.stages.5.description>Sem motivo aparente, eu simplesmente me sinto completamente arrasado(a) agora...</FeelingRandom.stages.5.description>
+
+        <!--Gun Nut-->
+            <SYR_GunNutUnhappy.stages.0.label>louco por armas possui arma corpo-a-corpo</SYR_GunNutUnhappy.stages.0.label>
+            <SYR_GunNutUnhappy.stages.0.description>O que é isso? Não quero usar essa ferramenta de homem das cavernas. Eu quero uma arma de fogo, ou pelo menos um arco!</SYR_GunNutUnhappy.stages.0.description>
+
     <!-- Vanilla Storytellers Expanded - Freya Fierce -->
         <!-- Raid Restless -->
             <VFEV_RaidRestlessness.stages.0.label>Inquieto (x0)</VFEV_RaidRestlessness.stages.0.label>

@@ -144,6 +144,63 @@
             <RCT_GreenThumb.degreeDatas.0.label>dedo verde</RCT_GreenThumb.degreeDatas.0.label>
             <RCT_GreenThumb.degreeDatas.0.description>[PAWN_nameDef] é ótimo(a) em jardinagem. O que [PAWN_pronoun] mais quer na vida é um mundo mais verde.</RCT_GreenThumb.degreeDatas.0.description>
 
+    <!-- [SYR] Individuality -->
+        <!--Agile-->
+            <SYR_Agile.degreeDatas.0.label>furtivo</SYR_Agile.degreeDatas.0.label>
+            <SYR_Agile.degreeDatas.0.description>{PAWN_nameDef} possui agilidade e furtividade fora do normal, com melhores reflexos e um corpo mais flexível que o normal.</SYR_Agile.degreeDatas.0.description>
+
+        <!--AnimalAffinity-->
+            <SYR_AnimalAffinity.degreeDatas.0.label>amigo dos animais</SYR_AnimalAffinity.degreeDatas.0.label>
+            <SYR_AnimalAffinity.degreeDatas.0.description>{PAWN_nameDef} possui uma conexão especial com animais e os entende melhor que a maioria. Animais também tendem a entender o que {PAWN_pronoun} quer deles. O tempo que {PAWN_pronoun} passa com animais é longo, mas vale a pena.\n\nDomesticar nunca causa caçadores de humanos.\n\nDomesticação mais fácil de animais muito selvagens</SYR_AnimalAffinity.degreeDatas.0.description>
+
+        <!--Architect-->
+            <SYR_Architect.degreeDatas.0.label>arquiteto</SYR_Architect.degreeDatas.0.label>
+            <SYR_Architect.degreeDatas.0.description>{PAWN_nameDef} é proficiente com vários materiais de construção, especialmente pedras. {PAWN_pronoun} irá construir qualquer coisa de pedra três vezes mais rápido do que os outros e irá alisar a sua base rochosa rapidinho.\n\nVelocidade de construção com pedras +200%</SYR_Architect.degreeDatas.0.description>
+
+        <!--Creative Thinker-->
+            <SYR_CreativeThinker.degreeDatas.0.label>pensador criativo</SYR_CreativeThinker.degreeDatas.0.label>
+            <SYR_CreativeThinker.degreeDatas.0.description>{PAWN_nameDef} possui uma abordagem científica peculiar. {PAWN_pronoun} sempre pensa fora da caixa e encontra inspiração para problemas intelectuais na arte.\n\nArtístico aumenta velocidade de pesquisa</SYR_CreativeThinker.degreeDatas.0.description>
+
+        <!--Good Fortune-->
+            <SYR_GoodFortune.degreeDatas.0.label>sortudo</SYR_GoodFortune.degreeDatas.0.label>
+            <SYR_GoodFortune.degreeDatas.0.description>{PAWN_nameDef} parece ter acumulado toda a boa sorte deste mundo isolado.</SYR_GoodFortune.degreeDatas.0.description>
+
+        <!--Green Thumb-->
+            <SYR_GreenThumb.degreeDatas.0.label>dedo verde</SYR_GreenThumb.degreeDatas.0.label>
+            <SYR_GreenThumb.degreeDatas.0.description>{PAWN_nameDef} possui um talento especial para cultivar plantas e nutri-las até em ambientes hostis. {PAWN_pronoun} consegue cultivar qualquer planta, mesmo se outras pessoas fracassariam por inaptidão. {PAWN_pronoun} gostaria de ter plantas em seu quarto.\n\nConsegue crescer qualquer planta independente da habilidade</SYR_GreenThumb.degreeDatas.0.description>
+
+        <!--GunNut-->
+            <SYR_GunNut.degreeDatas.0.label>louco por armas</SYR_GunNut.degreeDatas.0.label>
+            <SYR_GunNut.degreeDatas.0.description>{PAWN_nameDef} é louco(a) por armas, sua vida gira em torno delas, de como são fabricadas, conservadas e utilizadas. Uma habilidade bem útil nessas circunstâncias. Só não dê uma arma de corpo-a-corpo nas mãos d{PAWN_pronoun}.</SYR_GunNut.degreeDatas.0.description>/
+
+        <!--HandEyeCoordination-->
+            <SYR_HandEyeCoordination.degreeDatas.0.label>coordenação motora</SYR_HandEyeCoordination.degreeDatas.0.label>
+            <SYR_HandEyeCoordination.degreeDatas.0.description>{PAWN_nameDef} possui uma coordenação motora excepcional.</SYR_HandEyeCoordination.degreeDatas.0.description>
+
+        <!--Keen Eye-->
+            <SYR_KeenEye.degreeDatas.0.label>olhar aguçado</SYR_KeenEye.degreeDatas.0.label>
+            <SYR_KeenEye.degreeDatas.0.description>{PAWN_nameDef} possui um olhar aguçado e consegue encontrar até os menores depósitos de minério. {PAWN_pronoun} ocasionalmente irá encontrar pequenos acúmulos de recursos ao minerar qualquer tipo de pedra ou minério. A chance é maior em terreno plano.</SYR_KeenEye.degreeDatas.0.description>
+
+        <!--MechanoidExpert-->
+            <SYR_MechanoidExpert.degreeDatas.0.label>especialista em mecanoides</SYR_MechanoidExpert.degreeDatas.0.label>
+            <SYR_MechanoidExpert.degreeDatas.0.description>{PAWN_nameDef} já teve sua dose de encontros com mecanoides. {PAWN_pronoun} se tornou um(a) especialista em construção e combate a mecanoides, fazendo d{PAWN_pronoun} uma pessoa peculiarmente apropriada para desmontá-los e combatê-los.\n\nDano contra mecanoides +50%</SYR_MechanoidExpert.degreeDatas.0.description>
+
+        <!--Perfectionist-->
+            <SYR_Perfectionist.degreeDatas.0.label>perfeccionista</SYR_Perfectionist.degreeDatas.0.label>
+            <SYR_Perfectionist.degreeDatas.0.description>{PAWN_nameDef} quer que tudo saia perfeito. Isso leva tempo, mas os resultados falam por si próprios.\n\nNível de qualidade +1 (chance de 50%)</SYR_Perfectionist.degreeDatas.0.description>
+
+        <!--Haggler-->
+            <SYR_Haggler.degreeDatas.0.label>língua afiada</SYR_Haggler.degreeDatas.0.label>
+            <SYR_Haggler.degreeDatas.0.description>{PAWN_nameDef} sabe exatamente as palavras certas para cada situação. Isso também significa que seus insultos doem mais.</SYR_Haggler.degreeDatas.0.description>
+
+        <!--Steady Hands-->
+            <SYR_SteadyHands.degreeDatas.0.label>mãos firmes</SYR_SteadyHands.degreeDatas.0.label>
+            <SYR_SteadyHands.degreeDatas.0.description>{PAWN_nameDef} possui mãos especialmente firmes, que não tremem nem nas circunstâncias mais estressantes, nem quando {PAWN_pronoun} mesmo(a) está ferido(a).\n\nSem penalidade ao autoatendimento</SYR_SteadyHands.degreeDatas.0.description>
+
+        <!--StrongBack-->
+            <SYR_StrongBack.degreeDatas.0.label>costas fortes</SYR_StrongBack.degreeDatas.0.label>
+            <SYR_StrongBack.degreeDatas.0.description>{PAWN_nameDef} possui costas muito fortes, é metade mula, ou coisa do tipo. {PAWN_pronoun} consegue carregar muito mais do que uma pessoa normal.</SYR_StrongBack.degreeDatas.0.description>
+
     <!-- Vanilla Traits Expanded -->
         <!-- Absent-Minded -->
             <VTE_AbsentMinded.degreeDatas.0.label>distraído</VTE_AbsentMinded.degreeDatas.0.label>

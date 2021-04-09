@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- [SYR] Individuality -->
+		<!-- Joy Need Rate Multiplier -->
+            <JoyNeedRateMultiplier.label>multiplicador da taxa de necessidade de diversão</JoyNeedRateMultiplier.label>
+            <JoyNeedRateMultiplier.description>Um multiplicador da frequência em que uma pessoa precisa de recreação.</JoyNeedRateMultiplier.description>
+
+</LanguageData>
