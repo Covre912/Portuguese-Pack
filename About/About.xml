@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Kit's Portuguese Pack</name>
-	<author>Kitsune</author>
+	<author>Kitsune, vermibvs</author>
 	<supportedVersions><li>1.2</li></supportedVersions>
 	<packageId>KIT.PortuguesePack</packageId>
     <loadAfter>
@@ -14,6 +14,7 @@ This mod aims to add portuguese translation to some mods :)
 Supported Mods:
 - [KV] Consolidated Traits
 - [KV] Faction Control
+- [KV] More Traits Slots
 - EDB Prepare Carefully
 - Vanilla Achievements Expanded
 - Vanilla Expanded Framework

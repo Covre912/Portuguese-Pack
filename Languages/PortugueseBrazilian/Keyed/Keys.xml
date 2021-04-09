@@ -3,7 +3,7 @@
 
     <!-- [KV] Consolidated Traits -->
         <!-- Consolidated Tarits -->
-            <ConsolidatedTraits>Traços Consolidados</ConsolidatedTraits>
+            <ConsolidatedTraits>Consolidated Traits</ConsolidatedTraits>
 	        <ConsolidatedTraits.EditTraits>Editar Traços</ConsolidatedTraits.EditTraits>
 	        <ConsolidatedTraits.SelectTrait>Selecionar Traço</ConsolidatedTraits.SelectTrait>
 	        <ConsolidatedTraits.Commonality>Comunalidade</ConsolidatedTraits.Commonality>
@@ -75,6 +75,13 @@
 	        <RFC.factionPirate1>Distribuir as bases de grupo de facção "</RFC.factionPirate1>
 	        <RFC.factionPirate2>" como bases de bando de piratas?</RFC.factionPirate2>
             <RFC.factionPirateTip>Se esta opção for desmarcada, as bases serão agrupadas para formar uma "nação". Porém, se for marcada, as bases serão dispersas pelos territórios de outros grupos de facção, assim como as bases de bandos de piratas. (Lembre-se, é claro, de que esta opção não surte efeito a menos que você tenha escolhido organizar as bases de grupos de facção geograficamente.)</RFC.factionPirateTip>
+
+    <!-- [KV] More Traits Slots -->
+        <!-- More Traits Slots -->
+            <RMTS.RMTS>More Traits Slots</RMTS.RMTS>
+	        <RMTS.traitsMin>Número Mínimo de Traços por Colono (Padrão: 2)</RMTS.traitsMin>
+	        <RMTS.traitsMax>Número Máximo de Traços por Colono (Padrão: 3)</RMTS.traitsMax>
+	        <RMTS.traitsNotes>Mantenha em mente que, mesmo se você definir o número máximo de traços para zero, alguns colonos ainda surgirão com traços, já que alguns antecedentes forçam traços associados.</RMTS.traitsNotes>
 
     <!-- EDB Prepare Carefully -->
         <!-- Add Parent Child -->
