@@ -85,7 +85,7 @@
 
     <!-- [KV] Show Hair With Hats Or Hide All Hats -->
         <!-- Show Hair -->
-            <ShowHair.ShowHair>Mostrar Cabelo</ShowHair.ShowHair>
+            <ShowHair.ShowHair>Show Hair With Hats</ShowHair.ShowHair>
 	        <ShowHair.HideAllHats>Esconder Todos os Chapéus</ShowHair.HideAllHats>
 	        <ShowHair.SelectHatsWhichHideHair>Selecionar chapéus que irão esconder cabelo</ShowHair.SelectHatsWhichHideHair>
 	        <ShowHair.SelectHairThatWillBeHidden>Selecionar cabelo que chapéus irão esconder</ShowHair.SelectHairThatWillBeHidden>
@@ -95,8 +95,8 @@
 	        <ShowHair.HideHatsIndoorsShowWhenDrafted>Mostrar Chapéu Quando Alistado</ShowHair.HideHatsIndoorsShowWhenDrafted>
 	        <ShowHair.UpdatePortrait>Atualizar Retrato (pode diminuir o FPS)</ShowHair.UpdatePortrait>
 	        <ShowHair.ShowHatsUnderNaturalRoof>Esconder Chapéus Debaixo de Telhado Natural</ShowHair.ShowHatsUnderNaturalRoof>
-	        <ShowHair.PutHatOnPawn>Colocar chapéu em peão</ShowHair.PutHatOnPawn>
-	        <ShowHair.StartGameToSeePawn>Inicie o jogo para ver o peão</ShowHair.StartGameToSeePawn>
+	        <ShowHair.PutHatOnPawn>Colocar chapéu em colono</ShowHair.PutHatOnPawn>
+	        <ShowHair.StartGameToSeePawn>Inicie o jogo para ver o colono</ShowHair.StartGameToSeePawn>
 	        <ShowHair.HairColor>Cor do Cabelo</ShowHair.HairColor>
 	        <ShowHair.WhiteHairColor>B</ShowHair.WhiteHairColor>
 	        <ShowHair.YellowHairColor>A</ShowHair.YellowHairColor>
