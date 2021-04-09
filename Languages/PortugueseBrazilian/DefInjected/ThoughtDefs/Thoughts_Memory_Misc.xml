@@ -1,6 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [KV] Consolidated Traits -->
+		<!-- Cold-Lover -->
+            <EnvironmentColdCL.stages.0.label>com frio</EnvironmentColdCL.stages.0.label>
+            <EnvironmentColdCL.stages.0.description>Os outros podem reclamar, mas eu não ligo para este clima. É revigorante!</EnvironmentColdCL.stages.0.description>
+ 			<EnvironmentColdCL.stages.1.label>com muito frio</EnvironmentColdCL.stages.1.label>
+            <EnvironmentColdCL.stages.1.description>Até para os meus padrões, está meio fresco.</EnvironmentColdCL.stages.1.description>
+ 			<EnvironmentColdCL.stages.2.label>congelando</EnvironmentColdCL.stages.2.label>
+            <EnvironmentColdCL.stages.2.description>Tudo bem, está frio. Mas vale a pena choramingar por isso?</EnvironmentColdCL.stages.2.description>
+
+		<!-- Heat-Lover -->
+            <EnvironmentColdHL.stages.0.label>com frio</EnvironmentColdHL.stages.0.label>
+            <EnvironmentColdHL.stages.0.description>Está fazendo um frio desconfortável.</EnvironmentColdHL.stages.0.description>
+ 			<EnvironmentColdHL.stages.1.label>com muito frio</EnvironmentColdHL.stages.1.label>
+            <EnvironmentColdHL.stages.1.description>Estou com tanto frio. Tremendo. Não consigo me esquentar.</EnvironmentColdHL.stages.1.description>
+ 			<EnvironmentColdHL.stages.2.label>congelando</EnvironmentColdHL.stages.2.label>
+            <EnvironmentColdHL.stages.2.description>Meus dentes estão rangendo tanto que mal consigo falar. Meus dedos estão dormentes. Eu preciso me esquentar.</EnvironmentColdHL.stages.2.description>
+
+		<!-- Cold-Lover -->
+			<EnvironmentHotCL.stages.0.label>quente</EnvironmentHotCL.stages.0.label>
+            <EnvironmentHotCL.stages.0.description>Este calor é desagradável. Eu estou suando.</EnvironmentHotCL.stages.0.description>
+ 			<EnvironmentHotCL.stages.1.label>muito quente</EnvironmentHotCL.stages.1.label>
+            <EnvironmentHotCL.stages.1.description>Eu estou muito sobreaquecido(a).</EnvironmentHotCL.stages.1.description>
+ 			<EnvironmentHotCL.stages.2.label>extremamente quente</EnvironmentHotCL.stages.2.label>
+            <EnvironmentHotCL.stages.2.description>Eu me sinto em um forno! Não sei por quanto tempo consigo aguentar isso.</EnvironmentHotCL.stages.2.description>
+			<EnvironmentHotCL.stages.3.label>escaldante</EnvironmentHotCL.stages.3.label>
+            <EnvironmentHotCL.stages.3.description>Eu estou queimando. Acho que este calor vai me matar!</EnvironmentHotCL.stages.3.description>
+
+		<!-- Heat-Lover -->
+			<EnvironmentHotHL.stages.0.label>quente</EnvironmentHotHL.stages.0.label>
+            <EnvironmentHotHL.stages.0.description>Os outros podem reclamar, mas eu não ligo para este clima.</EnvironmentHotHL.stages.0.description>
+ 			<EnvironmentHotHL.stages.1.label>muito quente</EnvironmentHotHL.stages.1.label>
+            <EnvironmentHotHL.stages.1.description>OK, sim, está meio quentinho.</EnvironmentHotHL.stages.1.description>
+ 			<EnvironmentHotHL.stages.2.label>extremamente quente</EnvironmentHotHL.stages.2.label>
+            <EnvironmentHotHL.stages.2.description>Até para os meus padrões, está meio quente.</EnvironmentHotHL.stages.2.description>
+			<EnvironmentHotHL.stages.3.label>escaldante</EnvironmentHotHL.stages.3.label>
+            <EnvironmentHotHL.stages.3.description>OK, certo, está fazendo calor. Não estou super confortável. Mas poderia ser pior.</EnvironmentHotHL.stages.3.description>
+
+		<!-- Nyctophobe In Darkness -->
+			<EnvironmentDarkNyctophobe.stages.0.label>no escuro</EnvironmentDarkNyctophobe.stages.0.label>
+            <EnvironmentDarkNyctophobe.stages.0.description>Eu não consigo ver nada! Não gosto nada disso. Eu... eu acho que vi algo se mexer...</EnvironmentDarkNyctophobe.stages.0.description>
+
+		<!-- Nyctophile In Darkness  -->  
+			<EnvironmentDarkNyctophile.stages.0.label>no escuro</EnvironmentDarkNyctophile.stages.0.label>
+            <EnvironmentDarkNyctophile.stages.0.description>Sim, pode estar meio difícil de enxergar, mas sério, por que todo mundo perde a cabeça por causa do escuro? Eu acho legal.</EnvironmentDarkNyctophile.stages.0.description>
+
+		<!-- Aesthete NeedBeauty -->
+			<NeedBeautyAesthete.stages.0.label>ambiente horroroso</NeedBeautyAesthete.stages.0.label>
+            <NeedBeautyAesthete.stages.0.description>Este lugar é insuportável. Alguém me tire daqui...</NeedBeautyAesthete.stages.0.description>
+ 			<NeedBeautyAesthete.stages.1.label>ambiente muito feio</NeedBeautyAesthete.stages.1.label>
+            <NeedBeautyAesthete.stages.1.description>Este lugar é muito desagradável. Eu não quero ficar aqui.</NeedBeautyAesthete.stages.1.description>
+ 			<NeedBeautyAesthete.stages.2.label>ambiente feio</NeedBeautyAesthete.stages.2.label>
+            <NeedBeautyAesthete.stages.2.description>Este lugar é desagradável de se estar.</NeedBeautyAesthete.stages.2.description>
+			<NeedBeautyAesthete.stages.3.label>ambiente agradável</NeedBeautyAesthete.stages.3.label>
+            <NeedBeautyAesthete.stages.3.description>Este lugar é agradável.</NeedBeautyAesthete.stages.3.description>
+			<NeedBeautyAesthete.stages.4.label>ambiente muito agradável</NeedBeautyAesthete.stages.4.label>
+            <NeedBeautyAesthete.stages.4.description>Eu gosto muito deste lugar. É bonito.</NeedBeautyAesthete.stages.4.description>
+ 			<NeedBeautyAesthete.stages.5.label>ambiente belo</NeedBeautyAesthete.stages.5.label>
+            <NeedBeautyAesthete.stages.5.description>Este lugar é lindo. Eleva meu espírito e me faz amar a vida.</NeedBeautyAesthete.stages.5.description>
+
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Inspiration Satisfied -->
             <VSIE_InspirationSatisfied.stages.0.label>Inspiração satisfeita</VSIE_InspirationSatisfied.stages.0.label>

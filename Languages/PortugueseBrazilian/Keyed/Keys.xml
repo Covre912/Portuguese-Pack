@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+    <!-- [KV] Consolidated Traits -->
+        <!-- Consolidated Tarits -->
+            <ConsolidatedTraits>Traços Consolidados</ConsolidatedTraits>
+	        <ConsolidatedTraits.EditTraits>Editar Traços</ConsolidatedTraits.EditTraits>
+	        <ConsolidatedTraits.SelectTrait>Selecionar Traço</ConsolidatedTraits.SelectTrait>
+	        <ConsolidatedTraits.Commonality>Comunalidade</ConsolidatedTraits.Commonality>
+	        <ConsolidatedTraits.ResetAll>Redefinir Tudo</ConsolidatedTraits.ResetAll>
+
     <!-- EDB Prepare Carefully -->
         <!-- Add Parent Child -->
             <EdB.PC.AddParentChild.Header.AddParent>Adicionar um Pai</EdB.PC.AddParentChild.Header.AddParent>
