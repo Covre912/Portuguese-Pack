@@ -658,6 +658,28 @@
             <VWEL_ToggleHotshotLabel>Aquecimento</VWEL_ToggleHotshotLabel>
             <VWEL_ToggleHotshotDesc>Os tiros disparados aquecem a arma, permitindo maior velocidade de disparo. Superaquecimento pode levar à explosão da bateria.</VWEL_ToggleHotshotDesc>
 
+    <!-- [SYR] Harvest Yield -->
+        <!-- Category -->
+            <HarvestYieldSettingsCategory>Harvest Yield</HarvestYieldSettingsCategory>
+  
+        <!-- Harvest Yield Max -->
+            <HarvestYieldMax>Rendimento máximo de colheita de plantas</HarvestYieldMax>
+            <HarvestYieldMaxTooltip>Quantia máxima de rendimento de colheita de plantas que um colono pode ter</HarvestYieldMaxTooltip>
+
+        <!-- Animal Yield Max -->
+            <AnimalYieldMax>Rendimento máximo de colher em animais</AnimalYieldMax>
+            <AnimalYieldMaxTooltip>Quantia máxima de rendimento de colher de animais que um colono pode ter</AnimalYieldMaxTooltip>
+
+        <!-- Mining Yield -->
+            <MiningYieldMax>Rendimento máximo de mineração</MiningYieldMax>
+            <MiningYieldMaxTooltip>Quantia máxima de rendimento de mineração que um colono pode ter</MiningYieldMaxTooltip>
+
+        <!-- Butcher Yield -->
+            <ButcherFleshYieldMax>Eficiência máxima de esquartejamento de carne</ButcherFleshYieldMax>
+            <ButcherFleshYieldMaxTooltip>Quantia máxima de eficiência de esquartejamento de carne que um colono pode ter</ButcherFleshYieldMaxTooltip>
+            <ButcherMechYieldMax>Eficiência máxima de esquartejamento de mecanoide</ButcherMechYieldMax>
+            <ButcherMechYieldMaxTooltip>Quantia máxima de eficiência de esquartejamento de mecanoide que um colono pode ter</ButcherMechYieldMaxTooltip>
+
     <!-- WeaponStats -->
         <!-- Generic -->
             <WeaponStats.Ground>Chão</WeaponStats.Ground>
