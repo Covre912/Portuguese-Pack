@@ -102,6 +102,48 @@
 	        <ShowHair.YellowHairColor>A</ShowHair.YellowHairColor>
 	        <ShowHair.GreenHairColor>V</ShowHair.GreenHairColor>
 
+    <!-- [O21] Toolbox -->
+	    <!-- Converter -->
+	        <EnterConverter>realizar conversão em si</EnterConverter>
+	        <CannotUseNotViable>não pode usar, colono não é um candidato válido</CannotUseNotViable>
+	
+	    <!-- Bunker -->
+	        <EnterBunker>entrar no bunker</EnterBunker>
+	        <EnterEmplacement>entrar na colocação</EnterEmplacement>
+	
+		<!-- Pawn Crafter Building -->
+		    <PawnCrafterMake>Produzir {0} </PawnCrafterMake>
+		    <PawnCrafterNeedsResearch>Produzir {0} (requer pesquisa: {1}) </PawnCrafterNeedsResearch>
+		    <PawnCraftedLetterLabel>{0} produzido</PawnCraftedLetterLabel>
+		    <PawnCraftedLetterDescription>Boas-vindas a {0}\n\nUm novo colono foi criado.Esta mensagem não foi personalizada apropriadamente pelo autor do mod.</PawnCraftedLetterDescription>
+		    <PawnCrafterStatus>Status: {0}</PawnCrafterStatus>
+		    <PawnCrafterProgress>Progresso: {0}</PawnCrafterProgress>
+		    <PawnCrafterMaterials></PawnCrafterMaterials>
+		    <PawnCrafterNeed>Precisa de {0} {1}.</PawnCrafterNeed>
+		    <PawnCrafterNutrition>Nutrição</PawnCrafterNutrition>
+		    <GizmoTogglePawnCraftingStartLabel>Iniciar produção</GizmoTogglePawnCraftingStartLabel>
+		    <GizmoTogglePawnCraftingStartDescription>Inicia a produção de um colono.</GizmoTogglePawnCraftingStartDescription>
+		    <GizmoTogglePawnCraftingStopLabel>Interromper produção</GizmoTogglePawnCraftingStopLabel>
+		    <GizmoTogglePawnCraftingStopDescription>Aborta a produção atual, todos os materiais e energia utilizados serão perdidos para sempre.</GizmoTogglePawnCraftingStopDescription>
+		    <PawnCrafterStatusEnum0>Desocupado</PawnCrafterStatusEnum0>
+		    <PawnCrafterStatusEnum1>Preenchendo</PawnCrafterStatusEnum1>
+		    <PawnCrafterStatusEnum2>Imprimindo</PawnCrafterStatusEnum2>
+		    <PawnCrafterStatusEnum3>Concluído</PawnCrafterStatusEnum3>
+		    <PawnCrafterRepeatLabel>repetir último colono</PawnCrafterRepeatLabel>
+		    <PawnCrafterRepeatDescription>se ativo, repete a última tarefa de produção de colono</PawnCrafterRepeatDescription>
+	
+	    <!-- Pawn Converter -->
+		    <PawnConverterConvert>Conversão: {0} </PawnConverterConvert>
+		    <PawnConverterInvalidRace>Conversão: {0} (raça inválida) </PawnConverterInvalidRace>
+		    <PawnConverterInvalidGender>Conversão: {0} (gênero inválido) </PawnConverterInvalidGender>
+		    <PawnConverterInvalidHediffs>Conversão: {0} (hediffs inválidas) </PawnConverterInvalidHediffs>
+		    <PawnConverterNeedsResearch>Conversão: {0} (requer pesquisa: {1}) </PawnConverterNeedsResearch>
+
+	    <!-- Settings -->
+	        <SettingsGeneral>Configurações Gerais</SettingsGeneral>
+	        <UseCustomBackgroundLabel>Trocar Modo</UseCustomBackgroundLabel>
+	        <UseCustomBackgroundDesc>Quando ativo, torna colonos mecânicos mais compatíveis.</UseCustomBackgroundDesc>
+
     <!-- EDB Prepare Carefully -->
         <!-- Add Parent Child -->
             <EdB.PC.AddParentChild.Header.AddParent>Adicionar um Pai</EdB.PC.AddParentChild.Header.AddParent>
