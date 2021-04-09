@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- [KV] Faction Control -->
+        <!-- Young Warrior -->
+            <YoungTribalWarrior.label>jovem guerreiro</YoungTribalWarrior.label>
+            <YoungTribalWarrior.labelPlural>jovens guerreiros</YoungTribalWarrior.labelPlural>
+
+</LanguageData>

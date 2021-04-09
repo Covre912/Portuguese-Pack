@@ -9,6 +9,73 @@
 	        <ConsolidatedTraits.Commonality>Comunalidade</ConsolidatedTraits.Commonality>
 	        <ConsolidatedTraits.ResetAll>Redefinir Tudo</ConsolidatedTraits.ResetAll>
 
+    <!-- [KV] Faction Control -->
+        <!-- Faction Control -->
+            <RFC.FactionControlName>Controle de Facções</RFC.FactionControlName>
+	        <RFC.FactionControl>Controle de Facções - Opções Principais</RFC.FactionControl>
+	        <RFC.FactionControlFactionOptions>Controle de Facções - Opções de Facção</RFC.FactionControlFactionOptions>
+	        <RFC.CustomFactionControl>Controle de Facções - Facções Modificadas</RFC.CustomFactionControl>
+
+        <!-- Faction -->
+	        <RFC.factionCount>Número Total de Grupos de Facção para Surgir no Mapa do Mundo:</RFC.factionCount>
+	        <RFC.factionNotes>O valor padrão é 5. Lembre-se de que este número é o mínimo, já que o total dos valores definidos abaixo pode exceder o valor definido acima. (Por exemplo, se você definir o número total de grupos de facção para 3, mas definir 2 de cada como o mínimo dos grupos de facção "união fora-da-lei", "tribo" e "bando de piratas", você sempre terá pelo menos 6 grupos de facção no mapa.)</RFC.factionNotes>
+	
+        <!-- Factions -->
+	        <RFC.outlanderCivilMin>Número mínimo de grupos de facção "União fora-da-lei" para surgir no mapa (definir como "0" desativa a facção):</RFC.outlanderCivilMin>
+	        <RFC.outlanderRoughMin>Número mínimo de grupos de facção "União fora-da-lei áspera" para surgir no mapa (definir como "0" desativa a facção):</RFC.outlanderRoughMin>
+	        <RFC.tribalCivilMin>Número mínimo de grupos de facção "Tribo" para surgir no mapa (definir como "0" desativa a facção):</RFC.tribalCivilMin>
+	        <RFC.tribalRoughMin>Número mínimo de grupos de facção "Tribo feroz" para surgir no mapa (definir como "0" desativa a facção):</RFC.tribalRoughMin>
+	        <RFC.tribalSavageMin>Número mínimo de grupos de facção "Tribo selvagem" para surgir no mapa (definir como "0" desativa a facção):</RFC.tribalSavageMin>
+	        <RFC.pirateMin>Número mínimo de grupos de facção "Bando de piratas" para surgir no mapa (definir como "0" desativa a facção):</RFC.pirateMin>
+	        <RFC.empireMin>Número mínimo de grupos de facção "Império" para surgir no mapa (definir como "0" desativa a facção):</RFC.empireMin>
+
+        <!-- Select A Faction -->
+	        <RFC.SelectAFaction>Selecione uma Facção</RFC.SelectAFaction>
+
+        <!-- Faction Grouping -->
+	        <RFC.factionGrouping>"Formação de Nações":</RFC.factionGrouping>
+	        <RFC.factionGroupingNone>Nenhuma. (Comportamento padrão.) As bases dos grupos de facções serão dispersas pelo mapa aleatoriamente.</RFC.factionGroupingNone>
+	        <RFC.factionGroupingLoose>Frouxa. As bases de um grupo de facção estarão na mesma região geral do mapa do mundo, mas ainda haverá bastante sobreposição entre os territórios ocupados por vários grupos.</RFC.factionGroupingLoose>
+	        <RFC.factionGroupingTight>Justa. As bases pertencentes a um grupo de facção determinado estarão relativamente próximas umas às outras, e exceto por grupos de facções de bandos de piratas, não haverá muita sobreposição. Haverá uma sensação de nações reais existindo no mapa do mundo, ainda que com fronteiras brutas.</RFC.factionGroupingTight>
+	        <RFC.factionGroupingVeryTight>Apertada. Excluindo grupos de facção de bandos de piratas, as bases dos grupos de facções bases estarão aglomeradas. Não haverá sobreposições, mas pode haver vastos espaços "abertos" de territórios vazios.</RFC.factionGroupingVeryTight>
+
+        <!-- Allow Mechanoids -->
+	        <RFC.AllowMechanoids>Permitir a facção oculta "Colmeia mecanoide"?</RFC.AllowMechanoids>
+	        <RFC.AllowMechanoidsTip>Se você desmarcar esta opção, os mecanoides serão (em grande parte) removidos do jogo. Você não será invadido por eles, a menos que não haja literalmente nenhum outro grupo de facção hostil a você. E você não terá que lidar com veneno ou quedas de partes de naves psíquicas. No entanto, você ainda poderá encontrar mecanoides em câmaras de perigos ancestrais, e você ainda poderá encontrar mecanoides adormecidos guardando objetivos de missões.</RFC.AllowMechanoidsTip>
+
+        <!-- Faction Goodwill -->
+	        <RFC.EnableFactionRandomGoodwill>Aleatorizar Boa Vontade da Facção</RFC.EnableFactionRandomGoodwill>
+	        <RFC.EnableFactionRandomGoodwillToolTip>Assentamentos gentis serão geralmente neutros e assentamentos ásperos serão geralmente hostis, mas ainda adiciona alguma aleatoriedade.</RFC.EnableFactionRandomGoodwillToolTip>
+	        <RFC.SpreadPirates>Espalhar Piratas</RFC.SpreadPirates>
+	        <RFC.RelationChangesOverTime>Relações Mudam com o Tempo</RFC.RelationChangesOverTime>
+
+        <!-- Enable Faction Dynamic Colors -->
+	        <RFC.EnableFactionDynamicColors>Cores de Facção Dinâmicas</RFC.EnableFactionDynamicColors>
+	        <RFC.EnableFactionDynamicColorsTip>Hostil = Vermelho. Tribo Amigável = Verde. Fora-da-lei Amigável = Azul.</RFC.EnableFactionDynamicColorsTip>
+
+        <!-- Faction Density -->
+	        <RFC.factionDensity>Densidade das Bases da Facção:</RFC.factionDensity>
+	        <RFC.factionDensityVeryLow>Muito baixa. Pouquíssimas bases por grupo de facção.</RFC.factionDensityVeryLow>
+	        <RFC.factionDensityLow>Baixa.</RFC.factionDensityLow>
+	        <RFC.factionDensityNormal>Normal. (Densidade de base de grupo de facção padrão.)</RFC.factionDensityNormal>
+	        <RFC.factionDensityHigh>Alta.</RFC.factionDensityHigh>
+	        <RFC.factionDensityVeryHigh>Muito alta. O mundo terá uma população densa de bases de grupos de facção.</RFC.factionDensityVeryHigh>
+	        <RFC.factionDensityInsane>Absurdamente alta. Mundos isolados não deveriam ser tão populosos assim...</RFC.factionDensityInsane>
+
+        <!-- Faction Basic -->
+	        <RFC.factionBasic1>Número mínimo de grupos de facção "</RFC.factionBasic1>
+	        <RFC.factionBasic2>" para surgir no mapa (definir como "0" desativa a facção):</RFC.factionBasic2>
+	
+        <!-- Faction Hidden -->
+	        <RFC.factionHidden1>Permitir a facção oculta "</RFC.factionHidden1>
+	        <RFC.factionHidden2>"?</RFC.factionHidden2>
+	        <RFC.factionHidden3>Permitir a facção "</RFC.factionHidden3>
+
+        <!-- Faction Pirate -->
+	        <RFC.factionPirate1>Distribuir as bases de grupo de facção "</RFC.factionPirate1>
+	        <RFC.factionPirate2>" como bases de bando de piratas?</RFC.factionPirate2>
+            <RFC.factionPirateTip>Se esta opção for desmarcada, as bases serão agrupadas para formar uma "nação". Porém, se for marcada, as bases serão dispersas pelos territórios de outros grupos de facção, assim como as bases de bandos de piratas. (Lembre-se, é claro, de que esta opção não surte efeito a menos que você tenha escolhido organizar as bases de grupos de facção geograficamente.)</RFC.factionPirateTip>
+
     <!-- EDB Prepare Carefully -->
         <!-- Add Parent Child -->
             <EdB.PC.AddParentChild.Header.AddParent>Adicionar um Pai</EdB.PC.AddParentChild.Header.AddParent>
