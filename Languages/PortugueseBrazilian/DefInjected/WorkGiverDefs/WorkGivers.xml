@@ -52,4 +52,10 @@
             <FillChemshineBarrel.verb>preencher</FillChemshineBarrel.verb>
             <FillChemshineBarrel.gerund>preenchendo</FillChemshineBarrel.gerund>
 
+    <!-- Vanilla Fishing Expanded -->
+        <!-- Fish -->
+	        <VCEF_Fish.label>pescar</VCEF_Fish.label>
+	        <VCEF_Fish.verb>pescar</VCEF_Fish.verb>
+	        <VCEF_Fish.gerund>pescando em</VCEF_Fish.gerund>
+
 </LanguageData>

@@ -935,6 +935,57 @@
             <ContainsChemshine>Contém {0} / {1} combustível jägermeister.</ContainsChemshine>
             <NoChemfuel>precisa de combustível químico</NoChemfuel>
 
+    <!-- Vanilla Fishing Expanded -->
+    	<!-- Fishing Growing Zone -->
+            <VCEF_FishingGrowingZone>Área de pesca</VCEF_FishingGrowingZone>
+	        <VCEF_FishingGrowingZoneDesc>Crie uma área onde seus colonos tentarão pescar</VCEF_FishingGrowingZoneDesc>
+
+        <!-- Choose Fish -->
+	        <VCEF_ChooseFish>Escolher pesca</VCEF_ChooseFish>
+	        <VCEF_ChooseFishDesc>Escolha o tamanho de peixe preferido para capturar dentre os que habitam este bioma. Peixes menores levam menos tempo, mas são menos nutritivos, enquanto peixes maiores demoram mais e são mais nutritivos. Peixes médios são equilibrados entre os dois extremos.</VCEF_ChooseFishDesc>
+	        <VCEF_ChooseFishSmallLabel>Pescar peixe pequeno</VCEF_ChooseFishSmallLabel>
+	        <VCEF_ChooseFishMediumLabel>Pescar peixe médio</VCEF_ChooseFishMediumLabel>
+	        <VCEF_ChooseFishLargeLabel>Pescar peixe grande</VCEF_ChooseFishLargeLabel>
+
+        <!-- Command Allow Fishing -->
+	        <VCEF_CommandAllowFishing>Permitir pesca</VCEF_CommandAllowFishing>
+	        <VCEF_CommandAllowFishingDesc>Permite que a pesca ocorra nesta área de pesca.</VCEF_CommandAllowFishingDesc>
+
+        <!-- Zone -->
+	        <VCEF_ZoneSetTo>Esta área está configurada para peixes de tamanho</VCEF_ZoneSetTo>
+	        <VCEF_FishesInThisZone>Peixes nesta área: </VCEF_FishesInThisZone>
+	        <VCEF_IsZoneOceanZone>Área de pesca oceânica: </VCEF_IsZoneOceanZone>
+	        <VCEF_Yes>Sim</VCEF_Yes>
+	        <VCEF_No>Não</VCEF_No>
+	        <VCEF_ZoneTooSmall>Esta área é muito pequena. Áreas de pesca precisam ter pelo menos {0} blocos para funcionarem.</VCEF_ZoneTooSmall>
+
+        <!-- No Fish -->
+	        <VCEF_NoFish>Não há peixes para pescar neste bioma.</VCEF_NoFish>
+
+        <!-- Caught Special -->
+	        <VCEF_CaughtSpecial>Enquanto pescava, {0} encontrou algo especial: {1}</VCEF_CaughtSpecial>
+	
+        <!-- Minimum Zone Size -->
+	        <VCEF_minimumZoneSize>Tamanho mínimo de área de pesca</VCEF_minimumZoneSize>
+	        <VCEF_minimumZoneSizeTooltip>Tamanho mínimo da área de pesca, o padrão é 25 blocos.</VCEF_minimumZoneSizeTooltip>
+	
+        <!-- Small Fish Duration Factor -->
+	        <VCEF_smallFishDurationFactor>Duração da pesca em segundos</VCEF_smallFishDurationFactor>
+	        <VCEF_smallFishDurationFactorTooltip>O padrão é 4500 para peixes pequenos. Peixes médios levam o dobro de tempo, e peixes grandes demoram o triplo. Diminuir isso aumenta a produção por dia e vice-versa.</VCEF_smallFishDurationFactorTooltip>
+
+        <!-- Chance For Specials -->
+	        <VCEF_chanceForSpecials>Chance de itens especiais</VCEF_chanceForSpecials>
+	        <VCEF_chanceForSpecialsTooltip>Chance de conseguir um item especial ao invés de um peixe. O padrão é de 1%.</VCEF_chanceForSpecialsTooltip>
+	
+        <!-- Min/Max Temperature -->
+	        <VCEF_minMapTempForLowFish>Temperatura mínima para redução da produção de peixes</VCEF_minMapTempForLowFish>
+	        <VCEF_minMapTempForLowFishTooltip>Abaixo desta temperatura, a quantidade de peixes será bastante reduzida. O padrão é 0ºC.</VCEF_minMapTempForLowFishTooltip>
+	        <VCEF_maxMapTempForLowFish>Temperatura máxima para redução da produção de peixes</VCEF_maxMapTempForLowFish>
+	        <VCEF_maxMapTempForLowFishTooltip>Acima desta temperatura, a quantidade de peixes será bastante reduzida. O padrão é 50ºC.</VCEF_maxMapTempForLowFishTooltip>
+	
+        <!-- Drop Fish -->
+	        <VCEF_dropFish>Pescadores deixam os peixes no chão ao invés de levá-los aos estoques</VCEF_dropFish>
+
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Aspirations -->
             <VSIE.WorkFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de trabalhar.</VSIE.WorkFrenzyBeginLetterContinue>
