@@ -5,6 +5,10 @@
         <!-- Finish Off Creature -->
             <FinishOffPawn.reportString>finalizando criatura.</FinishOffPawn.reportString>
 
+    <!-- Vanilla Events Expanded -->
+        <!-- Hunt -->
+            <HuntAndLeave.reportString>caçando TargetA.</HuntAndLeave.reportString>
+
     <!-- Vanilla Expanded Framework -->
         <!-- Equip Shield -->
             <VFEC_EquipShield.reportString>equipando TargetA.</VFEC_EquipShield.reportString>

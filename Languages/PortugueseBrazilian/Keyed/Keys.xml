@@ -717,6 +717,92 @@
             <RandomQuestRewardItemLetter>Item de Missão</RandomQuestRewardItemLetter>
             <RandomQuestRewardItem>O item de missão aleatório chegou!</RandomQuestRewardItem>
 
+    <!-- Vanilla Events Expanded -->
+        <!-- Animal Transport Pod Crash -->
+            <LetterLabelAnimalPodCrash>Queda de cápsula de transporte de animal</LetterLabelAnimalPodCrash>
+            <AnimalPodCrash>Uma caixa com um {PAWN_kind} chamado {PAWN_nameDef} está caindo em uma cápsula de transporte por perto. Se sobreviver à queda, estará gravemente ferido.\n\nSe resgatado, pode livremente se juntar à colônia, ou voltar a viver uma vida selvagem.</AnimalPodCrash>
+            <AJLabel>Animal resgatado se junta</AJLabel>
+            <AJLetter>O animal que você resgatou está se juntando à colônia</AJLetter>
+            <ADJLabel>Animal resgatado não se junta</ADJLabel>
+            <ADJLetter>O animal que você resgatou não se juntou à colônia</ADJLetter>
+
+        <!-- Traitor -->
+        <TraitorLabel>Traidor!</TraitorLabel>
+        <Traitor>Um(a) colono(a) chamado(a) {PAWN_nameDef}, que você aceitou em sua colônia, acaba por ser um agente inimigo de {PAWN_factionName}.\n\nVocê pode capturar ele(a) para fins de recrutamento ou escravidão.</Traitor>
+
+        <!-- Space Battle -->
+            <SpaceBattleLabel>Batalha espacial</SpaceBattleLabel>
+            <SpaceBattle>Várias naves espaciais enormes engajaram em combate na órbita do planeta. Tiros perdidos e destroços podem impactar o chão na área. Isso pode levar a grandes incêndios.</SpaceBattle>
+
+        <!-- Shuttle Crash -->
+            <ShuttleCrashLabel>Queda de Nave</ShuttleCrashLabel>
+            <ShuttleCrash>Uma nave vinda na direção do planeta está caindo por perto. Se a tripulação sobreviver o impacto, eles estarão gravemente feridos. A nave caída pode ser desconstruída por recursos úteis.\n\nA tripulação não é afiliada com nenhuma facção, o que significa que podem ser resgatados e podem se juntar a você livremente, ou serem capturados para fins de recrutamento ou escravidão.</ShuttleCrash>
+
+        <!-- Earthquake -->
+            <EarthquakeLabel>Terremoto</EarthquakeLabel>
+            <Earthquake>Mudanças na crosta do planeta causaram um terremoto localizado de pequena escala. Algumas estruturas podem ser danificadas e tetos podem desabar.</Earthquake>
+
+        <!-- Cargo Pods (Weapons) -->
+            <CPWLabel>Cápsulas de carga (armas)</CPWLabel>
+            <CPW>Você detectou um grupo de cápsulas de carga caindo por perto.\n\nTalvez você achará algo útil nos destroços.</CPW>
+
+        <!-- Cargo pods (apparel) -->
+            <CPALabel>Cápsulas de carga (vestuário)</CPALabel>
+            <CPA>Você detectou um grupo de cápsulas de carga caindo por perto.\n\nTalvez você achará algo útil nos destroços.</CPA>
+
+        <!-- Caravan Animals Wander In -->
+            <CAWILabel>Animais de caravana</CAWILabel>
+            <CAWI>Um grupo de {PAWN_kind}, abandonados ou perdidos, chegaram.\n\nEles parecem ter pertencidos a alguma caravana, pois ainda estão carregando bagagens com itens valiosos. Você pode coletar esses itens se você domá-los ou matá-los. De outra forma, eles vão sair da área em alguns dias.</CAWI>
+
+        <!-- Crop Sprout -->
+            <CSLabel>Brotamento de plantas</CSLabel>
+            <CS1>Um grande campo de</CS1>
+            <CS2>brotou por perto. Se você esperar que cresçam, você vai poder colher bastante comida! Se deixadas sem colher, vão apodrecer aos poucos e desaparecer.</CS2>
+
+        <!-- Battle Animals Wander In -->
+            <BAWILabel>Animais de batalha</BAWILabel>
+            <BAWI>Um grupo de {0}, abandonados ou perdidos, chegaram.\n\nEles parecem acostumados com contato humano e estão se juntando à colônia.</BAWI>
+
+        <!-- Wild Men Wander In -->
+            <WMWILabel>Homens selvagens</WMWILabel>
+            <WMWI>Uma pequena tribo de homens tribais pré-neolíticos chegaram. Você pode tentar domá-los.</WMWI>
+
+        <!-- Hunting Party -->
+            <HPLabel>Grupo de caça</HPLabel>
+            <HP>Um grupo de caçadores de {0} estão passando pela área. Eles vão caçar aqui por algumas horas e seguir em frente.</HP>
+
+        <!-- Settings -->
+            <SCat>Vanilla Event Expanded</SCat>
+            <BReset>Redefinir Opções</BReset>
+            <GCWReset>Parar todas as condições de mundo</GCWReset>
+            <GCMReset>Parar todas as condições de mapa</GCMReset>
+            <NeedToBeIngame>Você precisa estar dentro do jogo para terminar condições do jogo</NeedToBeIngame>
+            <CEBC>&lt;color=cyan&gt;&lt;b&gt;Altera a chance base dos eventos (ponha em 0 para desativar) :&lt;/b&gt;&lt;/color&gt;</CEBC>
+            <BCS>Abrir opções de chances base dos eventos</BCS>
+            <MinTPE>Mínimo de dias antes de re-disparar :</MinTPE>
+            <ETPE>Mínimo de dias antes de disparar :</ETPE>
+            <PES>&lt;color=cyan&gt;&lt;b&gt;Opções para eventos roxos:&lt;/b&gt;&lt;/color&gt;</PES>
+            <IABaseC>Era do gelo</IABaseC>
+            <GWBaseC>Aquecimento globaç</GWBaseC>
+            <PRBaseC>Chuva psíquica</PRBaseC>
+            <LNBaseC>Noite longa</LNBaseC>
+            <PBBaseC>Floração Psíquica</PBBaseC>
+            <HSBaseC>Chuva de granizo</HSBaseC>
+            <MSBaseC>Chuva de meteoros</MSBaseC>
+            <APCBaseC>Queda de pod de animal</APCBaseC>
+            <WJTBaseC>Andarilho se junta (traidor)</WJTBaseC>
+            <SPBaseC>Batalha espacial</SPBaseC>
+            <SCBaseC>Queda de nave</SCBaseC>
+            <EBaseC>Terremoto</EBaseC>
+            <CPWBaseC>Cápsulas de carga (armas)</CPWBaseC>
+            <CPABaseC>Cápsulas de carga (vestuário)</CPABaseC>
+            <CAWIBaseC>Animais de caravana</CAWIBaseC>
+            <CSBaseC>Brotamento de plantas</CSBaseC>
+            <BAWIBaseC>Animais de batalha</BAWIBaseC>
+            <DBaseC>Seca</DBaseC>
+            <WMWIBaseC>Homens selvagens</WMWIBaseC>
+            <HPBaseC>Grupo de caça</HPBaseC>
+
     <!-- Vanilla Expanded Framework -->
         <!-- Shield -->
             <VanillaFactionsExpanded.EquipShield>Equipar {0} como escudo</VanillaFactionsExpanded.EquipShield>

@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Events Expanded -->
+        <!-- Hunter -->
+            <Hunter.label>caçador</Hunter.label>
+            <Hunter.labelPlural>caçadores</Hunter.labelPlural>
+            <Hunter.labelMale>caçador</Hunter.labelMale>
+            <Hunter.labelMalePlural>caçadores</Hunter.labelMalePlural>
+            <Hunter.labelFemale>caçadora</Hunter.labelFemale>
+            <Hunter.labelFemalePlural>caçadoras</Hunter.labelFemalePlural>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Sellsword -->
             <VFEM_SellSword.label>mercenário</VFEM_SellSword.label>

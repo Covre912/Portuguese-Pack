@@ -1,6 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Events Expanded -->
+        <!-- Ice Age-->
+            <VEE_IceAge.label>era do gelo</VEE_IceAge.label>
+            <VEE_IceAge.letterText>A composição atmosférica do planeta mudou drasticamente, resultando em uma queda de temperatura significante.\n\nFlora e fauna estão sofrendo por essas mudanças à medida que os biomas mudam para suas contrapartes mais frias. Recursos se tornam escarços, forçando facções a conflitos.\n\nIsso durará de uma estação a vários anos. (Mudanças visuais só apareceram ao recarregar o jogo salvo atual)</VEE_IceAge.letterText>
+            <VEE_IceAge.letterLabel>Era do Gelo</VEE_IceAge.letterLabel>
+
+        <!-- Global Warming -->
+            <VEE_GlobalWarming.label>aquecimento global</VEE_GlobalWarming.label>
+            <VEE_GlobalWarming.letterText>Temperaturas globais subitamente subiram a níveis perigosos.\n\nFlora e fauna estão sofrendo por essas mudanças à medida que os biomas mudam para suas contrapartes mais quentes. Recursos se tornam escarços, forçando facções a conflitos.\n\nIsso durará de uma estação a vários anos. (Mudanças visuais só apareceram ao recarregar o jogo salvo atual)</VEE_GlobalWarming.letterText>
+            <VEE_GlobalWarming.letterLabel>Aquecimento Global</VEE_GlobalWarming.letterLabel>
+
+        <!-- Psychic Rain -->
+            <VEE_PsychicRain.label>chuva psíquica</VEE_PsychicRain.label>
+            <VEE_PsychicRain.letterText>Uma entidade psíquica perigosa causou um distúrbio a níveis subatômicos, ressoando através de todas as partículas da atmosfera.\n\nUma chuva supernatural aparentemente sem fim começou, alterando a própria composição do tempo. Qualquer pessoa ou criatura não sob um teto irá envelhecer significamente mais rápido.\n\nIsso durará de uma estação a vários anos.</VEE_PsychicRain.letterText>
+            <VEE_PsychicRain.letterLabel>Chuva Psíquica</VEE_PsychicRain.letterLabel>
+
+        <!-- Long Night -->
+            <VEE_LongNight.label>noite longa</VEE_LongNight.label>
+            <VEE_LongNight.letterText>Uma entidade espacial de tamanho inimaginável cobriu uma estrela local, resultando em um longo eclipse.\n\nApavorados com esse fenômeno supernatural, outras facções irão usar esse tempo para fazer guerras e conflitos ao longo do planeta.\n\nIsso durará de uma estação a vários anos.</VEE_LongNight.letterText>
+            <VEE_LongNight.letterLabel>Noite Longa</VEE_LongNight.letterLabel>
+
+        <!-- Psychic Bloom -->
+            <VEE_PsychicBloom.label>floração psíquica</VEE_PsychicBloom.label>
+            <VEE_PsychicBloom.letterText>Um forte pulso psíquico emitido por uma entidade há muito esquecida mudou a própria estrutura genética da flora local. Enquanto o céu se encheu com auroras aparentemente sem fim, flores coloridas começaram a brotar por toda parte.\n\nTodos os colonos irão ganhar um buff positivo de humor pelo tempo do evento. As flores se espalhando rapidamente vão crescer por cima de tudo, incluindo seus campos.\n\nIsso durará de alguns dias a uma estação.</VEE_PsychicBloom.letterText>
+            <VEE_PsychicBloom.letterLabel>Floração Psíquica</VEE_PsychicBloom.letterLabel>
+
+        <!-- Hail Storm -->
+            <VEE_HailStorm.label>chuva de granizo</VEE_HailStorm.label>
+            <VEE_HailStorm.letterText>Uma chuva de granizo anômala de pequena escala está devastando a área local. Qualquer pessoa ou criatura não sob um teto corre o risco de se ferir por pelotas de gelo.</VEE_HailStorm.letterText>
+            <VEE_HailStorm.letterLabel>Chuva de Granizo</VEE_HailStorm.letterLabel>
+
+        <!-- Meteorite Shower -->
+            <VEE_MeteoriteShower.label>chuva de meteoros</VEE_MeteoriteShower.label>
+            <VEE_MeteoriteShower.letterText>Vários meteoritos grandes colidiram com o chão na área. Eles deixaram pra trás grandes amontoados de recursos.</VEE_MeteoriteShower.letterText>
+            <VEE_MeteoriteShower.letterLabel>Chuva de Meteoros</VEE_MeteoriteShower.letterLabel>
+
+        <!-- Animal Pod Crash -->
+            <VEE_AnimalPodCrash.label>queda de cápsula de transporte de animal</VEE_AnimalPodCrash.label>
+
+        <!-- Wanderer Join Traitor -->
+            <VEE_WandererJoinTraitor.label>andarilho junta-se</VEE_WandererJoinTraitor.label>
+            <VEE_WandererJoinTraitor.letterLabel>Wanderer joins</VEE_WandererJoinTraitor.letterLabel>
+            <VEE_WandererJoinTraitor.letterText>Um {PAWN_kind} chamado {PAWN_nameDef} chegou e está se juntando à colônia. {PAWN_pronoun} é um {PAWN_title}.\n\n[PAWN_pronoun] está disposto a contribuir, mas não sairá voluntariamente. Se você não quer {PAWN_nameDef}, você pode banir {PAWN_objective}, vender {PAWN_objective} a escravidão, ou simplesmente matar {PAWN_objective}. Porém, seus outros colonistas podem achar isso perturbador.</VEE_WandererJoinTraitor.letterText>
+
+        <!-- Space Battle -->
+            <VEE_SpaceBattle.label>batalha espacial</VEE_SpaceBattle.label>
+            <VEE_SpaceBattle.letterText>Várias naves espaciais enormes engajaram em combate na órbita do planeta. Tiros perdidos e destroços podem impactar o chão na área. Isso pode levar a grandes incêndios.</VEE_SpaceBattle.letterText>
+            <VEE_SpaceBattle.letterLabel>Batalha Espacial</VEE_SpaceBattle.letterLabel>
+
+        <!-- Shuttle Crash -->
+             <VEE_ShuttleCrash.label>queda de nave</VEE_ShuttleCrash.label>
+
+        <!-- Earthquake -->
+            <VEE_Earthquake.label>terremoto</VEE_Earthquake.label>
+
+        <!-- Cargopods Weapons -->
+            <VEE_Cargopodsweapons.label>cápsulas de carga (armas)</VEE_Cargopodsweapons.label>
+
+        <!-- Cargo Pods Apparel -->
+            <VEE_Cargopodsapparel.label>cápsulas de carga (vestuário)</VEE_Cargopodsapparel.label>
+
+        <!-- Caravan Animals Wander In -->
+            <VEE_CaravanAnimalsWanderIn.label>animais de caravana</VEE_CaravanAnimalsWanderIn.label>
+
+        <!-- Crop Sprout -->
+            <VEE_CropSprout.label>brotamento de plantas</VEE_CropSprout.label>
+
+        <!-- Battle Animals Wander In -->
+            <VEE_BattleAnimalsWanderIn.label>animais de batalha</VEE_BattleAnimalsWanderIn.label>
+
+        <!-- Drought -->
+            <VEE_Drought.label>seca</VEE_Drought.label>
+            <VEE_Drought.letterText>Uma seca inusitada se estabeleceu.\n\nA seca é devastadora para a vida vegetal e irá destruir rapidamente todas as plantas não plantadas nas hidropônicas. Certifique-se de colher rapidamente todas as plantas que puder.</VEE_Drought.letterText>
+            <VEE_Drought.letterLabel>Seca</VEE_Drought.letterLabel>
+
+        <!-- Wild Men Wander In -->
+            <VEE_WildMenWanderIn.label>homens selvagens</VEE_WildMenWanderIn.label>
+  
+        <!-- Hunting Party -->
+            <VEE_HuntingParty.label>grupo de caça</VEE_HuntingParty.label>
+
+        <!-- Enemy Raid Ice Age -->
+            <RaidEnemyPurple.label>invasão inimiga era do gelo</RaidEnemyPurple.label>
+
+        <!-- Manhunter Pack -->
+            <ManhunterPackPurple.label>caçadores de humanos</ManhunterPackPurple.label>
+
+        <!-- Mass Animal Insanity -->
+            <AnimalInsanityMassPurple.label>insanidade animal em massa</AnimalInsanityMassPurple.label>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- None Shall Pass -->
             <VFEM_BlackKnight.label>ninguém passará</VFEM_BlackKnight.label>

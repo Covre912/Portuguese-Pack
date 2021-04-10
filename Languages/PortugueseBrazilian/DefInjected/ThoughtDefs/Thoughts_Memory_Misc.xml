@@ -60,6 +60,11 @@
  			<NeedBeautyAesthete.stages.5.label>ambiente belo</NeedBeautyAesthete.stages.5.label>
             <NeedBeautyAesthete.stages.5.description>Este lugar é lindo. Eleva meu espírito e me faz amar a vida.</NeedBeautyAesthete.stages.5.description>
 
+    <!-- Vanilla Events Expanded -->
+        <!-- Aurora -->
+            <Aurora.stages.0.label>aurora linda</Aurora.stages.0.label>
+            <Aurora.stages.0.description>A vista é incrível.</Aurora.stages.0.description>
+
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Inspiration Satisfied -->
             <VSIE_InspirationSatisfied.stages.0.label>Inspiração satisfeita</VSIE_InspirationSatisfied.stages.0.label>

@@ -108,6 +108,21 @@
             <VMEu_AdvancedSmelter.label>fundição avançada</VMEu_AdvancedSmelter.label>
             <VMEu_AdvancedSmelter.description>Uma enorme fundição de pedra, equipada com tecnologia suficiente para calcular os materiais e calor necessários para fazer os metais mais complexos.\n\nRequer uma grande quantidade de eletricidade para funcionar, além de um uso extra de combustível.</VMEu_AdvancedSmelter.description>
 
+    <!-- Vanilla Events Expanded -->
+        <!-- Ship Chunk -->
+            <VEE_ShipChunkHuman.label>pedaço de nave</VEE_ShipChunkHuman.label>
+            <VEE_ShipChunkHuman.description>Um pedaço de uma nave espacial. Pode ser desconstruído para render recursos úteis.</VEE_ShipChunkHuman.description>
+
+        <!-- Shuttle -->
+            <VEE_Shuttle.label>pedaço de nave</VEE_Shuttle.label>
+            <VEE_Shuttle.description>Um pedaço de uma nave auxiliar. Pode ser desconstruído para render recursos úteis.</VEE_Shuttle.description>
+
+        <!-- Shuttle Chunk -->
+            <ShuttleChunkIncoming.label>pedaço de nave</ShuttleChunkIncoming.label>
+
+        <!-- Slag Incoming -->
+            <SlagIncoming.label>escória</SlagIncoming.label>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Factory Hopper -->
             <VFEM_HeavyHopper.label>funil de fábrica</VFEM_HeavyHopper.label>

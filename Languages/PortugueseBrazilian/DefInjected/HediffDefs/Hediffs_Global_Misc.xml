@@ -27,6 +27,19 @@
             <BionicAnimalKidney.label>rim de animal biônico</BionicAnimalKidney.label>
             <BionicAnimalStomach>estômago de animal biônico</BionicAnimalStomach>
 
+    <!-- Vanilla Events Expanded -->
+        <!-- Taritor -->
+            <Traitor.label>traidor</Traitor.label>
+            <Traitor.description>traidor</Traitor.description>
+
+        <!-- Stand Off -->
+            <StandOff.label>impasse</StandOff.label>
+            <StandOff.description>impasse</StandOff.description>
+
+        <!-- Might Join -->
+            <MightJoin.label>pode juntar-se</MightJoin.label>
+            <MightJoin.description>pode juntar-se</MightJoin.description>
+
     <!-- Vanilla Expanded Framework -->
         <!-- Acid Buildup -->
             <VEF_AcidBuildup.label>ácido</VEF_AcidBuildup.label>
