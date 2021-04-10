@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+	    <mods>
+		    <li>[SYR] Doormat</li>
+	    </mods>
+        <match Class="PatchOperationSequence">
+            <operations>
+                
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[@Name = "DoorMatBase"]/description</xpath>
+                    <value>
+                        <description>Um capacho para limpar os pés.</description>
+                    </value>
+                </li>
+            
+            </operations>
+        </match>
+    </Operation>
+
+</Patch>

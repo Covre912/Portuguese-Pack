@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [SYR] Doormat -->
+        <!--Leather Doormats-->
+            <DoorMatLeather.label>capacho pequeno</DoorMatLeather.label>
+            <DoorMatMediumLeather.label>capacho médio</DoorMatMediumLeather.label>
+            <DoorMatBigLeather.label>capacho grande</DoorMatBigLeather.label>
+            <DoorMatLinkedLeather.label>capacho ligado</DoorMatLinkedLeather.label>
+    
+        <!--Small Doormats-->
+            <DoorMatRed.label>capacho pequeno (vermelho)</DoorMatRed.label>
+            <DoorMatOrange.label>capacho pequeno (laranja)</DoorMatOrange.label>
+            <DoorMatGreen.label>capacho pequeno (verde)</DoorMatGreen.label>
+            <DoorMatTeal.label>capacho pequeno (turquesa)</DoorMatTeal.label>
+            <DoorMatBlue.label>capacho pequeno (azul)</DoorMatBlue.label>
+
+        <!--Medium Doormats-->
+            <DoorMatMediumRed.label>capacho médio (vermelho)</DoorMatMediumRed.label>
+            <DoorMatMediumOrange.label>capacho médio (laranja)</DoorMatMediumOrange.label>
+            <DoorMatMediumGreen.label>capacho médio (verde)</DoorMatMediumGreen.label>
+            <DoorMatMediumTeal.label>capacho médio (turquesa)</DoorMatMediumTeal.label>
+            <DoorMatMediumBlue.label>capacho médio (azul)</DoorMatMediumBlue.label>
+
+        <!--Big Doormats-->
+            <DoorMatBigRed.label>capacho grande (vermelho)</DoorMatBigRed.label>
+            <DoorMatBigOrange.label>capacho grande (laranja)</DoorMatBigOrange.label>
+            <DoorMatBigGreen.label>capacho grande (verde)</DoorMatBigGreen.label>
+            <DoorMatBigTeal.label>capacho grande (turquesa)</DoorMatBigTeal.label>
+            <DoorMatBigBlue.label>capacho grande (azul)</DoorMatBigBlue.label>
+
+        <!-- Linked Doormats -->
+            <DoorMatLinkedRed.label>capacho ligado (vermelho)</DoorMatLinkedRed.label>
+            <DoorMatLinkedOrange.label>capacho ligado (laranja)</DoorMatLinkedOrange.label>
+            <DoorMatLinkedGreen.label>capacho ligado (verde)</DoorMatLinkedGreen.label>
+            <DoorMatLinkedTeal.label>capacho ligado (turquesa)</DoorMatLinkedTeal.label>
+            <DoorMatLinkedBlue.label>capacho ligado (azul)</DoorMatLinkedBlue.label>
+
+        <!-- Medium Doormat -->
+            <DoorMatMediumLeather.label>capacho médio</DoorMatMediumLeather.label>
+
+        <!-- Large Doormat -->
+            <DoorMatBigLeather.label>capacho grande</DoorMatBigLeather.label>
+
+        <!-- Linked Doormat -->
+            <DoorMatLinkedLeather.label>capacho</DoorMatLinkedLeather.label>
+
     <!-- [O21] Seamless Embrasures -->
         <!--Embrasure (Letterbox)-->
             <O21_Embrasure_Letterbox.label>Seteira horizontal</O21_Embrasure_Letterbox.label>

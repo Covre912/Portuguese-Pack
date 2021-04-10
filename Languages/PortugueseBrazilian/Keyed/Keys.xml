@@ -144,6 +144,16 @@
 	        <UseCustomBackgroundLabel>Trocar Modo</UseCustomBackgroundLabel>
 	        <UseCustomBackgroundDesc>Quando ativo, torna colonos mecânicos mais compatíveis.</UseCustomBackgroundDesc>
 
+    <!-- [SYR] Doormat -->
+        <!-- Cattegory -->
+            <SyrDoorMatsSettingsCategory>Capachos</SyrDoorMatsSettingsCategory>
+
+        <!-- Settings -->
+            <SyrDoorMatsSlowdown>Desaceleração (padrão: 40)</SyrDoorMatsSlowdown>
+            <SyrDoorMatsSlowdownTooltip>Simula o colono limpando os pés desacelerando nos capachos, não afeta o pathfinding</SyrDoorMatsSlowdownTooltip>
+            <SyrDoorMatsDefaultSettings>Redefinir para o padrão</SyrDoorMatsDefaultSettings>
+            <SyrDoorMatsDefaultSettingsTooltip>Redefina as configurações para os valores padrão</SyrDoorMatsDefaultSettingsTooltip>
+
     <!-- [SYR] Harvest Yield -->
         <!-- Category -->
             <HarvestYieldSettingsCategory>Harvest Yield</HarvestYieldSettingsCategory>
