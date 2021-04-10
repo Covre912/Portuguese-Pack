@@ -752,7 +752,7 @@
 
         <!-- Caravan Animals Wander In -->
             <CAWILabel>Animais de caravana</CAWILabel>
-            <CAWI>Um grupo de {PAWN_kind}, abandonados ou perdidos, chegaram.\n\nEles parecem ter pertencidos a alguma caravana, pois ainda estão carregando bagagens com itens valiosos. Você pode coletar esses itens se você domá-los ou matá-los. De outra forma, eles vão sair da área em alguns dias.</CAWI>
+            <CAWI>Um grupo de {PAWN_kind}, abandonados(as) ou perdidos(a), apareceram.\n\nEles(as) parecem ter pertencidos a alguma caravana, pois ainda estão carregando bagagens com itens valiosos. Você pode coletar esses itens se você domá-los ou matá-los. De outra forma, eles vão sair da área em alguns dias.</CAWI>
 
         <!-- Crop Sprout -->
             <CSLabel>Brotamento de plantas</CSLabel>
@@ -761,11 +761,11 @@
 
         <!-- Battle Animals Wander In -->
             <BAWILabel>Animais de batalha</BAWILabel>
-            <BAWI>Um grupo de {0}, abandonados ou perdidos, chegaram.\n\nEles parecem acostumados com contato humano e estão se juntando à colônia.</BAWI>
+            <BAWI>Um grupo de {0}, abandonados(as) ou perdidos(as), apareceram.\n\nEles(as) parecem acostumados com contato humano e estão se juntando à colônia.</BAWI>
 
         <!-- Wild Men Wander In -->
             <WMWILabel>Homens selvagens</WMWILabel>
-            <WMWI>Uma pequena tribo de homens tribais pré-neolíticos chegaram. Você pode tentar domá-los.</WMWI>
+            <WMWI>Uma pequena tribo de homens tribais pré-neolíticos apreceram. Você pode tentar domá-los.</WMWI>
 
         <!-- Hunting Party -->
             <HPLabel>Grupo de caça</HPLabel>
