@@ -30,7 +30,7 @@
         <!-- Civil -->
             <SettlerCivil.label>colonizadores civis</SettlerCivil.label>
             <SettlerCivil.description>Essas pessoas viveram aqui por décadas ou séculos e perderam a maior parte da tecnologia que os trouxe a este mundo. Eles são mais do que capazes de se defender com armamento básico de pólvora enquanto realizam sua rotina diária de pastorear o gado, beber e caçar.\n\nEles se preocupam com as questões práticas de comércio, confiança e sobrevivência.\n\nEste grupo em particular tem o comportamento civil em alta consideração.</SettlerCivil.description>
-            <SettlerCivil.leaderTitle>prefeito{PAWN_gender ? o : a}</SettlerCivil.leaderTitle>
+            <SettlerCivil.leaderTitle>prefeito</SettlerCivil.leaderTitle>
             <SettlerCivil.pawnSingular>colonizador</SettlerCivil.pawnSingular>
             <SettlerCivil.pawnsPlural>colonizadores</SettlerCivil.pawnsPlural>
 
