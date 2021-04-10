@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Expanded Materials - Metals -->
+        <!-- Bronze Tile -->
+            <VMEu_BronzeTile.label>ladrilho de bronze</VMEu_BronzeTile.label>
+            <VMEu_BronzeTile.description>Para uma aparência medieval e elegante, os ladrilhos de bronze são perfeitos para castelos ou salas de jantar, a sensação de realeza e riqueza.\n\nTêm um pequeno bônus de limpeza.</VMEu_BronzeTile.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Factory Floor -->
             <VFE_FactoryFloor.label>chão de fábrica</VFE_FactoryFloor.label>

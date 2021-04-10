@@ -1,6 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Expanded Materials - Metals -->
+        <!-- Fossil -->
+            <VMEu_Fossil.label>fóssil</VMEu_Fossil.label>
+            <VMEu_Fossil.description>Matéria animal que se transformou em pedra com o tempo, extremamente dura. Muitas civilizações neolíticas os usam para fazer armas, enquanto civilizações mais avançadas os usam como decoração devido à sua beleza.\n\nTambém podem ser usados ​​para obter produtos químicos.</VMEu_Fossil.description>
+
+        <!-- Dark Oil -->
+            <VMEu_DarkOil.label>óleo escuro</VMEu_DarkOil.label>
+            <VMEu_DarkOil.description>Um produto líquido escuro do refino de fósseis em combustível químico.\n\nEste óleo básico é muito valioso devido aos seus múltiplos usos.</VMEu_DarkOil.description>
+
+        <!-- Coal -->
+            <VMEu_Coal.label>carvão</VMEu_Coal.label>
+            <VMEu_Coal.description>Uma rocha combustível. O carvão é principalmente carbono com quantidades variáveis ​​de outros elementos. Geralmente utilizado como combustível ou como ingrediente em ligas, principalmente aço.</VMEu_Coal.description>
+
+        <!-- Charcoal -->
+            <VMEu_Charcoal.label>carvão vegetal</VMEu_Charcoal.label>
+            <VMEu_Charcoal.description>Carvão feito a partir da queima de madeira, é menos eficaz do que sua contraparte mineral, mas ainda é uma boa alternativa.</VMEu_Charcoal.description>
+
+        <!-- Iron -->
+            <VMEu_Iron.label>ferro</VMEu_Iron.label>
+            <VMEu_Iron.description>Um metal primário usado para fabricar todos os tipos de itens, normalmente usado entre as civilizações medievais.\n\nA combinação desse metal com alguns produtos químicos permite a criação do aço.</VMEu_Iron.description>
+
+        <!-- Lead -->
+            <VMEu_Lead.label>chumbo</VMEu_Lead.label>
+            <VMEu_Lead.description>Um metal macio e pesado não muito útil na fabricação de armas ou estruturas devido à sua baixa resistência e peso, no entanto, é amplamente utilizado para reabastecimento de torretas e, em alguns casos, na confecção de equipamentos anti-toxicidade.</VMEu_Lead.description>
+
+        <!-- Bronze -->
+            <VMEu_Bronze.label>bronze</VMEu_Bronze.label>
+            <VMEu_Bronze.description>Uma liga de cobre e estanho, útil na fabricação de componentes elétricos, sua cor e maleabilidade o tornam um bom material para a confecção de decorações.</VMEu_Bronze.description>
+
+        <!-- Tin -->
+            <VMEu_Tin.label>estanho</VMEu_Tin.label>
+            <VMEu_Tin.description>Um metal macio e não tão útil por si só, no entanto, é comumente usado para revestir outros metais para evitar a corrosão.</VMEu_Tin.description>
+
+        <!-- Copper -->
+            <VMEu_Copper.label>cobre</VMEu_Copper.label>
+            <VMEu_Copper.description>Um metal laranja-amarronzado, ótimo condutor de eletricidade.\n\nEste metal não é forte, mas é um ingrediente principal na fabricação de dispositivos e componentes elétricos, o que o torna altamente valioso.</VMEu_Copper.description>
+
+        <!-- Tungsten -->
+            <VMEu_Tungsten.label>tungstênio</VMEu_Tungsten.label>
+            <VMEu_Tungsten.description>Um metal muito pesado e um tanto duro comumente usado na fabricação de componentes elétricos.</VMEu_Tungsten.description>
+
+        <!-- Chromium -->
+            <VMEu_Chromium.label>cromo</VMEu_Chromium.label>
+            <VMEu_Chromium.description>Um metal duro, pouco utilizado isoladamente, as civilizações industriais preferem combiná-lo com o aço e o estanho para a fabricação do aço inoxidável, um tipo especial de aço imune à corrosão, o que o torna muito útil na confecção de próteses, biônicos e órgãos sintéticos.</VMEu_Chromium.description>
+
+        <!-- Stainless Steel -->
+            <VMEu_StainlessSteel.label>aço inoxidável</VMEu_StainlessSteel.label>
+            <VMEu_StainlessSteel.description>Liga de cromo e de tungstênio, este material tem exatamente a mesma resistência do aço comum, exceto que é um tanto bonito e pode ser usado na fabricação de peças protéticas, biônicos e órgãos sintéticos.</VMEu_StainlessSteel.description>
+
+        <!-- Titanium -->
+            <VMEu_Titanium.label>titânio</VMEu_Titanium.label>
+            <VMEu_Titanium.description>Um metal altamente durável, não é tão bom para estruturas, mas as armas feitas com esse material são altamente duráveis ​​e eficazes.</VMEu_Titanium.description>
+
+        <!-- Lithium -->
+            <VMEu_Lithium.label>lítio</VMEu_Lithium.label>
+            <VMEu_Lithium.description>Um metal instável utilizado na sintetização de drogas, fabricação de componentes avançados e de dispositivos EMP.\n\nPode ter uma aplicação nuclear.</VMEu_Lithium.description>
+
+        <!-- Germanium -->
+            <VMEu_Germanium.label>germânio</VMEu_Germanium.label>
+            <VMEu_Germanium.description>Um metal escuro utilizado principalmente na fabricação de componentes elétricos.</VMEu_Germanium.description>
+
+        <!-- Rock Powder -->
+            <VMEu_RockPowder.label>pó de pedra</VMEu_RockPowder.label>
+            <VMEu_RockPowder.description>Pedra em pó, primitiva, mas eficiente para construção de pisos e paredes resistentes ao fogo.</VMEu_RockPowder.description>
+
+        <!-- Concrete Mix -->
+            <VMEu_Concrete.label>mistura de concreto</VMEu_Concrete.label>
+            <VMEu_Concrete.description>Pedra reforçada com pó de ferro, quando combinada com areia e água torna-se dura o suficiente para contrução de estruturas, não tão resistente aos impactos, mas incrivelmente resistente ao fogo.</VMEu_Concrete.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Component -->
             <VFE_ComponentMechanoid.label>componente mecanóide</VFE_ComponentMechanoid.label>

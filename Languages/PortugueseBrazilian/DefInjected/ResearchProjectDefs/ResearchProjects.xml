@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Expanded Materials - Metals -->
+        <!-- Concrete Making -->
+            <VMEu_ConcreteMaking.label>fabricação de concreto</VMEu_ConcreteMaking.label>
+            <VMEu_ConcreteMaking.description>Misture pó de pedra e ferro para fazer uma mistura forte, usada para construir paredes, pisos e algumas estruturas.</VMEu_ConcreteMaking.description>
+
+        <!-- Stainless Steel Alloying -->
+            <VMEu_StainlessSteelAlloying.label>liga de aço inoxidável</VMEu_StainlessSteelAlloying.label>
+            <VMEu_StainlessSteelAlloying.description>Ligue um tipo especial de aço imune à corrosão, um material necessário na fabricação de peças protéticas, biônicos e órgãos sintéticos.</VMEu_StainlessSteelAlloying.description>
+
+        <!-- Steel Alloying -->
+            <VMEu_SteelAlloying.label>liga de aço</VMEu_SteelAlloying.label>
+            <VMEu_SteelAlloying.description>Ligue ferro com carbono em altas temperaturas, permitindo a fabricação de ligas de aço, um material duro e eficiente.</VMEu_SteelAlloying.description>
+
+        <!-- Plasteel Alloying -->
+            <VMEu_PlasteelAlloying.label>liga de plastiaço</VMEu_PlasteelAlloying.label>
+            <VMEu_PlasteelAlloying.description>Descubra como sintetizar plastiaço a partir de vários produtos químicos.</VMEu_PlasteelAlloying.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Factory Basics -->
             <VFE_FactoryBasics.label>fundamentos da fábrica</VFE_FactoryBasics.label>

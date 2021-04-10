@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Expanded Materials - Metals -->
+        <!-- Alloy Metals -->
+            <VMEu_DoBillsMetalSmelter.label>ligar metais</VMEu_DoBillsMetalSmelter.label>
+            <VMEu_DoBillsMetalSmelter.verb>ligar</VMEu_DoBillsMetalSmelter.verb>
+            <VMEu_DoBillsMetalSmelter.gerund>ligando em</VMEu_DoBillsMetalSmelter.gerund>
+            <VMEu_DoBillsElectricMetalSmelter.label>ligar metais</VMEu_DoBillsElectricMetalSmelter.label>
+            <VMEu_DoBillsElectricMetalSmelter.verb>ligar</VMEu_DoBillsElectricMetalSmelter.verb>
+            <VMEu_DoBillsElectricMetalSmelter.gerund>ligando em</VMEu_DoBillsElectricMetalSmelter.gerund>
+            <VMEu_DoBillsAdvancedSmelter.label>ligar metais</VMEu_DoBillsAdvancedSmelter.label>
+            <VMEu_DoBillsAdvancedSmelter.verb>ligar</VMEu_DoBillsAdvancedSmelter.verb>
+            <VMEu_DoBillsAdvancedSmelter.gerund>ligando em</VMEu_DoBillsAdvancedSmelter.gerund>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Take Wine -->
             <VFEM_TakeBeerOutOfWineBarrel.label>retirar vinho dos barris</VFEM_TakeBeerOutOfWineBarrel.label>

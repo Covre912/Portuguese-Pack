@@ -10,6 +10,55 @@
             <O21_Embrasure_Hole.label>Troneira</O21_Embrasure_Hole.label>
             <O21_Embrasure_Hole.description>Uma barreira impassável com um buraco circular. Capaz de suportar um telhado e permite o disparo de armas através dela.</O21_Embrasure_Hole.description>
 
+    <!-- Expanded Materials - Metals -->
+        <!-- Coal Ore -->
+            <VMEu_MineableCoal.label>minério de carvão</VMEu_MineableCoal.label>
+            <VMEu_MineableCoal.description>Rocha contendo pedaços de carvão.</VMEu_MineableCoal.description>
+
+        <!-- Iron Ore -->
+            <VMEu_MineableIron.label>minério de ferro</VMEu_MineableIron.label>
+            <VMEu_MineableIron.description>Rocha contendo pedaços de ferro.</VMEu_MineableIron.description>
+
+        <!-- Lead Ore -->
+            <VMEu_MineableLead.label>minério de chumbo</VMEu_MineableLead.label>
+            <VMEu_MineableLead.description>Rocha contendo pedaços de chumbo.</VMEu_MineableLead.description>
+
+        <!-- Tin Ore -->
+            <VMEu_MineableTin.label>minério de estanho</VMEu_MineableTin.label>
+            <VMEu_MineableTin.description>Rocha contendo pedaços de estanho.</VMEu_MineableTin.description>
+
+        <!-- Copper Ore -->
+            <VMEu_MineableCopper.label>minério de cobre</VMEu_MineableCopper.label>
+            <VMEu_MineableCopper.description>Rocha contendo pedaços de cobre.</VMEu_MineableCopper.description>
+
+        <!-- Germanium Ore -->
+            <VMEu_MineableGermanium.label>minério de germânio</VMEu_MineableGermanium.label>
+            <VMEu_MineableGermanium.description>Rocha contendo pedaços de germânio.</VMEu_MineableGermanium.description>
+
+        <!-- Titanium Ore -->
+            <VMEu_MineableTitanium.label>minério de titânio</VMEu_MineableTitanium.label>
+            <VMEu_MineableTitanium.description>Rocha contendo pedaços de titânio.</VMEu_MineableTitanium.description>
+
+        <!-- Lithium Ore -->
+            <VMEu_MineableLithium.label>minério de lítio</VMEu_MineableLithium.label>
+            <VMEu_MineableLithium.description>Rocha contendo pedaços de lítio.</VMEu_MineableLithium.description>
+
+        <!-- Tungsten Ore -->
+            <VMEu_MineableTungsten.label>minério de tungstênio</VMEu_MineableTungsten.label>
+            <VMEu_MineableTungsten.description>Rocha contendo pedaços de tungstênio.</VMEu_MineableTungsten.description>
+
+        <!-- Metal Smelter -->
+            <VMEu_MetalSmelter.label>fundição</VMEu_MetalSmelter.label>
+            <VMEu_MetalSmelter.description>Uma grande estrutura de pedra feita especificamente para ligar metais.</VMEu_MetalSmelter.description>
+
+        <!-- Eletric Metal Smelter -->
+            <VMEu_ElectricMetalSmelter.label>fundição elétrica</VMEu_ElectricMetalSmelter.label>
+            <VMEu_ElectricMetalSmelter.description>Uma grande estrutura de pedra feita especificamente para ligar e trabalhar com metais.\n\nRequer uma grande quantidade de eletricidade para funcionar.</VMEu_ElectricMetalSmelter.description>
+
+        <!-- Advanced Metal Smelter -->
+            <VMEu_AdvancedSmelter.label>fundição avançada</VMEu_AdvancedSmelter.label>
+            <VMEu_AdvancedSmelter.description>Uma enorme fundição de pedra, equipada com tecnologia suficiente para calcular os materiais e calor necessários para fazer os metais mais complexos.\n\nRequer uma grande quantidade de eletricidade para funcionar, além de um uso extra de combustível.</VMEu_AdvancedSmelter.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Factory Hopper -->
             <VFEM_HeavyHopper.label>funil de fábrica</VFEM_HeavyHopper.label>

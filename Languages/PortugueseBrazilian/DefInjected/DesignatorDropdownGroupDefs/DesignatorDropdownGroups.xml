@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Expanded Materials - Metals -->
+        <!-- Concrete -->
+            <VMEu_RoughConcreteDropDownMenu.label>concreto</VMEu_RoughConcreteDropDownMenu.label>
+
+        <!-- Paved Tile -->
+            <VMEu_PavedDropDownMenu.label>ladrilho pavimentado</VMEu_PavedDropDownMenu.label>
+
+</LanguageData>

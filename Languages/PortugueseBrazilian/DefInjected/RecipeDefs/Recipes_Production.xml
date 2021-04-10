@@ -1,6 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Expanded Materials - Metals -->
+        <!-- Charcoal -->
+            <VMEu_MakeCharcoal.label>fazer carvão vegetal</VMEu_MakeCharcoal.label>
+            <VMEu_MakeCharcoal.description>Queime madeira para obter carvão, não é tão bom como o mineral, mas ainda assim um bom substituto.</VMEu_MakeCharcoal.description>
+            <VMEu_MakeCharcoal.jobString>Fazendo carvão vegetal.</VMEu_MakeCharcoal.jobString>
+
+        <!-- Rock Powder -->
+            <VMEu_MakeRockPowder.label>fazer pó de pedra</VMEu_MakeRockPowder.label>
+            <VMEu_MakeRockPowder.description>Pó de pedra, um material útil resistente ao fogo, comumente usado na construição de paredes e pisos.</VMEu_MakeRockPowder.description>
+            <VMEu_MakeRockPowder.jobString>Fazendo pó de pedra.</VMEu_MakeRockPowder.jobString>
+
+        <!-- Concrete -->
+            <VMEu_MakeConcrete.label>fazer concreto</VMEu_MakeConcrete.label>
+            <VMEu_MakeConcrete.description>Rochas misturadas com pó de ferro expostas a altas temperaturas tornam os materiais à base de concreto mais resistentes.</VMEu_MakeConcrete.description>
+            <VMEu_MakeConcrete.jobString>Fazendo concreto.</VMEu_MakeConcrete.jobString>
+            <VMEu_MakeBulkConcrete.label>fazer concreto (x4)</VMEu_MakeBulkConcrete.label>
+            <VMEu_MakeBulkConcrete.description>Rochas misturadas com pó de ferro expostas a altas temperaturas tornam os materiais à base de concreto mais resistentes.</VMEu_MakeBulkConcrete.description>
+            <VMEu_MakeBulkConcrete.jobString>Fazendo concreto.</VMEu_MakeBulkConcrete.jobString>
+            <VMEu_MakeConcreteRockPowder.label>fazer concreto com pó de pedra</VMEu_MakeConcreteRockPowder.label>
+            <VMEu_MakeConcreteRockPowder.description>Rochas misturadas com pó de ferro expostas a altas temperaturas tornam os materiais à base de concreto mais resistentes.</VMEu_MakeConcreteRockPowder.description>
+            <VMEu_MakeConcreteRockPowder.jobString>Fazendo concreto.</VMEu_MakeConcreteRockPowder.jobString>
+
+        <!-- Chemfuel -->
+            <VMEu_MakeChemfuelFromFossil.label>refinar combustível químico</VMEu_MakeChemfuelFromFossil.label>
+            <VMEu_MakeChemfuelFromFossil.description>Um processo longo que extrai grandes quantidades de combustível químico de fósseis.</VMEu_MakeChemfuelFromFossil.description>
+            <VMEu_MakeChemfuelFromFossil.jobString>Refinando combustível químico.</VMEu_MakeChemfuelFromFossil.jobString>
+
+        <!-- Dark Oil -->
+            <VMEu_MakeDarkOilFromFossil.label>refinar oléo escuro</VMEu_MakeDarkOilFromFossil.label>
+            <VMEu_MakeDarkOilFromFossil.description>Um longo processo que implica cozinhar fósseis usando um sistema de evaporação lento para obter óleo escuro.</VMEu_MakeDarkOilFromFossil.description>
+            <VMEu_MakeDarkOilFromFossil.jobString>Refinando óleo escuro.</VMEu_MakeDarkOilFromFossil.jobString>
+
+        <!-- Bronze -->
+            <VMEu_MakeBronze.label>ligar bronze</VMEu_MakeBronze.label>
+            <VMEu_MakeBronze.description>Uma liga de cobre e estanho, um material bonito, útil na fabricação de componentes elétricos.</VMEu_MakeBronze.description>
+            <VMEu_MakeBronze.jobString>Ligando bronze.</VMEu_MakeBronze.jobString>
+
+        <!-- Steel -->
+            <VMEu_MakeSteel.label>ligar aço</VMEu_MakeSteel.label>
+            <VMEu_MakeSteel.description>Uma liga de ferro e carbono, o aço é mais resistente à ferrugem e mais forte do que o ferro.</VMEu_MakeSteel.description>
+            <VMEu_MakeSteel.jobString>Ligando aço.</VMEu_MakeSteel.jobString>
+            <VMEu_MakeBulkSteel.label>ligar aço (x4)</VMEu_MakeBulkSteel.label>
+            <VMEu_MakeBulkSteel.description>Uma liga de ferro e carbono, o aço é mais resistente à ferrugem e mais forte do que o ferro.</VMEu_MakeBulkSteel.description>
+            <VMEu_MakeBulkSteel.jobString>Ligando aço.</VMEu_MakeBulkSteel.jobString>
+            <VMEu_MakeSteelCharcoal.label>ligar aço com carvão vegetal</VMEu_MakeSteelCharcoal.label>
+            <VMEu_MakeSteelCharcoal.description>Uma liga de ferro e carbono, o aço é mais resistente à ferrugem e mais forte do que o ferro.</VMEu_MakeSteelCharcoal.description>
+            <VMEu_MakeSteelCharcoal.jobString>Ligando aço.</VMEu_MakeSteelCharcoal.jobString>
+
+        <!-- Stainless Steel -->
+            <VMEu_MakeStainlessSteel.label>ligar aço inoxidável</VMEu_MakeStainlessSteel.label>
+            <VMEu_MakeStainlessSteel.description>Ligue um tipo especial de aço ao misturá-lo com cromo e tungstênio, usado para fazer próteses, biônicos e órgãos sintéticos.</VMEu_MakeStainlessSteel.description>
+            <VMEu_MakeStainlessSteel.jobString>Ligando aço inoxidável.</VMEu_MakeStainlessSteel.jobString>
+            <VMEu_MakeStainlessSteel_Silver.label>ligar aço inoxidável com prata</VMEu_MakeStainlessSteel_Silver.label>
+            <VMEu_MakeStainlessSteel_Silver.description>Ligue um tipo especial de prata ao misturá-la com tungstênio, usado para fazer próteses, biônicos e órgãos sintéticos.</VMEu_MakeStainlessSteel_Silver.description>
+            <VMEu_MakeStainlessSteel_Silver.jobString>Ligando aço inoxidável.</VMEu_MakeStainlessSteel_Silver.jobString>
+            <VMEu_MakeStainlessSteel_Tin.label>ligar aço inoxidável com estanho</VMEu_MakeStainlessSteel_Tin.label>
+            <VMEu_MakeStainlessSteel_Tin.description>Ligue um tipo especial de aço ao misturá-lo com estanho e tungstênio, usado para fazer próteses, biônicos e órgãos sintéticos.</VMEu_MakeStainlessSteel_Tin.description>
+            <VMEu_MakeStainlessSteel_Tin.jobString>Ligando aço inoxidável.</VMEu_MakeStainlessSteel_Tin.jobString>
+            <VMEu_MakeBulkStainlessSteel.label>ligar aço inoxidável (x4)</VMEu_MakeBulkStainlessSteel.label>
+            <VMEu_MakeBulkStainlessSteel.description>Ligue um tipo especial de aço ao misturá-lo com cromo e tungstênio, usado para fazer próteses, biônicos e órgãos sintéticos.</VMEu_MakeBulkStainlessSteel.description>
+            <VMEu_MakeBulkStainlessSteel.jobString>Ligando aço inoxidável.</VMEu_MakeBulkStainlessSteel.jobString>
+
+        <!-- Plasteel -->
+            <VMEu_MakePlasteel.label>ligar plastiaço</VMEu_MakePlasteel.label>
+            <VMEu_MakePlasteel.description>O aço, quando exposto a temperaturas extremamente altas e endurecido quimicamente com uma mistura de óleo escuro e neutroamina, torna-se plastiaço.\n\nO material é obtido no final, quando a temperatura é baixa, usando uma alta concentração de explosivos químicos obtido do lítio .</VMEu_MakePlasteel.description>
+            <VMEu_MakePlasteel.jobString>Ligando plastiaço.</VMEu_MakePlasteel.jobString>
+
     <!-- Vanilla Weapons Expanded - Laser -->
         <!-- Salvage Laser Weapons -->
             <Salvage_LaserWeapon.label>recuperar arma laser</Salvage_LaserWeapon.label>

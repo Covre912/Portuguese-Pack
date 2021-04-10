@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Expanded Materials - Metals -->
+        <!-- Special Metals -->
+            <VMEu_SpecialMetals.label>metais especiais</VMEu_SpecialMetals.label>
+
     <!-- Vanilla Expanded Framework -->
         <!-- Shields -->
             <VFEC_Shields.label>escudos</VFEC_Shields.label>
