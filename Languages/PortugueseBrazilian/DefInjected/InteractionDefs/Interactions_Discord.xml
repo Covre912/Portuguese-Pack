@@ -6,7 +6,7 @@
             <VSIE_Discord.label>discórdia</VSIE_Discord.label>
             <VSIE_Discord.logRulesInitiator.rulesStrings>
                 <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [PersonalCharacteristic] de [target].</li>
-                <li>r_logentry->[INITIATOR_nameDef] comparou o(a) [target] com um(a) [insultcomparison].</li>
+                <li>r_logentry->[INITIATOR_nameDef] comparou [target] com um(a) [insultcomparison].</li>
                 <li>r_logentry->[INITIATOR_nameDef] chamou [target] de um(a) [insultcomparison].</li>
         
                 <li>target(p=4)->[RECIPIENT_nameDef]</li>
