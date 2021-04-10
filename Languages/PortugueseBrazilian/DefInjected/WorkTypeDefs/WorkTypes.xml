@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Allow Tool -->
+        <!-- Haul+ -->
+            <HaulingUrgent.labelShort>Auxiliar+</HaulingUrgent.labelShort>
+            <HaulingUrgent.pawnLabel>Transportador</HaulingUrgent.pawnLabel>
+            <HaulingUrgent.gerundLabel>Transportando</HaulingUrgent.gerundLabel>
+            <HaulingUrgent.description>Transporte de alta prioridade. Funciona como o normal, mas apenas para itenss que são designados manualmente.</HaulingUrgent.description>
+            <HaulingUrgent.verb>Transportar</HaulingUrgent.verb>
+
+        <!-- Finish -->
+            <FinishingOff.labelShort>Finalizar</FinishingOff.labelShort>
+            <FinishingOff.pawnLabel>Executor</FinishingOff.pawnLabel>
+            <FinishingOff.gerundLabel>Finalizando</FinishingOff.gerundLabel>
+            <FinishingOff.description>Mate criaturas atordoadas de forma rápida e indolor.</FinishingOff.description>
+            <FinishingOff.verb>Finalizar</FinishingOff.verb>
+
+</LanguageData>

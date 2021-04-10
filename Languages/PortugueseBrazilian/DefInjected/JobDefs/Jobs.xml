@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Allow Tool -->
+        <!-- Finish Off Creature -->
+            <FinishOffPawn.reportString>finalizando criatura.</FinishOffPawn.reportString>
+
     <!-- Vanilla Expanded Framework -->
         <!-- Equip Shield -->
             <VFEC_EquipShield.reportString>equipando TargetA.</VFEC_EquipShield.reportString>

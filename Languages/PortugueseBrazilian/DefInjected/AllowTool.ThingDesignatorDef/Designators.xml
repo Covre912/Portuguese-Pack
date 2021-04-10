@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Allow Tool -->
+        <!-- Allow Selection -->
+            <AllowDesignator.label>Permitir</AllowDesignator.label>
+            <AllowDesignator.description>Marca todos os itens na área selecionada como permitidos.</AllowDesignator.description>
+
+        <!-- Forbid Selection -->
+            <ForbidDesignator.label>Proibir</ForbidDesignator.label>
+            <ForbidDesignator.description>Marca todos os itens na área selecioanda com proibidos.</ForbidDesignator.description>
+
+        <!-- Allow Everything -->
+            <AllowAllDesignator.label>Permitir tudo</AllowAllDesignator.label>
+            <AllowAllDesignator.description>Marca todos os itens no mapa como proibidos.\n&lt;b&gt;Segure Ctrl/Option&lt;/b&gt; para incluir estruturas.\n&lt;b&gt;Segure Shift&lt;/b&gt; para incluir cadáveres.</AllowAllDesignator.description>
+
+        <!-- Select Similar -->
+            <SelectSimilarDesignator.label>Selecionar similares</SelectSimilarDesignator.label>
+            <SelectSimilarDesignator.description>Seleciona os itens semelhantes aos já selecionados.\n&lt;b&gt;Segure Shift&lt;/b&gt; para selecionar itens adicionais.\n&lt;b&gt;Segure Alt&lt;/b&gt; para ignorar limites de seleção.</SelectSimilarDesignator.description>
+
+        <!-- Haul Urgently -->
+            <HaulUrgentlyDesignator.label>Transportar urgentemente</HaulUrgentlyDesignator.label>
+            <HaulUrgentlyDesignator.description>Marca os itens para serem transportados o mais rápido possível. Os colonos atrasarão outros trabalhos até que o transporte seja concluído.</HaulUrgentlyDesignator.description>
+
+        <!-- Finish Off -->
+            <FinishOffDesignator.label>Finalizar</FinishOffDesignator.label>
+            <FinishOffDesignator.description>Marca criaturas abatidas para serem finalizadas de forma rápida e indolor.\n&lt;b&gt;Segure Shift&lt;/b&gt; para incluir colonos e aliados.</FinishOffDesignator.description>
+
+        <!-- Harvest Fully Grown -->
+            <HarvestFullyGrownDesignator.label>Colher (Maduro)</HarvestFullyGrownDesignator.label>
+            <HarvestFullyGrownDesignator.description>Seleciona plantas e árvores maduras para serem coletadas.n\&lt;b&gt;Segure Shift&lt;/b&gt; para incluir apenas plantas.\n&lt;b&gt;Segure Ctrl/Option&lt;/b&gt; para incluir apenas árvores.</HarvestFullyGrownDesignator.description>
+
+        <!-- Strip Mine Designator -->
+            <StripMineDesignator.label>Mineração Cruzada</StripMineDesignator.label>
+            <StripMineDesignator.description>Designa a mineração em uma grade para maximizar a chance de encontrar minérios.</StripMineDesignator.description>
+
+</LanguageData>

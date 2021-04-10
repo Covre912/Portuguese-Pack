@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Allow Tools -->
+        <!-- Haull Urgently -->
+            <HaulUrgently.label>tranportar itens urgentemente</HaulUrgently.label>
+            <HaulUrgently.verb>transportar</HaulUrgently.verb>
+            <HaulUrgently.gerund>transportando</HaulUrgently.gerund>
+
+        <!-- Finish Off -->
+            <FinishOff.label>finalizar criatura</FinishOff.label>
+            <FinishOff.verb>finalizar</FinishOff.verb>
+            <FinishOff.gerundLabel>finalizando</FinishOff.gerundLabel>
+
     <!-- Expanded Materials - Metals -->
         <!-- Alloy Metals -->
             <VMEu_DoBillsMetalSmelter.label>ligar metais</VMEu_DoBillsMetalSmelter.label>

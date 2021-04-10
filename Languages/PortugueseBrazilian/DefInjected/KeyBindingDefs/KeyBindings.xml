@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Allow Tool -->
+        <!-- Allow -->
+            <DesignatorAllow.label>Designador: Permitir</DesignatorAllow.label>
+
+        <!-- Forbid -->
+            <DesignatorForbid.label>Designador: Proibir</DesignatorForbid.label>
+
+        <!-- Allow All -->
+            <DesignatorAllowAll.label>Designador: Permitir tudo</DesignatorAllowAll.label>
+
+        <!-- Select Similar -->
+            <DesignatorSelectSimilar.label>Designador: Selecionar similares</DesignatorSelectSimilar.label>
+        
+        <!-- Haul Urgently -->
+            <DesignatorHaulUrgently.label>Designador: Transportar urgentemente</DesignatorHaulUrgently.label>
+
+        <!-- Finish Off -->
+            <DesignatorFinishOff.label>Designador: Finalizar</DesignatorFinishOff.label>
+
+        <!-- Harvest Fully Grown -->
+            <DesignatorHarvestFullyGrown.label>Designador: Colher (Maduro)</DesignatorHarvestFullyGrown.label>
+
+        <!-- Strip Mine -->
+            <DesignatorStripMine.label>Designador: Mineração Cruzada</DesignatorStripMine.label>
+
+        <!-- Context Menu Action -->
+            <ToolContextMenuAction.label>Ação de Contexto</ToolContextMenuAction.label>
+
+</LanguageData>
