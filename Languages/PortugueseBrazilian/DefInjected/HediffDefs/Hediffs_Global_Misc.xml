@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- A Dog Said... Animal Prosthetics -->
+        <!--Limbs-->
+            <ProstheticTail.label>cauda protética</ProstheticTail.label>
+            <SimpleProstheticLegAnimal.label>perna de animal protética simples</SimpleProstheticLegAnimal.label>
+            <BionicLegAnimal.label>perna de animal biônica</BionicLegAnimal.label>
+            <SimpleProstheticArmAnimal.label>braço de animal protético simples</SimpleProstheticArmAnimal.label>
+            <BionicArmAnimal.label>braço de animal biônico</BionicArmAnimal.label>
+
+        <!--Other Parts-->
+            <NoseAnimalSimple.label>nariz de animal simples</NoseAnimalSimple.label>
+            <BionicEyeAnimal.label>olho de animal biônico</BionicEyeAnimal.label>
+            <EarAnimalSimple.label>implante coclear de animal simples</EarAnimalSimple.label>
+            <EarAnimalBionic.label>implante coclear de animal biônico</EarAnimalBionic.label>
+            <JawAnimalSimple.label>mandíbula de animal simples</JawAnimalSimple.label>
+            <JawAnimalBionic.label>mandíbula de animal biônica</JawAnimalBionic.label>
+            <SpineAnimalSimple.label>coluna vertebral de animal simples</SpineAnimalSimple.label>
+            <SpineAnimalBionic.label>coluna vertebral de animal biônica</SpineAnimalBionic.label>
+
+        <!--Organs-->
+            <AnimalBrainStimulator.label>estimulante cerebral de animal</AnimalBrainStimulator.label>
+            <BionicAnimalHeart.label>coração de animal biônico</BionicAnimalHeart.label>
+            <BionicAnimalLung.label>pulmão de animal biônico</BionicAnimalLung.label>
+            <BionicAnimalLiver.label>fígado de animal biônico</BionicAnimalLiver.label>
+            <BionicAnimalKidney.label>rim de animal biônico</BionicAnimalKidney.label>
+            <BionicAnimalStomach>estômago de animal biônico</BionicAnimalStomach>
+
     <!-- Vanilla Expanded Framework -->
         <!-- Acid Buildup -->
             <VEF_AcidBuildup.label>ácido</VEF_AcidBuildup.label>

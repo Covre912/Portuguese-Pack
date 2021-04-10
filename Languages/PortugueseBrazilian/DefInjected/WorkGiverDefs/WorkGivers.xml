@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- A Dog Said... Animal Prosthetics -->
+        <!-- Animal Prosthetics -->
+        	<DoBillsAnimalProsthetics.label>fazer prótese veterinária</DoBillsAnimalProsthetics.label>
+	        <DoBillsAnimalProsthetics.verb>fazer prótese veterinária</DoBillsAnimalProsthetics.verb>
+	        <DoBillsAnimalProsthetics.gerund>fazendo prótese veterinária em</DoBillsAnimalProsthetics.gerund>
+
     <!-- Allow Tools -->
         <!-- Haull Urgently -->
             <HaulUrgently.label>tranportar itens urgentemente</HaulUrgently.label>

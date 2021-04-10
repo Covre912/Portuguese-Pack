@@ -54,6 +54,11 @@
             <O21_Embrasure_Hole.label>Troneira</O21_Embrasure_Hole.label>
             <O21_Embrasure_Hole.description>Uma barreira impassável com um buraco circular. Capaz de suportar um telhado e permite o disparo de armas através dela.</O21_Embrasure_Hole.description>
 
+    <!-- A Dog Said... Animal Prosthetics -->
+        <!-- Animal Prosthetics Table -->
+            <TableAnimalProsthetics.label>mesa de próteses veterinárias</TableAnimalProsthetics.label>
+            <TableAnimalProsthetics.description>Crie próteses/partes biônicas e órgãos para animais nesta bancada.</TableAnimalProsthetics.description>
+
     <!-- Expanded Materials - Metals -->
         <!-- Coal Ore -->
             <VMEu_MineableCoal.label>minério de carvão</VMEu_MineableCoal.label>

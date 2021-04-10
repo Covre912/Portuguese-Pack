@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- A Dog Said... Animal Prosthetics -->
+        <!-- Animal Body Part-->
+            <<BodyPartsAnimalArtificial.label>parte do corpo de animal</BodyPartsAnimalArtificial.label>
+
     <!-- Expanded Materials - Metals -->
         <!-- Special Metals -->
             <VMEu_SpecialMetals.label>metais especiais</VMEu_SpecialMetals.label>

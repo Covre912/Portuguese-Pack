@@ -1,6 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- A Dog Said... Animal Prosthetics -->
+		<!--Simple Prosthetic Tail-->
+			<ProstheticTailAnimal.label>cauda de animal protética simples</ProstheticTailAnimal.label>
+			<ProstheticTailAnimal.description>Cauda de animal protética simples. Serve em todos os animais.</ProstheticTailAnimal.description>
+
+		<!--Simple Prosthetic Leg-->
+			<SimpleProstheticLegAnimal.label>perna de animal protética simples</SimpleProstheticLegAnimal.label>
+			<SimpleProstheticLegAnimal.description>Perna de animal protética simples. Serve em todos os animais.</SimpleProstheticLegAnimal.description>
+
+		<!--Simple Prosthetic Arm-->
+			<SimpleProstheticArmAnimal.label>braço de animal protético simples</SimpleProstheticArmAnimal.label>
+			<SimpleProstheticArmAnimal.description>Braço animal protético simples. Serve em macacos e megatérios.</SimpleProstheticArmAnimal.description>
+
+		<!--Bionic Leg-->
+			<BionicLegAnimal.label>perna de animal biônica</BionicLegAnimal.label>
+			<BionicLegAnimal.description>Perna biônica melhorada para animais. Serve em todos os animais.</BionicLegAnimal.description>
+
+		<!--Bionic Arm-->
+			<BionicArmAnimal.label>braço de animal biônico</BionicArmAnimal.label>
+			<BionicArmAnimal.description>Braço animal melhorado biônico. Serve em macacos e megatérios.</BionicArmAnimal.description>
+
+		<!--Simple Nose-->
+			<NoseAnimalSimple.label>nariz de animal simples</NoseAnimalSimple.label>
+			<NoseAnimalSimple.description>Nariz simples para animais. Serve em todos os animais, exceto pássaros e insetos.</NoseAnimalSimple.description>
+
+		<!--Simple Jaw-->
+			<JawAnimalSimple.label>mandíbula de animal simples</JawAnimalSimple.label>
+			<JawAnimalSimple.description>Mandíbula funcional para animais. Serve em todos os animais.</JawAnimalSimple.description>
+
+		<!--Simple Ear Implant-->
+			<EarAnimalSimple.label>implante coclear de animal simples</EarAnimalSimple.label>
+			<EarAnimalSimple.description>Implante coclear simples para animais. Serve em todos os animais.</EarAnimalSimple.description>
+
+		<!--Simple Spine-->
+			<SpineAnimalSimple.label>coluna vertebral de animal simples</SpineAnimalSimple.label>
+			<SpineAnimalSimple.description>Coluna vertebral funcional para animais. Serve em todos os animais.</SpineAnimalSimple.description>
+
+		<!--Bionic Eye-->
+			<BionicEyeAnimal.label>olho de animal biônico</BionicEyeAnimal.label>
+			<BionicEyeAnimal.description>Olho de animal melhorado biônico. Serve em todos os animais.</BionicEyeAnimal.description>
+
+		<!--Bionic Jaw-->
+			<JawAnimalBionic.label>mandíbula de animal biônica</JawAnimalBionic.label>
+			<JawAnimalBionic.description>Mandíbula de animal melhorada para animais. Serve em todos os animais.</JawAnimalBionic.description>
+
+		<!--Bionic Ear Implant-->
+			<EarAnimalBionic.label>implante coclear de animal biônico</EarAnimalBionic.label>
+			<EarAnimalBionic.description>Implante coclear de animal biônico melhorado para animais. Serve em todos os animais.</EarAnimalBionic.description>
+
+		<!--Bionic Spine-->
+			<SpineAnimalBionic.label>coluna vertebral de animal biônica</SpineAnimalBionic.label>
+			<SpineAnimalBionic.description>Coluna vertebral biônica melhorada para animais. Serve em todos os animais.</SpineAnimalBionic.description>
+
+		<!--Brain Stimulator-->
+			<AnimalBrainStimulator.label>estimulante cerebral de animal</AnimalBrainStimulator.label>
+			<AnimalBrainStimulator.description>Estimulante cerebral para animais. Melhora a consciência. Serve em todos os animais.</AnimalBrainStimulator.description>
+
+		<!--Bionic Heart-->
+			<BionicAnimalHeart.label>coração de animal biônico</BionicAnimalHeart.label>
+			<BionicAnimalHeart.description>Coração biônico melhorado para animais. Serve em todos os animais.</BionicAnimalHeart.description>
+
+		<!--Bionic Stomach-->
+			<BionicAnimalStomach.label>estômago de animal biônico</BionicAnimalStomach.label>
+			<BionicAnimalStomach.description>Estômago biônico melhorado para animais. Serve em todos os animais.</BionicAnimalStomach.description>
+
+		<!--Bionic Lung-->
+			<BionicAnimalLung.label>pulmão de animal biônico</BionicAnimalLung.label>
+			<BionicAnimalLung.description>Pulmão biônico melhorado para animais. Serve em todos os animais.</BionicAnimalLung.description>
+
+		<!--Bionic Liver-->
+			<BionicAnimalLiver.label>fígado de animal biônico</BionicAnimalLiver.label>
+			<BionicAnimalLiver.description>Fígado biônico melhorado para animais. Serve em todos os animais.</BionicAnimalLiver.description>
+
+		<!--Bionic Kidney-->
+			<BionicAnimalKidney.label>rim de animal biônico</BionicAnimalKidney.label>
+			<BionicAnimalKidney.description>Rim biônico melhorado para animais. Serve em todos os animais.</BionicAnimalKidney.description>
+
+        <!-- Unfinished Animal Part -->
+            <UnfinishedAnimalPart.label>parte de animal inacabada</UnfinishedAnimalPart.label>
+
     <!-- Expanded Materials - Metals -->
         <!-- Fossil -->
             <VMEu_Fossil.label>fóssil</VMEu_Fossil.label>

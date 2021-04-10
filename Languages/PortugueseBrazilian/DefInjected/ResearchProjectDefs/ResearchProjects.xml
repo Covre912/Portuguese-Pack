@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- A Dog Said... Animal Prosthetics -->
+	    <!-- Simple Animal Prosthetics -->
+		    <SimpleAnimalProsthetics.label>próteses veterinárias simples</SimpleAnimalProsthetics.label>
+		    <SimpleAnimalProsthetics.description>Aprenda a usar e fabricar próteses simples para animais.</SimpleAnimalProsthetics.description>
+		
+	    <!-- Animal Bionics -->
+		    <AnimalBionics.label>próteses veterinárias biônicas</AnimalBionics.label>
+		    <AnimalBionics.description>Aprenda a usar e fabricar próteses biônicas para animais.</AnimalBionics.description>
+
+	    <!-- Animal Heal -->
+		    <AnimalHeal.label>tratamento veterinário</AnimalHeal.label>
+		    <AnimalHeal.description>Aprenda a curar feridas antigas em animais.</AnimalHeal.description>
+
     <!-- Expanded Materials - Metals -->
         <!-- Concrete Making -->
             <VMEu_ConcreteMaking.label>fabricação de concreto</VMEu_ConcreteMaking.label>
