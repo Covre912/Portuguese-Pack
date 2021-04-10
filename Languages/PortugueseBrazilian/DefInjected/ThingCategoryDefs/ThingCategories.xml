@@ -3,7 +3,7 @@
 
     <!-- A Dog Said... Animal Prosthetics -->
         <!-- Animal Body Part-->
-            <<BodyPartsAnimalArtificial.label>parte do corpo de animal</BodyPartsAnimalArtificial.label>
+            <BodyPartsAnimalArtificial.label>parte do corpo de animal</BodyPartsAnimalArtificial.label>
 
     <!-- Expanded Materials - Metals -->
         <!-- Special Metals -->
@@ -12,5 +12,9 @@
     <!-- Vanilla Expanded Framework -->
         <!-- Shields -->
             <VFEC_Shields.label>escudos</VFEC_Shields.label>
+
+    <!-- Vanilla Fishing Expanded -->
+        <!-- Raw Fishes -->
+            <VCEF_RawFishCategory.label>peixes</VCEF_RawFishCategory.label>
 
 </LanguageData>

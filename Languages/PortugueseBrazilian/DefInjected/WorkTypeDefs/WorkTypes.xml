@@ -4,16 +4,24 @@
     <!-- Allow Tool -->
         <!-- Haul+ -->
             <HaulingUrgent.labelShort>Auxiliar+</HaulingUrgent.labelShort>
-            <HaulingUrgent.pawnLabel>Transportador</HaulingUrgent.pawnLabel>
-            <HaulingUrgent.gerundLabel>Transportando</HaulingUrgent.gerundLabel>
+            <HaulingUrgent.pawnLabel>Transportador(a)</HaulingUrgent.pawnLabel>
+            <HaulingUrgent.gerundLabel>transportando</HaulingUrgent.gerundLabel>
             <HaulingUrgent.description>Transporte de alta prioridade. Funciona como o normal, mas apenas para itenss que são designados manualmente.</HaulingUrgent.description>
             <HaulingUrgent.verb>Transportar</HaulingUrgent.verb>
 
         <!-- Finish -->
             <FinishingOff.labelShort>Finalizar</FinishingOff.labelShort>
-            <FinishingOff.pawnLabel>Executor</FinishingOff.pawnLabel>
-            <FinishingOff.gerundLabel>Finalizando</FinishingOff.gerundLabel>
-            <FinishingOff.description>Mate criaturas atordoadas de forma rápida e indolor.</FinishingOff.description>
+            <FinishingOff.pawnLabel>Executor(a)</FinishingOff.pawnLabel>
+            <FinishingOff.gerundLabel>finalizando</FinishingOff.gerundLabel>
+            <FinishingOff.description>Matar criaturas atordoadas de forma rápida e indolor.</FinishingOff.description>
             <FinishingOff.verb>Finalizar</FinishingOff.verb>
+
+    <!-- Vanilla Fishing Expanded -->
+        <!-- Fish -->
+	        <VCEF_Fishing.labelShort>Pescar</VCEF_Fishing.labelShort>
+	        <VCEF_Fishing.pawnLabel>Pescador(a)</VCEF_Fishing.pawnLabel>
+	        <VCEF_Fishing.gerundLabel>pescando</VCEF_Fishing.gerundLabel>
+	        <VCEF_Fishing.description>Pescar peixes em áreas de trabalho designadas.</VCEF_Fishing.description>
+	        <VCEF_Fishing.verb>Pescar</VCEF_Fishing.verb>
 
 </LanguageData>

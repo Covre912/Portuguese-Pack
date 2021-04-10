@@ -65,6 +65,11 @@
             <Aurora.stages.0.label>aurora linda</Aurora.stages.0.label>
             <Aurora.stages.0.description>A vista é incrível.</Aurora.stages.0.description>
 
+    <!-- Vanilla Fishing Expanded -->
+        <!-- Fishing -->
+            <VCEF_FishingThought.stages.relaxing_fishing_session.label>pescaria relaxante</VCEF_FishingThought.stages.relaxing_fishing_session.label>
+	        <VCEF_FishingThought.stages.relaxing_fishing_session.description>Não há nada melhor para relaxar do que uma bela pescaria.</VCEF_FishingThought.stages.relaxing_fishing_session.description>
+
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Inspiration Satisfied -->
             <VSIE_InspirationSatisfied.stages.0.label>Inspiração satisfeita</VSIE_InspirationSatisfied.stages.0.label>

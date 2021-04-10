@@ -201,6 +201,11 @@
             <SYR_StrongBack.degreeDatas.0.label>costas fortes</SYR_StrongBack.degreeDatas.0.label>
             <SYR_StrongBack.degreeDatas.0.description>{PAWN_nameDef} possui costas muito fortes, é metade mula, ou coisa do tipo. {PAWN_pronoun} consegue carregar muito mais do que uma pessoa normal.</SYR_StrongBack.degreeDatas.0.description>
 
+    <!-- Vanilla Fishing Expanded -->
+        <!-- Fisherman -->
+            <VCEF_Fisherman.degreeDatas.fisherman.label>pescador</VCEF_Fisherman.degreeDatas.fisherman.label>
+	        <VCEF_Fisherman.degreeDatas.fisherman.description>{PAWN_nameDef} desfruta da solidão e tranquilidade inerentes a longas sessões de pesca. {PAWN_pronoun} prefere pescar do que fazer outras atividades.</VCEF_Fisherman.degreeDatas.fisherman.description>
+
     <!-- Vanilla Traits Expanded -->
         <!-- Absent-Minded -->
             <VTE_AbsentMinded.degreeDatas.0.label>distraído</VTE_AbsentMinded.degreeDatas.0.label>

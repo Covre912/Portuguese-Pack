@@ -23,6 +23,10 @@
         <!-- Take Wine Out Of Wine Barrel -->
             <VFEM_TakeWineOutOfWineBarrel.reportString>retirando vinho de TargetA.</VFEM_TakeWineOutOfWineBarrel.reportString>
 
+    <!-- Vanilla Fishing Expanded -->
+        <!-- Fish -->
+            <VCEF_FishJob.reportString>pescando em TargetA.</VCEF_FishJob.reportString>
+
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Vent To Friend -->
             <VSIE_VentToFriend.reportString>desabafando para TargetA.</VSIE_VentToFriend.reportString>
