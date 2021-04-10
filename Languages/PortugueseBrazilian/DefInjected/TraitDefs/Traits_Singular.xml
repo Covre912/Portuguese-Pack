@@ -36,11 +36,11 @@
 		
 		<!-- Dunce -->
             <RCT_Dunce.degreeDatas.0.label>burro</RCT_Dunce.degreeDatas.0.label>
-            <RCT_Dunce.degreeDatas.0.description>[PAWN_nameDef] é meio burro(a), e aprende habilidades mais devagar que os outros.</RCT_Dunce.degreeDatas.0.description>
+            <RCT_Dunce.degreeDatas.0.description>[PAWN_nameDef] é meio burr{PAWN_gender ? o : a}, e aprende habilidades mais devagar que os outros.</RCT_Dunce.degreeDatas.0.description>
 	
 		<!-- Gourmet -->
             <RCT_Gourmet.degreeDatas.0.label>gastrônomo</RCT_Gourmet.degreeDatas.0.label>
-            <RCT_Gourmet.degreeDatas.0.description>[PAWN_nameDef] é apaixonado(a) pelo preparo de comida. Suas criações culinárias são muito saborosas, mas [PAWN_pronoun] costuma levar um tempo a mais para dar aquele "tchã".</RCT_Gourmet.degreeDatas.0.description>
+            <RCT_Gourmet.degreeDatas.0.description>[PAWN_nameDef] é apaixonad{PAWN_gender ? o : a} pelo preparo de comida. Suas criações culinárias são muito saborosas, mas [PAWN_pronoun] costuma levar um tempo a mais para dar aquele "tchã".</RCT_Gourmet.degreeDatas.0.description>
 
 		<!-- Heat Lover -->
             <RCT_HeatLover.degreeDatas.0.label>ama o calor</RCT_HeatLover.degreeDatas.0.label>
@@ -48,9 +48,9 @@
 
 		<!-- Aptitude -->
             <RCT_Aptitude.degreeDatas.0.label>inepto</RCT_Aptitude.degreeDatas.0.label>
-            <RCT_Aptitude.degreeDatas.0.description>[PAWN_nameDef] dá o seu melhor, mas é simplesmente descoordenado(a) e não se dá muito bem em qualquer tipo de trabalho qualificado.</RCT_Aptitude.degreeDatas.0.description>
+            <RCT_Aptitude.degreeDatas.0.description>[PAWN_nameDef] dá o seu melhor, mas é simplesmente descoordenad{PAWN_gender ? o : a} e não se dá muito bem em qualquer tipo de trabalho qualificado.</RCT_Aptitude.degreeDatas.0.description>
             <RCT_Aptitude.degreeDatas.1.label>coordenado</RCT_Aptitude.degreeDatas.1.label>
-            <RCT_Aptitude.degreeDatas.1.description>[PAWN_nameDef] é excepcionalmente coordenado(a), e se dá bem em praticamente qualquer tipo de trabalho qualificado.</RCT_Aptitude.degreeDatas.1.description>
+            <RCT_Aptitude.degreeDatas.1.description>[PAWN_nameDef] é excepcionalmente coordenad{PAWN_gender ? o : a}, e se dá bem em praticamente qualquer tipo de trabalho qualificado.</RCT_Aptitude.degreeDatas.1.description>
 
 		<!-- Pain Threshold -->
             <RCT_PainThreshold.degreeDatas.0.label>intolerante a dor</RCT_PainThreshold.degreeDatas.0.label>
@@ -62,7 +62,7 @@
 			
 		<!-- Inventor -->
             <RCT_Inventor.degreeDatas.0.label>inventor</RCT_Inventor.degreeDatas.0.label>
-            <RCT_Inventor.degreeDatas.0.description>A mente de [PAWN_nameDef] está cheia de novas e estranhas ideias. É fácil para [PAWN_objective] pesquisar novas tecnologias, mas [PAWN_pronoun] parece sempre estar distraído(a).</RCT_Inventor.degreeDatas.0.description>
+            <RCT_Inventor.degreeDatas.0.description>A mente de [PAWN_nameDef] está cheia de novas e estranhas ideias. É fácil para [PAWN_objective] pesquisar novas tecnologias, mas [PAWN_pronoun] parece sempre estar distraíd{PAWN_gender ? o : a}.</RCT_Inventor.degreeDatas.0.description>
 
 		<!-- Eyesight -->
             <RCT_Eyesight.degreeDatas.0.label>paralisia oculomotora</RCT_Eyesight.degreeDatas.0.label>
@@ -72,7 +72,7 @@
 
 		<!-- Neat Freak -->
             <RCT_NeatFreak.degreeDatas.0.label>maníaco por limpeza</RCT_NeatFreak.degreeDatas.0.label>
-            <RCT_NeatFreak.degreeDatas.0.description>[PAWN_nameDef] é asseado(a) até demais.</RCT_NeatFreak.degreeDatas.0.description>
+            <RCT_NeatFreak.degreeDatas.0.description>[PAWN_nameDef] é assead{PAWN_gender ? o : a} até demais.</RCT_NeatFreak.degreeDatas.0.description>
 
 		<!-- Eating Speed -->
             <RCT_EatingSpeed.degreeDatas.0.label>roedor</RCT_EatingSpeed.degreeDatas.0.label>
@@ -104,7 +104,7 @@
 
 		<!-- Savant -->
             <RCT_Savant.degreeDatas.0.label>savant</RCT_Savant.degreeDatas.0.label>
-            <RCT_Savant.degreeDatas.0.description>[PAWN_nameDef] é um(a) Da Vinci dos tempos modernos, com uma mente criativa que concebe novas ideias quase sem esforço. Mas [PAWN_pronoun] é angustiantemente lento(a) quando se trata de trabalho braçal.</RCT_Savant.degreeDatas.0.description>
+            <RCT_Savant.degreeDatas.0.description>[PAWN_nameDef] é {PAWN_gender ? um : uma} Da Vinci dos tempos modernos, com uma mente criativa que concebe novas ideias quase sem esforço. Mas [PAWN_pronoun] é angustiantemente lent{PAWN_gender ? o : a} quando se trata de trabalho braçal.</RCT_Savant.degreeDatas.0.description>
 
 		<!-- DecentLearner -->
             <RCT_decentlearner.degreeDatas.0.label>aprendiz ligeiro</RCT_decentlearner.degreeDatas.0.label>
@@ -138,11 +138,11 @@
 
 		<!-- Brown Thumb -->
             <RCT_BrownThumb.degreeDatas.0.label>dedo podre</RCT_BrownThumb.degreeDatas.0.label>
-            <RCT_BrownThumb.degreeDatas.0.description>[PAWN_nameDef] é péssimo(a) em jardinagem. A única coisa que [PAWN_pronoun] parece conseguir cultivar são ervas daninhas.</RCT_BrownThumb.degreeDatas.0.description>
+            <RCT_BrownThumb.degreeDatas.0.description>[PAWN_nameDef] é péssim{PAWN_gender ? o : a} em jardinagem. A única coisa que [PAWN_pronoun] parece conseguir cultivar são ervas daninhas.</RCT_BrownThumb.degreeDatas.0.description>
 
 		<!-- Green Thumb -->
             <RCT_GreenThumb.degreeDatas.0.label>dedo verde</RCT_GreenThumb.degreeDatas.0.label>
-            <RCT_GreenThumb.degreeDatas.0.description>[PAWN_nameDef] é ótimo(a) em jardinagem. O que [PAWN_pronoun] mais quer na vida é um mundo mais verde.</RCT_GreenThumb.degreeDatas.0.description>
+            <RCT_GreenThumb.degreeDatas.0.description>[PAWN_nameDef] é ótim{PAWN_gender ? o : a} em jardinagem. O que [PAWN_pronoun] mais quer na vida é um mundo mais verde.</RCT_GreenThumb.degreeDatas.0.description>
 
     <!-- [SYR] Individuality -->
         <!--Agile-->
@@ -171,7 +171,7 @@
 
         <!--GunNut-->
             <SYR_GunNut.degreeDatas.0.label>louco por armas</SYR_GunNut.degreeDatas.0.label>
-            <SYR_GunNut.degreeDatas.0.description>{PAWN_nameDef} é louco(a) por armas, sua vida gira em torno delas, de como são fabricadas, conservadas e utilizadas. Uma habilidade bem útil nessas circunstâncias. Só não dê uma arma de corpo-a-corpo nas mãos d{PAWN_pronoun}.</SYR_GunNut.degreeDatas.0.description>/
+            <SYR_GunNut.degreeDatas.0.description>{PAWN_nameDef} é louc{PAWN_gender ? o : a} por armas, sua vida gira em torno delas, de como são fabricadas, conservadas e utilizadas. Uma habilidade bem útil nessas circunstâncias. Só não dê uma arma de corpo-a-corpo nas mãos d{PAWN_pronoun}.</SYR_GunNut.degreeDatas.0.description>/
 
         <!--HandEyeCoordination-->
             <SYR_HandEyeCoordination.degreeDatas.0.label>coordenação motora</SYR_HandEyeCoordination.degreeDatas.0.label>
@@ -183,7 +183,7 @@
 
         <!--MechanoidExpert-->
             <SYR_MechanoidExpert.degreeDatas.0.label>especialista em mecanoides</SYR_MechanoidExpert.degreeDatas.0.label>
-            <SYR_MechanoidExpert.degreeDatas.0.description>{PAWN_nameDef} já teve sua dose de encontros com mecanoides. {PAWN_pronoun} se tornou um(a) especialista em construção e combate a mecanoides, fazendo d{PAWN_pronoun} uma pessoa peculiarmente apropriada para desmontá-los e combatê-los.\n\nDano contra mecanoides +50%</SYR_MechanoidExpert.degreeDatas.0.description>
+            <SYR_MechanoidExpert.degreeDatas.0.description>{PAWN_nameDef} já teve sua dose de encontros com mecanoides. {PAWN_pronoun} se tornou {PAWN_gender ? um : uma} especialista em construção e combate a mecanoides, fazendo d{PAWN_pronoun} uma pessoa peculiarmente apropriada para desmontá-los e combatê-los.\n\nDano contra mecanoides +50%</SYR_MechanoidExpert.degreeDatas.0.description>
 
         <!--Perfectionist-->
             <SYR_Perfectionist.degreeDatas.0.label>perfeccionista</SYR_Perfectionist.degreeDatas.0.label>
@@ -195,7 +195,7 @@
 
         <!--Steady Hands-->
             <SYR_SteadyHands.degreeDatas.0.label>mãos firmes</SYR_SteadyHands.degreeDatas.0.label>
-            <SYR_SteadyHands.degreeDatas.0.description>{PAWN_nameDef} possui mãos especialmente firmes, que não tremem nem nas circunstâncias mais estressantes, nem quando {PAWN_pronoun} mesmo(a) está ferido(a).\n\nSem penalidade ao autoatendimento</SYR_SteadyHands.degreeDatas.0.description>
+            <SYR_SteadyHands.degreeDatas.0.description>{PAWN_nameDef} possui mãos especialmente firmes, que não tremem nem nas circunstâncias mais estressantes, nem quando {PAWN_pronoun} mesm{PAWN_gender ? o : a} está ferid{PAWN_gender ? o : a}.\n\nSem penalidade ao autoatendimento</SYR_SteadyHands.degreeDatas.0.description>
 
         <!--StrongBack-->
             <SYR_StrongBack.degreeDatas.0.label>costas fortes</SYR_StrongBack.degreeDatas.0.label>
@@ -236,15 +236,15 @@
 
         <!-- Heavy Sleeper -->
             <VTE_HeavySleeper.degreeDatas.0.label>dorminhoco</VTE_HeavySleeper.degreeDatas.0.label>
-            <VTE_HeavySleeper.degreeDatas.0.description>Uma bomba pode explodir ao lado de [PAWN_nameDef] enquanto [PAWN_pronoun] dorme, isso não irá acordá-lo(a). [PAWN_pronoun] também não acordará para defender a colônia no meio de um cochilo.</VTE_HeavySleeper.degreeDatas.0.description>
+            <VTE_HeavySleeper.degreeDatas.0.description>Uma bomba pode explodir ao lado de [PAWN_nameDef] enquanto [PAWN_pronoun] dorme, isso não irá acordá-l{PAWN_gender ? o : a}. [PAWN_pronoun] também não acordará para defender a colônia no meio de um cochilo.</VTE_HeavySleeper.degreeDatas.0.description>
 
 	    <!-- Neat -->
             <VTE_Neat.degreeDatas.0.label>higiênico</VTE_Neat.degreeDatas.0.label>
-            <VTE_Neat.degreeDatas.0.description>[PAWN_nameDef] é naturalmente higiênico(a) e organizado(a). [PAWN_pronoun] não deixará sujeira ou jogará lixo em qualquer lugar e se sentirá feliz enquanto limpa.</VTE_Neat.degreeDatas.0.description>
+            <VTE_Neat.degreeDatas.0.description>[PAWN_nameDef] é naturalmente higiênic{PAWN_gender ? o : a} e organizad{PAWN_gender ? o : a}. [PAWN_pronoun] não deixará sujeira ou jogará lixo em qualquer lugar e se sentirá feliz enquanto limpa.</VTE_Neat.degreeDatas.0.description>
         
         <!-- Slob -->
             <VTE_Slob.degreeDatas.0.label>desleixado</VTE_Slob.degreeDatas.0.label>
-            <VTE_Slob.degreeDatas.0.description>[PAWN_nameDef] é desleixado(a) e deixa lixo e sujeira em todos os lugares que passa. Pelo menos [PAWN_pronoun] não se incomoda muito com bagunça.</VTE_Slob.degreeDatas.0.description>
+            <VTE_Slob.degreeDatas.0.description>[PAWN_nameDef] é desleixad{PAWN_gender ? o : a} e deixa lixo e sujeira em todos os lugares que passa. Pelo menos [PAWN_pronoun] não se incomoda muito com bagunça.</VTE_Slob.degreeDatas.0.description>
 
         <!-- Workaholic -->
             <VTE_Workaholic.degreeDatas.0.label>viciado em trabalho</VTE_Workaholic.degreeDatas.0.label>
@@ -256,27 +256,27 @@
 
         <!-- Animal Lover -->
             <VTE_AnimalLover.degreeDatas.0.label>amante dos animais</VTE_AnimalLover.degreeDatas.0.label>
-            <VTE_AnimalLover.degreeDatas.0.description>[PAWN_nameDef] não suporta maus-tratos a animais. [PAWN_pronoun] se sentirá mais feliz sendo acariciado(a) ou sendo o(a) mestre de um animal vinculado, mas ficará profundamente arrasado quando não for dono(a) de um animal vinculado ou ao ver um morrer. [PAWN_pronoun] também se recusa a matar animais.</VTE_AnimalLover.degreeDatas.0.description>
+            <VTE_AnimalLover.degreeDatas.0.description>[PAWN_nameDef] não suporta maus-tratos a animais. [PAWN_pronoun] se sentirá mais feliz sendo acariciad{PAWN_gender ? o : a} ou sendo {PAWN_gender ? o : a} mestre de um animal vinculado, mas ficará profundamente arrasado quando não for don{PAWN_gender ? o : a} de um animal vinculado ou ao ver um morrer. [PAWN_pronoun] também se recusa a matar animais.</VTE_AnimalLover.degreeDatas.0.description>
 
         <!-- Animal Hater -->
             <VTE_AnimalHater.degreeDatas.0.label>odiador de animais</VTE_AnimalHater.degreeDatas.0.label>
-            <VTE_AnimalHater.degreeDatas.0.description>[PAWN_nameDef] acredita profundamente na superioridade humana. Matar ou perder animais irá agradá-lo(a).</VTE_AnimalHater.degreeDatas.0.description>
+            <VTE_AnimalHater.degreeDatas.0.description>[PAWN_nameDef] acredita profundamente na superioridade humana. Matar ou perder animais irá agradá-l{PAWN_gender ? o : a}.</VTE_AnimalHater.degreeDatas.0.description>
 
         <!-- Big-Boned -->
             <VTE_BigBoned.degreeDatas.0.label>ossos largos</VTE_BigBoned.degreeDatas.0.label>
-            <VTE_BigBoned.degreeDatas.0.description>Seja porque [PAWN_pronoun] é um pouco desajeitado(a) ou porque administra seu peso de forma estranha, [PAWN_nameDef] já quebrou algumas cadeiras e provavelmente quebrará mais.</VTE_BigBoned.degreeDatas.0.description>
+            <VTE_BigBoned.degreeDatas.0.description>Seja porque [PAWN_pronoun] é um pouco desajeitad{PAWN_gender ? o : a} ou porque administra seu peso de forma estranha, [PAWN_nameDef] já quebrou algumas cadeiras e provavelmente quebrará mais.</VTE_BigBoned.degreeDatas.0.description>
 
         <!-- Rebel -->
             <VTE_Rebel.degreeDatas.0.label>rebelde</VTE_Rebel.degreeDatas.0.label>
-            <VTE_Rebel.degreeDatas.0.description>[PAWN_nameDef] apenas joga de acordo com suas próprias regras, e vai relaxar ao fazer qualquer tarefa que foi forçado(a).</VTE_Rebel.degreeDatas.0.description>
+            <VTE_Rebel.degreeDatas.0.description>[PAWN_nameDef] apenas joga de acordo com suas próprias regras, e vai relaxar ao fazer qualquer tarefa que foi forçad{PAWN_gender ? o : a}.</VTE_Rebel.degreeDatas.0.description>
 
         <!-- Submissive -->
             <VTE_Submissive.degreeDatas.0.label>submisso</VTE_Submissive.degreeDatas.0.label>
-            <VTE_Submissive.degreeDatas.0.description>[PAWN_nameDef] precisa de instruções claras sobre como e quando fazer certas coisas e só trabalhará em uma velocidade normal quando for forçado(a) a fazer algo.</VTE_Submissive.degreeDatas.0.description>
+            <VTE_Submissive.degreeDatas.0.description>[PAWN_nameDef] precisa de instruções claras sobre como e quando fazer certas coisas e só trabalhará em uma velocidade normal quando for forçad{PAWN_gender ? o : a} a fazer algo.</VTE_Submissive.degreeDatas.0.description>
 
         <!-- Vengeful -->
             <VTE_Vengeful.degreeDatas.0.label>vingativo</VTE_Vengeful.degreeDatas.0.label>
-            <VTE_Vengeful.degreeDatas.0.description>[PAWN_nameDef] é alimentado(a) por despeito. [PAWN_pronoun] não suporta andar no mesmo solo que seus rivais e ficará exultante com a notícia do fim de suas vidas.</VTE_Vengeful.degreeDatas.0.description>
+            <VTE_Vengeful.degreeDatas.0.description>[PAWN_nameDef] é alimentad{PAWN_gender ? o : a} por despeito. [PAWN_pronoun] não suporta andar no mesmo solo que seus rivais e ficará exultante com a notícia do fim de suas vidas.</VTE_Vengeful.degreeDatas.0.description>
 
         <!-- Technophobe -->
             <VTE_Technophobe.degreeDatas.0.label>tecnofóbico</VTE_Technophobe.degreeDatas.0.label>
@@ -288,7 +288,7 @@
 
         <!-- Dunce -->
             <VTE_Dunce.degreeDatas.0.label>burro</VTE_Dunce.degreeDatas.0.label>
-            <VTE_Dunce.degreeDatas.0.description>[PAWN_nameDef] impediu suas capacidades mentais. Embora lento(a) para aprender e difícel de conversar, [PAWN_pronoun] tende a ser muito mais feliz naturalmente.</VTE_Dunce.degreeDatas.0.description>
+            <VTE_Dunce.degreeDatas.0.description>[PAWN_nameDef] impediu suas capacidades mentais. Embora lent{PAWN_gender ? o : a} para aprender e difícel de conversar, [PAWN_pronoun] tende a ser muito mais feliz naturalmente.</VTE_Dunce.degreeDatas.0.description>
 
         <!-- Martial Artist -->
             <VTE_MartialArtist.degreeDatas.0.label>artista marcial</VTE_MartialArtist.degreeDatas.0.label>
@@ -304,11 +304,11 @@
 
         <!-- Anxious -->
             <VTE_Anxious.degreeDatas.0.label>ansioso</VTE_Anxious.degreeDatas.0.label>
-            <VTE_Anxious.degreeDatas.0.description>[PAWN_nameDef] sente-se naturalmente ansioso(a), mas especialmente em situações sociais. [PAWN_pronoun] não comparecerá a nenhuma reunião e ocasionalmente pode precisar de um tempo a sós no quarto para respirar.</VTE_Anxious.degreeDatas.0.description>
+            <VTE_Anxious.degreeDatas.0.description>[PAWN_nameDef] sente-se naturalmente ansios{PAWN_gender ? o : a}, mas especialmente em situações sociais. [PAWN_pronoun] não comparecerá a nenhuma reunião e ocasionalmente pode precisar de um tempo a sós no quarto para respirar.</VTE_Anxious.degreeDatas.0.description>
 
         <!-- Insatiable -->
             <VTE_Insatiable.degreeDatas.0.label>insaciável</VTE_Insatiable.degreeDatas.0.label>
-            <VTE_Insatiable.degreeDatas.0.description>Nenhuma quantidade de amor é amor o suficiente para [PAWN_nameDef]. [PAWN_pronoun] tenderá a trocar de parceiro(a) e brincará entre os lençóis com frequência.</VTE_Insatiable.degreeDatas.0.description>
+            <VTE_Insatiable.degreeDatas.0.description>Nenhuma quantidade de amor é amor o suficiente para [PAWN_nameDef]. [PAWN_pronoun] tenderá a trocar de parceir{PAWN_gender ? o : a} e brincará entre os lençóis com frequência.</VTE_Insatiable.degreeDatas.0.description>
 
         <!-- Prude -->
             <VTE_Prude.degreeDatas.0.label>puritiano</VTE_Prude.degreeDatas.0.label>
@@ -316,19 +316,19 @@
 
         <!-- Couch Potato -->
             <VTE_CouchPotato.degreeDatas.0.label>sedentário</VTE_CouchPotato.degreeDatas.0.label>
-            <VTE_CouchPotato.degreeDatas.0.description>Uma poltrona e uma televisão de tela plana é tudo o que [PAWN_nameDef] precisa para ficar feliz. [PAWN_pronoun] nunca se cansará da televisão e tenderá a assisti-la mais, além de se sentir-se satisfeito(a) depois de fazer isso.</VTE_CouchPotato.degreeDatas.0.description>
+            <VTE_CouchPotato.degreeDatas.0.description>Uma poltrona e uma televisão de tela plana é tudo o que [PAWN_nameDef] precisa para ficar feliz. [PAWN_pronoun] nunca se cansará da televisão e tenderá a assisti-la mais, além de se sentir-se satisfeit{PAWN_gender ? o : a} depois de fazer isso.</VTE_CouchPotato.degreeDatas.0.description>
 
         <!-- Cat Person -->
             <VTE_CatPerson.degreeDatas.0.label>amante de gatos</VTE_CatPerson.degreeDatas.0.label>
-            <VTE_CatPerson.degreeDatas.0.description>[PAWN_nameDef] é louco(a) por tudo que é felino. [PAWN_pronoun] irá naturalmente gravitar para se relacionar com gatos, no entanto, não é fã de cães.</VTE_CatPerson.degreeDatas.0.description>
+            <VTE_CatPerson.degreeDatas.0.description>[PAWN_nameDef] é louc{PAWN_gender ? o : a} por tudo que é felino. [PAWN_pronoun] irá naturalmente gravitar para se relacionar com gatos, no entanto, não é fã de cães.</VTE_CatPerson.degreeDatas.0.description>
 
         <!-- Dog Person -->
             <VTE_DogPerson.degreeDatas.0.label>amante de cães</VTE_DogPerson.degreeDatas.0.label>
-            <VTE_DogPerson.degreeDatas.0.description>[PAWN_nameDef] é louco(a) por tudo que é canino. [PAWN_pronoun] irá naturalmente gravitar para se relacionar com cães, no entanto, não é fã de gatos.</VTE_DogPerson.degreeDatas.0.description>
+            <VTE_DogPerson.degreeDatas.0.description>[PAWN_nameDef] é louc{PAWN_gender ? o : a} por tudo que é canino. [PAWN_pronoun] irá naturalmente gravitar para se relacionar com cães, no entanto, não é fã de gatos.</VTE_DogPerson.degreeDatas.0.description>
 
         <!-- Prodigy -->
             <VTE_Prodigy.degreeDatas.0.label>prodígio</VTE_Prodigy.degreeDatas.0.label>
-            <VTE_Prodigy.degreeDatas.0.description>[PAWN_nameDef] é um cientista natural. [PAWN_pronoun] pesquisa muito mais rápido e se lembra melhor das coisas. No entanto, [PAWN_pronoun] ficará chateado(a) sem um laboratório dedicado ao seu trabalho e tende a se estressar com mais facilidade.</VTE_Prodigy.degreeDatas.0.description>
+            <VTE_Prodigy.degreeDatas.0.description>[PAWN_nameDef] é um cientista natural. [PAWN_pronoun] pesquisa muito mais rápido e se lembra melhor das coisas. No entanto, [PAWN_pronoun] ficará chatead{PAWN_gender ? o : a} sem um laboratório dedicado ao seu trabalho e tende a se estressar com mais facilidade.</VTE_Prodigy.degreeDatas.0.description>
 
         <!-- Menagerist -->
             <VTE_Menagerist.degreeDatas.0.label>menagerista</VTE_Menagerist.degreeDatas.0.label>
@@ -344,15 +344,15 @@
 
         <!-- Mad Surgeon -->
             <VTE_MadSurgeon.degreeDatas.0.label>cirurgião maluco</VTE_MadSurgeon.degreeDatas.0.label>
-            <VTE_MadSurgeon.degreeDatas.0.description>[PAWN_nameDef] tem um segredo. [PAWN_pronoun] trata a extração de órgãos como um experimento doentio. Embora colher um órgao o faça feliz, passar muito tempo sem ceder à compulsão  deixará chateado(a).</VTE_MadSurgeon.degreeDatas.0.description>
+            <VTE_MadSurgeon.degreeDatas.0.description>[PAWN_nameDef] tem um segredo. [PAWN_pronoun] trata a extração de órgãos como um experimento doentio. Embora colher um órgao o faça feliz, passar muito tempo sem ceder à compulsão  deixará chatead{PAWN_gender ? o : a}.</VTE_MadSurgeon.degreeDatas.0.description>
 
         <!-- Drunken Master -->
             <VTE_DrunkenMaster.degreeDatas.0.label>bêbado</VTE_DrunkenMaster.degreeDatas.0.label>
-            <VTE_DrunkenMaster.degreeDatas.0.description>[PAWN_nameDef] é supostamente um especialista em combate corpo a corpo, mas apenas quando está embriagado(a). [PAWN_pronoun] afirma se tornar mais talentoso(a) quanto mais bêbado(a) está.</VTE_DrunkenMaster.degreeDatas.0.description>
+            <VTE_DrunkenMaster.degreeDatas.0.description>[PAWN_nameDef] é supostamente um especialista em combate corpo a corpo, mas apenas quando está embriagad{PAWN_gender ? o : a}. [PAWN_pronoun] afirma se tornar mais talentos{PAWN_gender ? o : a} quanto mais bêbad{PAWN_gender ? o : a} está.</VTE_DrunkenMaster.degreeDatas.0.description>
 
         <!-- Kleptomanic -->
             <VTE_Kleptomaniac.degreeDatas.0.label>cleptomaníaco</VTE_Kleptomaniac.degreeDatas.0.label>
-            <VTE_Kleptomaniac.degreeDatas.0.description>[PAWN_nameDef] é obrigado(a) a roubar coisas que não lhe pertencem, mesmo que isso signifique irritar a outra parte.</VTE_Kleptomaniac.degreeDatas.0.description>
+            <VTE_Kleptomaniac.degreeDatas.0.description>[PAWN_nameDef] é obrigad{PAWN_gender ? o : a} a roubar coisas que não lhe pertencem, mesmo que isso signifique irritar a outra parte.</VTE_Kleptomaniac.degreeDatas.0.description>
 
         <!-- Stoner -->
             <VTE_Stoner.degreeDatas.0.label>chapado</VTE_Stoner.degreeDatas.0.label>
@@ -364,27 +364,27 @@
 
         <!-- Wanderlust -->
             <VTE_Wanderlust.degreeDatas.0.label>sede de viagem</VTE_Wanderlust.degreeDatas.0.label>
-            <VTE_Wanderlust.degreeDatas.0.description>[PAWN_nameDef] adora viajar e o faz rapidamente, mas pode ficar chateado(a) se não o fizer por um tempo. [PAWN_pronoun] também é bastante adepto à coleta durante viagens.</VTE_Wanderlust.degreeDatas.0.description>
+            <VTE_Wanderlust.degreeDatas.0.description>[PAWN_nameDef] adora viajar e o faz rapidamente, mas pode ficar chatead{PAWN_gender ? o : a} se não o fizer por um tempo. [PAWN_pronoun] também é bastante adepto à coleta durante viagens.</VTE_Wanderlust.degreeDatas.0.description>
 
         <!-- Insomniac -->
             <VTE_Insomniac.degreeDatas.0.label>insone</VTE_Insomniac.degreeDatas.0.label>
-            <VTE_Insomniac.degreeDatas.0.description>[PAWN_nameDef] nunca está realmente dormindo ou acordado(a). [PAWN_pronoun] é quase como um zumbi, balançando e trabalhando muito lentamente, e só dorme uma vez a cada três dias ou mais.</VTE_Insomniac.degreeDatas.0.description>
+            <VTE_Insomniac.degreeDatas.0.description>[PAWN_nameDef] nunca está realmente dormindo ou acordad{PAWN_gender ? o : a}. [PAWN_pronoun] é quase como um zumbi, balançando e trabalhando muito lentamente, e só dorme uma vez a cada três dias ou mais.</VTE_Insomniac.degreeDatas.0.description>
 
         <!-- World Weary -->
             <VTE_WorldWeary.degreeDatas.0.label>esgotado</VTE_WorldWeary.degreeDatas.0.label>
-            <VTE_WorldWeary.degreeDatas.0.description>[PAWN_nameDef] se cansou do mundo e precisa ser constantemente distraído(a) para impedir pensamentos sombrios. A sua personalidade sombria é deprimente e, portanto, é muito difícil fazer amizade com [PAWN_pronoun].</VTE_WorldWeary.degreeDatas.0.description>
+            <VTE_WorldWeary.degreeDatas.0.description>[PAWN_nameDef] se cansou do mundo e precisa ser constantemente distraíd{PAWN_gender ? o : a} para impedir pensamentos sombrios. A sua personalidade sombria é deprimente e, portanto, é muito difícil fazer amizade com [PAWN_pronoun].</VTE_WorldWeary.degreeDatas.0.description>
 
         <!-- Desensitized -->
             <VTE_Desensitized.degreeDatas.0.label>dessensibilizado</VTE_Desensitized.degreeDatas.0.label>
-            <VTE_Desensitized.degreeDatas.0.description>[PAWN_nameDef] é constítuido(a) pelo que só pode ser presumido como um antigo trauma emocional. [PAWN_pronoun] não sente absolutamente nada por animais, colonos, familiares, prisioneiros ou cadáveres.</VTE_Desensitized.degreeDatas.0.description>
+            <VTE_Desensitized.degreeDatas.0.description>[PAWN_nameDef] é constítuid{PAWN_gender ? o : a} pelo que só pode ser presumido como um antigo trauma emocional. [PAWN_pronoun] não sente absolutamente nada por animais, colonos, familiares, prisioneiros ou cadáveres.</VTE_Desensitized.degreeDatas.0.description>
 
         <!-- Refined Palate -->
             <VTE_RefinedPalate.degreeDatas.0.label>paladar refinado</VTE_RefinedPalate.degreeDatas.0.label>
-            <VTE_RefinedPalate.degreeDatas.0.description>Apenas as melhores criações culinárias podem agraciar os lábios de [PAWN_nameDef]. [PAWN_pronoun] se sente neutro(a) em relação a refeições mundanas, mas elogiará e saboreará refeições luxuosas até a última mordida.</VTE_RefinedPalate.degreeDatas.0.description>
+            <VTE_RefinedPalate.degreeDatas.0.description>Apenas as melhores criações culinárias podem agraciar os lábios de [PAWN_nameDef]. [PAWN_pronoun] se sente neutr{PAWN_gender ? o : a} em relação a refeições mundanas, mas elogiará e saboreará refeições luxuosas até a última mordida.</VTE_RefinedPalate.degreeDatas.0.description>
 
         <!-- Academian -->
             <VTE_Academian.degreeDatas.0.label>acadêmico</VTE_Academian.degreeDatas.0.label>
-            <VTE_Academian.degreeDatas.0.description>Seja através do estudo de manuscritos antigos ou de anos de pesquisa acadêmica, [PAWN_nameDef] é surpreendentemente informado(a) em uma variedade de tópicos, particularmente ciência e prática médica.</VTE_Academian.degreeDatas.0.description>
+            <VTE_Academian.degreeDatas.0.description>Seja através do estudo de manuscritos antigos ou de anos de pesquisa acadêmica, [PAWN_nameDef] é surpreendentemente informad{PAWN_gender ? o : a} em uma variedade de tópicos, particularmente ciência e prática médica.</VTE_Academian.degreeDatas.0.description>
 
         <!-- Groundbreaker -->
             <VTE_Groundbreaker.degreeDatas.0.label>engenheiro</VTE_Groundbreaker.degreeDatas.0.label>
@@ -408,7 +408,7 @@
 
         <!-- Thin Skinned -->
             <VTE_ThinSkinned.degreeDatas.0.label>pele frágil</VTE_ThinSkinned.degreeDatas.0.label>
-            <VTE_ThinSkinned.degreeDatas.0.description>[PAWN_nameDef] é estranhamente hemofílico(a) e tende a sangrar muito mais profusamente do que outras pessoas.</VTE_ThinSkinned.degreeDatas.0.description>
+            <VTE_ThinSkinned.degreeDatas.0.description>[PAWN_nameDef] é estranhamente hemofílic{PAWN_gender ? o : a} e tende a sangrar muito mais profusamente do que outras pessoas.</VTE_ThinSkinned.degreeDatas.0.description>
 
         <!-- Schizoid -->
             <VTE_Schizoid.degreeDatas.0.label>esquizóide</VTE_Schizoid.degreeDatas.0.label>
