@@ -29,4 +29,20 @@
         <!-- Context Menu Action -->
             <ToolContextMenuAction.label>Ação de Contexto</ToolContextMenuAction.label>
 
+    <!-- HugsLib -->
+        <!-- Publish Log File -->
+            <PublishLogs.label>Publicar arquivo de registro (segure Ctrl) </PublishLogs.label>
+
+        <!-- Open Log File -->
+            <OpenLogFile.label>Abrir aquivo de registro</OpenLogFile.label>
+
+        <!-- Restart RimWorld -->
+            <RestartRimworld.label>Reiniciar RimWorld</RestartRimworld.label>
+
+        <!-- Open Mod Settings -->
+            <HLOpenModSettings.label>Abrir configurações de mods</HLOpenModSettings.label>
+
+        <!-- Open Mod Update News -->
+            <HLOpenUpdateNews.label>Abrir atualizações de mods</HLOpenUpdateNews.label>
+
 </LanguageData>

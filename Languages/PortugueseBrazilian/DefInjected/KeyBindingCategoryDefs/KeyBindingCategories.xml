@@ -6,4 +6,9 @@
             <AllowTool.label>Allow Tool</AllowTool.label>
             <AllowTool.description>Atalhos para os designadores fornecidos pelo mod Allow Tool.</AllowTool.description>
 
+    <!-- HugsLib -->
+        <!-- HugsLib -->
+            <HugsLibShortcuts.label>HugsLib</HugsLibShortcuts.label>
+            <HugsLibShortcuts.description>Atalhos para a biblioteca HugsLib.</HugsLibShortcuts.description>
+
 </LanguageData>
