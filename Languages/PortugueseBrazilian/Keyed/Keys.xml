@@ -760,6 +760,266 @@
             <explanationRToggle>Reativar o requerimento de joias por nobres.</explanationRToggle>
             <shouldJewelryNeed>Personagens nobres requerem joias.</shouldJewelryNeed>
 
+    <!-- RimHUD -->
+        <!-- Base -->
+            <RimHUD.Language.AdjectiveNounOrder>{1} {0}</RimHUD.Language.AdjectiveNounOrder>
+            <RimHUD.ToggleHud>Mostrar HUD</RimHUD.ToggleHud>
+            <RimHUD.Button.OK>OK</RimHUD.Button.OK>
+            <RimHUD.Button.Yes>Sim</RimHUD.Button.Yes>
+            <RimHUD.Button.No>Não</RimHUD.Button.No>
+            <RimHUD.Button.Cancel>Cancelar</RimHUD.Button.Cancel>
+            <RimHUD.Button.Close>Fechar</RimHUD.Button.Close>
+            <RimHUD.Button.Save>Salvar</RimHUD.Button.Save>
+            <RimHUD.Dialog_Config.Title>RimHUD</RimHUD.Dialog_Config.Title>
+            <RimHUD.Dialog_Config.SetToDefault>Usar Padrão</RimHUD.Dialog_Config.SetToDefault>
+            <RimHUD.Dialog_Config.OpenFolder>Pasta de configurações</RimHUD.Dialog_Config.OpenFolder>
+            <RimHUD.Dialog_Config.Tab.Design>Design</RimHUD.Dialog_Config.Tab.Design>
+            <RimHUD.Dialog_Config.Tab.Colors>Cores</RimHUD.Dialog_Config.Tab.Colors>
+            <RimHUD.Dialog_Config.Tab.Colors.Editor>Editar cor para {0}</RimHUD.Dialog_Config.Tab.Colors.Editor>
+            <RimHUD.Dialog_Config.Tab.Colors.Hue>Matiz</RimHUD.Dialog_Config.Tab.Colors.Hue>
+            <RimHUD.Dialog_Config.Tab.Colors.Saturation>Saturação</RimHUD.Dialog_Config.Tab.Colors.Saturation>
+            <RimHUD.Dialog_Config.Tab.Colors.Lightness>Brilho</RimHUD.Dialog_Config.Tab.Colors.Lightness>
+            <RimHUD.Dialog_Config.Tab.Colors.Alpha>Alfa</RimHUD.Dialog_Config.Tab.Colors.Alpha>
+            <RimHUD.Dialog_Config.Tab.Colors.Hex>Hex</RimHUD.Dialog_Config.Tab.Colors.Hex>
+            <RimHUD.Dialog_Config.Tab.Content>Conteúdo</RimHUD.Dialog_Config.Tab.Content>
+            <RimHUD.Dialog_Config.Tab.Content.Preset>Escolher Predefinição</RimHUD.Dialog_Config.Tab.Content.Preset>
+            <RimHUD.Dialog_Config.Tab.Content.Preset.Default>Padrão</RimHUD.Dialog_Config.Tab.Content.Preset.Default>
+            <RimHUD.Dialog_Config.Tab.Content.Preset.DefaultLoaded>Predefinição definida para padrão.</RimHUD.Dialog_Config.Tab.Content.Preset.DefaultLoaded>
+            <RimHUD.Dialog_Config.Tab.Content.Preset.Loaded>Predefinição para o mod '{0}' carregado .</RimHUD.Dialog_Config.Tab.Content.Preset.Loaded>
+            <RimHUD.Dialog_Config.Tab.Content.Mode>Modo {0}</RimHUD.Dialog_Config.Tab.Content.Mode>
+            <RimHUD.Dialog_Config.Tab.Content.Mode.Docked>Ancora</RimHUD.Dialog_Config.Tab.Content.Mode.Docked>
+            <RimHUD.Dialog_Config.Tab.Content.Mode.Floating>Flutuação</RimHUD.Dialog_Config.Tab.Content.Mode.Floating>
+            <RimHUD.Dialog_Config.Tab.Content.Editor>Editor de HUD ({0})</RimHUD.Dialog_Config.Tab.Content.Editor>
+            <RimHUD.Dialog_Config.Tab.Content.Layout>Predefinição</RimHUD.Dialog_Config.Tab.Content.Layout>
+            <RimHUD.Dialog_Config.Tab.Content.Layout.SavePreset>Salvar como predefinição</RimHUD.Dialog_Config.Tab.Content.Layout.SavePreset>
+            <RimHUD.Dialog_Config.Tab.Content.Layout.ManagePresets>Gerenciar predefinições</RimHUD.Dialog_Config.Tab.Content.Layout.ManagePresets>
+            <RimHUD.Dialog_Config.Tab.Content.Component>Componente</RimHUD.Dialog_Config.Tab.Content.Component>
+            <RimHUD.Dialog_Config.Tab.Content.Component.MoveUp>Mover para cima</RimHUD.Dialog_Config.Tab.Content.Component.MoveUp>
+            <RimHUD.Dialog_Config.Tab.Content.Component.MoveDown>Mover para baixo</RimHUD.Dialog_Config.Tab.Content.Component.MoveDown>
+            <RimHUD.Dialog_Config.Tab.Content.Component.Remove>Remover</RimHUD.Dialog_Config.Tab.Content.Component.Remove>
+            <RimHUD.Dialog_Config.Tab.Content.Component.Stack>Adicionar pilha</RimHUD.Dialog_Config.Tab.Content.Component.Stack>
+            <RimHUD.Dialog_Config.Tab.Content.Component.StackDesc>Uma pilha pode conter outras pilhas ou painéis. O conteúdo da pilha será distribuído horizontalmente ou verticalmente uniformemente, dependendo do tipo de pilha escolhido.</RimHUD.Dialog_Config.Tab.Content.Component.StackDesc>
+            <RimHUD.Dialog_Config.Tab.Content.Component.Panel>Adicionar painél</RimHUD.Dialog_Config.Tab.Content.Component.Panel>
+            <RimHUD.Dialog_Config.Tab.Content.Component.PanelDesc>Um painel exibe uniformemente as linhas de elementos verticalmente.</RimHUD.Dialog_Config.Tab.Content.Component.PanelDesc>
+            <RimHUD.Dialog_Config.Tab.Content.Component.Row>Adicionar linha</RimHUD.Dialog_Config.Tab.Content.Component.Row>
+            <RimHUD.Dialog_Config.Tab.Content.Component.RowDesc>Uma linha contém elementos e, se contiver mais de um, eles serão exibidos horizontalmente de maneira uniforme.</RimHUD.Dialog_Config.Tab.Content.Component.RowDesc>
+            <RimHUD.Dialog_Config.Tab.Content.Component.Element>Adicionar elemento</RimHUD.Dialog_Config.Tab.Content.Component.Element>
+            <RimHUD.Dialog_Config.Tab.Content.Component.ElementDesc>Um elemento exibe dados no HUD.</RimHUD.Dialog_Config.Tab.Content.Component.ElementDesc>
+            <RimHUD.Dialog_Config.Tab.Content.Component.Stat>Adicionar dado</RimHUD.Dialog_Config.Tab.Content.Component.Stat>
+            <RimHUD.Dialog_Config.Tab.Content.Component.Record>Adicionar registro</RimHUD.Dialog_Config.Tab.Content.Component.Record>
+            <RimHUD.Dialog_Config.Tab.Content.Component.Need>Adicionar barra de necessidade</RimHUD.Dialog_Config.Tab.Content.Component.Need>
+            <RimHUD.Dialog_Config.Tab.Content.Component.SkillOrTraining>Addicionar habilidade/treinamento</RimHUD.Dialog_Config.Tab.Content.Component.SkillOrTraining>
+            <RimHUD.Dialog_Config.Tab.Content.Selected>Selecionado: </RimHUD.Dialog_Config.Tab.Content.Selected>
+            <RimHUD.Dialog_Config.Tab.Content.Selected.Filled>Preenchimento de altura</RimHUD.Dialog_Config.Tab.Content.Selected.Filled>
+            <RimHUD.Dialog_Config.Tab.Content.Selected.FilledDesc>Se marcado, o painel ou pilha será esticado para preencher o espaço vertical restante.\N\nSe desmarcado, o tamanho da altura será ajustado ao seu conteúdo.</RimHUD.Dialog_Config.Tab.Content.Selected.FilledDesc>
+            <RimHUD.Dialog_Presets.Title>Predefinições do Usuário</RimHUD.Dialog_Presets.Title>
+            <RimHUD.Dialog_Presets.Delete>Deletar</RimHUD.Dialog_Presets.Delete>
+            <RimHUD.Dialog_SavePreset.Title>Salvar Predefinição</RimHUD.Dialog_SavePreset.Title>
+            <RimHUD.Dialog_SavePreset.Name>Nome</RimHUD.Dialog_SavePreset.Name>
+            <RimHUD.Dialog_SavePreset.IncludeDocked>Incluir ancora</RimHUD.Dialog_SavePreset.IncludeDocked>
+            <RimHUD.Dialog_SavePreset.IncludeFloating>Incluir flutuação</RimHUD.Dialog_SavePreset.IncludeFloating>
+            <RimHUD.Dialog_SavePreset.IncludeHeight>Incluir altura</RimHUD.Dialog_SavePreset.IncludeHeight>
+            <RimHUD.Dialog_SavePreset.IncludeWidth>Incluir latgura</RimHUD.Dialog_SavePreset.IncludeWidth>
+            <RimHUD.Dialog_SavePreset.IncludeTabs>Incluir tabelas mínimas</RimHUD.Dialog_SavePreset.IncludeTabs>
+            <RimHUD.Layout.UserPreset>[User preset]</RimHUD.Layout.UserPreset>
+            <RimHUD.Layout.BuiltIn>[Built-in]</RimHUD.Layout.BuiltIn>
+            <RimHUD.Alert.ConfigReset>RimHUD atualizou para a versão {0} e exige que sua configuração seja redefinida para o padrão.</RimHUD.Alert.ConfigReset>
+            <RimHUD.Alert.SetToDefault>Tem certeza que deseja reverter todas as configurações para o padrão?</RimHUD.Alert.SetToDefault>
+            <RimHUD.Alert.InvalidLayout>Esta predefinição para RimHUD continha elementos inválidos ou elementos de outros mods que não estão mais ativos.\n\nA predefinição do HUD foi redefinida para o padrão.</RimHUD.Alert.InvalidLayout>
+            <RimHUD.Alert.Saved>Predefinição '{0}' salva.</RimHUD.Alert.Saved>
+            <RimHUD.Alert.ConfirmDelete>Tem a certeza que deseja deletar a predefinição '{0}'?</RimHUD.Alert.ConfirmDelete>
+            <RimHUD.Alert.NotImplemented>Este recurso ainda não foi implementado</RimHUD.Alert.NotImplemented>
+            <RimHUD.Alert.MoreComingSoon>Mais recursos em breve</RimHUD.Alert.MoreComingSoon>
+            <RimHUD.InspectPane.MedicalCare>Altere o nível de atendimento médico dado a este {0}.\n\nAtual: {1}</RimHUD.InspectPane.MedicalCare>
+
+        <!-- Integration -->
+            <RimHUD.Integration.PawnRules.RuleNameFormat>Regras: {0}</RimHUD.Integration.PawnRules.RuleNameFormat>
+
+        <!-- Model -->
+            <RimHUD.Model.RelationKindAndFaction>{0} {1}</RimHUD.Model.RelationKindAndFaction>
+            <RimHUD.Model.OfFaction>de {0}</RimHUD.Model.OfFaction>
+            <RimHUD.Model.Faction.Own>colono</RimHUD.Model.Faction.Own>
+            <RimHUD.Model.Faction.Wild>selvagem</RimHUD.Model.Faction.Wild>
+            <RimHUD.Model.Faction.Allied>aliado</RimHUD.Model.Faction.Allied>
+            <RimHUD.Model.Faction.Enemy>inimigo</RimHUD.Model.Faction.Enemy>
+            <RimHUD.Model.Faction.Hostile>hostil</RimHUD.Model.Faction.Hostile>
+            <RimHUD.Model.Faction.Independent>independente</RimHUD.Model.Faction.Independent>
+            <RimHUD.Model.Creature.Wild>criatura</RimHUD.Model.Creature.Wild>
+            <RimHUD.Model.Creature.Tame>animal</RimHUD.Model.Creature.Tame>
+            <RimHUD.Model.Creature.Stray>vira-lata</RimHUD.Model.Creature.Stray>
+            <RimHUD.Model.Creature.Pet>pet</RimHUD.Model.Creature.Pet>
+            <RimHUD.Model.Creature.ExoticPet>pet exótico</RimHUD.Model.Creature.ExoticPet>
+            <RimHUD.Model.Creature.Predator>predador</RimHUD.Model.Creature.Predator>
+            <RimHUD.Model.Creature.Hunt>animal de caça</RimHUD.Model.Creature.Hunt>
+            <RimHUD.Model.Creature.Pack>animal de carga</RimHUD.Model.Creature.Pack>
+            <RimHUD.Model.Creature.Farm>animal de fazenda</RimHUD.Model.Creature.Farm>
+            <RimHUD.Model.Creature.Herd>animal de rebanho</RimHUD.Model.Creature.Herd>
+            <RimHUD.Model.Creature.Insect>inseto</RimHUD.Model.Creature.Insect>
+            <RimHUD.Model.Creature.Unit>unidade</RimHUD.Model.Creature.Unit>
+            <RimHUD.Model.GenderAndAge>{0} com idade de {1}</RimHUD.Model.GenderAndAge>
+            <RimHUD.Model.Age.Birthday>(Aniversário hoje)</RimHUD.Model.Age.Birthday>
+            <RimHUD.Model.Age.Day>e um dia</RimHUD.Model.Age.Day>
+            <RimHUD.Model.Age.Days>e {0} dias</RimHUD.Model.Age.Days>
+            <RimHUD.Model.Health.Dead>Morto</RimHUD.Model.Health.Dead>
+            <RimHUD.Model.Health.Incapacitated>Incapacitado</RimHUD.Model.Health.Incapacitated>
+            <RimHUD.Model.Health.Bleed>Sangrando em {0}</RimHUD.Model.Health.Bleed>
+            <RimHUD.Model.Health.Tend>{0} condição precisa de cuidados</RimHUD.Model.Health.Tend>
+            <RimHUD.Model.Health.TendPlural>{0} condições precisam de cuidado</RimHUD.Model.Health.TendPlural>
+            <RimHUD.Model.Health.Threat>{0} condição de risco de vida</RimHUD.Model.Health.Threat>
+            <RimHUD.Model.Health.ThreatPlural>{0} condições de risco de vida </RimHUD.Model.Health.ThreatPlural>
+            <RimHUD.Model.Health.Affected>Afetado por {0}</RimHUD.Model.Health.Affected>
+            <RimHUD.Model.Health.AffectedPlural>Afetado por {0} e {1} outras condições</RimHUD.Model.Health.AffectedPlural>
+            <RimHUD.Model.Health.Stable>Saúde Estável</RimHUD.Model.Health.Stable>
+            <RimHUD.Model.Mood.ExtremeBreakImminent>Sentindo-se deprimido</RimHUD.Model.Mood.ExtremeBreakImminent>
+            <RimHUD.Model.Mood.MajorBreakImminent>Sentindo-se infeliz</RimHUD.Model.Mood.MajorBreakImminent>
+            <RimHUD.Model.Mood.MinorBreakImminent>Sentindo-se estressado</RimHUD.Model.Mood.MinorBreakImminent>
+            <RimHUD.Model.Mood.Happy>Sentindo-se feliz</RimHUD.Model.Mood.Happy>
+            <RimHUD.Model.Mood.Content>Sentindo-se contente</RimHUD.Model.Mood.Content>
+            <RimHUD.Model.Mood.Indifferent>Sentindo-se indiferente</RimHUD.Model.Mood.Indifferent>
+            <RimHUD.Model.Info.Activity>Atividade: {0}</RimHUD.Model.Info.Activity>
+            <RimHUD.Model.Info.Activity.Tooltip>{0}\n\n{1}\n\n{2}</RimHUD.Model.Info.Activity.Tooltip>
+            <RimHUD.Model.Info.Activity.WorkType>Trabalho: {0}</RimHUD.Model.Info.Activity.WorkType>
+            <RimHUD.Model.Info.Activity.RelevantSkills>Habilidades Relevantes: {0}</RimHUD.Model.Info.Activity.RelevantSkills>
+            <RimHUD.Model.Info.Attacking>Atacando {0}</RimHUD.Model.Info.Attacking>
+            <RimHUD.Model.Info.Queued>Fila: {0}</RimHUD.Model.Info.Queued>
+            <RimHUD.Model.Info.Equipped>Equipado: {0}</RimHUD.Model.Info.Equipped>
+            <RimHUD.Model.Info.Carrying>Carregando: {0}</RimHUD.Model.Info.Carrying>
+            <RimHUD.Model.Bio.Title>Título: {0}</RimHUD.Model.Bio.Title>
+            <RimHUD.Model.Bio.Faction>Facção: {0}</RimHUD.Model.Bio.Faction>
+            <RimHUD.Model.Bio.Master>Mestre: {0}</RimHUD.Model.Bio.Master>
+            <RimHUD.Model.Bio.Diet>Dieta: {0}</RimHUD.Model.Bio.Diet>
+            <RimHUD.Model.Bio.Trainability>Treinabilidade: {0}</RimHUD.Model.Bio.Trainability>
+            <RimHUD.Model.Bio.Wildness>Selvageria: {0}</RimHUD.Model.Bio.Wildness>
+            <RimHUD.Model.Bio.Petness>Mansidão: {0}</RimHUD.Model.Bio.Petness>
+            <RimHUD.Model.Selector.OutfitFormat>Vestuário: {0}</RimHUD.Model.Selector.OutfitFormat>
+            <RimHUD.Model.Selector.FoodFormat>Alimento: {0}</RimHUD.Model.Selector.FoodFormat>
+            <RimHUD.Model.Selector.TimetableFormat>Cronograma: {0}</RimHUD.Model.Selector.TimetableFormat>
+            <RimHUD.Model.Selector.SetTimeAssignment>Definir hora de {0} para {1}</RimHUD.Model.Selector.SetTimeAssignment>
+            <RimHUD.Model.Selector.AreaFormat>Área: {0}</RimHUD.Model.Selector.AreaFormat>
+            <RimHUD.Model.Selector.Manage>Gerenciar...</RimHUD.Model.Selector.Manage>
+            <RimHUD.Model.Component.Root>Base</RimHUD.Model.Component.Root>
+            <RimHUD.Model.Component.VStack>Pilha vertical</RimHUD.Model.Component.VStack>
+            <RimHUD.Model.Component.VStackFilled>Pilha vertical (preenchida)</RimHUD.Model.Component.VStackFilled>
+            <RimHUD.Model.Component.HStack>Pilha horizontal</RimHUD.Model.Component.HStack>
+            <RimHUD.Model.Component.HStackFilled>Pilha horizontal (preenchida)</RimHUD.Model.Component.HStackFilled>
+            <RimHUD.Model.Component.Panel>Painél</RimHUD.Model.Component.Panel>
+            <RimHUD.Model.Component.PanelFilled>Painél (preenchido)</RimHUD.Model.Component.PanelFilled>
+            <RimHUD.Model.Component.Row>Linha</RimHUD.Model.Component.Row>
+            <RimHUD.Model.Component.Blank>Em branco</RimHUD.Model.Component.Blank>
+            <RimHUD.Model.Component.Separator>Separador de linha</RimHUD.Model.Component.Separator>
+            <RimHUD.Model.Component.NameHeader>Nomear como cabeçalho</RimHUD.Model.Component.NameHeader>
+            <RimHUD.Model.Component.Outfit>Seletor de vestuário</RimHUD.Model.Component.Outfit>
+            <RimHUD.Model.Component.Food>Seletor de alimentação</RimHUD.Model.Component.Food>
+            <RimHUD.Model.Component.Rules>Seletor de regras (Requer Pawn Rules)</RimHUD.Model.Component.Rules>
+            <RimHUD.Model.Component.Timetable>Seletor de horário</RimHUD.Model.Component.Timetable>
+            <RimHUD.Model.Component.Area>Seletor de área</RimHUD.Model.Component.Area>
+            <RimHUD.Model.Component.RelationKindAndFaction>Tipo de relação e facção</RimHUD.Model.Component.RelationKindAndFaction>
+            <RimHUD.Model.Component.GenderAndAge>Gênero e idade</RimHUD.Model.Component.GenderAndAge>
+            <RimHUD.Model.Component.Health>Barra de saúde</RimHUD.Model.Component.Health>
+            <RimHUD.Model.Component.HealthCondition>Condição de saúde</RimHUD.Model.Component.HealthCondition>
+            <RimHUD.Model.Component.MindCondition>Condição mental</RimHUD.Model.Component.MindCondition>
+            <RimHUD.Model.Component.Stat>Dado {0}</RimHUD.Model.Component.Stat>
+            <RimHUD.Model.Component.Record>Registro {0}</RimHUD.Model.Component.Record>
+            <RimHUD.Model.Component.NeedMood>Barra de humor</RimHUD.Model.Component.NeedMood>
+            <RimHUD.Model.Component.NeedFood>Barra de alimentação</RimHUD.Model.Component.NeedFood>
+            <RimHUD.Model.Component.NeedRest>Barra de descanso</RimHUD.Model.Component.NeedRest>
+            <RimHUD.Model.Component.NeedRecreation>Barra de recreação</RimHUD.Model.Component.NeedRecreation>
+            <RimHUD.Model.Component.Need>Barra de {0}</RimHUD.Model.Component.Need>
+            <RimHUD.Model.Component.SkillShooting>Habilidade: atirar</RimHUD.Model.Component.SkillShooting>
+            <RimHUD.Model.Component.SkillMelee>Habilidade: corpo-a-corpo</RimHUD.Model.Component.SkillMelee>
+            <RimHUD.Model.Component.SkillConstruction>Habilidade: construção</RimHUD.Model.Component.SkillConstruction>
+            <RimHUD.Model.Component.SkillMining>Habilidade: mineração</RimHUD.Model.Component.SkillMining>
+            <RimHUD.Model.Component.SkillCooking>Habilidade: cozinhar</RimHUD.Model.Component.SkillCooking>
+            <RimHUD.Model.Component.SkillPlants>Habilidade: plantas</RimHUD.Model.Component.SkillPlants>
+            <RimHUD.Model.Component.SkillAnimals>Habilidade: animais</RimHUD.Model.Component.SkillAnimals>
+            <RimHUD.Model.Component.SkillCrafting>Habilidade: fabricação</RimHUD.Model.Component.SkillCrafting>
+            <RimHUD.Model.Component.SkillArtistic>Habilidade: artístico</RimHUD.Model.Component.SkillArtistic>
+            <RimHUD.Model.Component.SkillMedicine>Habilidade: medicina</RimHUD.Model.Component.SkillMedicine>
+            <RimHUD.Model.Component.SkillSocial>Habilidade: social</RimHUD.Model.Component.SkillSocial>
+            <RimHUD.Model.Component.SkillIntellectual>Habilitual: intelectual</RimHUD.Model.Component.SkillIntellectual>
+            <RimHUD.Model.Component.Skill>Habilidade {0}</RimHUD.Model.Component.Skill>
+            <RimHUD.Model.Component.Skill.PassionIndicator>★</RimHUD.Model.Component.Skill.PassionIndicator>
+            <RimHUD.Model.Component.TrainingTameness>Treinamento de docilidade</RimHUD.Model.Component.TrainingTameness>
+            <RimHUD.Model.Component.TrainingObedience>Treinameno de obediência</RimHUD.Model.Component.TrainingObedience>
+            <RimHUD.Model.Component.TrainingRelease>Treinamento de ataque</RimHUD.Model.Component.TrainingRelease>
+            <RimHUD.Model.Component.TrainingRescue>Treinamento de resgate</RimHUD.Model.Component.TrainingRescue>
+            <RimHUD.Model.Component.TrainingHaul>Treinamento de transporte</RimHUD.Model.Component.TrainingHaul>
+            <RimHUD.Model.Component.Training>Treinando {0}</RimHUD.Model.Component.Training>
+            <RimHUD.Model.Component.Master>Mestre</RimHUD.Model.Component.Master>
+            <RimHUD.Model.Component.Activity>Atividade</RimHUD.Model.Component.Activity>
+            <RimHUD.Model.Component.Queued>Fila</RimHUD.Model.Component.Queued>
+            <RimHUD.Model.Component.Equipped>Equipado</RimHUD.Model.Component.Equipped>
+            <RimHUD.Model.Component.Carrying>Carregando</RimHUD.Model.Component.Carrying>
+            <RimHUD.Model.Component.CompInfo>Informação adicional</RimHUD.Model.Component.CompInfo>
+            <RimHUD.Model.Component.Container.Filled>Preenchido</RimHUD.Model.Component.Container.Filled>
+            <RimHUD.Model.Target.PlayerHumanlike>Jogador Humano</RimHUD.Model.Target.PlayerHumanlike>
+            <RimHUD.Model.Target.OtherHumanlike>Outro Humano</RimHUD.Model.Target.OtherHumanlike>
+            <RimHUD.Model.Target.PlayerCreature>Criatura do Jogador</RimHUD.Model.Target.PlayerCreature>
+            <RimHUD.Model.Target.OtherCreature>Outra Criatura</RimHUD.Model.Target.OtherCreature>
+
+        <!-- Theme -->
+            <RimHUD.Theme.HudPosition>Posição do HUD</RimHUD.Theme.HudPosition>
+            <RimHUD.Theme.HudDocked>Encaixe para inspecionar o painel</RimHUD.Theme.HudDocked>
+            <RimHUD.Theme.HudDockedDesc>Requer que o painel de inspeção seja modificado.</RimHUD.Theme.HudDockedDesc>
+            <RimHUD.Theme.HudAnchor>Âncora</RimHUD.Theme.HudAnchor>
+            <RimHUD.Theme.HudAnchors>Superior Esquerdo|Centro Superior|Superior Direito|Centro Esquerdo|Centro|Centro Direita|Inferior Esquerdo|Centro Inferior|Inferior Direito</RimHUD.Theme.HudAnchors>
+            <RimHUD.Theme.HudOffsetX>X</RimHUD.Theme.HudOffsetX>
+            <RimHUD.Theme.HudOffsetY>Y</RimHUD.Theme.HudOffsetY>
+            <RimHUD.Theme.RefreshRate>Taxa de atualização</RimHUD.Theme.RefreshRate>
+            <RimHUD.Theme.RefreshRateDesc>A frequência com que o HUD será atualizado.</RimHUD.Theme.RefreshRateDesc>
+            <RimHUD.Theme.RefreshRateUnits>ms</RimHUD.Theme.RefreshRateUnits>
+            <RimHUD.Theme.HudDimensions>Dimensões do HUD</RimHUD.Theme.HudDimensions>
+            <RimHUD.Theme.HudWidth>Largura</RimHUD.Theme.HudWidth>
+            <RimHUD.Theme.HudHeight>Altura</RimHUD.Theme.HudHeight>
+            <RimHUD.Theme.TextOptions>Opções de Texto</RimHUD.Theme.TextOptions>
+            <RimHUD.Theme.TextStyleRegular>Normal</RimHUD.Theme.TextStyleRegular>
+            <RimHUD.Theme.TextStyleLarge>Cabeçalho</RimHUD.Theme.TextStyleLarge>
+            <RimHUD.Theme.TextStyleSmall>Descrição</RimHUD.Theme.TextStyleSmall>
+            <RimHUD.Theme.LabelWidth>Largura da Etiqueta</RimHUD.Theme.LabelWidth>
+            <RimHUD.Theme.ValueWidth>Valor de Largura</RimHUD.Theme.ValueWidth>
+            <RimHUD.Theme.InspectPane>Inspecionar Painel</RimHUD.Theme.InspectPane>
+            <RimHUD.Theme.InspectPaneModify>Modificar</RimHUD.Theme.InspectPaneModify>
+            <RimHUD.Theme.InspectPaneModifyDesc>Isso é necessário para o modo Âncora.</RimHUD.Theme.InspectPaneModifyDesc>
+            <RimHUD.Theme.InspectPaneAddLog>Mostrar registro do personagem</RimHUD.Theme.InspectPaneAddLog>
+            <RimHUD.Theme.InspectPaneAddLogDesc>Preenche o painel de inspeção com o registro do personagem selecionado. Disponível apenas em modos não Âncora.</RimHUD.Theme.InspectPaneAddLogDesc>
+            <RimHUD.Theme.InspectPaneHeight>Altura do Painel</RimHUD.Theme.InspectPaneHeight>
+            <RimHUD.Theme.InspectPaneMinTabs>Tabelas Mínimas</RimHUD.Theme.InspectPaneMinTabs>
+            <RimHUD.Theme.InspectPaneTabWidth>Largura da Tabela</RimHUD.Theme.InspectPaneTabWidth>
+            <RimHUD.Theme.OtherOptions>Outras Opções</RimHUD.Theme.OtherOptions>
+            <RimHUD.Theme.ShowDecimals>Mostrar Decimais</RimHUD.Theme.ShowDecimals>
+            <RimHUD.Theme.LetterPadding>Preenchimento de Carta</RimHUD.Theme.LetterPadding>
+            <RimHUD.Theme.LetterPaddingDesc>Altera a distância entre as notificações de cartas que aparecem no lado direito da tela. Vanilla: 12 </RimHUD.Theme.LetterPaddingDesc>
+            <RimHUD.Theme.LetterCompress>Comprimir Notificações</RimHUD.Theme.LetterCompress>
+            <RimHUD.Theme.LetterCompressDesc>Comprimirá todas as letras e alertas no lado direito da tela se eles se sobreporem ao HUD.</RimHUD.Theme.LetterCompressDesc>
+            <RimHUD.Theme.HudColors>Cores do HUD</RimHUD.Theme.HudColors>
+            <RimHUD.Theme.MainTextColor>Principal</RimHUD.Theme.MainTextColor>
+            <RimHUD.Theme.DisabledColor>Desabilitado</RimHUD.Theme.DisabledColor>
+            <RimHUD.Theme.CriticalColor>Crítico</RimHUD.Theme.CriticalColor>
+            <RimHUD.Theme.WarningColor>Aviso</RimHUD.Theme.WarningColor>
+            <RimHUD.Theme.InfoColor>Informação</RimHUD.Theme.InfoColor>
+            <RimHUD.Theme.GoodColor>Bom</RimHUD.Theme.GoodColor>
+            <RimHUD.Theme.ExcellentColor>Excelente</RimHUD.Theme.ExcellentColor>
+            <RimHUD.Theme.BarBackgroundColor>Fundo</RimHUD.Theme.BarBackgroundColor>
+            <RimHUD.Theme.BarMainColor>Principal</RimHUD.Theme.BarMainColor>
+            <RimHUD.Theme.BarLowColor>Baixo</RimHUD.Theme.BarLowColor>
+            <RimHUD.Theme.BarThresholdColor>Limite</RimHUD.Theme.BarThresholdColor>
+            <RimHUD.Theme.SelectorBackgroundColor>Seletor de Fundo</RimHUD.Theme.SelectorBackgroundColor>
+            <RimHUD.Theme.SelectorTextColor>Seletor de Texto</RimHUD.Theme.SelectorTextColor>
+            <RimHUD.Theme.LineColor>Linha</RimHUD.Theme.LineColor>
+            <RimHUD.Theme.FactionColors>Cores de Facções</RimHUD.Theme.FactionColors>
+            <RimHUD.Theme.FactionOwnColor>Própria</RimHUD.Theme.FactionOwnColor>
+            <RimHUD.Theme.FactionAlliedColor>Aliada</RimHUD.Theme.FactionAlliedColor>
+            <RimHUD.Theme.FactionIndependentColor>Independente</RimHUD.Theme.FactionIndependentColor>
+            <RimHUD.Theme.FactionHostileColor>Hostil</RimHUD.Theme.FactionHostileColor>
+            <RimHUD.Theme.FactionWildColor>Selvagem</RimHUD.Theme.FactionWildColor>
+            <RimHUD.Theme.SkillColors>Cores das Habilidades</RimHUD.Theme.SkillColors>
+            <RimHUD.Theme.SkillMinorPassionColor>Paixão: interessado</RimHUD.Theme.SkillMinorPassionColor>
+            <RimHUD.Theme.SkillMajorPassionColor>Paixão: ardente</RimHUD.Theme.SkillMajorPassionColor>
+            <RimHUD.Theme.SkillSaturatedColor>Aprendizado Saturado</RimHUD.Theme.SkillSaturatedColor>
+            <RimHUD.Theme.SkillActiveColor>Ativa</RimHUD.Theme.SkillActiveColor>
+            <RimHUD.TextStyle.Size>Tamanho</RimHUD.TextStyle.Size>
+            <RimHUD.TextStyle.Height>Altura</RimHUD.TextStyle.Height>
+    
     <!-- Vanilla Achievements Expanded -->
         <!-- VAE -->
             <VAE>Vanilla Achievements Expanded</VAE>
