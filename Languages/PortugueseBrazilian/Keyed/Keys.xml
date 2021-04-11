@@ -677,6 +677,89 @@
         <!-- Panel World Pawn List -->
             <EdB.PC.Panel.WorldPawnList.Title>Mundo</EdB.PC.Panel.WorldPawnList.Title>
 
+    <!-- HugsLib -->
+        <!-- Settings -->
+	        <HugsLib_settings_btn>Configurações de Mods</HugsLib_settings_btn>
+	        <HugsLib_settings_windowTitle>Configurações de Mods</HugsLib_settings_windowTitle>
+	        <HugsLib_settings_resetValue>Redefinir configurações</HugsLib_settings_resetValue>
+	        <HugsLib_settings_resetAll>Redefinir tudo</HugsLib_settings_resetAll>
+	        <HugsLib_settings_resetAll_prompt>Redefinir todas as configurações para seus valores originais?</HugsLib_settings_resetAll_prompt>
+	        <HugsLib_settings_noSettings>Nenhum mod com configurações estão carregados.</HugsLib_settings_noSettings>
+	        <HugsLib_settings_resetMod>Redefinir {0} configurações para seus valores inicias</HugsLib_settings_resetMod>
+	        <HugsLib_settings_resetMod_prompt>Redifiniar todas {0} configurações para seus valores originais?</HugsLib_settings_resetMod_prompt>
+	        <HugsLib_settings_resetIncludeHidden>Incluir configurações ocultas ({0})</HugsLib_settings_resetIncludeHidden>
+	        <HugsLib_settings_hiddenSettingsHeader>Configurações ocultas:</HugsLib_settings_hiddenSettingsHeader>
+	        <HugsLib_settings_resetSuccessMessage>{0} configurações foram redefinidas.</HugsLib_settings_resetSuccessMessage>
+	        <HugsLib_setting_showNews_label>Mostrar notas de atualização</HugsLib_setting_showNews_label>
+	        <HugsLib_setting_showNews_desc>Permite que os mods recém-instalados destaquem seus novos recursos em uma janela quando você inicia o jogo.</HugsLib_setting_showNews_desc>
+	        <HugsLib_setting_allNews_label>Todas as notas de atualização</HugsLib_setting_allNews_label>
+	        <HugsLib_setting_allNews_desc>Mostra todas as notas de atualização de mods disponíveis, incluindo aquelas que já foram exibidas.</HugsLib_setting_allNews_desc>
+	        <HugsLib_setting_allNews_button>Mostrar agora</HugsLib_setting_allNews_button>
+	        <HugsLib_setting_allNews_fail>Nenhum dos mods ativos tem notas de atualização para mostrar.</HugsLib_setting_allNews_fail>
+	        <HugsLib_setting_unnamed_mod>(mod não nomeado)</HugsLib_setting_unnamed_mod>
+	        <HugsLib_setting_show_settings>Mostrar configurações</HugsLib_setting_show_settings>
+	        <HugsLib_setting_mod_name_title>Configurações para {0}</HugsLib_setting_mod_name_title>
+	        <HugsLib_setting_expand_mod>Abrir</HugsLib_setting_expand_mod>
+	        <HugsLib_setting_collapse_mod>Fechar</HugsLib_setting_collapse_mod>
+	        <HugsLib_setting_quickstartSettings_label>Configuração de início rápido </HugsLib_setting_quickstartSettings_label>
+	        <HugsLib_setting_logPublisherSettings_label>Preferências de plubicação de registros</HugsLib_setting_logPublisherSettings_label>
+	        <HugsLib_setting_ignoredUpdateNews_label>Provedores de notas de atualização ignorados</HugsLib_setting_ignoredUpdateNews_label>
+	        <HugsLib_features_title>Novos Recursos</HugsLib_features_title>
+	        <HugsLib_features_description>As seguintes atualizações de mod foram instaladas e esses são os novos recursos e melhorias que os acompanham.\nVocê pode desabilitar esta caixa de diálogo em Opções &gt; Configurações de Mods</HugsLib_features_description>
+	        <HugsLib_features_update>{0} v.{1}</HugsLib_features_update>
+	        <HugsLib_features_link>Link</HugsLib_features_link>
+	        <HugsLib_features_linkDesc>Abre seu navegador em uma página onde você pode saber mais sobre esta atualização.n\ Endereço: {0}</HugsLib_features_linkDesc>
+	        <HugsLib_features_ignoreTooltip>Notificar sobre futuras atualizações deste mod</HugsLib_features_ignoreTooltip>
+	        <HugsLib_features_confirmIgnoreTitle>Confirmar</HugsLib_features_confirmIgnoreTitle>
+	        <HugsLib_features_confirmIgnore>Ignorar notas de atualizações futuras de {0}?\n\nPode ser reativado nas Opções do Mod &gt; Todas as notas de atualização</HugsLib_features_confirmIgnore>
+	        <HugsLib_features_filterBtn>Filtrar por mod</HugsLib_features_filterBtn>
+	        <HugsLib_features_filterStatus>Filtro atual: {0}</HugsLib_features_filterStatus>
+	        <HugsLib_features_filterAllMods>Todos os mods</HugsLib_features_filterAllMods>
+	        <HugsLib_features_filterDropdownEntry>{0} ({1} notas{2})</HugsLib_features_filterDropdownEntry>
+	        <HugsLib_features_filterIgnoredModSuffix>, ignorado</HugsLib_features_filterIgnoredModSuffix>
+	        <HugsLib_copiedToClipboard>Copiado para a área de transferência.</HugsLib_copiedToClipboard>
+	        <HugsLib_logs_copy>Copiar</HugsLib_logs_copy>
+	        <HugsLib_logs_shareBtn>Compartilhar</HugsLib_logs_shareBtn>
+	        <HugsLib_logs_shareConfirmTitle>Confirmar</HugsLib_logs_shareConfirmTitle>
+	        <HugsLib_logs_shareConfirmMessage>Publicar os registros do jogo agora ?\n\nIsso postará seus resgistros de jogo em um servidor público e fornecerá o link para compartilhar com outras pessoas. Isso é útil se você precisar de ajuda para resolver um problema ou quiser relatar um problema a um autor do mod.\n\nNenhuma informação privada será compartilhada.</HugsLib_logs_shareConfirmMessage>
+	        <HugsLib_logs_publisherTitle>Publicador de registros</HugsLib_logs_publisherTitle>
+	        <HugsLib_logs_uploading>Publicando{0}</HugsLib_logs_uploading>
+	        <HugsLib_logs_shortening>Gerando link{0}</HugsLib_logs_shortening>
+	        <HugsLib_logs_uploaded>Publicação completa!</HugsLib_logs_uploaded>
+	        <HugsLib_logs_uploadError>Erro de publicação: {0}</HugsLib_logs_uploadError>
+	        <HugsLib_logs_abortBtn>Abortar</HugsLib_logs_abortBtn>
+	        <HugsLib_logs_retryBtn>Tentar novamente</HugsLib_logs_retryBtn>
+	        <HugsLib_logs_browseBtn>Abrir no navegador</HugsLib_logs_browseBtn>
+	        <HugsLib_logs_useRecommendedSettings>Usar configurações recomendadas</HugsLib_logs_useRecommendedSettings>
+	        <HugsLib_logs_shortUrls>Usar encurtador de URL</HugsLib_logs_shortUrls>
+	        <HugsLib_logs_shortUrls_tip>Produz um link mais curto ao publicar. Não recomendado na Steam - links curtos são removidos automaticamente.</HugsLib_logs_shortUrls_tip>
+	        <HugsLib_logs_platformInfo>Incluir informações da plataforma</HugsLib_logs_platformInfo>
+	        <HugsLib_logs_platformInfo_tip>Inclui informações sobre sua CPU, memória e placa de vídeo no registro.</HugsLib_logs_platformInfo_tip>
+	        <HugsLib_logs_unlimitedLogSize>Permitir tamanho ilimitado do registro</HugsLib_logs_unlimitedLogSize>
+	        <HugsLib_logs_unlimitedLogSize_tip>Quando desativado, o tamanho do registro é limitado a 10mil linhas para evitar que registros muito longos causem problemas.</HugsLib_logs_unlimitedLogSize_tip>
+	        <HugsLib_logs_toClipboardBtn>Para a área de transferência </HugsLib_logs_toClipboardBtn>
+	        <HugsLib_logs_uploadBtn>Publicar</HugsLib_logs_uploadBtn>
+	        <HugsLib_logs_filesBtn>Arquivos</HugsLib_logs_filesBtn>
+	        <HugsLib_logs_openLogFile>Abrir arquivos de registros</HugsLib_logs_openLogFile>
+	        <HugsLib_logs_openSaveDir>Abrir pasta de jogos salvos</HugsLib_logs_openSaveDir>
+	        <HugsLib_logs_openModsDir>Abrir pasta de mods</HugsLib_logs_openModsDir>
+	        <HugsLib_restart_language_text>A linguagem do jogo mudou. O jogo será reiniciado automaticamente.</HugsLib_restart_language_text>
+	        <HugsLib_loadOrderWarning_title>Ordem de carregamento de mod inadequada</HugsLib_loadOrderWarning_title>
+	        <HugsLib_loadOrderWarning_text>&lt;b&gt;O mod HugsLib &lt;/b&gt; deve sempre ser carregado após o &lt;b&gt;Core&lt;/b&gt; para evitar problemas.\nAjuste a ordem do mod no menu mods e reinicie o jogo</HugsLib_loadOrderWarning_text>
+	        <HugsLib_updateRequired_title>Atualização da biblioteca necessária</HugsLib_updateRequired_title>
+	        <HugsLib_updateRequired_text>&lt;b&gt;{0}&lt;/b&gt; requer versão &lt;b&gt;{1}&lt;/b&gt; da &lt;b&gt;biblioteca HugsLib&lt;/b&gt; para funcionar corretamente.\n\nVocê gostaria de atualizá-la agora?</HugsLib_updateRequired_text>
+	        <HugsLib_updateRequired_updateBtn>Atualizar agora</HugsLib_updateRequired_updateBtn>
+	        <test_enumSetting_DefaultValue>Valor Padrão</test_enumSetting_DefaultValue>
+	        <test_enumSetting_ValueOne>Valor Um</test_enumSetting_ValueOne>
+	        <test_enumSetting_ValueTwo>Valor Dois</test_enumSetting_ValueTwo>
+
+    <!-- Jewelry -->
+        <!-- Settings -->
+            <JewelrySettingsCategoryLabel>Jewelry</JewelrySettingsCategoryLabel>
+            <shouldJewelryBoostMood>Vesitr joias dá bônus de humor.</shouldJewelryBoostMood>
+            <explanationRToggle>Reativar o requerimento de joias por nobres.</explanationRToggle>
+            <shouldJewelryNeed>Personagens nobres requerem joias.</shouldJewelryNeed>
+
     <!-- Vanilla Achievements Expanded -->
         <!-- VAE -->
             <VAE>Vanilla Achievements Expanded</VAE>
@@ -716,13 +799,6 @@
         <!-- Random Quest Reward Item -->
             <RandomQuestRewardItemLetter>Item de Missão</RandomQuestRewardItemLetter>
             <RandomQuestRewardItem>O item de missão aleatório chegou!</RandomQuestRewardItem>
-
-    <!-- Jewelry -->
-        <!-- Settings -->
-            <JewelrySettingsCategoryLabel>Jewelry</JewelrySettingsCategoryLabel>
-            <shouldJewelryBoostMood>Vesitr joias dá bônus de humor.</shouldJewelryBoostMood>
-            <explanationRToggle>Reativar o requerimento de joias por nobres.</explanationRToggle>
-            <shouldJewelryNeed>Personagens nobres requerem joias.</shouldJewelryNeed>
 
     <!-- Vanilla Events Expanded -->
         <!-- Animal Transport Pod Crash -->
