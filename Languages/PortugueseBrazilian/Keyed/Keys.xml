@@ -944,7 +944,7 @@
 
     <!-- Vanilla Fishing Expanded -->
     	<!-- Fishing Growing Zone -->
-            <VCEF_FishingGrowingZone>Área de pesca</VCEF_FishingGrowingZone>
+            <VCEF_FishingGrowingZone>Zona de pesca</VCEF_FishingGrowingZone>
 	        <VCEF_FishingGrowingZoneDesc>Crie uma área onde seus colonos tentarão pescar</VCEF_FishingGrowingZoneDesc>
 
         <!-- Choose Fish -->
