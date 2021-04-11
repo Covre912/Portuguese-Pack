@@ -150,6 +150,21 @@
             <VMEu_Concrete.label>mistura de concreto</VMEu_Concrete.label>
             <VMEu_Concrete.description>Pedra reforçada com pó de ferro, quando combinada com areia e água torna-se dura o suficiente para contrução de estruturas, não tão resistente aos impactos, mas incrivelmente resistente ao fogo.</VMEu_Concrete.description>
 
+	<!-- Jewelry -->
+		<!-- Diamond -->
+  			<Diamond.label>diamante</Diamond.label>
+  			<Diamond.description>Essa gema semi-transparente é comumente utilizada como uma comodidade de luxo. Essa gema semi-transparente é comumente utilizada com uma comidade de luxo. Pode ser usada para criar joias valiosas. Onde quer que sejam mineradas, pessoas sofrem.</Diamond.description>
+  			<Diamond.stuffProps.stuffAdjective>diamante</Diamond.stuffProps.stuffAdjective>
+
+		<!-- Ruby -->
+  			<Ruby.label>rubi</Ruby.label>
+  			<Ruby.description>Essa gema vermelha é comumente utilizada como uma comodidade de luxo. Pode ser usada para criar joias valiosas.</Ruby.description>
+  			<Ruby.stuffProps.stuffAdjective>rubi</Ruby.stuffProps.stuffAdjective>
+
+		<!-- Sapphire -->
+  			<Sapphire.label>safira</Sapphire.label>
+  			<Sapphire.description>Essa gema azul é comumente utilizada como uma comidade de luxo. Pode ser usada para criar joias valiosas.</Sapphire.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Component -->
             <VFE_ComponentMechanoid.label>componente mecanóide</VFE_ComponentMechanoid.label>

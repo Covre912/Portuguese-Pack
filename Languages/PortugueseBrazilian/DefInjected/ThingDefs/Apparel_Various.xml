@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Jewelry -->
+        <!-- Gold Bracelet -->
+            <Jewelry_Bracelet.label>bracelete de ouro</Jewelry_Bracelet.label>
+            <Jewelry_Bracelet.description>Um lindo bracelete feito de ouro e uma gema valiosa. Melhora as habilidades sociais e a beleza de quem o usa.</Jewelry_Bracelet.description>
+
+        <!-- Silver Bracelet -->
+            <Jewelry_Bracelet_Silver.label>bracelete de prata</Jewelry_Bracelet_Silver.label>
+            <Jewelry_Bracelet_Silver.description>Um lindo bracelete feito de prata e uma gema valiosa. Melhora as habilidades sociais e a beleza de quem o usa.</Jewelry_Bracelet_Silver.description>
+
+        <!-- Gold Earrings -->
+            <Jewelry_Earring.label>brincos de ouro</Jewelry_Earring.label>
+            <Jewelry_Earring.description>Um lindo par de brincos feitos de ouro e uma gema valiosa. Melhora as habilidades sociais, a oratória e a beleza de quem o usa.</Jewelry_Earring.description>
+
+        <!-- Silver Earrings -->
+            <Jewelry_Earring_Silver.label>brincos de prata</Jewelry_Earring_Silver.label>
+            <Jewelry_Earring_Silver.description>Um lindo par de brincos feitos de prata e uma gema valiosa. Melhora as habilidades sociais, a oratória e a beleza de quem o usa.</Jewelry_Earring_Silver.description>
+
+        <!-- Gold Necklace -->
+            <Jewelry_Necklace.label>colar de ouro</Jewelry_Necklace.label>
+            <Jewelry_Necklace.description>Um lindo colar feito de ouro e uma gema valiosa. Melhora as habilidades sociais, a oratória e a beleza de quem o usa.</Jewelry_Necklace.description>
+
+        <!-- Gold Psychic Necklace -->
+            <Jewelry_PsychicNecklace.label>colar de ouro eltex</Jewelry_PsychicNecklace.label>
+            <Jewelry_PsychicNecklace.description>Um lindo colar feito de ouro e uma gema valiosa. Melhora as habilidades sociais, a oratória e a beleza de quem o usa. Esse colar em particular é feito para o foco psíquico. Enquanto fornece pouca proteção psíquica, seus materiais especiais aumentam a sensibilidade psíquica do usuário e dissipam o calor neural.</Jewelry_PsychicNecklace.description>
+
+        <!-- Silver Necklace -->
+            <Jewelry_Necklace_Silver.label>colar de prata</Jewelry_Necklace_Silver.label>
+            <Jewelry_Necklace_Silver.description>Um lindo colar feito de prata e uma gema valiosa. Melhora as habilidades sociais, a oratória e a beleza de quem o usa.</Jewelry_Necklace_Silver.description>
+
+        <!-- Silver Pshycic Neclace -->
+            <Jewelry_PsychicNecklae_Silver.label>colar de prata eltex</Jewelry_PsychicNecklae_Silver.label>
+            <Jewelry_PsychicNecklace_Silver.description>Um lindo colar feito de prata e uma gema valiosa. Melhora as habilidades sociais, a oratória e a beleza de quem o usa. Esse colar em particular é feito para o foco psíquico. Enquanto fornece pouca proteção psíquica, seus materiais especiais aumentam a sensibilidade psíquica do usuário e dissipam o calor neural.</Jewelry_PsychicNecklace_Silver.description>
+
+        <!-- Gold Ring -->
+            <Jewelry_Ring.label>anel de ouro</Jewelry_Ring.label>
+            <Jewelry_Ring.description>Um lindo anel feito de ouro e uma gema valiosa. Melhora o impacto social de quem o usa.</Jewelry_Ring.description>
+
+        <!-- Silver Ring -->
+            <Jewelry_Ring_Silver.label>anel de prata</Jewelry_Ring_Silver.label>
+            <Jewelry_Ring_Silver.description>Um lindo anel feito de prata e uma gema valiosa. Melhora o impacto social de quem o usa.</Jewelry_Ring_Silver.description>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Heavy Plate Armor -->
             <VFEM_Apparel_PlateArmorHeavy.label>armadura de placas pesada</VFEM_Apparel_PlateArmorHeavy.label>

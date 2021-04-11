@@ -25,5 +25,10 @@
             <creditee>Rasutei</creditee>
         </li>
 
+        <li Class="CreditRecord_Role">
+            <roleKey>Credit_Translator</roleKey>
+            <creditee>Sr.dino</creditee>
+        </li>
+
     </credits>
 </LanguageInfo>

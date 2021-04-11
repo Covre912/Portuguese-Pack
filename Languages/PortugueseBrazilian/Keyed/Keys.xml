@@ -717,6 +717,13 @@
             <RandomQuestRewardItemLetter>Item de Missão</RandomQuestRewardItemLetter>
             <RandomQuestRewardItem>O item de missão aleatório chegou!</RandomQuestRewardItem>
 
+    <!-- Jewelry -->
+        <!-- Settings -->
+            <JewelrySettingsCategoryLabel>Jewelry</JewelrySettingsCategoryLabel>
+            <shouldJewelryBoostMood>Vesitr joias dá bônus de humor.</shouldJewelryBoostMood>
+            <explanationRToggle>Reativar o requerimento de joias por nobres.</explanationRToggle>
+            <shouldJewelryNeed>Personagens nobres requerem joias.</shouldJewelryNeed>
+
     <!-- Vanilla Events Expanded -->
         <!-- Animal Transport Pod Crash -->
             <LetterLabelAnimalPodCrash>Queda de cápsula de transporte de animal</LetterLabelAnimalPodCrash>

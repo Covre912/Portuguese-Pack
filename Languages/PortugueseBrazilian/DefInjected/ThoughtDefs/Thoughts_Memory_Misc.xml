@@ -60,6 +60,23 @@
  			<NeedBeautyAesthete.stages.5.label>ambiente belo</NeedBeautyAesthete.stages.5.label>
             <NeedBeautyAesthete.stages.5.description>Este lugar é lindo. Eleva meu espírito e me faz amar a vida.</NeedBeautyAesthete.stages.5.description>
 
+    <!-- Jewelry -->
+        <!-- Wearing Jewelry -->
+            <WearingJewelry.stages.0.label>Vestindo joia</WearingJewelry.stages.0.label>
+            <WearingJewelry.stages.0.description>Eu estou vestindo uma joia valiosa.</WearingJewelry.stages.0.description>
+            <WearingJewelry.stages.1.label>Vestindo joia</WearingJewelry.stages.1.label>
+            <WearingJewelry.stages.1.description>Eu estou vestindo uma joia valiosa.</WearingJewelry.stages.1.description>
+            <WearingJewelry.stages.2.label>Vestindo joia</WearingJewelry.stages.2.label>
+            <WearingJewelry.stages.2.description>Eu estou vestindo uma joia valiosa.</WearingJewelry.stages.2.description>
+
+        <!-- Wearing HQ Jewelry -->
+            <WearingHQJewelry.stages.0.label>Vestindo joia</WearingHQJewelry.stages.0.label>
+            <WearingHQJewelry.stages.0.description>Eu estou vestindo uma joia de altíssima qualidade.</WearingHQJewelry.stages.0.description>
+            <WearingHQJewelry.stages.1.label>Vestindo joia</WearingHQJewelry.stages.1.label>
+            <WearingHQJewelry.stages.1.description>Eu estou vestindo uma joia de altíssima qualidade.</WearingHQJewelry.stages.1.description>
+            <WearingHQJewelry.stages.2.label>Vestindo joia</WearingHQJewelry.stages.2.label>
+            <WearingHQJewelry.stages.2.description>Eu estou vestindo uma joia de altíssima qualidade.</WearingHQJewelry.stages.2.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Aurora -->
             <Aurora.stages.0.label>aurora linda</Aurora.stages.0.label>

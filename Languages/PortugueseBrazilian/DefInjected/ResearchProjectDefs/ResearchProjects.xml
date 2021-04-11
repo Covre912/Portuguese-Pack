@@ -31,6 +31,15 @@
             <VMEu_PlasteelAlloying.label>liga de plastiaço</VMEu_PlasteelAlloying.label>
             <VMEu_PlasteelAlloying.description>Descubra como sintetizar plastiaço a partir de vários produtos químicos.</VMEu_PlasteelAlloying.description>
 
+    <!-- Jewelry -->
+        <!-- Laser Sculpting -->
+            <LaserSculpting.label>mesa de escultura a laser</LaserSculpting.label>
+            <LaserSculpting.description>Mesa de escultura a laser elétrica que possui 150% da velocidade de uma mesa comum.</LaserSculpting.description>
+
+        <!-- Jewelry -->
+            <Jewelry.label>joalheria</Jewelry.label>
+            <Jewelry.description>Aprenda como fazer joias.</Jewelry.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Factory Basics -->
             <VFE_FactoryBasics.label>fundamentos da fábrica</VFE_FactoryBasics.label>

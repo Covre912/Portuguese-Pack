@@ -108,6 +108,23 @@
             <VMEu_AdvancedSmelter.label>fundição avançada</VMEu_AdvancedSmelter.label>
             <VMEu_AdvancedSmelter.description>Uma enorme fundição de pedra, equipada com tecnologia suficiente para calcular os materiais e calor necessários para fazer os metais mais complexos.\n\nRequer uma grande quantidade de eletricidade para funcionar, além de um uso extra de combustível.</VMEu_AdvancedSmelter.description>
 
+    <!-- Jewelry -->
+        <!-- Diamond Ore -->
+            <MineableDiamond.label>minério de diamante</MineableDiamond.label>
+            <MineableDiamond.description>Rocha contendo pedaços de diamante.</MineableDiamond.description>
+
+        <!-- Ruby Ore -->
+            <MineableRuby.label>minério de rubi</MineableRuby.label>
+            <MineableRuby.description>Rocha contendo pedaços de rubi.</MineableRuby.description>
+
+        <!-- Sapphire Ore -->
+            <MineableSapphire.label>minério de safira</MineableSapphire.label>
+            <MineableSapphire.description>Rocha contendo pedaços de safira</MineableSapphire.description>
+
+        <!-- Laser Table Sculpting -->
+            <LaserTableSculpting.label>mesa de escultura a laser</LaserTableSculpting.label>
+            <LaserTableSculpting.description>Uma mesa de alta tecnologia com um cortador a laser robótico. Permite a criação de joias valiosas.</LaserTableSculpting.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Ship Chunk -->
             <VEE_ShipChunkHuman.label>pedaço de nave</VEE_ShipChunkHuman.label>
