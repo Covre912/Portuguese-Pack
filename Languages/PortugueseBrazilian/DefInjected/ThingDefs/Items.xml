@@ -153,7 +153,7 @@
 	<!-- Jewelry -->
 		<!-- Diamond -->
   			<Diamond.label>diamante</Diamond.label>
-  			<Diamond.description>Essa gema semi-transparente é comumente utilizada como uma comodidade de luxo. Essa gema semi-transparente é comumente utilizada com uma comidade de luxo. Pode ser usada para criar joias valiosas. Onde quer que sejam mineradas, pessoas sofrem.</Diamond.description>
+  			<Diamond.description>Essa gema semi-transparente é comumente utilizada como uma comodidade de luxo. Pode ser usada para criar joias valiosas. Onde quer que sejam mineradas, pessoas sofrem.</Diamond.description>
   			<Diamond.stuffProps.stuffAdjective>diamante</Diamond.stuffProps.stuffAdjective>
 
 		<!-- Ruby -->
