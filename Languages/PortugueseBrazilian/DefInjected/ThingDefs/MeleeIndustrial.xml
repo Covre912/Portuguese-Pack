@@ -41,7 +41,7 @@
 
     <!-- Vanilla Weapons Expanded - Non-Lethal -->
         <!-- Stun Baton -->
-            <VWE_MeleeWeapon_StunBaton.label>bastão</VWE_MeleeWeapon_StunBaton.label>
+            <VWE_MeleeWeapon_StunBaton.label>cacetete de choque</VWE_MeleeWeapon_StunBaton.label>
             <VWE_MeleeWeapon_StunBaton.description>Um bastão curto de manutenção da paz que aplica um choque elétrico com o objetivo de interromper temporariamente as funções musculares.</VWE_MeleeWeapon_StunBaton.description>
             <VWE_MeleeWeapon_StunBaton.tools.0.label>cabo</VWE_MeleeWeapon_StunBaton.tools.0.label>
             <VWE_MeleeWeapon_StunBaton.tools.1.label>cabeça</VWE_MeleeWeapon_StunBaton.tools.1.label>

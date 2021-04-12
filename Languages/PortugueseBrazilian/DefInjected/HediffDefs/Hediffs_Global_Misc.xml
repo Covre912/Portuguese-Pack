@@ -71,6 +71,15 @@
             <Wanted.description>Considerado um criminoso por uma facção.</Wanted.description>
             <Wanted.stages.0.label>procurado</Wanted.stages.0.label>
 
+    <!-- Vanilla Fishing Expanded -->
+        <!-- Pufferfish -->
+            <VCE_AteRawPufferfish.label>comeu baiacu cru recentemente</VCE_AteRawPufferfish.label>
+            <VCE_AteRawPufferfish.description>Você não morreu. Desta vez.</VCE_AteRawPufferfish.description>
+
+        <!-- Special -->
+            <VCEF_CaughtSpecialHediff.label>pescou algo especial recentemente</VCEF_CaughtSpecialHediff.label>
+            <VCEF_CaughtSpecialHediff.description>Esta pessoa pescou algo especial.</VCEF_CaughtSpecialHediff.description>
+
     <!-- Vanilla Traits Expanded -->
         <!-- Rebelling -->
             <VTE_SlowWorkSpeed.label>Rebelando</VTE_SlowWorkSpeed.label>
