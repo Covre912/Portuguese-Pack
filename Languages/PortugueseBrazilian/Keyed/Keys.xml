@@ -787,7 +787,7 @@
             <RimHUD.Dialog_Config.Tab.Content.Preset.DefaultLoaded>Predefinição definida para padrão.</RimHUD.Dialog_Config.Tab.Content.Preset.DefaultLoaded>
             <RimHUD.Dialog_Config.Tab.Content.Preset.Loaded>Predefinição para o mod '{0}' carregado .</RimHUD.Dialog_Config.Tab.Content.Preset.Loaded>
             <RimHUD.Dialog_Config.Tab.Content.Mode>Modo {0}</RimHUD.Dialog_Config.Tab.Content.Mode>
-            <RimHUD.Dialog_Config.Tab.Content.Mode.Docked>Ancora</RimHUD.Dialog_Config.Tab.Content.Mode.Docked>
+            <RimHUD.Dialog_Config.Tab.Content.Mode.Docked>Âncora</RimHUD.Dialog_Config.Tab.Content.Mode.Docked>
             <RimHUD.Dialog_Config.Tab.Content.Mode.Floating>Flutuação</RimHUD.Dialog_Config.Tab.Content.Mode.Floating>
             <RimHUD.Dialog_Config.Tab.Content.Editor>Editor de HUD ({0})</RimHUD.Dialog_Config.Tab.Content.Editor>
             <RimHUD.Dialog_Config.Tab.Content.Layout>Predefinição</RimHUD.Dialog_Config.Tab.Content.Layout>
@@ -816,7 +816,7 @@
             <RimHUD.Dialog_Presets.Delete>Deletar</RimHUD.Dialog_Presets.Delete>
             <RimHUD.Dialog_SavePreset.Title>Salvar Predefinição</RimHUD.Dialog_SavePreset.Title>
             <RimHUD.Dialog_SavePreset.Name>Nome</RimHUD.Dialog_SavePreset.Name>
-            <RimHUD.Dialog_SavePreset.IncludeDocked>Incluir ancora</RimHUD.Dialog_SavePreset.IncludeDocked>
+            <RimHUD.Dialog_SavePreset.IncludeDocked>Incluir âncora</RimHUD.Dialog_SavePreset.IncludeDocked>
             <RimHUD.Dialog_SavePreset.IncludeFloating>Incluir flutuação</RimHUD.Dialog_SavePreset.IncludeFloating>
             <RimHUD.Dialog_SavePreset.IncludeHeight>Incluir altura</RimHUD.Dialog_SavePreset.IncludeHeight>
             <RimHUD.Dialog_SavePreset.IncludeWidth>Incluir latgura</RimHUD.Dialog_SavePreset.IncludeWidth>

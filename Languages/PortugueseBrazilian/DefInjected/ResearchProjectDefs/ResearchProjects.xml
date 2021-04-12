@@ -136,6 +136,11 @@
             <VWE_MassDrivers.label>fatores de magnitude</VWE_MassDrivers.label>
             <VWE_MassDrivers.description>Crie armas que utilizam eletroímãs para alavancar o tiro até a hipervelocidade, penetrando armaduras grossas e perfurando alvos semelhantes. Note que as armas requerem componentes avançados.</VWE_MassDrivers.description>
 
+    <!-- Vanilla Weapons Expanded - Frontier -->
+        <!-- Frontier Weapons -->
+            <VWEFT_FrontierWeapons.label>armas de fronteira</VWEFT_FrontierWeapons.label>
+            <VWEFT_FrontierWeapons.description>Crie armas de fronteira como revólveres, rifles e espingardas.</VWEFT_FrontierWeapons.description>
+
     <!-- Vanilla Weapons Expanded - Laser -->
         <!-- Salvaged Laser Weapons -->
             <VWE_LaserWeapons.label>armas laser recuperadas</VWE_LaserWeapons.label>

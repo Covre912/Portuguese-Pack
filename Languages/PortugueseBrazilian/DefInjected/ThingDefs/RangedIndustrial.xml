@@ -169,6 +169,62 @@
             <VWE_Gun_AntiMaterialRifle.tools.1.label>cano</VWE_Gun_AntiMaterialRifle.tools.1.label>
             <Bullet_AntiMaterialRifle.label>tiro de rifle anti-material</Bullet_AntiMaterialRifle.label>
 
+    <!-- Vanilla Weapons Expanded - Frontiers -->
+        <!-- Heavy Revolver -->
+            <VWEFT_Gun_HeavyRevolver.label>revólver pesado</VWEFT_Gun_HeavyRevolver.label>
+            <VWEFT_Gun_HeavyRevolver.description>Um favorito pelo seu poder de fogo e alcance.\n\nPistoleiros implicam que esta arma é passível de ocasionais tiros incrivelmente sortudos.</VWEFT_Gun_HeavyRevolver.description>
+            <VWEFT_Gun_HeavyRevolver.tools.0.label>coronha</VWEFT_Gun_HeavyRevolver.tools.0.label>
+            <VWEFT_Gun_HeavyRevolver.tools.1.label>cano</VWEFT_Gun_HeavyRevolver.tools.1.label>
+            <VWEFT_Bullet_HeavyRevolver.label>tiro de revólver pesado</VWEFT_Bullet_HeavyRevolver.label>
+
+        <!-- Volcanic Pistol -->
+            <VWEFT_Gun_VolcanicPistol.label>pistola impetuosa</VWEFT_Gun_VolcanicPistol.label>
+            <VWEFT_Gun_VolcanicPistol.description>Uma pistola ornamentada destinada a fornecer a força de um rifle com a portabilidade de um revólver.\n\nPistoleiros implicam que esta arma é passível de ocasionais tiros incrivelmente sortudos.</VWEFT_Gun_VolcanicPistol.description>
+            <VWEFT_Gun_VolcanicPistol.tools.0.label>coronha</VWEFT_Gun_VolcanicPistol.tools.0.label>
+            <VWEFT_Gun_VolcanicPistol.tools.1.label>cano</VWEFT_Gun_VolcanicPistol.tools.1.label>
+            <VWEFT_Bullet_VolcanicPistol.label>tiro de pistola impetuosa</VWEFT_Bullet_VolcanicPistol.label>
+
+        <!-- Fronier Pistol -->
+            <VWEFT_Gun_FrontierPistol.label>pistola de infantaria</VWEFT_Gun_FrontierPistol.label>
+            <VWEFT_Gun_FrontierPistol.description>Uma variante ornamentada de uma pistola comum, eficaz em curtas e médias distâncias.\n\nPistoleiros implicam que esta arma é passível de ocasionais tiros incrivelmente sortudos.</VWEFT_Gun_FrontierPistol.description>
+            <VWEFT_Gun_FrontierPistol.tools.0.label>coronha</VWEFT_Gun_FrontierPistol.tools.0.label>
+            <VWEFT_Gun_FrontierPistol.tools.1.label>cano</VWEFT_Gun_FrontierPistol.tools.1.label>
+            <VWEFT_Bullet_FrontierPistol.label>tiro de pistola de infantaria</VWEFT_Bullet_FrontierPistol.label>
+
+        <!-- Rolling Block Rifle -->
+            <VWEFT_Gun_RollingBlockRifle.label>rifle de bloco pivotante</VWEFT_Gun_RollingBlockRifle.label>
+            <VWEFT_Gun_RollingBlockRifle.description>Um rifle de atirador de alta potência ornamentado originalmente projetado para despachar um múfalo com um único tiro.\n\nPistoleiros implicam que esta arma é passível de ocasionais tiros incrivelmente sortudos.</VWEFT_Gun_RollingBlockRifle.description>
+            <VWEFT_Gun_RollingBlockRifle.tools.0.label>coronha</VWEFT_Gun_RollingBlockRifle.tools.0.label>
+            <VWEFT_Gun_RollingBlockRifle.tools.1.label>cano</VWEFT_Gun_RollingBlockRifle.tools.1.label>
+            <VWEFT_Bullet_RollingBlockRifle.label>tiro de rifle de bloco pivotante</VWEFT_Bullet_RollingBlockRifle.label>
+
+        <!-- Repeating Shotgun -->
+            <VWEFT_Gun_RepeatingShotgun.label>espingarda de repetição</VWEFT_Gun_RepeatingShotgun.label>
+            <VWEFT_Gun_RepeatingShotgun.description>Uma espingarda ornamentada e surpreendentemente portátil.\n\nPistoleiros implicam que esta arma é passível de ocasionais tiros incrivelmente sortudos.</VWEFT_Gun_RepeatingShotgun.description>
+            <VWEFT_Gun_RepeatingShotgun.tools.0.label>coronha</VWEFT_Gun_RepeatingShotgun.tools.0.label>
+            <VWEFT_Gun_RepeatingShotgun.tools.1.label>cano</VWEFT_Gun_RepeatingShotgun.tools.1.label>
+            <VWEFT_Bullet_RepeatingShotgun.label>tiro de espingarda de repetição</VWEFT_Bullet_RepeatingShotgun.label>
+
+        <!-- Handheld Gatling Gun -->
+            <VWEFT_Gun_HandheldGatlingGun.label>metralhadora portátil</VWEFT_Gun_HandheldGatlingGun.label>
+            <VWEFT_Gun_HandheldGatlingGun.description>Uma arma pesada concebida como uma torre portátil, desmontada de sua base e agora carregável.</VWEFT_Gun_HandheldGatlingGun.description>
+            <VWEFT_Gun_HandheldGatlingGun.tools.0.label>cano</VWEFT_Gun_HandheldGatlingGun.tools.0.label>
+            <VWEFT_Bullet_HandheldGatlingGun.label>tiro de metralhadora portátil</VWEFT_Bullet_HandheldGatlingGun.label>
+
+        <!-- Derringer -->
+            <VWEFT_Gun_Derringer.label>deringer</VWEFT_Gun_Derringer.label>
+            <VWEFT_Gun_Derringer.description>Uma pistola ornamentada, facilmente ocultável, destinada a incapacitar humanos agressivos e animais selvagens.\n\nPistoleiros implicam que esta arma é passível de ocasionais tiros incrivelmente sortudos.</VWEFT_Gun_Derringer.description>
+            <VWEFT_Gun_Derringer.tools.0.label>coronha</VWEFT_Gun_Derringer.tools.0.label>
+            <VWEFT_Gun_Derringer.tools.1.label>cano</VWEFT_Gun_Derringer.tools.1.label>
+            <VWEFT_Bullet_Derringer.label>tiro de deringer</VWEFT_Bullet_Derringer.label>
+
+        <!-- Lever-Action Shotgun -->
+            <VWEFT_Gun_LeverActionShotgun.label>espingarda de alavanca</VWEFT_Gun_LeverActionShotgun.label>
+            <VWEFT_Gun_LeverActionShotgun.description>Uma espingarda simples ornamentada de carregamento rápido, usada frequência para defender as fronteiras.\n\nDonos de lojas implicam que esta arma é passível de ocasionais tiros incrivelmente sortudos.</VWEFT_Gun_LeverActionShotgun.description>
+            <VWEFT_Gun_LeverActionShotgun.tools.0.label>coronha</VWEFT_Gun_LeverActionShotgun.tools.0.label>
+            <VWEFT_Gun_LeverActionShotgun.tools.1.label>cano</VWEFT_Gun_LeverActionShotgun.tools.1.label>
+            <VWEFT_Bullet_LeverActionShotgun.label>tiro de espingarda de alavanca</VWEFT_Bullet_LeverActionShotgun.label>
+
     <!-- Vanilla Weapons Expanded - Heavy Weapons -->
         <!-- Autocannon -->
             <VWE_Gun_Autocannon.label>canhão automático</VWE_Gun_Autocannon.label>

@@ -88,17 +88,53 @@
             <VWE_Bullet_GaussRifle.label>tiro de rifle gauss</VWE_Bullet_GaussRifle.label>
 
         <!-- Gauss Magnum -->
-            <VWE_Gun_GaussMagnum.label>revólver gauss</VWE_Gun_GaussMagnum.label>
-            <VWE_Gun_GaussMagnum.description>Um revólver gauss com tecnologia espacial. Uma série de bobinas acelera os tiros de um tambor giratório, penetrando a armadura e perfurando os alvos em seu caminho. Carrega mais rápido do que a maioria das armas de bobina ao custo de dano.</VWE_Gun_GaussMagnum.description>
+            <VWE_Gun_GaussMagnum.label>magnum gauss</VWE_Gun_GaussMagnum.label>
+            <VWE_Gun_GaussMagnum.description>Uma magnum gauss com tecnologia espacial. Uma série de bobinas acelera os tiros de um tambor giratório, penetrando a armadura e perfurando os alvos em seu caminho. Carrega mais rápido do que a maioria das armas de bobina ao custo de dano.</VWE_Gun_GaussMagnum.description>
             <VWE_Gun_GaussMagnum.tools.0.label>coronha</VWE_Gun_GaussMagnum.tools.0.label>
             <VWE_Gun_GaussMagnum.tools.1.label>cano</VWE_Gun_GaussMagnum.tools.1.label>
-            <VWE_Bullet_GaussMagnum.label>tiro de revólver gauss</VWE_Bullet_GaussMagnum.label>
+            <VWE_Bullet_GaussMagnum.label>tiro de magnum gauss</VWE_Bullet_GaussMagnum.label>
 
         <!-- Gauss Lance -->
             <VWE_Gun_GaussLance.label>lança gauss</VWE_Gun_GaussLance.label>
             <VWE_Gun_GaussLance.description>Uma lança gauss com tecnologia espacial. Uma série de bobinas eletromagnéticas alavanca um único tiro em hipervelocidade, destruindo a armadura e perfurando todos os alvos em seu caminho. É disparado do quadril, utilizando um computador de bordo para rastrear e se ajustar a alvos distantes.</VWE_Gun_GaussLance.description>
             <VWE_Gun_GaussLance.tools.0.label>cano</VWE_Gun_GaussLance.tools.0.label>
             <VWE_Bullet_GaussLance.label>tiro de lança gauss</VWE_Bullet_GaussLance.label>
+
+    <!-- Vanilla Weapons Expanded - Frontier -->
+        <!-- Gauss Revolver -->
+            <VWEFT_Gun_GaussRevolver.label>revólver gauss</VWEFT_Gun_GaussRevolver.label>
+            <VWEFT_Gun_GaussRevolver.description>Um revólver gauss com tecnologia espacial. Uma série de bobinas acelera os tiros de um tambor giratório, penetrando a armadura e perfurando os alvos em seu caminho. Carrega mais rápido do que a maioria das armas de bobina ao custo de dano.</VWEFT_Gun_GaussRevolver.description>
+            <VWEFT_Gun_GaussRevolver.tools.0.label>coronha</VWEFT_Gun_GaussRevolver.tools.0.label>
+            <VWEFT_Gun_GaussRevolver.tools.1.label>cano</VWEFT_Gun_GaussRevolver.tools.1.label>
+            <VWEFT_Bullet_GaussRevolver.label>tiro de revólver gauss</VWEFT_Bullet_GaussRevolver.label>
+
+        <!-- Gauss Repeater -->
+            <VWEFT_Gun_GaussRepeater.label>rifle de repetição gauss</VWEFT_Gun_GaussRepeater.label>
+            <VWEFT_Gun_GaussRepeater.description>Um rifle de repetição gauss com tecnologia espacial. Uma série de bobinas acelera os tiros de um tambor giratório, penetrando a armadura e perfurando os alvos em seu caminho. Carrega mais rápido do que a maioria das armas de bobina ao custo de dano.</VWEFT_Gun_GaussRepeater.description>
+            <VWEFT_Gun_GaussRepeater.tools.0.label>coronha</VWEFT_Gun_GaussRepeater.tools.0.label>
+            <VWEFT_Gun_GaussRepeater.tools.1.label>cano</VWEFT_Gun_GaussRepeater.tools.1.label>
+            <VWEFT_Bullet_GaussRepeater.label>tiro de rifle de repetição gauss</VWEFT_Bullet_GaussRepeater.label>
+
+        <!-- Salvaged Laser Revolver -->
+            <VWEFT_Gun_SalvagedLaserRevolver.label>revólver laser recuperado</VWEFT_Gun_SalvagedLaserRevolver.label>
+            <VWEFT_Gun_SalvagedLaserRevolver.description>Um revólver recuperado capaz de emitir um feixe de luz concentrado com potência suficiente para causar danos consideráveis.\n\nUtilizando células de bateria avançadas, esta arma é capaz de aquecer-se, aumentando a velocidade de disparo a cada tiro consecutivo.</VWEFT_Gun_SalvagedLaserRevolver.description>
+            <VWEFT_Gun_SalvagedLaserRevolver.tools.0.label>cano</VWEFT_Gun_SalvagedLaserRevolver.tools.0.label>
+            <VWEFT_Gun_SalvagedLaserRevolver.tools.1.label>coronha</VWEFT_Gun_SalvagedLaserRevolver.tools.1.label>
+            <VWEFT_Bullet_SalvagedLaserRevolver.label>tiro de revólver laser instável</VWEFT_Bullet_SalvagedLaserRevolver.label>
+
+        <!-- Salvaged Laser Repeater -->
+            <VWEFT_Gun_SalvagedLaserRepeater.label>rifle de repetição laser recuperado</VWEFT_Gun_SalvagedLaserRepeater.label>
+            <VWEFT_Gun_SalvagedLaserRepeater.description>Um rifle de repetição recuperado capaz de emitir um feixe de luz concentrado com potência suficiente para causar danos consideráveis.\n\nUtilizando células de bateria avançadas, esta arma é capaz de aquecer-se, aumentando a velocidade de disparo a cada tiro consecutivo.</VWEFT_Gun_SalvagedLaserRepeater.description>
+            <VWEFT_Gun_SalvagedLaserRepeater.tools.0.label>cano</VWEFT_Gun_SalvagedLaserRepeater.tools.0.label>
+            <VWEFT_Gun_SalvagedLaserRepeater.tools.1.label>coronha</VWEFT_Gun_SalvagedLaserRepeater.tools.1.label>
+            <VWEFT_Bullet_SalvagedLaserRepeater.label>tiro laser instável</VWEFT_Bullet_SalvagedLaserRepeater.label>
+
+        <!-- Salvaged Laser Hunting Rifle -->
+            <VWEFT_Gun_SalvagedLaserHuntingRifle.label>rifle de caça laser recuperado</VWEFT_Gun_SalvagedLaserHuntingRifle.label>
+            <VWEFT_Gun_SalvagedLaserHuntingRifle.description>Um rifle de caça recuperado capaz de emitir um feixe de luz concentrado com potência suficiente para causar danos consideráveis.\n\nUtilizando células de bateria avançadas, esta arma é capaz de aquecer-se, aumentando a velocidade de disparo a cada tiro consecutivo.</VWEFT_Gun_SalvagedLaserHuntingRifle.description>
+            <VWEFT_Gun_SalvagedLaserHuntingRifle.tools.0.label>cano</VWEFT_Gun_SalvagedLaserHuntingRifle.tools.0.label>
+            <VWEFT_Gun_SalvagedLaserHuntingRifle.tools.1.label>coronha</VWEFT_Gun_SalvagedLaserHuntingRifle.tools.1.label>
+            <VWEFT_Bullet_SalvagedLaserRepeater.label>tiro laser instável</VWEFT_Bullet_SalvagedLaserRepeater.label>
 
     <!-- Vanilla Weapons Expanded - Laser -->
         <!-- Laser Pistol -->
