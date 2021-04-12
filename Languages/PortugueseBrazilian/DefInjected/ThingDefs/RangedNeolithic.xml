@@ -14,4 +14,25 @@
             <VWE_Bow_Long.tools.0.label>arco</VWE_Bow_Long.tools.0.label>
             <VWE_Arrow_Long.label>flecha de arco longo</VWE_Arrow_Long.label>
 
+    <!-- Vanilla Weapons Expanded - Tribal -->
+        <!-- Sling -->
+            <VWE_Sling.label>estilingue</VWE_Sling.label>
+            <VWE_Sling.description>Uma pequena bolsa no meio de dois pedaços de corda. Usado para lançar pedras afiadas em distâncias médias.</VWE_Sling.description>
+            <VWE_Sling.tools.0.label>estilingue</VWE_Sling.tools.0.label>
+            <VWE_SlingRock.label>pedra de estilingue</VWE_SlingRock.label>
+
+        <!-- Throwing Shards -->
+            <VWE_Throwing_Shards.label>cacos arremessáveis</VWE_Throwing_Shards.label>
+            <VWE_Throwing_Shards.description>Um conjunto de fragmentos de rocha ou metal que podem ser lançados a uma curta distância.</VWE_Throwing_Shards.description>
+            <VWE_Throwing_Shards.tools.0.label>cabo</VWE_Throwing_Shards.tools.0.label>
+            <VWE_Throwing_Shards.tools.1.label>lâmina</VWE_Throwing_Shards.tools.1.label>
+            <VWE_Throwing_Shards.tools.2.label>ponta</VWE_Throwing_Shards.tools.2.label>
+            <VWE_FlyingShard.label>caco</VWE_FlyingShard.label>
+
+        <!-- Fire Bombs -->
+            <VWE_Weapon_FireBomb.label>bombas incendiárias</VWE_Weapon_FireBomb.label>
+            <VWE_Weapon_FireBomb.description>Uma pequena panela de barro com várias substâncias inflamáveis ​​dentro - seja ele combustível químico, tecido, pólvora ou gordura animal.</VWE_Weapon_FireBomb.description>
+            <VWE_Weapon_FireBomb.verbs.0.label>lançar bomba incendiária</VWE_Weapon_FireBomb.verbs.0.label>
+            <VWE_Proj_FireBomb.label>bomba incendiária</VWE_Proj_FireBomb.label>
+
 </LanguageData>

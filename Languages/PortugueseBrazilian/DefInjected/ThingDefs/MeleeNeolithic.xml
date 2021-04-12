@@ -7,5 +7,30 @@
             <VWE_MeleeWeapon_Axe.description>Uma cabeça de machado presa a um cabo. Adequado para uma mão, devido ao formato de uma cunha, não requer força significativa para cortar armadura e carne.</VWE_MeleeWeapon_Axe.description>
             <VWE_MeleeWeapon_Axe.tools.0.label>cabo</VWE_MeleeWeapon_Axe.tools.0.label>
             <VWE_MeleeWeapon_Axe.tools.1.label>lâmina</VWE_MeleeWeapon_Axe.tools.1.label>
+        
+    <!-- Vanilla Weapons Expanded - Tribal -->
+        <!-- Heavy Club -->
+            <VWE_MeleeWeapon_HeavyClub.label>porrete pesado</VWE_MeleeWeapon_HeavyClub.label>
+            <VWE_MeleeWeapon_HeavyClub.description>Um bastão grande, com formato de duas mãos, para golpear os inimigos. O peso extremo no final desta ferramenta permite ao usuário esmagar carne e ossos da mesma forma, deixando os inimigos mutilados, paralisados ​​e frequentemente mortos.</VWE_MeleeWeapon_HeavyClub.description>
+            <VWE_MeleeWeapon_HeavyClub.tools.0.label>cabo</VWE_MeleeWeapon_HeavyClub.tools.0.label>
+            <VWE_MeleeWeapon_HeavyClub.tools.1.label>cabeça</VWE_MeleeWeapon_HeavyClub.tools.1.label>
+
+        <!-- Light Club -->
+            <VWE_MeleeWeapon_LightClub.label>porrete leve</VWE_MeleeWeapon_LightClub.label>
+            <VWE_MeleeWeapon_LightClub.description>Um pequeno porrete de uma mão. Embora seja rápido, não vai causa danos tremendos devido ao seu baixo peso e comprimento curto.</VWE_MeleeWeapon_LightClub.description>
+            <VWE_MeleeWeapon_LightClub.tools.0.label>cabo</VWE_MeleeWeapon_LightClub.tools.0.label>
+            <VWE_MeleeWeapon_LightClub.tools.1.label>cabeça</VWE_MeleeWeapon_LightClub.tools.1.label>
+
+        <!-- Tribal Axe -->
+            <VWE_MeleeWeapon_TribalAxe.label>machado tribal</VWE_MeleeWeapon_TribalAxe.label>
+            <VWE_MeleeWeapon_TribalAxe.description>Um pedaço afiado de rocha montado em um pedaço de madeira resistente.</VWE_MeleeWeapon_TribalAxe.description>
+            <VWE_MeleeWeapon_TribalAxe.tools.0.label>cabo</VWE_MeleeWeapon_TribalAxe.tools.0.label>
+            <VWE_MeleeWeapon_TribalAxe.tools.1.label>lâmina</VWE_MeleeWeapon_TribalAxe.tools.1.label>
+
+        <!-- Shiv -->
+            <VWE_MeleeWeapon_Shiv.label>navalha</VWE_MeleeWeapon_Shiv.label>
+            <VWE_MeleeWeapon_Shiv.description>Um dos objetos manufaturados mais antigos da humanidade. Uma navalha é um pedaço de rocha ou metal afiado com um cabo pequeno.</VWE_MeleeWeapon_Shiv.description>
+            <VWE_MeleeWeapon_Shiv.tools.0.label>lâmina</VWE_MeleeWeapon_Shiv.tools.0.label>
+            <VWE_MeleeWeapon_Shiv.tools.1.label>ponta</VWE_MeleeWeapon_Shiv.tools.1.label>
 
 </LanguageData>
