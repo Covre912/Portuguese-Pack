@@ -150,6 +150,11 @@
             <VWE_MakeshiftWeapons.label>armas improvisadas</VWE_MakeshiftWeapons.label>
             <VWE_MakeshiftWeapons.description>Crie armas improvisadas muito pouco confiáveis, propensas a emperramento.</VWE_MakeshiftWeapons.description>
 
+    <!-- Vanilla Weapons Expanded - Non-Lethal -->
+        <!-- Non-Lethal Weapons -->
+            <VWE_NonLethal.label>armas não letais</VWE_NonLethal.label>
+            <VWE_NonLethal.description>Crie uma seleção de armas não letais, incluindo lançadores de gás lacrimogêneo e tasers.</VWE_NonLethal.description>
+
     <!-- Vanilla Weapons Expanded - Quickdraw -->
         <!-- Quick Draw -->
             <VWE_Quickdraw.label>saque rápido</VWE_Quickdraw.label>

@@ -11,4 +11,8 @@
         <!-- Smoke Cloud -->
             <VWE_SmokeCloud.label>cortina de fumaça</VWE_SmokeCloud.label>
 
+    <!-- Vanilla Weapons Expanded - Non-Lethal -->
+        <!-- Tear Gas -->
+            <VWENL_TearGasCloud.label>gás lacrimogêneo</VWENL_TearGasCloud.label>
+
 </LanguageData>

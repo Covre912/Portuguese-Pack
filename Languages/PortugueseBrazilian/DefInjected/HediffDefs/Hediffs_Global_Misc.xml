@@ -55,6 +55,22 @@
             <VEF_AcidBurn.injuryProps.destroyedLabel>Corroído</VEF_AcidBurn.injuryProps.destroyedLabel>
             <VEF_AcidBurn.injuryProps.destroyedOutLabel>Corroído</VEF_AcidBurn.injuryProps.destroyedOutLabel>
 
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Faster Moviment -->
+            <VFE_FasterMovement.label>bônus de velocidade de movimento</VFE_FasterMovement.label>
+            <VFE_FasterMovement.description>bônus de velocidade de movimento</VFE_FasterMovement.description>
+        
+        <!-- Mechanoid Uplink -->
+            <VFE_MechanoidUplink.label>vínculo mecanóide</VFE_MechanoidUplink.label>
+            <VFE_MechanoidUplink.description>vínculo mecanóide</VFE_MechanoidUplink.description>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Wanted -->
+            <Wanted.label>procurado</Wanted.label>
+            <Wanted.labelNoun>procurado</Wanted.labelNoun>
+            <Wanted.description>Considerado um criminoso por uma facção.</Wanted.description>
+            <Wanted.stages.0.label>procurado</Wanted.stages.0.label>
+
     <!-- Vanilla Traits Expanded -->
         <!-- Rebelling -->
             <VTE_SlowWorkSpeed.label>Rebelando</VTE_SlowWorkSpeed.label>
@@ -76,20 +92,20 @@
             <VTE_HigherBleedingRate.labelNoun>hemofilia</VTE_HigherBleedingRate.labelNoun>
             <VTE_HigherBleedingRate.description>A hemofilia é a incapacidade de o sangue coagular adequadamente, fazendo com que as feridas sangrem muito mais profusamente.</VTE_HigherBleedingRate.description>
 
-    <!-- Vanilla Factions Expanded - Mechanoids -->
-        <!-- Faster Moviment -->
-            <VFE_FasterMovement.label>bônus de velocidade de movimento</VFE_FasterMovement.label>
-            <VFE_FasterMovement.description>bônus de velocidade de movimento</VFE_FasterMovement.description>
-        
-        <!-- Mechanoid Uplink -->
-            <VFE_MechanoidUplink.label>vínculo mecanóide</VFE_MechanoidUplink.label>
-            <VFE_MechanoidUplink.description>vínculo mecanóide</VFE_MechanoidUplink.description>
+    <!-- Vanilla Weapons Expanded - Non-Lethal -->
+        <!-- Tear Gas -->
+            <VWE_TearGas.label>gás lacrimogêneo</VWE_TearGas.label>
+            <VWE_TearGas.description>O gás lacrimogêneo causa sensação de queimação nos olhos e nariz, impossibilitando totalmente a visão da vítima.</VWE_TearGas.description>
+            <VWE_TearGas.stages.0.label>passando</VWE_TearGas.stages.0.label>
+            <VWE_TearGas.stages.1.label>lacrimejando</VWE_TearGas.stages.1.label>
+            <VWE_TearGas.stages.2.label>cego</VWE_TearGas.stages.2.label>
 
-    <!-- Vanilla Factions Expanded - Settlers -->
-        <!-- Wanted -->
-            <Wanted.label>procurado</Wanted.label>
-            <Wanted.labelNoun>procurado</Wanted.labelNoun>
-            <Wanted.description>Considerado um criminoso por uma facção.</Wanted.description>
-            <Wanted.stages.0.label>procurado</Wanted.stages.0.label>
+        <!-- Anesthetic -->
+            <VWE_Anesthetic.label>anestésico</VWE_Anesthetic.label>
+            <VWE_Anesthetic.description>Droga injetada na corrente sanguínea. O anestésico deixa criaturas inconscientes.</VWE_Anesthetic.description>
+            <VWE_Anesthetic.stages.0.label>passando</VWE_Anesthetic.stages.0.label>
+            <VWE_Anesthetic.stages.1.label>tonto</VWE_Anesthetic.stages.1.label>
+            <VWE_Anesthetic.stages.2.label>sedado</VWE_Anesthetic.stages.2.label>
+            <VWE_Anesthetic.stages.3.label>anestesiado</VWE_Anesthetic.stages.3.label>
 
 </LanguageData>

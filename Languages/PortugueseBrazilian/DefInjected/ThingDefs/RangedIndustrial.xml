@@ -238,6 +238,40 @@
             <VWE_Gun_MakeshiftLMG.tools.1.label>cano</VWE_Gun_MakeshiftLMG.tools.1.label>
             <VWE_Bullet_MakeshiftLMG.label>tiro de LMG improvisada</VWE_Bullet_MakeshiftLMG.label>
 
+    <!-- Vanilla Weapons Expanded - Non-Lethal -->
+        <!-- Tear Gas Grenade -->
+            <VWE_TearGasGrenade.label>granadas de gás lacrimogêneo</VWE_TearGasGrenade.label>
+            <VWE_TearGasGrenade.description>Uma granada moderna que contém um composto especial comumente conhecido como gás lacrimogêneo. Cega temporariamente as vítimas.</VWE_TearGasGrenade.description>
+            <VWE_TearGasGrenade.verbs.0.label>lançar granada de gás lacrimogêneo</VWE_TearGasGrenade.verbs.0.label>
+            <VWENL_Projectile_TearGasGrenade.label>granada de gás lacrimogêneo</VWENL_Projectile_TearGasGrenade.label>
+
+        <!-- Taser Gun -->
+            <VWE_Gun_Taser.label>taser</VWE_Gun_Taser.label>
+            <VWE_Gun_Taser.description>Um taser industrial de curto alcance. Fornece um choque elétrico com o objetivo de interromper temporariamente as funções musculares e infligir dor, sem geralmente causar lesões significativas.</VWE_Gun_Taser.description>
+            <VWE_Gun_Taser.tools.0.label>cano</VWE_Gun_Taser.tools.0.label>
+            <VWE_Gun_Taser.tools.1.label>coronha</VWE_Gun_Taser.tools.1.label>
+            <VWE_Bullet_Taser.label>tiro de taser</VWE_Bullet_Taser.label>
+
+        <!-- Non-Lethal Pistol -->
+            <VWE_Gun_RubberBulletPistol.label>pistola não letal</VWE_Gun_RubberBulletPistol.label>
+            <VWE_Gun_RubberBulletPistol.description>Uma pistola moderna a gás que dispara bolas de borracha. Embora as chances de lesões graves sejam menores, ainda há chance de morte.</VWE_Gun_RubberBulletPistol.description>
+            <VWE_Gun_RubberBulletPistol.tools.0.label>coronha</VWE_Gun_RubberBulletPistol.tools.0.label>
+            <VWE_Gun_RubberBulletPistol.tools.1.label>cano</VWE_Gun_RubberBulletPistol.tools.1.label>
+            <VWE_Bullet_RubberPistol.label>bala de borracha</VWE_Bullet_RubberPistol.label>
+
+        <!-- Dart Gun -->
+            <VWE_Gun_DartGun.label>pistola de dardos</VWE_Gun_DartGun.label>
+            <VWE_Gun_DartGun.description>Uma pistola de ar não letal usada para reduzir a irritabilidade ou agitação de animais ou humanos por meio de drogas anestésicas comumente chamadas de tranquilizantes.</VWE_Gun_DartGun.description>
+            <VWE_Gun_DartGun.tools.0.label>coronha</VWE_Gun_DartGun.tools.0.label>
+            <VWE_Gun_DartGun.tools.1.label>cano</VWE_Gun_DartGun.tools.1.label>
+            <VWE_Bullet_DartGun.label>dardo tranquilizante</VWE_Bullet_DartGun.label>
+
+        <!-- Tear Gas Launcher -->
+            <VWE_Gun_TearGasLauncher.label>lançador de gás lacrimogêneo</VWE_Gun_TearGasLauncher.label>
+            <VWE_Gun_TearGasLauncher.description>Um lançador moderno de cartucho único carregado com granadas de gás lacrimogêneo. Frequentemente usado pela polícia de choque urbana.</VWE_Gun_TearGasLauncher.description>
+            <VWE_Gun_TearGasLauncher.tools.0.label>coronha</VWE_Gun_TearGasLauncher.tools.0.label>
+            <VWE_Gun_TearGasLauncher.tools.1.label>cano</VWE_Gun_TearGasLauncher.tools.1.label>
+
     <!-- Vanilla Weapons Expanded - Quickdraw -->
         <!-- Automatic Pistol-->
             <VWE_Gun_AutomaticPistol.label>pistola automática</VWE_Gun_AutomaticPistol.label>
