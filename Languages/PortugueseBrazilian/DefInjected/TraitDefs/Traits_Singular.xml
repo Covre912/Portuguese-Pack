@@ -201,6 +201,115 @@
             <SYR_StrongBack.degreeDatas.0.label>costas fortes</SYR_StrongBack.degreeDatas.0.label>
             <SYR_StrongBack.degreeDatas.0.description>{PAWN_nameDef} possui costas muito fortes, é metade mula, ou coisa do tipo. {PAWN_pronoun} consegue carregar muito mais do que uma pessoa normal.</SYR_StrongBack.degreeDatas.0.description>
 
+    <!-- Fallout Traiys (Continued) -->
+        <!-- Frail Back -->
+            <FT_FrailBack.degreeDatas.0.label>costas frágeis</FT_FrailBack.degreeDatas.0.label>
+            <FT_FrailBack.degreeDatas.0.description>[PAWN_nameDef] tem as costas frágeis, então [PAWN_pronoun] não pode carregar tanto quanto uma pessoa normal.</FT_FrailBack.degreeDatas.0.description>
+
+        <!-- Strong Back -->
+            <FT_StrongBack.degreeDatas.0.label>costas fortes</FT_StrongBack.degreeDatas.0.label>
+            <FT_StrongBack.degreeDatas.0.description>[PAWN_nameDef] tem costas fortes que permitem [PAWN_objective] carregar mais do que a maioria das pessoas.</FT_StrongBack.degreeDatas.0.description>
+            <FT_StrongBack.degreeDatas.1.label>costas muito fortes</FT_StrongBack.degreeDatas.1.label>
+            <FT_StrongBack.degreeDatas.1.description>[PAWN_nameDef] tem as costas muito fortes que até parece uma mula de carga ou algo assim. [PAWN_pronoun] pode carregar o dobro de uma pessoa normal.</FT_StrongBack.degreeDatas.1.description>
+
+        <!-- Animal Friend -->
+            <FT_AnimalFriend.degreeDatas.0.label>amigo dos animais</FT_AnimalFriend.degreeDatas.0.label>
+            <FT_AnimalFriend.degreeDatas.0.description>[PAWN_nameDef] tem paixão por animais. [PAWN_pronoun] recebe bônus para todas as interações com animais.</FT_AnimalFriend.degreeDatas.0.description>
+
+        <!-- Ghoulish -->
+            <FT_Ghoulish.degreeDatas.0.label>macabro</FT_Ghoulish.degreeDatas.0.label>
+            <FT_Ghoulish.degreeDatas.0.description>[PAWN_nameDef] é humano ainda, na sua maioria. [PAWN_pronoun] é imune aos efeitos da precipitação tóxica, mas sua aparência macabra torna difícil a interação com os outros.</FT_Ghoulish.degreeDatas.0.description>
+
+        <!-- Rad Resistent -->
+            <FT_RadResistant.degreeDatas.0.label>resistente radical</FT_RadResistant.degreeDatas.0.label>
+            <FT_RadResistant.degreeDatas.0.description>[PAWN_nameDef] seu corpo acumulou uma resistência aos efeitos negativos da precipitação tóxica.</FT_RadResistant.degreeDatas.0.description>
+
+        <!-- Action Boy -->
+            <FT_ActionBoy.degreeDatas.0.label>garoto de ação</FT_ActionBoy.degreeDatas.0.label>
+            <FT_ActionBoy.degreeDatas.0.description>Não há tempo a perder! [PAWN_nameDef] aumentou o movimento e a velocidade de trabalho.</FT_ActionBoy.degreeDatas.0.description>
+
+        <!-- Action girl -->
+            <FT_ActionGirl.degreeDatas.0.label>garota de ação</FT_ActionGirl.degreeDatas.0.label>
+            <FT_ActionGirl.degreeDatas.0.description>Não há tempo a perder! [PAWN_nameDef] aumentou o movimento e a velocidade de trabalho.</FT_ActionGirl.degreeDatas.0.description>
+
+        <!-- Quick Hands -->
+            <FT_QuickHands.degreeDatas.0.label>mãos rápidas</FT_QuickHands.degreeDatas.0.label>
+            <FT_QuickHands.degreeDatas.0.description>[PAWN_nameDef] tem mãos rápidas. Quando se trata de [PAWN_possessive] mãos, [PAWN_nameDef] nunca hesita.</FT_QuickHands.degreeDatas.0.description>
+
+        <!-- Idiot Savant -->
+            <FT_IdiotSavant.degreeDatas.0.label>sábio idiota</FT_IdiotSavant.degreeDatas.0.label>
+            <FT_IdiotSavant.degreeDatas.0.description>[PAWN_nameDef] não é estúpido! [PAWN_pronoun] é só ... diferente. [PAWN_pronoun] aprende duas vezes mais rápido, mas funciona mais devagar do que o normal, [PAWN_pronoun] também é incapaz de lidar com algumas tarefas.</FT_IdiotSavant.degreeDatas.0.description>
+
+        <!-- Charisma -->
+            <FT_Charisma.degreeDatas.0.label>carismático</FT_Charisma.degreeDatas.0.label>
+            <FT_Charisma.degreeDatas.0.description>[PAWN_nameDef] tem uma personalidade carismática. [PAWN_pronoun] recebe bônus para todas as interações sociais.</FT_Charisma.degreeDatas.0.description>
+            <FT_Charisma.degreeDatas.1.label>muito carismático</FT_Charisma.degreeDatas.1.label>
+            <FT_Charisma.degreeDatas.1.description>[PAWN_nameDef] tem uma personalidade muito carismática. [PAWN_pronoun] recebe bônus para todas as interações sociais.</FT_Charisma.degreeDatas.1.description>
+
+        <!-- Gun Nut -->
+            <FT_GunNut.degreeDatas.0.label>entusiasta por armas de fogo</FT_GunNut.degreeDatas.0.label>
+            <FT_GunNut.degreeDatas.0.description>[PAWN_nameDef] é um entusiasta por armas de fogo, [PAWN_pronoun] ama armas. [PAWN_pronoun] recebe um bônus de humor enquanto segura uma arma de longo alcance.</FT_GunNut.degreeDatas.0.description>
+
+        <!-- Rooted -->
+            <FT_Rooted.degreeDatas.0.label>enraizado</FT_Rooted.degreeDatas.0.label>
+            <FT_Rooted.degreeDatas.0.description>[PAWN_nameDef] parece parte de uma árvore! [PAWN_pronoun] pode realmente levar uma surra!</FT_Rooted.degreeDatas.0.description>
+
+        <!-- Intimidation -->
+            <FT_Intimidation.degreeDatas.0.label>intimidador</FT_Intimidation.degreeDatas.0.label>
+            <FT_Intimidation.degreeDatas.0.description>[PAWN_nameDef] tem uma personalidade intimidante, isso dá [PAWN_objective] uma vantagem nas interações sociais.</FT_Intimidation.degreeDatas.0.description>
+            <FT_Intimidation.degreeDatas.1.label>muito intimidante</FT_Intimidation.degreeDatas.1.label>
+            <FT_Intimidation.degreeDatas.1.description>[PAWN_nameDef] tem uma personalidade muito intimidante, isso dá [PAWN_objective] uma grande vantagem nas interações sociais.</FT_Intimidation.degreeDatas.1.description>
+
+        <!-- Scrapper -->
+            <FT_Scrapper.degreeDatas.0.label>sucateiro</FT_Scrapper.degreeDatas.0.label>
+            <FT_Scrapper.degreeDatas.0.description>[PAWN_nameDef] é bom em trabalhar com sucata. [PAWN_pronoun] é ótimo com uma fundição e é eficiente ao usar materiais de construção. </FT_Scrapper.degreeDatas.0.description>
+
+        <!-- Fortune Finder -->
+            <FT_FortuneFinder.degreeDatas.0.label>localizador de fortuna</FT_FortuneFinder.degreeDatas.0.label>
+            <FT_FortuneFinder.degreeDatas.0.description>[PAWN_nameDef] parece descobrir riquezas escondidas onde quer que [PAWN_pronoun] esteja.</FT_FortuneFinder.degreeDatas.0.description>
+
+        <!-- Aim Offset -->
+            <FT_AimOffset.degreeDatas.0.label>mira pobre</FT_AimOffset.degreeDatas.0.label>
+            <FT_AimOffset.degreeDatas.0.description>[PAWN_nameDef] tem má coordenação e vai perder [PAWN_possessive] alvos mais vezes em combate.</FT_AimOffset.degreeDatas.0.description>
+            <FT_AimOffset.degreeDatas.1.label>mira firme</FT_AimOffset.degreeDatas.1.label>
+            <FT_AimOffset.degreeDatas.1.description>[PAWN_nameDef] tem ótima coordenação e vai perder [PAWN_possessive] alvos com menos frequência em combate.</FT_AimOffset.degreeDatas.1.description>
+
+        <!-- Agility -->
+            <FT_Agility.degreeDatas.0.label>ágil</FT_Agility.degreeDatas.0.label>
+            <FT_Agility.degreeDatas.0.description>[PAWN_nameDef] tem bons reflexos e se move com delicadeza. [PAWN_pronoun] vai desviar de mais ataques em combate corpo a corpo.</FT_Agility.degreeDatas.0.description>
+            <FT_Agility.degreeDatas.1.label>tipo ninja</FT_Agility.degreeDatas.1.label>
+            <FT_Agility.degreeDatas.1.description>[PAWN_nameDef] tem ótimos reflexos e se move como um ninja. [PAWN_pronoun] vai desviar de muito mais ataques em combate corpo a corpo.</FT_Agility.degreeDatas.1.description>
+
+        <!-- Stupid -->
+            <FT_Stupid.degreeDatas.0.label>estúpido</FT_Stupid.degreeDatas.0.label>
+            <FT_Stupid.degreeDatas.0.description>[PAWN_nameDef] não é muito inteligente. [PAWN_pronoun] pode se atrapalhar fazendo qualquer coisa.</FT_Stupid.degreeDatas.0.description>
+
+        <!-- Intelligence -->
+            <FT_Intelligence.degreeDatas.0.label>inteligente</FT_Intelligence.degreeDatas.0.label>
+            <FT_Intelligence.degreeDatas.0.description>[PAWN_nameDef] é mais inteligente que a média. [PAWN_pronoun] aprende mais rápido e tem uma boa compreensão do mundo ao redor [PAWN_objective].</FT_Intelligence.degreeDatas.0.description>
+            <FT_Intelligence.degreeDatas.1.label>muito inteligente</FT_Intelligence.degreeDatas.1.label>
+            <FT_Intelligence.degreeDatas.1.description>[PAWN_nameDef] é muito inteligente. [PAWN_pronoun] aprende muito mais rápido, parece um gênio [PAWN_objective].</FT_Intelligence.degreeDatas.1.description>
+
+        <!-- Oblivious -->
+            <FT_Oblivious.degreeDatas.0.label>desatento</FT_Oblivious.degreeDatas.0.label>
+            <FT_Oblivious.degreeDatas.0.description>[PAWN_nameDef] não está muito ciente de [PAWN_possessive] arredores, ou qualquer coisa realmente. [PAWN_pronoun]</FT_Oblivious.degreeDatas.0.description>
+
+        <!-- Perception -->
+            <FT_Perception.degreeDatas.0.label>perceptivo</FT_Perception.degreeDatas.0.label>
+            <FT_Perception.degreeDatas.0.description>[PAWN_nameDef] tem uma boa consciência de [PAWN_possessive] arredores e tem um bom entendimento de como [PAWN_possessive] ações afetam outros.</FT_Perception.degreeDatas.0.description>
+            <FT_Perception.degreeDatas.1.label>muito perceptivo</FT_Perception.degreeDatas.1.label>
+            <FT_Perception.degreeDatas.1.description>[PAWN_nameDef] está muito ciente de [PAWN_possessive] arredores e tem um grande conhecimento de como [PAWN_possessive] ações afetam outros.</FT_Perception.degreeDatas.1.description>
+
+        <!-- Scrounger -->
+            <FT_Scrounger.degreeDatas.0.label>caseiro</FT_Scrounger.degreeDatas.0.label>
+            <FT_Scrounger.degreeDatas.0.description>[PAWN_nameDef] sabe como limpar e reunir recursos rapidamente.</FT_Scrounger.degreeDatas.0.description>
+
+        <!-- Endurance -->
+            <FT_Endurance.degreeDatas.0.label>duradouro</FT_Endurance.degreeDatas.0.label>
+            <FT_Endurance.degreeDatas.0.description>[PAWN_nameDef] tem boa saúde e uma personalidade duradoura. [PAWN_pronoun] é melhor em lidar com situações estressantes do que outras.</FT_Endurance.degreeDatas.0.description>
+            <FT_Endurance.degreeDatas.1.label>muito duradouro</FT_Endurance.degreeDatas.1.label>
+            <FT_Endurance.degreeDatas.1.description>[PAWN_nameDef] tem saúde excepcional e uma personalidade muito duradoura. [PAWN_pronoun] é capaz de lidar com situações de alto estresse que outros não podem.</FT_Endurance.degreeDatas.1.description>
+
     <!-- Vanilla Fishing Expanded -->
         <!-- Fisherman -->
             <VCEF_Fisherman.degreeDatas.fisherman.label>pescador</VCEF_Fisherman.degreeDatas.fisherman.label>
