@@ -36,6 +36,11 @@
             <VSE-IgorInvader.label>Igor Invasor</VSE-IgorInvader.label>
             <VSE-IgorInvader.description>Igor Invasor não se importa com histórias chatas sobre colônias prósperas. A única história que vale a pena contar é a do combate. Ele enviará invasões a cada dois ou três dias, recompensando os jogadores por lidar com eles rapidamente e punindo os jogadores por quaisquer perdas. Este narrador dobra todos os tipos de dano.</VSE-IgorInvader.description>
 
+    <!-- Vanilla Storytellers Expanded - Maynard Medieval -->
+        <!-- Maynard Medieval -->
+            <VSE_MaynardMedieval.label>Maynard Medieval</VSE_MaynardMedieval.label>
+            <VSE_MaynardMedieval.description>Maynard Medieval conta uma história de crescente de desafio e tensão. Ele acredita fortemente em coragem, honra e sacrifício, e fará com que você recupere suas forças antes de enfrentar uma próxima grande ameaça. A maioria das facções e todas as pesquisas serão limitadas às eras medieval e pré-medieval.</VSE_MaynardMedieval.description>
+
     <!-- Vanilla Storytellers Expanded - Neron Neolithic -->
         <!-- Neron Neolithic -->
             <VSE_NeronNeolithic.label>Neron Neolítico</VSE_NeronNeolithic.label>
