@@ -40,6 +40,19 @@
             <AEXP_Cheetah.label>guepardo</AEXP_Cheetah.label>
             <AEXP_Cheetah.labelPlural>guepardos</AEXP_Cheetah.labelPlural>
 
+    <!-- Vanilla Animals Expanded - Australia -->
+        <!-- Boombat -->
+            <AEXP_Boombat.label>bumbate</AEXP_Boombat.label>
+            <AEXP_Boombat.labelPlural>bumbates</AEXP_Boombat.labelPlural>
+
+        <!-- Kangaroo -->
+            <AEXP_Kangaroo.label>canguru</AEXP_Kangaroo.label>
+            <AEXP_Kangaroo.labelPlural>cangurus</AEXP_Kangaroo.labelPlural>
+
+        <!-- Koala -->
+            <AEXP_Koala.label>coala</AEXP_Koala.label>
+            <AEXP_Koala.labelPlural>coalas</AEXP_Koala.labelPlural>
+
     <!-- Zombieland -->
         <!-- Zombie -->
             <Zombie.label>zumbi</Zombie.label>

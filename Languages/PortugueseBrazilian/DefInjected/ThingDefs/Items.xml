@@ -180,6 +180,15 @@
 			<AEXP_Leather_Wildebeest.label>pele de gnu</AEXP_Leather_Wildebeest.label>
 			<AEXP_Leather_Wildebeest.description>Uma grossa mas esfarelada pele e couro de gnu. Embora forneça algum grau de proteção contra danos, a longevidade geral do item diminui.</AEXP_Leather_Wildebeest.description>
 
+	<!-- Vanilla Animals Expanded - Australia -->
+		<!-- Platypus Egg -->
+			<AEXP_EggPlatypusFertilized.label>ovo de ornitorrinco (fert.)</AEXP_EggPlatypusFertilized.label>
+			<AEXP_EggPlatypusFertilized.description>Ovo de ornitorrinco fertilizado. Se tudo ocorrer bem, ele deve eclodir um ornitorrinco bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggPlatypusFertilized.description>
+
+		<!-- Platypus Leather -->
+			<AEXP_Leather_Platypus.label>couro de ornitorrinco</AEXP_Leather_Platypus.label>
+			<AEXP_Leather_Platypus.description>A pele do ornitorrinco era considerada uma mercadoria valiosa, um fato que quase levou o ornitorrinco à extinção. Felizmente, o animal foi protegido e prosperou novamente.</AEXP_Leather_Platypus.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Component -->
             <VFE_ComponentMechanoid.label>componente mecanóide</VFE_ComponentMechanoid.label>

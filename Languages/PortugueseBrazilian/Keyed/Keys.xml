@@ -1060,6 +1060,14 @@
             <RandomQuestRewardItemLetter>Item de Missão</RandomQuestRewardItemLetter>
             <RandomQuestRewardItem>O item de missão aleatório chegou!</RandomQuestRewardItem>
 
+    <!-- Vanilla Animals Expanded - Australia -->
+        <!-- Body Clock -->
+    	    <NocturnalAnimals.BodyClock>Relógio biológico</NocturnalAnimals.BodyClock>
+	        <NocturnalAnimals.BodyClock_Description>Determina quando o animal dorme e quando está acordado.\n\nAnimais diurnos dormem durante a noite e estão acordados durante o dia, enquanto os animais noturnos dormem durante o dia e estão acordados durante a noite. Animais crepusculares são principalmente ativos durante o início da noite.</NocturnalAnimals.BodyClock_Description>
+	        <NocturnalAnimals.BodyClock_Diurnal>Diurno</NocturnalAnimals.BodyClock_Diurnal>
+	        <NocturnalAnimals.BodyClock_Nocturnal>Noturno</NocturnalAnimals.BodyClock_Nocturnal>
+	        <NocturnalAnimals.BodyClock_Crepuscular>Crepuscular</NocturnalAnimals.BodyClock_Crepuscular>
+
     <!-- Vanilla Events Expanded -->
         <!-- Animal Transport Pod Crash -->
             <LetterLabelAnimalPodCrash>Queda de cápsula de transporte de animal</LetterLabelAnimalPodCrash>

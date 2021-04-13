@@ -5,4 +5,17 @@
         <!-- Ears -->
             <Ears.label>orelhas</Ears.label>
 
+    <!-- Vanilla Animals Expanded - Australia -->
+        <!-- Rear Left Claws -->
+            <AEXP_RearLeftClaws.label>garra esquerda</AEXP_RearLeftClaws.label>
+
+        <!-- Rear Right Claws -->
+            <AEXP_RearRightClaws.label>garra direita</AEXP_RearRightClaws.label>
+
+        <!-- Rear Left Spur -->
+            <AEXP_RearLeftSpur.label>pata esquerda</AEXP_RearLeftSpur.label>
+
+        <!-- Rear Right Spur -->
+            <AEXP_RearRightSpur.label>pata direita</AEXP_RearRightSpur.label>
+
 </LanguageData>

@@ -6,7 +6,7 @@
             <AEXP_Coyote.label>coiote</AEXP_Coyote.label>
             <AEXP_Coyote.description>Um lobo nativo de áreas desérticas e arbustivas. Capaz de caçar presas muito maiores e costuma ser encontrado em matilhas, semelhante a um lobo.</AEXP_Coyote.description>
             <AEXP_Coyote.tools.0.label>garra esquerda</AEXP_Coyote.tools.0.label>
-            <AEXP_Coyote.tools.1.label>guarra direita</AEXP_Coyote.tools.1.label>
+            <AEXP_Coyote.tools.1.label>garra direita</AEXP_Coyote.tools.1.label>
             <AEXP_Coyote.tools.3.label>cabeça</AEXP_Coyote.tools.3.label>
 
         <!-- Giraffe -->
@@ -44,6 +44,26 @@
         <!-- Cheetah -->
             <AEXP_Cheetah.label>guepardo</AEXP_Cheetah.label>
             <AEXP_Cheetah.description>Esses gatos são magros e esguios, o que lhes permite atingir velocidades incríveis. Eles têm pêlo castanho-amarelado com manchas redondas, pernas muito longas, uma cauda longa e estreita para equilíbrio e um peito que contém grandes pulmões.</AEXP_Cheetah.description>
+
+    <!-- Vanilla Animals Expanded - Australia -->
+        <!-- Boombat -->
+            <AEXP_Boombat.label>bumbate</AEXP_Boombat.label>
+            <AEXP_Boombat.description>Devido a algum experimento insano, esses roedores fofos criam uma poderosa explosão quando mortos.</AEXP_Boombat.description>
+            <AEXP_Boombat.tools.0.label>garra esquerda</AEXP_Boombat.tools.0.label>
+            <AEXP_Boombat.tools.1.label>garra direita</AEXP_Boombat.tools.1.label>
+            <AEXP_Boombat.tools.3.label>cabeça</AEXP_Boombat.tools.3.label>
+
+        <!-- Kangaroo -->
+            <AEXP_Kangaroo.label>canguru</AEXP_Kangaroo.label>
+            <AEXP_Kangaroo.description>O canguru é um grande marsupial de tamanho humano com pernas fortes e braços poderosos. É preferido pelos caçadores tribais devido à sua carne tenra e couro resistente ao calor. Os cangurus são adversários poderosos no combate corpo a corpo e podem ser facilmente treinados para se tornarem super-soldados animais.</AEXP_Kangaroo.description>
+            <AEXP_Kangaroo.tools.3.label>cabeça</AEXP_Kangaroo.tools.3.label>
+
+        <!-- Koala -->
+            <AEXP_Koala.label>coala</AEXP_Koala.label>
+            <AEXP_Koala.description>Coalas são facilmente reconhecíveis por seus corpos robustos e suas grandes cabeças redondas com orelhas fofas. Eles normalmente habitam florestas áridas e temperadas, mas raramente podem ser vistos em áreas tropicais. Favorecidos por famílias reais, os coalas são bons animais domésticos devido à sua doçura.</AEXP_Koala.description>
+            <AEXP_Koala.tools.0.label>garra esquerda</AEXP_Koala.tools.0.label>
+            <AEXP_Koala.tools.1.label>garra direita</AEXP_Koala.tools.1.label>
+            <AEXP_Koala.tools.3.label>cabeça</AEXP_Koala.tools.3.label>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Advanced Centipede -->
