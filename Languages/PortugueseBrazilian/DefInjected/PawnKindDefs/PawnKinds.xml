@@ -53,6 +53,21 @@
             <AEXP_Koala.label>coala</AEXP_Koala.label>
             <AEXP_Koala.labelPlural>coalas</AEXP_Koala.labelPlural>
 
+    <!-- Vanilla Animals Expanded - Boreal Forest -->
+        <!-- Otter -->
+            <AEXP_Otter.label>lontra</AEXP_Otter.label>
+            <AEXP_Otter.labelPlural>lontras</AEXP_Otter.labelPlural>
+
+        <!-- Artic Coyote -->
+            <AEXP_ArcticCoyote.label>coiote do ártico</AEXP_ArcticCoyote.label>
+            <AEXP_ArcticCoyote.labelPlural>coiotes do ártico</AEXP_ArcticCoyote.labelPlural>
+            <AEXP_ArcticCoyote.lifeStages.0.label>coiote do ártico filhote</AEXP_ArcticCoyote.lifeStages.0.label>
+            <AEXP_ArcticCoyote.lifeStages.0.labelPlural>coiotes do ártico filhotes</AEXP_ArcticCoyote.lifeStages.0.labelPlural>
+
+        <!-- Black Bear -->
+            <AEXP_BlackBear.label>urso-negro</AEXP_BlackBear.label>
+            <AEXP_BlackBear.labelPlural>ursos-negros</AEXP_BlackBear.labelPlural>
+
     <!-- Zombieland -->
         <!-- Zombie -->
             <Zombie.label>zumbi</Zombie.label>

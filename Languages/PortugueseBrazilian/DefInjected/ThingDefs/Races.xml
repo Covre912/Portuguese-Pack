@@ -65,6 +65,25 @@
             <AEXP_Koala.tools.1.label>garra direita</AEXP_Koala.tools.1.label>
             <AEXP_Koala.tools.3.label>cabeça</AEXP_Koala.tools.3.label>
 
+    <!-- Vanilla Animals Expanded - Boreal Forest --> 
+        <!-- Otter -->
+            <AEXP_Otter.label>lontra</AEXP_Otter.label>
+            <AEXP_Otter.description>Mamíferos longos, magros e semi-aquáticos que se alimentam principalmente de peixes e plantas pequenas. Eles são extremamente bons nadadores e podem prender a respiração debaixo d'água por um período prolongado de tempo.</AEXP_Otter.description>
+            <AEXP_Otter.tools.0.label>garra esquerda</AEXP_Otter.tools.0.label>
+            <AEXP_Otter.tools.1.label>garra direita</AEXP_Otter.tools.1.label>
+            <AEXP_Otter.tools.3.label>cabeça</AEXP_Otter.tools.3.label>
+
+        <!-- Artic Coyote -->
+            <AEXP_ArcticCoyote.label>coiote do ártico</AEXP_ArcticCoyote.label>
+            <AEXP_ArcticCoyote.description>Um pequeno canino nativo de tundras e florestas boreais. Capaz de caçar presas muito maiores e costuma ser encontrado em matilhas, semelhante a um lobo.</AEXP_ArcticCoyote.description>
+            <AEXP_ArcticCoyote.tools.0.label>guerra esquerda</AEXP_ArcticCoyote.tools.0.label>
+            <AEXP_ArcticCoyote.tools.1.label>guarra direita</AEXP_ArcticCoyote.tools.1.label>
+            <AEXP_ArcticCoyote.tools.3.label>cabeça</AEXP_ArcticCoyote.tools.3.label>
+
+        <!-- Black Bear -->
+            <AEXP_BlackBear.label>urso-negro</AEXP_BlackBear.label>
+            <AEXP_BlackBear.description>Um mamífero onívoro de tamanho médio adaptado para climas frios. A gordura e o pêlo dos ursos os mantêm aquecidos no inverno.\n\nEmbora sua dieta normal consista de peixes, frutas vermelhas, mel e carne de restos mortais, o urso-negro é capaz de usar sua força maciça e garras mortais para matar presas vivas. Eles são surpreendentemente rápidos para criaturas tão pesadas.</AEXP_BlackBear.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Advanced Centipede -->
             <VFE_Mech_AdvancedCentipede.label>centopéia avançada</VFE_Mech_AdvancedCentipede.label>
