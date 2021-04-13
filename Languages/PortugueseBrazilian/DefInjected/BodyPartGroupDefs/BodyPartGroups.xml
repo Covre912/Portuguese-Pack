@@ -18,4 +18,8 @@
         <!-- Rear Right Spur -->
             <AEXP_RearRightSpur.label>pata direita</AEXP_RearRightSpur.label>
 
+    <!-- Vanilla Animals Expanded - Ice Sheet -->
+        <!-- Fore-Flippers -->
+            <AEXP_ForeFlipers.label>nadadeiras</AEXP_ForeFlipers.label>
+
 </LanguageData>

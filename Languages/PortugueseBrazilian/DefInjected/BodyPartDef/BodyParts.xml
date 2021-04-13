@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Animals Expanded - Ice Sheet -->
+        <!-- Fore-Flippers -->     
+            <AEXP_ForeFlipper.label>nadadeira</AEXP_ForeFlipper.label>
+
+        <!-- Hind Flippers -->
+            <AEXP_HindFlippers.label>nadadeiras</AEXP_HindFlippers.label>
+
+</LanguageData>

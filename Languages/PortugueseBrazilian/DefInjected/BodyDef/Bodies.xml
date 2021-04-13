@@ -88,4 +88,33 @@
             <AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.3.customLabel>segundo dedo do pé direito</AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.3.customLabel>
             <AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.4.customLabel>dedão do pé direito</AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.4.customLabel>
 
+    <!-- Vanilla Animals Expanded - Ice Sheet -->
+        <!-- Simple Pinniped -->
+            <AEXP_SimplePinniped.label>pinípede simples</AEXP_SimplePinniped.label>
+            <AEXP_SimplePinniped.corePart.parts.4.customLabel>pulmão esquerdo</AEXP_SimplePinniped.corePart.parts.4.customLabel>
+            <AEXP_SimplePinniped.corePart.parts.5.customLabel>pulmão direito</AEXP_SimplePinniped.corePart.parts.5.customLabel>
+            <AEXP_SimplePinniped.corePart.parts.6.customLabel>rim esquerdo</AEXP_SimplePinniped.corePart.parts.6.customLabel>
+            <AEXP_SimplePinniped.corePart.parts.7.customLabel>rim direito</AEXP_SimplePinniped.corePart.parts.7.customLabel>
+            <AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.1.customLabel>olho esquerdo</AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.1.customLabel>
+            <AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.2.customLabel>olho direito</AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.2.customLabel>
+            <AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.3.customLabel>orelha esquerda</AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.3.customLabel>
+            <AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.4.customLabel>orelha direita</AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.4.customLabel>
+            <AEXP_SimplePinniped.corePart.parts.10.customLabel>nadadeira esquerda</AEXP_SimplePinniped.corePart.parts.10.customLabel>
+            <AEXP_SimplePinniped.corePart.parts.11.customLabel>nadadeira direita</AEXP_SimplePinniped.corePart.parts.11.customLabel>
+
+        <!-- Tusked Pinniped -->
+            <AEXP_TuskedPinniped.label>pinípede com presa</AEXP_TuskedPinniped.label>
+            <AEXP_TuskedPinniped.corePart.parts.4.customLabel>pulmão esquerdo</AEXP_TuskedPinniped.corePart.parts.4.customLabel>
+            <AEXP_TuskedPinniped.corePart.parts.5.customLabel>pulmão direito</AEXP_TuskedPinniped.corePart.parts.5.customLabel>
+            <AEXP_TuskedPinniped.corePart.parts.6.customLabel>rim esquerdo</AEXP_TuskedPinniped.corePart.parts.6.customLabel>
+            <AEXP_TuskedPinniped.corePart.parts.7.customLabel>rim direito</AEXP_TuskedPinniped.corePart.parts.7.customLabel>
+            <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.1.customLabel>olho esquerdo</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.1.customLabel>
+            <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.2.customLabel>olho direito</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.2.customLabel>
+            <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.3.customLabel>orelha esquerda</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.3.customLabel>
+            <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.4.customLabel>orelha direita</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.4.customLabel>
+            <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.6.parts.0.customLabel>presa esquerda</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.6.parts.0.customLabel>
+            <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.6.parts.1.customLabel>presa direita</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.6.parts.1.customLabel>
+            <AEXP_TuskedPinniped.corePart.parts.10.customLabel>nadadeira esquerda</AEXP_TuskedPinniped.corePart.parts.10.customLabel>
+            <AEXP_TuskedPinniped.corePart.parts.11.customLabel>nadadeira direita</AEXP_TuskedPinniped.corePart.parts.11.customLabel>
+
 </LanguageData>

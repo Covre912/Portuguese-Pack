@@ -210,6 +210,7 @@
 		<!-- Raw Fish -->
 			<AEXP_RawFish.label>peixe cru</AEXP_RawFish.label>
 			<AEXP_RawFish.description>Peixe cru. Um pinguim engenhoso pescou isso.</AEXP_RawFish.description>
+			<AEXP_RawFish.tools.0.label>peixe cru</AEXP_RawFish.tools.0.label>
 
 		<!-- Moa Egg -->
 			<AEXP_EggMoaFertilized.label>ovo de moa (fert.)</AEXP_EggMoaFertilized.label>
@@ -229,6 +230,21 @@
 		<!-- Camel Wool -->
 			<WoolCamel.label>lã de camelo</WoolCamel.label>
 			<WoolCamel.description>Lã de camelo. Fornece um bom isolamento do calor.</WoolCamel.description>
+
+	<!-- Vanilla Animals Expanded - Ice Sheet -->
+		<!-- Walrus Tusk -->
+			<AEXP_WalrusTusk.label>presa de morsa</AEXP_WalrusTusk.label>
+			<AEXP_WalrusTusk.description>A presa de uma morsa. É muito valiosa, até como arma corpo-a-corpo.</AEXP_WalrusTusk.description>
+			<AEXP_WalrusTusk.tools.0.label>ponta</AEXP_WalrusTusk.tools.0.label>
+			<AEXP_WalrusTusk.tools.1.label>base</AEXP_WalrusTusk.tools.1.label>
+
+		<!-- Penguin Egg -->
+			<AEXP_EggPenguinFertilized.label>ovo de penguim (fert.)</AEXP_EggPenguinFertilized.label>
+			<AEXP_EggPenguinFertilized.description>Ovo de penguim fertilizado. Se tudo ocorrer bem, ele deve eclodir um penguim bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggPenguinFertilized.description>
+
+		<!-- Pinniped Leather -->
+			<AEXP_Leather_Pinniped.label>couro de pinípede</AEXP_Leather_Pinniped.label>
+			<AEXP_Leather_Pinniped.description>Couro curtido e seco de pinípede. É de resistência média, mas isola bem contra o calor.</AEXP_Leather_Pinniped.description>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Component -->

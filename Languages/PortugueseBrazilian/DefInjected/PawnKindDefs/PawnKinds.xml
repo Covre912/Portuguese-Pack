@@ -280,6 +280,19 @@
             <AEXP_Megascorpion.label>megaescorpião</AEXP_Megascorpion.label>
             <AEXP_Megascorpion.labelPlural>megaescorpiões</AEXP_Megascorpion.labelPlural>
 
+    <!-- Vanilla Animals Expanded - Ice Sheet -->
+        <!-- Penguim -->
+            <AEXP_Penguin.label>pinguim</AEXP_Penguin.label>
+            <AEXP_Penguin.labelPlural>puinguins</AEXP_Penguin.labelPlural>
+
+        <!-- Seal -->
+            <AEXP_Seal.label>foca</AEXP_Seal.label>
+            <AEXP_Seal.labelPlural>focas</AEXP_Seal.labelPlural>
+
+        <!-- Walrus -->
+            <AEXP_Walrus.label>morsa</AEXP_Walrus.label>
+            <AEXP_Walrus.labelPlural>morsas</AEXP_Walrus.labelPlural>
+
     <!-- Zombieland -->
         <!-- Zombie -->
             <Zombie.label>zumbi</Zombie.label>
