@@ -36,6 +36,11 @@
             <VSE-IgorInvader.label>Igor Invasor</VSE-IgorInvader.label>
             <VSE-IgorInvader.description>Igor Invasor não se importa com histórias chatas sobre colônias prósperas. A única história que vale a pena contar é a do combate. Ele enviará invasões a cada dois ou três dias, recompensando os jogadores por lidar com eles rapidamente e punindo os jogadores por quaisquer perdas. Este narrador dobra todos os tipos de dano.</VSE-IgorInvader.description>
 
+    <!-- Vanilla Storytellers Expanded - Neron Neolithic -->
+        <!-- Neron Neolithic -->
+            <VSE_NeronNeolithic.label>Neron Neolítico</VSE_NeronNeolithic.label>
+            <VSE_NeronNeolithic.description>Neron Neolithic cria uma história de crescente de desafio e tensão. As lendas mais fabulosas são criadas no calor da batalha, e apenas a prova de fogo fará de você um homem melhor. A maioria das facções e todas as pesquisas serão limitadas à era neolítica.</VSE_NeronNeolithic.description>
+
     <!-- Vanilla Storytellers Expanded - Oskar Obnoxious -->
         <!-- Oskar Obnoxious -->
             <VSE_OskarObnoxious.label>Oskar Obnóxio</VSE_OskarObnoxious.label>
