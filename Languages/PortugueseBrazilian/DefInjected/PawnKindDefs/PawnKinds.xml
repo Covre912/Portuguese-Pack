@@ -1,6 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Animals Expanded - Arid Shrubland -->
+        <!-- Coyote -->
+            <AEXP_Coyote.label>coiote</AEXP_Coyote.label>
+            <AEXP_Coyote.labelPlural>coiotes</AEXP_Coyote.labelPlural>
+            <AEXP_Coyote.lifeStages.0.label>coiote filhote</AEXP_Coyote.lifeStages.0.label>
+            <AEXP_Coyote.lifeStages.0.labelPlural>coiotes filhotes</AEXP_Coyote.lifeStages.0.labelPlural>
+
+        <!-- Giraffe -->
+            <AEXP_Giraffe.label>girafa</AEXP_Giraffe.label>
+            <AEXP_Giraffe.labelPlural>girafas</AEXP_Giraffe.labelPlural>
+            <AEXP_Giraffe.lifeStages.0.label>girafa filhote</AEXP_Giraffe.lifeStages.0.label>
+            <AEXP_Giraffe.lifeStages.0.labelPlural>girafas filhotes</AEXP_Giraffe.lifeStages.0.labelPlural>
+
+        <!-- Hippopotamus -->
+            <AEXP_Hippopotamus.label>hipopótamo</AEXP_Hippopotamus.label>
+            <AEXP_Hippopotamus.labelPlural>hipopótamos</AEXP_Hippopotamus.labelPlural>
+            <AEXP_Hippopotamus.lifeStages.0.label>hipopótamo filhote</AEXP_Hippopotamus.lifeStages.0.label>
+            <AEXP_Hippopotamus.lifeStages.0.labelPlural>hipopótamos filhotes</AEXP_Hippopotamus.lifeStages.0.labelPlural>
+
+        <!-- Zebra -->
+            <AEXP_Zebra.label>zebra</AEXP_Zebra.label>
+            <AEXP_Zebra.labelPlural>zebras</AEXP_Zebra.labelPlural>
+            <AEXP_Zebra.lifeStages.0.label>zebra filhote</AEXP_Zebra.lifeStages.0.label>
+            <AEXP_Zebra.lifeStages.0.labelPlural>zebras filhotes</AEXP_Zebra.lifeStages.0.labelPlural>
+
+        <!-- Wildebeest -->
+            <AEXP_Wildebeest.label>gnu</AEXP_Wildebeest.label>
+            <AEXP_Wildebeest.labelPlural>gnus</AEXP_Wildebeest.labelPlural>
+            <AEXP_Wildebeest.lifeStages.0.label>gnu filhote</AEXP_Wildebeest.lifeStages.0.label>
+            <AEXP_Wildebeest.lifeStages.0.labelPlural>gnus filhotes</AEXP_Wildebeest.lifeStages.0.labelPlural>
+
+        <!-- Crocodile -->
+            <AEXP_Crocodile.label>crocodilo</AEXP_Crocodile.label>
+            <AEXP_Crocodile.labelPlural>crocodilos</AEXP_Crocodile.labelPlural>
+
+        <!-- Cheetah -->
+            <AEXP_Cheetah.label>guepardo</AEXP_Cheetah.label>
+            <AEXP_Cheetah.labelPlural>guepardos</AEXP_Cheetah.labelPlural>
+
     <!-- Zombieland -->
         <!-- Zombie -->
             <Zombie.label>zumbi</Zombie.label>
