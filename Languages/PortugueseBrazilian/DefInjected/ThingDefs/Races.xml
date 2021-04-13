@@ -265,12 +265,90 @@
             <AEXP_Lion.tools.3.label>cabeça</AEXP_Lion.tools.3.label>
 
         <!-- Gila Monster -->
-            <AEXP_GilaMonster>monstro-de-gila</AEXP_GilaMonster>
+            <AEXP_GilaMonster.label>monstro-de-gila</AEXP_GilaMonster.label>
             <AEXP_GilaMonster.description>Um lagarto grande e lento, encontrado principalmente no deserto, conhecido por sua mordida altamente venenosa, que inflige um forte acúmulo tóxico em sua presa. Os forasteiros até hoje acreditam em contos que afirmam que este lagarto é uma cria do inferno, e que seu hálito é letal.</AEXP_GilaMonster.description>
             <AEXP_GilaMonster.tools.0.label>garra esquerda</AEXP_GilaMonster.tools.0.label>
             <AEXP_GilaMonster.tools.1.label>garra direita</AEXP_GilaMonster.tools.1.label>
             <AEXP_GilaMonster.tools.2.label>dentes</AEXP_GilaMonster.tools.2.label>
             <AEXP_GilaMonster.tools.3.label>cabeça</AEXP_GilaMonster.tools.3.label>
+
+    <!-- Vanilla Animals Expanded - Endangered -->
+        <!-- Black-Footed Ferret -->
+            <AEXP_BlackFootedFerret.label>doninha-de-patas-pretas</AEXP_BlackFootedFerret.label>
+            <AEXP_BlackFootedFerret.description>Um pequeno membro noturno da família da doninha que se alimenta de outros mamíferos menores. Tem um corpo longo e pêlo castanho-amarelado com uma camada de pelos enegrecidos nas costas e uma máscara preta em volta dos olhos.</AEXP_BlackFootedFerret.description>
+            <AEXP_BlackFootedFerret.tools.0.label>garra esquerda</AEXP_BlackFootedFerret.tools.0.label>
+            <AEXP_BlackFootedFerret.tools.1.label>garra direita</AEXP_BlackFootedFerret.tools.1.label>
+            <AEXP_BlackFootedFerret.tools.3.label>cabeça</AEXP_BlackFootedFerret.tools.3.label>
+
+        <!-- Black Rhinoceros -->
+            <AEXP_BlackRhino.label>rinoceronte-negro</AEXP_BlackRhino.label>
+            <AEXP_BlackRhino.description>Um enorme mamífero herbívoro com uma disposição temperamental. Os rinocerontes-negros diferem de seus parentes brancos em seu tamanho ligeiramente menor e no formato dos lábios, uma diferença relacionada à dieta dos animais, que se alimentam principalmente de arbustos.</AEXP_BlackRhino.description>
+            <AEXP_BlackRhino.tools.0.label>chifre</AEXP_BlackRhino.tools.0.label>
+            <AEXP_BlackRhino.tools.1.label>chifre</AEXP_BlackRhino.tools.1.label>
+            <AEXP_BlackRhino.tools.3.label>cabeça</AEXP_BlackRhino.tools.3.label>
+
+        <!-- Bonobo -->
+            <AEXP_Bonobo.label>bonobo</AEXP_Bonobo.label>
+            <AEXP_Bonobo.description>Um grande macaco, um parente menor do chimpanzé, com o crânio mais redondo e o rosto mais achatado. Os bonobos têm pernas mais longas, braços mais curtos e um tronco mais estreito. Eles exibem um comportamento social notavelmente diferente dos chimpanzés, com ênfase na pacificação, e o sexo como uma ferramenta para controlar e difundir a tensão.</AEXP_Bonobo.description>
+            <AEXP_Bonobo.tools.0.label>punho esquerdo</AEXP_Bonobo.tools.0.label>
+            <AEXP_Bonobo.tools.1.label>punho direito</AEXP_Bonobo.tools.1.label>
+            <AEXP_Bonobo.tools.3.label>cabeça</AEXP_Bonobo.tools.3.label>
+
+        <!-- Moa -->
+            <AEXP_Moa.label>moa</AEXP_Moa.label>
+            <AEXP_Moa.description>Um grande pássaro herbívoro que não voa. Os moas careciam até mesmo das asas vestigiais que todas as outras ratites têm. Moas se alimentam de uma variedade de espécies e partes de plantas, incluindo galhos fibrosos e folhas retiradas de árvores baixas e arbustos.</AEXP_Moa.description>
+            <AEXP_Moa.tools.0.label>garras</AEXP_Moa.tools.0.label>
+            <AEXP_Moa.tools.1.label>bico</AEXP_Moa.tools.1.label>
+            <AEXP_Moa.tools.2.label>cabeça</AEXP_Moa.tools.2.label>
+
+        <!-- Giant Panda -->
+            <AEXP_Panda.label>panda-gigante</AEXP_Panda.label>
+            <AEXP_Panda.description>O panda, com seu pelo preto e branco distinto e exuberante, é um urso hervíboro adaptado à vida nas florestas de bambu. Em média, o panda gigante come de 9 a 14 kg de brotos de bambu por dia para compensar o conteúdo limitado de energia de sua dieta. Os pandas são geralmente menos agressivos do que outras espécies de urso.</AEXP_Panda.description>
+            <AEXP_Panda.tools.0.label>garra esquerda</AEXP_Panda.tools.0.label>
+            <AEXP_Panda.tools.1.label>garra direita</AEXP_Panda.tools.1.label>
+            <AEXP_Panda.tools.3.label>cabeça</AEXP_Panda.tools.3.label>
+
+        <!-- Quagga -->
+            <AEXP_Quagga.label>quaga</AEXP_Quagga.label>
+            <AEXP_Quagga.description>A quaga é uma subespécie da zebra das planícies. Ela se distingue de outras zebras por seu padrão limitado de listras marrons e brancas, na parte frontal do corpo. A parte traseira é marrom e sem listras, e parece mais semelhante a um cavalo.</AEXP_Quagga.description>
+            <AEXP_Quagga.tools.0.label>cabeça</AEXP_Quagga.tools.0.label>
+            <AEXP_Quagga.tools.1.label>casco esquerdo</AEXP_Quagga.tools.1.label>
+            <AEXP_Quagga.tools.2.label>casco direito</AEXP_Quagga.tools.2.label>
+
+        <!-- Rockhopper Penguin -->
+            <AEXP_RockhopperPenguin.label>pinguim-saltador-da-rocha</AEXP_RockhopperPenguin.label>
+            <AEXP_RockhopperPenguin.description>Muito menores que o pinguim-imperador, os pinguins-saltadores-da-rocha pesam menos de 5 quilos. Eles foram nomeados por seus movimentos de salto característicos sobre as colinas rochosas e penhascos onde vivem e se reproduzem.</AEXP_RockhopperPenguin.description>
+            <AEXP_RockhopperPenguin.tools.0.label>garras</AEXP_RockhopperPenguin.tools.0.label>
+            <AEXP_RockhopperPenguin.tools.1.label>bico</AEXP_RockhopperPenguin.tools.1.label>
+            <AEXP_RockhopperPenguin.tools.2.label>cabeça</AEXP_RockhopperPenguin.tools.2.label>
+
+        <!-- Tasmanian Devil -->
+            <AEXP_TasmanianDevil.label>diabo-da-tasmânia</AEXP_TasmanianDevil.label>
+            <AEXP_TasmanianDevil.description>Um marsupial carnívoro caracterizado por sua constituição robusta e musculosa, pelo preto, odor pungente, guincho extremamente alto e perturbador, olfato aguçado e ferocidade.</AEXP_TasmanianDevil.description>
+            <AEXP_TasmanianDevil.tools.0.label>garra esquerda</AEXP_TasmanianDevil.tools.0.label>
+            <AEXP_TasmanianDevil.tools.1.label>garra direita</AEXP_TasmanianDevil.tools.1.label>
+            <AEXP_TasmanianDevil.tools.3.label>cabeça</AEXP_TasmanianDevil.tools.3.label>
+
+        <!-- Thylacine -->
+            <AEXP_Thylacine.label>tilacino</AEXP_Thylacine.label>
+            <AEXP_Thylacine.description>Comumente conhecido como tigre-da-tasmânia por causa de suas costas listradas, o tilacino é um predador carnívoro tímido e noturno, com aparência geral de um cão de tamanho médio a grande, exceto por sua cauda rígida e bolsa abdominal semelhante a de um canguru.</AEXP_Thylacine.description>
+            <AEXP_Thylacine.tools.0.label>garra esquerda</AEXP_Thylacine.tools.0.label>
+            <AEXP_Thylacine.tools.1.label>garra direita</AEXP_Thylacine.tools.1.label>
+            <AEXP_Thylacine.tools.3.label>cabeça</AEXP_Thylacine.tools.3.label>
+
+        <!-- African Wild Dog -->   
+            <AEXP_AfricanWildDog.label>mabeco</AEXP_AfricanWildDog.label>
+            <AEXP_AfricanWildDog.description>Um grande canino, distinto de cães e lobos pela dentição altamente especializada para uma dieta hipercarnívora. O mabeco é um animal altamente social que vive em matilhas. Como a maioria dos caninos selvagens, eles preferem ficar o mais longe possível dos humanos.</AEXP_AfricanWildDog.description>
+            <AEXP_AfricanWildDog.tools.0.label>garra esquerda</AEXP_AfricanWildDog.tools.0.label>
+            <AEXP_AfricanWildDog.tools.1.label>garra direita</AEXP_AfricanWildDog.tools.1.label>
+            <AEXP_AfricanWildDog.tools.3.label>cabeça</AEXP_AfricanWildDog.tools.3.label>
+
+        <!-- Pangolin -->
+            <AEXP_Pangolin.label>pangolim-gigante</AEXP_Pangolin.label>
+            <AEXP_Pangolin.description>Também conhecidos como tamanduás escamosos, os pangolins são mamíferos com grandes escamas protetoras de queratina. Os pangolins são noturnos e sua dieta consiste principalmente de formigas e cupins, que capturam com sua língua comprida. Eles tendem a ser animais solitários, encontrando-se apenas para acasalar.</AEXP_Pangolin.description>
+            <AEXP_Pangolin.tools.0.label>garra esquerda</AEXP_Pangolin.tools.0.label>
+            <AEXP_Pangolin.tools.1.label>garra direita</AEXP_Pangolin.tools.1.label>
+            <AEXP_Pangolin.tools.3.label>cabeça</AEXP_Pangolin.tools.3.label>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Advanced Centipede -->

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Animals Expanded - Endangered -->
+        <!-- Extinct Animals -->
+            <AEXP_ExtintAnimalsPasses.label>animais em extinção</AEXP_ExtintAnimalsPasses.label>
+
     <!-- Vanilla Events Expanded -->
         <!-- Ice Age-->
             <VEE_IceAge.label>era do gelo</VEE_IceAge.label>

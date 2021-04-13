@@ -5,6 +5,13 @@
         <!-- Finish Off Creature -->
             <FinishOffPawn.reportString>finalizando criatura.</FinishOffPawn.reportString>
 
+    <!-- Vanilla Animals Expanded - Endargered -->
+        <!-- Ingest Ants -->
+            <AEXP_IngestAnts.reportString>devorando formigas.</AEXP_IngestAnts.reportString>
+
+        <!-- Go To The Wild -->
+            <AEXP_GotoTheWild.reportString>indo para a naturza.</AEXP_GotoTheWild.reportString>
+
     <!-- Vanilla Events Expanded -->
         <!-- Hunt -->
             <HuntAndLeave.reportString>caçando TargetA.</HuntAndLeave.reportString>

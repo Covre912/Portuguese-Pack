@@ -216,6 +216,55 @@
             <AEXP_GilaMonster.label>monstro-de-gila</AEXP_GilaMonster.label>
             <AEXP_GilaMonster.labelPlural>monstros-de-gila</AEXP_GilaMonster.labelPlural>
 
+    <!-- Vanilla Animals Expanded - Endangered -->
+        <!-- Black-Footed Ferret -->
+            <AEXP_BlackFootedFerret.label>doninha-de-patas-pretas</AEXP_BlackFootedFerret.label>
+            <AEXP_BlackFootedFerret.labelPlural>doninhas-de-patas-pretas</AEXP_BlackFootedFerret.labelPlural>
+
+        <!-- Black Rhinoceros -->
+            <AEXP_BlackRhino.label>rinoceronte-negro</AEXP_BlackRhino.label>
+            <AEXP_BlackRhino.labelPlural>rinocerontes-negros</AEXP_BlackRhino.labelPlural>
+
+        <!-- Bonobo -->
+            <AEXP_Bonobo.label>bonobo</AEXP_Bonobo.label>
+            <AEXP_Bonobo.labelPlural>bonobos</AEXP_Bonobo.labelPlural>
+
+        <!-- Moa -->
+            <AEXP_Moa.label>moa</AEXP_Moa.label>
+            <AEXP_Moa.labelPlural>moas</AEXP_Moa.labelPlural>
+
+        <!-- Giant Panda -->
+            <AEXP_Panda.label>panda-gigante</AEXP_Panda.label>
+            <AEXP_Panda.labelPlural>pandas-gigantes</AEXP_Panda.labelPlural>
+
+        <!-- Quagga -->
+            <AEXP_Quagga.label>quaga</AEXP_Quagga.label>
+            <AEXP_Quagga.labelPlural>quagas</AEXP_Quagga.labelPlural>
+            <AEXP_Quagga.lifeStages.0.label>quaga filhote</AEXP_Quagga.lifeStages.0.label>
+            <AEXP_Quagga.lifeStages.0.labelPlural>quagas filhotes</AEXP_Quagga.lifeStages.0.labelPlural>
+
+        <!-- Rockhopper Penguin -->
+            <AEXP_RockhopperPenguin.label>pinguim-saltador-da-rocha</AEXP_RockhopperPenguin.label>
+            <AEXP_RockhopperPenguin.labelPlural>pinguins-saltadores-da-rocha</AEXP_RockhopperPenguin.labelPlural>
+
+        <!-- Tasmanian Devil -->
+            <AEXP_TasmanianDevil.label>diabo-da-tasmânia</AEXP_TasmanianDevil.label>
+            <AEXP_TasmanianDevil.labelPlural>diabos-da-tasmânia</AEXP_TasmanianDevil.labelPlural>
+
+        <!-- Thylacine -->
+            <AEXP_Thylacine.label>tilacino</AEXP_Thylacine.label>
+            <AEXP_Thylacine.labelPlural>tilacinos</AEXP_Thylacine.labelPlural>
+
+        <!-- African Wild Dog -->
+            <AEXP_AfricanWildDog.label>mabeco</AEXP_AfricanWildDog.label>
+            <AEXP_AfricanWildDog.labelPlural>mabecos</AEXP_AfricanWildDog.labelPlural>
+            <AEXP_AfricanWildDog.lifeStages.0.label>mabeco filhote</AEXP_AfricanWildDog.lifeStages.0.label>
+            <AEXP_AfricanWildDog.lifeStages.0.labelPlural>mabecos filhotes</AEXP_AfricanWildDog.lifeStages.0.labelPlural>
+
+        <!-- Pangolin -->
+            <AEXP_Pangolin.label>pangolim-gigante</AEXP_Pangolin.label>
+            <AEXP_Pangolin.labelPlural>pangolins-gigantes</AEXP_Pangolin.labelPlural>
+
     <!-- Zombieland -->
         <!-- Zombie -->
             <Zombie.label>zumbi</Zombie.label>

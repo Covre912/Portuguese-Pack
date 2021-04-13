@@ -1068,6 +1068,21 @@
 	        <NocturnalAnimals.BodyClock_Nocturnal>Noturno</NocturnalAnimals.BodyClock_Nocturnal>
 	        <NocturnalAnimals.BodyClock_Crepuscular>Crepuscular</NocturnalAnimals.BodyClock_Crepuscular>
 
+    <!-- Vanilla Animals Expanded - Endangered -->
+        <!-- Release Into Wild -->
+        	<VAEE.ReleaseIntoWild>Libertar</VAEE.ReleaseIntoWild>
+	        <VAEE.ReleaseIntoWildDesc>Liberte este animal para a natureza e aumente as relações com outras facções.</VAEE.ReleaseIntoWildDesc>
+            <VAEE.ReleasingToTheWildMessage>Libertar um animal em extinção melhorou as relações com outras facções em +2.</VAEE.ReleasingToTheWildMessage>
+            <VAEE.ReleasingToTheWildConfirmation>Libertar\n\nLibertar um animal significa que você nunca o verá novamente, pois o animal sairá do mapa.</VAEE.ReleasingToTheWildConfirmation>
+            <VAEE.Cancel>Cancelar</VAEE.Cancel>
+
+        <!-- Extint Animals Passes -->
+	        <VAEE.LetterLabelExtintAnimalsPasses>Animais em Extinção.</VAEE.LetterLabelExtintAnimalsPasses>
+	        <VAEE.LetterExtintAnimalsPasses>Um par de {0}, criticamente ameaçados de extinção, vagam pela área.\n\nPodem facilmente ser vítimas de predadores maiores, mas você pode domesticá-los e trazê-los para um local seguro.\n\nLibertar animais ameaçados de extinção aumentará as relações com outras facções.</VAEE.LetterExtintAnimalsPasses>
+
+        <!-- Settings -->
+            <VAEE.AddBanishGizmoToAllAnimals>Adicione o botão "Libertar" para todos os animais</VAEE.AddBanishGizmoToAllAnimals>
+
     <!-- Vanilla Events Expanded -->
         <!-- Animal Transport Pod Crash -->
             <LetterLabelAnimalPodCrash>Queda de cápsula de transporte de animal</LetterLabelAnimalPodCrash>
