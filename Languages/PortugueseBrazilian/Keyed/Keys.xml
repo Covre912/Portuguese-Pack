@@ -1073,7 +1073,7 @@
         	<VAEE.ReleaseIntoWild>Libertar</VAEE.ReleaseIntoWild>
 	        <VAEE.ReleaseIntoWildDesc>Liberte este animal para a natureza e aumente as relações com outras facções.</VAEE.ReleaseIntoWildDesc>
             <VAEE.ReleasingToTheWildMessage>Libertar um animal em extinção melhorou as relações com outras facções em +2.</VAEE.ReleasingToTheWildMessage>
-            <VAEE.ReleasingToTheWildConfirmation>Libertar\n\nLibertar um animal significa que você nunca o verá novamente, pois o animal sairá do mapa.</VAEE.ReleasingToTheWildConfirmation>
+            <VAEE.ReleasingToTheWildConfirmation>Libertar um animal significa que você nunca o verá novamente, pois o animal sairá do mapa.</VAEE.ReleasingToTheWildConfirmation>
             <VAEE.Cancel>Cancelar</VAEE.Cancel>
 
         <!-- Extint Animals Passes -->
