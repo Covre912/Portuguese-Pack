@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Animals Expanded - Desert -->
+        <!-- Venomous Bite -->
+            <AEXP_GilaToxicBuildUp.label>mordida venenosa</AEXP_GilaToxicBuildUp.label>
+            <AEXP_GilaToxicBuildUp.deathMessage>{0} foi morto envenenado.</AEXP_GilaToxicBuildUp.deathMessage>
+
     <!-- Vanilla Expanded Framework -->
         <!-- Acid Burn -->
             <VEF_SecondaryAcidBurn.label>ácido</VEF_SecondaryAcidBurn.label>

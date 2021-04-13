@@ -243,6 +243,35 @@
             <AEXP_WelshTerrier.tools.2.label>dentinhos fofos</AEXP_WelshTerrier.tools.2.label>
             <AEXP_WelshTerrier.tools.3.label>cabeça</AEXP_WelshTerrier.tools.3.label>
 
+    <!-- Vanilla Animals Expanded - Desert -->
+        <!-- Hyena -->
+            <AEXP_Hyena.label>hiena</AEXP_Hyena.label>
+            <AEXP_Hyena.description>Um grande carnívoro parecido com um cão, encontrado em matagais e desertos. O riso produzido por esses animais pode semear o medo durante as longas noites no deserto.</AEXP_Hyena.description>
+            <AEXP_Hyena.tools.0.label>garra esquerda</AEXP_Hyena.tools.0.label>
+            <AEXP_Hyena.tools.1.label>garra direita</AEXP_Hyena.tools.1.label>
+            <AEXP_Hyena.tools.3.label>cabeça</AEXP_Hyena.tools.3.label>
+
+        <!-- Desert Tortoise -->
+            <AEXP_DesertTortoise.label>tartaruga do deserto</AEXP_DesertTortoise.label>
+            <AEXP_DesertTortoise.description>Este réptil que vive no deserto com uma blindagem pesada é conhecido por sua velocidade de movimento lenta e sua concha extremamente dura, tornando-o difícil de matar. As tartarugas do deserto, apesar de seus pequenos tamanhos, são ótimos animais de combate.</AEXP_DesertTortoise.description>
+            <AEXP_DesertTortoise.tools.0.label>bico</AEXP_DesertTortoise.tools.0.label>
+            <AEXP_DesertTortoise.tools.1.label>cabeça</AEXP_DesertTortoise.tools.1.label>
+
+        <!-- Lion -->
+            <AEXP_Lion.label>leão</AEXP_Lion.label>
+            <AEXP_Lion.description>Rei do reino animal, o leão é um gato musculoso, de peito largo, cabeça curta e juba proeminente. Sendo os maiores felinos, os leões são excelentes animais de combate.</AEXP_Lion.description>
+            <AEXP_Lion.tools.0.label>garra esquerda</AEXP_Lion.tools.0.label>
+            <AEXP_Lion.tools.1.label>garra direita</AEXP_Lion.tools.1.label>
+            <AEXP_Lion.tools.3.label>cabeça</AEXP_Lion.tools.3.label>
+
+        <!-- Gila Monster -->
+            <AEXP_GilaMonster>monstro-de-gila</AEXP_GilaMonster>
+            <AEXP_GilaMonster.description>Um lagarto grande e lento, encontrado principalmente no deserto, conhecido por sua mordida altamente venenosa, que inflige um forte acúmulo tóxico em sua presa. Os forasteiros até hoje acreditam em contos que afirmam que este lagarto é uma cria do inferno, e que seu hálito é letal.</AEXP_GilaMonster.description>
+            <AEXP_GilaMonster.tools.0.label>garra esquerda</AEXP_GilaMonster.tools.0.label>
+            <AEXP_GilaMonster.tools.1.label>garra direita</AEXP_GilaMonster.tools.1.label>
+            <AEXP_GilaMonster.tools.2.label>dentes</AEXP_GilaMonster.tools.2.label>
+            <AEXP_GilaMonster.tools.3.label>cabeça</AEXP_GilaMonster.tools.3.label>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Advanced Centipede -->
             <VFE_Mech_AdvancedCentipede.label>centopéia avançada</VFE_Mech_AdvancedCentipede.label>

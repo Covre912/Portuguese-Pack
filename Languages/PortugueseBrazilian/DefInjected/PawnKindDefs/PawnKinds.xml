@@ -195,6 +195,27 @@
             <AEXP_WelshTerrier.lifeStages.0.label>welsh terrier filhote</AEXP_WelshTerrier.lifeStages.0.label>
             <AEXP_WelshTerrier.lifeStages.0.labelPlural>welsh terriers filhotes</AEXP_WelshTerrier.lifeStages.0.labelPlural>
 
+    <!-- Vanilla Animals Expanded - Desert -->
+        <!-- Hyena -->
+            <AEXP_Hyena.label>hiena</AEXP_Hyena.label>
+            <AEXP_Hyena.labelPlural>hienas</AEXP_Hyena.labelPlural>
+            <AEXP_Hyena.lifeStages.0.label>hiena filhote</AEXP_Hyena.lifeStages.0.label>
+            <AEXP_Hyena.lifeStages.0.labelPlural>hienas filhotes</AEXP_Hyena.lifeStages.0.labelPlural>
+
+        <!-- Desert Tortoise -->
+            <AEXP_DesertTortoise.label>tartaruga do deserto</AEXP_DesertTortoise.label>
+            <AEXP_DesertTortoise.labelPlural>tartarugas do deserto</AEXP_DesertTortoise.labelPlural>
+
+        <!-- Lion -->
+            <AEXP_Lion.label>leão</AEXP_Lion.label>
+            <AEXP_Lion.labelPlural>leões</AEXP_Lion.labelPlural>
+            <AEXP_Lion.lifeStages.0.label>leão filhote</AEXP_Lion.lifeStages.0.label>
+            <AEXP_Lion.lifeStages.0.labelPlural>leões filhotes</AEXP_Lion.lifeStages.0.labelPlural>
+
+        <!-- Gila Monster -->
+            <AEXP_GilaMonster.label>monstro-de-gila</AEXP_GilaMonster.label>
+            <AEXP_GilaMonster.labelPlural>monstros-de-gila</AEXP_GilaMonster.labelPlural>
+
     <!-- Zombieland -->
         <!-- Zombie -->
             <Zombie.label>zumbi</Zombie.label>

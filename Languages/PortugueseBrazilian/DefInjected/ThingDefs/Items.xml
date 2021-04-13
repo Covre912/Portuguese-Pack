@@ -189,6 +189,23 @@
 			<AEXP_Leather_Platypus.label>couro de ornitorrinco</AEXP_Leather_Platypus.label>
 			<AEXP_Leather_Platypus.description>A pele do ornitorrinco era considerada uma mercadoria valiosa, um fato que quase levou o ornitorrinco à extinção. Felizmente, o animal foi protegido e prosperou novamente.</AEXP_Leather_Platypus.description>
 
+	<!-- Vanilla Animals Expanded - Desert -->
+		<!-- Desert Tortoise Egg -->
+			<AEXP_EggDesertTortoiseUnfertilized.label>ovo de tartaruga do deserto (não fert.)</AEXP_EggDesertTortoiseUnfertilized.label>
+			<AEXP_EggDesertTortoiseUnfertilized.description>Ovo de tartaruga do deserto não fertilizado. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggDesertTortoiseUnfertilized.description>
+			<AEXP_EggDesertTortoiseFertilized.label>ovo de tartaruga do deserto (fert.)</AEXP_EggDesertTortoiseFertilized.label>
+			<AEXP_EggDesertTortoiseFertilized.description>Ovo de tartaruga do deserto fertilizado. Se tudo ocorrer bem, ele deve eclodir uma tartaruga do deserto bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggDesertTortoiseFertilized.description>
+
+		<!-- Gila Monster Egg -->
+			<AEXP_EggGilaMonsterUnfertilized.label>ovo de monstro-de-gila (não fert.)</AEXP_EggGilaMonsterUnfertilized.label>
+			<AEXP_EggGilaMonsterUnfertilized.description>Ovo de monstro-de-gila não fertilizado. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggGilaMonsterUnfertilized.description>
+			<AEXP_EggGilaMonsterFertilized.label>ovo de monstro-de-gila (fert.)</AEXP_EggGilaMonsterFertilized.label>
+			<AEXP_EggGilaMonsterFertilized.description>Ovo de monstro-de-gila fertilizado. Se tudo ocorrer bem, ele deve eclodir um monstro-de-gila bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggGilaMonsterFertilized.description>
+
+		<!-- Lion Pelt -->
+			<AEXP_Leather_Lion.label>pele de leão</AEXP_Leather_Lion.label>
+			<AEXP_Leather_Lion.description>Um couro forte e luxuoso do líder do reino animal. Frequentemente procurado por filantropos do mundo urbano.</AEXP_Leather_Lion.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Component -->
             <VFE_ComponentMechanoid.label>componente mecanóide</VFE_ComponentMechanoid.label>
