@@ -1077,7 +1077,7 @@
             <VAEE.Cancel>Cancelar</VAEE.Cancel>
 
         <!-- Extint Animals Passes -->
-	        <VAEE.LetterLabelExtintAnimalsPasses>Animais em Extinção.</VAEE.LetterLabelExtintAnimalsPasses>
+	        <VAEE.LetterLabelExtintAnimalsPasses>Animais em Extinção</VAEE.LetterLabelExtintAnimalsPasses>
 	        <VAEE.LetterExtintAnimalsPasses>Um par de {0}, criticamente ameaçados de extinção, vagam pela área.\n\nPodem facilmente ser vítimas de predadores maiores, mas você pode domesticá-los e trazê-los para um local seguro.\n\nLibertar animais ameaçados de extinção aumentará as relações com outras facções.</VAEE.LetterExtintAnimalsPasses>
 
         <!-- Settings -->

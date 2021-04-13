@@ -206,6 +206,19 @@
 			<AEXP_Leather_Lion.label>pele de leão</AEXP_Leather_Lion.label>
 			<AEXP_Leather_Lion.description>Um couro forte e luxuoso do líder do reino animal. Frequentemente procurado por filantropos do mundo urbano.</AEXP_Leather_Lion.description>
 
+	<!-- Vanilla Animals Expanded - Endangered -->
+		<!-- Raw Fish -->
+			<AEXP_RawFish.label>peixe cru</AEXP_RawFish.label>
+			<AEXP_RawFish.description>Peixe cru. Um pinguim engenhoso pescou isso.</AEXP_RawFish.description>
+
+		<!-- Moa Egg -->
+			<AEXP_EggMoaFertilized.label>ovo de moa (fert.)</AEXP_EggMoaFertilized.label>
+			<AEXP_EggMoaFertilized.description>Ovo de moa fertilizado. Se tudo ocorrer bem, ele deve eclodir uma moa bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggMoaFertilized.description>
+	
+		<!-- Rockhopper Penguin Egg -->
+			<AEXP_EggRockhopperPenguinFertilized.label>ovo de pinguim-saltador-da-rocha (fert.)</AEXP_EggRockhopperPenguinFertilized.label>
+			<AEXP_EggRockhopperPenguinFertilized.description>Ovo de pinguim-saltador-da-rocha fertilizado. Se tudo ocorrer bem, ele deve eclodir um pinguim-saltador-da-rocha bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggRockhopperPenguinFertilized.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Component -->
             <VFE_ComponentMechanoid.label>componente mecanóide</VFE_ComponentMechanoid.label>

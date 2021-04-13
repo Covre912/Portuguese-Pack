@@ -150,7 +150,7 @@
 
         <!-- Sphynx Cat -->
             <AEXP_CatSphynx.label>gato sphynx</AEXP_CatSphynx.label>
-            <AEXP_CatSphynx.description>Um gato conhecido pela falta de pêlo, desenvolvido devido à criação seletiva. Por serem quentes ao toque, perdem a temperatura corporal facilmente, o que os fazem procurar fontes de calor.</description></AEXP_CatSphynx.description>
+            <AEXP_CatSphynx.description>Um gato conhecido pela falta de pêlo, desenvolvido devido à criação seletiva. Por serem quentes ao toque, perdem a temperatura corporal facilmente, o que os fazem procurar fontes de calor.</AEXP_CatSphynx.description>
             <AEXP_CatSphynx.tools.0.label>garra esquerda</AEXP_CatSphynx.tools.0.label>
             <AEXP_CatSphynx.tools.1.label>garra direita</AEXP_CatSphynx.tools.1.label>
             <AEXP_CatSphynx.tools.3.label>cabeça</AEXP_CatSphynx.tools.3.label>
