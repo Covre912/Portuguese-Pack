@@ -343,12 +343,33 @@
             <AEXP_AfricanWildDog.tools.1.label>garra direita</AEXP_AfricanWildDog.tools.1.label>
             <AEXP_AfricanWildDog.tools.3.label>cabeça</AEXP_AfricanWildDog.tools.3.label>
 
-        <!-- Pangolin -->
+        <!-- Giant Pangolin -->
             <AEXP_Pangolin.label>pangolim-gigante</AEXP_Pangolin.label>
             <AEXP_Pangolin.description>Também conhecidos como tamanduás escamosos, os pangolins são mamíferos com grandes escamas protetoras de queratina. Os pangolins são noturnos e sua dieta consiste principalmente de formigas e cupins, que capturam com sua língua comprida. Eles tendem a ser animais solitários, encontrando-se apenas para acasalar.</AEXP_Pangolin.description>
             <AEXP_Pangolin.tools.0.label>garra esquerda</AEXP_Pangolin.tools.0.label>
             <AEXP_Pangolin.tools.1.label>garra direita</AEXP_Pangolin.tools.1.label>
             <AEXP_Pangolin.tools.3.label>cabeça</AEXP_Pangolin.tools.3.label>
+
+    <!-- Vanilla Animals Expanded - Extreme Desert -->
+        <!-- Camel -->
+            <AEXP_Camel.label>camelo</AEXP_Camel.label>
+            <AEXP_Camel.description>Um grande mamífero terrestre adaptado a ambientes áridos. Caseiro desde os tempos antigos, sua lã e couro são excepcionalmente bons como isolantes do calor do deserto, e seu leite é bastante nutritivo. Pode ser usado como um animal de carga, mas suas duas corcovas o tornam extremamente desconfortável para cavalgar.</AEXP_Camel.description>
+            <AEXP_Camel.tools.0.label>casco esquerdo</AEXP_Camel.tools.0.label>
+            <AEXP_Camel.tools.1.label>casco direito</AEXP_Camel.tools.1.label>
+            <AEXP_Camel.tools.3.label>cabeça</AEXP_Camel.tools.3.label>
+
+        <!-- Rattlesnake -->
+            <AEXP_Rattlesnake.label>cascavel</AEXP_Rattlesnake.label>
+            <AEXP_Rattlesnake.description>Uma cobra altamente venenosa, cujo nome vem de um chocalho na ponta da cauda. O som gerado soa como um alerta para qualquer predador, porém caso não funcione, as presas do veneno da cascavel infligem uma toxina extremamente dolorosa.</AEXP_Rattlesnake.description>
+            <AEXP_Rattlesnake.tools.0.label>presas venenosas</AEXP_Rattlesnake.tools.0.label>
+            <AEXP_Rattlesnake.tools.1.label>cabeça</AEXP_Rattlesnake.tools.1.label>
+
+        <!-- Megascorpion -->
+            <AEXP_Megascorpion.label>megaescorpião</AEXP_Megascorpion.label>
+            <AEXP_Megascorpion.description>Um escorpião gigante geneticamente modificado. Uma vez criado como uma ferramenta de assassinato perfeita, não é frequentemente visto retornando ao seu habitat natural - o deserto. Um veneno muito potente em seu ferrão o ajuda a atacar presas ainda maiores.</AEXP_Megascorpion.description>
+            <AEXP_Megascorpion.tools.0.label>ferrão</AEXP_Megascorpion.tools.0.label>
+            <AEXP_Megascorpion.tools.1.label>mandíbulas</AEXP_Megascorpion.tools.1.label>
+            <AEXP_Megascorpion.tools.2.label>cabeça</AEXP_Megascorpion.tools.2.label>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Advanced Centipede -->

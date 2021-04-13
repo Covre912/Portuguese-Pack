@@ -4,7 +4,14 @@
     <!-- Vanilla Animals Expanded - Desert -->
         <!-- Venomous Bite -->
             <AEXP_GilaToxicBuildUp.label>mordida venenosa</AEXP_GilaToxicBuildUp.label>
-            <AEXP_GilaToxicBuildUp.deathMessage>{0} foi morto envenenado.</AEXP_GilaToxicBuildUp.deathMessage>
+            <AEXP_GilaToxicBuildUp.deathMessage>{0} morreu envenenado.</AEXP_GilaToxicBuildUp.deathMessage>
+
+    <!-- Vanilla Animals Expanded - Extreme Desert -->
+        <!-- Venomous Bite -->
+            <AEXP_RattleSnakeToxicBuildUp.label>mordida venenosa</AEXP_RattleSnakeToxicBuildUp.label>
+            <AEXP_RattleSnakeToxicBuildUp.deathMessage>{0} morreu envenenado.</AEXP_RattleSnakeToxicBuildUp.deathMessage>
+            <AEXP_MegascorpionToxicBuildUp.label>mordida venenosa</AEXP_MegascorpionToxicBuildUp.label>
+            <AEXP_MegascorpionToxicBuildUp.deathMessage>{0} morreu envenenado.</AEXP_MegascorpionToxicBuildUp.deathMessage>
 
     <!-- Vanilla Expanded Framework -->
         <!-- Acid Burn -->

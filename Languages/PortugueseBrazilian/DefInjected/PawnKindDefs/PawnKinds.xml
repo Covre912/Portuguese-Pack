@@ -265,6 +265,21 @@
             <AEXP_Pangolin.label>pangolim-gigante</AEXP_Pangolin.label>
             <AEXP_Pangolin.labelPlural>pangolins-gigantes</AEXP_Pangolin.labelPlural>
 
+    <!-- Vanilla Animals Expanded - Extreme Desert -->
+        <!-- Camel -->
+            <AEXP_Camel.label>camelo</AEXP_Camel.label>
+            <AEXP_Camel.labelPlural>camelos</AEXP_Camel.labelPlural>
+            <AEXP_Camel.lifeStages.0.label>camelo filhote</AEXP_Camel.lifeStages.0.label>
+            <AEXP_Camel.lifeStages.0.labelPlural>camelos filhotes</AEXP_Camel.lifeStages.0.labelPlural>
+
+        <!-- Rattlesnake -->
+            <AEXP_Rattlesnake.label>cascavel</AEXP_Rattlesnake.label>
+            <AEXP_Rattlesnake.labelPlural>cascavéis</AEXP_Rattlesnake.labelPlural>
+
+        <!-- Megascorpion -->
+            <AEXP_Megascorpion.label>megaescorpião</AEXP_Megascorpion.label>
+            <AEXP_Megascorpion.labelPlural>megaescorpiões</AEXP_Megascorpion.labelPlural>
+
     <!-- Zombieland -->
         <!-- Zombie -->
             <Zombie.label>zumbi</Zombie.label>

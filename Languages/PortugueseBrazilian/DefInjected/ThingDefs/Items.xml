@@ -219,6 +219,17 @@
 			<AEXP_EggRockhopperPenguinFertilized.label>ovo de pinguim-saltador-da-rocha (fert.)</AEXP_EggRockhopperPenguinFertilized.label>
 			<AEXP_EggRockhopperPenguinFertilized.description>Ovo de pinguim-saltador-da-rocha fertilizado. Se tudo ocorrer bem, ele deve eclodir um pinguim-saltador-da-rocha bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggRockhopperPenguinFertilized.description>
 
+	<!-- Vanilla Animals Expanded - Extreme Desert -->
+		<!-- Rattlesnake Egg -->
+			<AEXP_EggRattlesnakeUnfertilized.label>ovo de cascavel (não fert.)</AEXP_EggRattlesnakeUnfertilized.label>
+			<AEXP_EggRattlesnakeUnfertilized.description>Ovo de cascavel não fertilizado. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggRattlesnakeUnfertilized.description>
+			<AEXP_EggRattlesnakeFertilized.label>ovo de cascavel (fert.)</AEXP_EggRattlesnakeFertilized.label>
+			<AEXP_EggRattlesnakeFertilized.description>Ovo de cascavel fertilizado. Se tudo ocorrer bem, ele deve eclodir uma cascavel bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggRattlesnakeFertilized.description>
+
+		<!-- Camel Wool -->
+			<WoolCamel.label>lã de camelo</WoolCamel.label>
+			<WoolCamel.description>Lã de camelo. Fornece um bom isolamento do calor.</WoolCamel.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Component -->
             <VFE_ComponentMechanoid.label>componente mecanóide</VFE_ComponentMechanoid.label>
