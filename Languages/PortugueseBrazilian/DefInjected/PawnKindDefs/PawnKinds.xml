@@ -67,6 +67,133 @@
         <!-- Black Bear -->
             <AEXP_BlackBear.label>urso-negro</AEXP_BlackBear.label>
             <AEXP_BlackBear.labelPlural>ursos-negros</AEXP_BlackBear.labelPlural>
+        
+    <!-- Vanilla Animals Expanded - Dogs and Cats -->
+        <!-- Abyssinian Cat -->
+            <AEXP_CatAbyssinian.label>gato abissínio</AEXP_CatAbyssinian.label>
+            <AEXP_CatAbyssinian.labelPlural>gatos abissínios</AEXP_CatAbyssinian.labelPlural>
+            <AEXP_CatAbyssinian.lifeStages.0.label>gatinho abissínio</AEXP_CatAbyssinian.lifeStages.0.label>
+            <AEXP_CatAbyssinian.lifeStages.0.labelPlural>gatinhos abissínios</AEXP_CatAbyssinian.lifeStages.0.labelPlural>
+
+        <!-- Bengal Cat -->
+            <AEXP_CatBengal.label>gato-de-bengala</AEXP_CatBengal.label>
+            <AEXP_CatBengal.labelPlural>gatos-de-bengala</AEXP_CatBengal.labelPlural>
+            <AEXP_CatBengal.lifeStages.0.label>gatinho-de-bengala</AEXP_CatBengal.lifeStages.0.label>
+            <AEXP_CatBengal.lifeStages.0.labelPlural>gatinhos-de-bengala</AEXP_CatBengal.lifeStages.0.labelPlural>
+
+        <!-- British Shorthair Cat -->
+            <AEXP_CatBritishShorthair.label>gato de pelo curto inglês</AEXP_CatBritishShorthair.label>
+            <AEXP_CatBritishShorthair.labelPlural>gatos de pelo curto inglês</AEXP_CatBritishShorthair.labelPlural>
+            <AEXP_CatBritishShorthair.lifeStages.0.label>gatinho de pelo curto inglês</AEXP_CatBritishShorthair.lifeStages.0.label>
+            <AEXP_CatBritishShorthair.lifeStages.0.labelPlural>gatinhos de pelo curto inglês</AEXP_CatBritishShorthair.lifeStages.0.labelPlural>
+
+        <!-- Maine Coon -->
+            <AEXP_CatMaineCoon.label>maine coon</AEXP_CatMaineCoon.label>
+            <AEXP_CatMaineCoon.labelPlural>maine coons</AEXP_CatMaineCoon.labelPlural>
+            <AEXP_CatMaineCoon.lifeStages.0.label>maine coon filhote</AEXP_CatMaineCoon.lifeStages.0.label>
+            <AEXP_CatMaineCoon.lifeStages.0.labelPlural>maine coons filhotes</AEXP_CatMaineCoon.lifeStages.0.labelPlural>
+
+        <!-- Munchkin Cat -->
+            <AEXP_CatMunchkin.label>gato munchkin</AEXP_CatMunchkin.label>
+            <AEXP_CatMunchkin.labelPlural>gatos munchkin</AEXP_CatMunchkin.labelPlural>
+            <AEXP_CatMunchkin.lifeStages.0.label>gatinho munchkin</AEXP_CatMunchkin.lifeStages.0.label>
+            <AEXP_CatMunchkin.lifeStages.0.labelPlural>gatinhos munchkin</AEXP_CatMunchkin.lifeStages.0.labelPlural>
+
+        <!-- Norwegian Forest Cat -->
+            <AEXP_CatNorwegianForest.label>gato norueguês da floresta</AEXP_CatNorwegianForest.label>
+            <AEXP_CatNorwegianForest.labelPlural>gatos norueguêses da floresta</AEXP_CatNorwegianForest.labelPlural>
+            <AEXP_CatNorwegianForest.lifeStages.0.label>gatinho norueguês da floresta</AEXP_CatNorwegianForest.lifeStages.0.label>
+            <AEXP_CatNorwegianForest.lifeStages.0.labelPlural>gatinhos norueguêses da floresta</AEXP_CatNorwegianForest.lifeStages.0.labelPlural>
+
+        <!-- Persian Cat -->
+            <AEXP_CatPersian.label>gato persa</AEXP_CatPersian.label>
+            <AEXP_CatPersian.labelPlural>gatos persas</AEXP_CatPersian.labelPlural>
+            <AEXP_CatPersian.lifeStages.0.label>gatinho persa</AEXP_CatPersian.lifeStages.0.label>
+            <AEXP_CatPersian.lifeStages.0.labelPlural>gatinhos persas</AEXP_CatPersian.lifeStages.0.labelPlural>
+
+        <!-- Siamese Cat -->
+            <AEXP_CatSiamese.label>gato siamês</AEXP_CatSiamese.label>
+            <AEXP_CatSiamese.labelPlural>gatos siameses</AEXP_CatSiamese.labelPlural>
+            <AEXP_CatSiamese.lifeStages.0.label>gatinho siamês</AEXP_CatSiamese.lifeStages.0.label>
+            <AEXP_CatSiamese.lifeStages.0.labelPlural>gatinhos siameses</AEXP_CatSiamese.lifeStages.0.labelPlural>
+
+        <!-- Somali Cat -->
+            <AEXP_CatSomali.label>gato somali</AEXP_CatSomali.label>
+            <AEXP_CatSomali.labelPlural>gatos somali</AEXP_CatSomali.labelPlural>
+            <AEXP_CatSomali.lifeStages.0.label>gatinho somali</AEXP_CatSomali.lifeStages.0.label>
+            <AEXP_CatSomali.lifeStages.0.labelPlural>gatinhos somali</AEXP_CatSomali.lifeStages.0.labelPlural>
+
+        <!-- Sphynx Cat -->
+            <AEXP_CatSphynx.label>gato sphynx</AEXP_CatSphynx.label>
+            <AEXP_CatSphynx.labelPlural>gatos sphynx</AEXP_CatSphynx.labelPlural>
+            <AEXP_CatSphynx.lifeStages.0.label>gatinho sphynx</AEXP_CatSphynx.lifeStages.0.label>
+            <AEXP_CatSphynx.lifeStages.0.labelPlural>gatinhos sphynx</AEXP_CatSphynx.lifeStages.0.labelPlural>
+
+        <!-- Beagle -->
+            <AEXP_Beagle.label>beagle</AEXP_Beagle.label>
+            <AEXP_Beagle.labelPlural>beagles</AEXP_Beagle.labelPlural>
+            <AEXP_Beagle.lifeStages.0.label>beagle filhote</AEXP_Beagle.lifeStages.0.label>
+            <AEXP_Beagle.lifeStages.0.labelPlural>beagles filhotes</AEXP_Beagle.lifeStages.0.labelPlural>
+
+        <!-- Chihuahua -->
+            <AEXP_Chihuahua.label>chihuahua</AEXP_Chihuahua.label>
+            <AEXP_Chihuahua.labelPlural>chihuahuas</AEXP_Chihuahua.labelPlural>
+            <AEXP_Chihuahua.lifeStages.0.label>chihuahua filhote</AEXP_Chihuahua.lifeStages.0.label>
+            <AEXP_Chihuahua.lifeStages.0.labelPlural>chihuahuas filhotes</AEXP_Chihuahua.lifeStages.0.labelPlural>
+
+        <!-- Corgi -->
+            <AEXP_Corgi.label>corgi</AEXP_Corgi.label>
+            <AEXP_Corgi.labelPlural>corgis</AEXP_Corgi.labelPlural>
+            <AEXP_Corgi.lifeStages.0.label>corgi filhote</AEXP_Corgi.lifeStages.0.label>
+            <AEXP_Corgi.lifeStages.0.labelPlural>corgis filhotes</AEXP_Corgi.lifeStages.0.labelPlural>
+
+        <!-- French Bulldog -->
+            <AEXP_FrenchBulldog.label>bulldog francês</AEXP_FrenchBulldog.label>
+            <AEXP_FrenchBulldog.labelPlural>bulldogs franceses</AEXP_FrenchBulldog.labelPlural>
+            <AEXP_FrenchBulldog.lifeStages.0.label>bulldog francês filhote</AEXP_FrenchBulldog.lifeStages.0.label>
+            <AEXP_FrenchBulldog.lifeStages.0.labelPlural>bulldogs franceses filhotes</AEXP_FrenchBulldog.lifeStages.0.labelPlural>
+
+        <!-- German Shepherd -->
+            <AEXP_GermanShepherd.label>pastor-alemão</AEXP_GermanShepherd.label>
+            <AEXP_GermanShepherd.labelPlural>pastores-alemães</AEXP_GermanShepherd.labelPlural>
+            <AEXP_GermanShepherd.lifeStages.0.label>pastor-alemão filhote</AEXP_GermanShepherd.lifeStages.0.label>
+            <AEXP_GermanShepherd.lifeStages.0.labelPlural>pastores-alemães filhotes</AEXP_GermanShepherd.lifeStages.0.labelPlural>
+
+        <!-- Great Dane -->
+            <AEXP_GreatDane.label>dogue alemão</AEXP_GreatDane.label>
+            <AEXP_GreatDane.labelPlural>dogues alemães</AEXP_GreatDane.labelPlural>
+            <AEXP_GreatDane.lifeStages.0.label>dogue alemão filhote</AEXP_GreatDane.lifeStages.0.label>
+            <AEXP_GreatDane.lifeStages.0.labelPlural>dogues alemães filhotes</AEXP_GreatDane.lifeStages.0.labelPlural>
+
+        <!-- Poodle -->
+            <AEXP_Poodle.label>poodle</AEXP_Poodle.label>
+            <AEXP_Poodle.labelPlural>poodles</AEXP_Poodle.labelPlural>
+            <AEXP_Poodle.lifeStages.0.label>poodle filhote</AEXP_Poodle.lifeStages.0.label>
+            <AEXP_Poodle.lifeStages.0.labelPlural>poodles filhotes</AEXP_Poodle.lifeStages.0.labelPlural>
+
+        <!-- Pug -->
+            <AEXP_Pug.label>pug</AEXP_Pug.label>
+            <AEXP_Pug.labelPlural>pugs</AEXP_Pug.labelPlural>
+            <AEXP_Pug.lifeStages.0.label>pug filhote</AEXP_Pug.lifeStages.0.label>
+            <AEXP_Pug.lifeStages.0.labelPlural>pugs filhotes</AEXP_Pug.lifeStages.0.labelPlural>
+
+        <!-- Rottweiler -->
+            <AEXP_Rottweiler.label>rottweiler</AEXP_Rottweiler.label>
+            <AEXP_Rottweiler.labelPlural>rottweilers</AEXP_Rottweiler.labelPlural>
+            <AEXP_Rottweiler.lifeStages.0.label>rottweiler filhote</AEXP_Rottweiler.lifeStages.0.label>
+            <AEXP_Rottweiler.lifeStages.0.labelPlural>rottweilers filhotes</AEXP_Rottweiler.lifeStages.0.labelPlural>
+
+        <!-- Shih-Tzu -->
+            <AEXP_Shih-Tzu.label>shih-tzu</AEXP_Shih-Tzu.label>
+            <AEXP_Shih-Tzu.labelPlural>shih-tzus</AEXP_Shih-Tzu.labelPlural>
+            <AEXP_Shih-Tzu.lifeStages.0.label>shih-tzu filhote</AEXP_Shih-Tzu.lifeStages.0.label>
+            <AEXP_Shih-Tzu.lifeStages.0.labelPlural>shih-tzus filhotes</AEXP_Shih-Tzu.lifeStages.0.labelPlural>
+
+        <!-- Welsh Terrier -->
+            <AEXP_WelshTerrier.label>welsh terrier</AEXP_WelshTerrier.label>
+            <AEXP_WelshTerrier.labelPlural>welsh terriers</AEXP_WelshTerrier.labelPlural>
+            <AEXP_WelshTerrier.lifeStages.0.label>welsh terrier filhote</AEXP_WelshTerrier.lifeStages.0.label>
+            <AEXP_WelshTerrier.lifeStages.0.labelPlural>welsh terriers filhotes</AEXP_WelshTerrier.lifeStages.0.labelPlural>
 
     <!-- Zombieland -->
         <!-- Zombie -->

@@ -84,6 +84,165 @@
             <AEXP_BlackBear.label>urso-negro</AEXP_BlackBear.label>
             <AEXP_BlackBear.description>Um mamífero onívoro de tamanho médio adaptado para climas frios. A gordura e o pêlo dos ursos os mantêm aquecidos no inverno.\n\nEmbora sua dieta normal consista de peixes, frutas vermelhas, mel e carne de restos mortais, o urso-negro é capaz de usar sua força maciça e garras mortais para matar presas vivas. Eles são surpreendentemente rápidos para criaturas tão pesadas.</AEXP_BlackBear.description>
 
+    <!-- Vanilla Animals Expanded - Dogs and Cats -->
+        <!-- Abyssinian Cat -->
+            <AEXP_CatAbyssinian.label>gato abissínio</AEXP_CatAbyssinian.label>
+            <AEXP_CatAbyssinian.description>Um híbrido entre um gato doméstico e um leopardo tropical.</AEXP_CatAbyssinian.description>
+            <AEXP_CatAbyssinian.tools.0.label>garra esquerda</AEXP_CatAbyssinian.tools.0.label>
+            <AEXP_CatAbyssinian.tools.1.label>garra direita</AEXP_CatAbyssinian.tools.1.label>
+            <AEXP_CatAbyssinian.tools.3.label>cabeça</AEXP_CatAbyssinian.tools.3.label>
+
+        <!-- Bengal Cat -->
+            <AEXP_CatBengal.label>gato-de-bengala</AEXP_CatBengal.label>
+            <AEXP_CatBengal.description>Um gato regular britânico, com um corpo distintamente robusto, pelagem densa e um rosto muito largo. Embora tenham uma aparência relativamente poderosa devido ao grande peito e às patas enormes, esses gatos são absolutamente inofensivos.</AEXP_CatBengal.description>
+            <AEXP_CatBengal.tools.0.label>garra esquerda</AEXP_CatBengal.tools.0.label>
+            <AEXP_CatBengal.tools.1.label>garra direita</AEXP_CatBengal.tools.1.label>
+            <AEXP_CatBengal.tools.3.label>cabeça</AEXP_CatBengal.tools.3.label>
+
+        <!-- British Shorthair Cat -->
+            <AEXP_CatBritishShorthair.label>gato de pelo curto inglês</AEXP_CatBritishShorthair.label>
+            <AEXP_CatBritishShorthair.description></AEXP_CatBritishShorthair.description>
+            <AEXP_CatBritishShorthair.tools.0.label>garra esquerda</AEXP_CatBritishShorthair.tools.0.label>
+            <AEXP_CatBritishShorthair.tools.1.label>garra direita</AEXP_CatBritishShorthair.tools.1.label>
+            <AEXP_CatBritishShorthair.tools.3.label>cabeça</AEXP_CatBritishShorthair.tools.3.label>
+
+        <!-- Maine Coon -->
+            <AEXP_CatMaineCoon.label>maine coon</AEXP_CatMaineCoon.label>
+            <AEXP_CatMaineCoon.description>O maior gato domesticado, tem uma aparência física distinta e valiosas habilidades de caça. É um gato grande e sociável, por isso recebeu o apelido de "gigante gentil".</AEXP_CatMaineCoon.description>
+            <AEXP_CatMaineCoon.tools.0.label>garra esquerda</AEXP_CatMaineCoon.tools.0.label>
+            <AEXP_CatMaineCoon.tools.1.label>garra direita</AEXP_CatMaineCoon.tools.1.label>
+            <AEXP_CatMaineCoon.tools.3.label>cabeça</AEXP_CatMaineCoon.tools.3.label>
+
+        <!-- Munchkin Cat -->
+            <AEXP_CatMunchkin.label>gato munchkin</AEXP_CatMunchkin.label>
+            <AEXP_CatMunchkin.description>Também conhecido como gato salsicha, esta nova raça de gatos tem pernas curtas. Doces e brincalhões, esses gatos são companheiros perfeitos para pessoas com estilo de vida preguiçoso.</AEXP_CatMunchkin.description>
+            <AEXP_CatMunchkin.tools.0.label>garra esquerda</AEXP_CatMunchkin.tools.0.label>
+            <AEXP_CatMunchkin.tools.1.label>garra direita</AEXP_CatMunchkin.tools.1.label>
+            <AEXP_CatMunchkin.tools.3.label>cabeça</AEXP_CatMunchkin.tools.3.label>
+
+        <!-- Norwergian Forest Cat -->
+            <AEXP_CatNorwegianForest.label>gato norueguês da floresta</AEXP_CatNorwegianForest.label>
+            <AEXP_CatNorwegianForest.description>Um gato adaptado para climas muito frios.</AEXP_CatNorwegianForest.description>
+            <AEXP_CatNorwegianForest.tools.0.label>garra esquerda</AEXP_CatNorwegianForest.tools.0.label>
+            <AEXP_CatNorwegianForest.tools.1.label>garra direita</AEXP_CatNorwegianForest.tools.1.label>
+            <AEXP_CatNorwegianForest.tools.3.label>cabeça</AEXP_CatNorwegianForest.tools.3.label>
+
+        <!-- Persian Cat -->
+            <AEXP_CatPersian.label>gato persa</AEXP_CatPersian.label>
+            <AEXP_CatPersian.description>Um gato de pêlo comprido originário do deserto, os gatos persas são régios, inteligentes e ágeis, o que os tornam excelentes para a caça de pequenos roedores e pássaros.</AEXP_CatPersian.description>
+            <AEXP_CatPersian.tools.0.label>garra esquerda</AEXP_CatPersian.tools.0.label>
+            <AEXP_CatPersian.tools.1.label>garra direita</AEXP_CatPersian.tools.1.label>
+            <AEXP_CatPersian.tools.3.label>cabeça</AEXP_CatPersian.tools.3.label>
+
+        <!-- Siamese Cat -->
+            <AEXP_CatSiamese.label>gato siamês</AEXP_CatSiamese.label>
+            <AEXP_CatSiamese.description>Um gato de cabeça triangular, olhos azuis e corpo comprido e musculoso, conhecido pela sua natureza social.</AEXP_CatSiamese.description>
+            <AEXP_CatSiamese.tools.0.label>garra esquerda</AEXP_CatSiamese.tools.0.label>
+            <AEXP_CatSiamese.tools.1.label>garra direita</AEXP_CatSiamese.tools.1.label>
+            <AEXP_CatSiamese.tools.3.label>cabeça</AEXP_CatSiamese.tools.3.label>
+
+        <!-- Somali Cat -->
+            <AEXP_CatSomali.label>gato somali</AEXP_CatSomali.label>
+            <AEXP_CatSomali.description>Um gato arbustivo, compartilha a mesma família do gato abissínio. Possui cauda espessa e olhos amendoados.</AEXP_CatSomali.description>
+            <AEXP_CatSomali.tools.0.label>garra esquerda</AEXP_CatSomali.tools.0.label>
+            <AEXP_CatSomali.tools.1.label>garra direita</AEXP_CatSomali.tools.1.label>
+            <AEXP_CatSomali.tools.3.label>cabeça</AEXP_CatSomali.tools.3.label>
+
+        <!-- Sphynx Cat -->
+            <AEXP_CatSphynx.label>gato sphynx</AEXP_CatSphynx.label>
+            <AEXP_CatSphynx.description>Um gato conhecido pela falta de pêlo, desenvolvido devido à criação seletiva. Por serem quentes ao toque, perdem a temperatura corporal facilmente, o que os fazem procurar fontes de calor.</description></AEXP_CatSphynx.description>
+            <AEXP_CatSphynx.tools.0.label>garra esquerda</AEXP_CatSphynx.tools.0.label>
+            <AEXP_CatSphynx.tools.1.label>garra direita</AEXP_CatSphynx.tools.1.label>
+            <AEXP_CatSphynx.tools.3.label>cabeça</AEXP_CatSphynx.tools.3.label>
+
+        <!-- Beagle -->
+            <AEXP_Beagle.label>beagle</AEXP_Beagle.label>
+            <AEXP_Beagle.description>Um pequeno cão de caça desenvolvido para caçar lebres. Sua inteligência e lealdade o tornam um companheiro valioso.</AEXP_Beagle.description>
+            <AEXP_Beagle.tools.0.label>garra esquerda</AEXP_Beagle.tools.0.label>
+            <AEXP_Beagle.tools.1.label>garra direita</AEXP_Beagle.tools.1.label>
+            <AEXP_Beagle.tools.2.label>dentinhos fofos</AEXP_Beagle.tools.2.label>
+            <AEXP_Beagle.tools.3.label>cabeça</AEXP_Beagle.tools.3.label>
+
+        <!-- Chihuahua -->
+            <AEXP_Chihuahua.label>chihuahua</AEXP_Chihuahua.label>
+            <AEXP_Chihuahua.description>O menor dos cães, um pouco maior que um rato. Considerados reencarnações de diferentes divindades.</AEXP_Chihuahua.description>
+            <AEXP_Chihuahua.tools.0.label>garra esquerda</AEXP_Chihuahua.tools.0.label>
+            <AEXP_Chihuahua.tools.1.label>garra direita</AEXP_Chihuahua.tools.1.label>
+            <AEXP_Chihuahua.tools.2.label>dentinhos fofos</AEXP_Chihuahua.tools.2.label>
+            <AEXP_Chihuahua.tools.3.label>cabeça</AEXP_Chihuahua.tools.3.label>
+
+        <!-- Corgi -->
+            <AEXP_Corgi.label>corgi</AEXP_Corgi.label>
+            <AEXP_Corgi.description>Historicamente usados para pastoreio de gado, os corgis rapidamente se tornaram populares nos mundos imperiais e são reconhecidos como um símbolo da realeza.</AEXP_Corgi.description>
+            <AEXP_Corgi.tools.0.label>garra esquerda</AEXP_Corgi.tools.0.label>
+            <AEXP_Corgi.tools.1.label>garra direita</AEXP_Corgi.tools.1.label>
+            <AEXP_Corgi.tools.2.label>dentinhos fofos</AEXP_Corgi.tools.2.label>
+            <AEXP_Corgi.tools.3.label>cabeça</AEXP_Corgi.tools.3.label>
+
+        <!-- French Bulldog -->
+            <AEXP_FrenchBulldog.label>bulldog francês</AEXP_FrenchBulldog.label>
+            <AEXP_FrenchBulldog.description>Usados ​​originalmente para lutas contra touros, esses buldogues são oponentes ferozes e, devido ao seu pequeno tamanho corporal, são rápidos, ágeis e letais.</AEXP_FrenchBulldog.description>
+            <AEXP_FrenchBulldog.tools.0.label>garra esquerda</AEXP_FrenchBulldog.tools.0.label>
+            <AEXP_FrenchBulldog.tools.1.label>garra direita</AEXP_FrenchBulldog.tools.1.label>
+            <AEXP_FrenchBulldog.tools.2.label>dentinhos fofos</AEXP_FrenchBulldog.tools.2.label>
+            <AEXP_FrenchBulldog.tools.3.label>cabeça</AEXP_FrenchBulldog.tools.3.label>
+
+        <!-- German Shepherd -->
+            <AEXP_GermanShepherd.label>pastor-alemão</AEXP_GermanShepherd.label>
+            <AEXP_GermanShepherd.description>Um cão de trabalho de grande porte. Fáceis de treinar e bons em seguir instruções, costumam ser vistos acompanhando as forças policiais e fazendeiros.</AEXP_GermanShepherd.description>
+            <AEXP_GermanShepherd.tools.0.label>garra esquerda</AEXP_GermanShepherd.tools.0.label>
+            <AEXP_GermanShepherd.tools.1.label>garra direita</AEXP_GermanShepherd.tools.1.label>
+            <AEXP_GermanShepherd.tools.2.label>dentinhos fofos</AEXP_GermanShepherd.tools.2.label>
+            <AEXP_GermanShepherd.tools.3.label>cabeça</AEXP_GermanShepherd.tools.3.label>
+
+        <!-- Great Dane -->
+            <AEXP_GreatDane.label>dogue alemão</AEXP_GreatDane.label>
+            <AEXP_GreatDane.description>Uma das maiores espécies de cães, os dogues alemães são dignos, elegantes e fortes.</AEXP_GreatDane.description>
+            <AEXP_GreatDane.tools.0.label>garra esquerda</AEXP_GreatDane.tools.0.label>
+            <AEXP_GreatDane.tools.1.label>garra direita</AEXP_GreatDane.tools.1.label>
+            <AEXP_GreatDane.tools.2.label>dentinhos fofos</AEXP_GreatDane.tools.2.label>
+            <AEXP_GreatDane.tools.3.label>cabeça</AEXP_GreatDane.tools.3.label>
+
+        <!-- Poodle -->
+            <AEXP_Poodle.label>poodle</AEXP_Poodle.label>
+            <AEXP_Poodle.description>Cães grandes e mimados, historicamente usados ​​para a caça de pássaros, agora residem principalmente em palácios imperiais e jardins reais.</AEXP_Poodle.description>
+            <AEXP_Poodle.tools.0.label>garra esquerda</AEXP_Poodle.tools.0.label>
+            <AEXP_Poodle.tools.1.label>garra direita</AEXP_Poodle.tools.1.label>
+            <AEXP_Poodle.tools.2.label>dentinhos fofos</AEXP_Poodle.tools.2.label>
+            <AEXP_Poodle.tools.3.label>cabeça</AEXP_Poodle.tools.3.label>
+
+        <!-- Pug -->
+            <AEXP_Pug.label>pug</AEXP_Pug.label>
+            <AEXP_Pug.description>Um cão pequeno com rosto enrugado, focinho curto e cauda enrolada. São conhecidos por serem extremamente sociáveis ​​e amigáveis, porém devido às alterações genéticas têm uma vida útil muito curta. Qualquer que seja a vida que tenham, sempre alegrarão as pessoas ao seu redor.</AEXP_Pug.description>
+            <AEXP_Pug.tools.0.label>garra esquerda</AEXP_Pug.tools.0.label>
+            <AEXP_Pug.tools.1.label>garra direita</AEXP_Pug.tools.1.label>
+            <AEXP_Pug.tools.2.label>dentinhos fofos</AEXP_Pug.tools.2.label>
+            <AEXP_Pug.tools.3.label>cabeça</AEXP_Pug.tools.3.label>
+
+        <!-- Rottweiler -->
+            <AEXP_Rottweiler.label>rottweiler</AEXP_Rottweiler.label>
+            <AEXP_Rottweiler.description>Um grande cão doméstico e uma das mais antigas raças de pastoreio. Sendo um dos cães mais trabalhadores, é um companheiro perfeito para fazendeiros e criadores de gado.</AEXP_Rottweiler.description>
+            <AEXP_Rottweiler.tools.0.label>garra esquerda</AEXP_Rottweiler.tools.0.label>
+            <AEXP_Rottweiler.tools.1.label>garra direita</AEXP_Rottweiler.tools.1.label>
+            <AEXP_Rottweiler.tools.2.label>dentinhos fofos</AEXP_Rottweiler.tools.2.label>
+            <AEXP_Rottweiler.tools.3.label>cabeça</AEXP_Rottweiler.tools.3.label>
+
+        <!-- Shih-Tzu -->
+            <AEXP_Shih-Tzu.label>shih-tzu</AEXP_Shih-Tzu.label>
+            <AEXP_Shih-Tzu.description>Um cachorro oriental, os shih-tzus tem cabelos extremamente longos e macios. Embora sejam meio inúteis, acariciá-los proporciona grande conforto às pessoas.</AEXP_Shih-Tzu.description>
+            <AEXP_Shih-Tzu.tools.0.label>garra esquerda</AEXP_Shih-Tzu.tools.0.label>
+            <AEXP_Shih-Tzu.tools.1.label>garra direita</AEXP_Shih-Tzu.tools.1.label>
+            <AEXP_Shih-Tzu.tools.2.label>dentinhos fofos</AEXP_Shih-Tzu.tools.2.label>
+            <AEXP_Shih-Tzu.tools.3.label>cabeça</AEXP_Shih-Tzu.tools.3.label>
+
+        <!-- Welsh Terrier -->
+            <AEXP_WelshTerrier.label>welsh terrier</AEXP_WelshTerrier.label>
+            <AEXP_WelshTerrier.description>Um cão de caça, os welsh terriers são perfeitos para lidar com pequenos roedores, raposas e texugos. Devido à sua inteligência, são perfeitos na descoberta de caminhos, podendo sempre regressar a sua casa depois de correr para o bosque.</AEXP_WelshTerrier.description>
+            <AEXP_WelshTerrier.tools.0.label>garra esquerda</AEXP_WelshTerrier.tools.0.label>
+            <AEXP_WelshTerrier.tools.1.label>garra direita</AEXP_WelshTerrier.tools.1.label>
+            <AEXP_WelshTerrier.tools.2.label>dentinhos fofos</AEXP_WelshTerrier.tools.2.label>
+            <AEXP_WelshTerrier.tools.3.label>cabeça</AEXP_WelshTerrier.tools.3.label>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Advanced Centipede -->
             <VFE_Mech_AdvancedCentipede.label>centopéia avançada</VFE_Mech_AdvancedCentipede.label>
