@@ -134,4 +134,21 @@
             <VFE_Mech_Carpenter.tools.1.label>perna dianteira direita</VFE_Mech_Carpenter.tools.1.label>
             <VFE_Mech_Carpenter.tools.2.label>cabeça</VFE_Mech_Carpenter.tools.2.label>
 
+    <!-- Zombieland -->
+        <!-- Zombie -->
+            <Zombie.label>zumbi</Zombie.label>
+            <Zombie.description>Um zumbi.</Zombie.description>
+            <Zombie.tools.0.label>mandíbula</Zombie.tools.0.label>
+            <Zombie.tools.1.label>punho esquerdo</Zombie.tools.1.label>
+            <Zombie.tools.2.label>punho direito</Zombie.tools.2.label>
+
+        <!-- Zombie Corpse -->
+            <Zombie_Corpse.label>cadáver de zumbi</Zombie_Corpse.label>
+            <Zombie_Corpse.description>Um cadáver de zumbi.</Zombie_Corpse.description>
+
+        <!-- Eletrical Field -->
+            <ElectricalField.label>campo elétrico</ElectricalField.label>
+            <ElectricalField.tools.0.label>choque</ElectricalField.tools.0.label>
+            <ElectricalField.verbs.0.label>choque</ElectricalField.verbs.0.label>
+
 </LanguageData>

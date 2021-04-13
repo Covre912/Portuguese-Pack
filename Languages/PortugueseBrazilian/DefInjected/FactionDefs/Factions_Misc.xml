@@ -46,4 +46,11 @@
             <SettlerSavage.pawnSingular>bandido</SettlerSavage.pawnSingular>
             <SettlerSavage.pawnsPlural>bandidos</SettlerSavage.pawnsPlural>
 
+    <!-- Zombieland -->
+        <!-- Zombies -->
+            <Zombies.label>zumbis</Zombies.label>
+            <Zombies.description>Criaturas mortas-vivas.</Zombies.description>
+            <Zombies.pawnSingular>zumbi</Zombies.pawnSingular>
+            <Zombies.pawnsPlural>zumbis</Zombies.pawnsPlural>
+
 </LanguageData>

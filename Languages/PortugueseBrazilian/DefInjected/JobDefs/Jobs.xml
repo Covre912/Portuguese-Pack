@@ -72,6 +72,16 @@
 
     <!-- Vanilla Traits Expanded -->
         <!-- Steal Items -->
-            <VTE_StealItems.reportString>roubando itens do TargetA</VTE_StealItems.reportString>
+            <VTE_StealItems.reportString>roubando itens do TargetA.</VTE_StealItems.reportString>
+
+    <!-- Zombieland -->
+        <!-- Stumble -->
+            <Stumble.reportString>tropeçando.</Stumble.reportString>
+
+        <!-- Sabotage -->
+            <Sabotage.reportString>sabotando.</Sabotage.reportString>
+
+        <!-- Extract Zombie Serum -->
+            <ExtractZombieSerum.reportString>extraindo soro de zumbi do TargetA.</ExtractZombieSerum.reportString>
 
 </LanguageData>

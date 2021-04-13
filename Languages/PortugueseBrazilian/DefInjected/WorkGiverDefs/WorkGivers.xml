@@ -58,4 +58,10 @@
 	        <VCEF_Fish.verb>pescar</VCEF_Fish.verb>
 	        <VCEF_Fish.gerund>pescando em</VCEF_Fish.gerund>
 
+    <!-- Zombieland -->
+        <!-- Extract Zombie Serum -->
+            <ExtractZombieSerum.label>extrair soro de cadáveres de zumbis</ExtractZombieSerum.label>
+            <ExtractZombieSerum.verb>extrair</ExtractZombieSerum.verb>
+            <ExtractZombieSerum.gerund>extraindo</ExtractZombieSerum.gerund>
+
 </LanguageData>

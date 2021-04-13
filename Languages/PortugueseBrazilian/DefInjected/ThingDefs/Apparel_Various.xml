@@ -60,4 +60,9 @@
             <Apparel_GreatDress.label>vestido</Apparel_GreatDress.label>
             <Apparel_GreatDress.description>Um vestido lindo, geralmente usado por senhoras e sufragistas. Aumenta muito o impacto social.</Apparel_GreatDress.description>
 
+    <!-- Zombieland -->
+        <!-- Bomb Vest -->
+            <Apparel_BombVest.label>colete bomba</Apparel_BombVest.label>
+            <Apparel_BombVest.description>Um colete com explosivos.</Apparel_BombVest.description>
+
 </LanguageData>

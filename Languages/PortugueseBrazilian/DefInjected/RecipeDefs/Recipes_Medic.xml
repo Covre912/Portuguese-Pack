@@ -2,164 +2,170 @@
 <LanguageData>
 
     <!-- A Dog Said... Animal Prosthetics -->
-	    <!--Simple Prosthetic Tail-->
+	    <!-- Simple Prosthetic Tail -->
 		    <InstallSimpleProstheticTailAnimal.label>instalar cauda de animal protética simples</InstallSimpleProstheticTailAnimal.label>
 		    <InstallSimpleProstheticTailAnimal.description>Instale uma cauda de animal protética simples. Requer habilidade mínima de 4 em medicina.</InstallSimpleProstheticTailAnimal.description>
 		    <InstallSimpleProstheticTailAnimal.jobString>Instalando cauda protética simples.</InstallSimpleProstheticTailAnimal.jobString>
 
-	    <!--Power Claw-->
+	    <!-- Power Claw -->
 		    <InstallPowerClawAnimal.label>instalar garra potente</InstallPowerClawAnimal.label>
 		    <InstallPowerClawAnimal.description>Instale uma garra potente.</InstallPowerClawAnimal.description>
 		    <InstallPowerClawAnimal.jobString>Instalando garra potente.</InstallPowerClawAnimal.jobString>
 
-	    <!--Peg Leg-->
+	    <!-- Peg Leg -->
 		    <InstallPegLegAnimal.label>instalar perna de pau de animal</InstallPegLegAnimal.label>
 		    <InstallPegLegAnimal.description>Instale uma perna de pau de animal.</InstallPegLegAnimal.description>
 		    <InstallPegLegAnimal.jobString>Instalando perna de pau.</InstallPegLegAnimal.jobString>
 
-	    <!--Simple Prosthetic Leg-->
+	    <!-- Simple Prosthetic Leg -->
 		    <InstallSimpleProstheticLegAnimal.label>instalar perna de animal protética simples</InstallSimpleProstheticLegAnimal.label>
 		    <InstallSimpleProstheticLegAnimal.description>Instale uma perna de animal protética simples. Requer habilidade mínima de 4 em medicina.</InstallSimpleProstheticLegAnimal.description>
 		    <InstallSimpleProstheticLegAnimal.jobString>Instalando perna de animal protética simples.</InstallSimpleProstheticLegAnimal.jobString>
 		
-	    <!--Bionic Leg-->
+	    <!-- Bionic Leg -->
 		    <InstallBionicLegAnimal.label>instalar perna de animal biônica</InstallBionicLegAnimal.label>
 		    <InstallBionicLegAnimal.description>Instale uma perna de animal biônica. Requer habilidade mínima de 8 em medicina.</InstallBionicLegAnimal.description>
 		    <InstallBionicLegAnimal.jobString>Instalando perna biônica.</InstallBionicLegAnimal.jobString>
 
-	    <!--Simple Prosthetic Arm-->
+	    <!-- Simple Prosthetic Arm -->
 		    <InstallSimpleProstheticArmAnimal.label>instalar braço de animal protético simples</InstallSimpleProstheticArmAnimal.label>
 		    <InstallSimpleProstheticArmAnimal.description>Instale um braço de animal protético simples. Requer habilidade mínima de 4 em medicina.</InstallSimpleProstheticArmAnimal.description>
 		    <InstallSimpleProstheticArmAnimal.jobString>Instalando braço de animal protético simples.</InstallSimpleProstheticArmAnimal.jobString>
 
-	    <!--Bionic Arm-->
+	    <!-- Bionic Arm -->
 		    <InstallBionicArmAnimal.label>instalar braço de animal biônico</InstallBionicArmAnimal.label>
 		    <InstallBionicArmAnimal.description>Instale um braço de animal biônico. Requer habilidade mínima de 8 em medicina.</InstallBionicArmAnimal.description>
 		    <InstallBionicArmAnimal.jobString>Instalando braço de animal biônico.</InstallBionicArmAnimal.jobString>
 
-	    <!--Simple Nose-->
+	    <!-- Simple Nose -->
 		    <InstallNoseAnimalSimple.label>instalar nariz de animal simples</InstallNoseAnimalSimple.label>
 		    <InstallNoseAnimalSimple.description>Instale um nariz de animal simples. Requer habilidade mínima de 4 em medicina.</InstallNoseAnimalSimple.description>
 		    <InstallNoseAnimalSimple.jobString>Instalando nariz de animal simples.</InstallNoseAnimalSimple.jobString>
 	
-	    <!--Bionic Eye-->
+	    <!-- Bionic Eye -->
 		    <InstallBionicEyeAnimal.label>instalar olho de animal biônico</InstallBionicEyeAnimal.label>
 		    <InstallBionicEyeAnimal.description>Instale um olho de animal biônico. Requer habilidade mínima de 8 em medicina.</InstallBionicEyeAnimal.description>
 		    <InstallBionicEyeAnimal.jobString>Instalando olho de animal biônico.</InstallBionicEyeAnimal.jobString>
 		
-	    <!--Simple Ear Implant-->
+	    <!-- Simple Ear Implant -->
 		    <InstallEarAnimalSimple.label>instalar implante coclear de animal simples</InstallEarAnimalSimple.label>
 		    <InstallEarAnimalSimple.description>Instale um implante coclear de animal simples. Requer habilidade mínima de 4 em medicina.</InstallEarAnimalSimple.description>
 		    <InstallEarAnimalSimple.jobString>Instalando implante coclear de animal simples.</InstallEarAnimalSimple.jobString>
 
-	    <!--Bionic Ear Implant-->
+	    <!-- Bionic Ear Implant -->
 		    <InstallEarAnimalBionic.label>instalar implante coclear de animal biônico</InstallEarAnimalBionic.label>
 		    <InstallEarAnimalBionic.description>Instale um implante coclear de animal biônico. Requer habilidade mínima de 8 em medicina.</InstallEarAnimalBionic.description>
 		    <InstallEarAnimalBionic.jobString>Instalando implante coclear de animal biônico.</InstallEarAnimalBionic.jobString>
 
-	    <!--Simple Jaw-->
+	    <!-- Simple Jaw -->
 		    <InstallJawAnimalSimple.label>instalar mandíbula de animal simples</InstallJawAnimalSimple.label>
 		    <InstallJawAnimalSimple.description>Instale uma mandíbula de animal simples. Requer habilidade mínima de 4 em medicina.</InstallJawAnimalSimple.description>
 		    <InstallJawAnimalSimple.jobString>Instalando mandíbula de animal simples.</InstallJawAnimalSimple.jobString>
 
-	    <!--Bionic Jaw-->
+	    <!-- Bionic Jaw -->
 		    <InstallJawAnimalBionic.label>instalar mandíbula de animal biônica</InstallJawAnimalBionic.label>
 		    <InstallJawAnimalBionic.description>Instale uma mandíbula de animal biônica. Requer habilidade mínima de 8 em medicina.</InstallJawAnimalBionic.description>
 		    <InstallJawAnimalBionic.jobString>Instalando mandíbula de animal biônica.</InstallJawAnimalBionic.jobString>
 
-	    <!--Simple Spine-->
+	    <!-- Simple Spine -->
 		    <InstallSpineAnimalSimple.label>instalar coluna vertebral de animal simples</InstallSpineAnimalSimple.label>
 		    <InstallSpineAnimalSimple.description>Instale uma coluna vertebral de animal simples. Requer habilidade mínima de 4 em medicina.</InstallSpineAnimalSimple.description>
 		    <InstallSpineAnimalSimple.jobString>Instalando coluna vertebral de animal simples.</InstallSpineAnimalSimple.jobString>
 	
-	    <!--Bionic Spine-->
+	    <!-- Bionic Spine -->
 		    <InstallSpineAnimalBionic.label>instalar coluna vertebral de animal biônica</InstallSpineAnimalBionic.label>
 		    <InstallSpineAnimalBionic.description>Instale uma coluna vertebral de animal biônica. Requer habilidade mínima de 8 em medicina.</InstallSpineAnimalBionic.description>
 		    <InstallSpineAnimalBionic.jobString>Instalando coluna vertebral de animal biônica.</InstallSpineAnimalBionic.jobString>
 
-	    <!--Brain Stimulator-->
+	    <!-- Brain Stimulator -->
 		    <InstallAnimalBrainStimulator.label>instalar estimulante cerebral de animal</InstallAnimalBrainStimulator.label>
 		    <InstallAnimalBrainStimulator.description>Instale um estimulante cerebral de animal. Requer habilidade mínima de 10 em medicina.</InstallAnimalBrainStimulator.description>
 		    <InstallAnimalBrainStimulator.jobString>Instalando estimulante cerebral de animal.</InstallAnimalBrainStimulator.jobString>
 
-	    <!--Bionic Heart-->
+	    <!-- Bionic Heart -->
 		    <InstallBionicAnimalHeart.label>instalar coração de animal biônico</InstallBionicAnimalHeart.label>
 		    <InstallBionicAnimalHeart.description>Instale um coração de animal biônico. Requer habilidade mínima de 10 em medicina.</InstallBionicAnimalHeart.description>
 		    <InstallBionicAnimalHeart.jobString>Instalando coração de animal biônico.</InstallBionicAnimalHeart.jobString>
 	
-	    <!--Bionic Lung-->
+	    <!-- Bionic Lung -->
 		    <InstallBionicAnimalLung.label>instalar pulmão de animal biônico</InstallBionicAnimalLung.label>
 		    <InstallBionicAnimalLung.description>Instale um pulmão de animal biônico. Requer habilidade mínima de 10 em medicina.</InstallBionicAnimalLung.description>
 		    <InstallBionicAnimalLung.jobString>Instalando pulmão de animal biônico.</InstallBionicAnimalLung.jobString>
 		
-	    <!--Bionic Liver-->
+	    <!-- Bionic Liver -->
 		    <InstallBionicAnimalLiver.label>instalar fígado de animal biônico</InstallBionicAnimalLiver.label>
 		    <InstallBionicAnimalLiver.description>Instale um fígado de animal biônico. Requer habilidade mínima de 10 em medicina.</InstallBionicAnimalLiver.description>
 		    <InstallBionicAnimalLiver.jobString>Instalando fígado de animal biônico.</InstallBionicAnimalLiver.jobString>
 	
-	    <!--Bionic Kidney-->
+	    <!-- Bionic Kidney -->
 		    <InstallBionicAnimalKidney.label>instalar rim de animal biônico</InstallBionicAnimalKidney.label>
 		    <InstallBionicAnimalKidney.description>Instale um rim de animal biônico. Requer habilidade mínima de 10 em medicina.</InstallBionicAnimalKidney.description>
 		    <InstallBionicAnimalKidney.jobString>Instalando rim de animal biônico.</InstallBionicAnimalKidney.jobString>
 
-	    <!--Bionic Kidney-->
+	    <!-- Bionic Kidney -->
 		    <InstallBionicAnimalStomach.label>instalar estômago de animal biônico</InstallBionicAnimalStomach.label>
 		    <InstallBionicAnimalStomach.description>Instale um estômago de animal biônico. Requer habilidade mínima de 10 em medicina.</InstallBionicAnimalStomach.description>
 		    <InstallBionicAnimalStomach.jobString>Instalando estômago de animal biônico.</InstallBionicAnimalStomach.jobString>
 
-        <!--Animal Burn Injury-->
+        <!-- Animal Burn Injury -->
 	        <CureInjuryBurnAnimal.label>curar queimadura</CureInjuryBurnAnimal.label>
 	        <CureInjuryBurnAnimal.description>Cure uma queimadura.</CureInjuryBurnAnimal.description>
 	        <CureInjuryBurnAnimal.jobString>Curando queimadura.</CureInjuryBurnAnimal.jobString>
 
-        <!--Animal Crush Injury-->
+        <!-- Animal Crush Injury -->
 	        <CureInjuryCrushAnimal.label>curar esmagamento</CureInjuryCrushAnimal.label>
 	        <CureInjuryCrushAnimal.description>Cure um esmagamento.</CureInjuryCrushAnimal.description>
 	        <CureInjuryCrushAnimal.jobString>Curando esmagamento.</CureInjuryCrushAnimal.jobString>
 
-        <!--Animal Crack Injury-->
+        <!-- Animal Crack Injury -->
 	        <CureInjuryCrackAnimal.label>curar fissura</CureInjuryCrackAnimal.label>
         	<CureInjuryCrackAnimal.description>Cure uma fissura.</CureInjuryCrackAnimal.description>
 	        <CureInjuryCrackAnimal.jobString>Curando fissura.</CureInjuryCrackAnimal.jobString>
 
-        <!--Animal Cut Injury-->
+        <!-- Animal Cut Injury -->
 	        <CureInjuryCutAnimal.label>curar corte</CureInjuryCutAnimal.label>
 	        <CureInjuryCutAnimal.description>Cure um corte.</CureInjuryCutAnimal.description>
 	        <CureInjuryCutAnimal.jobString>Curando corte.</CureInjuryCutAnimal.jobString>
 
-        <!--Animal Surgical Cut Injury-->
+        <!-- Animal Surgical Cut Injury -->
 	        <CureInjurySurgicalCutAnimal.label>curar corte cirúrgico</CureInjurySurgicalCutAnimal.label>
 	        <CureInjurySurgicalCutAnimal.description>Cure um corte cirúrgico.</CureInjurySurgicalCutAnimal.description>
 	        <CureInjurySurgicalCutAnimal.jobString>Curando corte cirúrgico.</CureInjurySurgicalCutAnimal.jobString>
 
-        <!--Animal Scratch Injury-->
+        <!-- Animal Scratch Injury -->
 	        <CureInjuryScratchAnimal.label>curar arranhão</CureInjuryScratchAnimal.label>
 	        <CureInjuryScratchAnimal.description>Cure um arranhão.</CureInjuryScratchAnimal.description>
 	        <CureInjuryScratchAnimal.jobString>Curando arranhão.</CureInjuryScratchAnimal.jobString>
 
-        <!--Animal Bite Injury-->
+        <!-- Animal Bite Injury -->
 	        <CureInjuryBiteAnimal.label>curar mordida</CureInjuryBiteAnimal.label>
 	        <CureInjuryBiteAnimal.description>Cure uma mordida.</CureInjuryBiteAnimal.description>
 	        <CureInjuryBiteAnimal.jobString>Curando mordida.</CureInjuryBiteAnimal.jobString>
 
-        <!--Animal Stab Injury-->
+        <!-- Animal Stab Injury -->
 	        <CureInjuryStabAnimal.label>curar facada</CureInjuryStabAnimal.label>
 	        <CureInjuryStabAnimal.description>Cure uma facada.</CureInjuryStabAnimal.description>
 	        <CureInjuryStabAnimal.jobString>Curando facada.</CureInjuryStabAnimal.jobString>
 
-        <!--Animal Gunshot Injury-->
+        <!-- Animal Gunshot Injury -->
 	        <CureInjuryGunshotAnimal.label>curar tiro</CureInjuryGunshotAnimal.label>
 	        <CureInjuryGunshotAnimal.description>Cure um tiro.</CureInjuryGunshotAnimal.description>
 	        <CureInjuryGunshotAnimal.jobString>Curando tiro.</CureInjuryGunshotAnimal.jobString>
 
-        <!--Animal Shredded Injury-->
+        <!-- Animal Shredded Injury -->
 	        <CureInjuryShreddedAnimal.label>curar dilaceração</CureInjuryShreddedAnimal.label>
 	        <CureInjuryShreddedAnimal.description>Cure uma dilaceração.</CureInjuryShreddedAnimal.description>
 	        <CureInjuryShreddedAnimal.jobString>Curando dilaceração.</CureInjuryShreddedAnimal.jobString>
 
-        <!--Animal Bruise Injury-->
+        <!-- Animal Bruise Injury -->
 	        <CureInjuryBruiseAnimal.label>curar hematoma</CureInjuryBruiseAnimal.label>
 	        <CureInjuryBruiseAnimal.description>Cure um hematoma.</CureInjuryBruiseAnimal.description>
 	        <CureInjuryBruiseAnimal.jobString>Curando hematoma.</CureInjuryBruiseAnimal.jobString>
+
+	<!-- Zombieland -->
+		<!-- Zombie Infection -->
+	  		<CureZombieInfection.label>curar infecção zumbi</CureZombieInfection.label>
+  			<CureZombieInfection.description>Remove uma infecção de zumbi em estágio inicial de uma parte do corpo. Requer um soro de zumbi (melhor porcentagem dá menos risco de falha).</CureZombieInfection.description>
+  			<CureZombieInfection.jobString>Curando infecção zumbi.</CureZombieInfection.jobString>
 
 </LanguageData>

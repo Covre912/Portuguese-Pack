@@ -17,4 +17,11 @@
         <!-- Raw Fishes -->
             <VCEF_RawFishCategory.label>peixes</VCEF_RawFishCategory.label>
 
+    <!-- Zombieland -->
+        <!-- Zombies -->
+            <Zombies.label>zumbis</Zombies.label>
+
+        <!-- Zombie Serum -->
+            <ZombieSerum.label>soro</ZombieSerum.label>
+
 </LanguageData>

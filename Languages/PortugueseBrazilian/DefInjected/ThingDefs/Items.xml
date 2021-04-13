@@ -310,4 +310,35 @@
             <LaserRandom.label>arma laser recuperada</LaserRandom.label>
             <LaserRandom.description>Um monte de componentes que, quando montados, criam uma arma laser recuperada.</LaserRandom.description>
 
+	<!-- Zombieland -->
+		<!-- Sticky Goo -->
+			<StickyGoo.label>gosma de zumbi tóxica pegajosa</StickyGoo.label>
+
+		<!-- Zombie Extract -->
+  			<ZombieExtract.label>extrato de zumbi</ZombieExtract.label>
+  			<ZombieExtract.description>Pequena quantidade de extrato de um zumbi morto. Combine até 100 extratos para criar uma droga chamada Soro de zumbi, que é usada em operações em partes do corpo infectadas.</ZombieExtract.description>
+
+		<!-- Zombie Serum -->
+			<UnfinishedZombieSerum.label>soro de zumbi inacabado</UnfinishedZombieSerum.label>
+  			<Zombie10Serum.label>soro de zumbi 10%</Zombie10Serum.label>
+  			<Zombie10Serum.description>Soro de zumbis mortos que cura infecções de zumbis durante as operações (10% taxa de sucesso)</Zombie10Serum.description>
+  			<Zombie20Serum.label>soro de zumbi 20%</Zombie20Serum.label>
+ 			<Zombie20Serum.description>Soro de zumbis mortos que cura infecções de zumbis durante as operações (20% taxa de sucesso)</Zombie20Serum.description>
+  			<Zombie30Serum.label>soro de zumbi 30%</Zombie30Serum.label>
+  			<Zombie30Serum.description>Soro de zumbis mortos que cura infecções de zumbis durante as operações (30% taxa de sucesso)</Zombie30Serum.description>
+  			<Zombie40Serum.label>soro de zumbi 40%</Zombie40Serum.label>
+  			<Zombie40Serum.description>Soro de zumbis mortos que cura infecções de zumbis durante as operações (40% taxa de sucesso)</Zombie40Serum.description>
+  			<Zombie50Serum.label>soro de zumbi 50%</Zombie50Serum.label>
+  			<Zombie50Serum.description>Soro de zumbis mortos que cura infecções de zumbis durante as operações (50% taxa de sucesso)</Zombie50Serum.description>
+  			<Zombie60Serum.label>soro de zumbi 60%</Zombie60Serum.label>
+  			<Zombie60Serum.description>Soro de zumbis mortos que cura infecções de zumbis durante as operações (60% taxa de sucesso)</Zombie60Serum.description>
+  			<Zombie70Serum.label>soro de zumbi 70%</Zombie70Serum.label>
+  			<Zombie70Serum.description>Soro de zumbis mortos que cura infecções de zumbis durante as operações (70% taxa de sucesso)</Zombie70Serum.description>
+  			<Zombie80Serum.label>soro de zumbi 80%</Zombie80Serum.label>
+  			<Zombie80Serum.description>Soro de zumbis mortos que cura infecções de zumbis durante as operações (80% taxa de sucesso)</Zombie80Serum.description>
+  			<Zombie90Serum.label>soro de zumbi 90%</Zombie90Serum.label>
+  			<Zombie90Serum.description>Soro de zumbis mortos que cura infecções de zumbis durante as operações (90% taxa de sucesso)</Zombie90Serum.description>
+  			<Zombie100Serum.label>soro de zumbi 100%</Zombie100Serum.label>
+  			<Zombie100Serum.description>Soro puro de zumbis mortos que garanti a cura de infecções de zumbis durante as operações</Zombie100Serum.description>
+			  
 </LanguageData>

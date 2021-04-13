@@ -1465,4 +1465,238 @@
             <WeaponStats.AccRbName.Medium>Médio</WeaponStats.AccRbName.Medium>
             <WeaponStats.AccRbName.Long>Longo</WeaponStats.AccRbName.Long>
 
+    <!-- Zombieland -->
+        <!-- Settings -->
+            <Zombieland_Settings>Passe o mouse sobre qualquer elemento para ler um texto de ajuda. Todas as configurações podem ser alteradas no jogo e estão ativas imediatamente, elas são salvas com o jogo. Para definir padrões para novos jogos, altere as configurações da tela principal.</Zombieland_Settings>
+
+        <!-- When Do Zombies Spawn -->
+            <WhenDoZombiesSpawn_Help>Em Zombieland, você enfrentará uma invasão interminável de zumbis. Esta configuração controla o ritmo e o ritmo geral do jogo. Os três modos são bem diferentes, portanto, certifique-se de escolher o caminho certo para o seu estilo de jogo e entender como eles funcionam. Há um limite superior no número de zumbis, consulte "Zumbis no mapa" para mais detalhes.</WhenDoZombiesSpawn_Help>
+            <SpawnWhenType_AllTheTime_Help>Os zumbis vão desovar implacavelmente. Mate-os e mais virão instantaneamente. Este é um modo desafiador que faz zumbis uma força onipresente que influencia todos os aspectos do jogo.</SpawnWhenType_AllTheTime_Help>
+            <SpawnWhenType_WhenDark_Help>Os zumbis só vão desovar em lugares escuros. Isso significa literalmente escuro e inclui áreas escuras durante o dia. Você pode controlar este modo configurando a luz para iluminar suas áreas seguras.</SpawnWhenType_WhenDark_Help>
+            <SpawnWhenType_InEventsOnly_Help>Esta maneira clássica de jogar zombieland gera zumbis em grupos. O tempo e o tamanho do grupo depende de muitos aspectos da colônia atual. Os eventos de Zombieland são completamente independentes de quaisquer eventos Rimworld e não alteram a frequência deles.</SpawnWhenType_InEventsOnly_Help>
+            <HowDoZombiesSpawn_Help>Zumbis em zombielândia sempre sai do chão. Eles escavam de pontos frágeis por isso certifique-se de que seu mapa atual tem pelo menos um terreno macio / semi-suave.</HowDoZombiesSpawn_Help>
+            <SpawnHowType_AllOverTheMap_Help>Se você se atrever, pode jogar com zumbis desovando em todo o mapa. Recomendado para o jogador experiente. Para controlar áreas seguras, você pode construir pisos ou paredes. Combine este modo com "quando escuro" por uma maneira desafiadora de jogar Zombieland. E cuidado com suas zonas de plantio!</SpawnHowType_AllOverTheMap_Help>
+            <SpawnHowType_FromTheEdges_Help>Se você preferir a maneira mais clássica de um encadeamento das bordas do mapa, este modo é para você.</SpawnHowType_FromTheEdges_Help>
+
+        <!-- What Do Zombies Attack -->
+            <WhatDoZombiesAttack_Help>zumbis não se comportam como invasores (com exceção de zumbis furiosos). Eles são wanderers sem sentido que só ficam furiosos quando seus sentidos são ativados. Essa configuração permite definir o tipo de criatura que os obterá.</WhatDoZombiesAttack_Help>
+            <AttackMode_Everything_Help>Faça zumbis rastrear e atacar qualquer coisa que se mova - até animais. Apenas armas estacionárias como Turrets e tal nunca vão chamar sua atenção.</AttackMode_Everything_Help>
+            <AttackMode_OnlyHumans_Help>Esta é a maneira "normal" que zumbis devem funcionar. Sua busca por cérebros os faz caçar peões humanoides, independentemente da facção.</AttackMode_OnlyHumans_Help>
+            <AttackMode_OnlyColonists_Help>Se você acha que os zumbis nunca devem atacar mais ninguém, mas seus colonos, então este é o modo certo para você. Eles podem bater de volta quando atacado, mas nunca iniciará qualquer agressão.</AttackMode_OnlyColonists_Help>
+            <EnemiesAttackZombies_Help>Desligue isso e seus inimigos irão ignorar e evitar zumbis. Quando ligado, invasores os vê tão perigosos e tentará o melhor para lutar contra eles. Boa sorte!</EnemiesAttackZombies_Help>
+            <AnimalsAttackZombies_Help>Com isso, os animais atacarão zumbis quando caçam ou ficam agressivos. Para que eles ignorem qualquer zumbi, desligue esta opção.</AnimalsAttackZombies_Help>
+            <WhatDoZombiesSmash_Help>Quando os zumbis se aproximam de edifícios ou coisas, eles podem começar a bater nas coisas próximas. Eles nunca planejam qualquer ataque sofisticado, mas em maior número com o tempo, eles podem derrubar suas defesas.</WhatDoZombiesSmash_Help>
+            <SmashMode_Nothing_Help>Faça zumbis atacarem apenas criaturas. Eles ignorarão paredes, edifícios, torres e outras coisas.</SmashMode_Nothing_Help>
+            <SmashMode_DoorsOnly_Help>Com esta configuração, os zumbis têm uma ideia aproximada de como as portas funcionam. Eles vão começar a bater neles e a quantidade de dano aumentará com o número de zumbis próximos à porta. Além disso, zumbis furiosos causaram mais dano.</SmashMode_DoorsOnly_Help>
+            <SmashMode_AnyBuilding_Help>Para fazer zumbis realmente odiar todas as suas coisas, use essa configuração. Eles vão atacar qualquer coisa que esteja em sua vizinhança - mesmo perigo antigo! Isso aumenta substancialmente a dificuldade do jogo.</SmashMode_AnyBuilding_Help>
+            <SmashOnlyWhenAgitated_Help>Para restringir interações de zumbis com coisas para apenas zumbis que estão agitados, cheque essa opção. Isso vai fazer zumbis andarilhos normais não-hostis até eles acharem uma trilha ou sentirem você ou seus ruídos (o pequeno ícone de cérebro vai te dizer quando eles acharem algo).</SmashOnlyWhenAgitated_Help>
+
+        <!-- New Game -->
+            <NewGameTitle_Help>Inicialmente, Zombieland dá a você algum tempo para preparar sua colônia. Tente não estender muito este período - muitos iniciantes cometem esse erro e definem isso para um grande número, então construa sua colônia forte e com muitos colonos e armas. Quando chegar a hora, Zombieland começará com um grande número de zumbis (a contagem de zumbis é sempre em relação à força da colônia) e o jogo acaba rapidamente. Em vez disso, jogue zombieland com zumbis mais cedo para vc sentir como jogar.</NewGameTitle_Help>
+            <DaysBeforeZombiesCome_Help>Este é o número de dias até que os zumbis apareçam pela primeira vez. Tenha em mente que, mesmo depois que o tempo acabar, ele ainda pode levar até a próxima noite ou evento, dependendo de suas configurações.</DaysBeforeZombiesCome_Help>
+
+        <!-- Zombies On The Map -->
+            <ZombiesOnTheMap_Help>Zombieland tem um algoritmo interno que determina o número de zumbis que devem estar no mapa a qualquer momento. Isso depende de muitas coisas: número de colonos, colonos capazes que podem lutar, armas e armaduras, dificuldade de contador de histórias e outras coisas. Este número pode ser arbitrária grande e para evitar que seu jogo fique muito lento, você pode definir um limite máximo. Tenha em mente que Zombieland é projetado para colocar muitos zumbis no mapa, brincando com um punhado de zumbis provavelmente não é o que você quer.</ZombiesOnTheMap_Help>
+            <MaximumNumberOfZombies_Help>O limite superior de zumbis em uma determinada telha de mapa. Números reais podem ser menores dependendo da colônia.</MaximumNumberOfZombies_Help>
+            <ColonyMultiplier_Help>Às vezes, Zombieland estima poucos zumbis. Por exemplo, se você quiser brincar com muito poucos colonos, mas quer que o número de zumbis seja alto, no entanto. Com este multiplicador, você pode dizer ao Zombieland que sua colônia é x vezes mais capaz de se defender. Isso aumentará o número de zumbis para quando você realmente quer esse desafio (mas o limite superior é sempre respeitado).</ColonyMultiplier_Help>
+
+        <!-- Zombie Event -->
+            <ZombieEventTitle_Help>Se você joga com "em eventos apenas" e às vezes até nos outros modos, Zombieland desencadeará um ataque de zumbis. Isso não é como um evento de invasor, mas, em vez disso, um número maior de zumbis aparece juntos e, dependendo do tamanho do grupo, pode até se aproximar e começar a rastrear em sua direção.</ZombieEventTitle_Help>
+            <ZombiesPerColonistInEvent_Help>Para controlar o tamanho do evento, você pode especificar quantos zumbis por colono aparecerão. Por favor, note que isso não altera o limite geral de zumbis no mapa e se o número atual de zumbis já estiver perto do limite total ou ao número que Zombieland determinou para o tamanho atual da colônia, menos zumbis serão no evento. Colocar um número muito grande aqui só irá remover o limite de tamanho do evento superior. Definir um pequeno número reduzirá o tamanho geral do evento - especialmente com menos colonos capazes de combater.</ZombiesPerColonistInEvent_Help>
+            <ExtraDaysBetweenEvents_Help>Normalmente, os eventos zumbis são espaçados automaticamente. O intervalo real depende de alguns fatores internos. Caso você acha que isso é muito frequente, você pode usar essa configuração para adicionar dias extras entre os eventos.</ExtraDaysBetweenEvents_Help>
+
+        <!-- Zombie Speed -->
+            <ZombieSpeedTitle_Help>A velocidade de zumbi é a configuração que permite equilibrar o nível de dificuldade mais, se você acha que Zombieland é muito difícil, comece a reduzir muito a velocidade. Os zumbis rápidos são geralmente muito mortais. Há duas velocidades para definir: uma para zumbis calmamente vagando e outra para aqueles que começaram a rastrear você.</ZombieSpeedTitle_Help>
+            <MoveSpeedIdle_Help>A velocidade normal de zumbis. Exceto zumbis furiosos ou agitados.</MoveSpeedIdle_Help>
+            <MoveSpeedTracking_Help>Depois que os zumbis ficarem animados / agitados, eles usarão essa configuração de velocidade. Isso geralmente será quando eles estão próximos de seus colonos, então estabelecem este alto exigirá que você fique de olho em todos os contatos de zumbis repentinos que você não quer perder.</MoveSpeedTracking_Help>
+
+        <!-- Zombie Damage -->
+            <ZombieDamageTitle_Help>Mudar o que acontece quando os zumbis atacam outras criaturas.</ZombieDamageTitle_Help>
+            <ZombieDamageFactor_Help>Um grande multiplicador aumentará sua força que permitirá que eles superem os outros facilmente. Muito útil para ataques mech, mas deteriorará suas paredes e portas mais rápidas (se você tiver que ligar).</ZombieDamageFactor_Help>
+            <ZombiesCauseManhunting_Help>Será que os animais se tornam caçadores de humanos quando atacados por zumbis?</ZombiesCauseManhunting_Help>
+
+        <!-- Game Tweaks -->
+            <ZombieGameTweaks_Help>Esta seção contém dois ajustes para o jogo para equilibrar a jogabilidade com zumbis um pouco mais.</ZombieGameTweaks_Help>
+            <ReduceTurretConsumption_Help>A pressão constante dos zumbis fará com que as torres usem um monte de aço. Essa configuração permite reduzir a quantidade de aço necessária para manter as torres operacionais. Tenha em mente que esta é uma configuração de redução. Números mais altos significam menos consumo.</ReduceTurretConsumption_Help>
+
+        <!-- Zombie Infections  -->
+            <ZombieInfections_Help>O principal perigo com zumbis são infecções. Você precisa evitar o contato com zumbis a qualquer custo. Os arranhões são inofensivos, mas as mordidas sempre lhe darão o risco de uma infecção potencialmente fatal. Se você quiser mais gameplay, reduza o risco de infecção substancialmente para baixo para 5%. Se você quiser gameplay de estilo de guerra mundial, defina-o para 100% e remova qualquer atraso nas outras configurações para zumbificação instantânea!\n\nZombieland tem um processo de infecção de 4 estágios. Cada mordida começa como "desconhecida" (ou cor branca normal) e mesmo se você tratar a ferida, a infecção se revelará após o primeiro período ter passado. Depois disso, a parte da ferida / corpo é infectada (laranja) ou não (branco). Uma infecção só pode ser interrompida pela amputação (se a parte do corpo permitir isso) ou por um tratamento muito muito bom. Uma infecção que existe além da segunda fase entrará na terceira fase (vermelho). Agora, apenas a amputação ajudará. Finalmente, esta etapa termina com o colonista tornando-se um zumbi muito poderoso (o nome é mantido e você pode até mesmo selecionar esse zumbi especial)</ZombieInfections_Help>
+            <ZombieBiteInfectionChance_Help>Esta é a chance de que uma mordida zumbi infectará a parte do membro ou do corpo faz parte. As mordidas são infecciosas, mas arranhões não são.</ZombieBiteInfectionChance_Help>
+            <ZombieBiteInfectionUnknown_Help>Esta é a primeira fase (branca). Você pode tratar a ferida, mas você não sabe se será infectado até que esta fase termine.</ZombieBiteInfectionUnknown_Help>
+            <ZombieBiteInfectionTreatable_Help>Nesta segunda fase (laranja), a infecção ainda é tratável. Se você puder amputar, você pode parar a infecção. O tratamento deve acontecer sob condições ótimas (algo que você precisa para descobrir a si mesmo). Além disso, você só tem uma chance de tratamento, uma vez que a ferida foi tratada, você não pode novamente tratá-lo de uma maneira melhor.</ZombieBiteInfectionTreatable_Help>
+            <ZombieBiteInfectionPersists_Help>A terceira e última fase (vermelho). Agora, a infecção não pode ser tratada mais e apenas a amputação pode parar o processo. Muitos jogadores cometem o erro e acabam com a vida de seu colonista infectado cedo demais. Zombieland, enquanto cruel, tem algumas surpresas construir para tornar esta fase útil para você. Descubra como o colonista mudou / se transformou enquanto quase se tornando um zumbi!</ZombieBiteInfectionPersists_Help>
+            <AnyTreatmentStopsInfection_Help>Para permitir que o tratamento simples em uma cama pare uma mordida infectada, selecione esta opção. É uma boa ideia ligar isso quando você ainda não estiver familiarizado com a mecânica do jogo.</AnyTreatmentStopsInfection_Help>
+
+        <!-- Zombie Serum -->
+            <ZombieSerum_Help>Em comparação com amputações, o soro zumbi é a melhor alternativa para curar infecções. Recolha extrato de zumbis sempre que puder de zumbis mortos e refiná-lo em uma droga no soro zumbi. O soro vem em qualidades de 10% a 100% e uma poção de soro cura uma mordida de zumbis. A qualidade determina o risco de falha ao fazer uma operação em um colono infectado.</ZombieSerum_Help>
+            <CorpsesExtractAmount_Help>Extrato de zumbis é os ingredientes no soro zumbi. Você coletou de zumbis mortos antes de desaparecer (automático ou clique com o botão direito do mouse no zumbi cadáver). Apenas os colonos designados para o médico podem coletar extrato. E somente se não houver zumbis perigosos nas proximidades (aproximadamente 10-20 raios de células), dependendo dos arredores. Para facilitar a criação de soro, aumente a quantidade de extrato por zumbi.</CorpsesExtractAmount_Help>
+            <CorpsesDaysToDessicated_Help>Os cadáveres zumbis geralmente diminuem rapidamente para que você não acabe com muitos deles. Para facilitar a coleta de extrato, você pode aumentar o tempo antes de desaparecer.</CorpsesDaysToDessicated_Help>
+
+        <!-- Zombie Instinct -->
+            <ZombieInstinctTitle_Help>Zumbi sentem voce através do som e cheiro. Eles também agem como um rebanho em certas situações. Essa configuração permite que você defina o quão longe esses sentidos alcançam</ZombieInstinctTitle_Help>
+            <ZombieInstinct_Dull_Help>Sensos de zumbis são limitados a algumas células distância</ZombieInstinct_Dull_Help>
+            <ZombieInstinct_Normal_Help>Sentidos de zumbis atingem um pouco mais</ZombieInstinct_Normal_Help>
+            <ZombieInstinct_Sensitive_Help>Os zumbis são muito sensíveis e sentem você e suas trilhas sobre muitas células</ZombieInstinct_Sensitive_Help>
+            <RagingZombies_Help>Para simular o comportamento do grupo, os zumbis podem ficar enfurecidos se um grupo apertado de zumbis ficarem muito grandes. Zumbis furiosos têm olhos vermelhos e começam a andar em direção aos seus colonos. Eles serão mais fortes e mais rápidos que o normal. Tente impedir que hordas de zumbis se tornem grandes ou presas em lugares no mapa para evitar zumbis furiosos.</RagingZombies_Help>
+            <RageLevel_Help>Este nível controla o tamanho do grupo que desencadeia zumbis furiosos. Os altos níveis são mais perigosos e fazem zumbis desencadeiam mais facilmente.</RageLevel_Help>
+
+        <!-- Zombie Health -->
+            <ZombieHealthTitle_Help>Como o zumbi é tecnicamente morto, eles não têm "saúde". Zombieland pode tornar mais fácil ou mais difícil matar zumbis.</ZombieHealthTitle_Help>
+            <DoubleTapRequired_Help>Esta opção fará zumbis se recuperarão de lesões. Você precisa causar dano mais constantemente ou então eles continuarão. Zumbis feridos podem se tornar "rastejadores" que se movem lentamente e só atacam as pernas. Desligue isso para o Normal Rimworld como dano.</DoubleTapRequired_Help>
+            <ZombiesDieVeryEasily_Help>Outra ótima opção para iniciantes e jogadores que querem uma jogabilidade de estilo mais arcade que pode ser bastante divertido. Quando ligado, os zumbis morrem com 1 tiro e até mesmo a menor lesão os mata.</ZombiesDieVeryEasily_Help>
+
+        <!-- Zombie Eating -->
+            <ZombieEatingTitle_Help>Quando os zumbis detectam cadáveres mortos perto deles, eles pararão e concentrarão sua atenção nos cadáveres - usam isso para sua vantagem e para a defesa. Esta configuração controla o que e se zumbis comerão.</ZombieEatingTitle_Help>
+            <ZombiesEatDowned_Help>Zumbis não têm misericórdia e vai comer criaturas que estão vivas ou feridas.</ZombiesEatDowned_Help>
+            <ZombiesEatCorpses_Help>Zombies fazem a festa em cadáveres se você ativar esta opção.</ZombiesEatCorpses_Help>
+
+        <!-- Zombies -->
+            <SpecialZombiesTitle_Help>Zombieland tem cinco tipos diferentes de zumbis. Eles têm todas as habilidades especiais e tornam o jogo mais difícil. Além disso, sua forma corporal e tamanho determina suas estatísticas gerais.</SpecialZombiesTitle_Help>
+            <SuicideBomberChance_Help>Os zumbis de suicídio vão explodir sua bomba quando morrerem. Eles também iram explodir quando chegar a qualquer pedaço de parede que você construir. Fique de olho neles e não deixe que eles se aproximem.</SuicideBomberChance_Help>
+            <ToxicSplasherChance_Help>Zumbis tóxicos vai salpicar seu ambiente com material verde muito tóxico e pegajoso. Certifique-se de que seus colonos não andam por esses lugares.</ToxicSplasherChance_Help>
+            <TankyOperatorChance_Help>Os zumbis tanques são fortemente blindados, mas lentos. Eles levam um monte de danos antes de seu escudo, capacete e um terno ficarem destruidos e você pode finalmente matá-los.</TankyOperatorChance_Help>
+            <MinerChance_Help>Os zumbis de mineração começarão a mineração se encontram montanhas a caminho da sua base. Facilmente reconhecível com seus chapéus duros laranja.</MinerChance_Help>
+            <ElectrifierChance_Help>Os zumbis eletricos não mordem e voce pode ataca-los corpo a corpo. De fato, seu campo de força elétrica irá protegê-los de qualquer dano, exceto corpo a corpo. Eles vão interferir e construir quebrar nada elétrico, eletrônico ou qualquer coisa com componentes, incluindo coisas motorizados, armaduras e armas.</ElectrifierChance_Help>
+            <AlbinoChance_Help>Os zumbis albinos não atacam você. Em vez disso, eles sabotam sua base e gritam para voce ficar atordoado e vômite.</AlbinoChance_Help>
+            <NormalZombieChance_Help>Os zumbis comuns vêm em diferentes tamanhos de corpo. Que define sua força, mas também sua velocidade! Eles costumam usar qualquer aparelho que esteja disponível no jogo e em qualquer mods que você instalou.</NormalZombieChance_Help>
+
+        <!-- Misc -->
+            <ZombieMiscTitle_Help>Esta seção contém configurações diversas que não afetam muito o jogo. Alguns são cosméticos e alguns podem acelerar o jogo em um computador mais lento.</ZombieMiscTitle_Help>
+            <UseCustomTextures_Help>Todo zumbi terá texturas de corpo personalizadas com lesões e outras marcas relacionadas com zumbis. Isso faz com que Zombieland consome muita memória, então desligue se você estiver tendo problemas (especialmente na versão de 32 bits)</UseCustomTextures_Help>
+            <ReplaceTwinkie_Help>Zombieland O filme tem um meme sobre Twinkies. Em homenagem ao filme, o mod muda a aparência visual das refeições de sobrevivência para um Twinkie.</ReplaceTwinkie_Help>
+            <ZombiesTriggerDangerMusic_Help>Normalmente Rimworld joga música perigos específica quando há um perigo no mapa. Como os zumbis são mais prováveis permanentes no mapa, esta opção desliga esse recurso.</ZombiesTriggerDangerMusic_Help>
+            <PlayCreepyAmbientSound_Help>Nenhum tema zumbi sem alguns sons ambientes assustadores. À noite, quando todos os zumbis se movem em direção à sua base, isso vai jogar alguns sons assustadores.</PlayCreepyAmbientSound_Help>
+            <BetterZombieAvoidance_Help>Para ajudá-lo com melhor patente ao redor de qualquer zumbis, você pode ativar essa opção. Zombieland ajustará constantemente o caminho de um colono para evitar zumbis. Muito útil para menos micro e para resgatar outros colonos.</BetterZombieAvoidance_Help>
+            <ZombiesDropBlood_Help>ajuste a velocidade do jogo: desligar isso e zumbis não deixe cair o sangue mais.</ZombiesDropBlood_Help>
+            <ZombiesBurnLonger_Help>Para lhe dar uma jogabilidade mais interessante, os zumbis pegam fogo e queimarão mais do que o habitual ao andar por aí. Desligue se o seu computador é muito lento para lidar com muito fogo.</ZombiesBurnLonger_Help>
+
+        <!-- Actions -->
+            <ZombieActionsTitle_Help>Nesta seção você pode restaurar as configurações padrão ou carregar e publicar suas próprias configurações. Se você estiver em um jogo, pode até mesmo desinstalar o mod com um clique de um botão.</ZombieActionsTitle_Help>
+            <UninstallButton_Help>Para remover Zombieland, basta clicar em desinstalar. Você será solicitado a salvar o jogo atual em um novo nome e retornará ao menu principal. A partir daí, você pode desinstalar o mod e carregar o arquivo de jogo salvo para continuar seu jogo sem zumbieland.</UninstallButton_Help>
+            <Reset_Help>Isso irá redefinir as configurações para o padrão.</Reset_Help>
+            <LoadSettingsButton_Help>Isso abrirá uma nova caixa de diálogo que lista todas as configurações que os usuários do Zombieland consideraram interessantes o suficiente e que foram publicados em todos.</LoadSettingsButton_Help>
+            <PublishSettingsButton_Help>Se você acha que tem uma combinação especial de configurações interessantes, você pode publicá-las aqui para que outras pessoas possam carregar as mesmas configurações.</PublishSettingsButton_Help>
+
+        <!-- Zombies Rising -->
+            <LetterLabelZombiesRising>Ataque zumbi</LetterLabelZombiesRising>
+            <ZombiesRising>Um grupo de zumbis aparece</ZombiesRising>
+            <LetterLabelZombiesRisingNearYourBase>Ataque direto de zumbis</LetterLabelZombiesRisingNearYourBase>
+            <ZombiesRisingNearYourBase>Um grupo de zumbis aparece perto da sua base</ZombiesRisingNearYourBase>
+
+        <!-- Days Until Zombies -->
+            <LetterLabelXDaysUntilZombies>{0} até que zumbis venham</LetterLabelXDaysUntilZombies>
+            <XDaysUntilZombies>Os zumbis aparecerão onde há solo macio, sujeira, areia ou cascalho. A construção de pisos impede que os zumbis saiam lá.</XDaysUntilZombies>
+
+        <!-- Settings -->
+            <ZombielandDefaultSettings>configurações Padrões</ZombielandDefaultSettings>
+            <ZombielandGameSettings>Zombieland</ZombielandGameSettings>
+            <WhenDoZombiesSpawn>Quando os zumbis aparecem?</WhenDoZombiesSpawn>
+            <SpawnWhenType_AllTheTime>O tempo todo</SpawnWhenType_AllTheTime>
+            <SpawnWhenType_WhenDark>Quando está escuro</SpawnWhenType_WhenDark>
+            <SpawnWhenType_InEventsOnly>Apenas como eventos</SpawnWhenType_InEventsOnly>
+            <HowDoZombiesSpawn>De onde vem os zumbis?</HowDoZombiesSpawn>
+            <SpawnHowType_AllOverTheMap>Onde há chão macio</SpawnHowType_AllOverTheMap>
+            <SpawnHowType_FromTheEdges>Das bordas do mapa</SpawnHowType_FromTheEdges>
+            <WhatDoZombiesAttack>O que os zumbis vão atacar?</WhatDoZombiesAttack>
+            <AttackMode_Everything>Todas as criaturas</AttackMode_Everything>
+            <AttackMode_OnlyHumans>Criaturas semelhantes a humanos</AttackMode_OnlyHumans>
+            <AttackMode_OnlyColonists>Apenas colonos</AttackMode_OnlyColonists>
+            <EnemiesAttackZombies>Inimigos atacam zumbis.</EnemiesAttackZombies>
+            <AnimalsAttackZombies>Animais atacam zumbis.</AnimalsAttackZombies>
+            <WhatDoZombiesSmash>O que os zumbis iram destruir?</WhatDoZombiesSmash>
+            <SmashMode_Nothing>Nada</SmashMode_Nothing>
+            <SmashMode_DoorsOnly>Apenas portas</SmashMode_DoorsOnly>
+            <SmashMode_AnyBuilding>Tudo o que foi construído</SmashMode_AnyBuilding>
+            <SmashOnlyWhenAgitated>Somente quando eles estão agitados</SmashOnlyWhenAgitated>
+            <NewGameTitle>Novo jogo</NewGameTitle>
+            <DaysBeforeZombiesCome>Dias até que os zumbis venham</DaysBeforeZombiesCome>
+            <ZombiesOnTheMap>Zumbis no mapa</ZombiesOnTheMap>
+            <MaximumNumberOfZombies>Nunca mais que</MaximumNumberOfZombies>
+            <Zombies>Zumbis</Zombies>
+            <ColonyMultiplier>Multiplicador de colônia</ColonyMultiplier>
+            <ZombieEventTitle>Evento zumbi</ZombieEventTitle>
+            <ZombiesPerColonistInEvent>Zumbis por colono</ZombiesPerColonistInEvent>
+            <ExtraDaysBetweenEvents>Dias extras entre eventos</ExtraDaysBetweenEvents>
+            <ZombieSpeedTitle>Velocidade de zumbi</ZombieSpeedTitle>
+            <MoveSpeedIdle>Se eles estão calmos</MoveSpeedIdle>
+            <MoveSpeedTracking>Se eles se sentirem animados</MoveSpeedTracking>
+            <ZombieDamageTitle>Dano de zumbis</ZombieDamageTitle>
+            <ZombieDamageFactor>Multiplicador de danos</ZombieDamageFactor>
+            <ZombiesCauseManhunting>Zumbis podem causar animais com raiva</ZombiesCauseManhunting>
+            <ZombieGameTweaks>Tweaks do jogo</ZombieGameTweaks>
+            <ReduceTurretConsumption>Reduzir o consumo de arma de torre</ReduceTurretConsumption>
+            <ZombieInfections>Infecções zumbis</ZombieInfections>
+            <ZombieBiteInfectionChance>Risco que uma mordida zumbi é infecciosa</ZombieBiteInfectionChance>
+            <ZombieBiteInfectionUnknown>Tempo até que a infecção seja conhecida</ZombieBiteInfectionUnknown>
+            <ZombieBiteInfectionTreatable>A infecção pelo tempo é tratável</ZombieBiteInfectionTreatable>
+            <ZombieBiteInfectionPersists>Duração da infecção</ZombieBiteInfectionPersists>
+            <AnyTreatmentStopsInfection>O tratamento em uma cama para as infecções</AnyTreatmentStopsInfection>
+            <ZombieSerum>Soro zumbi</ZombieSerum>
+            <CorpsesExtractAmount>Quantidade de extrato por zumbi</CorpsesExtractAmount>
+            <CorpsesDaysToDessicated>Horas até que os cadáveres zumbis desapareçam</CorpsesDaysToDessicated>
+            <ZombieInstinctTitle>Sentidos de zumbis</ZombieInstinctTitle>
+            <ZombieInstinct_Dull>Limitada</ZombieInstinct_Dull>
+            <ZombieInstinct_Normal>Normal</ZombieInstinct_Normal>
+            <ZombieInstinct_Sensitive>Elevada</ZombieInstinct_Sensitive>
+            <RagingZombies>Zumbis ficam com raiva se um grupo fica muito grande</RagingZombies>
+            <RageLevel>Nível de raiva</RageLevel>
+            <RageLevelVeryLow>Muito baixa</RageLevelVeryLow>
+            <RageLevelLow>Baixa</RageLevelLow>
+            <RageLevelNormal>Normal</RageLevelNormal>
+            <RageLevelHigh>Alta</RageLevelHigh>
+            <RageLevelVeryHigh>Muito alta</RageLevelVeryHigh>
+            <ZombieHealthTitle>Saúde do zumbi</ZombieHealthTitle>
+            <DoubleTapRequired>Zumbis se recuperam de lesões</DoubleTapRequired>
+            <ZombiesDieVeryEasily>Zumbis são fáceis de matar</ZombiesDieVeryEasily>
+            <ZombieEatingTitle>Zumbis comerão</ZombieEatingTitle>
+            <ZombiesEatDowned>Criaturas feridas</ZombiesEatDowned>
+            <ZombiesEatCorpses>Cadáveres</ZombiesEatCorpses>
+            <SpecialZombiesTitle>Zumbis especiais</SpecialZombiesTitle>
+            <SuicideBomberChance>zumbis bomba</SuicideBomberChance>
+            <ToxicSplasherChance>Zumbis tóxicos</ToxicSplasherChance>
+            <TankyOperatorChance>Zumbis tanque</TankyOperatorChance>
+            <MinerChance>Zumbis de mineração</MinerChance>
+            <ElectrifierChance>Zumbis elétricos</ElectrifierChance>
+            <AlbinoChance>Zumbis albinos</AlbinoChance>
+            <NormalZombieChance>Zumbis comuns: {0}</NormalZombieChance>
+            <ZombieMiscTitle>Diversos</ZombieMiscTitle>
+            <UseCustomTextures>Use texturas personalizadas</UseCustomTextures>
+            <ReplaceTwinkie>Alterar refeições de sobrevivência para twinkies</ReplaceTwinkie>
+            <ZombiesTriggerDangerMusic>Zumbis afetam a música perigo</ZombiesTriggerDangerMusic>
+            <PlayCreepyAmbientSound>Jogue um som ambiente assustador à noite</PlayCreepyAmbientSound>
+            <BetterZombieAvoidance>Evitação zumbis automático</BetterZombieAvoidance>
+            <ZombiesDropBlood>Zumbis derramam sangue</ZombiesDropBlood>
+            <ZombiesBurnLonger>Zumbis queimam mais</ZombiesBurnLonger>
+            <ZombieActionsTitle>Ações</ZombieActionsTitle>
+            <ZombieSettingsReset>Restaurar a configuração original</ZombieSettingsReset>
+            <UninstallZombieland>Remova Zombieland do jogo atual</UninstallZombieland>
+            <ConfirmUninstallZombieland>Se você continuar, você pode escolher um novo nome de arquivo de salvamento e você retornará ao menu principal após o jogo ser salvo. O novo salvamento pode ser carregado sem zumbieland.\n\nVocê realmente quer remover todo o conteúdo do zombieland do jogo atual?</ConfirmUninstallZombieland>
+            <UninstallButton>Desinstalar</UninstallButton>
+            <LoadSettings>Carregar configurações da nuvem</LoadSettings>
+            <LoadSettingsButton>Download</LoadSettingsButton>
+            <PublishSettings>Publicar configurações para a nuvem</PublishSettings>
+            <PublishSettingsButton>Publicar</PublishSettingsButton>
+            <SearchSettings>Procurar</SearchSettings>
+            <SettingsName>Nome</SettingsName>
+            <ColonistsBittenByZombie>Colonista mordido por zumbi</ColonistsBittenByZombie>
+            <ColonistsBittenByZombieDesc>Esses colonos foram mordidos por um zumbi. Neste ponto, não é claro se eles desenvolverem uma infecção:\n\n{0}\nMonitore suas feridas de perto porque as infecções levam algum tempo para se desenvolver.</ColonistsBittenByZombieDesc>
+            <ImminentZombiInfection>Infecção iminente de zumbis</ImminentZombiInfection>
+            <ImminentZombiInfectionDesc>Esses colonos estão prestes a ser infectados a partir de uma mordida de zumbis:\n\n{0}\nVocê pode resgatá-los imediatamente, dando-lhes um tratamento ideal em melhores condições. Mas requer um bom médico, uma cama médica de qualidade e uma sala estéril com um monitor de sinais vitais.</ImminentZombiInfectionDesc>
+            <ZombieInfection>Infecção de zumbis</ZombieInfection>
+            <ZombieInfectionDesc>Esses colonos foram infectados e se tornarão um zumbi. Não há mais como resgatá-los:\n\n{0}\nDurante sua infecção, eles são indiferentes aos pensamentos, sentimentos, dor e fome. No final, eles morrem e se tornam um zumbi.</ZombieInfectionDesc>
+            <NoInfectionRisk>Nenhum risco de infecção</NoInfectionRisk>
+            <HoursBeforeBecomingInfected>{0} para infecção</HoursBeforeBecomingInfected>
+            <HoursBeforeBecomingAZombie>{0} para se tornar um zumbi</HoursBeforeBecomingAZombie>
+            <BecameAZombieLabel>Alguém se transformou em um zumbi</BecameAZombieLabel>
+            <BecameAZombieDesc>{0} foi transformado em um poderoso zumbi.</BecameAZombieDesc>
+            <BodyIsInfectedLabel>Este corpo está infectado com o vírus zumbi!</BodyIsInfectedLabel>
+            <BodyIsInfectedTooltip>Corpos infectados se transformarão em zumbis quando começam a apodrecer.</BodyIsInfectedTooltip>
+            <CureZombieInfection>Cura infecção zumbi</CureZombieInfection>
+            <ExtractingZombieSerum>Extraindo o soro de zumbis</ExtractingZombieSerum>
+            <AutoExtractDisabledDescription>Não pode extrair o soro de zumbis (Nenhum médico)</AutoExtractDisabledDescription>
+            <AutoExtractAllowedDescription>Extrair automaticamente o soro de zumbis quando nenhum zumbis estiver próximo</AutoExtractAllowedDescription>
+            <AutoExtractForbiddenDescription>Apenas soro zumbi extrato quando solicitado</AutoExtractForbiddenDescription>
+            <AutoAvoidZombiesEnabledDescription>Evitar automaticamente os zumbis, exceto quando permanecerem alistados</AutoAvoidZombiesEnabledDescription>
+            <AutoAvoidZombiesDisabledDescription>Ignorar zumbis. Você precisa controlar manualmente todas as ações</AutoAvoidZombiesDisabledDescription>
+
 </LanguageData>

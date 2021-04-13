@@ -117,4 +117,14 @@
             <VWE_Anesthetic.stages.2.label>sedado</VWE_Anesthetic.stages.2.label>
             <VWE_Anesthetic.stages.3.label>anestesiado</VWE_Anesthetic.stages.3.label>
 
+    <!-- Zombieland -->
+        <!-- Zombie Bite -->
+            <ZombieBite.label>mordida de zumbi</ZombieBite.label>
+            <ZombieBite.description>Uma mordida infecciosa de zumbi.</ZombieBite.description>
+            <ZombieBite.comps.0.labelTendedWell>enfaixada</ZombieBite.comps.0.labelTendedWell>
+            <ZombieBite.comps.0.labelTendedWellInner>suturada</ZombieBite.comps.0.labelTendedWellInner>
+            <ZombieBite.comps.0.labelSolidTendedWell>filmada</ZombieBite.comps.0.labelSolidTendedWell>
+            <ZombieBite.injuryProps.destroyedLabel>Destruído por um zumbi</ZombieBite.injuryProps.destroyedLabel>
+            <ZombieBite.injuryProps.destroyedOutLabel>Arrancado por um zumbi</ZombieBite.injuryProps.destroyedOutLabel>
+
 </LanguageData>

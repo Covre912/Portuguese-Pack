@@ -32,4 +32,21 @@
             <VWE_AnestheticDart.label>dardo anestésico</VWE_AnestheticDart.label>
             <VWE_AnestheticDart.deathMessage>{0} foi morto por um dardo anestésico.</VWE_AnestheticDart.deathMessage>
 
+    <!-- Zombieland -->
+        <!-- Zombie Bite -->
+            <ZombieBite.label>mordida de zumbi</ZombieBite.label>
+            <ZombieBite.deathMessage>{0} foi mordido até a morte por um zumbi.</ZombieBite.deathMessage>
+
+        <!-- Suicide Bomb -->
+            <SuicideBomb.label>bomba suicida</SuicideBomb.label>
+            <SuicideBomb.deathMessage>{0} morreu em um ataque suicida a bomba.</SuicideBomb.deathMessage>
+
+        <!-- Toxic Splatter -->
+            <ToxicSplatter.label>espirro tóxico</ToxicSplatter.label>
+            <ToxicSplatter.deathMessage>{0} foi corroído até a morte.</ToxicSplatter.deathMessage>
+
+        <!-- Eletrical Shock -->
+            <ElectricalShock.label>choque</ElectricalShock.label>
+            <ElectricalShock.deathMessage>{0} foi eletrocutado até a morte.</ElectricalShock.deathMessage>
+
 </LanguageData>
