@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Zombieland -->
+		<!-- Sticky Goo -->
+			<StickyGoo.label>gosma de zumbi tóxica pegajosa</StickyGoo.label>
+
+		<!-- Tar Slime -->
+			<TarSlime.label>gosma super pegajosa</TarSlime.label>
+
+</LanguageData>

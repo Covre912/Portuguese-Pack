@@ -311,9 +311,6 @@
             <LaserRandom.description>Um monte de componentes que, quando montados, criam uma arma laser recuperada.</LaserRandom.description>
 
 	<!-- Zombieland -->
-		<!-- Sticky Goo -->
-			<StickyGoo.label>gosma de zumbi tóxica pegajosa</StickyGoo.label>
-
 		<!-- Zombie Extract -->
   			<ZombieExtract.label>extrato de zumbi</ZombieExtract.label>
   			<ZombieExtract.description>Pequena quantidade de extrato de um zumbi morto. Combine até 100 extratos para criar uma droga chamada Soro de zumbi, que é usada em operações em partes do corpo infectadas.</ZombieExtract.description>
