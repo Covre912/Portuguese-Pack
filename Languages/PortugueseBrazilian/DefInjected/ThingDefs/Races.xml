@@ -432,16 +432,16 @@
     <!-- Vanilla Animals Expanded - Tropical Swamp -->
         <!-- Alligator -->
             <AEXP_Alligator.label>jacaré</AEXP_Alligator.label>
-            <AEXP_Alligator.description></AEXP_Alligator.description>
+            <AEXP_Alligator.description>O jacaré é um grande réptil que habita os pântanos de água doce. Eles são predadores de ponta e consomem peixes, anfíbios, répteis, pássaros e mamíferos.</AEXP_Alligator.description>
 
         <!-- Anaconda -->
             <AEXP_Anaconda.label>sucuri</AEXP_Anaconda.label>
-            <AEXP_Anaconda.description></AEXP_Anaconda.description>
+            <AEXP_Anaconda.description>A sucuri é a espécie de cobra mais pesada e uma das mais longas conhecidas, podendo atingir 5 metros de comprimento. Elas são uma espécie principalmente noturna que tende a passar a maior parte de sua vida na água ou próximas a ela.</AEXP_Anaconda.description>
             <AEXP_Anaconda.tools.1.label>cabeça</AEXP_Anaconda.tools.1.label>
 
         <!-- Indian Elephant -->
             <AEXP_IndianElephant.label>elefante-indiano</AEXP_IndianElephant.label>
-            <AEXP_IndianElephant.description></AEXP_IndianElephant.description>
+            <AEXP_IndianElephant.description>O elefante indiano é um dos maiores animais terrestres. Em geral, eles são menores, têm orelhas menores, mas crânios relativamente mais largos e trombas maiores do que os elefantes africanos.</AEXP_IndianElephant.description>
             <AEXP_IndianElephant.tools.0.label>pé esquerdo</AEXP_IndianElephant.tools.0.label>
             <AEXP_IndianElephant.tools.1.label>pé direito</AEXP_IndianElephant.tools.1.label>
             <AEXP_IndianElephant.tools.2.label>cabeça</AEXP_IndianElephant.tools.2.label>
