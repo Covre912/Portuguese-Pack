@@ -246,6 +246,13 @@
 			<AEXP_Leather_Pinniped.label>couro de pinípede</AEXP_Leather_Pinniped.label>
 			<AEXP_Leather_Pinniped.description>Couro curtido e seco de pinípede. É de resistência média, mas isola bem contra o calor.</AEXP_Leather_Pinniped.description>
 
+	<!-- Vanilla Animals Expanded - Temperate Forest -->
+		<!-- Wild Moose Egg -->
+			<AEXP_EggWildGooseUnfertilized.label>ovo de ganso selvagem (não fert.)</AEXP_EggWildGooseUnfertilized.label>
+			<AEXP_EggWildGooseUnfertilized.description>Ovo de ganso selvagem não fertilizado. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggWildGooseUnfertilized.description>
+			<AEXP_EggWildGooseFertilized.label>ovo de ganso selvagem (fert.)</AEXP_EggWildGooseFertilized.label>
+			<AEXP_EggWildGooseFertilized.description>Ovo de ganso selvagem fertilizado. Se tudo ocorrer bem, ele deve eclodir um ganso selvagem bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggWildGooseFertilized.description>
+			
 	<!-- Vanilla Animals Expanded - Tropical Forest -->
 		<!-- Tiger Leather -->
 			<AEXP_Leather_Tiger.label>couro de tigre</AEXP_Leather_Tiger.label>
@@ -264,13 +271,6 @@
 		<!-- Musk Ox Wool -->
 			<AEXP_MuskOxWool.label>lã de boi-almiscarado</AEXP_MuskOxWool.label>
 			<AEXP_MuskOxWool.description>A lã interna do boi-almiscarado. Mais forte e mais quente que a lã de ovelha e mais macia que a lã de casimira.</AEXP_MuskOxWool.description>
-
-	<!-- Vanilla Animals Expanded - Temperate Forest -->
-		<!-- Wild Moose Egg -->
-			<AEXP_EggWildGooseUnfertilized.label>ovo de ganso selvagem (não fert.)</AEXP_EggWildGooseUnfertilized.label>
-			<AEXP_EggWildGooseUnfertilized.description>Ovo de ganso selvagem não fertilizado. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggWildGooseUnfertilized.description>
-			<AEXP_EggWildGooseFertilized.label>ovo de ganso selvagem (fert.)</AEXP_EggWildGooseFertilized.label>
-			<AEXP_EggWildGooseFertilized.description>Ovo de ganso selvagem fertilizado. Se tudo ocorrer bem, ele deve eclodir um ganso selvagem bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggWildGooseFertilized.description>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Component -->
