@@ -429,6 +429,23 @@
             <AEXP_Tiger.tools.1.label>garra direita</AEXP_Tiger.tools.1.label>
             <AEXP_Tiger.tools.3.label>cabeça</AEXP_Tiger.tools.3.label>
 
+    <!-- Vanilla Animals Expanded - Tropical Swamp -->
+        <!-- Alligator -->
+            <AEXP_Alligator.label>jacaré</AEXP_Alligator.label>
+            <AEXP_Alligator.description></AEXP_Alligator.description>
+
+        <!-- Anaconda -->
+            <AEXP_Anaconda.label>sucuri</AEXP_Anaconda.label>
+            <AEXP_Anaconda.description></AEXP_Anaconda.description>
+            <AEXP_Anaconda.tools.1.label>cabeça</AEXP_Anaconda.tools.1.label>
+
+        <!-- Indian Elephant -->
+            <AEXP_IndianElephant.label>elefante-indiano</AEXP_IndianElephant.label>
+            <AEXP_IndianElephant.description></AEXP_IndianElephant.description>
+            <AEXP_IndianElephant.tools.0.label>pé esquerdo</AEXP_IndianElephant.tools.0.label>
+            <AEXP_IndianElephant.tools.1.label>pé direito</AEXP_IndianElephant.tools.1.label>
+            <AEXP_IndianElephant.tools.2.label>cabeça</AEXP_IndianElephant.tools.2.label>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Advanced Centipede -->
             <VFE_Mech_AdvancedCentipede.label>centopéia avançada</VFE_Mech_AdvancedCentipede.label>

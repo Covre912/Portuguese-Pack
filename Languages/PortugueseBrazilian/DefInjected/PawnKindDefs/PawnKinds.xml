@@ -318,6 +318,21 @@
             <AEXP_Tiger.label>tigre</AEXP_Tiger.label>
             <AEXP_Tiger.labelPlural>tigres</AEXP_Tiger.labelPlural>
 
+    <!-- Vanilla Animals Expanded - Tropical Swamp -->
+        <!-- Alligator -->
+            <AEXP_Alligator.label>jacaré</AEXP_Alligator.label>
+            <AEXP_Alligator.labelPlural>jacarés</AEXP_Alligator.labelPlural>
+
+        <!-- Anaconda -->
+            <AEXP_Anaconda.label>sucuri</AEXP_Anaconda.label>
+            <AEXP_Anaconda.labelPlural>sucuris</AEXP_Anaconda.labelPlural>
+
+        <!-- Indian Elephant -->
+            <AEXP_IndianElephant.label>elefante-indiano</AEXP_IndianElephant.label>
+            <AEXP_IndianElephant.labelPlural>elefantes-indianos</AEXP_IndianElephant.labelPlural>
+            <AEXP_IndianElephant.lifeStages.0.label>elefante-indiano filhote</AEXP_IndianElephant.lifeStages.0.label>
+            <AEXP_IndianElephant.lifeStages.0.labelPlural>elefantes-indianos filhotes</AEXP_IndianElephant.lifeStages.0.labelPlural>
+
     <!-- Zombieland -->
         <!-- Zombie -->
             <Zombie.label>zumbi</Zombie.label>

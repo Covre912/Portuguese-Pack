@@ -169,4 +169,30 @@
             <AEXP_GreatApe.corePart.parts.17.parts.2.parts.3.customLabel>segundo dedo do pé direito</AEXP_GreatApe.corePart.parts.17.parts.2.parts.3.customLabel>
             <AEXP_GreatApe.corePart.parts.17.parts.2.parts.4.customLabel>dedão do pé direito</AEXP_GreatApe.corePart.parts.17.parts.2.parts.4.customLabel>
 
+    <!-- Vanilla Animals Expanded - Tropical Swamp -->
+        <!-- Large Lizardlike -->
+            <AEXP_LargeLizardlike.label>lagarto grande</AEXP_LargeLizardlike.label>
+            <AEXP_LargeLizardlike.corePart.parts.4.customLabel>pulmão esquerdo</AEXP_LargeLizardlike.corePart.parts.4.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.5.customLabel>pulmão direito</AEXP_LargeLizardlike.corePart.parts.5.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.6.customLabel>rim esquerdo</AEXP_LargeLizardlike.corePart.parts.6.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.7.customLabel>rim direito</AEXP_LargeLizardlike.corePart.parts.7.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.9.parts.0.parts.1.customLabel>olho esquerdo</AEXP_LargeLizardlike.corePart.parts.9.parts.0.parts.1.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.9.parts.0.parts.2.customLabel>olho direito</AEXP_LargeLizardlike.corePart.parts.9.parts.0.parts.2.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.10.customLabel>perna dianteira esquerda</AEXP_LargeLizardlike.corePart.parts.10.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.10.parts.0.customLabel>primeira garra da perna dianteira esquerda</AEXP_LargeLizardlike.corePart.parts.10.parts.0.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.10.parts.1.customLabel>segunda garra da perna dianteira esquerda</AEXP_LargeLizardlike.corePart.parts.10.parts.1.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.10.parts.2.customLabel>terceira garra da perna dianteira esquerda</AEXP_LargeLizardlike.corePart.parts.10.parts.2.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.11.customLabel>perna dianteira direita</AEXP_LargeLizardlike.corePart.parts.11.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.11.parts.0.customLabel>primeira garra da perna dianteira direita</AEXP_LargeLizardlike.corePart.parts.11.parts.0.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.11.parts.1.customLabel>segunda garra da perna dianteira direita</AEXP_LargeLizardlike.corePart.parts.11.parts.1.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.11.parts.2.customLabel>terceira garra da perna dianteira direita</AEXP_LargeLizardlike.corePart.parts.11.parts.2.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.12.customLabel>perna traseira esquerda</AEXP_LargeLizardlike.corePart.parts.12.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.12.parts.0.customLabel>primeira garra da perna traseira esquerda</AEXP_LargeLizardlike.corePart.parts.12.parts.0.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.12.parts.1.customLabel>segunda garra da perna traseira esquerda</AEXP_LargeLizardlike.corePart.parts.12.parts.1.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.12.parts.2.customLabel>terceira garra da perna traseira esquerda</AEXP_LargeLizardlike.corePart.parts.12.parts.2.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.13.customLabel>perna traseira direita</AEXP_LargeLizardlike.corePart.parts.13.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.13.parts.0.customLabel>primeira garra da perna traseira direita</AEXP_LargeLizardlike.corePart.parts.13.parts.0.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.13.parts.1.customLabel>segunda garra da perna traseira direita</AEXP_LargeLizardlike.corePart.parts.13.parts.1.customLabel>
+            <AEXP_LargeLizardlike.corePart.parts.13.parts.2.customLabel>terceira garra da perna traseira direita</AEXP_LargeLizardlike.corePart.parts.13.parts.2.customLabel>
+
 </LanguageData>

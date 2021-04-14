@@ -251,6 +251,15 @@
 			<AEXP_Leather_Tiger.label>couro de tigre</AEXP_Leather_Tiger.label>
 			<AEXP_Leather_Tiger.description>Os tigres costumavam ser alvos de caçadores furtivos na antiguidade devido às suas peles luxuosas, um fato que quase os levou à extinção. Com a quase ilegalidade, o couro de tigre é visto como uma mercadoria exótica para o comércio.</AEXP_Leather_Tiger.description>
 
+	<!-- Vanilla Animals Expanded - Tropical Swamp -->
+		<!-- Anaconda Egg -->
+			<AEXP_EggAnacondaFertilized.label>ovo de sucuri (fert.)</AEXP_EggAnacondaFertilized.label>
+			<AEXP_EggAnacondaFertilized.description>Ovo de sucuri fertilizado. Se tudo ocorrer bem, ele deve eclodir uma sucuri bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggAnacondaFertilized.description>
+
+		<!-- Alligator Egg -->
+			<AEXP_EggAlligatorFertilized.label>ovo de jacaré (fert.)</AEXP_EggAlligatorFertilized.label>
+			<AEXP_EggAlligatorFertilized.description>Ovo de jacaré fertilizado. Se tudo ocorrer bem, ele deve eclodir um jacaré bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggAlligatorFertilized.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Component -->
             <VFE_ComponentMechanoid.label>componente mecanóide</VFE_ComponentMechanoid.label>
