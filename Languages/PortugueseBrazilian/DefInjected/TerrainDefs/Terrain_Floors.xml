@@ -1,6 +1,927 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [T] MoreFloors -->
+		<!-- Orange Carpet -->
+			<CarpetOrange.label>carpete laranja</CarpetOrange.label>
+			<CarpetOrange.description>Carpete macio em uma vívida tonalidade alaranjada.</CarpetOrange.description>
+
+		<!-- Yellow Carpet -->
+			<CarpetYellow.label>carpete amarelo</CarpetYellow.label>
+			<CarpetYellow.description>Carpete amarelo como o verão.</CarpetYellow.description>
+
+		<!-- Turquoise Carpet -->
+			<CarpetTurquoise.label>carpete turquesa</CarpetTurquoise.label>
+			<CarpetTurquoise.description>Carpete em verde-água calmante.</CarpetTurquoise.description>
+
+		<!-- Purple Carpet -->
+			<CarpetPurple.label>carpete roxo</CarpetPurple.label>
+			<CarpetPurple.description>Carpete em um majestoso tom de roxo.</CarpetPurple.description>
+
+		<!-- White Carpet -->
+			<CarpetWhite.label>carpete branco</CarpetWhite.label>
+			<CarpetWhite.description>Carpete branco sem tintura. Confortável, mas suja fácil.</CarpetWhite.description>
+
+		<!-- Black Carpet -->
+			<CarpetBlack.label>carpete preto</CarpetBlack.label>
+			<CarpetBlack.description>Carpete preto taciturno.</CarpetBlack.description>
+
+		<!-- Checkered Red Carpet -->
+			<CheckCarpetRed.label>carpete xadrez vermelho</CheckCarpetRed.label>
+			<CheckCarpetRed.description>carpete quadriculado em um belo matiz carmesim.</CheckCarpetRed.description>
+
+		<!-- Checkered Orange Carpet -->
+			<CheckCarpetOrange.label>carpete xadrez laranja</CheckCarpetOrange.label>
+			<CheckCarpetOrange.description>Carpete quadriculado em uma vívida tonalidade alaranjada.</CheckCarpetOrange.description>
+
+		<!-- Checkered Yellow Carpet -->
+			<CheckCarpetYellow.label>carpete xadrez amarelo</CheckCarpetYellow.label>
+			<CheckCarpetYellow.description>Carpete quadriculado amarelo como o verão.</CheckCarpetYellow.description>
+
+		<!-- Checkered Cream Carpet -->
+			<CheckCarpetCream.label>carpete xadrez creme</CheckCarpetCream.label>
+			<CheckCarpetCream.description>Carpete quadriculado em um tom bege como creme.</CheckCarpetCream.description>
+
+		<!-- Checkered Green Carpet -->
+			<CheckCarpetGreen.label>carpete xadrez verde</CheckCarpetGreen.label>
+			<CheckCarpetGreen.description>Carpete quadriculado em verde natural.</CheckCarpetGreen.description>
+			
+		<!-- Checkered Turquoise Carpet -->
+			<CheckCarpetTurquoise.label>carpete xadrez turquesa</CheckCarpetTurquoise.label>
+			<CheckCarpetTurquoise.description>Carpete quadriculado em verde-água calmante.</CheckCarpetTurquoise.description>
+
+		<!-- Checkered Blue Carpet -->
+			<CheckCarpetBlue.label>carpete xadrez azul</CheckCarpetBlue.label>
+			<CheckCarpetBlue.description>Carpete quadriculado fofinho em um azul frio.</CheckCarpetBlue.description>
+
+		<!-- Checkered Purple Carpet -->
+			<CheckCarpetPurple.label>carpete xadrez roxo</CheckCarpetPurple.label>
+			<CheckCarpetPurple.description>Carpete quadriculado em um majestoso tom de roxo.</CheckCarpetPurple.description>
+
+		<!-- Checkered Wuite Carpet -->
+			<CheckCarpetWhite.label>carpete xadrez branco</CheckCarpetWhite.label>
+			<CheckCarpetWhite.description>Carpete quadriculado branco sem tintura. Confortável, mas suja fácil.</CheckCarpetWhite.description>
+
+		<!-- Checkered Dark Carpet -->
+			<CheckCarpetDark.label>carpete xadrez escuro</CheckCarpetDark.label>
+			<CheckCarpetDark.description>Carpete quadriculado em preto claro - ou será que é branco escuro?</CheckCarpetDark.description>
+			
+		<!-- Checkered Black Carpet -->
+			<CheckCarpetBlack.label>carpete xadrez preto</CheckCarpetBlack.label>
+			<CheckCarpetBlack.description>Carpete quadriculado preto taciturno.</CheckCarpetBlack.description>
+	
+		<!-- Wool Red Carpet -->
+			<WoolCarpetRed.label>carpete de lã vermelho</WoolCarpetRed.label>
+			<WoolCarpetRed.description>carpete de lã em um belo matiz carmesim.</WoolCarpetRed.description>
+
+		<!-- Wool Orange Carpet -->
+			<WoolCarpetOrange.label>carpete de lã laranja</WoolCarpetOrange.label>
+			<WoolCarpetOrange.description>Carpete de lã em uma vívida tonalidade alaranjada.</WoolCarpetOrange.description>
+
+		<!-- Wool Yellow Carpet -->
+			<WoolCarpetYellow.label>carpete de lã amarelo</WoolCarpetYellow.label>
+			<WoolCarpetYellow.description>Carpete de lã amarelo como o verão.</WoolCarpetYellow.description>
+
+		<!-- Wool Cream Carpet -->
+			<WoolCarpetCream.label>carpet de lã creme</WoolCarpetCream.label>
+			<WoolCarpetCream.description>Carpete quadriculado em um tom bege como creme.</WoolCarpetCream.description>
+
+		<!-- Wool Green Carpet -->
+			<WoolCarpetGreen.label>carpete de lã verde</WoolCarpetGreen.label>
+			<WoolCarpetGreen.description>Carpete de lã em verde natural.</WoolCarpetGreen.description>
+			
+		<!-- Wool Turquoise Carpet -->
+			<WoolCarpetTurquoise.label>carpete de lã turquesa</WoolCarpetTurquoise.label>
+			<WoolCarpetTurquoise.description>Carpete de lã em verde-água calmante.</WoolCarpetTurquoise.description>
+
+		<!-- Wool Blue Carpet -->
+			<WoolCarpetBlue.label>carpete de lã azul</WoolCarpetBlue.label>
+			<WoolCarpetBlue.description>Carpete de lã fofinho em um azul frio.</WoolCarpetBlue.description>
+
+		<!-- Wool Purple Carpet -->
+			<WoolCarpetPurple.label>carpete de lã roxo</WoolCarpetPurple.label>
+			<WoolCarpetPurple.description>Carpete de lã em um majestoso tom de roxo.</WoolCarpetPurple.description>
+
+		<!-- Wool Wuite Carpet -->
+			<WoolCarpetWhite.label>carpete de lã branco</WoolCarpetWhite.label>
+			<WoolCarpetWhite.description>Carpete de lã branco sem tintura. Confortável, mas suja fácil.</WoolCarpetWhite.description>
+
+		<!-- Wool Dark Carpet -->
+			<WoolCarpetDark.label>carpete de lã escuro</WoolCarpetDark.label>
+			<WoolCarpetDark.description>Carpete de lã em preto claro - ou será que é branco escuro?</WoolCarpetDark.description>
+			
+		<!-- Wool Black Carpet -->
+			<WoolCarpetBlack.label>carpete de lã preto</WoolCarpetBlack.label>
+			<WoolCarpetBlack.description>Carpete de lã preto taciturno.</WoolCarpetBlack.description>
+
+        <!-- Plasteel Floor -->
+        	<FloorPlasteel.label>piso de plastiaço</FloorPlasteel.label>
+	        <FloorPlasteel.description>Este piso de alta tecnologia nunca fica sujo e, logo, é apropriado para o uso em ambientes esterilizados. Também é agradável de se olhar (de um jeito moderno e futurista). É caro e leva tempo considerável para construir.</FloorPlasteel.description>
+
+        <!-- Amethyst -->
+            <TFloorGemstoneZAmethyst.label>piso de ametista</TFloorGemstoneZAmethyst.label>
+            <TFloorGemstoneZAmethyst.description>Piso deslumbrante feito de ametista polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneZAmethyst.description>
+  
+        <!-- Chalcedony -->
+            <TFloorGemstoneZChalcedony.label>piso de calcedônia</TFloorGemstoneZChalcedony.label>
+            <TFloorGemstoneZChalcedony.description>Piso deslumbrante feito de calcedônia polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneZChalcedony.description>
+
+        <!-- Citrine -->
+            <TFloorGemstoneZCitrine.label>piso de citrino</TFloorGemstoneZCitrine.label>
+            <TFloorGemstoneZCitrine.description>Piso deslumbrante feito de citrino polido. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneZCitrine.description>
+
+        <!-- Diamond -->
+            <TFloorGemstoneZDiamond.label>piso de diamante</TFloorGemstoneZDiamond.label>
+            <TFloorGemstoneZDiamond.description>Piso deslumbrante feito de diamante polido. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneZDiamond.description>
+
+        <!-- Emerald -->
+            <TFloorGemstoneZEmerald.label>piso de esmeralda</TFloorGemstoneZEmerald.label>
+            <TFloorGemstoneZEmerald.description>Piso deslumbrante feito de esmeralda polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneZEmerald.description>
+
+        <!-- Garnet -->
+            <TFloorGemstoneZGarnet.label>piso de granada</TFloorGemstoneZGarnet.label>
+            <TFloorGemstoneZGarnet.description>Piso deslumbrante feito de granada polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneZGarnet.description>
+
+        <!-- Lapis -->
+            <TFloorGemstoneZLapis.label>piso de lápis-lazúli</TFloorGemstoneZLapis.label>
+            <TFloorGemstoneZLapis.description>Piso deslumbrante feito de lápis-lazúli polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneZLapis.description>
+
+        <!-- Quartz -->
+            <TFloorGemstoneZQuartz.label>piso de quartzo</TFloorGemstoneZQuartz.label>
+            <TFloorGemstoneZQuartz.description>Piso deslumbrante feito de quartzo polido. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneZQuartz.description>
+
+        <!-- Ruby -->
+            <TFloorGemstoneZRuby.label>piso de rubi</TFloorGemstoneZRuby.label>
+            <TFloorGemstoneZRuby.description>Piso deslumbrante feito de rubi polido. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneZRuby.description>
+
+        <!-- Sapphire -->
+            <TFloorGemstoneZSapphire.label>piso de safira</TFloorGemstoneZSapphire.label>
+            <TFloorGemstoneZSapphire.description>Piso deslumbrante feito de safira polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneZSapphire.description>
+
+        <!-- Serpentine -->
+            <TFloorGemstoneZSerpentine.label>piso de serpentina</TFloorGemstoneZSerpentine.label>
+            <TFloorGemstoneZSerpentine.description>Piso deslumbrante feito de serpentina polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneZSerpentine.description>
+
+        <!-- Turquoise -->
+            <TFloorGemstoneZTurquoise.label>piso de turquesa</TFloorGemstoneZTurquoise.label>
+            <TFloorGemstoneZTurquoise.description>Piso deslumbrante feito de turquesa polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneZTurquoise.description>
+
+        <!-- Amethyst -->
+            <TFloorGemstoneAmethyst.label>piso de ametista</TFloorGemstoneAmethyst.label>
+            <TFloorGemstoneAmethyst.description>Piso deslumbrante feito de ametista polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneAmethyst.description>
+
+        <!-- Amber -->
+            <TFloorGemstoneAmber.label>piso de âmbar</TFloorGemstoneAmber.label>
+            <TFloorGemstoneAmber.description>Piso deslumbrante feito de âmbar polido. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneAmber.description>
+
+        <!-- Aquamarine -->
+            <TFloorGemstoneAquamarine.label>piso de água-marinha</TFloorGemstoneAquamarine.label>
+            <TFloorGemstoneAquamarine.description>Piso deslumbrante feito de água-marinha polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneAquamarine.description>
+
+        <!-- Benitoite -->
+            <TFloorGemstoneBenitoite.label>piso de benitoite</TFloorGemstoneBenitoite.label>
+            <TFloorGemstoneBenitoite.description>Piso deslumbrante feito de benitoite polido. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneBenitoite.description>
+
+        <!-- Bixbite -->
+            <TFloorGemstoneBixbite.label>piso de berilo vermelho</TFloorGemstoneBixbite.label>
+            <TFloorGemstoneBixbite.description>Piso deslumbrante feito de berilo vermelho polido. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneBixbite.description>
+
+        <!-- Diamond -->
+            <TFloorGemstoneDiamond.label>piso de diamante</TFloorGemstoneDiamond.label>
+            <TFloorGemstoneDiamond.description>Piso deslumbrante feito de diamante polido. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneDiamond.description>
+
+        <!-- Dioptase -->
+            <TFloorGemstoneDioptase.label>piso de dioptase</TFloorGemstoneDioptase.label>
+            <TFloorGemstoneDioptase.description>Piso deslumbrante feito de dioptase polido. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneDioptase.description>
+
+        <!-- Ekanite -->
+            <TFloorGemstoneEkanite.label>piso de ekanita</TFloorGemstoneEkanite.label>
+            <TFloorGemstoneEkanite.description>Piso deslumbrante feito de ekanita polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneEkanite.description>
+
+        <!-- Emerald -->
+            <TFloorGemstoneEmerald.label>piso de esmeralda</TFloorGemstoneEmerald.label>
+            <TFloorGemstoneEmerald.description>Piso deslumbrante feito de esmeralda polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneEmerald.description>
+
+        <!-- Garnet -->
+            <TFloorGemstoneGarnet.label>piso de granada</TFloorGemstoneGarnet.label>
+            <TFloorGemstoneGarnet.description>Piso deslumbrante feito de granada polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneGarnet.description>
+
+        <!-- Heliodor -->
+            <TFloorGemstoneHeliodor.label>piso de heliodoro</TFloorGemstoneHeliodor.label>
+            <TFloorGemstoneHeliodor.description>Piso deslumbrante feito de heliodoro polido. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneHeliodor.description>
+
+        <!-- Kunzite -->
+            <TFloorGemstoneKunzite.label>piso de kunzita</TFloorGemstoneKunzite.label>
+            <TFloorGemstoneKunzite.description>Piso deslumbrante feito de kunzita polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneKunzite.description>
+
+        <!-- Larimar -->
+            <TFloorGemstoneLarimar.label>piso de larimar</TFloorGemstoneLarimar.label>
+            <TFloorGemstoneLarimar.description>Piso deslumbrante feito de larimar polido. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneLarimar.description>
+
+        <!-- Iolite -->
+            <TFloorGemstoneIolite.label>piso de iolita</TFloorGemstoneIolite.label>
+            <TFloorGemstoneIolite.description>Piso deslumbrante feito de iolita polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneIolite.description>
+
+        <!-- Malachite -->
+            <TFloorGemstoneMalachite.label>piso de malaquita</TFloorGemstoneMalachite.label>
+            <TFloorGemstoneMalachite.description>Piso deslumbrante feito de malaquita polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneMalachite.description>
+
+        <!-- Morganite -->
+            <TFloorGemstoneMorganite.label>piso de morganita</TFloorGemstoneMorganite.label>
+            <TFloorGemstoneMorganite.description>Piso deslumbrante feito de morganita polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneMorganite.description>
+
+        <!-- Padparadscha -->
+            <TFloorGemstonePadparadscha.label>piso de safira padparadscha</TFloorGemstonePadparadscha.label>
+            <TFloorGemstonePadparadscha.description>Piso deslumbrante feito de safira padparadscha polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstonePadparadscha.description>
+
+        <!-- Peridot -->
+            <TFloorGemstonePeridot.label>piso de peridoto</TFloorGemstonePeridot.label>
+            <TFloorGemstonePeridot.description>Piso deslumbrante feito de peridoto polido. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstonePeridot.description>
+
+        <!-- Prasiolite -->
+            <TFloorGemstonePrasiolite.label>piso de prasiolita</TFloorGemstonePrasiolite.label>
+            <TFloorGemstonePrasiolite.description>Piso deslumbrante feito de prasiolita polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstonePrasiolite.description>
+
+        <!-- Quartz -->
+            <TFloorGemstoneQuartz.label>piso de quartzo</TFloorGemstoneQuartz.label>
+            <TFloorGemstoneQuartz.description>Piso deslumbrante feito de quartzo polido. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneQuartz.description>
+
+        <!-- Ruby -->
+            <TFloorGemstoneRuby.label>piso de rubi</TFloorGemstoneRuby.label>
+            <TFloorGemstoneRuby.description>Piso deslumbrante feito de rubi polido. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneRuby.description>
+
+        <!-- Sapphire -->
+            <TFloorGemstoneSapphire.label>piso de safira</TFloorGemstoneSapphire.label>
+            <TFloorGemstoneSapphire.description>Piso deslumbrante feito de safira polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneSapphire.description>
+
+        <!-- Scapolite -->
+            <TFloorGemstoneScapolite.label>piso de escapolita</TFloorGemstoneScapolite.label>
+            <TFloorGemstoneScapolite.description>Piso deslumbrante feito de escapolita polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneScapolite.description>
+
+        <!-- Sunstone -->
+            <TFloorGemstoneSunstone.label>piso de pedra do sol</TFloorGemstoneSunstone.label>
+            <TFloorGemstoneSunstone.description>Piso deslumbrante feito de pedra do sol polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneSunstone.description>
+
+        <!-- Tanzanite -->
+            <TFloorGemstoneTanzanite.label>piso de tanzanita</TFloorGemstoneTanzanite.label>
+            <TFloorGemstoneTanzanite.description>Piso deslumbrante feito de tanzanita polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneTanzanite.description>
+
+        <!-- Tsavorite -->
+            <TFloorGemstoneTsavorite.label>piso de tsavorita</TFloorGemstoneTsavorite.label>
+            <TFloorGemstoneTsavorite.description>Piso deslumbrante feito de tsavorita polida. Mal dá para ver onde os ladrilhos se encontram! Fantasticamente lindo, mas também requer um tempo muito longo para construir.</TFloorGemstoneTsavorite.description>
+
+        <!-- Straw Floor -->
+        	<FloorStraw.label>piso de feno</FloorStraw.label>
+	        <FloorStraw.description>Piso singelo feito de feno seco. Altamente inflamável.</FloorStraw.description>
+
+        <!-- Burned Straw -->
+	        <BurnedStrawFloor.label>piso de feno queimado</BurnedStrawFloor.label>
+	        <BurnedStrawFloor.description>Piso de feno queimado.</BurnedStrawFloor.description>
+
+        <!-- Jade Floor -->
+	        <FloorJade.label>piso de jade</FloorJade.label>
+	        <FloorJade.description>Piso impressionante feito de ladrilhos polidos de jade sólida. Ridiculamente bonito, mas também requer muito tempo para construir.</FloorJade.description>
+
+       <!-- Slabs -->
+            <FloorStoneStaggeredCCPPinkMarble.label>placas de pedra (mármore rosa)</FloorStoneStaggeredCCPPinkMarble.label>
+            <FloorStoneStaggeredCCPBlueGranite.label>placas de pedra (granito azul)</FloorStoneStaggeredCCPBlueGranite.label>
+            <FloorStoneStaggeredCCPGreenMarble>placas de pedra (mármore verde)</FloorStoneStaggeredCCPGreenMarble>  
+  
+        <!-- Staggered -->
+            <FloorStoneStaggeredCCPPinkMarble.label>placas de pedra escalonadas (mármore rosa)</FloorStoneStaggeredCCPPinkMarble.label>
+            <FloorStoneStaggeredCCPBlueGranite.label>placas de pedra escalonadas (granito azul)</FloorStoneStaggeredCCPBlueGranite.label>
+            <FloorStoneStaggeredCCPGreenMarble.label>placas de pedra escalonadas (mármore verde)</FloorStoneStaggeredCCPGreenMarble.label>  
+  
+        <!-- Rough -->
+            <FloorStoneRoughCCPPinkMarble.label>piso áspero (mármore rosa)</FloorStoneRoughCCPPinkMarble.label>
+            <FloorStoneRoughCCPBlueGranite.label>piso áspero (granito azul)</FloorStoneRoughCCPBlueGranite.label>
+            <FloorStoneRoughCCPGreenMarble.label>piso áspero (mármore verde)</FloorStoneRoughCCPGreenMarble.label>  
+  
+        <!-- Alternating -->
+            <FloorStoneAlternatingCCPPinkMarble.label>piso de tijolos alternados (mármore rosa)</FloorStoneAlternatingCCPPinkMarble.label>
+            <FloorStoneAlternatingCCPBlueGranite.label>piso de tijolos alternados (granito azul)</FloorStoneAlternatingCCPBlueGranite.label>
+            <FloorStoneAlternatingCCPGreenMarble.label>piso de tijolos alternados (mármore verde)</FloorStoneAlternatingCCPGreenMarble.label>  
+  
+        <!-- Herringbone -->
+            <FloorStoneHerringboneCCPPinkMarble.label>piso em espinha de peixe (mármore rosa)</FloorStoneHerringboneCCPPinkMarble.label>
+            <FloorStoneHerringboneCCPBlueGranite.label>piso em espinha de peixe (granito azul)</FloorStoneHerringboneCCPBlueGranite.label>
+            <FloorStoneHerringboneCCPGreenMarble.label>piso em espinha de peixe (mármore verde)</FloorStoneHerringboneCCPGreenMarble.label>
+    
+        <!-- Hexagonal -->
+            <FloorStoneHexCCPPinkMarble.label>piso hexagonal (mármore rosa)</FloorStoneHexCCPPinkMarble.label>
+            <FloorStoneHexCCPBlueGranite.label>piso hexagonal (granito azul)</FloorStoneHexCCPBlueGranite.label>
+            <FloorStoneHexCCPGreenMarble.label>piso hexagonal (mármore verde)</FloorStoneHexCCPGreenMarble.label>
+  
+        <!-- Digital -->
+            <FloorStoneDigitalCCPPinkMarble.label>piso em padrão digital (mármore rosa)</FloorStoneDigitalCCPPinkMarble.label>
+            <FloorStoneDigitalCCPBlueGranite.label>piso em padrão digital (granito azul)</FloorStoneDigitalCCPBlueGranite.label>
+            <FloorStoneDigitalCCPGreenMarble.label>piso em padrão digital (mármore verde)</FloorStoneDigitalCCPGreenMarble.label> 
+  
+        <!-- Mosaic -->
+            <FloorStoneMosaicCCPPinkMarble.label>piso em mosaico (mármore rosa)</FloorStoneMosaicCCPPinkMarble.label>
+            <FloorStoneMosaicCCPBlueGranite.label>piso em mosaico (granito azul)</FloorStoneMosaicCCPBlueGranite.label>
+            <FloorStoneMosaicCCPGreenMarble.label>piso em mosaico (mármore verde)</FloorStoneMosaicCCPGreenMarble.label>  
+  
+        <!-- Random -->
+            <FloorStoneRandomCCPPinkMarble.label>piso aleatório (mármore rosa)</FloorStoneRandomCCPPinkMarble.label>
+            <FloorStoneRandomCCPBlueGranite.label>piso aleatório (granito azul)</FloorStoneRandomCCPBlueGranite.label>
+            <FloorStoneRandomCCPGreenMarble.label>piso aleatório (mármore verde)</FloorStoneRandomCCPGreenMarble.label>  
+  
+        <!-- Diamond -->
+            <FloorStoneDiamondCCPPinkMarble.label>piso losangular (mármore rosa)</FloorStoneDiamondCCPPinkMarble.label>
+            <FloorStoneDiamondCCPBlueGranite.label>piso losangular (granito azul)</FloorStoneDiamondCCPBlueGranite.label>
+            <FloorStoneDiamondCCPGreenMarble.label>piso losangular (mármore verde)</FloorStoneDiamondCCPGreenMarble.label>  
+  
+        <!-- Arabesque -->
+            <FloorStoneArabesqueCCPPinkMarble.label>piso arabesco (mármore rosa)</FloorStoneArabesqueCCPPinkMarble.label>
+            <FloorStoneArabesqueCCPBlueGranite.label>piso arabesco (granito azul)</FloorStoneArabesqueCCPBlueGranite.label>
+            <FloorStoneArabesqueCCPGreenMarble.label>piso arabesco (mármore verde)</FloorStoneArabesqueCCPGreenMarble.label>
+
+        <!-- Slabs -->
+            <FloorStoneSlabsClaystone.label>placas de pedra (argilito)</FloorStoneSlabsClaystone.label>
+            <FloorStoneSlabsAndesite.label>placas de pedra (andesito)</FloorStoneSlabsAndesite.label>
+            <FloorStoneSlabsSyenite.label>placas de pedra (sienito)</FloorStoneSlabsSyenite.label>
+            <FloorStoneSlabsGneiss.label>placas de pedra (gnaisse)</FloorStoneSlabsGneiss.label>
+            <FloorStoneSlabsQuartzite.label>placas de pedra (quartzito)</FloorStoneSlabsQuartzite.label>
+            <FloorStoneSlabsSchist.label>placas de pedra (xisto)</FloorStoneSlabsSchist.label>
+            <FloorStoneSlabsGabbro.label>placas de pedra (gabro)</FloorStoneSlabsGabbro.label>
+            <FloorStoneSlabsDiorite.label>placas de pedra (diorito)</FloorStoneSlabsDiorite.label>
+            <FloorStoneSlabsDunite.label>placas de pedra (dunito)</FloorStoneSlabsDunite.label>
+            <FloorStoneSlabsPegmatite.label>placas de pedra (pegmatito)</FloorStoneSlabsPegmatite.label>
+  
+        <!-- Staggered -->
+            <FloorStoneStaggeredClaystone.label>placas de pedra escalonadas (argilito)</FloorStoneStaggeredClaystone.label>
+            <FloorStoneStaggeredAndesite.label>placas de pedra escalonadas (andesito)</FloorStoneStaggeredAndesite.label>
+            <FloorStoneStaggeredSyenite.label>placas de pedra escalonadas (sienito)</FloorStoneStaggeredSyenite.label>
+            <FloorStoneStaggeredGneiss.label>placas de pedra escalonadas (gnaisse)</FloorStoneStaggeredGneiss.label>
+            <FloorStoneStaggeredQuartzite.label>placas de pedra escalonadas (quartzito)</FloorStoneStaggeredQuartzite.label>
+            <FloorStoneStaggeredSchist.label>placas de pedra escalonadas (xisto)</FloorStoneStaggeredSchist.label>
+            <FloorStoneStaggeredGabbro.label>placas de pedra escalonadas (gabro)</FloorStoneStaggeredGabbro.label>
+            <FloorStoneStaggeredDiorite.label>placas de pedra escalonadas (diorito)</FloorStoneStaggeredDiorite.label>
+            <FloorStoneStaggeredDunite.label>placas de pedra escalonadas (dunito)</FloorStoneStaggeredDunite.label>
+            <FloorStoneStaggeredPegmatite.label>placas de pedra escalonadas (pegmatito)</FloorStoneStaggeredPegmatite.label>     
+  
+        <!-- Rough -->
+            <FloorStoneRoughClaystone.label>piso áspero (argilito)</FloorStoneRoughClaystone.label>
+            <FloorStoneRoughAndesite.label>piso áspero (andesito)</FloorStoneRoughAndesite.label>
+            <FloorStoneRoughSyenite.label>piso áspero (sienito)</FloorStoneRoughSyenite.label>
+            <FloorStoneRoughGneiss.label>piso áspero (gnaisse)</FloorStoneRoughGneiss.label>
+            <FloorStoneRoughQuartzite.label>piso áspero (quartzito)</FloorStoneRoughQuartzite.label>
+            <FloorStoneRoughSchist.label>piso áspero (xisto)</FloorStoneRoughSchist.label>
+            <FloorStoneRoughGabbro.label>piso áspero (gabro)</FloorStoneRoughGabbro.label>
+            <FloorStoneRoughDiorite.label>piso áspero (diorito)</FloorStoneRoughDiorite.label>
+            <FloorStoneRoughDunite.label>piso áspero (dunito)</FloorStoneRoughDunite.label>
+            <FloorStoneRoughPegmatite.label>piso áspero (pegmatito)</FloorStoneRoughPegmatite.label>
+
+        <!-- Alternating -->
+            <FloorStoneAlternatingClaystone.label>piso de tijolos alternados (argilito)</FloorStoneAlternatingClaystone.label>
+            <FloorStoneAlternatingAndesite.label>piso de tijolos alternados (andesito)</FloorStoneAlternatingAndesite.label>
+            <FloorStoneAlternatingSyenite.label>piso de tijolos alternados (sienito)</FloorStoneAlternatingSyenite.label>
+            <FloorStoneAlternatingGneiss.label>piso de tijolos alternados (gnaisse)</FloorStoneAlternatingGneiss.label>
+            <FloorStoneAlternatingQuartzite.label>piso de tijolos alternados (quartzito)</FloorStoneAlternatingQuartzite.label>
+            <FloorStoneAlternatingSchist.label>piso de tijolos alternados (xisto)</FloorStoneAlternatingSchist.label>
+            <FloorStoneAlternatingGabbro.label>piso de tijolos alternados (gabro)</FloorStoneAlternatingGabbro.label>
+            <FloorStoneAlternatingDiorite.label>piso de tijolos alternados (diorito)</FloorStoneAlternatingDiorite.label>
+            <FloorStoneAlternatingDunite.label>piso de tijolos alternados (dunito)</FloorStoneAlternatingDunite.label>
+            <FloorStoneAlternatingPegmatite.label>piso de tijolos alternados (pegmatito)</FloorStoneAlternatingPegmatite.label>
+  
+        <!-- Herringbone -->
+            <FloorStoneHerringboneClaystone.label>piso em espinha de peixe (argilito)</FloorStoneHerringboneClaystone.label>
+            <FloorStoneHerringboneAndesite.label>piso em espinha de peixe (andesito)</FloorStoneHerringboneAndesite.label>
+            <FloorStoneHerringboneSyenite.label>piso em espinha de peixe (sienito)</FloorStoneHerringboneSyenite.label>
+            <FloorStoneHerringboneGneiss.label>piso em espinha de peixe (gnaisse)</FloorStoneHerringboneGneiss.label>
+            <FloorStoneHerringboneQuartzite.label>piso em espinha de peixe (quartzito)</FloorStoneHerringboneQuartzite.label>
+            <FloorStoneHerringboneSchist.label>piso em espinha de peixe (xisto)</FloorStoneHerringboneSchist.label>
+            <FloorStoneHerringboneGabbro.label>piso em espinha de peixe (gabro)</FloorStoneHerringboneGabbro.label>
+            <FloorStoneHerringboneDiorite.label>piso em espinha de peixe (diorito)</FloorStoneHerringboneDiorite.label>
+            <FloorStoneHerringboneDunite.label>piso em espinha de peixe (dunito)</FloorStoneHerringboneDunite.label>
+            <FloorStoneHerringbonePegmatite.label>piso em espinha de peixe (pegmatito)</FloorStoneHerringbonePegmatite.label>
+  
+        <!-- Hexagonal -->
+            <FloorStoneHexClaystone.label>piso hexagonal (argilito)</FloorStoneHexClaystone.label>
+            <FloorStoneHexAndesite.label>piso hexagonal (andesito)</FloorStoneHexAndesite.label>
+            <FloorStoneHexSyenite.label>piso hexagonal (sienito)</FloorStoneHexSyenite.label>
+            <FloorStoneHexGneiss.label>piso hexagonal (gnaisse)</FloorStoneHexGneiss.label>
+            <FloorStoneHexQuartzite.label>piso hexagonal (quartzito)</FloorStoneHexQuartzite.label>
+            <FloorStoneHexSchist.label>piso hexagonal (xisto)</FloorStoneHexSchist.label>
+            <FloorStoneHexGabbro.label>piso hexagonal (gabro)</FloorStoneHexGabbro.label>
+            <FloorStoneHexDiorite.label>piso hexagonal (diorito)</FloorStoneHexDiorite.label>
+            <FloorStoneHexDunite.label>piso hexagonal (dunito)</FloorStoneHexDunite.label>
+            <FloorStoneHexPegmatite.label>piso hexagonal (pegmatito)</FloorStoneHexPegmatite.label>
+    
+        <!-- Digital -->
+            <FloorStoneDigitalClaystone.label>piso em padrão digital (argilito)</FloorStoneDigitalClaystone.label>
+            <FloorStoneDigitalAndesite.label>piso em padrão digital (andesito)</FloorStoneDigitalAndesite.label>
+            <FloorStoneDigitalSyenite.label>piso em padrão digital (sienito)</FloorStoneDigitalSyenite.label>
+            <FloorStoneDigitalGneiss.label>piso em padrão digital (gnaisse)</FloorStoneDigitalGneiss.label>
+            <FloorStoneDigitalQuartzite.label>piso em padrão digital (quartzito)</FloorStoneDigitalQuartzite.label>
+            <FloorStoneDigitalSchist.label>piso em padrão digital (xisto)</FloorStoneDigitalSchist.label>
+            <FloorStoneDigitalGabbro.label>piso em padrão digital (gabro)</FloorStoneDigitalGabbro.label>
+            <FloorStoneDigitalDiorite.label>piso em padrão digital (diorito)</FloorStoneDigitalDiorite.label>
+            <FloorStoneDigitalDunite.label>piso em padrão digital (dunito)</FloorStoneDigitalDunite.label>
+            <FloorStoneDigitalPegmatite.label>piso em padrão digital (pegmatito)</FloorStoneDigitalPegmatite.label>  
+
+        <!-- Mosaic -->
+            <FloorStoneMosaicClaystone.label>piso em mosaico (argilito)</FloorStoneMosaicClaystone.label>
+            <FloorStoneMosaicAndesite.label>piso em mosaico (andesito)</FloorStoneMosaicAndesite.label>
+            <FloorStoneMosaicSyenite.label>piso em mosaico (sienito)</FloorStoneMosaicSyenite.label>
+            <FloorStoneMosaicGneiss.label>piso em mosaico (gnaisse)</FloorStoneMosaicGneiss.label>
+            <FloorStoneMosaicQuartzite.label>piso em mosaico (quartzito)</FloorStoneMosaicQuartzite.label>
+            <FloorStoneMosaicSchist.label>piso em mosaico (xisto)</FloorStoneMosaicSchist.label>
+            <FloorStoneMosaicGabbro.label>piso em mosaico (gabro)</FloorStoneMosaicGabbro.label>
+            <FloorStoneMosaicDiorite.label>piso em mosaico (diorito)</FloorStoneMosaicDiorite.label>
+            <FloorStoneMosaicDunite.label>piso em mosaico (dunito)</FloorStoneMosaicDunite.label>
+            <FloorStoneMosaicPegmatite.label>piso em mosaico (pegmatito)</FloorStoneMosaicPegmatite.label>
+  
+        <!-- Random -->
+            <FloorStoneRandomClaystone.label>piso aleatório (argilito)</FloorStoneRandomClaystone.label>
+            <FloorStoneRandomAndesite.label>piso aleatório (andesito)</FloorStoneRandomAndesite.label>
+            <FloorStoneRandomSyenite.label>piso aleatório (sienito)</FloorStoneRandomSyenite.label>
+            <FloorStoneRandomGneiss.label>piso aleatório (gnaisse)</FloorStoneRandomGneiss.label>
+            <FloorStoneRandomQuartzite.label>piso aleatório (quartzito)</FloorStoneRandomQuartzite.label>
+            <FloorStoneRandomSchist.label>piso aleatório (xisto)</FloorStoneRandomSchist.label>
+            <FloorStoneRandomGabbro.label>piso aleatório (gabro)</FloorStoneRandomGabbro.label>
+            <FloorStoneRandomDiorite.label>piso aleatório (diorito)</FloorStoneRandomDiorite.label>
+            <FloorStoneRandomDunite.label>piso aleatório (dunito)</FloorStoneRandomDunite.label>
+            <FloorStoneRandomPegmatite.label>piso aleatório (pegmatito)</FloorStoneRandomPegmatite.label>
+    
+        <!-- Diamond -->
+            <FloorStoneDiamondClaystone.label>piso losangular (argilito)</FloorStoneDiamondClaystone.label>
+            <FloorStoneDiamondAndesite.label>piso losangular (andesito)</FloorStoneDiamondAndesite.label>
+            <FloorStoneDiamondSyenite.label>piso losangular (sienito)</FloorStoneDiamondSyenite.label>
+            <FloorStoneDiamondGneiss.label>piso losangular (gnaisse)</FloorStoneDiamondGneiss.label>
+            <FloorStoneDiamondQuartzite.label>piso losangular (quartzito)</FloorStoneDiamondQuartzite.label>
+            <FloorStoneDiamondSchist.label>piso losangular (xisto)</FloorStoneDiamondSchist.label>
+            <FloorStoneDiamondGabbro.label>piso losangular (gabro)</FloorStoneDiamondGabbro.label>
+            <FloorStoneDiamondDiorite.label>piso losangular (diorito)</FloorStoneDiamondDiorite.label>
+            <FloorStoneDiamondDunite.label>piso losangular (dunito)</FloorStoneDiamondDunite.label>
+            <FloorStoneDiamondPegmatite.label>piso losangular (pegmatito)</FloorStoneDiamondPegmatite.label>
+    
+        <!-- Arabesque -->
+            <FloorStoneArabesqueClaystone.label>piso arabesco (argilito)</FloorStoneArabesqueClaystone.label>
+            <FloorStoneArabesqueAndesite.label>piso arabesco (andesito)</FloorStoneArabesqueAndesite.label>
+            <FloorStoneArabesqueSyenite.label>piso arabesco (sienito)</FloorStoneArabesqueSyenite.label>
+            <FloorStoneArabesqueGneiss.label>piso arabesco (gnaisse)</FloorStoneArabesqueGneiss.label>
+            <FloorStoneArabesqueQuartzite.label>piso arabesco (quartzito)</FloorStoneArabesqueQuartzite.label>
+            <FloorStoneArabesqueSchist.label>piso arabesco (xisto)</FloorStoneArabesqueSchist.label>
+            <FloorStoneArabesqueGabbro.label>piso arabesco (gabro)</FloorStoneArabesqueGabbro.label>
+            <FloorStoneArabesqueDiorite.label>piso arabesco (diorito)</FloorStoneArabesqueDiorite.label>
+            <FloorStoneArabesqueDunite.label>piso arabesco (dunito)</FloorStoneArabesqueDunite.label>
+            <FloorStoneArabesquePegmatite.label>piso arabesco (pegmatito)</FloorStoneArabesquePegmatite.label>
+
+        <!-- Slabs -->
+            <FloorStoneSlabsKAndesite.label>placas de pedra (andesito)</FloorStoneSlabsKAndesite.label>
+            <FloorStoneSlabsKAnorthosite.label>placas de pedra (anortosito)</FloorStoneSlabsKAnorthosite.label>
+            <FloorStoneSlabsKBasalt.label>placas de pedra (basalto)</FloorStoneSlabsKBasalt.label>
+            <FloorStoneSlabsKBlueschist.label>placas de pedra (xisto azul)</FloorStoneSlabsKBlueschist.label>
+            <FloorStoneSlabsKChalk.label>placas de pedra (greda)</FloorStoneSlabsKChalk.label>
+            <FloorStoneSlabsKCharnockite.label>placas de pedra (charnoquito)</FloorStoneSlabsKCharnockite.label>
+            <FloorStoneSlabsKCreoleMarble.label>placas de pedra (mármore crioulo)</FloorStoneSlabsKCreoleMarble.label>
+            <FloorStoneSlabsKDacite.label>placas de pedra (dacito)</FloorStoneSlabsKDacite.label>
+            <FloorStoneSlabsKDunite.label>placas de pedra (dunito)</FloorStoneSlabsKDunite.label>
+            <FloorStoneSlabsKEmperadordark.label>placas de pedra (emperador dark)</FloorStoneSlabsKEmperadordark.label>
+            <FloorStoneSlabsKEtowahMarble.label>placas de pedra (mármore etowah)</FloorStoneSlabsKEtowahMarble.label>
+            <FloorStoneSlabsKGabbro.label>placas de pedra (gabro)</FloorStoneSlabsKGabbro.label>
+            <FloorStoneSlabsKGreenSchist.label>placas de pedra (xisto verde)</FloorStoneSlabsKGreenSchist.label>
+            <FloorStoneSlabsKJaspillite.label>placas de pedra (jaspilito)</FloorStoneSlabsKJaspillite.label>
+            <FloorStoneSlabsKLepidolite.label>placas de pedra (lepidolita)</FloorStoneSlabsKLepidolite.label>
+            <FloorStoneSlabsKLherzolite.label>placas de pedra (lherzolito)</FloorStoneSlabsKLherzolite.label>
+            <FloorStoneSlabsKLignite.label>placas de pedra (lignito)</FloorStoneSlabsKLignite.label>
+            <FloorStoneSlabsKMigmatite.label>placas de pedra (migmatito)</FloorStoneSlabsKMigmatite.label>
+            <FloorStoneSlabsKMonzonite.label>placas de pedra (monzonito)</FloorStoneSlabsKMonzonite.label>
+            <FloorStoneSlabsKObsidian.label>placas de pedra (obsidiana)</FloorStoneSlabsKObsidian.label>
+            <FloorStoneSlabsKRhyolite.label>placas de pedra (riolito)</FloorStoneSlabsKRhyolite.label>
+            <FloorStoneSlabsKSerpentinite.label>placas de pedra (serpentinita)</FloorStoneSlabsKSerpentinite.label>
+            <FloorStoneSlabsKSiltstone.label>placas de pedra (siltstone)</FloorStoneSlabsKSiltstone.label>
+            <FloorStoneSlabsKSovite.label>placas de pedra (sovite)</FloorStoneSlabsKSovite.label>
+            <FloorStoneSlabsKThometzekite.label>placas de pedra (thometzekite)</FloorStoneSlabsKThometzekite.label>
+
+        <!-- Staggered -->
+            <FloorStoneStaggeredKAndesite.label>placas de pedra escalonadas (andesito)</FloorStoneStaggeredKAndesite.label>
+            <FloorStoneStaggeredKAnorthosite.label>placas de pedra escalonadas (anortosito)</FloorStoneStaggeredKAnorthosite.label>
+            <FloorStoneStaggeredKBasalt.label>placas de pedra escalonadas (basalto)</FloorStoneStaggeredKBasalt.label>
+            <FloorStoneStaggeredKBlueschist.label>placas de pedra escalonadas (xisto azul)</FloorStoneStaggeredKBlueschist.label>
+            <FloorStoneStaggeredKChalk.label>placas de pedra escalonadas (greda)</FloorStoneStaggeredKChalk.label>
+            <FloorStoneStaggeredKCharnockite.label>placas de pedra escalonadas (charnoquito)</FloorStoneStaggeredKCharnockite.label>
+            <FloorStoneStaggeredKCreoleMarble.label>placas de pedra escalonadas (mármore crioulo)</FloorStoneStaggeredKCreoleMarble.label>
+            <FloorStoneStaggeredKDacite.label>placas de pedra escalonadas (dacito)</FloorStoneStaggeredKDacite.label>
+            <FloorStoneStaggeredKDunite.label>placas de pedra escalonadas (dunito)</FloorStoneStaggeredKDunite.label>
+            <FloorStoneStaggeredKEmperadordark.label>placas de pedra escalonadas (emperador dark)</FloorStoneStaggeredKEmperadordark.label>
+            <FloorStoneStaggeredKEtowahMarble.label>placas de pedra escalonadas (mármore etowah)</FloorStoneStaggeredKEtowahMarble.label>
+            <FloorStoneStaggeredKGabbro.label>placas de pedra escalonadas (gabro)</FloorStoneStaggeredKGabbro.label>
+            <FloorStoneStaggeredKGreenSchist.label>placas de pedra escalonadas (xisto verde)</FloorStoneStaggeredKGreenSchist.label>
+            <FloorStoneStaggeredKJaspillite.label>placas de pedra escalonadas (jaspilito)</FloorStoneStaggeredKJaspillite.label>
+            <FloorStoneStaggeredKLepidolite.label>placas de pedra escalonadas (lepidolita)</FloorStoneStaggeredKLepidolite.label>
+            <FloorStoneStaggeredKLherzolite.label>placas de pedra escalonadas (lherzolito)</FloorStoneStaggeredKLherzolite.label>
+            <FloorStoneStaggeredKLignite.label>placas de pedra escalonadas (lignito)</FloorStoneStaggeredKLignite.label>
+            <FloorStoneStaggeredKMigmatite.label>placas de pedra escalonadas (migmatito)</FloorStoneStaggeredKMigmatite.label>
+            <FloorStoneStaggeredKMonzonite.label>placas de pedra escalonadas (monzonito)</FloorStoneStaggeredKMonzonite.label>
+            <FloorStoneStaggeredKObsidian.label>placas de pedra escalonadas (obsidiana)</FloorStoneStaggeredKObsidian.label>
+            <FloorStoneStaggeredKRhyolite.label>placas de pedra escalonadas (riolito)</FloorStoneStaggeredKRhyolite.label>
+            <FloorStoneStaggeredKSerpentinite.label>placas de pedra escalonadas (serpentinita)</FloorStoneStaggeredKSerpentinite.label>
+            <FloorStoneStaggeredKSiltstone.label>placas de pedra escalonadas (siltstone)</FloorStoneStaggeredKSiltstone.label>
+            <FloorStoneStaggeredKSovite.label>placas de pedra escalonadas (sovite)</FloorStoneStaggeredKSovite.label>
+            <FloorStoneStaggeredKThometzekite.label>placas de pedra escalonadas (thometzekite)</FloorStoneStaggeredKThometzekite.label>
+
+        <!-- Rough -->
+            <FloorStoneRoughKAndesite.label>piso áspero (andesito)</FloorStoneRoughKAndesite.label>
+            <FloorStoneRoughKAnorthosite.label>piso áspero (anortosito)</FloorStoneRoughKAnorthosite.label>
+            <FloorStoneRoughKBasalt.label>piso áspero (basalto)</FloorStoneRoughKBasalt.label>
+            <FloorStoneRoughKBlueschist.label>piso áspero (xisto azul)</FloorStoneRoughKBlueschist.label>
+            <FloorStoneRoughKChalk.label>piso áspero (greda)</FloorStoneRoughKChalk.label>
+            <FloorStoneRoughKCharnockite.label>piso áspero (charnoquito)</FloorStoneRoughKCharnockite.label>
+            <FloorStoneRoughKCreoleMarble.label>piso áspero (mármore crioulo)</FloorStoneRoughKCreoleMarble.label>
+            <FloorStoneRoughKDacite.label>piso áspero (dacito)</FloorStoneRoughKDacite.label>
+            <FloorStoneRoughKDunite.label>piso áspero (dunito)</FloorStoneRoughKDunite.label>
+            <FloorStoneRoughKEmperadordark.label>piso áspero (emperador dark)</FloorStoneRoughKEmperadordark.label>
+            <FloorStoneRoughKEtowahMarble.label>piso áspero (mármore etowah)</FloorStoneRoughKEtowahMarble.label>
+            <FloorStoneRoughKGabbro.label>piso áspero (gabro)</FloorStoneRoughKGabbro.label>
+            <FloorStoneRoughKGreenSchist.label>piso áspero (xisto verde)</FloorStoneRoughKGreenSchist.label>
+            <FloorStoneRoughKJaspillite.label>piso áspero (jaspilito)</FloorStoneRoughKJaspillite.label>
+            <FloorStoneRoughKLepidolite.label>piso áspero (lepidolita)</FloorStoneRoughKLepidolite.label>
+            <FloorStoneRoughKLherzolite.label>piso áspero (lherzolito)</FloorStoneRoughKLherzolite.label>
+            <FloorStoneRoughKLignite.label>piso áspero (lignito)</FloorStoneRoughKLignite.label>
+            <FloorStoneRoughKMigmatite.label>piso áspero (migmatito)</FloorStoneRoughKMigmatite.label>
+            <FloorStoneRoughKMonzonite.label>piso áspero (monzonito)</FloorStoneRoughKMonzonite.label>
+            <FloorStoneRoughKObsidian.label>piso áspero (obsidiana)</FloorStoneRoughKObsidian.label>
+            <FloorStoneRoughKRhyolite.label>piso áspero (riolito)</FloorStoneRoughKRhyolite.label>
+            <FloorStoneRoughKSerpentinite.label>piso áspero (serpentinita)</FloorStoneRoughKSerpentinite.label>
+            <FloorStoneRoughKSiltstone.label>piso áspero (siltstone)</FloorStoneRoughKSiltstone.label>
+            <FloorStoneRoughKSovite.label>piso áspero (sovite)</FloorStoneRoughKSovite.label>
+            <FloorStoneRoughKThometzekite.label>piso áspero (thometzekite)</FloorStoneRoughKThometzekite.label>
+  
+        <!-- Alternating -->
+            <FloorStoneAlternatingKAndesite.label>piso de tijolos alternados (andesito)</FloorStoneAlternatingKAndesite.label>
+            <FloorStoneAlternatingKAnorthosite.label>piso de tijolos alternados (anortosito)</FloorStoneAlternatingKAnorthosite.label>
+            <FloorStoneAlternatingKBasalt.label>piso de tijolos alternados (basalto)</FloorStoneAlternatingKBasalt.label>
+            <FloorStoneAlternatingKBlueschist.label>piso de tijolos alternados (xisto azul)</FloorStoneAlternatingKBlueschist.label>
+            <FloorStoneAlternatingKChalk.label>piso de tijolos alternados (greda)</FloorStoneAlternatingKChalk.label>
+            <FloorStoneAlternatingKCharnockite.label>piso de tijolos alternados (charnoquito)</FloorStoneAlternatingKCharnockite.label>
+            <FloorStoneAlternatingKCreoleMarble.label>piso de tijolos alternados (mármore crioulo)</FloorStoneAlternatingKCreoleMarble.label>
+            <FloorStoneAlternatingKDacite.label>piso de tijolos alternados (dacito)</FloorStoneAlternatingKDacite.label>
+            <FloorStoneAlternatingKDunite.label>piso de tijolos alternados (dunito)</FloorStoneAlternatingKDunite.label>
+            <FloorStoneAlternatingKEmperadordark.label>piso de tijolos alternados (emperador dark)</FloorStoneAlternatingKEmperadordark.label>
+            <FloorStoneAlternatingKEtowahMarble.label>piso de tijolos alternados (mármore etowah)</FloorStoneAlternatingKEtowahMarble.label>
+            <FloorStoneAlternatingKGabbro.label>piso de tijolos alternados (gabro)</FloorStoneAlternatingKGabbro.label>
+            <FloorStoneAlternatingKGreenSchist.label>piso de tijolos alternados (xisto verde)</FloorStoneAlternatingKGreenSchist.label>
+            <FloorStoneAlternatingKJaspillite.label>piso de tijolos alternados (jaspilito)</FloorStoneAlternatingKJaspillite.label>
+            <FloorStoneAlternatingKLepidolite.label>piso de tijolos alternados (lepidolita)</FloorStoneAlternatingKLepidolite.label>
+            <FloorStoneAlternatingKLherzolite.label>piso de tijolos alternados (lherzolito)</FloorStoneAlternatingKLherzolite.label>
+            <FloorStoneAlternatingKLignite.label>piso de tijolos alternados (lignito)</FloorStoneAlternatingKLignite.label>
+            <FloorStoneAlternatingKMigmatite.label>piso de tijolos alternados (migmatito)</FloorStoneAlternatingKMigmatite.label>
+            <FloorStoneAlternatingKMonzonite.label>piso de tijolos alternados (monzonito)</FloorStoneAlternatingKMonzonite.label>
+            <FloorStoneAlternatingKObsidian.label>piso de tijolos alternados (obsidiana)</FloorStoneAlternatingKObsidian.label>
+            <FloorStoneAlternatingKRhyolite.label>piso de tijolos alternados (riolito)</FloorStoneAlternatingKRhyolite.label>
+            <FloorStoneAlternatingKSerpentinite.label>piso de tijolos alternados (serpentinita)</FloorStoneAlternatingKSerpentinite.label>
+            <FloorStoneAlternatingKSiltstone.label>piso de tijolos alternados (siltstone)</FloorStoneAlternatingKSiltstone.label>
+            <FloorStoneAlternatingKSovite.label>piso de tijolos alternados (sovite)</FloorStoneAlternatingKSovite.label>
+            <FloorStoneAlternatingKThometzekite.label>piso de tijolos alternados (thometzekite)</FloorStoneAlternatingKThometzekite.label>
+
+        <!-- Herringbone -->    
+            <FloorStoneHerringboneKAndesite.label>piso em espinha de peixe (andesito)</FloorStoneHerringboneKAndesite.label>
+            <FloorStoneHerringboneKAnorthosite.label>piso em espinha de peixe (anortosito)</FloorStoneHerringboneKAnorthosite.label>
+            <FloorStoneHerringboneKBasalt.label>piso em espinha de peixe (basalto)</FloorStoneHerringboneKBasalt.label>
+            <FloorStoneHerringboneKBlueschist.label>piso em espinha de peixe (xisto azul)</FloorStoneHerringboneKBlueschist.label>
+            <FloorStoneHerringboneKChalk.label>piso em espinha de peixe (greda)</FloorStoneHerringboneKChalk.label>
+            <FloorStoneHerringboneKCharnockite.label>piso em espinha de peixe (charnoquito)</FloorStoneHerringboneKCharnockite.label>
+            <FloorStoneHerringboneKCreoleMarble.label>piso em espinha de peixe (mármore crioulo)</FloorStoneHerringboneKCreoleMarble.label>
+            <FloorStoneHerringboneKDacite.label>piso em espinha de peixe (dacito)</FloorStoneHerringboneKDacite.label>
+            <FloorStoneHerringboneKDunite.label>piso em espinha de peixe (dunito)</FloorStoneHerringboneKDunite.label>
+            <FloorStoneHerringboneKEmperadordark.label>piso em espinha de peixe (emperador dark)</FloorStoneHerringboneKEmperadordark.label>
+            <FloorStoneHerringboneKEtowahMarble.label>piso em espinha de peixe (mármore etowah)</FloorStoneHerringboneKEtowahMarble.label>
+            <FloorStoneHerringboneKGabbro.label>piso em espinha de peixe (gabro)</FloorStoneHerringboneKGabbro.label>
+            <FloorStoneHerringboneKGreenSchist.label>piso em espinha de peixe (xisto verde)</FloorStoneHerringboneKGreenSchist.label>
+            <FloorStoneHerringboneKJaspillite.label>piso em espinha de peixe (jaspilito)</FloorStoneHerringboneKJaspillite.label>
+            <FloorStoneHerringboneKLepidolite.label>piso em espinha de peixe (lepidolita)</FloorStoneHerringboneKLepidolite.label>
+            <FloorStoneHerringboneKLherzolite.label>piso em espinha de peixe (lherzolito)</FloorStoneHerringboneKLherzolite.label>
+            <FloorStoneHerringboneKLignite.label>piso em espinha de peixe (lignito)</FloorStoneHerringboneKLignite.label>
+            <FloorStoneHerringboneKMigmatite.label>piso em espinha de peixe (migmatito)</FloorStoneHerringboneKMigmatite.label>
+            <FloorStoneHerringboneKMonzonite.label>piso em espinha de peixe (monzonito)</FloorStoneHerringboneKMonzonite.label>
+            <FloorStoneHerringboneKObsidian.label>piso em espinha de peixe (obsidiana)</FloorStoneHerringboneKObsidian.label>
+            <FloorStoneHerringboneKRhyolite.label>piso em espinha de peixe (riolito)</FloorStoneHerringboneKRhyolite.label>
+            <FloorStoneHerringboneKSerpentinite.label>piso em espinha de peixe (serpentinita)</FloorStoneHerringboneKSerpentinite.label>
+            <FloorStoneHerringboneKSiltstone.label>piso em espinha de peixe (siltstone)</FloorStoneHerringboneKSiltstone.label>
+            <FloorStoneHerringboneKSovite.label>piso em espinha de peixe (sovite)</FloorStoneHerringboneKSovite.label>
+            <FloorStoneHerringboneKThometzekite.label>piso em espinha de peixe (thometzekite)</FloorStoneHerringboneKThometzekite.label>
+  
+        <!-- Hexagonal -->
+            <FloorStoneHexKAndesite.label>piso hexagonal (andesito)</FloorStoneHexKAndesite.label>
+            <FloorStoneHexKAnorthosite.label>piso hexagonal (anortosito)</FloorStoneHexKAnorthosite.label>
+            <FloorStoneHexKBasalt.label>piso hexagonal (basalto)</FloorStoneHexKBasalt.label>
+            <FloorStoneHexKBlueschist.label>piso hexagonal (xisto azul)</FloorStoneHexKBlueschist.label>
+            <FloorStoneHexKChalk.label>piso hexagonal (greda)</FloorStoneHexKChalk.label>
+            <FloorStoneHexKCharnockite.label>piso hexagonal (charnoquito)</FloorStoneHexKCharnockite.label>
+            <FloorStoneHexKCreoleMarble.label>piso hexagonal (mármore crioulo)</FloorStoneHexKCreoleMarble.label>
+            <FloorStoneHexKDacite.label>piso hexagonal (dacito)</FloorStoneHexKDacite.label>
+            <FloorStoneHexKDunite.label>piso hexagonal (dunito)</FloorStoneHexKDunite.label>
+            <FloorStoneHexKEmperadordark.label>piso hexagonal (emperador dark)</FloorStoneHexKEmperadordark.label>
+            <FloorStoneHexKEtowahMarble.label>piso hexagonal (mármore etowah)</FloorStoneHexKEtowahMarble.label>
+            <FloorStoneHexKGabbro.label>piso hexagonal (gabro)</FloorStoneHexKGabbro.label>
+            <FloorStoneHexKGreenSchist.label>piso hexagonal (xisto verde)</FloorStoneHexKGreenSchist.label>
+            <FloorStoneHexKJaspillite.label>piso hexagonal (jaspilito)</FloorStoneHexKJaspillite.label>
+            <FloorStoneHexKLepidolite.label>piso hexagonal (lepidolita)</FloorStoneHexKLepidolite.label>
+            <FloorStoneHexKLherzolite.label>piso hexagonal (lherzolito)</FloorStoneHexKLherzolite.label>
+            <FloorStoneHexKLignite.label>piso hexagonal (lignito)</FloorStoneHexKLignite.label>
+            <FloorStoneHexKMigmatite.label>piso hexagonal (migmatito)</FloorStoneHexKMigmatite.label>
+            <FloorStoneHexKMonzonite.label>piso hexagonal (monzonito)</FloorStoneHexKMonzonite.label>
+            <FloorStoneHexKObsidian.label>piso hexagonal (obsidiana)</FloorStoneHexKObsidian.label>
+            <FloorStoneHexKRhyolite.label>piso hexagonal (riolito)</FloorStoneHexKRhyolite.label>
+            <FloorStoneHexKSerpentinite.label>piso hexagonal (serpentinita)</FloorStoneHexKSerpentinite.label>
+            <FloorStoneHexKSiltstone.label>piso hexagonal (siltstone)</FloorStoneHexKSiltstone.label>
+            <FloorStoneHexKSovite.label>piso hexagonal (sovite)</FloorStoneHexKSovite.label>
+            <FloorStoneHexKThometzekite.label>piso hexagonal (thometzekite)</FloorStoneHexKThometzekite.label>
+  
+        <!-- Digital -->
+            <FloorStoneDigitalKAndesite.label>piso em padrão digital (andesito)</FloorStoneDigitalKAndesite.label>
+            <FloorStoneDigitalKAnorthosite.label>piso em padrão digital (anortosito)</FloorStoneDigitalKAnorthosite.label>
+            <FloorStoneDigitalKBasalt.label>piso em padrão digital (basalto)</FloorStoneDigitalKBasalt.label>
+            <FloorStoneDigitalKBlueschist.label>piso em padrão digital (xisto azul)</FloorStoneDigitalKBlueschist.label>
+            <FloorStoneDigitalKChalk.label>piso em padrão digital (greda)</FloorStoneDigitalKChalk.label>
+            <FloorStoneDigitalKCharnockite.label>piso em padrão digital (charnoquito)</FloorStoneDigitalKCharnockite.label>
+            <FloorStoneDigitalKCreoleMarble.label>piso em padrão digital (mármore crioulo)</FloorStoneDigitalKCreoleMarble.label>
+            <FloorStoneDigitalKDacite.label>piso em padrão digital (dacito)</FloorStoneDigitalKDacite.label>
+            <FloorStoneDigitalKDunite.label>piso em padrão digital (dunito)</FloorStoneDigitalKDunite.label>
+            <FloorStoneDigitalKEmperadordark.label>piso em padrão digital (emperador dark)</FloorStoneDigitalKEmperadordark.label>
+            <FloorStoneDigitalKEtowahMarble.label>piso em padrão digital (mármore etowah)</FloorStoneDigitalKEtowahMarble.label>
+            <FloorStoneDigitalKGabbro.label>piso em padrão digital (gabro)</FloorStoneDigitalKGabbro.label>
+            <FloorStoneDigitalKGreenSchist.label>piso em padrão digital (xisto verde)</FloorStoneDigitalKGreenSchist.label>
+            <FloorStoneDigitalKJaspillite.label>piso em padrão digital (jaspilito)</FloorStoneDigitalKJaspillite.label>
+            <FloorStoneDigitalKLepidolite.label>piso em padrão digital (lepidolita)</FloorStoneDigitalKLepidolite.label>
+            <FloorStoneDigitalKLherzolite.label>piso em padrão digital (lherzolito)</FloorStoneDigitalKLherzolite.label>
+            <FloorStoneDigitalKLignite.label>piso em padrão digital (lignito)</FloorStoneDigitalKLignite.label>
+            <FloorStoneDigitalKMigmatite.label>piso em padrão digital (migmatito)</FloorStoneDigitalKMigmatite.label>
+            <FloorStoneDigitalKMonzonite.label>piso em padrão digital (monzonito)</FloorStoneDigitalKMonzonite.label>
+            <FloorStoneDigitalKObsidian.label>piso em padrão digital (obsidiana)</FloorStoneDigitalKObsidian.label>
+            <FloorStoneDigitalKRhyolite.label>piso em padrão digital (riolito)</FloorStoneDigitalKRhyolite.label>
+            <FloorStoneDigitalKSerpentinite.label>piso em padrão digital (serpentinita)</FloorStoneDigitalKSerpentinite.label>
+            <FloorStoneDigitalKSiltstone.label>piso em padrão digital (siltstone)</FloorStoneDigitalKSiltstone.label>
+            <FloorStoneDigitalKSovite.label>piso em padrão digital (sovite)</FloorStoneDigitalKSovite.label>
+            <FloorStoneDigitalKThometzekite.label>piso em padrão digital (thometzekite)</FloorStoneDigitalKThometzekite.label>
+    
+        <!-- Mosaic -->
+            <FloorStoneMosaicKAndesite.label>piso em mosaico (andesito)</FloorStoneMosaicKAndesite.label>
+            <FloorStoneMosaicKAnorthosite.label>piso em mosaico (anortosito)</FloorStoneMosaicKAnorthosite.label>
+            <FloorStoneMosaicKBasalt.label>piso em mosaico (basalto)</FloorStoneMosaicKBasalt.label>
+            <FloorStoneMosaicKBlueschist.label>piso em mosaico (xisto azul)</FloorStoneMosaicKBlueschist.label>
+            <FloorStoneMosaicKChalk.label>piso em mosaico (greda)</FloorStoneMosaicKChalk.label>
+            <FloorStoneMosaicKCharnockite.label>piso em mosaico (charnoquito)</FloorStoneMosaicKCharnockite.label>
+            <FloorStoneMosaicKCreoleMarble.label>piso em mosaico (mármore crioulo)</FloorStoneMosaicKCreoleMarble.label>
+            <FloorStoneMosaicKDacite.label>piso em mosaico (dacito)</FloorStoneMosaicKDacite.label>
+            <FloorStoneMosaicKDunite.label>piso em mosaico (dunito)</FloorStoneMosaicKDunite.label>
+            <FloorStoneMosaicKEmperadordark.label>piso em mosaico (emperador dark)</FloorStoneMosaicKEmperadordark.label>
+            <FloorStoneMosaicKEtowahMarble.label>piso em mosaico (mármore etowah)</FloorStoneMosaicKEtowahMarble.label>
+            <FloorStoneMosaicKGabbro.label>piso em mosaico (gabro)</FloorStoneMosaicKGabbro.label>
+            <FloorStoneMosaicKGreenSchist.label>piso em mosaico (xisto verde)</FloorStoneMosaicKGreenSchist.label>
+            <FloorStoneMosaicKJaspillite.label>piso em mosaico (jaspilito)</FloorStoneMosaicKJaspillite.label>
+            <FloorStoneMosaicKLepidolite.label>piso em mosaico (lepidolita)</FloorStoneMosaicKLepidolite.label>
+            <FloorStoneMosaicKLherzolite.label>piso em mosaico (lherzolito)</FloorStoneMosaicKLherzolite.label>
+            <FloorStoneMosaicKLignite.label>piso em mosaico (lignito)</FloorStoneMosaicKLignite.label>
+            <FloorStoneMosaicKMigmatite.label>piso em mosaico (migmatito)</FloorStoneMosaicKMigmatite.label>
+            <FloorStoneMosaicKMonzonite.label>piso em mosaico (monzonito)</FloorStoneMosaicKMonzonite.label>
+            <FloorStoneMosaicKObsidian.label>piso em mosaico (obsidiana)</FloorStoneMosaicKObsidian.label>
+            <FloorStoneMosaicKRhyolite.label>piso em mosaico (riolito)</FloorStoneMosaicKRhyolite.label>
+            <FloorStoneMosaicKSerpentinite.label>piso em mosaico (serpentinita)</FloorStoneMosaicKSerpentinite.label>
+            <FloorStoneMosaicKSiltstone.label>piso em mosaico (siltstone)</FloorStoneMosaicKSiltstone.label>
+            <FloorStoneMosaicKSovite.label>piso em mosaico (sovite)</FloorStoneMosaicKSovite.label>
+            <FloorStoneMosaicKThometzekite.label>piso em mosaico (thometzekite)</FloorStoneMosaicKThometzekite.label>
+ 
+        <!-- Random -->
+            <FloorStoneRandomKAndesite.label>piso aleatório (andesito)</FloorStoneRandomKAndesite.label>
+            <FloorStoneRandomKAnorthosite.label>piso aleatório (anortosito)</FloorStoneRandomKAnorthosite.label>
+            <FloorStoneRandomKBasalt.label>piso aleatório (basalto)</FloorStoneRandomKBasalt.label>
+            <FloorStoneRandomKBlueschist.label>piso aleatório (xisto azul)</FloorStoneRandomKBlueschist.label>
+            <FloorStoneRandomKChalk.label>piso aleatório (greda)</FloorStoneRandomKChalk.label>
+            <FloorStoneRandomKCharnockite.label>piso aleatório (charnoquito)</FloorStoneRandomKCharnockite.label>
+            <FloorStoneRandomKCreoleMarble.label>piso aleatório (mármore crioulo)</FloorStoneRandomKCreoleMarble.label>
+            <FloorStoneRandomKDacite.label>piso aleatório (dacito)</FloorStoneRandomKDacite.label>
+            <FloorStoneRandomKDunite.label>piso aleatório (dunito)</FloorStoneRandomKDunite.label>
+            <FloorStoneRandomKEmperadordark.label>piso aleatório (emperador dark)</FloorStoneRandomKEmperadordark.label>
+            <FloorStoneRandomKEtowahMarble.label>piso aleatório (mármore etowah)</FloorStoneRandomKEtowahMarble.label>
+            <FloorStoneRandomKGabbro.label>piso aleatório (gabro)</FloorStoneRandomKGabbro.label>
+            <FloorStoneRandomKGreenSchist.label>piso aleatório (xisto verde)</FloorStoneRandomKGreenSchist.label>
+            <FloorStoneRandomKJaspillite.label>piso aleatório (jaspilito)</FloorStoneRandomKJaspillite.label>
+            <FloorStoneRandomKLepidolite.label>piso aleatório (lepidolita)</FloorStoneRandomKLepidolite.label>
+            <FloorStoneRandomKLherzolite.label>piso aleatório (lherzolito)</FloorStoneRandomKLherzolite.label>
+            <FloorStoneRandomKLignite.label>piso aleatório (lignito)</FloorStoneRandomKLignite.label>
+            <FloorStoneRandomKMigmatite.label>piso aleatório (migmatito)</FloorStoneRandomKMigmatite.label>
+            <FloorStoneRandomKMonzonite.label>piso aleatório (monzonito)</FloorStoneRandomKMonzonite.label>
+            <FloorStoneRandomKObsidian.label>piso aleatório (obsidiana)</FloorStoneRandomKObsidian.label>
+            <FloorStoneRandomKRhyolite.label>piso aleatório (riolito)</FloorStoneRandomKRhyolite.label>
+            <FloorStoneRandomKSerpentinite.label>piso aleatório (serpentinita)</FloorStoneRandomKSerpentinite.label>
+            <FloorStoneRandomKSiltstone.label>piso aleatório (siltstone)</FloorStoneRandomKSiltstone.label>
+            <FloorStoneRandomKSovite.label>piso aleatório (sovite)</FloorStoneRandomKSovite.label>
+            <FloorStoneRandomKThometzekite.label>piso aleatório (thometzekite)</FloorStoneRandomKThometzekite.label>
+  
+        <!-- Diamond -->
+            <FloorStoneDiamondKAndesite.label>piso losangular (andesito)</FloorStoneDiamondKAndesite.label>
+            <FloorStoneDiamondKAnorthosite.label>piso losangular (anortosito)</FloorStoneDiamondKAnorthosite.label>
+            <FloorStoneDiamondKBasalt.label>piso losangular (basalto)</FloorStoneDiamondKBasalt.label>
+            <FloorStoneDiamondKBlueschist.label>piso losangular (xisto azul)</FloorStoneDiamondKBlueschist.label>
+            <FloorStoneDiamondKChalk.label>piso losangular (greda)</FloorStoneDiamondKChalk.label>
+            <FloorStoneDiamondKCharnockite.label>piso losangular (charnoquito)</FloorStoneDiamondKCharnockite.label>
+            <FloorStoneDiamondKCreoleMarble.label>piso losangular (mármore crioulo)</FloorStoneDiamondKCreoleMarble.label>
+            <FloorStoneDiamondKDacite.label>piso losangular (dacito)</FloorStoneDiamondKDacite.label>
+            <FloorStoneDiamondKDunite.label>piso losangular (dunito)</FloorStoneDiamondKDunite.label>
+            <FloorStoneDiamondKEmperadordark.label>piso losangular (emperador dark)</FloorStoneDiamondKEmperadordark.label>
+            <FloorStoneDiamondKEtowahMarble.label>piso losangular (mármore etowah)</FloorStoneDiamondKEtowahMarble.label>
+            <FloorStoneDiamondKGabbro.label>piso losangular (gabro)</FloorStoneDiamondKGabbro.label>
+            <FloorStoneDiamondKGreenSchist.label>piso losangular (xisto verde)</FloorStoneDiamondKGreenSchist.label>
+            <FloorStoneDiamondKJaspillite.label>piso losangular (jaspilito)</FloorStoneDiamondKJaspillite.label>
+            <FloorStoneDiamondKLepidolite.label>piso losangular (lepidolita)</FloorStoneDiamondKLepidolite.label>
+            <FloorStoneDiamondKLherzolite.label>piso losangular (lherzolito)</FloorStoneDiamondKLherzolite.label>
+            <FloorStoneDiamondKLignite.label>piso losangular (lignito)</FloorStoneDiamondKLignite.label>
+            <FloorStoneDiamondKMigmatite.label>piso losangular (migmatito)</FloorStoneDiamondKMigmatite.label>
+            <FloorStoneDiamondKMonzonite.label>piso losangular (monzonito)</FloorStoneDiamondKMonzonite.label>
+            <FloorStoneDiamondKObsidian.label>piso losangular (obsidiana)</FloorStoneDiamondKObsidian.label>
+            <FloorStoneDiamondKRhyolite.label>piso losangular (riolito)</FloorStoneDiamondKRhyolite.label>
+            <FloorStoneDiamondKSerpentinite.label>piso losangular (serpentinita)</FloorStoneDiamondKSerpentinite.label>
+            <FloorStoneDiamondKSiltstone.label>piso losangular (siltstone)</FloorStoneDiamondKSiltstone.label>
+            <FloorStoneDiamondKSovite.label>piso losangular (sovite)</FloorStoneDiamondKSovite.label>
+            <FloorStoneDiamondKThometzekite.label>piso losangular (thometzekite)</FloorStoneDiamondKThometzekite.label>
+ 
+        <!-- Arabesque -->
+            <FloorStoneArabesqueKAndesite.label>piso arabesco (andesito)</FloorStoneArabesqueKAndesite.label>
+            <FloorStoneArabesqueKAnorthosite.label>piso arabesco (anortosito)</FloorStoneArabesqueKAnorthosite.label>
+            <FloorStoneArabesqueKBasalt.label>piso arabesco (basalto)</FloorStoneArabesqueKBasalt.label>
+            <FloorStoneArabesqueKBlueschist.label>piso arabesco (xisto azul)</FloorStoneArabesqueKBlueschist.label>
+            <FloorStoneArabesqueKChalk.label>piso arabesco (greda)</FloorStoneArabesqueKChalk.label>
+            <FloorStoneArabesqueKCharnockite.label>piso arabesco (charnoquito)</FloorStoneArabesqueKCharnockite.label>
+            <FloorStoneArabesqueKCreoleMarble.label>piso arabesco (mármore crioulo)</FloorStoneArabesqueKCreoleMarble.label>
+            <FloorStoneArabesqueKDacite.label>piso arabesco (dacito)</FloorStoneArabesqueKDacite.label>
+            <FloorStoneArabesqueKDunite.label>piso arabesco (dunito)</FloorStoneArabesqueKDunite.label>
+            <FloorStoneArabesqueKEmperadordark.label>piso arabesco (emperador dark)</FloorStoneArabesqueKEmperadordark.label>
+            <FloorStoneArabesqueKEtowahMarble.label>piso arabesco (mármore etowah)</FloorStoneArabesqueKEtowahMarble.label>
+            <FloorStoneArabesqueKGabbro.label>piso arabesco (gabro)</FloorStoneArabesqueKGabbro.label>
+            <FloorStoneArabesqueKGreenSchist.label>piso arabesco (xisto verde)</FloorStoneArabesqueKGreenSchist.label>
+            <FloorStoneArabesqueKJaspillite.label>piso arabesco (jaspilito)</FloorStoneArabesqueKJaspillite.label>
+            <FloorStoneArabesqueKLepidolite.label>piso arabesco (lepidolita)</FloorStoneArabesqueKLepidolite.label>
+            <FloorStoneArabesqueKLherzolite.label>piso arabesco (lherzolito)</FloorStoneArabesqueKLherzolite.label>
+            <FloorStoneArabesqueKLignite.label>piso arabesco (lignito)</FloorStoneArabesqueKLignite.label>
+            <FloorStoneArabesqueKMigmatite.label>piso arabesco (migmatito)</FloorStoneArabesqueKMigmatite.label>
+            <FloorStoneArabesqueKMonzonite.label>piso arabesco (monzonito)</FloorStoneArabesqueKMonzonite.label>
+            <FloorStoneArabesqueKObsidian.label>piso arabesco (obsidiana)</FloorStoneArabesqueKObsidian.label>
+            <FloorStoneArabesqueKRhyolite.label>piso arabesco (riolito)</FloorStoneArabesqueKRhyolite.label>
+            <FloorStoneArabesqueKSerpentinite.label>piso arabesco (serpentinita)</FloorStoneArabesqueKSerpentinite.label>
+            <FloorStoneArabesqueKSiltstone.label>piso arabesco (siltstone)</FloorStoneArabesqueKSiltstone.label>
+            <FloorStoneArabesqueKSovite.label>piso arabesco (sovite)</FloorStoneArabesqueKSovite.label>
+            <FloorStoneArabesqueKThometzekite.label>piso arabesco (thometzekite)</FloorStoneArabesqueKThometzekite.label>
+
+        <!-- Slabs -->
+            <FloorStoneSlabsKDarkAndesite.label>placas de pedra (andesito escuro)</FloorStoneSlabsKDarkAndesite.label>
+            <FloorStoneSlabsKVibrantDunite.label>placas de pedra (dunito vibrante)</FloorStoneSlabsKVibrantDunite.label>
+            <FloorStoneSlabsKGreenGabbro.label>placas de pedra (gabro verde)</FloorStoneSlabsKGreenGabbro.label> 
+    
+        <!-- Staggered -->
+            <FloorStoneStaggeredKDarkAndesite.label>placas de pedra escalonadas (andesito escuro)</FloorStoneStaggeredKDarkAndesite.label>
+            <FloorStoneStaggeredKVibrantDunite.label>placas de pedra escalonadas (dunito vibrante)</FloorStoneStaggeredKVibrantDunite.label>
+            <FloorStoneStaggeredKGreenGabbro.label>placas de pedra escalonadas (gabro verde)</FloorStoneStaggeredKGreenGabbro.label>  
+  
+        <!-- Rough -->
+            <FloorStoneRoughKDarkAndesite.label>piso áspero (andesito escuro)</FloorStoneRoughKDarkAndesite.label>
+            <FloorStoneRoughKVibrantDunite.label>piso áspero (dunito vibrante)</FloorStoneRoughKVibrantDunite.label>
+            <FloorStoneRoughKGreenGabbro.label>piso áspero (gabro verde)</FloorStoneRoughKGreenGabbro.label> 
+  
+        <!-- Alternating -->
+            <FloorStoneAlternatingKDarkAndesite.label>piso de tijolos alternados (andesito escuro)</FloorStoneAlternatingKDarkAndesite.label>
+            <FloorStoneAlternatingKVibrantDunite.label>piso de tijolos alternados (dunito vibrante)</FloorStoneAlternatingKVibrantDunite.label>
+            <FloorStoneAlternatingKGreenGabbro.label>piso de tijolos alternados (gabro verde)</FloorStoneAlternatingKGreenGabbro.label>
+    
+        <!-- Herringbone -->
+            <FloorStoneHerringboneKDarkAndesite.label>piso em espinha de peixe (andesito escuro)</FloorStoneHerringboneKDarkAndesite.label>
+            <FloorStoneHerringboneKVibrantDunite.label>piso em espinha de peixe (dunito vibrante)</FloorStoneHerringboneKVibrantDunite.label>
+            <FloorStoneHerringboneKGreenGabbro.label>piso em espinha de peixe (gabro verde)</FloorStoneHerringboneKGreenGabbro.label> 
+  
+        <!-- Hexagonal -->
+            <FloorStoneHexKDarkAndesite.label>piso hexagonal (andesito escuro)</FloorStoneHexKDarkAndesite.label>
+            <FloorStoneHexKVibrantDunite.label>piso hexagonal (dunito vibrante)</FloorStoneHexKVibrantDunite.label>
+            <FloorStoneHexKGreenGabbro.label>piso hexagonal (gabro verde)</FloorStoneHexKGreenGabbro.label>
+    
+        <!-- Digital -->
+            <FloorStoneDigitalKDarkAndesite.label>piso em padrão digital (andesito escuro)</FloorStoneDigitalKDarkAndesite.label>
+            <FloorStoneDigitalKVibrantDunite.label>piso em padrão digital (dunito vibrante)</FloorStoneDigitalKVibrantDunite.label>
+            <FloorStoneDigitalKGreenGabbro.label>piso em padrão digital (gabro verde)</FloorStoneDigitalKGreenGabbro.label>
+  
+        <!-- Mosaic -->
+            <FloorStoneMosaicKDarkAndesite.label>piso em mosaico (andesito escuro)</FloorStoneMosaicKDarkAndesite.label>
+            <FloorStoneMosaicKVibrantDunite.label>piso em mosaico (dunito vibrante)</FloorStoneMosaicKVibrantDunite.label>
+            <FloorStoneMosaicKGreenGabbro.label>piso em mosaico (gabro verde)</FloorStoneMosaicKGreenGabbro.label>
+   
+        <!-- Random -->
+            <FloorStoneRandomKDarkAndesite.label>piso aleatório (andesito escuro)</FloorStoneRandomKDarkAndesite.label>
+            <FloorStoneRandomKVibrantDunite.label>piso aleatório (dunito vibrante)</FloorStoneRandomKVibrantDunite.label>
+            <FloorStoneRandomKGreenGabbro.label>piso aleatório (gabro verde)</FloorStoneRandomKGreenGabbro.label>
+   
+        <!-- Diamond -->
+            <FloorStoneDiamondKDarkAndesite.label>piso losangular (andesito escuro)</FloorStoneDiamondKDarkAndesite.label>
+            <FloorStoneDiamondKVibrantDunite.label>piso losangular (dunito vibrante)</FloorStoneDiamondKVibrantDunite.label>
+            <FloorStoneDiamondKGreenGabbro.label>piso losangular (gabro verde)</FloorStoneDiamondKGreenGabbro.label>  
+  
+        <!-- Arabesque -->
+            <FloorStoneArabesqueKDarkAndesite.label>piso arabesco (andesito escuro)</FloorStoneArabesqueKDarkAndesite.label>
+            <FloorStoneArabesqueKVibrantDunite.label>piso arabesco (dunito vibrante)</FloorStoneArabesqueKVibrantDunite.label>
+            <FloorStoneArabesqueKGreenGabbro.label>piso arabesco (gabro verde)</FloorStoneArabesqueKGreenGabbro.label>
+
+        <!-- Square Slab Flooring -->
+                <FloorStoneSlabsSandstone.label>placas de pedra (arenito)</FloorStoneSlabsSandstone.label>
+                <FloorStoneSlabsGranite.label>placas de pedra (granito)</FloorStoneSlabsGranite.label>
+                <FloorStoneSlabsLimestone.label>placas de pedra (calcário)</FloorStoneSlabsLimestone.label>
+                <FloorStoneSlabsSlate.label>placas de pedra (ardósia)</FloorStoneSlabsSlate.label>
+                <FloorStoneSlabsMarble.label>placas de pedra (mármore)</FloorStoneSlabsMarble.label>
+
+        <!-- Staggered Tile Flooring -->
+            <FloorStoneStaggeredSandstone.label>placas de pedra escalonadas (arenito)</FloorStoneStaggeredSandstone.label>
+            <FloorStoneStaggeredGranite.label>placas de pedra escalonadas (granito)</FloorStoneStaggeredGranite.label>
+            <FloorStoneStaggeredLimestone.label>placas de pedra escalonadas (calcário)</FloorStoneStaggeredLimestone.label>
+            <FloorStoneStaggeredSlate.label>placas de pedra escalonadas (ardósia)</FloorStoneStaggeredSlate.label>
+            <FloorStoneStaggeredMarble.label>placas de pedra escalonadas (mármore)</FloorStoneStaggeredMarble.label>
+
+        <!-- Rough Stone Flooring -->
+            <FloorStoneRoughSandstone.label>piso áspero (arenito)</FloorStoneRoughSandstone.label>
+            <FloorStoneRoughGranite.label>piso áspero (granito)</FloorStoneRoughGranite.label>
+            <FloorStoneRoughLimestone.label>piso áspero (calcário)</FloorStoneRoughLimestone.label>
+            <FloorStoneRoughSlate.label>piso áspero (ardósia)</FloorStoneRoughSlate.label>
+            <FloorStoneRoughMarble.label>piso áspero (mármore)</FloorStoneRoughMarble.label>
+
+        <!-- Alternating Stone Flooring -->
+            <FloorStoneAlternatingSandstone.label>piso de tijolos alternados (arenito)</FloorStoneAlternatingSandstone.label>
+            <FloorStoneAlternatingGranite.label>piso de tijolos alternados (granito)</FloorStoneAlternatingGranite.label>
+            <FloorStoneAlternatingLimestone.label>piso de tijolos alternados (calcário)</FloorStoneAlternatingLimestone.label>
+            <FloorStoneAlternatingSlate.label>piso de tijolos alternados (ardósia)</FloorStoneAlternatingSlate.label>
+            <FloorStoneAlternatingMarble.label>piso de tijolos alternados (mármore)</FloorStoneAlternatingMarble.label>
+
+        <!-- Herringbone Stone Flooring -->
+            <FloorStoneHerringboneSandstone.label>piso em espinha de peixe (arenito)</FloorStoneHerringboneSandstone.label>
+            <FloorStoneHerringboneGranite.label>piso em espinha de peixe (granito)</FloorStoneHerringboneGranite.label>
+            <FloorStoneHerringboneLimestone.label>piso em espinha de peixe (calcário)</FloorStoneHerringboneLimestone.label>
+            <FloorStoneHerringboneSlate.label>piso em espinha de peixe (ardósia)</FloorStoneHerringboneSlate.label>
+            <FloorStoneHerringboneMarble.label>piso em espinha de peixe (mármore)</FloorStoneHerringboneMarble.label>
+
+        <!-- Hexagonal Flooring -->
+            <FloorStoneHexSandstone.label>piso hexagonal (arenito)</FloorStoneHexSandstone.label>
+            <FloorStoneHexGranite.label>piso hexagonal (granito)</FloorStoneHexGranite.label>
+            <FloorStoneHexLimestone.label>piso hexagonal (calcário)</FloorStoneHexLimestone.label>
+            <FloorStoneHexSlate.label>piso hexagonal (ardósia)</FloorStoneHexSlate.label>
+            <FloorStoneHexMarble.label>piso hexagonal (mármore)</FloorStoneHexMarble.label>
+
+        <!-- Digital Flooring -->
+            <FloorStoneDigitalSandstone.label>piso em padrão digital (arenito)</FloorStoneDigitalSandstone.label>
+            <FloorStoneDigitalGranite.label>piso em padrão digital (granito)</FloorStoneDigitalGranite.label>
+            <FloorStoneDigitalLimestone.label>piso em padrão digital (calcário)</FloorStoneDigitalLimestone.label>
+            <FloorStoneDigitalSlate.label>piso em padrão digital (ardósia)</FloorStoneDigitalSlate.label>
+            <FloorStoneDigitalMarble.label>piso em padrão digital (mármore)</FloorStoneDigitalMarble.label>
+
+        <!-- Mosaic Flooring -->
+            <FloorStoneMosaicSandstone.label>piso em mosaico (arenito)</FloorStoneMosaicSandstone.label>
+            <FloorStoneMosaicGranite.label>piso em mosaico (granito)</FloorStoneMosaicGranite.label>
+            <FloorStoneMosaicLimestone.label>piso em mosaico (calcário)</FloorStoneMosaicLimestone.label>
+            <FloorStoneMosaicSlate.label>piso em mosaico (ardósia)</FloorStoneMosaicSlate.label>
+            <FloorStoneMosaicMarble.label>piso em mosaico (mármore)</FloorStoneMosaicMarble.label>
+
+        <!-- Random Stone Flooring -->
+            <FloorStoneRandomSandstone.label>piso aleatório (arenito)</FloorStoneRandomSandstone.label>
+            <FloorStoneRandomGranite.label>piso aleatório (granito)</FloorStoneRandomGranite.label>
+            <FloorStoneRandomLimestone.label>piso aleatório (calcário)</FloorStoneRandomLimestone.label>
+            <FloorStoneRandomSlate.label>piso aleatório (ardósia)</FloorStoneRandomSlate.label>
+            <FloorStoneRandomMarble.label>piso aleatório (mármore)</FloorStoneRandomMarble.label>
+
+        <!-- Diamond Stone Flooring -->
+            <FloorStoneDiamondSandstone.label>piso losangular (arenito)</FloorStoneDiamondSandstone.label>
+            <FloorStoneDiamondGranite.label>piso losangular (granito)</FloorStoneDiamondGranite.label>
+            <FloorStoneDiamondLimestone.label>piso losangular (calcário)</FloorStoneDiamondLimestone.label>
+            <FloorStoneDiamondSlate.label>piso losangular (ardósia)</FloorStoneDiamondSlate.label>
+            <FloorStoneDiamondMarble.label>piso losangular (mármore)</FloorStoneDiamondMarble.label>
+
+        <!-- Arabesque Stone Flooring -->
+            <FloorStoneArabesqueSandstone.label>piso arabesco (arenito)</FloorStoneArabesqueSandstone.label>
+            <FloorStoneArabesqueGranite.label>piso arabesco (granito)</FloorStoneArabesqueGranite.label>
+            <FloorStoneArabesqueLimestone.label>piso arabesco (calcário)</FloorStoneArabesqueLimestone.label>
+            <FloorStoneArabesqueSlate.label>piso arabesco (ardósia)</FloorStoneArabesqueSlate.label>
+            <FloorStoneArabesqueMarble.label>piso arabesco (mármore)</FloorStoneArabesqueMarble.label>
+
+        <!-- Chequered Floors -->
+            <FloorStoneChequerMarbleSlate.label>placas xadrez (mármore / ardósia)</FloorStoneChequerMarbleSlate.label>
+            <FloorStoneChequerMarbleSandstone.label>placas xadrez (mármore / arenito)</FloorStoneChequerMarbleSandstone.label>
+            <FloorStoneChequerMarbleGranite.label>placas xadrez (mármore / granito)</FloorStoneChequerMarbleGranite.label>
+            <FloorStoneChequerLimestoneSlate.label>placas xadrez (calcário / ardósia)</FloorStoneChequerLimestoneSlate.label>
+            <FloorStoneChequerLimestoneSandstone.label>placas xadrez (calcário / arenito)</FloorStoneChequerLimestoneSandstone.label>
+            <FloorStoneChequerLimestoneGranite.label>placas xadrez (calcário / granito)</FloorStoneChequerLimestoneGranite.label>
+            <FloorStoneChequerSlateSandstone.label>placas xadrez (ardósia / arenito)</FloorStoneChequerSlateSandstone.label>
+            <FloorStoneChequerSlateGranite.label>placas xadrez (ardósia / granito)</FloorStoneChequerSlateGranite.label>
+
+        <!-- Wood -->
+        	<FloorWoodRustic.label>assoalho de madeira</FloorWoodRustic.label>
+	        <FloorWoodRustic.description>Assoalho rústico de madeira, cuidadosamente polido e sem farpas. Bonito de se olhar, mas um pouco lento para construir.</FloorWoodRustic.description>
+	        <FloorWoodWide.label>assoalho largo de madeira</FloorWoodWide.label>
+	        <FloorWoodWide.description>Assoalho largo e básico para dar aquele visual minimalista. Fácil para construir.</FloorWoodWide.description>
+	        <FloorWoodLight.label>assoalho de madeira clara</FloorWoodLight.label>
+	        <FloorWoodLight.description>Assoalho de madeira clara em um agradável padrão entrelaçado.</FloorWoodLight.description>
+	        <FloorWoodMosaic.label>assoalho de madeira em mosaico</FloorWoodMosaic.label>
+	        <FloorWoodMosaic.description>Assoalho de madeira com tábuas colocadas em um padrão de mosaico. Bonito, mas requer muita madeira e tempo para construir.</FloorWoodMosaic.description>
+	        <FloorWoodVertical.label>assoalho de madeira vertical</FloorWoodVertical.label>
+	        <FloorWoodVertical.description>Assoalho de madeira escura.</FloorWoodVertical.description>
+	        <FloorWoodBarn.label>assoalho de celeiro</FloorWoodBarn.label>
+	        <FloorWoodBarn.description>Assoalho áspero para celeiro. Rápido para construir.</FloorWoodBarn.description>
+
     <!-- Expanded Materials - Metals -->
         <!-- Bronze Tile -->
             <VMEu_BronzeTile.label>ladrilho de bronze</VMEu_BronzeTile.label>

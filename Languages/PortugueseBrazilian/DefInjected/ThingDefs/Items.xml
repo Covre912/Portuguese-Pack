@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+	<!-- [T] MoreFloors -->
+		<!-- Wool Cloth -->
+	  		<WoolCloth.label>tecido de lã</WoolCloth.label>
+  			<WoolCloth.description>Lã que foi tosquiada de um animal e transformada em tecido grosso e quente.</WoolCloth.description>
+
     <!-- A Dog Said... Animal Prosthetics -->
 		<!--Simple Prosthetic Tail-->
 			<ProstheticTailAnimal.label>cauda de animal protética simples</ProstheticTailAnimal.label>

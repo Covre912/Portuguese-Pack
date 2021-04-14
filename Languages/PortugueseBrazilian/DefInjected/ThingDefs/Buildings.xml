@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [O21] Seamless Embrasures -->
+        <!--Embrasure (Letterbox)-->
+            <O21_Embrasure_Letterbox.label>Seteira horizontal</O21_Embrasure_Letterbox.label>
+            <O21_Embrasure_Letterbox.description>Uma barreira impassável com um buraco horizontal. Capaz de suportar um telhado e permite o disparo de armas através dela.</O21_Embrasure_Letterbox.description>
+
+        <!--Embrasure (Hole)-->
+            <O21_Embrasure_Hole.label>Troneira</O21_Embrasure_Hole.label>
+            <O21_Embrasure_Hole.description>Uma barreira impassável com um buraco circular. Capaz de suportar um telhado e permite o disparo de armas através dela.</O21_Embrasure_Hole.description>
+
     <!-- [SYR] Doormat -->
         <!--Leather Doormats-->
             <DoorMatLeather.label>capacho pequeno</DoorMatLeather.label>
@@ -45,14 +54,10 @@
         <!-- Linked Doormat -->
             <DoorMatLinkedLeather.label>capacho</DoorMatLinkedLeather.label>
 
-    <!-- [O21] Seamless Embrasures -->
-        <!--Embrasure (Letterbox)-->
-            <O21_Embrasure_Letterbox.label>Seteira horizontal</O21_Embrasure_Letterbox.label>
-            <O21_Embrasure_Letterbox.description>Uma barreira impassável com um buraco horizontal. Capaz de suportar um telhado e permite o disparo de armas através dela.</O21_Embrasure_Letterbox.description>
-
-        <!--Embrasure (Hole)-->
-            <O21_Embrasure_Hole.label>Troneira</O21_Embrasure_Hole.label>
-            <O21_Embrasure_Hole.description>Uma barreira impassável com um buraco circular. Capaz de suportar um telhado e permite o disparo de armas através dela.</O21_Embrasure_Hole.description>
+    <!-- [T] MoreFloors -->
+        <!-- Wool Loom -->
+            <BenchWoolLoom.label>tear de lã</BenchWoolLoom.label>
+            <BenchWoolLoom.description>Uma bancada com teares para transformar lã em tecido forte e quente.</BenchWoolLoom.description>
 
     <!-- A Dog Said... Animal Prosthetics -->
         <!-- Animal Prosthetics Table -->

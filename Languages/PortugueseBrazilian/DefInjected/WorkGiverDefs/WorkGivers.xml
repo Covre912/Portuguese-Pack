@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [T] MoreFloors -->
+        <!-- Weave Wool -->
+            <DoBillsWeaveWool.label>tecer lã</DoBillsWeaveWool.label>
+            <DoBillsWeaveWool.verb>tecer</DoBillsWeaveWool.verb>
+            <DoBillsWeaveWool.gerund>tecendo</DoBillsWeaveWool.gerund>
+
     <!-- A Dog Said... Animal Prosthetics -->
         <!-- Animal Prosthetics -->
         	<DoBillsAnimalProsthetics.label>fazer prótese veterinária</DoBillsAnimalProsthetics.label>

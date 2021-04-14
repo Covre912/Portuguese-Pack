@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [T] MoreFloors-->
+        <!-- More Floors -->
+            <MoreFloors.label>mais pisos</MoreFloors.label>
+            <MoreFloors.description>Mais estilos de piso adicionados por "[T] MoreFloors".</MoreFloors.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Factory -->
             <VFE_Factory.label>fábrica</VFE_Factory.label>

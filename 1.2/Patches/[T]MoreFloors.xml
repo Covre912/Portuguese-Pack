@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+	    <mods>
+		    <li>[T] More Floors</li>
+	    </mods>
+        <match Class="PatchOperationSequence">
+            <operations>
+                
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/TerrainDef[@Name = "TFloorBaseStoneSlabs"]/description</xpath>
+                    <value>
+                        <description>Piso de pedra feito de placas quadradas inexpressivas. Fácil de construir e prático.</description>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/TerrainDef[@Name = "TFloorBaseStoneStaggered"]/description</xpath>
+                    <value>
+                        <description>Placas de pedra com cantos arredondados colocadas em um padrão escalonado.</description>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/TerrainDef[@Name = "TFloorBaseStoneRough"]/description</xpath>
+                    <value>
+                        <description>Piso áspero que precisa de pouquíssima pedra para se construir, mas tem aparência sem-graça e é relativamente demorado de se colocar. Não pode ser recuperado.</description>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/TerrainDef[@Name = "TFloorBaseStoneAlternating"]/description</xpath>
+                    <value>
+                        <description>Piso de pedra com tijolos arredondados colocados em um padrão alternado simples, mas agradável. Ligeiramente mais fácil de construir do que outros pisos de pedra de qualidade similar.</description>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/TerrainDef[@Name = "TFloorBaseStoneHerringbone"]/description</xpath>
+                    <value>
+                        <description>Paralelepípedos de pedra colocados em um padrão estiloso de espinha de peixe.</description>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/TerrainDef[@Name = "TFloorBaseStoneHex"]/description</xpath>
+                    <value>
+                        <description>Piso de pedra com azulejos hexagonais entrelaçados chamativos.</description>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/TerrainDef[@Name = "TFloorBaseStoneDigital"]/description</xpath>
+                    <value>
+                        <description>Piso que usa pedra em dois formatos diferentes para engenhosamente criar um padrão digital.</description>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/TerrainDef[@Name = "TFloorBaseStoneMosaic"]/description</xpath>
+                    <value>
+                        <description>Piso de pedra em um mosaico atraente. Ligeiramente mais fácil de construir do que outros pisos de pedra de qualidade similar.</description>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/TerrainDef[@Name = "TFloorBaseStoneRandom"]/description</xpath>
+                    <value>
+                        <description>Piso de pedra cuidadosamente colocado em um padrão de placas rústico e aleatório. Requer menos materiais do que um mosaico, mas é mais difícil de construir.</description>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/TerrainDef[@Name = "TFloorBaseStoneDiamond"]/description</xpath>
+                    <value>
+                        <description>Piso de pedra complexo minuciosamente cortado em losângulos. Bonito, mas requer muito tempo para construir.</description>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/TerrainDef[@Name = "TFloorBaseStoneArabesque"]/description</xpath>
+                    <value>
+                        <description>Piso de pedra arduamente cortado em placas arabescas magistrais. Belíssimo, mas rigoroso para construir.</description>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/TerrainDef[@Name = "TFloorBaseStoneChequered"]/description</xpath>
+                    <value>
+                        <description>Placas de pedra quadriculadas que formam um padrão agradável combinando dois tipos de pedra. Ligeiramente mais fácil de construir do que outros pisos de pedra de qualidade similar.</description>
+                    </value>
+                </li>
+            
+            </operations>
+        </match>
+    </Operation>
+
+</Patch>

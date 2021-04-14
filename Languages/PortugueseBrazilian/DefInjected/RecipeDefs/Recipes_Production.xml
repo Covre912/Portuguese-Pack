@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [T] MoreFloors -->
+        <!-- Wool Cloth -->
+            <MakeWoolCloth.label>fazer tecido de lã</MakeWoolCloth.label>
+            <MakeWoolCloth.description>Tece qualquer tipo de lã em um tear para criar tecido.</MakeWoolCloth.description>
+            <MakeWoolCloth.jobString>Tecendo lã.</MakeWoolCloth.jobString>
+
     <!-- Expanded Materials - Metals -->
         <!-- Charcoal -->
             <VMEu_MakeCharcoal.label>fazer carvão vegetal</VMEu_MakeCharcoal.label>
