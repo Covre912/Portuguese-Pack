@@ -246,6 +246,11 @@
 			<AEXP_Leather_Pinniped.label>couro de pinípede</AEXP_Leather_Pinniped.label>
 			<AEXP_Leather_Pinniped.description>Couro curtido e seco de pinípede. É de resistência média, mas isola bem contra o calor.</AEXP_Leather_Pinniped.description>
 
+	<!-- Vanilla Animals Expanded - Tropical Rainforest -->
+		<!-- Tiger Leather -->
+			<AEXP_Leather_Tiger.label>couro de tigre</AEXP_Leather_Tiger.label>
+			<AEXP_Leather_Tiger.description>Os tigres costumavam ser alvos de caçadores furtivos na antiguidade devido às suas peles luxuosas, um fato que quase os levou à extinção. Com a quase ilegalidade, o couro de tigre é visto como uma mercadoria exótica para o comércio.</AEXP_Leather_Tiger.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Component -->
             <VFE_ComponentMechanoid.label>componente mecanóide</VFE_ComponentMechanoid.label>

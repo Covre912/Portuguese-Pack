@@ -391,6 +391,44 @@
             <AEXP_Walrus.description>Um grande animal marinho encontrado apenas nas regiões árticas do planeta, a morsa tem presas proeminentes que são um bem de luxo valioso em todo o planeta.</AEXP_Walrus.description>
             <AEXP_Walrus.tools.1.label>cabeça</AEXP_Walrus.tools.1.label>
 
+    <!-- Vanilla Animals Expanded - Tropical Rainforest -->
+        <!-- Gorilla -->
+            <AEXP_Gorilla.label>gorila</AEXP_Gorilla.label>
+            <AEXP_Gorilla.description>Esses macacos herbívoros que vivem no solo são os maiores primatas vivos e são os parentes vivos mais próximos dos humanos, depois dos chimpanzés e bonobos. Como todos os grandes macacos, os braços do gorila são mais longos do que as pernas. Os gorilas costumam ser surpreendentemente tímidos, embora possam mostrar agressividade batendo no peito e atacando caso seu grupo social seja ameaçado.</AEXP_Gorilla.description>
+            <AEXP_Gorilla.tools.0.label>punho esquerdo</AEXP_Gorilla.tools.0.label>
+            <AEXP_Gorilla.tools.1.label>punho direito</AEXP_Gorilla.tools.1.label>
+            <AEXP_Gorilla.tools.3.label>cabeça</AEXP_Gorilla.tools.3.label>
+
+        <!-- Jaguar -->
+            <AEXP_Jaguar.label>onça-pintada</AEXP_Jaguar.label>
+            <AEXP_Jaguar.description>Uma grande espécie de felídeo e o único membro existente da fasmília da pantera. Este gato malhado se parece muito com o leopardo, mas geralmente é maior e mais robusto. A onça-pintada gosta de nadar e é, em grande parte, um predador solitário, oportunista, de perseguição e emboscada no topo da cadeia alimentar.</AEXP_Jaguar.description>
+
+        <!-- Lemur -->
+            <AEXP_Lemur.label>lêmure</AEXP_Lemur.label>
+            <AEXP_Lemur.description>Um pequeno primata, os lêmures são arbóreos e geralmente noturnos. Têm um focinho pontudo, olhos grandes e uma cauda longa. Embora sejam criaturas sociais, tradicionalmente são considerados menos inteligentes do que outros primatas, uma vez que não exibem comportamentos de uso de ferramentas na natureza.</AEXP_Lemur.description>
+            <AEXP_Lemur.tools.0.label>punho esquerdo</AEXP_Lemur.tools.0.label>
+            <AEXP_Lemur.tools.1.label>punho direito</AEXP_Lemur.tools.1.label>
+            <AEXP_Lemur.tools.3.label>cabeça</AEXP_Lemur.tools.3.label>
+
+        <!-- Mandrill -->
+            <AEXP_Mandrill.label>mandril</AEXP_Mandrill.label>
+            <AEXP_Mandrill.description>Mandris são os maiores de todos os macacos. Eles são primatas tímidos e reclusos que vivem apenas em florestas tropicais. Os mandris são extremamente coloridos, talvez mais do que qualquer outro mamífero. Eles são facilmente identificáveis ​​pela pele azul e vermelha em seus rostos.</AEXP_Mandrill.description>
+            <AEXP_Mandrill.tools.0.label>punho esquerdo</AEXP_Mandrill.tools.0.label>
+            <AEXP_Mandrill.tools.1.label>punho direito</AEXP_Mandrill.tools.1.label>
+            <AEXP_Mandrill.tools.3.label>cabeça</AEXP_Mandrill.tools.3.label>
+
+        <!-- Tapir -->
+            <AEXP_Tapir.label>anta</AEXP_Tapir.label>
+            <AEXP_Tapir.description>Um grande mamífero herbívoro, semelhante em forma a um porco, com um tronco de nariz curto, as antas habitam a selva e regiões florestais.</AEXP_Tapir.description>
+            <AEXP_Tapir.tools.1.label>cabeça</AEXP_Tapir.tools.1.label>
+
+        <!-- Tiger -->
+            <AEXP_Tiger.label>tigre</AEXP_Tiger.label>
+            <AEXP_Tiger.description>O tigre é a maior espécie de felinos. É mais reconhecível por suas listras verticais escuras em pele laranja-avermelhada com uma parte inferior mais clara. É um predador ápice, territorial e geralmente solitário. Na natureza, os tigres se alimentam principalmente de mamíferos de grande e médio porte.</AEXP_Tiger.description>
+            <AEXP_Tiger.tools.0.label>garra esquerda</AEXP_Tiger.tools.0.label>
+            <AEXP_Tiger.tools.1.label>garra direita</AEXP_Tiger.tools.1.label>
+            <AEXP_Tiger.tools.3.label>cabeça</AEXP_Tiger.tools.3.label>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Advanced Centipede -->
             <VFE_Mech_AdvancedCentipede.label>centopéia avançada</VFE_Mech_AdvancedCentipede.label>
