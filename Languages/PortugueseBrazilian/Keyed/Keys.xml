@@ -637,7 +637,7 @@
             <EdB.PC.Equipment.Type.Animals>Animais</EdB.PC.Equipment.Type.Animals>
             <EdB.PC.Equipment.Type.Apparel>Vestuário</EdB.PC.Equipment.Type.Apparel>
             <EdB.PC.Equipment.Type.Buildings>Mobília</EdB.PC.Equipment.Type.Buildings>
-            <EdB.PC.Equipment.Type.Food>Alimento</EdB.PC.Equipment.Type.Food>
+            <EdB.PC.Equipment.Type.Food>Dieta</EdB.PC.Equipment.Type.Food>
             <EdB.PC.Equipment.Type.Medical>Medicinal</EdB.PC.Equipment.Type.Medical>
             <EdB.PC.Equipment.Type.Resources>Recursos</EdB.PC.Equipment.Type.Resources>
             <EdB.PC.Equipment.Type.Weapons>Armas</EdB.PC.Equipment.Type.Weapons>
@@ -796,21 +796,21 @@
 	        <HugsLib_setting_showNews_desc>Permite que os mods recém-instalados destaquem seus novos recursos em uma janela quando você inicia o jogo.</HugsLib_setting_showNews_desc>
 	        <HugsLib_setting_allNews_label>Todas as notas de atualização</HugsLib_setting_allNews_label>
 	        <HugsLib_setting_allNews_desc>Mostra todas as notas de atualização de mods disponíveis, incluindo aquelas que já foram exibidas.</HugsLib_setting_allNews_desc>
-	        <HugsLib_setting_allNews_button>Mostrar agora</HugsLib_setting_allNews_button>
+	        <HugsLib_setting_allNews_button>Mostrar</HugsLib_setting_allNews_button>
 	        <HugsLib_setting_allNews_fail>Nenhum dos mods ativos tem notas de atualização para mostrar.</HugsLib_setting_allNews_fail>
 	        <HugsLib_setting_unnamed_mod>(mod não nomeado)</HugsLib_setting_unnamed_mod>
 	        <HugsLib_setting_show_settings>Mostrar configurações</HugsLib_setting_show_settings>
 	        <HugsLib_setting_mod_name_title>Configurações para {0}</HugsLib_setting_mod_name_title>
 	        <HugsLib_setting_expand_mod>Abrir</HugsLib_setting_expand_mod>
 	        <HugsLib_setting_collapse_mod>Fechar</HugsLib_setting_collapse_mod>
-	        <HugsLib_setting_quickstartSettings_label>Configuração de início rápido </HugsLib_setting_quickstartSettings_label>
+	        <HugsLib_setting_quickstartSettings_label>Configuração de início rápido</HugsLib_setting_quickstartSettings_label>
 	        <HugsLib_setting_logPublisherSettings_label>Preferências de plubicação de registros</HugsLib_setting_logPublisherSettings_label>
 	        <HugsLib_setting_ignoredUpdateNews_label>Provedores de notas de atualização ignorados</HugsLib_setting_ignoredUpdateNews_label>
-	        <HugsLib_features_title>Novos Recursos</HugsLib_features_title>
+	        <HugsLib_features_title>Atualizações</HugsLib_features_title>
 	        <HugsLib_features_description>As seguintes atualizações de mod foram instaladas e esses são os novos recursos e melhorias que os acompanham.\nVocê pode desabilitar esta caixa de diálogo em Opções &gt; Configurações de Mods</HugsLib_features_description>
 	        <HugsLib_features_update>{0} v.{1}</HugsLib_features_update>
 	        <HugsLib_features_link>Link</HugsLib_features_link>
-	        <HugsLib_features_linkDesc>Abre seu navegador em uma página onde você pode saber mais sobre esta atualização.n\ Endereço: {0}</HugsLib_features_linkDesc>
+	        <HugsLib_features_linkDesc>Abre seu navegador em uma página onde você pode saber mais sobre esta atualização.\nEndereço: {0}</HugsLib_features_linkDesc>
 	        <HugsLib_features_ignoreTooltip>Notificar sobre futuras atualizações deste mod</HugsLib_features_ignoreTooltip>
 	        <HugsLib_features_confirmIgnoreTitle>Confirmar</HugsLib_features_confirmIgnoreTitle>
 	        <HugsLib_features_confirmIgnore>Ignorar notas de atualizações futuras de {0}?\n\nPode ser reativado nas Opções do Mod &gt; Todas as notas de atualização</HugsLib_features_confirmIgnore>
