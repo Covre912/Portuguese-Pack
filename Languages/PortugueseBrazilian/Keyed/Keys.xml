@@ -418,6 +418,108 @@
 	        <PartyHuntToggle_label>Caça Alistada</PartyHuntToggle_label>
 	        <PartyHuntToggle_desc>Quando habilitado, os colonos alistados irão atirar automaticamente em animais selvagens passivos.</PartyHuntToggle_desc>
 
+    <!-- Achtung! -->
+        <!-- Positioning Enabled-->
+            <PositioningEnabledTitle>Posicionamento Personalizado com o Mouse</PositioningEnabledTitle>
+            <PositioningEnabledExplained>Ativa posicionamento de combate ao clicar/arrastar com o mouse (veja as configurações abaixo)</PositioningEnabledExplained>
+
+        <!-- Achtung Modifier -->
+            <AchtungModifierTitle>Tecla Achtung!</AchtungModifierTitle>
+            <AchtungModifierExplained>Manter esta tecla pressionada forçará o alistamento de colonos quando eles receberem comandos de Deslocar-se e Deslocar-se Em Formação.\nQuando pressionada, permitirá que os colonos selecionados sejam movidos na formação atual ao seu cursor clicando e arrastando com o botão direito do mouse. Depois que o botão direito do mouse for pressionado, a Tecla Achtung! pode ser solta.\nA formação pode ser girada usando Q e E</AchtungModifierExplained>
+
+        <!-- Force Command Menu -->
+            <ForceCommandMenuModeTitle>Modo de Menu Contextual</ForceCommandMenuModeTitle>
+            <ForceCommandMenuModeExplained>Automático = comportamento normal (decidido pelo status de alistamento)\nMostrar Menu = Pressione a tecla para o menu contextual\nDefinir Posição = Pressione a tecla para enviar para a posição</ForceCommandMenuModeExplained>
+            <ForceCommandMenuKeyTitle>Tecla do Menu Contextual</ForceCommandMenuKeyTitle>
+
+        <!-- Forced Command State -->
+            <ForcedCommandState>Ordenado a trabalhar até concluir.</ForcedCommandState>
+
+        <!-- Force Menu Button -->
+            <ForceMenuButtonText>Forçar</ForceMenuButtonText>
+
+        <!-- Adjust Force Radius -->
+            <IncreaseForceRadius>Aumentar Raio</IncreaseForceRadius>
+            <IncreaseForceRadiusDesc>Aumenta a distância de busca para o trabalho forçado (o raio atual é {0})</IncreaseForceRadiusDesc>
+            <DecreaseForceRadius>Diminuir Raio</DecreaseForceRadius>
+            <DecreaseForceRadiusDesc>Diminui a distância de busca para o trabalho forçado (o raio atual é {0})</DecreaseForceRadiusDesc>
+
+        <!-- Notes -->
+            <Notes>Observações</Notes>
+            <Note1>Ao usar Achtung, o menu contextual contém tanto comandos alistados quanto desalistados</Note1>
+            <Note2>Ao posicionar colonos desalistados em uma fileira, clicar com o botão esquerdo alista os colonos para as suas posições atuais</Note2>
+
+        <!-- Command Menu Mode -->
+            <CommandMenuModeOptionAuto>Automático</CommandMenuModeOptionAuto>
+            <CommandMenuModeOptionPressForMenu>Mostrar Menu</CommandMenuModeOptionPressForMenu>
+            <CommandMenuModeOptionPressForPosition>Definir Posição</CommandMenuModeOptionPressForPosition>
+
+        <!-- Achtung Mod Key -->
+            <AchtungModKeyOptionNone>Desativado</AchtungModKeyOptionNone>
+            <AchtungModKeyOptionAlt>Alt</AchtungModKeyOptionAlt>
+            <AchtungModKeyOptionCtrl>Ctrl</AchtungModKeyOptionCtrl>
+            <AchtungModKeyOptionShift>Shift</AchtungModKeyOptionShift>
+            <AchtungModKeyOptionMeta>Win/Cmd</AchtungModKeyOptionMeta>
+
+        <!-- Break Level -->
+            <BreakLevelTitle>Nível de colapso mental para trabalhar</BreakLevelTitle>
+            <BreakLevelExplained>Configura o nível de colapso no qual o colono interrompe um trabalho dado pelo Achtung</BreakLevelExplained>
+            <BreakLevelOptionNone>Ignorar</BreakLevelOptionNone>
+            <BreakLevelOptionMinor>Leve</BreakLevelOptionMinor>
+            <BreakLevelOptionMajor>Grave</BreakLevelOptionMajor>
+            <BreakLevelOptionAlmostExtreme>Quase extremo</BreakLevelOptionAlmostExtreme>
+            <BreakLevelOptionExtreme>Extremo</BreakLevelOptionExtreme>
+
+        <!-- Health Level -->
+            <HealthLevelTitle>Estado de saúde para trabalhar</HealthLevelTitle>
+            <HealthLevelExplained>Configura o estado de saúde no qual o colono interrompe um trabalho dado pelo Achtung</HealthLevelExplained>
+            <HealthLevelOptionNone>Ignorar</HealthLevelOptionNone>
+            <HealthLevelOptionShouldBeTendedNow>Deve ser tratado agora</HealthLevelOptionShouldBeTendedNow>
+            <HealthLevelOptionPrefersMedicalRest>Cuidados médicos</HealthLevelOptionPrefersMedicalRest>
+            <HealthLevelOptionNeedsMedicalRest>Precisa de descanso médico</HealthLevelOptionNeedsMedicalRest>
+            <HealthLevelOptionInPainShock>Em choque por dor</HealthLevelOptionInPainShock>
+
+        <!-- Ignore -->
+            <IgnoreForbiddenTitle>Ignorar coisas proibidas</IgnoreForbiddenTitle>
+            <IgnoreForbiddenExplained>Ignora itens proibidos (com um X vermelho) ao fazer trabalho forçado</IgnoreForbiddenExplained>
+            <IgnoreRestrictionsTitle>Ignorar áreas restritas</IgnoreRestrictionsTitle>
+            <IgnoreRestrictionsExplained>Ignora restrições de zona ao fazer trabalho forçado</IgnoreRestrictionsExplained>
+            <IgnoreAssignmentsTitle>Ignorar atribuções de tipo de trabalho</IgnoreAssignmentsTitle>
+            <IgnoreAssignmentsExplained>Ignora prioridades de trabalho não-definidas</IgnoreAssignmentsExplained>
+
+        <!-- Work Markers -->
+            <WorkMarkersTitle>Marcadores de trabalho forçado</WorkMarkersTitle>
+            <WorkMarkersExplained>O trabalho forçado é exibido com pequenos marcadores</WorkMarkersExplained>
+            <WorkMarkersOptionAnimated>Animado</WorkMarkersOptionAnimated>
+            <WorkMarkersOptionStatic>Estático</WorkMarkersOptionStatic>
+            <WorkMarkersOptionOff>Desligado</WorkMarkersOptionOff>
+
+        <!-- Job Interrupted -->
+            <JobInterruptedLabel>Cancelado: {0}</JobInterruptedLabel>
+            <JobInterruptedBreakdown>{0}: {1}</JobInterruptedBreakdown>
+            <JobInterruptedBadHealth>{0} está em mau estado</JobInterruptedBadHealth>
+
+        <!-- Clean Room -->
+            <CleanRoomLabel>Limpar esta sala</CleanRoomLabel>
+            <CleanRoomInfoText>Limpando sala por completo</CleanRoomInfoText>
+            <CleanRoomDescription>Limpa uma sala até estar completamente limpa</CleanRoomDescription>
+            <CleanRoomReport>Limpando{0}: {1}</CleanRoomReport>
+
+        <!-- Fire Fight -->
+            <FireFightLabel>Combater incêndio</FireFightLabel>
+            <FireFightInfoText>Combatendo um incêndio</FireFightInfoText>
+            <FireFightDescription>Combate um incêndio (mesmo fora da área da casa)</FireFightDescription>
+            <FireFightReport>Combatendo incêndio: {0}</FireFightReport>
+
+        <!-- Sow Zone -->
+            <SowZoneLabel>Semear esta zona</SowZoneLabel>
+            <SowZoneInfoText>Semeando zona</SowZoneInfoText>
+            <SowZoneDescription>Semeia uma zona agrícola até estar completamente semeada</SowZoneDescription>
+            <SowZoneReport>Semeando{0}: {1}</SowZoneReport>
+
+        <!-- Already Doing -->
+            <AlreadyDoing>(Trabalho #{0})</AlreadyDoing>
+
     <!-- EDB Prepare Carefully -->
         <!-- Add Parent Child -->
             <EdB.PC.AddParentChild.Header.AddParent>Adicionar um Pai</EdB.PC.AddParentChild.Header.AddParent>
