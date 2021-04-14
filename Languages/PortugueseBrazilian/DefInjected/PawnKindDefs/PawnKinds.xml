@@ -354,6 +354,27 @@
             <AEXP_Porcupine.label>porco-espinho</AEXP_Porcupine.label>
             <AEXP_Porcupine.labelPlural>porcos-espinhos</AEXP_Porcupine.labelPlural>
 
+    <!-- Vanilla Animals Expanded - Temperate Forest -->
+        <!-- Red Panda -->
+            <AEXP_RedPanda.label>panda-vermelho</AEXP_RedPanda.label>
+            <AEXP_RedPanda.labelPlural>pandas-vermelhos</AEXP_RedPanda.labelPlural>
+
+        <!-- Badger -->
+            <AEXP_Badger.label>texugo</AEXP_Badger.label>
+            <AEXP_Badger.labelPlural>texugos</AEXP_Badger.labelPlural>
+
+        <!-- Wild Goose -->
+            <AEXP_WildGoose.label>ganso selvagem</AEXP_WildGoose.label>
+            <AEXP_WildGoose.labelPlural>gansos selvagens</AEXP_WildGoose.labelPlural>
+
+        <!-- Beaver -->
+            <AEXP_Beaver.label>castor</AEXP_Beaver.label>
+            <AEXP_Beaver.labelPlural>castores</AEXP_Beaver.labelPlural>
+
+        <!-- Hedgehog -->
+            <AEXP_Hedgehog.label>ouriço</AEXP_Hedgehog.label>
+            <AEXP_Hedgehog.labelPlural>ouriços</AEXP_Hedgehog.labelPlural>
+
     <!-- Zombieland -->
         <!-- Zombie -->
             <Zombie.label>zumbi</Zombie.label>

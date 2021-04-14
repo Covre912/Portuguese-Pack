@@ -475,6 +475,42 @@
             <AEXP_Porcupine.tools.1.label>garra direita</AEXP_Porcupine.tools.1.label>
             <AEXP_Porcupine.tools.3.label>cabeça</AEXP_Porcupine.tools.3.label>
 
+    <!-- Vanilla Animals Expanded - Temperate Forest -->
+        <!-- Red Panda -->
+            <AEXP_RedPanda.label>panda-vermelho</AEXP_RedPanda.label>
+            <AEXP_RedPanda.description>O panda vermelho é um pequeno mamífero, ligeiramente maior do que um gato doméstico, com um corpo semelhante ao de um urso e espesso pêlo castanho-avermelhado. A barriga e os membros são pretos, e há marcas brancas na lateral da cabeça e acima de seus olhos. Os pandas vermelhos são animais muito habilidosos e acrobáticos que ficam predominantemente em árvores.</AEXP_RedPanda.description>
+            <AEXP_RedPanda.tools.0.label>punho esquerdo</AEXP_RedPanda.tools.0.label>
+            <AEXP_RedPanda.tools.1.label>punho direito</AEXP_RedPanda.tools.1.label>
+            <AEXP_RedPanda.tools.3.label>cabeça</AEXP_RedPanda.tools.3.label>
+
+        <!-- Badger -->
+            <AEXP_Badger.label>texugo</AEXP_Badger.label>
+            <AEXP_Badger.description>Os texugos são pequenos mamíferos noturnos com corpos achatados em forma de cunha, pés largos com garras longas e cabelo áspero. Os texugos têm membros fortes e garras afiadas que os ajudam a cavar tocas e encontrar comida no subsolo. Eles são onívoros, com uma dieta composta principalmente de minhocas, insetos, larvas e pequenos animais.</AEXP_Badger.description>
+            <AEXP_Badger.tools.0.label>pata esquerda</AEXP_Badger.tools.0.label>
+            <AEXP_Badger.tools.1.label>pata direita</AEXP_Badger.tools.1.label>
+            <AEXP_Badger.tools.3.label>cabeça</AEXP_Badger.tools.3.label>
+
+        <!-- Wild Goose -->
+            <AEXP_WildGoose.label>ganso selvagem</AEXP_WildGoose.label>
+            <AEXP_WildGoose.description>Um ganso cinza não domesticado. Em comparação com seus irmãos domesticados, os gansos selvagens não põem tantos ovos e são famosos por seu temperamento agressivo. A paz nunca foi uma opção.</AEXP_WildGoose.description>
+            <AEXP_WildGoose.tools.0.label>garras</AEXP_WildGoose.tools.0.label>
+            <AEXP_WildGoose.tools.1.label>bico</AEXP_WildGoose.tools.1.label>
+            <AEXP_WildGoose.tools.2.label>cabeça</AEXP_WildGoose.tools.2.label>
+
+        <!-- Beaver -->
+            <AEXP_Beaver.label>castor</AEXP_Beaver.label>
+            <AEXP_Beaver.description>Um grande roedor semiaquático com uma cauda chata em forma de remo e patas traseiras palmadas. Os castores são famosos por construirem represas através de riachos e construirem seus alojamentos nas lagoas artificiais que se formam.</AEXP_Beaver.description>
+            <AEXP_Beaver.tools.0.label>garra esquerda</AEXP_Beaver.tools.0.label>
+            <AEXP_Beaver.tools.1.label>garra direita</AEXP_Beaver.tools.1.label>
+            <AEXP_Beaver.tools.3.label>cabeça</AEXP_Beaver.tools.3.label>
+
+        <!-- Hedgehog -->
+            <AEXP_Hedgehog.label>ouriço</AEXP_Hedgehog.label>
+            <AEXP_Hedgehog.description>Os ouriços são mamíferos diminutos com faces em forma de cone, pernas curtas e corpos cobertos com espinhos semelhantes a um porco-espinho. Quando em perigo, o ouriço se enrola em uma bola de forma que os espinhos cubram toda a área de seu corpo exposto.</AEXP_Hedgehog.description>
+            <AEXP_Hedgehog.tools.0.label>garra esquerda</AEXP_Hedgehog.tools.0.label>
+            <AEXP_Hedgehog.tools.1.label>garra direita</AEXP_Hedgehog.tools.1.label>
+            <AEXP_Hedgehog.tools.3.label>cabeça</AEXP_Hedgehog.tools.3.label>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Advanced Centipede -->
             <VFE_Mech_AdvancedCentipede.label>centopéia avançada</VFE_Mech_AdvancedCentipede.label>

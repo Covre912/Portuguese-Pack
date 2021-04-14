@@ -125,6 +125,11 @@
             <LaserTableSculpting.label>mesa de escultura a laser</LaserTableSculpting.label>
             <LaserTableSculpting.description>Uma mesa de alta tecnologia com um cortador a laser robótico. Permite a criação de joias valiosas.</LaserTableSculpting.description>
 
+    <!-- Vanilla Animals Expanded - Temperate Forest -->
+        <!-- Beaver Dam -->
+            <AEXP_BeaverDam.label>barragem de castor</AEXP_BeaverDam.label>
+            <AEXP_BeaverDam.description>As barragens de castores ou represas de castores são construídas por castores para fornecer lagos como proteção contra predadores, como coiotes, lobos e ursos, e para facilitar o acesso a alimentos durante o inverno.</AEXP_BeaverDam.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Ship Chunk -->
             <VEE_ShipChunkHuman.label>pedaço de nave</VEE_ShipChunkHuman.label>
