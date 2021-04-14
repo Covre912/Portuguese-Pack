@@ -333,6 +333,27 @@
             <AEXP_IndianElephant.lifeStages.0.label>elefante-indiano filhote</AEXP_IndianElephant.lifeStages.0.label>
             <AEXP_IndianElephant.lifeStages.0.labelPlural>elefantes-indianos filhotes</AEXP_IndianElephant.lifeStages.0.labelPlural>
 
+    <!-- Vanilla Animals Expanded - Tundra -->
+        <!-- Musk Ox -->
+            <AEXP_Muskox.label>boi-almiscarado</AEXP_Muskox.label>
+            <AEXP_Muskox.labelPlural>bois-almiscarados</AEXP_Muskox.labelPlural>
+            <AEXP_Muskox.lifeStages.0.label>boi-almiscarado filhote</AEXP_Muskox.lifeStages.0.label>
+            <AEXP_Muskox.lifeStages.0.labelPlural>bois-almiscarados filhotes</AEXP_Muskox.lifeStages.0.labelPlural>
+
+        <!-- Moose -->
+            <AEXP_Moose.label>alce</AEXP_Moose.label>
+            <AEXP_Moose.labelPlural>alces</AEXP_Moose.labelPlural>
+            <AEXP_Moose.lifeStages.0.label>alce filhote</AEXP_Moose.lifeStages.0.label>
+            <AEXP_Moose.lifeStages.0.labelPlural>alces filhotes</AEXP_Moose.lifeStages.0.labelPlural>
+
+        <!-- Megawolverine -->
+            <AEXP_MegaWolverine.label>megaglutão</AEXP_MegaWolverine.label>
+            <AEXP_MegaWolverine.labelPlural>megaglutões</AEXP_MegaWolverine.labelPlural>
+
+        <!-- Porcupine -->
+            <AEXP_Porcupine.label>porco-espinho</AEXP_Porcupine.label>
+            <AEXP_Porcupine.labelPlural>porcos-espinhos</AEXP_Porcupine.labelPlural>
+
     <!-- Zombieland -->
         <!-- Zombie -->
             <Zombie.label>zumbi</Zombie.label>

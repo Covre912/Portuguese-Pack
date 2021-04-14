@@ -260,6 +260,11 @@
 			<AEXP_EggAlligatorFertilized.label>ovo de jacaré (fert.)</AEXP_EggAlligatorFertilized.label>
 			<AEXP_EggAlligatorFertilized.description>Ovo de jacaré fertilizado. Se tudo ocorrer bem, ele deve eclodir um jacaré bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggAlligatorFertilized.description>
 
+	<!-- Vanilla Animals Expanded - Tundra -->
+		<!-- Musk Ox Wool -->
+			<AEXP_MuskOxWool.label>lã de boi-almiscarado</AEXP_MuskOxWool.label>
+			<AEXP_MuskOxWool.description>A lã interna do boi-almiscarado. Mais forte e mais quente que a lã de ovelha e mais macia que a lã de casimira.</AEXP_MuskOxWool.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Component -->
             <VFE_ComponentMechanoid.label>componente mecanóide</VFE_ComponentMechanoid.label>

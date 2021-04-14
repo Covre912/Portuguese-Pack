@@ -8,4 +8,8 @@
         <!-- Hind Flippers -->
             <AEXP_HindFlippers.label>nadadeiras</AEXP_HindFlippers.label>
 
+    <!-- Vanilla Animals Expanded - Tundra -->
+        <!-- Antlers -->
+            <AEXP_Antlers.label>chifres</AEXP_Antlers.label>
+
 </LanguageData>
