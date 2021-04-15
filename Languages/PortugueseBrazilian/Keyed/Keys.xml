@@ -1317,6 +1317,29 @@
             <VSE.ReinforcementsDesc>Vendo que suas forças sofreram perdas, {FACTION_name} decidiu reforçar sua força de ataque</VSE.ReinforcementsDesc>
             <VSE.CostGoodwill>custo: {0} de boa vontade</VSE.CostGoodwill>
 
+        <!-- Machines -->
+            <VFEMechForceRecharge>Forçar Recarga</VFEMechForceRecharge>
+            <VFEMechForceRechargeDesc>Solicite que a máquina associada retorne a esta plataforma para carregamento, independentemente do nível atual da bateria.</VFEMechForceRechargeDesc>
+            <VFEMechAttachTurret>Acoplar Torreta</VFEMechAttachTurret>
+            <VFEMechAttachTurretDesc>Construa uma torreta no topo desta plataforma móvel. Isso exigirá que um colono entregue recursos iguais ao custo normal de construção daquela torreta.</VFEMechAttachTurretDesc>
+            <VFEMechMachineDied>Máquina destruída</VFEMechMachineDied>
+            <VFEMechMachineDiedDesc>Uma de suas máquinas foi destruída! Você pode desmontar seus restos em uma mesa de usinagem. Para construir um subistituto, um de seus colonos precisará entregar os seguintes materiais em sua plataforma:\n\n{0}</VFEMechMachineDiedDesc>
+            <VFEMechNoResources>Sem recursos sufiecientes</VFEMechNoResources>
+            <VFEMechNoTurret>Nenhuma torreta móvel ativa</VFEMechNoTurret>
+            <VFEMechReconstruct>Necessário para reconstruir a máquina:</VFEMechReconstruct>
+            <VFEMechTurretResources>Necessário para contruir a torreta:</VFEMechTurretResources>
+            <VFEMechLowerRange>Reduzir alcance</VFEMechLowerRange>
+            <VFEMechLowerRangeDesc>Reduza o número de ladrilhos que esta máquina viajará.</VFEMechLowerRangeDesc>
+            <VFEMechRaiseRange>Aumentar alcance</VFEMechRaiseRange>
+            <VFEMechRaiseRangeDesc>Aumente o número de ladrilhos que esta máquina viajará.</VFEMechRaiseRangeDesc>
+            <VFEMechStopMachine>Parar máquina</VFEMechStopMachine>
+            <VFEMechStopMachineDesc>Pare o progresso desta máquina e force-a a retornar à sua base.</VFEMechStopMachineDesc>
+            <VFEMechStartMachine>Iniciar máquina</VFEMechStartMachine>
+            <VFEMechStartMachineDesc>Inicia esta máquina.</VFEMechStartMachineDesc>
+            <VFEMechMachineHitObstacle>A máquina bateu em um obstáculo!</VFEMechMachineHitObstacle>
+            <VFEMechSetArea>Definir área</VFEMechSetArea>
+            <VFEMechSetAreaDesc>Defina a área permitida para todas as máquinas associadas a esta plataforma.</VFEMechSetAreaDesc>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Long Range Missile -->
             <VFEM_SiloNoTarget>Atualmente sem alvo</VFEM_SiloNoTarget>
