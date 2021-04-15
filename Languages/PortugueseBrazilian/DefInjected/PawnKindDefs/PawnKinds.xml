@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [KV] Faction Control -->
+        <!-- Young Warrior -->
+            <YoungTribalWarrior.label>jovem guerreiro</YoungTribalWarrior.label>
+            <YoungTribalWarrior.labelPlural>jovens guerreiros</YoungTribalWarrior.labelPlural>
+
     <!-- Vanilla Animals Expanded - Arid Shrubland -->
         <!-- Coyote -->
             <AEXP_Coyote.label>coiote</AEXP_Coyote.label>
@@ -383,12 +388,99 @@
             <AEXP_Porcupine.label>porco-espinho</AEXP_Porcupine.label>
             <AEXP_Porcupine.labelPlural>porcos-espinhos</AEXP_Porcupine.labelPlural>
 
+    <!-- Vanilla Events Expanded -->
+        <!-- Hunter -->
+            <Hunter.label>caçador</Hunter.label>
+            <Hunter.labelPlural>caçadores</Hunter.labelPlural>
+            <Hunter.labelMale>caçador</Hunter.labelMale>
+            <Hunter.labelMalePlural>caçadores</Hunter.labelMalePlural>
+            <Hunter.labelFemale>caçadora</Hunter.labelFemale>
+            <Hunter.labelFemalePlural>caçadoras</Hunter.labelFemalePlural>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Sellsword -->
+            <VFEM_SellSword.label>mercenário</VFEM_SellSword.label>
+            <VFEM_SellSword.labelMale>mercenário</VFEM_SellSword.labelMale>
+            <VFEM_SellSword.labelFemale>mercenária</VFEM_SellSword.labelFemale>
+            <VFEM_SellSword.labelPlural>mercenários</VFEM_SellSword.labelPlural>
+
+        <!-- Black Knight -->
+            <VFEM_BlackKnight.label>cavaleiro negro</VFEM_BlackKnight.label>
+            <VFEM_BlackKnight.labelMale>cavaleiro negro</VFEM_BlackKnight.labelMale>
+            <VFEM_BlackKnight.labelFemale>cavaleira negra</VFEM_BlackKnight.labelFemale>
+            <VFEM_BlackKnight.labelPlural>cavaleiros negros</VFEM_BlackKnight.labelPlural>
+
+        <!-- Knight In The Black -->
+            <VFEM_KnightInBlack.label>cavaleiro sombrio</VFEM_KnightInBlack.label>
+            <VFEM_KnightInBlack.labelMale>cavaleiro sombrio</VFEM_KnightInBlack.labelMale>
+            <VFEM_KnightInBlack.labelFemale>cavaleira sombria</VFEM_KnightInBlack.labelFemale>
+            <VFEM_KnightInBlack.labelPlural>cavaleiros sombiros</VFEM_KnightInBlack.labelPlural>
+
+        <!-- Peasant -->
+            <VFEM_Medieval_Peasant.label>camponês</VFEM_Medieval_Peasant.label>
+            <VFEM_Medieval_Peasant.labelPlural>camponeses</VFEM_Medieval_Peasant.labelPlural>
+
+        <!-- Merchant -->
+            <VFEM_Medieval_Merchant.label>comerciante</VFEM_Medieval_Merchant.label>
+            <VFEM_Medieval_Merchant.labelPlural>comerciantes</VFEM_Medieval_Merchant.labelPlural>
+
+        <!-- Squire -->
+            <VFEM_Medieval_Squire.label>escudeiro</VFEM_Medieval_Squire.label>
+            <VFEM_Medieval_Squire.labelPlural>escudeiros</VFEM_Medieval_Squire.labelPlural>
+
+        <!-- Bowman -->
+            <VFEM_Medieval_Bowman.label>arqueiro</VFEM_Medieval_Bowman.label>
+            <VFEM_Medieval_Bowman.labelPlural>arqueiros</VFEM_Medieval_Bowman.labelPlural>
+
+        <!-- Footsoldier -->
+            <VFEM_Medieval_Footsoldier.label>soldado de infantaria</VFEM_Medieval_Footsoldier.label>
+            <VFEM_Medieval_Footsoldier.labelPlural>soldados de infantaria</VFEM_Medieval_Footsoldier.labelPlural>
+
+        <!-- Knight -->
+            <VFEM_Medieval_Knight.label>cavaleiro</VFEM_Medieval_Knight.label>
+            <VFEM_Medieval_Knight.labelPlural>caveleiros</VFEM_Medieval_Knight.labelPlural>
+
+        <!-- Lord -->
+            <VFEM_Medieval_Lord.label>lorde</VFEM_Medieval_Lord.label>
+            <VFEM_Medieval_Lord.labelPlural>lordes</VFEM_Medieval_Lord.labelPlural>
+
+        <!-- Subject -->
+            <VFEM_Subject.label>subordinado</VFEM_Subject.label>
+            <VFEM_Subject.labelPlural>subordinados</VFEM_Subject.labelPlural>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Settler -->
+            <Settler.label>colonizador</Settler.label>
+            <Settler.labelPlural>colonizadores</Settler.labelPlural>
+
+        <!-- Bandit -->
+            <VFES_Bandit.label>bandido</VFES_Bandit.label>
+            <VFES_Bandit.labelPlural>bandidos</VFES_Bandit.labelPlural>
+            <Bandit.label>bandido</Bandit.label>
+            <Bandit.labelPlural>bandidos</Bandit.labelPlural>
+
+    <!-- Vanilla Storytellers Expanded - Perry Persistent -->
+        <!-- Man In The Coat -->    
+            <VSE_ManInTheCoat.label>homem de casaco</VSE_ManInTheCoat.label>
+            <VSE_ManInTheCoat.labelMale>homem de casaco</VSE_ManInTheCoat.labelMale>
+            <VSE_ManInTheCoat.labelFemale>mulher de casaco</VSE_ManInTheCoat.labelFemale>
+            <VSE_ManInTheCoat.labelPlural>homens de casaco</VSE_ManInTheCoat.labelPlural>
+            <VSE_ManInTheCoat.labelMalePlural>homens de casaco</VSE_ManInTheCoat.labelMalePlural>
+            <VSE_ManInTheCoat.labelFemalePlural>mulheres de casaco</VSE_ManInTheCoat.labelFemalePlural>
+
+    <!-- Vanilla Weapons Expanded - Laser -->
+        <!-- Mercenary Marine-->
+            <Mercenary_Marine.label>fuzileiro naval mercenário</Mercenary_Marine.label>
+            <Mercenary_Marine.labelPlural>fuzileiros navais mercenários</Mercenary_Marine.labelPlural>
+
     <!-- VFE - Mechanoids : Add-On -->
         <!-- Mender -->
             <MAO_Mechanoids_Mender.label>médico automático</MAO_Mechanoids_Mender.label>
+            <MAO_Mechanoids_Mender.labelPlural>médicos automáticos</MAO_Mechanoids_Mender.labelPlural>
 
         <!-- Assembler -->
-            <MAO_Mechanoids_Assembler.label>construtor automático</MAO_Mechanoids_Assembler.label>
+            <MAO_Mechanoids_Assembler.label>construtor automático</MAO_Mechanoids_Assembler.label>]
+            <MAO_Mechanoids_Assembler.labelPlural>construtores automáticos</MAO_Mechanoids_Assembler.labelPlural>
 
     <!-- Zombieland -->
         <!-- Zombie -->
