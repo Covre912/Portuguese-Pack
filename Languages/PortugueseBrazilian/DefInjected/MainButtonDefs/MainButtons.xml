@@ -6,9 +6,14 @@
             <Achievements.label>conquistas</Achievements.label>
             <Achievements.description>Desbloqueie conquistas, ganhe pontos, gerencie seu progresso.</Achievements.description>
 
+    <!-- VFE - Mechanoids : Tab -->
+        <!-- Drones -->
+            <VFEMT_Mechanoids.label>drones</VFEMT_Mechanoids.label>
+            <VFEMT_Mechanoids.description>Rastreie e configure os drones da colônia.</VFEMT_Mechanoids.description>
+
     <!-- WeaponStats -->
         <!-- Weapons -->
-            <Bodlosh_WeaponStats.label>Armas</Bodlosh_WeaponStats.label>
+            <Bodlosh_WeaponStats.label>armas</Bodlosh_WeaponStats.label>
             <Bodlosh_WeaponStats.description>Gerencie e verifique armas e vestuário.</Bodlosh_WeaponStats.description>
 
 </LanguageData>

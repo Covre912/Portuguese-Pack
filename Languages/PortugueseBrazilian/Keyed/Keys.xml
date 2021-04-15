@@ -1385,6 +1385,41 @@
             <RimHUD.Theme.SkillActiveColor>Ativa</RimHUD.Theme.SkillActiveColor>
             <RimHUD.TextStyle.Size>Tamanho</RimHUD.TextStyle.Size>
             <RimHUD.TextStyle.Height>Altura</RimHUD.TextStyle.Height>
+
+    <!-- RimSaves -->
+        <!-- RimSaves -->
+            <ARS_SettingsGeneralSection>Configurações</ARS_SettingsGeneralSection>
+            <ARS_SettingsQSSection>Atalho de Salvamento</ARS_SettingsQSSection>
+            <ARS_SettingsBindingHomeEnd>Salvamento : CTRL+HOME, Salvamento : CTRL+END</ARS_SettingsBindingHomeEnd>
+            <ARS_SettingsBindingF5F9>Salvamento : F5, Salvamento : F9</ARS_SettingsBindingF5F9>
+            <ARS_SettingsDisableAutosaves>Desabilitar salvamento automático</ARS_SettingsDisableAutosaves>
+            <ARS_ConfirmRemoveFolderTitle>Excluir pasta</ARS_ConfirmRemoveFolderTitle>
+            <ARS_ConfirmRemoveFolderDesc>Tem certeza de que deseja excluir esta pasta? Todos os jogos salvos contidos serão removidos também!</ARS_ConfirmRemoveFolderDesc>
+            <ARS_FolderAlreadyExist>Nome da pasta já existe!</ARS_FolderAlreadyExist>
+            <ARS_ToolTipMoveSave>Mover este jogo salvo para outra pasta</ARS_ToolTipMoveSave>
+            <ARS_ToolTipAddFolder>Criar uma nova pasta</ARS_ToolTipAddFolder>
+            <ARS_ToolTipDelFolder>Exclua a pasta de salvamentos atual, todos os jogos salvos contidos serão destruídos!</ARS_ToolTipDelFolder>
+            <ARS_WarningFileMoveAlreadyExist>Já existe um jogo salvo "{0}" na pasta destino, o jogo salvo foi renomeado para "{1}"</ARS_WarningFileMoveAlreadyExist>
+            <ARS_SaveAlreadyExist>Nome de arquivo já existe!</ARS_SaveAlreadyExist>
+            <ARS_OP_RENAME>Renomear</ARS_OP_RENAME>
+            <ARS_OP_DUPLICATE>Duplicar</ARS_OP_DUPLICATE>
+            <ARS_nbSaves>({0} jogos salvos)</ARS_nbSaves>
+            <ARS_SettingsNbAutosave>Número de salvamentos automáticos desejados ( {0} )</ARS_SettingsNbAutosave>
+            <ARS_NoSQToLoad>Nenhum arquivo de salvamento para carregar!</ARS_NoSQToLoad>
+            <ARS_OpenSaveFolder>Abrir pastas de arquivos de jogos salos</ARS_OpenSaveFolder>
+            <ARS_SavePreviewSize>Tamanho : {0}</ARS_SavePreviewSize>
+            <ARS_SavePreviewScenario>Cenário : {0}</ARS_SavePreviewScenario>
+            <ARS_SavePreviewStoryteller>Narrador : {0}</ARS_SavePreviewStoryteller>
+            <ARS_SavePreviewStorytellerDifficulty>Dificuldade : {0}</ARS_SavePreviewStorytellerDifficulty>
+            <ARS_SavePreviewLastIncident>Últimos Eventos :</ARS_SavePreviewLastIncident>
+            <ARS_SavePreviewNbMods>Número de Mods : {0}</ARS_SavePreviewNbMods>
+            <ARS_SavePreviewNbColony>Número de Colônias : {0}</ARS_SavePreviewNbColony>
+            <ARS_SavePreviewNbColonist>Número de Colonos : {0}</ARS_SavePreviewNbColonist>
+            <ARS_SavePreviewTime>Data : {0}</ARS_SavePreviewTime>
+            <ARS_SavePreviewPlayTime>Tempo Gasto Jogando : {0}</ARS_SavePreviewPlayTime>
+            <ARS_SavePreviewMissing>Sem dados disponíveis, carregue e salve pelo menos uma vez este jogo para exibir os dados de visualização.</ARS_SavePreviewMissing>
+            <ARS_SavePreviewSeed>Semente : {0}</ARS_SavePreviewSeed>
+            <ARS_SavePreviewFaction>Facção : {0}</ARS_SavePreviewFaction>
     
     <!-- Vanilla Achievements Expanded -->
         <!-- VAE -->
