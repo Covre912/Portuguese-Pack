@@ -30,5 +30,10 @@
             <creditee>Sr.dino</creditee>
         </li>
 
+        <li Class="CreditRecord_Role">
+            <roleKey>Credit_Translator</roleKey>
+            <creditee>LuizFernando6Th</creditee>
+        </li>
+
     </credits>
 </LanguageInfo>
