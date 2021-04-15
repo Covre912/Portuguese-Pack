@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Dormitories Not Barracks -->
+        <!-- Dormitoty -->
+            <Dormitory.label>dormitório</Dormitory.label>
+            <PrisonDormitory.label>dormitório de prisão</PrisonDormitory.label>
+
+
+</LanguageData>

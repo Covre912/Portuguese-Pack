@@ -60,6 +60,47 @@
  			<NeedBeautyAesthete.stages.5.label>ambiente belo</NeedBeautyAesthete.stages.5.label>
             <NeedBeautyAesthete.stages.5.description>Este lugar é lindo. Eleva meu espírito e me faz amar a vida.</NeedBeautyAesthete.stages.5.description>
 
+    <!-- Dormitories Not Barracks -->
+        <!-- Dormitory -->
+            <SleptInDormitory.stages.0.label>dormitório horrível</SleptInDormitory.stages.0.label>
+            <SleptInDormitory.stages.0.description>Eu tive que dormir em um dormitório horrível. Não era só um quarto horrível, mas eu também tive que dividir!</SleptInDormitory.stages.0.description>
+            <SleptInDormitory.stages.1.label>dormitório maçante</SleptInDormitory.stages.1.label>
+            <SleptInDormitory.stages.1.description>Eu tive que dormir em um dormitório maçante. Não era só isso, mas eu também tive que dividir</SleptInDormitory.stages.1.description>
+            <SleptInDormitory.stages.2.label>dormitório medíocre</SleptInDormitory.stages.2.label>
+            <SleptInDormitory.stages.2.description>Eu tive que dormir em um dormitório medíocre com outras pessoas. Seria muito melhor dormir sozinho.</SleptInDormitory.stages.2.description>
+            <SleptInDormitory.stages.4.label>dormitório ligeiramente impressionante</SleptInDormitory.stages.4.label>
+            <SleptInDormitory.stages.4.description>Eu pude dormir em um dormitório bem legal. Até tolerei dividir.</SleptInDormitory.stages.4.description>
+            <SleptInDormitory.stages.5.label>dormitório impressionante</SleptInDormitory.stages.5.label>
+            <SleptInDormitory.stages.5.description>Eu pude dormir em um dormitório impressionante. Por mim, tudo bem em dividir.</SleptInDormitory.stages.5.description>
+            <SleptInDormitory.stages.6.label>dormitório muito impressionante</SleptInDormitory.stages.6.label>
+            <SleptInDormitory.stages.6.description>Eu dormi em um dormitório muito impressionante. Não vejo problema em dividir.</SleptInDormitory.stages.6.description>
+            <SleptInDormitory.stages.7.label>dormitório extremamente impressionante</SleptInDormitory.stages.7.label>
+            <SleptInDormitory.stages.7.description>Eu dormi em um dormitório extremamente impressionante. Eu nem me importei em dividir.</SleptInDormitory.stages.7.description>
+            <SleptInDormitory.stages.8.label>dormitório incrivelmente impressionante</SleptInDormitory.stages.8.label>
+            <SleptInDormitory.stages.8.description>O dormitório em que dormi era tão impressionante que nem me importei em dividir.</SleptInDormitory.stages.8.description>
+            <SleptInDormitory.stages.9.label>dormitório maravilhosamente impressionante</SleptInDormitory.stages.9.label>
+            <SleptInDormitory.stages.9.description>Eu dormi em um dormitório que era simplesmente maravilhoso. Até mesmo dividir um espaço desses me deixa feliz.</SleptInDormitory.stages.9.description>
+
+        <!-- Prison Dormitory -->
+            <PrisonDormitory.stages.0.label>dormitório de prisão horrível</PrisonDormitory.stages.0.label>
+            <PrisonDormitory.stages.0.description>Meu dormitório de prisão é um lugar horrível.</PrisonDormitory.stages.0.description>
+            <PrisonDormitory.stages.1.label>dormitório de prisão maçante</PrisonDormitory.stages.1.label>
+            <PrisonDormitory.stages.1.description>Estou vivendo em um dormitório de prisão maçante.</PrisonDormitory.stages.1.description>
+            <PrisonDormitory.stages.3.label>dormitório de prisão decente</PrisonDormitory.stages.3.label>
+            <PrisonDormitory.stages.3.description>Meu dormitório de prisão é até que decente.</PrisonDormitory.stages.3.description>
+            <PrisonDormitory.stages.4.label>dormitório de prisão ligeiramente impressionante</PrisonDormitory.stages.4.label>
+            <PrisonDormitory.stages.4.description>Meu dormitório de prisão parece ser um lugar legal.</PrisonDormitory.stages.4.description>
+            <PrisonDormitory.stages.5.label>dormitório de prisão impressionante</PrisonDormitory.stages.5.label>
+            <PrisonDormitory.stages.5.description>Meu dormitório de prisão é impressionante. Não dá para acreditar que estão nos mantendo em um quarto assim.</PrisonDormitory.stages.5.description>
+            <PrisonDormitory.stages.6.label>dormitório de prisão muito impressionante</PrisonDormitory.stages.6.label>
+            <PrisonDormitory.stages.6.description>Meu dormitório de prisão é muito impressionante. Não dá para acreditar que estão nos mantendo em um quarto assim. Eu adorei!</PrisonDormitory.stages.6.description>
+            <PrisonDormitory.stages.7.label>dormitório de prisão extremamente impressionante</PrisonDormitory.stages.7.label>
+            <PrisonDormitory.stages.7.description>Meu dormitório de prisão é extremamente impressionante. Não dá para acreditar que estão nos mantendo em um quarto assim. Eu adorei!</PrisonDormitory.stages.7.description>
+            <PrisonDormitory.stages.8.label>dormitório de prisão incrivelmente impressionante</PrisonDormitory.stages.8.label>
+            <PrisonDormitory.stages.8.description>Meu dormitório de prisão é incrivelmente impressionante. Este é o melhor lugar de todos!</PrisonDormitory.stages.8.description>
+            <PrisonDormitory.stages.9.label>dormitório de prisão maravilhosamente impressionante</PrisonDormitory.stages.9.label>
+            <PrisonDormitory.stages.9.description>Meu dormitório de prisão é o melhor lugar do mundo. Dá quase para ficar aqui para sempre!</PrisonDormitory.stages.9.description>
+
     <!-- Fallout Traits (Continued) -->
         <!-- Gun Nut -->
             <GunNutHappy.stages.0.label>entusiasta por armas de fogo tem arma de longo alcande</GunNutHappy.stages.0.label>
