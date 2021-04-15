@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- RimCities - Citadel Update -->
+        <!-- Abandoned -->
+            <Crashlanded_City_Abandoned.label>Pouso Forçado (Cidade Abandonada)</Crashlanded_City_Abandoned.label>
+            <Crashlanded_City_Abandoned.description>Em vez de gerar em uma região selvagem, você começará dentro de uma cidade abandonada. Você encontrará recursos em abundância, mas fique atento para catadores e grupos de assaltantes.</Crashlanded_City_Abandoned.description> 
+            <Crashlanded_City_Abandoned.scenario.name>Pouso Forçado (Cidade Abandonada)</Crashlanded_City_Abandoned.scenario.name>
+            <Crashlanded_City_Abandoned.scenario.summary>A experiência clássica de RimWorld com uma reviravolta urbana.</Crashlanded_City_Abandoned.scenario.summary>
+            <Crashlanded_City_Abandoned.scenario.description>Em vez de gerar em uma região selvagem, você começará dentro de uma cidade abandonada. Você encontrará recursos em abundância, mas fique atento para catadores e grupos de assaltantes.</Crashlanded_City_Abandoned.scenario.description>
+
+        <!-- Friendly -->
+            <Crashlanded_City_Friendly.label>Pouso Forçado (Cidade Amigável)</Crashlanded_City_Friendly.label>
+            <Crashlanded_City_Friendly.description>Em vez de gerar em uma região selvagem, você começará dentro de uma cidade amigável.</Crashlanded_City_Friendly.description>
+            <Crashlanded_City_Friendly.scenario.name>Pouso Forçado (Cidade Amigável)</Crashlanded_City_Friendly.scenario.name>
+            <Crashlanded_City_Friendly.scenario.summary>A experiência clássica de RimWorld com uma reviravolta urbana.</Crashlanded_City_Friendly.scenario.summary>
+            <Crashlanded_City_Friendly.scenario.description>Em vez de gerar em uma região selvagem, você começará dentro de uma cidade amigável.</Crashlanded_City_Friendly.scenario.description>
+
+        <!-- Ghost -->
+            <Crashlanded_City_Ghost.label>Pouso Forçado (Cidade Fantasma)</Crashlanded_City_Ghost.label>
+            <Crashlanded_City_Ghost.description>Em vez de gerar em uma região selvagem, você começará dentro de uma cidade estranhamente silenciosa.</Crashlanded_City_Ghost.description>
+            <Crashlanded_City_Ghost.scenario.name>Pouso Forçado (Cidade Fantasma)</Crashlanded_City_Ghost.scenario.name>
+            <Crashlanded_City_Ghost.scenario.summary>A experiência clássica de RimWorld com uma reviravolta urbana.</Crashlanded_City_Ghost.scenario.summary>
+            <Crashlanded_City_Ghost.scenario.description>Em vez de gerar em uma região selvagem, você começará dentro de uma cidade estranhamente silenciosa.</Crashlanded_City_Ghost.scenario.description>
+
+        <!-- Citadel -->
+            <Siege_City_Citadel.label>Força-Tarefa (Cidadela Hostil)</Siege_City_Citadel.label>
+            <Siege_City_Citadel.description>Assuma o comando de uma força-tarefa de elite para capturar uma cidadela hostil.</Siege_City_Citadel.description>
+            <Siege_City_Citadel.scenario.name>Força-Tarefa (Cidadela Hostil)</Siege_City_Citadel.scenario.name>
+            <Siege_City_Citadel.scenario.summary>Assuma o comando de uma força-tarefa de elite para capturar uma cidadela hostil.</Siege_City_Citadel.scenario.summary>
+            <Siege_City_Citadel.scenario.description>Assuma o comando de uma força-tarefa de elite para capturar uma cidadela hostil.</Siege_City_Citadel.scenario.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- The Lone Scavenger -->
             <VFE_TheLoneScavenger.scenario.name>O Sucateador Solitário</VFE_TheLoneScavenger.scenario.name>

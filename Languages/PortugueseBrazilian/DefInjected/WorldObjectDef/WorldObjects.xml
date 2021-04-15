@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- RimCities - Citadel Update -->
+        <!-- Faction -->
+            <City_Faction.label>cidade</City_Faction.label>
+            <City_Faction.description>Um assentamento em grande escala e altamente desenvolvido. </City_Faction.description>
+
+        <!-- Abandoned -->
+            <City_Abandoned.label>cidade abandonada</City_Abandoned.label>
+            <City_Abandoned.description>Remanescentes da antiga grandeza de uma certa civilização.</City_Abandoned.description>
+
+        <!-- Ghost -->
+            <City_Ghost.label>cidade fantasma</City_Ghost.label>
+            <City_Ghost.description>Um assentamento misteriosamente vazio.</City_Ghost.description>
+
+        <!-- Citadel -->
+            <City_Citadel.label>cidadela</City_Citadel.label>
+            <City_Citadel.description>A brilhante capital deste planeta.</City_Citadel.description>
+
+        <!-- Compromised -->
+            <City_Compromised.label>cidade arruinada</City_Compromised.label>
+            <City_Compromised.description>Uma cidade perigosa, sem leis e controlada por gangues.</City_Compromised.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Frigate -->
             <VFEM_Frigate.label>fragata mecanóide</VFEM_Frigate.label>

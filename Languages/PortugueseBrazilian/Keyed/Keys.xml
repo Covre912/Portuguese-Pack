@@ -1142,9 +1142,54 @@
 	        <RFM_SettingsAllowChanceAirDrop>Pequena chance de ser invadido com cápsulas de transporte imediatamente</RFM_SettingsAllowChanceAirDrop>
 	
         <!-- Start -->
-	        <RFM_StartRaidNow>{0} ({1}) começou a atacar você!</RFM_StartRaidNow>
+	        <RFM_StartRaidNow>{0} ({1}) começou a te atacar!</RFM_StartRaidNow>
 	        <RFM_StartRaidDelayed>{0} ({1}) está realmente chateado! Você será invadido em {2}!</RFM_StartRaidDelayed>
-	        <RFM_StartAirDropRaidNow>{0} ({1}) começou a atacar você com cápsulas de transporte!</RFM_StartAirDropRaidNow>
+	        <RFM_StartAirDropRaidNow>{0} ({1}) começou a te atacar com cápsulas de transporte!</RFM_StartAirDropRaidNow>
+
+    <!-- RimCities - Citadel Update -->
+        <!-- Enter City -->
+            <EnterCity>Entrar na Cidade</EnterCity>
+            <EnterCityDesc>Entrar na cidade selecionada.</EnterCityDesc>
+
+        <!-- Settings -->
+            <CitiesConfigReset>Redefinir padrões</CitiesConfigReset>
+            <LimitCitySize>Tamanho personalizado do mapa da cidade: [{0} x {1}]</LimitCitySize>
+            <EnableCityQuests>Habilitar sistema de missões da cidade</EnableCityQuests>
+            <EnableCityEvents>Habilitar eventos da cidade (cápsulas de comida, reforços)</EnableCityEvents>
+            <EnableCityLooting>Habilitar saques em cidades sem penalidades</EnableCityLooting>
+            <CityLootScale>Multiplicador de espólios em cidades: [{0}]</CityLootScale>
+            <AbandonedCityChance>Chance de cidades abandonadas: [{0}]</AbandonedCityChance>
+            <CitiesPer100kTiles>Frequência de cidades geradas:</CitiesPer100kTiles>
+            <AbandonedPer100kTiles>Frequência de cidades abandonadas geradas:</AbandonedPer100kTiles>
+            <CompromisedPer100kTiles>Frequência de cidades arruinadas:</CompromisedPer100kTiles>
+            <MinCitadelsPerWorld>Mínimo de cidadelas por mundo: [{0}]</MinCitadelsPerWorld>
+  
+        <!-- Kind -->
+            <FriendlyCityKind>Amigável</FriendlyCityKind>
+            <HostileCityKind>Hostil</HostileCityKind>
+            <PirateCityKind>Pirata</PirateCityKind>
+            <AbandonedCityKind>Abandonada</AbandonedCityKind>
+            <GhostCityKind>Fantasma</GhostCityKind>
+            <CompromisedCityKind>Arruinada</CompromisedCityKind>
+  
+        <!-- Citadel -->
+            <CitadelName>{0} Cidadela</CitadelName>
+            <GeneratingCitadel>Gerando cidadela (isso pode levar algum tempo)</GeneratingCitadel>
+
+        <!-- Quest -->
+            <QuestResultComplete>Em caso de conclusão: {0}</QuestResultComplete>
+            <QuestResultCancel>Em caso de falha: {0}</QuestResultCancel>
+            <QuestResultExpire>Em caso de expiração: {0}</QuestResultExpire>
+            <QuestExpireTime>Tempo restante: {0}</QuestExpireTime>
+            <QuestAppendWorth>valor {0}</QuestAppendWorth>
+            <QuestComplete>Missão completa ({0})</QuestComplete>
+            <QuestCancelled>Missão cancelada ({0})</QuestCancelled>
+            <QuestExpired>Missão expirada ({0})</QuestExpired>
+            <QuestReceivedLabel>Recompensa</QuestReceivedLabel>
+            <QuestReceived>Você recebeu {0}</QuestReceived>
+            <QuestDefendWave>Onda de ataque ({0} / {1})</QuestDefendWave>
+            <QuestTargetLocated>Alvo localizado</QuestTargetLocated>
+            <QuestTargetLocatedMessage>Você foi informado sobre a localização do alvo de sua missão.</QuestTargetLocatedMessage>
 
     <!-- RimHUD -->
         <!-- Base -->

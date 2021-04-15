@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- RimCities - Citadel Update -->
+        <!-- Start City -->
+            <StartCity.label>iniciar em uma cidade (RimCities)</StartCity.label>
+
+        <!-- Start Citadel -->
+            <StartCitadel.label>iniciar próximo a uma cidadela (RimCities)</StartCitadel.label>
+
+        <!-- Start Equipment -->
+            <StartEquipment.label>dar a cada colono</StartEquipment.label>
+
+        <!-- Start Elite -->
+            <StartElite.label>colonos de elite</StartElite.label>
+
+        <!-- Start Allies -->
+            <StartAllies.label>iniciar com aliados</StartAllies.label>
+
+        <!-- Rescue Prisoners -->
+            <RescuePrisoners.label>resgatar prisioneiros</RescuePrisoners.label>
+
     <!-- Vanilla Expanded Framework -->
         <!-- Forced Factions Relations -->
             <VFEC_ForcedFactionGoodwill.label>relações forçadas de facção</VFEC_ForcedFactionGoodwill.label>

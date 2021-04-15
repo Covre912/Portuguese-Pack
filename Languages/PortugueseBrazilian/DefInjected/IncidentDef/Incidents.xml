@@ -5,6 +5,52 @@
         <!-- Election -->
             <Election.label>eleição</Election.label>
 
+    <!-- RimCities - Citadel Update -->
+        <!-- Sabotage -->
+            <Quest_City_Sabotage.label>missão sabotagem na cidade</Quest_City_Sabotage.label>
+            <Quest_City_Sabotage.letterText>Uma força de guerrilha pretende atacar {1}, uma cidade de {0}. Você pode optar por ajudar a desconstruir todas as torres de defesas em {1}. \n\nA identidade do atacante permanecerá em segredo até que se inicie o ataque.  \n\nEspere por mudanças dramáticas nas opiniões de ambas as facções em relação à sua colônia ao completar esta tarefa.</Quest_City_Sabotage.letterText>
+            <Quest_City_Sabotage.letterLabel>Oportunidade de sabotar</Quest_City_Sabotage.letterLabel>
+
+        <!-- Assault -->
+            <Quest_City_Assault.label>missão assalto combinado</Quest_City_Assault.label>
+            <Quest_City_Assault.letterText>{0} está se preparando para atacar {2}, um assentamento de {1}. \n\nSe você optar por se juntar, {0} irá reinvidicar a cidade conquistada.</Quest_City_Assault.letterText>
+            <Quest_City_Assault.letterLabel>Assalto combinado</Quest_City_Assault.letterLabel>
+
+        <!-- Assassinate -->
+            <Quest_City_Assassinate.label>missão assassinato</Quest_City_Assassinate.label>
+            <Quest_City_Assassinate.letterText>Uma figura misteriosa contatou a sua colônia, pedindo o assassinato de {0}. {1} é um cidadão altamente influente de {2} e atualmente vive na cidade de {3}. \n\nUm assassinato, criativo e indireto evitará repercussões diplomáticas.</Quest_City_Assassinate.letterText>
+            <Quest_City_Assassinate.letterLabel>Pedido de assassinato</Quest_City_Assassinate.letterLabel>
+            <Quest_City_Assassinate.questParts.1.letter>Alvo assassinado</Quest_City_Assassinate.questParts.1.letter>
+            <Quest_City_Assassinate.questParts.1.message>{0} foi assassinado com sucesso.</Quest_City_Assassinate.questParts.1.message>
+            <Quest_City_Assassinate.questParts.2.letter>Alvo escapou</Quest_City_Assassinate.questParts.2.letter>
+            <Quest_City_Assassinate.questParts.2.message>{0} deixou a área.</Quest_City_Assassinate.questParts.2.message>
+
+        <!-- Defend -->
+            <Quest_City_Defend.label>missão defender a cidade</Quest_City_Defend.label>
+            <Quest_City_Defend.letterText>{2} está sob cerco pesado de {0} e necessita desesperadamente de reforços. \n\nSe você defender com sucesso {2}, a cidade irá lhe recompensar generosamente.</Quest_City_Defend.letterText>
+            <Quest_City_Defend.letterLabel>Cidade sob ataque</Quest_City_Defend.letterLabel>
+            <Quest_City_Defend.questParts.1.letter>Atacantes fugindo</Quest_City_Defend.questParts.1.letter>
+            <Quest_City_Defend.questParts.1.message>{0} estão pegando suas coisas e fugindo. {2} foi defendida com sucesso.</Quest_City_Defend.questParts.1.message>
+            <Quest_City_Defend.questParts.2.letter>Cidade capturada</Quest_City_Defend.questParts.2.letter>
+            <Quest_City_Defend.questParts.2.message>{2} foi capturada por {0}.<Quest_City_Defend.questParts.2.message>
+
+        <!-- Prsion Break -->
+            <Quest_City_PrisonBreak.label>missão fuga da prisão</Quest_City_PrisonBreak.label>
+            <Quest_City_PrisonBreak.letterText>Prisoneiros de {1} estão projetando um plano de fuga. Se você optar por ajudá-los, eles se juntarão à sua facção ao serem libertos. \n\nInfelizmente, seus captores foram avisados e estão se preparando para sua chegada. Se você entrar em {1} antes que os prisioneiros escapem, espere por uma reação hostil de {0}.</Quest_City_PrisonBreak.letterText>
+            <Quest_City_PrisonBreak.letterLabel>Conspiração prisional</Quest_City_PrisonBreak.letterLabel>
+            <Quest_City_PrisonBreak.questParts.0.letter>Prisioneiros escaparam</Quest_City_PrisonBreak.questParts.0.letter>
+            <Quest_City_PrisonBreak.questParts.0.message>Os prisioneiros parecem já ter escapado.</Quest_City_PrisonBreak.questParts.0.message>
+            <Quest_City_PrisonBreak.EnterCityLabel>Fuga da Prisão</Quest_City_PrisonBreak.EnterCityLabel>
+
+        <!-- Hostages -->
+            <Quest_City_Hostages.label>resgate de reféns<Quest_City_Hostages.label>
+            <Quest_City_Hostages.letterText>Criminosos em {0} ocuparam uma construção e estão mantendo {1} cidadãos de refém. As autoridades locais foram incapazes de negociar os termos. Se você resgatá-los, eles ficarão felizes em se juntar à sua facção. \n\nEsteja avisado: os captores provavelmente executarão seus reféns se provocados diretamente.<Quest_City_Hostages.letterText>
+            <Quest_City_Hostages.letterLabel>Resgate de reféns<Quest_City_Hostages.letterLabel>
+            <Quest_City_Hostages.questParts.0.letter>Reféns resgatados<Quest_City_Hostages.questParts.0.letter>
+            <Quest_City_Hostages.questParts.0.message>Você libertou os reféns com sucesso.<Quest_City_Hostages.questParts.0.message>
+            <Quest_City_Hostages.questParts.1.letter>Reféns perdidos<Quest_City_Hostages.questParts.1.letter>
+            <Quest_City_Hostages.questParts.1.message>Você foi incapaz de resgatar os reféns.<Quest_City_Hostages.questParts.1.letter>
+
     <!-- Vanilla Animals Expanded - Endangered -->
         <!-- Extinct Animals -->
             <AEXP_ExtintAnimalsPasses.label>animais em extinção</AEXP_ExtintAnimalsPasses.label>

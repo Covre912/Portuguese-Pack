@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- RimCities - Citadel Update -->
+        <!-- City -->
+            <CityQuest.questNameRules.rulesStrings.0>questName->Missão da Cidade</CityQuest.questNameRules.rulesStrings.0>
+            <CityQuest.questDescriptionRules.rulesStrings.0>questDescription-></CityQuest.questDescriptionRules.rulesStrings.0>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Abandoned Factory -->
             <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings>
