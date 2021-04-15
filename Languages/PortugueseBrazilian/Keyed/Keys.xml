@@ -1859,6 +1859,18 @@
             <VWEL_ToggleHotshotLabel>Aquecimento</VWEL_ToggleHotshotLabel>
             <VWEL_ToggleHotshotDesc>Os tiros disparados aquecem a arma, permitindo maior velocidade de disparo. Superaquecimento pode levar à explosão da bateria.</VWEL_ToggleHotshotDesc>
 
+    <!-- VFE - Mechanoids : Unoffical Add-On -->
+        <!-- Fish -->
+    	    <SmallFish>Peixe Pequeno</SmallFish>
+	        <MediumFish>Peixe Médio</MediumFish>
+	        <LargeFish>Peixe Grande</LargeFish>
+	        <GizmoDescriptionSmall>Have the Fish Taunter catch small fish.</GizmoDescriptionSmall>
+	        <GizmoDescriptionMedium>Have the Fish Taunter catch medium fish.</GizmoDescriptionMedium>
+	        <GizmoDescriptionLarge>Have the Fish Taunter catch large fish.</GizmoDescriptionLarge>
+	        <MAO_FishTaunterGizmoLabelSmall>Peixe Pequeno</MAO_FishTaunterGizmoLabelSmall>
+	        <MAO_FishTaunterGizmoLabelMedium>Peixe Médio</MAO_FishTaunterGizmoLabelMedium>
+	        <MAO_FishTaunterGizmoLabelLarge>Peixo Grande</MAO_FishTaunterGizmoLabelLarge>
+
     <!-- WeaponStats -->
         <!-- Generic -->
             <WeaponStats.Ground>Chão</WeaponStats.Ground>

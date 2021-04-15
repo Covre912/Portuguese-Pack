@@ -492,4 +492,25 @@
             <Windmill.label>moinho de vento</Windmill.label>
             <Windmill.description>Um gerador elétrico antigo movido a vento. Requer um grande espaço livre na frente e atrás para um fluxo de ar ideal.</Windmill.description>
 
+    <!-- VFE - Mechanoids : Add-On -->
+        <!-- Mender Charging Station -->
+            <MAO_Mechanoids_MenderBase.Building_BedMachine.label>estação de médico automático</MAO_Mechanoids_MenderBase.Building_BedMachine.label>
+            <MAO_Mechanoids_MenderBase.Building_BedMachine.description>Uma estação para montagem e recarga de médicos automáticos.</MAO_Mechanoids_MenderBase.Building_BedMachine.description>
+
+        <!-- Assembler Charing Station -->
+            <MAO_Mechanoids_AssemblerBase.label>estação de construtor automático</MAO_Mechanoids_AssemblerBase.label>
+            <MAO_Mechanoids_AssemblerBase.description>Uma estação para montagem e recarga de construtores automáticos.</MAO_Mechanoids_AssemblerBase.description>
+
+        <!-- Construction Lamp -->
+            <MAO_MechanoidConstructionLamp.label>coluna de construção</MAO_MechanoidConstructionLamp.label>
+            <MAO_MechanoidConstructionLamp.description>Um pilar de metal utilitário resistente que funciona como uma lâmpada potente, destinado a sustentar telhados expansivos e iluminar fábricas que de outra forma seriam escuras.</MAO_MechanoidConstructionLamp.description>
+
+        <!-- Liquid Freezer -->
+            <MAO_MechanoidLiquidFreezer.label>refrigerador líquido</MAO_MechanoidLiquidFreezer.label>
+            <MAO_MechanoidLiquidFreezer.description>Um refrigerador da altura da cintura cheio de uma fina camada de neutroamina quimicamente alterada que parece permanecer estagnada em uma temperatura incrivelmente baixa. Não requer energia e impedirá que qualquer alimento apodreça.</MAO_MechanoidLiquidFreezer.description>
+
+        <!-- Fish Taunter -->
+            <MAO_FishTaunter.label>Pescador</MAO_FishTaunter.label>
+            <MAO_FishTaunter.description>Uma grande máquina que flutua na água, capaz de atrair e capturar peixes por meio de um sistema de rede submontado. Os peixes sufocam imediatamente e são dispensados ​​para coleta.</MAO_FishTaunter.description>
+
 </LanguageData>

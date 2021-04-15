@@ -644,6 +644,17 @@
             <VFE_Mech_Carpenter.tools.1.label>perna dianteira direita</VFE_Mech_Carpenter.tools.1.label>
             <VFE_Mech_Carpenter.tools.2.label>cabeça</VFE_Mech_Carpenter.tools.2.label>
 
+    <!-- VFE - Mechanoids : Unnofical Add-On -->
+        <!-- Mender -->
+            <MAO_Mechanoids_Mender.label>médico automático</MAO_Mechanoids_Mender.label>
+            <MAO_Mechanoids_Mender.description>Um drone semiautônomo robusto ligeiramente mais alto que um humano médio. Este drone vem com um conjunto de aparelhos de diagnóstico e médicos, bem como um deck focal avançado, capaz de varredura instantânea e análise de nível microscópico. Este drone é capaz de curar feridas e cuidar de enfermos igual a um amador, desde que seja fornecido medicamento.</MAO_Mechanoids_Mender.description>
+            <MAO_Mechanoids_Mender.tools.0.label>cabeça</MAO_Mechanoids_Mender.tools.0.label>
+
+        <!-- Assembler -->
+            <MAO_Mechanoids_Assembler.label>construtor automático</MAO_Mechanoids_Assembler.label>
+            <MAO_Mechanoids_Assembler.description>Um drone semiautônomo robusto ligeiramente mais alto que um humano médio. Um amplo auspício corneano e um conjunto de ferramentas simples permitem que este drone faça coisas como montar móveis rapidamente ou erguer paredes em um nível de habilidade amador.</MAO_Mechanoids_Assembler.description>
+            <MAO_Mechanoids_Assembler.tools.0.label>cabeça</MAO_Mechanoids_Assembler.tools.0.label>
+
     <!-- Zombieland -->
         <!-- Zombie -->
             <Zombie.label>zumbi</Zombie.label>

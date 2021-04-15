@@ -165,4 +165,13 @@
             <VWE_Quickdraw.label>saque rápido</VWE_Quickdraw.label>
             <VWE_Quickdraw.description>Crie armas leves e rápidas para sacar e atirar.</VWE_Quickdraw.description>
 
+    <!-- VFE - Mechanoids : Unoffical Add-On -->
+        <!-- Mechanoid Structures -->
+            <MAO_MechanoidStructures.label>estruturas mecanoides</MAO_MechanoidStructures.label>
+            <MAO_MechanoidStructures.description>Pesquise a capacidade de criar estruturas mecanóides poderosas, a um custo elevado.</MAO_MechanoidStructures.description>
+
+        <!-- Advanced Drone Assembly -->
+            <MAO_AdvancedDroneAssembly.label>montagem avançada de drones</MAO_AdvancedDroneAssembly.label>
+            <MAO_AdvancedDroneAssembly.description>Pesquise drones mais avançados, capazes de analisar e processar informações complexas.</MAO_AdvancedDroneAssembly.description>
+
 </LanguageData>

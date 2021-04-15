@@ -949,4 +949,9 @@
             <VFE_FactoryPath.label>caminho de fábrica</VFE_FactoryPath.label>
             <VFE_FactoryPath.description>Um caminho de fábrica designado e seguro. Aumenta a velocidade de movimento, mas precisa ser colocado no chão de fábrica.</VFE_FactoryPath.description>
 
+    <!-- VFE - Mechanoids : Unoffical Add-On -->
+        <!-- Black Concrete -->
+            <MAO_BlackConcrete.label>concreto preto</MAO_BlackConcrete.label>
+            <MAO_BlackConcrete.description>Concreto bruto. Com um pouco mais de trabalho, o concreto ganha uma tonalidade mais escura.</MAO_BlackConcrete.description>
+
 </LanguageData>

@@ -383,6 +383,13 @@
             <AEXP_Porcupine.label>porco-espinho</AEXP_Porcupine.label>
             <AEXP_Porcupine.labelPlural>porcos-espinhos</AEXP_Porcupine.labelPlural>
 
+    <!-- VFE - Mechanoids : Add-On -->
+        <!-- Mender -->
+            <MAO_Mechanoids_Mender.label>médico automático</MAO_Mechanoids_Mender.label>
+
+        <!-- Assembler -->
+            <MAO_Mechanoids_Assembler.label>construtor automático</MAO_Mechanoids_Assembler.label>
+
     <!-- Zombieland -->
         <!-- Zombie -->
             <Zombie.label>zumbi</Zombie.label>

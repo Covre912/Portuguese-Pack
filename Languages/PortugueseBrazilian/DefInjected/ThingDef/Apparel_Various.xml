@@ -60,6 +60,11 @@
             <Apparel_GreatDress.label>vestido</Apparel_GreatDress.label>
             <Apparel_GreatDress.description>Um vestido lindo, geralmente usado por senhoras e sufragistas. Aumenta muito o impacto social.</Apparel_GreatDress.description>
 
+    <!-- VFE - Mechanoids : Unoffical Add-On -->
+        <!-- Mechanite Under Armor -->
+            <MAO_MechaniteUnderArmor.label>armadura de mecanita</MAO_MechaniteUnderArmor.label>
+            <MAO_MechaniteUnderArmor.description>Uma armadura de malha com infusão de nanitos perplexamente fina e durável. Nanitos incorporados otimizam o trato digestivo do usuário, suprimindo sua fome. É teorizado que os soldados há muito esquecidos usavam essa armadura para sustentar mais facilmente tiroteios de longo prazo sem a necessidade de comer.</MAO_MechaniteUnderArmor.description>
+
     <!-- Zombieland -->
         <!-- Bomb Vest -->
             <Apparel_BombVest.label>colete bomba</Apparel_BombVest.label>
