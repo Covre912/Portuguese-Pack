@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Psychology (unofficial 1.1/1.2) -->
+        <!-- Election -->
+            <Election.label>eleição</Election.label>
+
     <!-- Vanilla Animals Expanded - Endangered -->
         <!-- Extinct Animals -->
             <AEXP_ExtintAnimalsPasses.label>animais em extinção</AEXP_ExtintAnimalsPasses.label>

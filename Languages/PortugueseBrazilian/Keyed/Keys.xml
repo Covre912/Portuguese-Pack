@@ -867,6 +867,265 @@
             <explanationRToggle>Reativar o requerimento de joias por nobres.</explanationRToggle>
             <shouldJewelryNeed>Personagens nobres requerem joias.</shouldJewelryNeed>
 
+    <!-- Psychology (unofficial 1.1/1.2) -->
+        <!-- Alerts -->     
+            <Individuality>Roupas combinando</Individuality>
+            <IndividualityDesc>Esses colonos estão vestindo exatamente a mesma roupa, o que está deixando eles tristes:\n\n{0}\nDê a eles ao menos uma coisa para vestir que não seja do mesmo tipo, material, ou cor que o resto, ou retire algo deles.</IndividualityDesc>
+
+        <!-- Short Talk -->
+            <NumberOfShortTalks>10</NumberOfShortTalks>
+            <ShortTalk1>{INITIATOR_labelShort} teve uma breve conversa com {RECIPIENT_labelShort} sobre {0}.</ShortTalk1>
+            <ShortTalk2>{INITIATOR_labelShort} teve uma conversa curta com {RECIPIENT_labelShort} sobre {0}.</ShortTalk2>
+            <ShortTalk3>{INITIATOR_labelShort} teve uma conversa curta com {RECIPIENT_labelShort} sobre {0}.</ShortTalk3>
+            <ShortTalk4>{INITIATOR_labelShort} rapidamente discutiu sobre {0} com {RECIPIENT_labelShort}.</ShortTalk4>
+            <ShortTalk5>{INITIATOR_labelShort} conversou rapidamente sobre {0} com {RECIPIENT_labelShort}.</ShortTalk5>
+            <ShortTalk6>{INITIATOR_labelShort} falou sobre {0} com {RECIPIENT_labelShort} enquanto estava de passagem.</ShortTalk6>
+            <ShortTalk7>{INITIATOR_labelShort} comentou animadamente sobre {0} com {RECIPIENT_labelShort}.</ShortTalk7>
+            <ShortTalk8>{INITIATOR_labelShort} comentou sobre {0} com {RECIPIENT_labelShort}.</ShortTalk8>
+            <ShortTalk9>{INITIATOR_labelShort} trocou palavras com {RECIPIENT_labelShort} sobre {0} momentaneamente.</ShortTalk9>
+            <ShortTalk10>{INITIATOR_labelShort} teve uma breve conversa com {RECIPIENT_labelShort} sobre {0}.</ShortTalk10>
+
+        <!-- Normal Talk -->
+            <NumberOfNormalTalks>12</NumberOfNormalTalks>
+            <NormalTalk1>{INITIATOR_labelShort} falou sobre {0} com {RECIPIENT_labelShort}.</NormalTalk1>
+            <NormalTalk2>{INITIATOR_labelShort} teve uma conversa sobre {0} com {RECIPIENT_labelShort}.</NormalTalk2>
+            <NormalTalk3>{INITIATOR_labelShort} discutiu sobre {0} com {RECIPIENT_labelShort}.</NormalTalk3>
+            <NormalTalk4>{INITIATOR_labelShort} comparou pensamentos de {0} com {RECIPIENT_labelShort}.</NormalTalk4>
+            <NormalTalk5>{INITIATOR_labelShort} conversou com {RECIPIENT_labelShort} sobre {0}.</NormalTalk5>
+            <NormalTalk6>{INITIATOR_labelShort} conversou com {RECIPIENT_labelShort} sobre {0}.</NormalTalk6>
+            <NormalTalk7>{INITIATOR_labelShort} teve uma discussão com {RECIPIENT_labelShort} sobre {0}.</NormalTalk7>
+            <NormalTalk8>{INITIATOR_labelShort} aprendeu sobre as opiniões de {RECIPIENT_labelShort} quanto a {0}.</NormalTalk8>
+            <NormalTalk9>{INITIATOR_labelShort} compartilhou pensamentos sobre {0} com {RECIPIENT_labelShort}.</NormalTalk9>
+            <NormalTalk10>{INITIATOR_labelShort} aprendeu sobre os pensamentos de {RECIPIENT_labelShort} quanto a {0}.</NormalTalk10>
+            <NormalTalk11>{INITIATOR_labelShort} argumentou sobre {0} com {RECIPIENT_labelShort}.</NormalTalk11>
+            <NormalTalk12>{INITIATOR_labelShort} consultou com {RECIPIENT_labelShort} sobre {0}.</NormalTalk12>
+
+        <!-- Long Talk -->
+            <NumberOfLongTalks>8</NumberOfLongTalks>
+            <LongTalk1>{INITIATOR_labelShort} discutiu sobre {0} longamente com {RECIPIENT_labelShort}.</LongTalk1>
+            <LongTalk2>{INITIATOR_labelShort} teve uma longa conversa sobre {0} com {RECIPIENT_labelShort}.</LongTalk2>
+            <LongTalk3>{INITIATOR_labelShort} falou com {RECIPIENT_labelShort} sobre {0} por algum tempo.</LongTalk3>
+            <LongTalk4>{INITIATOR_labelShort} discutiu rigorosamente sobre {0} com {RECIPIENT_labelShort}.</LongTalk4>
+            <LongTalk5>{INITIATOR_labelShort} consultou extensivamente sobre {0} com {RECIPIENT_labelShort}.</LongTalk5>
+            <LongTalk6>{INITIATOR_labelShort} aprendeu muito sobre os sentimentos de {RECIPIENT_labelShort} sobre {0}.</LongTalk6>
+            <LongTalk7>{INITIATOR_labelShort} compartilhou profundos pensamentos sobre {0} com {RECIPIENT_labelShort}.</LongTalk7>
+            <LongTalk8>{INITIATOR_labelShort} teve um longo debate sobre {0} com {RECIPIENT_labelShort}.</LongTalk8>
+
+        <!-- Epic Talk -->
+            <NumberOfEpicTalks>6</NumberOfEpicTalks>
+            <EpicTalk1>{INITIATOR_labelShort} conferiu com {1_nameDef} por horas sobre {0}.</EpicTalk1>
+            <EpicTalk2>{INITIATOR_labelShort} conversou por horas a fio com {RECIPIENT_labelShort} sobre {0}.</EpicTalk2>
+            <EpicTalk3>{INITIATOR_labelShort} teve uma conversa extremamente longa sobre {0} com {RECIPIENT_labelShort}.</EpicTalk3>
+            <EpicTalk4>{INITIATOR_labelShort} debateu por muito tempo com {RECIPIENT_labelShort} sobre {0}.</EpicTalk4>
+            <EpicTalk5>{INITIATOR_labelShort} teve um vai-e-vem muito longo sobre {0} com {RECIPIENT_labelShort}.</EpicTalk5>
+            <EpicTalk6>{INITIATOR_labelShort} desabafou sobre {0} com {RECIPIENT_labelShort} por horas.</EpicTalk6>
+
+        <!-- Conversation -->
+            <ConversationAnd>, e </ConversationAnd>
+
+        <!-- Letter -->
+            <LetterLabelNewElection>Eleição sendo realizada em {0}</LetterLabelNewElection>
+            <LetterNewElection>Uma eleição para prefeito está sendo realizada em {0}. Alguns colonos anunciaram sua candidatura.</LetterNewElection>
+            <LetterLabelElectionHeld>Eleições em andamento em {0}</LetterLabelElectionHeld>
+            <LetterElectionHeld>A eleição em {0} agora está em andamento. A colônia selecionou um local de votação entre os pontos de encontro disponíveis e os colonos irão até lá para votar.</LetterElectionHeld>
+            <LetterLabelElectionCandidate>Candidato: {0_labelShort}</LetterLabelElectionCandidate>
+            <LetterElectionCandidate>{0_labelShort} está concorrendo a prefeito de {1}. Essa é a sua base:\n{2}</LetterElectionCandidate>
+            <LetterLabelTieSettled>Empate eleitoral resolvido em favor de {0_labelShort}</LetterLabelTieSettled>
+            <LetterTieSettled>A eleição para prefeito resultou em um empate, e depois de uma verdadeira disputa de batalha, {0} foi o único disposto a continuar discutindo sobre isso. Os outros candidatos se retiraram, deixando {0_pronoun} como o vencedor.</LetterTieSettled>
+            <LetterLabelElectionWon>Eleição vencida por {0_labelShort}</LetterLabelElectionWon>
+            <LetterElectionWon>{0_labelShort} venceu a eleição para prefeito em {1}. {0_pronoun} recebeu {2} votos.\n\nComo um lembrete, essas eram as suas bases:\n{3}\n\n{0_pronoun} agora irá receber vistas de seus constituintes na sua sala se {0_pronoun} tiver uma. Se eles tiverem reclamações, provavelmente se sentirão melhor depois de falar com {0_objective} se {0_pronoun} for bom em falar com pessoas e em entender seus sentimentos. Ter uma bela sala para reuniões não vai machucar entretanto.\n\nMantenha a atenção em {0_objective}; {0_pronoun} não tem com quem reclamar, e suportar os fardos de uma colônia inteira pode ser difícil, especialmente se as coisas estiverem indo mal.</LetterElectionWon>
+            <LetterLabelFuneralPlanned>Funeral planejado para {0}</LetterLabelFuneralPlanned>
+            <LetterFuneralPlanned>{0_labelShort} planejou um funeral para {1_labelShort}. O serviço será realizado no {2}, às {3}h.</LetterFuneralPlanned>
+            <LetterLabelFuneralStarted>Serviço fúnebre realizado por {0}</LetterLabelFuneralStarted>
+            <LetterFuneralStarted>O funeral de {0_labelShort} está em andamento. Seus colonos podem ou não comparecer, dependendo de seu relacionamento com {0}.</LetterFuneralStarted>
+            <LetterLabelFuneralEnded>Funeral ended</LetterLabelFuneralEnded>
+            <LetterFuneralEnded>O funeral para {0_labelShort} terminou.\n\nAs seguientes pessoas compareceram:\n{1}</LetterFuneralEnded>
+            <LetterLabelPTSD>Trauma de estresse</LetterLabelPTSD>
+            <LetterPTSD>{0_labelShort} desenvolveu ansiedade pós-traumática como resultado de um colapso mental. A ansiedade é uma condição permanente, mas pode ser tratada para reduzir lentamente sua gravidade a um nível administrável e permitir que viva normalmente. Quaiquer outros colapsos mentais irão piorar a sua ansiedade.\n\nHá rumores de que médicos do Glitterworld curam doenças mentais como a ansiedade em seus pacientes. Se você colocar as mãos em algum medicamento ultratecnológico, um médico extremamente habilidoso poderá usá-lo para curar a ansiedade de {0_labelShort}.</LetterPTSD>
+            <LetterLabelDatePlanned>Date</LetterLabelDatePlanned>
+            <LetterDatePlanned>{0_labelShort} planejou um encontro com {1_labelShort} para {2} às {3}.\n\nEncontros podem ser cancelados por vários motivos, principalmente se um dos colonos for designado para um trabalho, se forem convocados, incapacitados de alguma forma por ferimentos ou por negócios urgentes na colônia.\n\nSe um encontro for cancelado, ambos colonos irão ficar tristes. Colonos também podem perder encontros se dormirem durante eles. Isso fará com o que o outro colono fique chateado com eles, todavia não irá causar um pensamento negativo.</LetterDatePlanned>
+            <LetterRejectedProposalPsychology>Dependendo de suas personalidades, seu humor e sua relação serão afetados.</LetterRejectedProposalPsychology>
+
+        <!-- Messages -->
+            <TreatedTrait>A {1} de {0_labelShort} foi tratada com sucesso.</TreatedTrait>
+            <MessageElectionCalledOff>A eleição em {0} foi cancelada devido às condições do local de votação.</MessageElectionCalledOff>
+            <MessageElectionCancelled>A eleição em {0} foi cancelada porque não havia locais de votação adequados.</MessageElectionCancelled>
+            <MessageFuneralCalledOff>O funeral foi cancelado devido às condições da colônia.</MessageFuneralCalledOff>
+
+        <!-- Mayor -->
+            <MayorTitle>prefeito</MayorTitle>
+
+        <!-- Lord Job Reports -->
+            <LordReportAttendingElection>Visitando o local de votação</LordReportAttendingElection>
+            <LordReportVisitingMayor>Participando da reunião</LordReportVisitingMayor>
+            <LordReportHangingOut>Saindo com alguém</LordReportHangingOut>
+            <LordReportDate>Em um encontro</LordReportDate>
+            <LordReportAttendingFuneral>Partipando de um funeral</LordReportAttendingFuneral>
+
+        <!-- Miscellaneous Thought Log Text -->
+            <ConversationStage>conversa sobre</ConversationStage>
+            <ConversationEnd>[INITIATOR_nameDef] encerrou uma conversa com [RECIPIENT_nameDef].</ConversationEnd>
+            <ConversationEnded>encerrou a conversa</ConversationEnded>
+            <Complained>{0_labelShort} reclamou com o prefeito, {1_labelShort}.</Complained>
+            <Supported>{0_labelShort} expressou seu apoio ao prefeito, {1_labelShort}.</Supported>
+
+        <!-- Node Descriptions -->
+            <PsycheNot>nada</PsycheNot>
+            <PsycheSlightly>um pouco</PsycheSlightly>
+            <PsycheLess>menos</PsycheLess>
+            <PsycheMore>mais</PsycheMore>
+            <PsycheVery>muito</PsycheVery>
+            <PsycheExtremely>extremamente</PsycheExtremely>
+            <ConversationTooltip>As pessoas vão falar sobre {0} para discutir isso um com o outro.</ConversationTooltip>
+
+        <!-- Comp Text -->
+            <CommandOfficeTableToggleLabel>Escritório do prefeito</CommandOfficeTableToggleLabel>
+            <CommandOfficeTableToggleDescActive>Essa sala é designada como o escritório do seu prefeito. Se você tiver um prefeito, os colonos farão reuniões aqui.</CommandOfficeTableToggleDescActive>
+            <CommandOfficeTableToggleDescInactive>Você pode designar esta sala para ser usada como escritório do seu prefeito, se tiver um. Você só pode possuir um escritório.</CommandOfficeTableToggleDescInactive>
+
+        <!-- Errors -->
+            <KinseyDisable>Desativando a escala de Kinsey devido à detecção de um mod de romance / sexualidade.</KinseyDisable>
+            <KinseyDetourDisable>O desvio de métodos vitais para a funcionalidade de algumas características foi desativado para proteger a compatibilidade. Definindo a comunalidade dessas características para zero.</KinseyDetourDisable>
+            <MedicalDetourDisable>Desativando o desvio de métodos médicos devido à detecção de um módulo médico / cirúrgico de montagem. Isso removerá algumas funcionalidades de colonos de coração mole, a menos que o mod em questão seja uma cirurgia menos arbitrária.</MedicalDetourDisable>
+            <DuplicateDefLabel>PersonalityNodeDef label duplicada em {0}. Por favor, relate isso para que a tradução possa ser corrigida.</DuplicateDefLabel>
+
+        <!-- Settings -->
+            <EmpathyChangesTitle>Habilitar mudanças de empatia</EmpathyChangesTitle>
+            <EmpathyChangesTooltip>Desligue isto para restaurar as reações dos colonos a coisas ruins que acontecem a outras pessoas ao modo normal. Isso aumentará a dificuldade; Os colonos de coração mole não serão afetados. Reinicie o jogo depois de desabilitar isso.</EmpathyChangesTooltip>
+            <SexualityChangesTitle>Habilitar mudanças de sexualidade</SexualityChangesTitle>
+            <SexualityChangesTooltip>Desligue isto para desabilitar a escala de Kinsey nos colonos e reabilitar o traço Gay. NÃO mude isso durante o jogo e reinicie o jogo depois de alternar isso.</SexualityChangesTooltip>
+            <KinseyModeTitle>Fórmula da escala de Kinsey</KinseyModeTitle>
+            <KinseyModeTooltip>Esta configuração determina qual fórmula é usada para ponderar a escala de Kinsey quando os colonos são gerados.</KinseyModeTooltip>
+            <KinseyMode_Realistic>Padrão</KinseyMode_Realistic>
+            <KinseyMode_Invisible>Centro</KinseyMode_Invisible>
+            <KinseyMode_Gaypocalypse>Invertido</KinseyMode_Gaypocalypse>
+            <KinseyMode_Uniform>Uniforme</KinseyMode_Uniform>
+            <IndividualityTitle>Habilitar pensamentos individuais</IndividualityTitle>
+            <IndividualityTooltip>Desligue isto para desativar o pensamento negativo que seus colonos terão se estiverem usando roupas que combinam perfeitamente com outros colonos. Esse pensamento adiciona dificuldade extra, por isso é opcional, mas recomendado.</IndividualityTooltip>
+            <ElectionsTitle>Habilitar eleições</ElectionsTitle>
+            <ElectionsTooltip>Desligue isso para evitar que seus colonos tenham eleições anuais. Isso não impedirá uma eleição em andamento e qualquer prefeito existente será revertido para um colono normal. Isso não afetará a compatibilidade com outros mods.</ElectionsTooltip>
+            <DurationTitle>Duração das conversas</DurationTitle>
+            <DurationTooltip>Defina por quanto tempo as pessoas se lembrarão das conversas. O padrão é 60 dias, ou seja, um ano. O mínimo é de 15 dias, ou uma estação, até o máximo de 180 dias ou três anos. Configurá-lo para baixo tornará as interações dos colonos entre si mais momentâneas, e configurá-lo mais alto as tornará mais duradouras.</DurationTooltip>
+            <SendDateLettersTitle>Enviar notificação de encontros</SendDateLettersTitle>
+            <SendDateLettersTooltip>Desligue para desativar o recebimento de notificações quando seus colonos planejam um encontro.</SendDateLettersTooltip>
+            <BenchmarkingTitle>Habilitar testes de desempenho</BenchmarkingTitle>
+            <BenchmarkingTooltip>Ative para receber relatórios de desempenho ocasionais no console relacionados a sistemas da Psicologia. Você pode copiar e colar esses relatórios para auxiliar na otimização do mod. AVISO: o teste de desempenho vem com seu próprio impacto no desempenho.\n\nAtivar isso irá reiniciar seu jogo.</BenchmarkingTooltip>
+            <ImprisonedTitle>Penalidade de recrutamento de prisioneiro</ImprisonedTitle>
+            <ImprisonedTooltip>Habilite/desabilite a penalidade de opinião negativa para prisioneiros recrutados (-40 Facção me aprisionou).</ImprisonedTooltip>
+            <RomanceMultiplierTitle>Multiplicador de chance de romance</RomanceMultiplierTitle>
+            <RomanceMultiplierTooltip>A chance de romance será multiplicada por este valor.</RomanceMultiplierTooltip>
+            <RomanceChanceThresholdTitle>Opinião mínima para romance</RomanceChanceThresholdTitle>
+            <RomanceChanceThresholdTooltip>Opinião mínima que um colono deve ter de outro colono para ter uma queda por ele(a).</RomanceChanceThresholdTooltip>
+            <MayorAgeTitle>Idade do prefeito</MayorAgeTitle>
+            <MayorAgeTooltip>Idade necessária para que alguém possa ser prefeito.</MayorAgeTooltip>
+            <AllowAnxietyTitle>Permitir ansiedade pós-surto mental</AllowAnxietyTitle>
+            <AllowAnxietyTooltip>Permite que os colonos desenvolvam ansiedade após um colapso mental (a chance depende da psique do colono e da severidade dos colapsos mentais). Note que você ainda poderá vê-la como uma doença aleatória.</AllowAnxietyTooltip>
+
+        <!-- Paranoid Rambling -->
+            <ParanoidRambling1>Seus idiotas malditos! Estamos condenados!</ParanoidRambling1>
+            <ParanoidRambling2>Eles estão vindo! Eles vão nos destruir!</ParanoidRambling2>
+            <ParanoidRambling3>Este lugar está amaldiçoado!</ParanoidRambling3>
+            <ParanoidRambling4>Nós todos vamos morrer!</ParanoidRambling4>
+            <ParanoidRambling5>Amaldiçoado seja esse lugar!</ParanoidRambling5>
+            <ParanoidRambling6>Nossas velhas vidas se foram. Somos sombras dos mortos!</ParanoidRambling6>
+            <ParanoidRambling7>Este lugar miserável será nosso túmulo!</ParanoidRambling7>
+            <ParanoidRambling8>Quanto mais cedo morrermos, mais cedo terminará o sofrimento!</ParanoidRambling8>
+            <ParanoidRambling9>Seus tlos! Vocês são marionetes em cordas!</ParanoidRambling9>
+            <ParanoidRambling10>Você não pode ver? Somos apenas meros brinquedos!</ParanoidRambling10>
+            <ParanoidRambling11>Eles riem do nosso tormento! Eles gargalham!</ParanoidRambling11>
+            <ParanoidRambling12>Você está feliz agora? Nós todos vamos morrer!</ParanoidRambling12>
+            <ParanoidRambling13>Você está a um passo do esquecimento!</ParanoidRambling13>
+            <ParanoidRambling14>O pior está por vir! Não estamos preparados!</ParanoidRambling14>
+            <ParanoidRambling15>Tudo que fazemos é inútil! Estamos perdendo nosso tempo!</ParanoidRambling15>
+            <ParanoidRambling16>Porque estamos aqui? Só para sofrer?</ParanoidRambling16>
+            <ParanoidRambling17>Nossas mentes não são nossas!</ParanoidRambling17>
+            <ParanoidRambling18>Sua tolice condenou a todos nós!</ParanoidRambling18>
+            <ParanoidRambling19>Corra enquanto ainda pode!</ParanoidRambling19>
+            <ParanoidRambling20>Este maldito buraco dos infernos será nosso túmulo!</ParanoidRambling20>
+            <ParanoidRambling21>Somos meros peões nas mãos do destino!</ParanoidRambling21>
+            <ParanoidRambling22>Eu estou perdendo meu tempo. Vocês estão todos cegos e surdos!</ParanoidRambling22>
+            <ParanoidRambling23>Isso nunca vai ficar melhor! Nunca seremos salvos!</ParanoidRambling23>
+            <ParanoidRambling24>Nunca fomos mais sozinhos e indesejados!</ParanoidRambling24>
+            <ParanoidRambling25>Nós trabalhamos, nós adoecemos, nós morremos e para quê?</ParanoidRambling25>
+            <ParanoidRambling26>Qualquer um de vocês pode morrer a qualquer momento!</ParanoidRambling26>
+            <ParanoidRambling27>Estaremos melhores mortos!</ParanoidRambling27>
+            <ParanoidRambling28>Isso é apenas um sonho, ainda podemos acordar!</ParanoidRambling28>
+            <ParanoidRambling29>Cada momento que você respira prolonga a agonia!</ParanoidRambling29>
+            <ParanoidRambling30>Se alguém estivesse cuidando de nós, estaríamos em uma situação tão terrível?</ParanoidRambling30>
+            <ParanoidRambling31>A consciência é uma ferida repulsiva!</ParanoidRambling31>
+            <ParanoidRambling32>Eles nos deixam loucos! Fazem nós comermos uns aos outros!</ParanoidRambling32>
+            <ParanoidRambling33>Eles querem nos manter presos aqui como animais!</ParanoidRambling33>
+
+        <!-- Fell Murmuring -->
+            <FellMurmuring1>É sua culpa...</FellMurmuring1>
+            <FellMurmuring2>Isso é tudo sua culpa...</FellMurmuring2>
+            <FellMurmuring3>Eu não posso deixar que {0_pronoun} saia impune...</FellMurmuring3>
+            <FellMurmuring4>{0_pronoun} pensa que é inteligente, {0_pronoun} realmente é?</FellMurmuring4>
+            <FellMurmuring5>Eu vou para mostrar para {0_objective}...</FellMurmuring5>
+            <FellMurmuring6>Traidores... sabotadores... conspiradores...</FellMurmuring6>
+            <FellMurmuring7>{0_pronoun} zomba de mim...</FellMurmuring7>
+            <FellMurmuring8>Como você ousa...</FellMurmuring8>
+            <FellMurmuring9>{0_pronoun} acha que eu não notei?</FellMurmuring9>
+            <FellMurmuring10>Eu preciso fazer isso eu mesmo... não posso confiar em ninguém.</FellMurmuring10>
+            <FellMurmuring11>Para o bem de todos nós ...</FellMurmuring11>
+            <FellMurmuring12>Eu vou resolver este problema eu mesmo...</FellMurmuring12>
+            <FellMurmuring13>Murmurando</FellMurmuring13>
+            <FellMurmuring14>Rosnando</FellMurmuring14>
+            <FellMurmuring15>Sibilando</FellMurmuring15>
+            <FellMurmuring16>Murmuando</FellMurmuring16>
+            <FellMurmuring17>Murmúrio incompreensível</FellMurmuring17>
+            <FellMurmuring18>Idiota!</FellMurmuring18>
+            <FellMurmuring19>Demônio!</FellMurmuring19>
+            <FellMurmuring20>Abutre!</FellMurmuring20>
+            <FellMurmuring21>Monstro!</FellMurmuring21>
+            <FellMurmuring22>Mentiroso!</FellMurmuring22>
+            <FellMurmuring23>Atrás de mim... sempre atrás de mim...</FellMurmuring23>
+            <FellMurmuring24>A fonte de todos os nossos problemas...</FellMurmuring24>
+            <FellMurmuring25>{0_pronoun} nunca verá isso chegando...</FellMurmuring25>
+            <FellMurmuring26>Vou planejar tudo...</FellMurmuring26>
+            <FellMurmuring27>Eu vou pensar em tudo..</FellMurmuring27>
+            <FellMurmuring28>Eu vou pensar até o tempo certo...</FellMurmuring28>
+            <FellMurmuring29>Eu vou curar este lugar dessa praga!</FellMurmuring29>
+            <FellMurmuring30>Se ninguém mais fizer isso, eu vou.</FellMurmuring30>
+            <FellMurmuring31>Nenhum deles vê isso... eles são todos tão cegos...</FellMurmuring31>
+            <FellMurmuring32>Eu posso fazer isso... Eu preciso fazer isso...</FellMurmuring32>
+            <FellMurmuring33>Mesmo agora, {0_pronoun} ri de mim...</FellMurmuring33>
+            <FellMurmuring34>{0_objective} serve para isso...</FellMurmuring34>
+            <FellMurmuring35>{0_pronoun} será a minha morte...</FellMurmuring35>
+            <FellMurmuring36>Eu deveria ter feito isso há muito tempo...</FellMurmuring36>
+
+        <!-- Complaint -->
+            <ComplaintLabel>reclamou com o prefeito</ComplaintLabel>
+            <ComplaintDesc>Reclamar com o prefeito me fez sentir assim.</ComplaintDesc>
+
+        <!-- Visit -->
+            <VisitLabel>visitado por um constituinte</VisitLabel>
+            <VisitDesc>A visita de um constituinte me fez sentir desse jeito.</VisitDesc>
+
+        <!-- Funeral -->
+            <AttendedFuneralThought>compareceu ao funeral de {0}</AttendedFuneralThought>
+            <AttendedFuneralDesc>Eu ainda não consigo acreditar na morte de {0_pronoun} mas... eu estou mais em paz com isso após seu funeral.</AttendedFuneralDesc>
+
+        <!-- WITab titles -->
+            <TabPsyche>Psique</TabPsyche>
+
+        <!-- WITab text -->
+            <SexualityDisabledWarning>O sistema de sexualidade do psychology está desativado, por você ou pela presença de um mod conflitante em sua lista de mods. Desative todos os outros mods que alteram a sexualidade ou a interação de colonos.</SexualityDisabledWarning>
+            <Sexuality>Sexualidade</Sexuality>
+            <KinseyRating>Escala de Kinsey:</KinseyRating>
+            <Asexual>Assexual</Asexual>
+            <AsexualDescription>Este colono tem um desejo sexual muito baixo. Ele não sente muita atração sexual e é improvável que se envolva em qualquer coisa íntima.</AsexualDescription>
+            <Aromantic>Arromântico</Aromantic>
+            <AromanticDescription>Este colono tem um desejo romântico muito baixo. É improvável que faça tentativas de romance ou aceite propostas de casamento, mas ainda assim pode ter amantes.</AromanticDescription>
+
+        <!-- Dialog Text -->
+            <EditPsyche>Edição de Dev</EditPsyche>
+            <PsycheEditor>Modificar a psique de {PAWN_labelShort}:</PsycheEditor>
+            <PsycheEditorNewColonist>Modificando a psique do colono:</PsycheEditorNewColonist>
+            <PersonalityNodeWarning>Você está editando os valores brutos da personalidade de um colono. As estatísticas reais serão ajustadas por outros fatores.</PersonalityNodeWarning>
+            <SexDrive>Desejo sexual:</SexDrive>
+            <RomanticDrive>Desejo romântico:</RomanticDrive>
+
     <!-- RimHUD -->
         <!-- Base -->
             <RimHUD.Language.AdjectiveNounOrder>{1} {0}</RimHUD.Language.AdjectiveNounOrder>

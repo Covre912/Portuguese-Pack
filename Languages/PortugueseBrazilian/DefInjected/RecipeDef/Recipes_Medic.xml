@@ -162,6 +162,37 @@
 	        <CureInjuryBruiseAnimal.description>Cure um hematoma.</CureInjuryBruiseAnimal.description>
 	        <CureInjuryBruiseAnimal.jobString>Curando hematoma.</CureInjuryBruiseAnimal.jobString>
 
+	<!-- Psychology (unofficial 1.1/1.2) -->
+		<!-- Pyromania -->
+	  		<TreatPyromania.label>tratar piromania</TreatPyromania.label>
+  			<TreatPyromania.description>Ajuda a recuperar um piromaníaco.</TreatPyromania.description>
+  			<TreatPyromania.jobString>Tratando de piromaníaco.</TreatPyromania.jobString>
+
+		<!-- Chemical Interest -->
+  			<TreatChemicalInterest.label>tratar interesse químico</TreatChemicalInterest.label>
+  			<TreatChemicalInterest.description>Ajuda alguém com um interesse químico a ficar livre de drogas.</TreatChemicalInterest.description>
+  			<TreatChemicalInterest.jobString>Tratando interesse químico.</TreatChemicalInterest.jobString>
+
+		<!-- Chimical Fascination -->
+  			<TreatChemicalFascination.label>tratar fascinação química</TreatChemicalFascination.label>
+  			<TreatChemicalFascination.description>Ajuda alguém com fascínio químico a ficar livre de drogas.</TreatChemicalFascination.description>
+  			<TreatChemicalFascination.jobString>Tratando a fascinação química.</TreatChemicalFascination.jobString>
+
+		<!-- Depression -->
+  			<TreatDepression.label>tratar depressão</TreatDepression.label>
+  			<TreatDepression.description>Ajuda alguém com depressão a controlar seu humor.</TreatDepression.description>
+  			<TreatDepression.jobString>Tratando depressão.</TreatDepression.jobString>
+
+		<!-- Insomnia -->
+  			<TreatInsomnia.label>tratar insônia</TreatInsomnia.label>
+  			<TreatInsomnia.description>Ajuda alguém com insônia a dormir mais profundamente.</TreatInsomnia.description>
+  			<TreatInsomnia.jobString>Tratando insônia.</TreatInsomnia.jobString>
+
+		<!-- Anxiety -->
+ 		 	<CureAnxiety.label>curar ansiedade</CureAnxiety.label>
+ 		 	<CureAnxiety.description>Remove permanentemente a ansiedade por meio de terapias dos mundos brilhantes.</CureAnxiety.description>
+  			<CureAnxiety.jobString>Curando ansiedade.</CureAnxiety.jobString>
+
 	<!-- Zombieland -->
 		<!-- Zombie Infection -->
 	  		<CureZombieInfection.label>curar infecção zumbi</CureZombieInfection.label>

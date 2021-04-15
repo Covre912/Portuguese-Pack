@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Psychology (unofficial 1.1/1.2) -->
+        <!-- Election -->
+            <Election.label>eleição</Election.label>
+            <Election.description>Uma eleição está em andamento. A votação ocorrerá quando os colonos tiverem tempo de se familiarizar com os candidatos.</Election.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Ice Age -->
             <IceAge.label>Era do Gelo</IceAge.label>

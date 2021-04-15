@@ -310,6 +310,75 @@
             <FT_Endurance.degreeDatas.1.label>muito duradouro</FT_Endurance.degreeDatas.1.label>
             <FT_Endurance.degreeDatas.1.description>[PAWN_nameDef] tem saúde excepcional e uma personalidade muito duradoura. [PAWN_pronoun] é capaz de lidar com situações de alto estresse que outros não podem.</FT_Endurance.degreeDatas.1.description>
 
+    <!-- Psychology (unofficial 1.1/1.2) -->
+        <!-- Prude -->
+            <Prude.degreeDatas.0.label>puritano</Prude.degreeDatas.0.label>
+            <Prude.degreeDatas.0.description>[PAWN_nameDef] odeia a visão do corpo humano. [PAWN_pronoun] irá ficar extremamente infeliz pelad[PAWN_gender ? o : a], mais descontente do que o normal com roupas esfarrapadas ou surradas e não gosta de ver outras pessoas nuas.</Prude.degreeDatas.0.description>
+
+        <!-- Insomniac -->
+            <Insomniac.degreeDatas.0.label>insônico</Insomniac.degreeDatas.0.label>
+            <Insomniac.degreeDatas.0.description>[PAWN_nameDef] acha difícil dormir por causa de sua condição. [PAWN_pronoun] irá priorizar dormir menos, acordar mais cedo e ter menos descanso durante o sono.</Insomniac.degreeDatas.0.description>
+
+        <!-- Bleeding Heart -->
+            <BleedingHeart.degreeDatas.0.label>coração mole</BleedingHeart.degreeDatas.0.label>
+            <BleedingHeart.degreeDatas.0.description>[PAWN_nameDef] tem um grande coração e é muito emocional. [PAWN_pronoun] ama ajudar as pessoas, abominando a violência e a injustiça. [PAWN_pronoun] é mais afetado por essas coisas do que os outros.</BleedingHeart.degreeDatas.0.description>
+
+        <!-- Gourmet -->
+            <Gourmet.degreeDatas.0.label>gourmet</Gourmet.degreeDatas.0.label>
+            <Gourmet.degreeDatas.0.description>[PAWN_nameDef] é sempre crític[PANW_gender ? o : a] quando se trata de comida. [PAWN_pronoun] espera ser bem alimentado e reclamará se suas refeições não forem adequadas.</Gourmet.degreeDatas.0.description>
+
+        <!-- Unstable -->
+            <Unstable.degreeDatas.0.label>instável</Unstable.degreeDatas.0.label>
+            <Unstable.degreeDatas.0.description>[PAWN_nameDef] é propenso[PAWN_gender ? o : a] a mudanças de humor aleatórias, que podem ser mais graves do que são para outras pessoas.</Unstable.degreeDatas.0.description>
+
+        <!-- Lecher -->
+            <Lecher.degreeDatas.0.label>libertino</Lecher.degreeDatas.0.label>
+            <Lecher.degreeDatas.0.description>[PAWN_nameDef] é descaradamente libertin[PAWN_gender ? o : a] e u[PAWN_gender ? m : ma] destruido[PAWN_gender ? r : ra] de corações imprudente. [PAWN_pronoun] irá dar em cima em qualquer um que [PAWN_pronoun] desejar sem levar em conta as consequências.</Lecher.degreeDatas.0.description>
+
+        <!-- Codependent -->
+            <Codependent.degreeDatas.0.label>codependente</Codependent.degreeDatas.0.label>
+            <Codependent.degreeDatas.0.description>[PAWN_nameDef] é romanticamente carente e não será feliz a menos que esteja em um relacionamento. [PAWN_pronoun] será devastad[PAWN_gender ? o : a] por infidelidades e separações.</Codependent.degreeDatas.0.description>
+
+        <!-- Outdoorsy -->
+            <Outdoorsy.degreeDatas.0.label>amante do ar livre</Outdoorsy.degreeDatas.0.label>
+            <Outdoorsy.degreeDatas.0.description>[PAWN_nameDef] ama o ar livre. [PAWN_pronoun] recebe  um bônus de humor quando não há teto sobre sua cabeça.</Outdoorsy.degreeDatas.0.description>
+
+        <!-- Pluviophile -->
+            <Pluviophile.degreeDatas.0.label>pluviófilo</Pluviophile.degreeDatas.0.label>
+            <Pluviophile.degreeDatas.0.description>[PAWN_nameDef] adora a chuva. [PAWN_pronoun] recebe um bônus de humor quando está chovendo fora, e ainda mais se [PAWN_pronoun] puder sair para a chuva.</Pluviophile.degreeDatas.0.description>
+
+        <!-- Photosensitive -->
+            <Photosensitive.degreeDatas.0.label>fotossensível</Photosensitive.degreeDatas.0.label>
+            <Photosensitive.degreeDatas.0.description>[PAWN_nameDef] tem olhos, seja por modificação genética ou mutação aleatória, que são extremamente sensíveis à luz. Para [PAWN_pronoun] a luz brilhante é extremamente dolorosa e a iluminação interna incômoda, [PAWN_pronoun] fica muito mais feliz no escuro.</Photosensitive.degreeDatas.0.description>
+
+        <!-- Socialite -->
+            <Socialite.degreeDatas.0.label>socialite</Socialite.degreeDatas.0.label>
+            <Socialite.degreeDatas.0.description>[PAWN_nameDef] ama festas! Sua mera presença inspira mais festas na colônia, isso porque todo mundo adora festejar com [PAWN_pronoun].</Socialite.degreeDatas.0.description>
+
+        <!-- Desensitizes -->
+            <Desensitized.degreeDatas.0.label>dessensibilizado</Desensitized.degreeDatas.0.label>
+            <Desensitized.degreeDatas.0.description>[PAWN_nameDef] já viu violência e morte o suficiente para não chocar-se mais como costumava fazer.</Desensitized.degreeDatas.0.description>
+
+        <!-- Heavy Sleeper -->
+            <HeavySleeper.degreeDatas.0.label>dorminhco profundo</HeavySleeper.degreeDatas.0.label>
+            <HeavySleeper.degreeDatas.0.description>[PAWN_nameDef] dorme como uma rocha, nunca se incomodando com as condições adversas para seu sono, todavia é mais é difícil de acorda-l[PAWN_gender ? o : a].</HeavySleeper.degreeDatas.0.description>
+
+        <!-- Polygamous -->
+            <Polygamous.degreeDatas.0.label>poliamoroso</Polygamous.degreeDatas.0.label>
+            <Polygamous.degreeDatas.0.description>[PAWN_nameDef] não vê nenhum problema em ter vários(as) parceiros(as). [PAWN_pronoun] não importa se seu cônjuge namorar outras pessoas, porém irá ficar descontente em um relacionamento restritivo e monogâmico.</Polygamous.degreeDatas.0.description>
+
+        <!-- Open Minded -->
+            <OpenMinded.degreeDatas.0.label>mente aberta</OpenMinded.degreeDatas.0.label>
+            <OpenMinded.degreeDatas.0.description>[PAWN_nameDef] vê as pessoas pelo que elas são por dentro, não por fora. [PAWN_pronoun] não julga os outros pela aparência.</OpenMinded.degreeDatas.0.description>
+
+        <!-- Sedentary -->
+            <Sedentary.degreeDatas.0.label>sedentário</Sedentary.degreeDatas.0.label>
+            <Sedentary.degreeDatas.0.description>[PAWN_nameDef] não é uma pessoa muito ativa. [PAWN_pronoun] não é muito capaz fisicamente, mas gosta de acomodar-se e trabalhar.</Sedentary.degreeDatas.0.description>
+
+        <!-- Chatty -->
+            <Chatty.degreeDatas.0.label>tagarela</Chatty.degreeDatas.0.label>
+            <Chatty.degreeDatas.0.description>[PAWN_nameDef] adorar falar, falar e falar. [PAWN_pronoun] tende a ter conversas mais longas do que a maioria, porque [PAWN_pronoun] não consegue acabar com elas.</Chatty.degreeDatas.0.description>
+
     <!-- Vanilla Fishing Expanded -->
         <!-- Fisherman -->
             <VCEF_Fisherman.degreeDatas.fisherman.label>pescador</VCEF_Fisherman.degreeDatas.fisherman.label>

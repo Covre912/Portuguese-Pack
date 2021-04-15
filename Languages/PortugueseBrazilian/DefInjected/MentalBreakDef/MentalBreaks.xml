@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Psychology (unofficial 1.1/1.2) -->
+        <!-- Catatonic -->
+            <PsychologyCatatonic_HeavySleeper.label>catatônico</PsychologyCatatonic_HeavySleeper.label>
+            <PsychologyCatatonic_Insomniac.label>catatônico</PsychologyCatatonic_Insomniac.label>
+
+        <!-- Run Wirld -->
+            <PsychologyRunWild_Outdoorsy.label>tornando-se selvagem</PsychologyRunWild_Outdoorsy.label>
+
+</LanguageData>

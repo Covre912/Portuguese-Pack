@@ -170,6 +170,11 @@
   			<Sapphire.label>safira</Sapphire.label>
   			<Sapphire.description>Essa gema azul é comumente utilizada como uma comidade de luxo. Pode ser usada para criar joias valiosas.</Sapphire.description>
 
+	<!-- Psychology (unofficial 1.1/1.2) -->
+		<!-- Methadone -->
+		    <Methadone.label>metadona</Methadone.label>
+   	 		<Methadone.description>Um opióide para tratar o vício. Evita que os usuários sofram os efeitos negativos da abstinência de outras drogas, exceto do luciferium. O vício causa redução no desempenho e ocasionais farras de drogas. Tome todos os dias. Interrompa o uso após o término da abstinência.</Methadone.description>
+
 	<!-- Vanilla Animals Expanded - Arid Shrubland -->
 		<!-- Crocodile Egg -->
 			<AEXP_EggCrocodileUnfertilized.label>ovo de crocodilo (não fert.)</AEXP_EggCrocodileUnfertilized.label>

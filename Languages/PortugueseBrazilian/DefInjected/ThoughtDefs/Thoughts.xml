@@ -123,6 +123,241 @@
             <WearingHQJewelry.stages.2.label>vestindo joia</WearingHQJewelry.stages.2.label>
             <WearingHQJewelry.stages.2.description>Eu estou vestindo uma joia de altíssima qualidade.</WearingHQJewelry.stages.2.description>
 
+    <!-- Psychology (unofficial 1.1/1.2) -->
+        <!-- Methadone -->
+            <MethadoneWithdrawal.stages.1.label>abstinência por metadona</MethadoneWithdrawal.stages.1.label>
+            <MethadoneWithdrawal.stages.1.description>Sinto-me tonto e enjoado.</MethadoneWithdrawal.stages.1.description>
+
+        <!-- Funeral -->
+            <AttendedFuneral.stages.0.label>compareceu a um funeral</AttendedFuneral.stages.0.label>
+            <AttendedFuneral.stages.0.description>Assisti ao funeral de um colono. Isso me fez sentir um pouco melhor.</AttendedFuneral.stages.0.description>
+
+        <!-- Bleeding Heart -->
+            <WitnessedDeathAllyBleedingHeart.stages.0.label>testemunhou a morte de aliado</WitnessedDeathAllyBleedingHeart.stages.0.label>
+            <WitnessedDeathAllyBleedingHeart.stages.0.description>Eu vi um dos meus morrer. Eu não posso acreditar que eles se foram. Eu nunca vou falar com eles novamente.</WitnessedDeathAllyBleedingHeart.stages.0.description>
+            <WitnessedDeathNonAllyBleedingHeart.stages.0.label>testemunhou a morte de alguém</WitnessedDeathNonAllyBleedingHeart.stages.0.label>
+            <WitnessedDeathNonAllyBleedingHeart.stages.0.description>Eu vi alguém morrer. Eu vi a luz em seus olhos apagando enquanto eles morriam.</WitnessedDeathNonAllyBleedingHeart.stages.0.description>
+            <KnowGuestExecutedBleedingHeart.stages.0.label>execução justificada</KnowGuestExecutedBleedingHeart.stages.0.label>
+            <KnowGuestExecutedBleedingHeart.stages.0.description>Um prisioneiro ou um hóspede culpado foi executado. Foi justificado, mas ainda não aguento a perda de vidas.</KnowGuestExecutedBleedingHeart.stages.0.description>
+            <KnowGuestExecutedBleedingHeart.stages.1.label>alguém foi eutanasiado</KnowGuestExecutedBleedingHeart.stages.1.label>
+            <KnowGuestExecutedBleedingHeart.stages.1.description>Um prisioneiro ou um hóspede foi eutanasiado. Foi humano, mas ainda assim doloroso.</KnowGuestExecutedBleedingHeart.stages.1.description>
+            <KnowGuestExecutedBleedingHeart.stages.2.label>alguém foi executado</KnowGuestExecutedBleedingHeart.stages.2.label>
+            <KnowGuestExecutedBleedingHeart.stages.2.description>Um prisioneiro ou um hóspede foi morto a sangue frio. Eu não posso acreditar nisso!</KnowGuestExecutedBleedingHeart.stages.2.description>
+            <KnowGuestExecutedBleedingHeart.stages.3.label>alguém foi morto por uma coleta de órgãos</KnowGuestExecutedBleedingHeart.stages.3.label>
+            <KnowGuestExecutedBleedingHeart.stages.3.description>Um prisioneiro ou um hóspede morreu porque a colônia tirou partes do corpo dele. Estou chocado!</KnowGuestExecutedBleedingHeart.stages.3.description>
+            <KnowColonistExecutedBleedingHeart.stages.0.label>execução justificada de um colono</KnowColonistExecutedBleedingHeart.stages.0.label>
+            <KnowColonistExecutedBleedingHeart.stages.0.description>Um colono culpado foi executado. Foi justificado, mas ainda não aguento a perda de vidas.</KnowColonistExecutedBleedingHeart.stages.0.description>
+            <KnowColonistExecutedBleedingHeart.stages.1.label>colono eutanasiado</KnowColonistExecutedBleedingHeart.stages.1.label>
+            <KnowColonistExecutedBleedingHeart.stages.1.description>Um colono foi eutanasiado. Foi humano, mas ainda assim doloroso.</KnowColonistExecutedBleedingHeart.stages.1.description>
+            <KnowColonistExecutedBleedingHeart.stages.2.label>colono executado</KnowColonistExecutedBleedingHeart.stages.2.label>
+            <KnowColonistExecutedBleedingHeart.stages.2.description>Um colono foi morto a sangue frio. Eu não posso acreditar nisso!!</KnowColonistExecutedBleedingHeart.stages.2.description>
+            <KnowColonistExecutedBleedingHeart.stages.3.label>colono morto por uma coleta de órgãos</KnowColonistExecutedBleedingHeart.stages.3.label>
+            <KnowColonistExecutedBleedingHeart.stages.3.description>Um colono morreu porque a colônia tirou partes do corpo dele. Estou chocado!</KnowColonistExecutedBleedingHeart.stages.3.description>
+            <KnowPrisonerDiedInnocentBleedingHeart.stages.0.label>prisioneiro inocente morreu</KnowPrisonerDiedInnocentBleedingHeart.stages.0.label>
+            <KnowPrisonerDiedInnocentBleedingHeart.stages.0.description>Um de nossos prisioneiros morreu, apesar de ser inofensivo. Temos o dever de cuidar de nossos prisioneiros. Se os quiséssemos mortos, poderíamos pelo menos ter conduzido uma execução ordenada em vez de permitir aquela barbárie.</KnowPrisonerDiedInnocentBleedingHeart.stages.0.description>
+            <KnowColonistDiedBleedingHeart.stages.0.label>colono morreu</KnowColonistDiedBleedingHeart.stages.0.label>
+            <KnowColonistDiedBleedingHeart.stages.0.description>Um de nosso povo morreu. Se ao menos tivéssemos feito algo diferente...</KnowColonistDiedBleedingHeart.stages.0.description>
+            <ColonistLeftUnburiedBleedingHeart.stages.0.label>colono deixado sem sepultura</ColonistLeftUnburiedBleedingHeart.stages.0.label>
+            <ColonistLeftUnburiedBleedingHeart.stages.0.description>Um de nós morreu e estamos deixando-os à vista. Não consigo parar de pensar nisso. Como podemos permitir que apodreçam assim?</ColonistLeftUnburiedBleedingHeart.stages.0.description>
+            <ColonistAbandonedBleedingHeart.stages.0.label>colono abandonado</ColonistAbandonedBleedingHeart.stages.0.label>
+            <ColonistAbandonedBleedingHeart.stages.0.description>Acabamos de deixar alguém para trás. Não consigo parar de pensar no que pode acontecer com eles.</ColonistAbandonedBleedingHeart.stages.0.description>
+            <ColonistAbandonedToDieBleedingHeart.stages.0.label>colono abandonado para morrer</ColonistAbandonedToDieBleedingHeart.stages.0.label>
+            <ColonistAbandonedToDieBleedingHeart.stages.0.description>Deixamos alguém para trás de uma maneira que quase não há como sobreviver. Como pudemos fazer isso?</ColonistAbandonedToDieBleedingHeart.stages.0.description>
+            <PrisonerAbandonedToDieBleedingHeart.stages.0.label>prisioneiro abandonado para morrer</PrisonerAbandonedToDieBleedingHeart.stages.0.label>
+            <PrisonerAbandonedToDieBleedingHeart.stages.0.description>Deixamos um prisioneiro para trás de uma maneira que quase não há como eles sobreviverem. Temos a responsabilidade de proteger as pessoas que encarceramos.</PrisonerAbandonedToDieBleedingHeart.stages.0.description>
+            <KnowPrisonerSoldBleedingHeart.stages.0.label>um prisioneiro foi vendido</KnowPrisonerSoldBleedingHeart.stages.0.label>
+            <KnowPrisonerSoldBleedingHeart.stages.0.description>Esta colônia vendeu um prisioneiro como escravo. Não acredito que participamos dessa barbárie.</KnowPrisonerSoldBleedingHeart.stages.0.description>
+            <KnowGuestOrganHarvestedBleedingHeart.stages.0.label>orgão de alguém colhido</KnowGuestOrganHarvestedBleedingHeart.stages.0.label>
+            <KnowGuestOrganHarvestedBleedingHeart.stages.0.description>A colônia retirou partes do corpo de um hóspede ou um prisioneiro. É inaceitável, dividir alguém por partes quando ele não tem escolha.</KnowGuestOrganHarvestedBleedingHeart.stages.0.description>
+            <KnowColonistOrganHarvestedBleedingHeart.stages.0.label>órgão de colono colhido</KnowColonistOrganHarvestedBleedingHeart.stages.0.label>
+            <KnowColonistOrganHarvestedBleedingHeart.stages.0.description>Alguém tirou partes do corpo de um colono. É inaceitável, dividir alguém por partes quando ele não tem escolha.</KnowColonistOrganHarvestedBleedingHeart.stages.0.description>
+            <ReplacedPartBleedingHeart.stages.0.label>instalou um órgão ou parte do corpo</ReplacedPartBleedingHeart.stages.0.label>
+            <ReplacedPartBleedingHeart.stages.0.description>Eu dei a alguém um novo órgão ou uma parte do corpo. Provavelmente melhorei a qualidade de vida deles! Estou tão feliz.</ReplacedPartBleedingHeart.stages.0.description>
+            <DoctorBleedingHeart.stages.0.label>ajudou um paciente</DoctorBleedingHeart.stages.0.label>
+            <DoctorBleedingHeart.stages.0.description>Eu amo a medicina. Isso lhe dá muitas oportunidades de ajudar as pessoas.</DoctorBleedingHeart.stages.0.description>
+            <RescuedBleedingHeart.stages.0.label>salvou alguém</RescuedBleedingHeart.stages.0.label>
+            <RescuedBleedingHeart.stages.0.description>Eu salvei alguém perto da morte. Não precisa me agradecer, as boas ações são recompensas por si só.</RescuedBleedingHeart.stages.0.description>
+            <CookedMealBleedingHeart.stages.0.label>cozinhou uma refeição</CookedMealBleedingHeart.stages.0.label>
+            <CookedMealBleedingHeart.stages.0.description>Eu amo cozinhar, sinto que estou ajudando as pessoas. Estou mantendo esta colônia viva!</CookedMealBleedingHeart.stages.0.description>
+            <FilledGraveBleedingHeart.stages.0.label>enterrou alguém</FilledGraveBleedingHeart.stages.0.label>
+            <FilledGraveBleedingHeart.stages.0.description>Eu espero que eles encontrem paz.</FilledGraveBleedingHeart.stages.0.description>
+            <KilledPatientBleedingHeart.stages.0.label>matou um paciente</KilledPatientBleedingHeart.stages.0.label>
+            <KilledPatientBleedingHeart.stages.0.description>Eu matei um dos meus pacientes em uma cirurgia. É tudo minha culpa... eles ainda deveriam estar vivos.</KilledPatientBleedingHeart.stages.0.description>
+
+        <!-- Eating -->
+            <AteLavishMealPickyEater.stages.0.label>comeu uma refeição abundante</AteLavishMealPickyEater.stages.0.label>
+            <AteLavishMealPickyEater.stages.0.description>Aquela refeição abundante foi incrível. É exatamente o que eu quero comer todos os dias!</AteLavishMealPickyEater.stages.0.description>
+            <AteFineMealPickyEater.stages.0.label>comeu uma boa refeição</AteFineMealPickyEater.stages.0.label>
+            <AteFineMealPickyEater.stages.0.description>Eu comi uma boa refeição realmente saborosa. Bem do jeito que eu gosto!</AteFineMealPickyEater.stages.0.description>
+            <AteAwfulMealPickyEater.stages.0.label>comeu uma refeição horrível</AteAwfulMealPickyEater.stages.0.label>
+            <AteAwfulMealPickyEater.stages.0.description>Tive que comer uma refeição nojenta e sem gosto. Inaceitável. Espero ser alimentado melhor do que isso.</AteAwfulMealPickyEater.stages.0.description>
+            <AteRawFoodPickyEater.stages.0.label>comeu comida crua</AteRawFoodPickyEater.stages.0.label>
+            <AteRawFoodPickyEater.stages.0.description>Tive que comer comida crua. Não quero morar aqui se não pudermos nem mesmo ter um chef.</AteRawFoodPickyEater.stages.0.description>
+            <AteNormalMealPickyEater.stages.0.label>comeu uma refeição simples</AteNormalMealPickyEater.stages.0.label>
+            <AteNormalMealPickyEater.stages.0.description>Aquela refeição não estava de acordo com meus padrões. Só comi porque não tinha nada melhor.</AteNormalMealPickyEater.stages.0.description>
+            <AteInsectMeatAsIngredientPickyEater.stages.0.label>comeu carne de inseto cozida</AteInsectMeatAsIngredientPickyEater.stages.0.label>
+            <AteInsectMeatAsIngredientPickyEater.stages.0.description>Comi uma refeição preparada com carne de inseto cinza e pegajosa. Foi uma surpresa profundamente desagradável de se morder.</AteInsectMeatAsIngredientPickyEater.stages.0.description>
+            <AteInsectMeatDirectPickyEater.stages.0.label>comeu carne de inseto</AteInsectMeatDirectPickyEater.stages.0.label>
+            <AteInsectMeatDirectPickyEater.stages.0.description>Comi um pouco de carne de inseto cinza e pegajosa. Por favor, me mate agora.</AteInsectMeatDirectPickyEater.stages.0.description>
+            <AteRottenFoodPickyEater.stages.0.label>comeu comida estragada</AteRottenFoodPickyEater.stages.0.label>
+            <AteRottenFoodPickyEater.stages.0.description>Comi comida nojenta e pútrida. Eu preferia estar morto do que ser reduzido a isso.</AteRottenFoodPickyEater.stages.0.description>
+
+        <!-- Mayor -->
+            <MayorNoOffice.stages.0.label>sem escritório de prefeito</MayorNoOffice.stages.0.label>
+            <MayorNoOffice.stages.0.description>Tive de marcar uma reunião com um constituinte em meu quarto. Um escritório seria um pouco mais profissional.</MayorNoOffice.stages.0.description>
+            <MayorNoBedroom.stages.0.label>sem escritório de prefeito</MayorNoBedroom.stages.0.label>
+            <MayorNoBedroom.stages.0.description>Tive de agendar uma reunião com um constituinte em um ponto de encontro. Pelo menos me dê um quarto para que eu possa conduzir essas reuniões em particular.</MayorNoBedroom.stages.0.description>
+            <WonElection.stages.0.label>venceu uma eleição</WonElection.stages.0.label>
+            <WonElection.stages.0.description>Eu consegui! Agora sou o prefeito! Estou muito grato a todos que votaram em mim.</WonElection.stages.0.description>
+
+        <!-- Killed Human Enemy -->
+            <KilledHumanlikeEnemy.stages.0.label>pico de adrenalina</KilledHumanlikeEnemy.stages.0.label>
+            <KilledHumanlikeEnemy.stages.0.description>Eu matei alguém que estava atacando nossa colônia. Minhas mãos ainda estão tremendo ... Não acredito que sobrevivi.</KilledHumanlikeEnemy.stages.0.description>
+
+        <!-- Desensitized -->
+            <RecentlyDesensitized.stages.0.label>insensível à violência</RecentlyDesensitized.stages.0.label>
+            <RecentlyDesensitized.stages.0.description>Eu testemunhei a morte e não senti nada. Que deprimente...</RecentlyDesensitized.stages.0.description>
+
+        <!-- Dreaming -->
+            <DreamGood.stages.0.label>teve um sonho bom</DreamGood.stages.0.label>
+            <DreamGood.stages.0.description>Tive um sonho bom. Isso me deu esperança.</DreamGood.stages.0.description>
+            <DreamBad.stages.0.label>teve um sonho ruim</DreamBad.stages.0.label>
+            <DreamBad.stages.0.description>Tove um sonho desagradável. Ainda está me incomodando.</DreamBad.stages.0.description>
+            <DreamNightmare.stages.0.label>teve um pesadelo</DreamNightmare.stages.0.label>
+            <DreamNightmare.stages.0.description>Gah! Que sonho terrível. Estou deprimido só de pensar nisso.</DreamNightmare.stages.0.description>
+
+        <!-- Treatment -->
+            <TreatmentFailed.stages.0.label>O tratamento de {0} falhou</TreatmentFailed.stages.0.label>
+            <TreatmentFailed.stages.0.description>O médico falhou em tratar minha doença mental ... parecia que ele não pode me entender.</TreatmentFailed.stages.0.description>
+            <SuccessfulPlot.stages.0.label>trama derrubada com sucesso</SuccessfulPlot.stages.0.label>
+            <SuccessfulPlot.stages.0.description>Eu destruí a praga neste lugar. Estamos seguros agora.</SuccessfulPlot.stages.0.description>
+
+        <!-- Paranioa -->
+            <HeardParanoia.stages.0.label>exposto a paranoias</HeardParanoia.stages.0.label>
+            <HeardParanoia.stages.0.description>As coisas que eu ouvi... elas não podem ser verdade. Não é?</HeardParanoia.stages.0.description>
+
+        <!-- Date -->
+            <DateCancelled.stages.0.label>tive que cancelar um encontro</DateCancelled.stages.0.label>
+            <DateCancelled.stages.0.description>Eu deveria ir a um encontro com meu parceiro, mas algo aconteceu na colônia e tivemos que cancelar. Eu estava ansioso por isso...</DateCancelled.stages.0.description>
+
+        <!-- Social Fight -->
+            <WonFight.stages.0.label>venceu uma luta social</WonFight.stages.0.label>
+            <WonFight.stages.0.description>Isso vai ensiná-lo a não mexer comigo.</WonFight.stages.0.description>
+
+        <!-- Prude -->
+            <PrudeSeen.stages.0.label>testemunhou uma pessoa pelada</PrudeSeen.stages.0.label>
+            <PrudeSeen.stages.0.description>Aquela pessoa estava nua? Eles simplesmente deixam as pessoas correrem sem roupa por aqui? Nojento.</PrudeSeen.stages.0.description>
+            <ApparelDamagedPrude.stages.0.label>vestindo roupas gastas</ApparelDamagedPrude.stages.0.label>
+            <ApparelDamagedPrude.stages.0.description>Minha roupa está muito ruim. Estou ficando envergonhado...</ApparelDamagedPrude.stages.0.description>
+            <ApparelDamagedPrude.stages.1.label>vestindo roupas esfarrapadas</ApparelDamagedPrude.stages.1.label>
+            <ApparelDamagedPrude.stages.1.description>Estou usando um pedaço de lixo esfarrapado. Todos podem ver através disso!</ApparelDamagedPrude.stages.1.description>
+
+        <!-- Dynamic -->
+            <DynamicSocial.stages.0.label>conversa</DynamicSocial.stages.0.label>
+            <Dynamic.stages.0.label>dinâmica</Dynamic.stages.0.label>
+
+        <!-- Codependency -->
+            <BrokeUpWithMeCodependent.stages.0.label>codependente</BrokeUpWithMeCodependent.stages.0.label>
+            <BrokeUpWithMeCodependentMood.stages.0.label>codepentente em {0}</BrokeUpWithMeCodependentMood.stages.0.label>
+            <BrokeUpWithMeCodependentMood.stages.0.description>Estou com saudades... por favor, volte.</BrokeUpWithMeCodependentMood.stages.0.description>
+            <CheatedOnMeCodependent.stages.0.label>me traiu</CheatedOnMeCodependent.stages.0.label>
+            <CheatedOnMeCodependentMood.stages.0.label>traído por {0}</CheatedOnMeCodependentMood.stages.0.label>
+            <CheatedOnMeCodependentMood.stages.0.description>Eu não entendo... Devo ter feito algo errado.</CheatedOnMeCodependentMood.stages.0.description>
+            <Codependency.stages.0.label>sentindo-se sozinho</Codependency.stages.0.label>
+            <Codependency.stages.0.description>Estou tão sozinho... preciso de um parceiro.</Codependency.stages.0.description>
+            <Codependency.stages.1.label>em um relacionamento codependente</Codependency.stages.1.label>
+            <Codependency.stages.1.description>Eu amo meu parceiro. Eu não poderia viver sem ele.</Codependency.stages.1.description>
+            <Codependency.stages.2.label>em um casamento codepentente</Codependency.stages.2.label>
+            <Codependency.stages.2.description>Eu amo meu cônjuge. Eu morreria sem ele.</Codependency.stages.2.description>
+            <Codependency.stages.3.label>desolado</Codependency.stages.3.label>
+            <Codependency.stages.3.description>Meu côjuge se foi... o que eu faço agora?</Codependency.stages.3.description>
+
+        <!-- Lecher -->
+            <RebuffedMyRomanceAttemptLecher.stages.0.label>me rejeitou</RebuffedMyRomanceAttemptLecher.stages.0.label>
+
+        <!-- Memories -->
+            <CapturedMe.stages.0.label>facção que me aprisionou</CapturedMe.stages.0.label>
+            <WentOnDate.stages.0.label>foi a um encontro</WentOnDate.stages.0.label>
+            <HungOut.stages.0.label>saíram juntos</HungOut.stages.0.label>
+            <MissedDate.stages.0.label>perdeu nosso encontro</MissedDate.stages.0.label>
+
+        <!-- Individuality-->
+            <Individuality.stages.0.label>roupa combinando</Individuality.stages.0.label>
+            <Individuality.stages.0.description>Outra pessoa na colônia está vestida com uma roupa que combina com a minha, da cabeça aos pés. É meio perturbador.</Individuality.stages.0.description>
+            <Individuality.stages.1.label>roupa combinando</Individuality.stages.1.label>
+            <Individuality.stages.1.description>Outras pessoas na colônia estão usando roupas idênticas às minhas, da cabeça aos pés. É desconcertante.</Individuality.stages.1.description>
+            <Individuality.stages.2.label>individualidade sufocada</Individuality.stages.2.label>
+            <Individuality.stages.2.description>A maior parte da colônia parece exatamente a mesma, da cabeça aos pés. É assustador e quero expressar minha individualidade.</Individuality.stages.2.description>
+            <Individuality.stages.3.label>individualidade sufocada</Individuality.stages.3.label>
+            <Individuality.stages.3.description>Todos aqui parecem exatamente iguais, da cabeça aos pés! É profundamente perturbador e quero expressar minha individualidade.</Individuality.stages.3.description>
+
+        <!-- Survived Together -->
+            <SurvivedTogether.stages.0.label>sobreviveram juntos por um ano</SurvivedTogether.stages.0.label>
+            <SurvivedTogether.stages.1.label>sobreviveram juntos por dois anos</SurvivedTogether.stages.1.label>
+            <SurvivedTogether.stages.2.label>sobreviveram juntos por três anos</SurvivedTogether.stages.2.label>
+            <SurvivedTogether.stages.3.label>sobreviveram juntos por quatro anos</SurvivedTogether.stages.3.label>
+            <SurvivedTogether.stages.4.label>sobreviveram juntos por cinco anos</SurvivedTogether.stages.4.label>
+            <SurvivedTogether.stages.5.label>sobreviveram juntos por mais de cinco anos</SurvivedTogether.stages.5.label>
+
+        <!-- Long Distance -->
+            <LongDistance.stages.0.label>relacionamento a distância</LongDistance.stages.0.label>
+            <LongDistance.stages.1.label>relacionamento a distância</LongDistance.stages.1.label>
+            <LongDistance.stages.2.label>relacionamento a distância</LongDistance.stages.2.label>
+            <LongDistance.stages.3.label>relacionamento a distância</LongDistance.stages.3.label>
+            <LongDistance.stages.4.label>relacionamento a distância</LongDistance.stages.4.label>
+            <LongDistance.stages.5.label>relacionamento a distância</LongDistance.stages.5.label>
+            <LongDistance.stages.6.label>relacionamento a distância</LongDistance.stages.6.label>
+
+        <!-- Special -->
+            <NakedPrude.stages.0.label>pelado</NakedPrude.stages.0.label>
+            <NakedPrude.stages.0.description>Estou pelado. Todo mundo está me encarando! POR FAVOR ME DÊ ROUPAS!</NakedPrude.stages.0.description>
+            <PanicAttack.stages.0.label>tendo um ataque de pânico</PanicAttack.stages.0.label>
+            <PanicAttack.stages.0.description>Saia de perto de mim! Eu preciso respirar!</PanicAttack.stages.0.description>
+
+        <!-- Bipolar -->
+            <FeelingRandomBipolar.stages.0.label>sentindo-se incrível</FeelingRandomBipolar.stages.0.label>
+            <FeelingRandomBipolar.stages.0.description>Por nenhuma razão aparente, eu me sinto absolutamente incrível agora!</FeelingRandomBipolar.stages.0.description>
+            <FeelingRandomBipolar.stages.1.label>sentindo-se ótimo</FeelingRandomBipolar.stages.1.label>
+            <FeelingRandomBipolar.stages.1.description>Por nenhuma razão aparente, eu me sinto ótimo agora.</FeelingRandomBipolar.stages.1.description>
+            <FeelingRandomBipolar.stages.2.label>sentindo-se bem</FeelingRandomBipolar.stages.2.label>
+            <FeelingRandomBipolar.stages.2.description>Por nenhuma razão aparente, eu me sinto bem agora.</FeelingRandomBipolar.stages.2.description>
+            <FeelingRandomBipolar.stages.3.label>sentindo-se mal</FeelingRandomBipolar.stages.3.label>
+            <FeelingRandomBipolar.stages.3.description>Por nenhuma razão aparente, eu me sinto mal agora.</FeelingRandomBipolar.stages.3.description>
+            <FeelingRandomBipolar.stages.4.label>sentindo-se terrível</FeelingRandomBipolar.stages.4.label>
+            <FeelingRandomBipolar.stages.4.description>Por nenhuma razão aparente, eu me sinto terrível agora</FeelingRandomBipolar.stages.4.description>
+            <FeelingRandomBipolar.stages.5.label>sentindo-se depressivo</FeelingRandomBipolar.stages.5.label>
+            <FeelingRandomBipolar.stages.5.description>Por nenhuma razão aparente, eu me sinto totalmente miserável agora...</FeelingRandomBipolar.stages.5.description>
+
+        <!-- Outdoorsy -->
+            <Outdoorsy.stages.0.label>no aberto</Outdoorsy.stages.0.label>
+            <Outdoorsy.stages.0.description>Eu gosto de sentir os céus sobre mim.</Outdoorsy.stages.0.description>
+            <Outdoorsy.stages.1.label>no aberto</Outdoorsy.stages.1.label>
+            <Outdoorsy.stages.1.description>Ahhh, o maravilhoso ar livre!</Outdoorsy.stages.1.description>
+
+        <!-- Pluviophile -->
+            <Pluviophile.stages.0.label>está chovendo lá fora</Pluviophile.stages.0.label>
+            <Pluviophile.stages.0.description>Gosto do som da chuva caindo acima de mim.</Pluviophile.stages.0.description>
+            <Pluviophile.stages.1.label>na chuva</Pluviophile.stages.1.label>
+            <Pluviophile.stages.1.description>A chuva é tão relaxante. Eu não me importo de me molhar.</Pluviophile.stages.1.description>
+
+        <!-- Polygamous -->
+            <PolygamousRelationship.stages.0.label>em um relacionamento monogâmico</PolygamousRelationship.stages.0.label>
+            <PolygamousRelationship.stages.0.description>Eu gostaria que meu amor não tivesse que se limitar a uma pessoa.</PolygamousRelationship.stages.0.description>
+
+        <!-- Light Sensitive -->
+            <EnvironmentDarkLightSensitive.stages.0.label>na escuridão</EnvironmentDarkLightSensitive.stages.0.label>
+            <EnvironmentDarkLightSensitive.stages.0.description>Ah ... o conforto da escuridão.</EnvironmentDarkLightSensitive.stages.0.description>
+            <EnvironmentDarkLightSensitive.stages.1.label>na luz</EnvironmentDarkLightSensitive.stages.1.label>
+            <EnvironmentDarkLightSensitive.stages.1.description>Ai ... isso dói um pouco.</EnvironmentDarkLightSensitive.stages.1.description>
+            <EnvironmentDarkLightSensitive.stages.2.label>na luz brilhante</EnvironmentDarkLightSensitive.stages.2.label>
+            <EnvironmentDarkLightSensitive.stages.2.description>Meus olhos! Isso dói tanto!</EnvironmentDarkLightSensitive.stages.2.description>
+
+        <!-- Sedentary -->
+            <Sedentary.stages.0.label>acomodado</Sedentary.stages.0.label>
+            <Sedentary.stages.0.description>É bom não ter que se mover tanto.</Sedentary.stages.0.description>
+            <Sedentary.stages.1.label>confortavelmente acomodado</Sedentary.stages.1.label>
+            <Sedentary.stages.1.description>Um lugar agradável e confortável para descansar um pouco. Bem do jeito que eu gosto.</Sedentary.stages.1.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Aurora -->
             <Aurora.stages.0.label>aurora linda</Aurora.stages.0.label>

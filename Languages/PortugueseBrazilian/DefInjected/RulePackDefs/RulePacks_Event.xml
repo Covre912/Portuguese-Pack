@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Psychology (unofficial 1.1/1.2) -->
+        <!-- Random Social Interactions -->
+            <Sentence_SocialFightConvoInitiatorStarted.rulePack.rulesStrings>
+                <li>sent->Suas diferenças aumentaram até [INITIATOR_nameDef] começar uma luta!</li>
+            </Sentence_SocialFightConvoInitiatorStarted.rulePack.rulesStrings>
+            <Sentence_SocialFightConvoRecipientStarted.rulePack.rulesStrings>
+                <li>sent->Suas diferenças aumentaram até [RECIPIENT_nameDef] começar uma luta!</li>
+            </Sentence_SocialFightConvoRecipientStarted.rulePack.rulesStrings>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Melee -->
             <VFEM_Event_MeleeRound.rulePack.rulesStrings>

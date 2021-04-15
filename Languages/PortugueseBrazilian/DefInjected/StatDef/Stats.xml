@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- [SYR] Individuality -->
+        <!-- Joy Need Rate Multiplier -->
+            <JoyNeedRateMultiplier.label>multiplicador da taxa de necessidade de diversão</JoyNeedRateMultiplier.label>
+            <JoyNeedRateMultiplier.description>Um multiplicador da frequência em que uma pessoa precisa de recreação.</JoyNeedRateMultiplier.description>
+
+    <!-- Psychology (unofficial 1.1/1.2) -->
+        <!-- Arrest Peacefully Chance -->
+            <ArrestPeacefullyChance.label>chance de prisão pacífica</ArrestPeacefullyChance.label>
+            <ArrestPeacefullyChance.description>Chanche base de que essa pessoa possa convencer um preso a ir em silêncio.</ArrestPeacefullyChance.description>
+
+</LanguageData>

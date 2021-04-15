@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Psychology (unofficial 1.1/1.2) -->
+        <!-- Methadone Addiction -->
+            <Chemical_Methadone.label>metadona</Chemical_Methadone.label>
+            <Chemical_Methadone.description>Por contado vício em metadona, essa pessoa necessita consumir a droga regularmente para evitar sintomas de abstinência.</Chemical_Methadone.description>
+
     <!-- Vanilla Expanded Framework -->
         <!-- Mechanoids Power -->
             <VFE_Mechanoids_Power.label>energia</VFE_Mechanoids_Power.label>

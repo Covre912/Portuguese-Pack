@@ -6,5 +6,8 @@
             <Dormitory.label>dormitório</Dormitory.label>
             <PrisonDormitory.label>dormitório de prisão</PrisonDormitory.label>
 
+    <!-- Psychology (unofficial 1.1/1.2) -->
+        <!-- Office -->
+            <Office.label>escritório</Office.label>
 
 </LanguageData>

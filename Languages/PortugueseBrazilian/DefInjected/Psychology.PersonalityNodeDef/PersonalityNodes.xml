@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+    <!-- Psychology (unofficial 1.1/1.2) -->
+        <!-- Confident -->
+            <Confident.label>confidente</Confident.label>
+            <Confident.description>Uma pessoa confiante tem grande autoconfiança e auto-estima.</Confident.description>
+
+        <!-- Experimental -->
+            <Experimental.label>experimental</Experimental.label>
+            <Experimental.description>Alguém experimental tentará tudo uma vez, gostará de surpresas e será mais experimentativa.</Experimental.description>
+
+        <!-- Intelligent -->
+            <Intelligent.label>inteligente</Intelligent.label>
+            <Intelligent.description>Uma pessoa inteligente possui muito poder cerebral bruto.</Intelligent.description>
+
+        <!-- Extroverted -->
+            <Extroverted.label>extrovertido(a)</Extroverted.label>
+            <Extroverted.description>Pessoas extrovertidas gostam de sair, experimentar coisas e serem ativas.</Extroverted.description>
+
+        <!-- Emotional -->
+            <Emotional.label>emocional</Emotional.label>
+            <Emotional.description>Alguém emocional tem uma grande capacidade em sentir emoções.</Emotional.description>
+
+        <!-- Independent -->
+            <Independent.label>independente</Independent.label>
+            <Independent.description>Uma pessoa independente fica perfeitamente feliz por estar sozinha e não depende dos outros.</Independent.description>
+
+        <!-- Agressive -->
+            <Aggressive.label>agressivo(a)</Aggressive.label>
+            <Aggressive.description>Uma pessoa agressiva é direta, direta e geralmente combativa quando não consegue o que deseja.</Aggressive.description>
+
+        <!-- Adventurous -->
+            <Adventurous.label>aventuroso(a)</Adventurous.label>
+            <Adventurous.description>Alguém que é aventureiro se sente mais realizado quando experimenta coisas novas, expande seus horizontes e vai a novos lugares.</Adventurous.description>
+
+        <!-- Drug Friendly -->
+            <DrugFriendly.label>amigo das drogas</DrugFriendly.label>
+            <DrugFriendly.description>Uma pessoa amiga das drogas não vê nada de errado com as drogas e não faz nenhum esforço para evitá-las.</DrugFriendly.description>
+
+        <!-- Spontaneous -->
+            <Spontaneous.label>espontâneo(a)</Spontaneous.label>
+            <Spontaneous.description>Uma pessoa espontânea tende a ser impulsiva e gosta de surpreender os outros.</Spontaneous.description>
+
+        <!-- Rational -->
+            <Rational.label>racional</Rational.label>
+            <Rational.description>Quanto mais racional alguém for, mais capaz será de pensar sobre as coisas de um ponto de vista fundamentado e objetivo.</Rational.description>
+
+        <!-- Logical -->
+            <Logical.label>lógico(a)</Logical.label>
+            <Logical.description>Uma pessoa lógica é altamente capaz de conectar causa e efeito e prever as consequências de certas ações.</Logical.description>
+
+        <!-- Creative -->
+            <Creative.label>criativo(a)</Creative.label>
+            <Creative.description>Pessoas criativas podem imaginar as coisas em detalhes vívidos, quer tenham existido ou não.</Creative.description>
+
+        <!-- Passionate -->
+            <Passionate.label>apaixonado(a)</Passionate.label>
+            <Passionate.description>Pessoas que são apaixonadas têm sentimentos muito fortes sobre as coisas e tendem a se expressar com empolgação.</Passionate.description>
+
+        <!-- Nostalgic -->
+            <Nostalgic.label>nostálgico(a)</Nostalgic.label>
+            <Nostalgic.description>Alguém nostálgico tem uma conexão muito forte com seu passado e com qualquer coisa que traga essas memórias.</Nostalgic.description>
+
+        <!-- Empathetic -->
+            <Empathetic.label>empático(a)</Empathetic.label>
+            <Empathetic.description>Uma pessoa empática é capaz de se colocar no lugar dos outros e compreender seus sentimentos.</Empathetic.description>
+
+        <!-- Competitive -->
+            <Competitive.label>competitivo(a)</Competitive.label>
+            <Competitive.description>Para uma pessoa competitiva, não basta ter apenas sucesso, os outros devem falhar.</Competitive.description>
+
+        <!-- Polite -->
+            <Polite.label>educado(a)</Polite.label>
+            <Polite.description>Uma pessoa educada tem boas maneiras e se esforça para não ofender as outras pessoas.</Polite.description>
+
+        <!-- Cool -->
+            <Cool.label>legal</Cool.label>
+            <Cool.description>Alguém legal é ousado, único e interessante, e as pessoas tendem a gostar mais dele.</Cool.description>
+
+        <!-- Romantic -->
+            <Romantic.label>romântico(a)</Romantic.label>
+            <Romantic.description>Alguém romântico gosta de relacionamentos de longo prazo significativos, compromissos e gestos íntimos.</Romantic.description>
+
+        <!-- Thoughtful -->
+            <Thoughtful.label>atencioso(a)</Thoughtful.label>
+            <Thoughtful.description>Pessoas atenciosas são introspectivas e críticas e tendem a planejar coisas com antecedência.</Thoughtful.description>
+
+        <!-- Geeky -->
+            <Geeky.label>nerd</Geeky.label>
+            <Geeky.description>Alguém que nerd é intelectual, excêntrico e frequentemente desajeitado socialmente.</Geeky.description>
+
+        <!-- Cultured -->
+            <Cultured.label>culto(a)</Cultured.label>
+            <Cultured.description>Uma pessoa culta é educada, instruída e refinada.</Cultured.description>
+
+        <!-- Organized -->
+            <Organized.label>organizado(a)</Organized.label>
+            <Organized.description>Uma pessoa organizada mantém tudo arrumado e organizado, além de ser minimalista.</Organized.description>
+
+        <!-- Naive -->
+            <Naive.label>ingênuo(a)</Naive.label>
+            <Naive.description>Alguém ingênuo é sincero e muitas vezes supersticioso.</Naive.description>
+
+        <!-- Upbeat -->
+            <Upbeat.label>animado(a)</Upbeat.label>
+            <Upbeat.description>Pessoas animadas são felizes, calorosas e agradáveis de se estar perto.</Upbeat.description>
+
+        <!-- Outspoken -->
+            <Outspoken.label>franco(a)</Outspoken.label>
+            <Outspoken.description>Uma pessoa franca tem opiniões fortes e não hesita em compartilhá-las.</Outspoken.description>
+
+        <!-- Ambitious -->
+            <Ambitious.label>ambicioso</Ambitious.label>
+            <Ambitious.description>Alguém ambicioso estabelece metas grandes e difíceis para si mesmo e deseja ter sucesso.</Ambitious.description>
+
+        <!-- Laid Back -->
+            <LaidBack.label>descontraído(a)</LaidBack.label>
+            <LaidBack.description>Pessoas descontraídas não se estressam com facilidade e tendem a não se preocupar com as coisas.</LaidBack.description>
+
+        <!-- Pure -->
+            <Pure.label>puro(a)</Pure.label>
+            <Pure.description>Pessoas puras tentam ser castas, tradicionais e saudáveis.</Pure.description>
+
+        <!-- Moralistic -->
+            <Moralistic.label>moralista</Moralistic.label>
+            <Moralistic.description>Alguém que é moralista adere às idéias tradicionais de moralidade.</Moralistic.description>
+
+        <!-- Trusting -->
+            <Trusting.label>crente</Trusting.label>
+            <Trusting.description>Alguém crente tende a acreditar na palavra das pessoas e ver o que há de bom nas pessoas.</Trusting.description>
+
+        <!-- Judgemental -->
+            <Judgmental.label>julgador(a)</Judgmental.label>
+            <Judgmental.description>Uma pessoa julgadora tende a formar suas opiniões sobre as pessoas de maneira rápida e superficial e é mais afetada pelas ações dos outros.</Judgmental.description>
+
+        <!-- Friendly -->
+            <Friendly.label>amigável</Friendly.label>
+            <Friendly.description>Alguém amigável é gentil, tolerante e convidativo para conversar.</Friendly.description>
+
+        <!-- Optimistic -->
+            <Optimistic.label>otimista</Optimistic.label>
+            <Optimistic.description>Alguém que é otimista vê o lado bom da vida.</Optimistic.description>
+
+        <!-- Compassionate -->
+            <Compassionate.label>compassivo(a)</Compassionate.label>
+            <Compassionate.description>Pessoas compassivas se preocupam com os problemas das outras pessoas e tentam ajudá-las.</Compassionate.description>
+
+        <!-- Generous -->
+            <Generous.label>generoso(a)</Generous.label>
+            <Generous.description>Pessoas generosas se preocupam menos em ter coisas, e são mais propensas a dá-las a outras pessoas.</Generous.description>
+
+</LanguageData>

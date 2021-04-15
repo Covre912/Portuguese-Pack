@@ -1,6 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- -->
+        <!-- Fell Plotting -->
+            <FellPlotting.label>planejando loucamente</FellPlotting.label>
+            <FellPlotting.beginLetter>{0} está se retirando para o seu quarto para planejar!</FellPlotting.beginLetter>
+            <FellPlotting.beginLetterLabel>conspirando</FellPlotting.beginLetterLabel>
+            <FellPlotting.recoveryMessage>A conspiração de {0} terminou.</FellPlotting.recoveryMessage>
+            <FellPlotting.baseInspectLine>Estado mental: Conspirando</FellPlotting.baseInspectLine>
+
+        <!-- Self Harm -->
+            <SelfHarm.label>auto flagelando</SelfHarm.label>
+            <SelfHarm.beginLetter>{0} tem fendas em seus pulsos e está se escondendo em seu quarto.</SelfHarm.beginLetter>
+            <SelfHarm.beginLetterLabel>auto flagelando</SelfHarm.beginLetterLabel>
+            <SelfHarm.recoveryMessage>{0} parou de se auto flagelar</SelfHarm.recoveryMessage>
+            <SelfHarm.baseInspectLine>Estado mental: Auto flagelando</SelfHarm.baseInspectLine>
+
+        <!-- Paranoia -->
+            <Paranoia.label>balbuciando</Paranoia.label>
+            <Paranoia.beginLetter>{0} foi tomado por balbucios paranóicos.</Paranoia.beginLetter>
+            <Paranoia.beginLetterLabel>paranoia</Paranoia.beginLetterLabel>
+            <Paranoia.recoveryMessage>{0} superou sua paranoia.</Paranoia.recoveryMessage>
+            <Paranoia.baseInspectLine>Estado mental: Paranoia</Paranoia.baseInspectLine>
+
+        <!-- Abuse -->
+            <Abuse.label>gritando</Abuse.label>
+            <Abuse.beginLetter>{0} ficou furioso e está abusando verbalmente de todos que estão à vista.</Abuse.beginLetter>
+            <Abuse.beginLetterLabel>abuso verbal</Abuse.beginLetterLabel>
+            <Abuse.recoveryMessage>{0} parou de abusar verbalmente as pessoas.</Abuse.recoveryMessage>
+            <Abuse.baseInspectLine>Mental state: Abusivo</Abuse.baseInspectLine>
+
+        <!-- Compulsion -->
+            <Compulsion.label>limpeza compulsiva</Compulsion.label>
+            <Compulsion.beginLetter>{0} está limpando de forma obcecada seus arredores com pouca consideração seu próprio bem estar.</Compulsion.beginLetter>
+            <Compulsion.beginLetterLabel>compulsão</Compulsion.beginLetterLabel>
+            <Compulsion.recoveryMessage>{0} parou de arrumar compulsivamente seus arredores.</Compulsion.recoveryMessage>
+            <Compulsion.baseInspectLine>Estado mental: Limpeza compulsiva</Compulsion.baseInspectLine>
+
+        <!-- Antisocial -->
+            <Antisocial.label>evitando pessoas</Antisocial.label>
+            <Antisocial.beginLetter>{0} está evitando seus companheiros colonos.</Antisocial.beginLetter>
+            <Antisocial.beginLetterLabel>antisocial</Antisocial.beginLetterLabel>
+            <Antisocial.recoveryMessage>{0} parou de ser antisocial.</Antisocial.recoveryMessage>
+            <Antisocial.baseInspectLine>Estado mental: Antisocial</Antisocial.baseInspectLine>
+
+        <!-- Apathy -->
+            <Apathy.label>relaxando</Apathy.label>
+            <Apathy.beginLetter>{0} tornou-se apático e é menos provável que faça seu trabalho designado.</Apathy.beginLetter>
+            <Apathy.beginLetterLabel>apatia</Apathy.beginLetterLabel>
+            <Apathy.recoveryMessage>{0} parou com sua apatia.</Apathy.recoveryMessage>
+            <Apathy.baseInspectLine>Estado mental: Apatia</Apathy.baseInspectLine>
+
+        <!-- Histrionic -->
+            <Histrionic.label>comportando-se histrionicamente</Histrionic.label>
+            <Histrionic.beginLetter>{0} tornou-se histriônico e está procurando por atenção desesperadamente.</Histrionic.beginLetter>
+            <Histrionic.beginLetterLabel>histriônico</Histrionic.beginLetterLabel>
+            <Histrionic.recoveryMessage>{0} parou de ser histriônico.</Histrionic.recoveryMessage>
+            <Histrionic.baseInspectLine>Estado mental: Histriônico</Histrionic.baseInspectLine>
+
+        <!-- Hunting Trip -->
+            <HuntingTrip.label>retirando-se para a natureza</HuntingTrip.label>
+            <HuntingTrip.beginLetter>{0} escapou para a natureza, encontrando alívio na caça.</HuntingTrip.beginLetter>
+            <HuntingTrip.beginLetterLabel>retirando-se para a natureza</HuntingTrip.beginLetterLabel>
+            <HuntingTrip.recoveryMessage>{0} decidiu voltar de sua viagem de caça.</HuntingTrip.recoveryMessage>
+            <HuntingTrip.baseInspectLine>Estado mental: Retirando-se para a natureza</HuntingTrip.baseInspectLine>
+
     <!-- Vanilla Expanded Framework -->
         <!-- Xenophobic Rage -->
             <VEF_XenophobicRage.label>raiva xenofóbica</VEF_XenophobicRage.label>

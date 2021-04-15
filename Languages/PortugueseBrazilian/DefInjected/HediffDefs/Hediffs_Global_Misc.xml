@@ -27,6 +27,62 @@
             <BionicAnimalKidney.label>rim de animal biônico</BionicAnimalKidney.label>
             <BionicAnimalStomach>estômago de animal biônico</BionicAnimalStomach>
 
+    <!-- Psychology (unofficial 1.1/1.2) -->]
+        <!-- Holding Conversation -->
+            <HoldingConversation.label>conversa</HoldingConversation.label>
+            <HoldingConversation.description>Conversa</HoldingConversation.description>
+            <HoldingConversation.stages.0.label>escondido</HoldingConversation.stages.0.label>
+
+        <!-- Mayor -->
+            <Mayor.label>prefeito</Mayor.label>
+            <Mayor.description>Prefeito da colônia</Mayor.description>
+            <Mayor.stages.0.label>escondido</Mayor.stages.0.label>
+
+        <!-- Planned Date -->
+            <PlannedDate.label>encontro</PlannedDate.label>
+            <PlannedDate.description>Encontro planejado</PlannedDate.description>
+            <PlannedDate.stages.0.label>escondido</PlannedDate.stages.0.label>
+
+        <!-- Planned Funeral -->
+            <PlannedFuneral.label>funeral planejado</PlannedFuneral.label>
+            <PlannedFuneral.description>Funeral planejado</PlannedFuneral.description>
+            <PlannedFuneral.stages.0.label>escondido</PlannedFuneral.stages.0.label>
+
+        <!-- Anxiety -->
+            <Anxiety.label>ansiedade</Anxiety.label>
+            <Anxiety.description>Ansiedade</Anxiety.description>
+            <Anxiety.stages.0.label>controlada</Anxiety.stages.0.label>
+            <Anxiety.stages.1.label>menor</Anxiety.stages.1.label>
+            <Anxiety.stages.2.label>menor</Anxiety.stages.2.label>
+            <Anxiety.stages.3.label>severa</Anxiety.stages.3.label>
+            <Anxiety.stages.4.label>severa</Anxiety.stages.4.label>
+            <Anxiety.stages.5.label>extrema</Anxiety.stages.5.label>
+
+        <!-- Recovering Pyromaniac -->
+            <RecoveringPyromaniac.label>recuperar piromaníaco</RecoveringPyromaniac.label>
+            <RecoveringPyromaniac.description>Recuperar piromaníaco</RecoveringPyromaniac.description>
+
+        <!-- Drug Free -->
+            <DrugFree.label>livre de drogas</DrugFree.label>
+            <DrugFree.description>Livre de drogas</DrugFree.description>
+
+        <!-- Antidepressants -->
+            <Antidepressants.label>antidepressivo</Antidepressants.label>
+            <Antidepressants.description>Efeito antidepressivo</Antidepressants.description>
+
+        <!-- Sleeping Pills -->
+            <SleepingPills.label>sedativos prescritos</SleepingPills.label>
+            <SleepingPills.description>Efeito de pílulas para dormir</SleepingPills.description>
+
+        <!-- Methadone -->
+            <MethadoneHigh.label>metadona</MethadoneHigh.label>
+            <MethadoneHigh.description>Sob efeito de metadona</MethadoneHigh.description>
+            <MethadoneTolerance.label>tolerância à metadona</MethadoneTolerance.label>
+            <MethadoneTolerance.description>Desenvolveu tolerância à metadona</MethadoneTolerance.description>
+            <MethadoneAddiction.label>vício em metadona</MethadoneAddiction.label>
+            <MethadoneAddiction.description>Desenvolveu um vício em metadona</MethadoneAddiction.description>
+            <MethadoneAddiction.stages.1.label>abstinência</MethadoneAddiction.stages.1.label>
+
     <!-- Vanilla Events Expanded -->
         <!-- Taritor -->
             <Traitor.label>traidor</Traitor.label>

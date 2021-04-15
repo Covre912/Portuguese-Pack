@@ -9,6 +9,16 @@
         <!-- Dress Patient -->
             <DressPatient.reportString>vestindo TargetA.</DressPatient.reportString>
 
+    <!-- Psychology (unofficial 1.1/1.2) -->
+        <!-- Abuse -->
+          <Abuse.reportString>abusando verbalmente TargetA.</Abuse.reportString>
+
+        <!-- Make Advance -->
+            <MakeAdvance.reportString>flertando com TargetA.</MakeAdvance.reportString>
+
+        <!-- Break Hunt -->
+            <BreakHunt.reportString>caçando TargetA.</BreakHunt.reportString>
+
     <!-- Vanilla Animals Expanded - Endargered -->
         <!-- Ingest Ants -->
             <AEXP_IngestAnts.reportString>devorando formigas.</AEXP_IngestAnts.reportString>
