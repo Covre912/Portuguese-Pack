@@ -5,6 +5,10 @@
         <!-- Finish Off Creature -->
             <FinishOffPawn.reportString>finalizando criatura.</FinishOffPawn.reportString>
 
+    <!-- Dress Patients -->
+        <!-- Dress Patient -->
+            <DressPatient.reportString>vestindo TargetA.</DressPatient.reportString>
+
     <!-- Vanilla Animals Expanded - Endargered -->
         <!-- Ingest Ants -->
             <AEXP_IngestAnts.reportString>devorando formigas.</AEXP_IngestAnts.reportString>

@@ -520,6 +520,11 @@
         <!-- Already Doing -->
             <AlreadyDoing>(Trabalho #{0})</AlreadyDoing>
 
+    <!-- Dress Patients -->
+        <!-- Dress Patient -->
+            <DressOther>Vestir {0}</DressOther>
+            <CannotDress>Não pode vestir {0}</CannotDress>
+
     <!-- EDB Prepare Carefully -->
         <!-- Add Parent Child -->
             <EdB.PC.AddParentChild.Header.AddParent>Adicionar um Pai</EdB.PC.AddParentChild.Header.AddParent>
