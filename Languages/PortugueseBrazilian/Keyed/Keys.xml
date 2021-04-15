@@ -1126,6 +1126,26 @@
             <SexDrive>Desejo sexual:</SexDrive>
             <RomanticDrive>Desejo romântico:</RomanticDrive>
 
+    <!-- Raids For Me -->
+        <!-- Insult -->
+    	    <RFM_InsultFaction>Insultar {0} ({1})</RFM_InsultFaction>
+	        <RFM_InsultAlly>{0} {1} ({2}) está muito decepcionado, isso degradou a relação com eles!</RFM_InsultAlly>
+	        <RFM_InsultEnemyWithoutRaid>{0} {1} ({2}) te odeia e realmente quer fazer você pagar por isso!</RFM_InsultEnemyWithoutRaid>
+	        <RFM_InsultEnemy>{0} {1}</RFM_InsultEnemy>
+
+        <!-- Settings -->
+	        <RFM_SettingsChanceGetRaided>Chance de ser invadido ({0}%)</RFM_SettingsChanceGetRaided>
+	        <RFM_SettingsTimeBeforeInsultingAgain>Tempo entre insultos (depois de ser invadido) ({0}h)</RFM_SettingsTimeBeforeInsultingAgain>
+	        <RFM_SettingsGoodwillLoss>Perda máxima de boa vontade com cada insulto ({0})</RFM_SettingsGoodwillLoss>
+	        <RFM_SettingsMinHourStartRaid>Mínimo de horas de espera antes de ser invadido ({0}h)</RFM_SettingsMinHourStartRaid>
+	        <RFM_SettingsMaxHourStartRaid>Máximo de horas de espera antes de ser invadido ({0}h)</RFM_SettingsMaxHourStartRaid>
+	        <RFM_SettingsAllowChanceAirDrop>Pequena chance de ser invadido com cápsulas de transporte imediatamente</RFM_SettingsAllowChanceAirDrop>
+	
+        <!-- Start -->
+	        <RFM_StartRaidNow>{0} ({1}) começou a atacar você!</RFM_StartRaidNow>
+	        <RFM_StartRaidDelayed>{0} ({1}) está realmente chateado! Você será invadido em {2}!</RFM_StartRaidDelayed>
+	        <RFM_StartAirDropRaidNow>{0} ({1}) começou a atacar você com cápsulas de transporte!</RFM_StartAirDropRaidNow>
+
     <!-- RimHUD -->
         <!-- Base -->
             <RimHUD.Language.AdjectiveNounOrder>{1} {0}</RimHUD.Language.AdjectiveNounOrder>
