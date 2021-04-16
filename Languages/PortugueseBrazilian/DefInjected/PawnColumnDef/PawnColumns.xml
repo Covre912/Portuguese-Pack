@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Work Tab -->
+        <!-- Mood -->
+            <Mood.headerTip>Humor</Mood.headerTip>
+
+        <!-- Job -->
+            <Job.headerTip>Trabalho Atual</Job.headerTip>
+
+        <!-- Favourite -->
+            <Favourite.headerTip>Favorito</Favourite.headerTip>
+
+</LanguageData>
