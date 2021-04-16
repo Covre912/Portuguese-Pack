@@ -513,4 +513,40 @@
             <MAO_FishTaunter.label>Pescador</MAO_FishTaunter.label>
             <MAO_FishTaunter.description>Uma grande máquina que flutua na água, capaz de atrair e capturar peixes por meio de um sistema de rede submontado. Os peixes sufocam imediatamente e são dispensados ​​para coleta.</MAO_FishTaunter.description>
 
+    <!-- Wall Light -->
+        <!-- Main Wall Light -->
+            <Lighting_MURWallLight.label>lâmpada de parede</Lighting_MURWallLight.label>
+            <Lighting_MURWallLight.description>Uma luminária projetada para ser montada em uma parede.</Lighting_MURWallLight.description>
+
+        <!-- Sun light -->
+            <Lighting_MURWallSunLight.label>lâmpada solar de parede</Lighting_MURWallSunLight.label>
+            <Lighting_MURWallSunLight.description>Uma luminária de luz solar para plantas em crescimento, projetada para ser montada em uma parede.</Lighting_MURWallSunLight.description>
+            <Lighting_MURWallSunLight.comps.3.offMessage>Desligado para o período de descanso da planta.</Lighting_MURWallSunLight.comps.3.offMessage>
+
+        <!-- Color Lights -->
+            <Lighting_MURWallLightRed.label>lâmpada de parede (vermelha)</Lighting_MURWallLightRed.label>
+            <Lighting_MURWallLightRed.description>Uma luminária projetada para ser montada em uma parede. De cor vermelha.</Lighting_MURWallLightRed.description>
+            <Lighting_MURWallLightGreen.label>lâmpada de parede (verde)</Lighting_MURWallLightGreen.label>
+            <Lighting_MURWallLightGreen.description>Uma luminária projetada para ser montada em uma parede. De cor verde.</Lighting_MURWallLightGreen.description>
+            <Lighting_MURWallLightBlue.label>lâmpada de parede (azul)</Lighting_MURWallLightBlue.label>
+            <Lighting_MURWallLightBlue.description>Uma luminária projetada para ser montada em uma parede. De cor azul.</Lighting_MURWallLightBlue.description>
+            <Lighting_MURWallLightYellow.label>lâmpada de parede (amarelo)</Lighting_MURWallLightYellow.label>
+            <Lighting_MURWallLightYellow.description>Uma luminária projetada para ser montada em uma parede. De cor amarela.</Lighting_MURWallLightYellow.description>
+            <Lighting_MURWallLightMagenta.label>lâmpada de parede (magenta)</Lighting_MURWallLightMagenta.label>
+            <Lighting_MURWallLightMagenta.description>Uma luminária projetada para ser montada em uma parede. De cor magenta.</Lighting_MURWallLightMagenta.description>
+            <Lighting_MURWallLightCyan.label>lâmpada de parede (ciano)</Lighting_MURWallLightCyan.label>
+            <Lighting_MURWallLightCyan.description>Uma luminária projetada para ser montada em uma parede. De cor ciano.</Lighting_MURWallLightCyan.description>
+            <Lighting_MURWallLightRose.label>lâmpada de parede (rosa)</Lighting_MURWallLightRose.label>
+            <Lighting_MURWallLightRose.description>Uma luminária projetada para ser montada em uma parede. De cor rosa.</Lighting_MURWallLightRose.description>
+            <Lighting_MURWallLightViolet.label>lâmpada de parede (violeta)</Lighting_MURWallLightViolet.label>
+            <Lighting_MURWallLightViolet.description>Uma luminária projetada para ser montada em uma parede. De cor violeta.</Lighting_MURWallLightViolet.description>
+            <Lighting_MURWallLightAzure.label>lâmpada de parede (azul-celeste)</Lighting_MURWallLightAzure.label>
+            <Lighting_MURWallLightAzure.description>Uma luminária projetada para ser montada em uma parede. De cor azul-celeste.</Lighting_MURWallLightAzure.description>
+            <Lighting_MURWallLightSpringGreen.label>lâmpada de parede (verde primavera)</Lighting_MURWallLightSpringGreen.label>
+            <Lighting_MURWallLightSpringGreen.description>Uma luminária projetada para ser montada em uma parede. De cor verde primavera.</Lighting_MURWallLightSpringGreen.description>
+            <Lighting_MURWallLightChartreuse.label>lâmpada de parede (verde-amarelado)</Lighting_MURWallLightChartreuse.label>
+            <Lighting_MURWallLightChartreuse.description>Uma luminária projetada para ser montada em uma parede. De cor verde-amarelado.</Lighting_MURWallLightChartreuse.description>
+            <Lighting_MURWallLightOrange.label>lâmpada de parede (laranja)</Lighting_MURWallLightOrange.label>
+            <Lighting_MURWallLightOrange.description>Uma luminária projetada para ser montada em uma parede. De cor laranja.</Lighting_MURWallLightOrange.description>
+
 </LanguageData>

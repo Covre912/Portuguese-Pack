@@ -2027,6 +2027,57 @@
 	        <MAO_FishTaunterGizmoLabelMedium>Peixe Médio</MAO_FishTaunterGizmoLabelMedium>
 	        <MAO_FishTaunterGizmoLabelLarge>Peixo Grande</MAO_FishTaunterGizmoLabelLarge>
 
+    <!-- Wall Light -->
+        <!-- Settings Light  -->
+            <MURWallLight>Wall Light</MURWallLight>
+            <MURWallLight_LightRadName>Raio da Luz</MURWallLight_LightRadName>
+            <MURWallLight_EnableWallLightName>Habilitar lâmpadas de Parede</MURWallLight_EnableWallLightName>
+            <MURWallLight_EnableWallLightDesc>Se esta opção estiver marcada, as lâmpadas de parede e suas variantes de cores estarão disponíveis para construção.</MURWallLight_EnableWallLightDesc>
+            <MURWallLight_LightRadDesc>A distância que a luz irradia da fonte. Padrão: 8</MURWallLight_LightRadDesc>
+            <MURWallLight_SteelCostName>Custo de Aço</MURWallLight_SteelCostName>
+            <MURWallLight_SteelCostDesc>Quanto de aço custa uma única luz para construir. Padrão: 5</MURWallLight_SteelCostDesc>
+            <MURWallLight_PowerCostName>Custo de energia</MURWallLight_PowerCostName>
+            <MURWallLight_PowerCostDesc>Quanta energia uma única luz consome. Padrão: 10</MURWallLight_PowerCostDesc>
+            <MURWallLight_ShowRadiusName>Mostrar Área Iluminada</MURWallLight_ShowRadiusName>
+            <MURWallLight_ShowRadiusDesc>Ao colocar uma lâmpada de Parede isto mostrará a área aproximada que será iluminada pela luz, e a área da sala que é atualmente considerada iluminada (acima de 30% de luz).</MURWallLight_ShowRadiusDesc>
+            <MURWallLight_ShowFacingName>Mostrar Direção de Face</MURWallLight_ShowFacingName>
+            <MURWallLight_ShowFacingDesc>Mostrar a direção da luz no nome da lâmpada de Parede (N, S, W, E).</MURWallLight_ShowFacingDesc>
+            <MURWallLight_ExtraColorsName>Cores Estendidas</MURWallLight_ExtraColorsName>
+            <MURWallLight_ExtraColorsDesc>Ativa cores estendidas por Sine Swiper, adiciona cores claras: Amarelo, Magenta, Ciano, Rosa, Violeta, Azul, Verde Primavera, Verde-limão e Laranja.</MURWallLight_ExtraColorsDesc>
+
+        <!-- Warning -->
+            <MURWallLight_WarningNeedWall>Deve ser colocado sobre uma parede.</MURWallLight_WarningNeedWall>
+            <MURWallLight_WarningBlocked>Deve estar voltado para um ladrilho transitável.</MURWallLight_WarningBlocked>
+            <MURWallLight_WarningBoth>Deve ser colocado sobre uma parede, de frente para um ladrilho transitável.</MURWallLight_WarningBoth>
+
+        <!-- Alert -->
+            <MURWallLight_AlertReload>Salve e recarregue o jogo para que as alterações tenham efeito.</MURWallLight_AlertReload>
+            <MURWallLight_AlertUpdate>Atualizado da versão antiga do Wall Light. Por favor, dê às luzes um momento para se acenderem.</MURWallLight_AlertUpdate>  <MURWallLight_AlertRestart>Reinicie o Rimworld para que as alterações tenham efeito.</MURWallLight_AlertRestart>
+
+        <!-- Destroyed -->
+            <MURWallLight_DestroyedBlocked>Lâmpada destruída pela construção.</MURWallLight_DestroyedBlocked>
+            <MURWallLight_DestroyedWall>Lâmpada destruída pela destruição da parede.</MURWallLight_DestroyedWall>
+
+        <!-- Tag -->
+            <MURWallLight_TagNorth>N</MURWallLight_TagNorth>
+            <MURWallLight_TagSouth>S</MURWallLight_TagSouth>
+            <MURWallLight_TagWest>W</MURWallLight_TagWest>
+            <MURWallLight_TagEast>E</MURWallLight_TagEast>
+
+        <!-- Settings Sun Lamp -->
+            <MURWallLight_EnableSunName>Habilitar lâmpada solar</MURWallLight_EnableSunName>
+            <MURWallLight_EnableSunDesc>Se esta opção estiver marcada, a lâmpada solar estará disponível para construção.</MURWallLight_EnableSunDesc>
+            <MURWallLight_SunLightRadName>Raio luminoso</MURWallLight_SunLightRadName>
+            <MURWallLight_SunLightRadDesc>A faixa que será considerada bem iluminada e permitirá que as plantas cresçam. Padrão: 5</MURWallLight_SunLightRadDesc>
+            <MURWallLight_SunSteelCostName>Custo de aço</MURWallLight_SunSteelCostName>
+            <MURWallLight_SunSteelCostDesc>Quanto de aço uma única lâmpada solar custa para construir. Padrão: 10</MURWallLight_SunSteelCostDesc>
+            <MURWallLight_SunPowerCostName>Custo de Energia</MURWallLight_SunPowerCostName>
+            <MURWallLight_SunPowerCostDesc>Quanta energia uma única lâmpada solar consome enquanto está ativa. Padrão: 600</MURWallLight_SunPowerCostDesc>
+            <MURWallLight_DisableRestName>Desativar o Período de Repouso</MURWallLight_DisableRestName>
+            <MURWallLight_DisableRestDesc>Se ativada, a lâmpada solar não desligará durante o período padrão de descanso da planta.</MURWallLight_DisableRestDesc>
+            <MURWallLight_WhiteModeName>Modo Branco</MURWallLight_WhiteModeName>
+            <MURWallLight_WhiteModeDesc>Substitui a cor roxa fria da lâmpada Solar por uma cor branca e suave.</MURWallLight_WhiteModeDesc>
+
     <!-- WeaponStats -->
         <!-- Generic -->
             <WeaponStats.Ground>Chão</WeaponStats.Ground>
