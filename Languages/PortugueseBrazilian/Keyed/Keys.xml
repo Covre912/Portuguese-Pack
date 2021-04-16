@@ -544,6 +544,43 @@
 	        <VMEu_CancelBringingPlastic>Cancelar Inserir Plástico Líquido</VMEu_CancelBringingPlastic>
 	        <VMEu_CancelBringingPlasticDesc>Cancela inserir plástico líquido para o processador.</VMEu_CancelBringingPlasticDesc>
 
+    <!-- Camera+ -->
+        <!-- Settings -->
+    	    <Zoom>Zoom</Zoom>
+	        <Near>Próximo</Near>
+	        <Far>Distante</Far>
+	        <ZoomedInPercent>Zoom Máximo</ZoomedInPercent>
+	        <ZoomedOutPercent>Redução Máxima</ZoomedOutPercent>
+	        <Exponentiality>Escala Exponencial:</Exponentiality>
+	        <SoundNearness>Sons Próximos</SoundNearness>
+	        <HotKeys>Atalhos:</HotKeys>
+	        <SettingsKey>Configurações</SettingsKey>
+	        <LoadModifier>Carregar</LoadModifier>
+	        <SaveModifier>Salvar</SaveModifier>
+	        <DollyPercentLabel>Velocidade de Rolamento</DollyPercentLabel>
+	        <ScreenEdgeDollyFrictionLabel>Rolagem de Borda</ScreenEdgeDollyFrictionLabel>
+	        <HideNamesWhenZoomedOut>Ocultar nomes ao reduzir o zoom </HideNamesWhenZoomedOut>
+	        <Pixel>Pixels</Pixel>
+	        <HidePawnLabelBelow>Ocultar nomes de colonos abaixo de: </HidePawnLabelBelow>
+	        <HideThingLabelBelow>Ocultar nomes de itens abaixo de: </HideThingLabelBelow>
+	        <ShowMarkerBelow>Mostrar marcadores abaixo de: </ShowMarkerBelow>
+	        <IncludeAnimals>Animais têm o mesmo marcador</IncludeAnimals>
+	        <AnimalsDifferent>Animais têm marcadores diferentes</AnimalsDifferent>
+	        <HideAnimals>Animais não têm marcadores</HideAnimals>
+	        <IncludeNotTamedAnimals>Incluir animais selvagens</IncludeNotTamedAnimals>
+	        <ZoomToMouse>Zoom para o mouse</ZoomToMouse>
+	        <MouseRevealsLabels>Mouse revela nomes</MouseRevealsLabels>
+	        <KeyLeftShift>Shift Esq.</KeyLeftShift>
+	        <KeyLeftAlt>Alt Esq.</KeyLeftAlt>
+	        <KeyLeftControl>Ctrl Esq.</KeyLeftControl>
+	        <KeyLeftCommand>Cmd Esq.</KeyLeftCommand>
+	        <KeyLeftWindows>Win Esq.</KeyLeftWindows>
+	        <KeyRightShift>Shift Dr.</KeyRightShift>
+	        <KeyRightAlt>Alt Dir.</KeyRightAlt>
+	        <KeyRightControl>Ctrl Dir.</KeyRightControl>
+	        <KeyRightCommand>Cmd Dir.</KeyRightCommand>
+	        <KeyRightWindows>Win Dir.</KeyRightWindows>
+
     <!-- Dress Patients -->
         <!-- Dress Patient -->
             <DressOther>Vestir {0}</DressOther>
