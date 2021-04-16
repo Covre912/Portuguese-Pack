@@ -224,6 +224,22 @@
             <SyrIndividuality_EditModeOff>Desativar modo de edição</SyrIndividuality_EditModeOff>
             <SyrIndividuality_EditModeTooltip>Clique com o botão esquerdo em um campo para aumentar, clique com o botão direito para diminuir</SyrIndividuality_EditModeTooltip>
 
+    <!-- [SYR] Scar Removal Plus -->
+        <!-- Operations -->
+            <SyrScarRemovalHeal>Curar</SyrScarRemovalHeal>
+            <SyrScarRemovalRegrown>Regenerar</SyrScarRemovalRegrown>
+
+        <!-- Successfully -->
+            <SyrScarRemovalSuccessfullyHealed>{0} removeu com sucesso o(a) {2} de {1} ({3}).</SyrScarRemovalSuccessfullyHealed>
+            <SyrScarRemovalSuccessfullyRegrown>{0} regenerou com sucesso o(a) {2} de {1}.</SyrScarRemovalSuccessfullyRegrown>
+
+        <!-- Settings -->
+            <ScarRemovalSettings>Scar Removal Plus</ScarRemovalSettings>
+            <ScarRemovalSettingsHardMode>Habilitar modo difícil</ScarRemovalSettingsHardMode>
+            <ScarRemovalSettingsHardModeTooltip>Se habilitado, as receitas serão mais caras.</ScarRemovalSettingsHardModeTooltip>
+            <ScarRemovalSettingsapplyToAnimals>Aplicar a animais</ScarRemovalSettingsapplyToAnimals>
+            <ScarRemovalSettingsapplyToAnimalsTooltip>Permite que todas as cirurgias sejam feitas em animais - existe um mod dedicado para animais: "A dog said... Animal Prosthetics".</ScarRemovalSettingsapplyToAnimalsTooltip>
+
     <!-- [SYR] Set Up Camp -->
         <!-- Set Up Camp -->
             <SetUpCamp>Montar acampamento</SetUpCamp>

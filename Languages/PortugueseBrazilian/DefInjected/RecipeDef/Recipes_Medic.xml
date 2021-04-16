@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+	<!-- [SYR] Scar Removal Plus -->
+		<!-- Scar -->
+  			<RemoveScar.label>remover cicatriz</RemoveScar.label>
+  			<RemoveScar.description>Remove uma cicatriz.</RemoveScar.description>
+ 			<RemoveScar.jobString>Removendo cicatriz de paciente.</RemoveScar.jobString>
+
+		<!-- Scar Brain -->
+  			<RemoveScarBrain.label>curar dano cerebral</RemoveScarBrain.label>
+  			<RemoveScarBrain.description>Resolve o dano cerebral.</RemoveScarBrain.description>
+  			<RemoveScarBrain.jobString>Curando dano cerebral de paciente.</RemoveScarBrain.jobString>
+
+		<!-- Small Body Part -->
+  			<RegrowSmallBodyPart.label>regenera pequena parte do corpo</RegrowSmallBodyPart.label>
+  			<RegrowSmallBodyPart.description>Regrows a small body part, like fingers, toes, ears or a nose.</RegrowSmallBodyPart.description>
+  			<RegrowSmallBodyPart.jobString>Regrowing body part.</RegrowSmallBodyPart.jobString>
+
+		<!-- Dementia -->
+ 			<HealDementia.label>curar demência</HealDementia.label>
+ 			<HealDementia.description>Cura a demência.</HealDementia.description>
+  			<HealDementia.jobString>Curando demência de pacinete.</HealDementia.jobString>
+  			<HealDementia.successfullyRemovedHediffMessage>{0} curou com sucesso a demência de {1}.</HealDementia.successfullyRemovedHediffMessage>
+
+		<!-- Alzheimers -->
+  			<HealAlzheimers.label>curar alzheimer</HealAlzheimers.label>
+  			<HealAlzheimers.description>Cura alzheimer.</HealAlzheimers.description>
+  			<HealAlzheimers.jobString>Curanod alzheimer de paciente.</HealAlzheimers.jobString>
+ 			<HealAlzheimers.successfullyRemovedHediffMessage>{0} curou com sucesso o alzheimer de {1}.</HealAlzheimers.successfullyRemovedHediffMessage>
+
+		<!-- Frailty -->
+ 			<HealFrailty.label>curar fragilidade</HealFrailty.label>
+  			<HealFrailty.description>Cura a fragilidade.</HealFrailty.description>
+  			<HealFrailty.jobString>Curando fragilidade de paciente.</HealFrailty.jobString>
+  			<HealFrailty.successfullyRemovedHediffMessage>{0} curou com sucesso a fragilidade de {1}.</HealFrailty.successfullyRemovedHediffMessage>
+
     <!-- A Dog Said... Animal Prosthetics -->
 	    <!-- Simple Prosthetic Tail -->
 		    <InstallSimpleProstheticTailAnimal.label>instalar cauda de animal protética simples</InstallSimpleProstheticTailAnimal.label>
