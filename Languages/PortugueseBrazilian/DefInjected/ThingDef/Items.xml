@@ -204,6 +204,27 @@
             <VMEu_Concrete.label>mistura de concreto</VMEu_Concrete.label>
             <VMEu_Concrete.description>Pedra reforçada com pó de ferro, quando combinada com areia e água torna-se dura o suficiente para contrução de estruturas, não tão resistente aos impactos, mas incrivelmente resistente ao fogo.</VMEu_Concrete.description>
 
+	<!-- Expanded Materials Add-on - Ammunition Module -->
+		<!-- Industrial Ammo -->
+			<VMEu_IndustrialAmmo.label>munição industrial</VMEu_IndustrialAmmo.label>
+			<VMEu_IndustrialAmmo.description>Munições industriais genéricas, para torretas feitas de chumbo. Este é o tipo de munição mais utilizado entre as industriais para torretas militares.</VMEu_IndustrialAmmo.description>
+
+		<!-- Heavy Ammo -->
+			<VMEu_HeavyAmmo.label>munição pesada</VMEu_HeavyAmmo.label>
+			<VMEu_HeavyAmmo.description>Munições militares pesadas, para torretas feitas de chumbo. Este tipo de munição é utilizado em torres militares avançadas e de alto calibre.</VMEu_HeavyAmmo.description>
+
+		<!-- Uranium Ammo -->
+			<VMEu_SniperAmmo.label>munição de urânio</VMEu_SniperAmmo.label>
+			<VMEu_SniperAmmo.description>Munições militares pesadas, para torretas feitas de urânio. Este tipo de munição é utilizado para torres de longo alcance, uma vez que o urânio pode ser exposto a mais aceleração.</VMEu_SniperAmmo.description>
+
+		<!-- Pulse Ammo -->
+			<VMEu_ChargueAmmo.label>munição de carga</VMEu_ChargueAmmo.label>
+			<VMEu_ChargueAmmo.description>Munições avançadas com carga de impulso. Este tipo de munição é utilizado por sistemas de defesa de alta tecnologia.</VMEu_ChargueAmmo.description>
+
+		<!-- EMP Ammo -->
+			<VMEu_EMPAmmo.label>munição PEM</VMEu_EMPAmmo.label>
+			<VMEu_EMPAmmo.description>Balas pesadas PEM carregadas para uso particular, as munições PEM são capazes de desativar máquinas durante um curto período de tempo.</VMEu_EMPAmmo.description>
+
 	<!-- Jewelry -->
 		<!-- Diamond -->
   			<Diamond.label>diamante</Diamond.label>

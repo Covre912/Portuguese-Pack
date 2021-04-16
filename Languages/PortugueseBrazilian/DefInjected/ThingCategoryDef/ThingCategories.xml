@@ -13,6 +13,10 @@
         <!-- Special Metals -->
             <VMEu_SpecialMetals.label>metais especiais</VMEu_SpecialMetals.label>
 
+    <!-- Expanded Materials Add-on - Ammunition Module -->
+        <!-- Turret Ammunition -->
+            <VMEu_AmmunitionCategory.label>munições</VMEu_AmmunitionCategory.label>
+
     <!-- Vanilla Expanded Framework -->
         <!-- Shields -->
             <VFEC_Shields.label>escudos</VFEC_Shields.label>

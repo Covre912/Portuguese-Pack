@@ -83,6 +83,32 @@
             <VMEu_MakePlasteel.description>O aço, quando exposto a temperaturas extremamente altas e endurecido quimicamente com uma mistura de óleo escuro e neutroamina, torna-se plastiaço.\n\nO material é obtido no final, quando a temperatura é baixa, usando uma alta concentração de explosivos químicos obtido do lítio .</VMEu_MakePlasteel.description>
             <VMEu_MakePlasteel.jobString>Ligando plastiaço.</VMEu_MakePlasteel.jobString>
 
+    <!-- Expanded Materials Add-on - Ammunition Module -->
+        <!-- Industrial Ammo -->
+            <VMEu_MakeIndustrialAmmo.label>fazer munição industrial</VMEu_MakeIndustrialAmmo.label>
+            <VMEu_MakeIndustrialAmmo.description>Fabrique munições industriais para torretas militares.</VMEu_MakeIndustrialAmmo.description>
+            <VMEu_MakeIndustrialAmmo.jobString>Fabricando munição.</VMEu_MakeIndustrialAmmo.jobString>
+
+        <!-- Heavy Ammo -->
+            <VMEu_MakeHeavyAmmo.label>fazer munição pesada</VMEu_MakeHeavyAmmo.label>
+            <VMEu_MakeHeavyAmmo.description>Fabrique munições pesadas para torretas militares avançadas.</VMEu_MakeHeavyAmmo.description>
+            <VMEu_MakeHeavyAmmo.jobString>Fabricando munição.</VMEu_MakeHeavyAmmo.jobString>
+
+        <!-- Uranium Ammo -->
+            <VMEu_MakeUraniumAmmo.label>fazer munição de urânio</VMEu_MakeUraniumAmmo.label>
+            <VMEu_MakeUraniumAmmo.description>Fabrique munições industriais pesadas para torretas militares avançadas.</VMEu_MakeUraniumAmmo.description>
+            <VMEu_MakeUraniumAmmo.jobString>Fabricando munição.</VMEu_MakeUraniumAmmo.jobString>
+
+        <!-- Charge Ammo -->
+            <VMEu_MakeChargueAmmo.label>fazer munição de carga</VMEu_MakeChargueAmmo.label>
+            <VMEu_MakeChargueAmmo.description>Fabrique muinições de carga avançadas para torretas tecnológicas.</VMEu_MakeChargueAmmo.description>
+            <VMEu_MakeChargueAmmo.jobString>Fabricando munição.</VMEu_MakeChargueAmmo.jobString>
+
+        <!-- EMP Ammo -->
+            <VMEu_MakeEMPAmmo.label>fazer munição PEM</VMEu_MakeEMPAmmo.label>
+            <VMEu_MakeEMPAmmo.description>Fabrique muinições PEM avançadas para torretas tecnológicas.</VMEu_MakeEMPAmmo.description>
+            <VMEu_MakeEMPAmmo.jobString>Fabricando munição.</VMEu_MakeEMPAmmo.jobString>
+
     <!-- Vanilla Weapons Expanded - Laser -->
         <!-- Salvage Laser Weapons -->
             <Salvage_LaserWeapon.label>recuperar arma laser</Salvage_LaserWeapon.label>
