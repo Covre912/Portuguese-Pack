@@ -975,7 +975,7 @@
             <PsycheLess>menos</PsycheLess>
             <PsycheMore>mais</PsycheMore>
             <PsycheVery>muito</PsycheVery>
-            <PsycheExtremely>extremamente</PsycheExtremely>
+            <PsycheExtremely>bastante</PsycheExtremely>
             <ConversationTooltip>As pessoas vão falar sobre {0} para discutir isso um com o outro.</ConversationTooltip>
 
         <!-- Comp Text -->

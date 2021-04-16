@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <!-- -->
+    <!-- Psychology (unofficial 1.1/1.2) -->
         <!-- Fell Plotting -->
             <FellPlotting.label>planejando loucamente</FellPlotting.label>
             <FellPlotting.beginLetter>{0} está se retirando para o seu quarto para planejar!</FellPlotting.beginLetter>
@@ -10,11 +10,11 @@
             <FellPlotting.baseInspectLine>Estado mental: Conspirando</FellPlotting.baseInspectLine>
 
         <!-- Self Harm -->
-            <SelfHarm.label>auto flagelando</SelfHarm.label>
-            <SelfHarm.beginLetter>{0} tem fendas em seus pulsos e está se escondendo em seu quarto.</SelfHarm.beginLetter>
+            <SelfHarm.label>auto mutilando-se</SelfHarm.label>
+            <SelfHarm.beginLetter>{0} tem cortes em seus pulsos e está se escondendo em seu quarto.</SelfHarm.beginLetter>
             <SelfHarm.beginLetterLabel>auto flagelando</SelfHarm.beginLetterLabel>
-            <SelfHarm.recoveryMessage>{0} parou de se auto flagelar</SelfHarm.recoveryMessage>
-            <SelfHarm.baseInspectLine>Estado mental: Auto flagelando</SelfHarm.baseInspectLine>
+            <SelfHarm.recoveryMessage>{0} parou de se auto mutilar-se</SelfHarm.recoveryMessage>
+            <SelfHarm.baseInspectLine>Estado mental: Auto mutilando-se</SelfHarm.baseInspectLine>
 
         <!-- Paranoia -->
             <Paranoia.label>balbuciando</Paranoia.label>
