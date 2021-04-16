@@ -875,6 +875,73 @@
             <explanationRToggle>Reativar o requerimento de joias por nobres.</explanationRToggle>
             <shouldJewelryNeed>Personagens nobres requerem joias.</shouldJewelryNeed>
 
+    <!-- Locks 2: Lock Them Out! -->
+        <!-- Lock Tab -->
+            <lockTab>Acesso</lockTab>
+            <locks2Tab>Configuração de bloqueio</locks2Tab>
+
+        <!-- Rules -->
+            <ConfigRuleAnimals>Filtro de animais</ConfigRuleAnimals>
+            <ConfigRuleApparel>Filtro de vestuário</ConfigRuleApparel>
+            <ConfigRuleColonists>Filtro de colono</ConfigRuleColonists>
+            <ConfigRuleGameCondition>Filtro de condição de jogo</ConfigRuleGameCondition>
+            <ConfigRuleGuests>Filtro de convidados</ConfigRuleGuests>
+            <ConfigRuleIgnorDrafted>Filtro de colono convocado </ConfigRuleIgnorDrafted>
+            <ConfigRuleInverseColonists>Filtro invertido de colono</ConfigRuleInverseColonists>
+            <ConfigRulePrisoners>Filtro de prisioneiros</ConfigRulePrisoners>
+            <ConfigRuleRace>Filtro de raças</ConfigRuleRace>
+            <ConfigRuleBedRoom>Filtro de quarto</ConfigRuleBedRoom>
+
+        <!-- Locks 2 -->
+            <Locks2DoorSettings>Configuração da porta</Locks2DoorSettings>
+            <Locks2Or>- OU -</Locks2Or>
+            <Locks2Close>Fechar</Locks2Close>
+            <Locks2OrTooltip>Uma dessas regras deve ser aplicada para um colono passar</Locks2OrTooltip>
+
+        <!-- Filter -->
+            <Locks2ApparelFilter>Permitir que o colonos e os convidados usem</Locks2ApparelFilter>
+            <Locks2ApparelFilterBody>Os colonos devem usar:</Locks2ApparelFilterBody>
+            <Locks2BedRoomFilter>Permitir apenas os proprietários de seus quartos</Locks2BedRoomFilter>
+            <Locks2BedRoomFilterHint>Permitirá que todos entrem, desde que haja camas não designadas no quarto</Locks2BedRoomFilterHint>
+            <Locks2ColonistsFilter>Permitir todos os colonos, exceto</Locks2ColonistsFilter>
+            <Locks2ColonistsFilterBlacklist>Colonos proibidos:</Locks2ColonistsFilterBlacklist>
+            <Locks2GameConditionFilter>Permitir tudo se a condição do jogo não estiver ativa</Locks2GameConditionFilter>
+            <Locks2DenyIf>Negar se:</Locks2DenyIf>
+            <Locks2GuestsFilter>Permitir convidados e aliados</Locks2GuestsFilter>
+            <Locks2DraftedPawns>Permitir colonos convocados</Locks2DraftedPawns>
+            <Locks2ColonistInvertedFilter>Permitir apenas colonos na lista de permissões</Locks2ColonistInvertedFilter>
+            <Locks2ColonistInvertedFilterWhitelist>colonos na lista de permissões:</Locks2ColonistInvertedFilterWhitelist>
+            <Locks2PrisonersFilter>Permitir prisioneiros</Locks2PrisonersFilter>
+            <Locks2RaceFilter>Permitir colonos pela raça</Locks2RaceFilter>
+            <Locks2RaceFilterWhitelist>Raças permitidas:</Locks2RaceFilterWhitelist>
+
+        <!-- Settings -->
+            <Locks2SettingsPerformance>Configurações de desempenho:</Locks2SettingsPerformance>
+            <Locks2SettingsCache>Tempo limite de cache</Locks2SettingsCache>
+            <Locks2SettingsCacheTooltip>Valores mais baixos resultarão em um impacto de desempenho maior, mas em um sistema de travamento mais responsivo. Recomenda-se deixar o valor padrão de 1800 ticks</Locks2SettingsCacheTooltip>
+            <Locks2SettingsAccessTab>Acesse o tamanho da guia e veja:</Locks2SettingsAccessTab>
+            <Locks2SettingsAccessTabX>O tamanho da guia de acesso x é</Locks2SettingsAccessTabX>
+            <Locks2SettingsAccessTabY>O tamanho da guia de acesso é</Locks2SettingsAccessTabY>
+            <Locks2SettingsDefaults>Padrões:</Locks2SettingsDefaults>
+            <Locks2SettingsDefaultsAre>As regras padrão são</Locks2SettingsDefaultsAre>
+            <Locks2SettingsOthers>Outras configurações:</Locks2SettingsOthers>
+            <Locks2SettingReset>Resetar</Locks2SettingReset>
+            <Locks2SettingsEnableDebugging>Habilitar depuração</Locks2SettingsEnableDebugging>
+            <Locks2SettingsDebuggingTooltip>Habilitar depuração para usuários avançados</Locks2SettingsDebuggingTooltip>
+            <Locks2SettingsDebuggingWarning>AVISO ISTO É APENAS PARA MODDERS!</Locks2SettingsDebuggingWarning>
+
+        <!-- Confirm -->
+            <Locks2Confirm>Tem certeza?</Locks2Confirm>
+            <Locks2ConfirmYes>Sim</Locks2ConfirmYes>
+            <Locks2ConfirmNo>Não</Locks2ConfirmNo>
+
+        <!-- Animals -->
+            <Locks2Animals>Permitir animais</Locks2Animals>
+            <Locks2AnimalsGenderFilter>Permitir apenas</Locks2AnimalsGenderFilter>
+            <Locks2AnimalsGenderMale>Machos</Locks2AnimalsGenderMale>
+            <Locks2AnimalsGenderFemale>Fêmeas</Locks2AnimalsGenderFemale>
+            <Locks2AnimalsAgeFilter>Permitir animais com menos de</Locks2AnimalsAgeFilter>
+
     <!-- Psychology (unofficial 1.1/1.2) -->
         <!-- Alerts -->     
             <Individuality>Roupas combinando</Individuality>
