@@ -196,6 +196,12 @@
 	        <CureInjuryBruiseAnimal.description>Cure um hematoma.</CureInjuryBruiseAnimal.description>
 	        <CureInjuryBruiseAnimal.jobString>Curando hematoma.</CureInjuryBruiseAnimal.jobString>
 
+	<!-- Death Rattle Continued [1.2] -->
+		<!-- Artificial Coma -->
+		  	<ArtificialComa.label>coma artificial</ArtificialComa.label>
+  			<ArtificialComa.description>Deixa uma criatura inconsciente por tempo indefinido, administrando uma droga artificial para coma. Uma alta dose de despertar será necessária para reverter isso!</ArtificialComa.description>
+  			<ArtificialComa.jobString>Colocando em coma artificial.</ArtificialComa.jobString>
+
 	<!-- Psychology (unofficial 1.1/1.2) -->
 		<!-- Pyromania -->
 	  		<TreatPyromania.label>tratar piromania</TreatPyromania.label>

@@ -73,6 +73,60 @@
             <TM_ShroomsPoison.stages.0.label>menor</TM_ShroomsPoison.stages.0.label>
             <TM_ShroomsPoison.stages.1.label>severo</TM_ShroomsPoison.stages.1.label>
 
+    <!-- Death Rattle Continued [1.2] -->
+        <!-- Artificial Coma -->
+            <ArtificialComa.label>coma artificial</ArtificialComa.label>
+            <ArtificialComa.description>A vítima está em coma artificial.</ArtificialComa.description>
+            <ArtificialComa.stages.1.label>perigoso</ArtificialComa.stages.1.label>
+            <ArtificialComa.stages.2.label>risco de vida</ArtificialComa.stages.2.label>
+
+        <!-- Intestinal Failure -->
+            <IntestinalFailure.label>falha intestinal</IntestinalFailure.label>
+            <IntestinalFailure.description>Falha intestinal.</IntestinalFailure.description>
+            <IntestinalFailure.stages.2.label>quase morto(a)</IntestinalFailure.stages.2.label>
+
+        <!-- Liver Failur -->
+            <LiverFailure.label>insuficiência hepática aguda</LiverFailure.label>
+            <LiverFailure.description>Insuficiência hepática aguda.</LiverFailure.description>
+            <LiverFailure.stages.1.label>quase morto(a)</LiverFailure.stages.1.label>
+
+        <!-- Kidney Failure -->
+            <KidneyFailure.label>insuficiência renal aguda</KidneyFailure.label>
+            <KidneyFailure.description>Insuficiência renal aguda.</KidneyFailure.description>
+            <KidneyFailure.stages.1.label>quase morto(a)</KidneyFailure.stages.1.label>
+
+        <!-- No Heartbeat -->
+            <ClinicalDeathNoHeartbeat.label>sem pulso</ClinicalDeathNoHeartbeat.label>
+            <ClinicalDeathNoHeartbeat.description>O coração da vítima parou.</ClinicalDeathNoHeartbeat.description>
+            <ClinicalDeathNoHeartbeat.stages.1.label>morte clínica</ClinicalDeathNoHeartbeat.stages.1.label>
+
+        <!-- Asphyxiation -->
+            <ClinicalDeathAsphyxiation.label>falta de oxigênio</ClinicalDeathAsphyxiation.label>
+            <ClinicalDeathAsphyxiation.description>O cérebro da vítima está privado de oxigênio.</ClinicalDeathAsphyxiation.description>
+            <ClinicalDeathAsphyxiation.stages.1.label>morte clínica</ClinicalDeathAsphyxiation.stages.1.label>
+
+        <!-- Coma -->
+            <Coma.label>coma</Coma.label>
+            <Coma.description>A vítima entrou em coma.</Coma.description>
+
+        <!-- Brain Damage -->
+            <BrainDamage.label>dano cerebral</BrainDamage.label>
+            <BrainDamage.description>A vítima tem danos cerebrais.</BrainDamage.description>
+            <BrainDamage.stages.0.label>menor</BrainDamage.stages.0.label>
+            <BrainDamage.stages.1.label>menor</BrainDamage.stages.1.label>
+            <BrainDamage.stages.2.label>maior</BrainDamage.stages.2.label>
+            <BrainDamage.stages.3.label>maior</BrainDamage.stages.3.label>
+            <BrainDamage.stages.4.label>extremo</BrainDamage.stages.4.label>
+            <BrainDamage.stages.5.label>estado vegetativo</BrainDamage.stages.5.label>
+
+        <!-- Severe Brain Damage -->
+            <SevereBrainDamage.label>dano cerebral severo</SevereBrainDamage.label>
+            <SevereBrainDamage.description>A vítima tem graves danos cerebrais.</SevereBrainDamage.description>
+
+        <!-- Vegetative State -->
+            <VegetativeState.label>estado vegetativo</VegetativeState.label>
+            <VegetativeState.description>A vítima está em estado vegetativo.</VegetativeState.description>
+
     <!-- Psychology (unofficial 1.1/1.2) -->
         <!-- Holding Conversation -->
             <HoldingConversation.label>conversa</HoldingConversation.label>
