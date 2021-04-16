@@ -35,5 +35,10 @@
             <creditee>LuizFernando6Th</creditee>
         </li>
 
+        <li Class="CreditRecord_Role">
+            <roleKey>Credit_Translator</roleKey>
+            <creditee>Uslyst</creditee>
+        </li>
+
     </credits>
 </LanguageInfo>
