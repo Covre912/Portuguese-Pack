@@ -145,6 +145,41 @@
         <!-- Mass Animal Insanity -->
             <AnimalInsanityMassPurple.label>insanidade animal em massa</AnimalInsanityMassPurple.label>
 
+    <!-- Vanilla Expanded Framework -->
+        <!-- Reinforcements -->
+            <VSE_Reinforcements.label>reforços</VSE_Reinforcements.label>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Mechanoid Ship Destroyed -->
+            <VFEM_MechShipDestroyed.label>Nave mecanóide destruída</VFEM_MechShipDestroyed.label>
+            <VFEM_MechShipDestroyed.letterLabel>{FACTION_name} destruiu {1}</VFEM_MechShipDestroyed.letterLabel>
+            <VFEM_MechShipDestroyed.letterText>Por meio de estratégias inteligentes, com grande número de baixas e incrível perseverança, {FACTION_name} conseguiu destruir {1}.</VFEM_MechShipDestroyed.letterText>
+
+        <!-- Ship Landing Frigate -->
+            <VFEM_ShipLandFrigate.label>aterrisagem de nave fragata</VFEM_ShipLandFrigate.label>
+            <VFEM_ShipLandFrigate.letterLabel>Nave aterrisada: Fragata</VFEM_ShipLandFrigate.letterLabel>
+            <VFEM_ShipLandFrigate.letterText>{0} enviou uma nova nave para pousar no planeta.\n\nUma pequena nave frequentemente usada para operações de reconhecimento terrestre. Possui defesas mínimas. Quando destruída, a presença de mecanóide na superfície será reduzida.\n\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanóide.</VFEM_ShipLandFrigate.letterText>
+
+        <!-- Ship Landing Destroyer -->
+            <VFEM_ShipLandDestroyer.label>aterrisagem de nave contratorpedeira</VFEM_ShipLandDestroyer.label>
+            <VFEM_ShipLandDestroyer.letterLabel>Nave aterrisada: contratorpedeiro</VFEM_ShipLandDestroyer.letterLabel>
+            <VFEM_ShipLandDestroyer.letterText>{0} enviou uma nova nave para pousar no planeta.\n\nO contratorpedeiro é uma nave de tamanho médio que geralmente serve como defensor da colmeia mecanóide. Não tem defesas de curto alcance. Quando destruída, a presença de mecanóide na superfície será reduzida.\n\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanóide.</VFEM_ShipLandDestroyer.letterText>
+
+        <!-- Ship Landing Cruiser -->
+            <VFEM_ShipLandCruiser.label>aterrisagem de nave cruzadora</VFEM_ShipLandCruiser.label>
+            <VFEM_ShipLandCruiser.letterLabel>Nave aterrisada: cruzador</VFEM_ShipLandCruiser.letterLabel>
+            <VFEM_ShipLandCruiser.letterText>{0} enviou uma nova nave para pousar no planeta.\n\nO cruzador é uma nave de tamanho médio geralmente servindo como uma grande parte de uma frota mecanóide. Tem uma série de medidas defensivas de curto alcance, mas carece de armamento de longo alcance. Quando destruída, a presença de mecanóide na superfície será reduzida.\b\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanóide.</VFEM_ShipLandCruiser.letterText>
+
+        <!-- Ship Landing Troopship -->
+            <VFEM_ShipLandTroopship.label>aterrisagem de nave transportadora</VFEM_ShipLandTroopship.label>
+            <VFEM_ShipLandTroopship.letterLabel>Nave aterrisada: transportador</VFEM_ShipLandTroopship.letterLabel>
+            <VFEM_ShipLandTroopship.letterText>{0} enviou uma nova nave para pousar no planeta.\n\nA nave é uma grande nave-fábrica mecanóide, capaz de produzir grandes quantidades de mecanóides prontos para o combate em muito pouco tempo. Quando destruída, a presença de mecanóide na superfície será reduzida.\n\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanóide.</VFEM_ShipLandTroopship.letterText>
+
+        <!-- Ship Landing Carrier -->
+            <VFEM_ShipLandCarrier.label>aterrisagem de nave carregadora</VFEM_ShipLandCarrier.label>
+            <VFEM_ShipLandCarrier.letterLabel>Nave aterrisada: carregador</VFEM_ShipLandCarrier.letterLabel>
+            <VFEM_ShipLandCarrier.letterText>{0} enviou uma nova nave para pousar no planeta\n\nO carregador é a maior nave da colmeia mecanóide, fortemente protegida e com vários meios de produzir novas unidades mecanóides prontas para o combate. Quando destruída, a presença de mecanóide na superfície será reduzida.\n\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanóide.</VFEM_ShipLandCarrier.letterText>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- None Shall Pass -->
             <VFEM_BlackKnight.label>ninguém passará</VFEM_BlackKnight.label>
@@ -167,5 +202,15 @@
         <!-- Drunk Muffalos -->
             <DrunkMuffalos.label>Múfalos bêbados</DrunkMuffalos.label>
             <DrunkMuffalosLTS.label>Múfalos bêbados</DrunkMuffalosLTS.label>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- One Night Stand -->
+            <VSIE_OneNightStand.label>Encontro casual</VSIE_OneNightStand.label>
+
+    <!-- Vanilla Storytellers Expanded - Perry Persistent -->
+        <!-- Man In The Coat -->
+            <VSE_ManInTheCoatJoin.label>homem de casaco</VSE_ManInTheCoatJoin.label>
+            <VSE_ManInTheCoatJoin.letterLabel>Homem de Casaco</VSE_ManInTheCoatJoin.letterLabel>
+            <VSE_ManInTheCoatJoin.letterText>Percebendo problemas, um misterioso [PAWN_kind] chegou.\n\n[PAWN_pronoun] poderá investigar a situação atual e encerrar o caso?</VSE_ManInTheCoatJoin.letterText>
 
 </LanguageData>
