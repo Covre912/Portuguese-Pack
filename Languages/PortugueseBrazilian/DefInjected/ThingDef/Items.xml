@@ -86,6 +86,55 @@
         <!-- Unfinished Animal Part -->
             <UnfinishedAnimalPart.label>parte de animal inacabada</UnfinishedAnimalPart.label>
 
+	<!-- Argón's Tribal Medicine -->
+		<!-- Advanved Herbal Medicine -->
+			<TM_AdvancedMedicine.label>medicina natural avançada</TM_AdvancedMedicine.label>
+			<TM_AdvancedMedicine.description>Um pacote de misturas de ervas extraídas de várias plantas medicinais. É menos potente do que as medicinas industriais, mas muito melhor do que as medicinas naturais.\nEste remédio é valorizado pelas tribos, pois se sabe que nas mãos de um bom xamã, pode salvar a vida das pessoas.</TM_AdvancedMedicine.description>
+
+		<!-- White Broots -->
+			<TM_RawBroots.label>dálias</TM_RawBroots.label>
+			<TM_RawBroots.description>Flores brancas fibrosas. Os povos tribais têm o conhecimento para usá-los para a preparação de misturas medicinais.</TM_RawBroots.description>
+
+		<!-- Red Petals -->
+			<TM_RawRedPetals.label>rosas</TM_RawRedPetals.label>
+			<TM_RawRedPetals.description>Rosas pequenas e macias. Os povos tribais detêm o conhecimento para usá-las para a preparação de misturas medicinais.</TM_RawRedPetals.description>
+
+		<!-- Shrooms -->
+			<TM_RawShrooms.label>cogumelos</TM_RawShrooms.label>
+			<TM_RawShrooms.description>Pequenos cogumelos usados ​​por tribos para fabricação de misturas medicinais, inúteis para a maioria das civilizações avançadas.</TM_RawShrooms.description>
+
+		<!-- Raw Dark Berries -->
+			<TM_RawDarkBerries.label>amoras</TM_RawDarkBerries.label>
+			<TM_RawDarkBerries.description>Pequenos frutos pretos de um arbusto estranho, podem ser ruins para o organismo, a menos que você saiba como usá-los.</TM_RawDarkBerries.description>
+
+		<!-- Flu Tea -->
+			<TM_FluTea.label>chá vermelho</TM_FluTea.label>
+			<TM_FluTea.description>Um chá tribal feito de rosas e ervas medicinais, leva muito tempo para preparar e perde seus efeitos relativamente rápido se não for consumido.\n\nEste chá especial é frequentemente usado para prevenir o adoecimento por gripe, os efeitos duram muito, mas os efeitos imediatos podem ser irritantes.</TM_FluTea.description>
+
+		<!-- Immunity Tea -->
+			<TM_ImmunityTea.label>chá preto</TM_ImmunityTea.label>
+			<TM_ImmunityTea.description>Um chá tribal feito de amoras e dálias, tem um gosto ruim e pode até causar tontura e vômito, mas concede um grande aumento na velocidade de ganho de imunidade.</TM_ImmunityTea.description>
+
+		<!-- Curative Tea -->
+			<TM_CurativeTea.label>chá branco</TM_CurativeTea.label>
+			<TM_CurativeTea.description>Um chá tribal feito de cogumelos que deve ser bebido em temperatura alta.\n\nApesar de cogumelos terem grandes propriedades medicinais, eles também deixam as pessoas realmente sonolentas.</TM_CurativeTea.description>
+
+		<!-- Digestive Tea -->
+			<TM_DigestiveTea.label>chá verde</TM_DigestiveTea.label>
+			<TM_DigestiveTea.description>Um chá tribal feito de dálias e raízes de cura altamente fervidas, leva muito tempo para fazer e é muito nojento, mas ajuda muito a acalmar os efeitos da intoxicação alimentar, além de reduzir a fome, melhorando o metabolismo e prevenindo futuros envenenamentos.</TM_DigestiveTea.description>
+
+		<!-- Hallucination Tea -->
+			<TM_HallucinationTea.label>chá de cogumelos</TM_HallucinationTea.label>
+			<TM_HallucinationTea.description>Um chá tribal feito de psicóides, amoras e cogumelos. Estes últimos devem passar por um processo de fervura para aumentar suas propriedades alucinógenas.\n\nEste chá é usado por povos tribais como método de relaxamento e meditação, produz um alto estado de felicidade e força psíquica, entretanto reduz o controle sobre o corpo e torna o usuário muito mais sensível à dor.</TM_HallucinationTea.description>
+
+		<!-- Hunger Tea -->
+			<TM_HungerTea.label>chá de rosas</TM_HungerTea.label>
+			<TM_HungerTea.description>Um chá espesso feito de rosas desidratadas e restos de matéria animal morta, as rosas expelem uma substância estranha que reage com células de animais mortos e permite a criação deste chá.\n\nQuando consumido, o usuário experimenta sensações estranhas em suas vísceras que doem se eles se moverem muito, isso é causado porque o chá ajuda lentamente o corpo a reprocessar oxigênio e excrementos como nutrientes para manter o usuário vivo.\n\nEste chá é comumente usado por tribos para sobreviver à fome.</TM_HungerTea.description>
+
+		<!-- Insanity Tea -->
+			<TM_InsanityTea.label>ayahuasca</TM_InsanityTea.label>
+			<TM_InsanityTea.description>Um chá tribal feito de dálias concentradas e folhas-de-fumo, esses dois ingredientes produzem uma estranha reação química quando fervidos juntos.\n\nEste chá é usado por algumas tribos antigas como uma forma de "purificar a alma". O chá faz com que o usuário passe um ou dois dias em estado de total insanidade, mas após o efeito ser absorvido pelo organismo e o usuário voltar ao seu estado normal, muitas pessoas disseram que se sentiram muito mais felizes e que agora entenda o propósito da vida. De qualquer forma, algumas pessoas também disseram que agora vivem um pesadelo e se suicidaram.</TM_InsanityTea.description>
+
     <!-- Expanded Materials - Metals -->
         <!-- Fossil -->
             <VMEu_Fossil.label>fóssil</VMEu_Fossil.label>

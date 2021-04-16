@@ -7,6 +7,15 @@
             <MakeWoolCloth.description>Tece qualquer tipo de lã em um tear para criar tecido.</MakeWoolCloth.description>
             <MakeWoolCloth.jobString>Tecendo lã.</MakeWoolCloth.jobString>
 
+    <!-- Argón's Tribal Medicine -->
+        <!-- Hunger Tea -->
+            <TM_MakeHungerTeas.label>fazer chá de rosas</TM_MakeHungerTeas.label>
+            <TM_MakeHungerTeas.description>Faça chá de rosas com pétalas vermelhas e couro.</TM_MakeHungerTeas.description>
+            <TM_MakeHungerTeas.jobString>Fazendo chá de rosas.</TM_MakeHungerTeas.jobString>
+            <TM_MakeHungerTeasFour.label>fazer chá de rosas (x4)</TM_MakeHungerTeasFour.label>
+            <TM_MakeHungerTeasFour.description>Faça chá de rosas com pétalas vermelhas e couro.</TM_MakeHungerTeasFour.description>
+            <TM_MakeHungerTeasFour.jobString>Fazendo chá de rosas.</TM_MakeHungerTeasFour.jobString>
+
     <!-- Expanded Materials - Metals -->
         <!-- Charcoal -->
             <VMEu_MakeCharcoal.label>fazer carvão vegetal</VMEu_MakeCharcoal.label>

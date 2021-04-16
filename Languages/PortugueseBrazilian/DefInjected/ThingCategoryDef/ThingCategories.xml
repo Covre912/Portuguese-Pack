@@ -3,7 +3,11 @@
 
     <!-- A Dog Said... Animal Prosthetics -->
         <!-- Animal Body Part-->
-            <BodyPartsAnimalArtificial.label>parte do corpo de animal</BodyPartsAnimalArtificial.label>
+            <BodyPartsAnimalArtificial.label>partes do corpo de animal</BodyPartsAnimalArtificial.label>
+
+    <!-- Argón's Tribal Medicine -->
+        <!-- Medical Herbs -->
+            <TM_MedicalHerbs.label>ervas medicinais</TM_MedicalHerbs.label>
 
     <!-- Expanded Materials - Metals -->
         <!-- Special Metals -->

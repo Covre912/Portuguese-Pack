@@ -14,6 +14,11 @@
 		    <AnimalHeal.label>tratamento veterinário</AnimalHeal.label>
 		    <AnimalHeal.description>Aprenda a curar feridas antigas em animais.</AnimalHeal.description>
 
+    <!-- Argón's Tribal Medicine -->
+        <!-- Tribal Medical Herbs -->
+            <TM_TribalMedicalHerbs.label>ervas medicinais tribais</TM_TribalMedicalHerbs.label>
+            <TM_TribalMedicalHerbs.description>O conhecimento de antigas tribos que usavam plantas estranhas para fazer misturas e remédios médicos.</TM_TribalMedicalHerbs.description>
+
     <!-- Expanded Materials - Metals -->
         <!-- Concrete Making -->
             <VMEu_ConcreteMaking.label>fabricação de concreto</VMEu_ConcreteMaking.label>

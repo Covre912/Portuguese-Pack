@@ -27,30 +27,76 @@
             <BionicAnimalKidney.label>rim de animal biônico</BionicAnimalKidney.label>
             <BionicAnimalStomach>estômago de animal biônico</BionicAnimalStomach>
 
-    <!-- Psychology (unofficial 1.1/1.2) -->]
+    <!-- Argón's Tribal Medicine -->
+        <!-- Flu Tea Effect -->
+            <TM_FluTeaEffect.label>sob efeito de chá vermelho</TM_FluTeaEffect.label>
+            <TM_FluTeaEffect.description>Concede imunidade à gripe</TM_FluTeaEffect.description>
+            <TM_FluTeaEffect.stages.0.label>estável</TM_FluTeaEffect.stages.0.label>
+            <TM_FluTeaEffect.stages.1.label>iminente</TM_FluTeaEffect.stages.1.label>
+
+        <!-- Immunity Tea Effect -->
+            <TM_ImmunityTeaEffect.label>sob efeito de chá preto</TM_ImmunityTeaEffect.label>
+            <TM_ImmunityTeaEffect.description>Aumenta a velocidade de ganho de imunidade.</TM_ImmunityTeaEffect.description>
+            <TM_ImmunityTeaEffect.stages.0.label>menor</TM_ImmunityTeaEffect.stages.0.label>
+            <TM_ImmunityTeaEffect.stages.1.label>maior</TM_ImmunityTeaEffect.stages.1.label>
+
+        <!-- Curative Tea Effect -->
+            <TM_CurativeTeaEffect.label>sob efeito de chá branco</TM_CurativeTeaEffect.label>
+            <TM_CurativeTeaEffect.description>Ajuda a reduzir a gravidade de várias doenças.</TM_CurativeTeaEffect.description>
+            <TM_CurativeTeaEffect.stages.0.label>estável</TM_CurativeTeaEffect.stages.0.label>
+
+        <!-- Digestive Tea Effect -->
+            <TM_DigestiveTeaEffect.label>sob efeito de chá verde</TM_DigestiveTeaEffect.label>
+            <TM_DigestiveTeaEffect.description>Ajuda a reduzir a gravidade da intoxicação alimentar.</TM_DigestiveTeaEffect.description>
+            <TM_DigestiveTeaEffect.stages.0.label>estável</TM_DigestiveTeaEffect.stages.0.label>
+
+        <!-- Hallucination Tea Effect -->
+            <TM_HallucinationTeaEffect.label>sob efeito de chá de cogumelos</TM_HallucinationTeaEffect.label>
+            <TM_HallucinationTeaEffect.description>Ajuda a reduzir a gravidade da intoxicação alimentar.</TM_HallucinationTeaEffect.description>
+            <TM_HallucinationTeaEffect.stages.0.label>menor</TM_HallucinationTeaEffect.stages.0.label>
+            <TM_HallucinationTeaEffect.stages.1.label>maior</TM_HallucinationTeaEffect.stages.1.label>
+
+        <!-- Insanity Tea Effect -->
+            <TM_InsanityTeaEffect.label>viajando na ayahuasca</TM_InsanityTeaEffect.label>
+            <TM_InsanityTeaEffect.description>Em estado de total insanidade, não é recomendável ficar perto do usuário enquanto ele experimenta os efeitos deste chá.</TM_InsanityTeaEffect.description>
+            <TM_InsanityTeaEffect.stages.0.label>passando</TM_InsanityTeaEffect.stages.0.label>
+            <TM_InsanityTeaEffect.stages.1.label>severo</TM_InsanityTeaEffect.stages.1.label>
+            <TM_InsanityTeaEffect.stages.2.label>iniciando</TM_InsanityTeaEffect.stages.2.label>
+
+        <!-- Hunger Tea Effect -->
+            <TM_HungerTeaEffect.label>sob efeito de chá de rosas</TM_HungerTeaEffect.label>
+            <TM_HungerTeaEffect.description>Reduz enormemente a taxa de fome, mas reduz significativamente o movimento e aumenta o cansaço.</TM_HungerTeaEffect.description>
+
+        <!-- Shrooms Poisoning -->
+            <TM_ShroomsPoison.label>envenenamento por cogumelos</TM_ShroomsPoison.label>
+            <TM_ShroomsPoison.description>O veneno de cogumelos crus. Este colono pode sofrer múltiplos ataques cardíacos.</TM_ShroomsPoison.description>
+            <TM_ShroomsPoison.stages.0.label>menor</TM_ShroomsPoison.stages.0.label>
+            <TM_ShroomsPoison.stages.1.label>severo</TM_ShroomsPoison.stages.1.label>
+
+    <!-- Psychology (unofficial 1.1/1.2) -->
         <!-- Holding Conversation -->
             <HoldingConversation.label>conversa</HoldingConversation.label>
-            <HoldingConversation.description>Conversa</HoldingConversation.description>
+            <HoldingConversation.description>Conversa.</HoldingConversation.description>
             <HoldingConversation.stages.0.label>escondido</HoldingConversation.stages.0.label>
 
         <!-- Mayor -->
             <Mayor.label>prefeito</Mayor.label>
-            <Mayor.description>Prefeito da colônia</Mayor.description>
+            <Mayor.description>Prefeito da colônia.</Mayor.description>
             <Mayor.stages.0.label>escondido</Mayor.stages.0.label>
 
         <!-- Planned Date -->
             <PlannedDate.label>encontro</PlannedDate.label>
-            <PlannedDate.description>Encontro planejado</PlannedDate.description>
+            <PlannedDate.description>Encontro planejado.</PlannedDate.description>
             <PlannedDate.stages.0.label>escondido</PlannedDate.stages.0.label>
 
         <!-- Planned Funeral -->
             <PlannedFuneral.label>funeral planejado</PlannedFuneral.label>
-            <PlannedFuneral.description>Funeral planejado</PlannedFuneral.description>
+            <PlannedFuneral.description>Funeral planejado.</PlannedFuneral.description>
             <PlannedFuneral.stages.0.label>escondido</PlannedFuneral.stages.0.label>
 
         <!-- Anxiety -->
             <Anxiety.label>ansiedade</Anxiety.label>
-            <Anxiety.description>Ansiedade</Anxiety.description>
+            <Anxiety.description>Ansiedade.</Anxiety.description>
             <Anxiety.stages.0.label>controlada</Anxiety.stages.0.label>
             <Anxiety.stages.1.label>menor</Anxiety.stages.1.label>
             <Anxiety.stages.2.label>menor</Anxiety.stages.2.label>
@@ -60,23 +106,23 @@
 
         <!-- Recovering Pyromaniac -->
             <RecoveringPyromaniac.label>recuperar piromaníaco</RecoveringPyromaniac.label>
-            <RecoveringPyromaniac.description>Recuperar piromaníaco</RecoveringPyromaniac.description>
+            <RecoveringPyromaniac.description>Recuperar piromaníaco.</RecoveringPyromaniac.description>
 
         <!-- Drug Free -->
             <DrugFree.label>livre de drogas</DrugFree.label>
-            <DrugFree.description>Livre de drogas</DrugFree.description>
+            <DrugFree.description>Livre de drogas.</DrugFree.description>
 
         <!-- Antidepressants -->
             <Antidepressants.label>antidepressivo</Antidepressants.label>
-            <Antidepressants.description>Efeito antidepressivo</Antidepressants.description>
+            <Antidepressants.description>Efeito antidepressivo.</Antidepressants.description>
 
         <!-- Sleeping Pills -->
             <SleepingPills.label>sedativos prescritos</SleepingPills.label>
-            <SleepingPills.description>Efeito de pílulas para dormir</SleepingPills.description>
+            <SleepingPills.description>Efeito de pílulas para dormir.</SleepingPills.description>
 
         <!-- Methadone -->
             <MethadoneHigh.label>metadona</MethadoneHigh.label>
-            <MethadoneHigh.description>Sob efeito de metadona</MethadoneHigh.description>
+            <MethadoneHigh.description>Sob efeito de metadona.</MethadoneHigh.description>
             <MethadoneTolerance.label>tolerância à metadona</MethadoneTolerance.label>
             <MethadoneTolerance.description>Desenvolveu tolerância à metadona</MethadoneTolerance.description>
             <MethadoneAddiction.label>vício em metadona</MethadoneAddiction.label>
@@ -86,15 +132,15 @@
     <!-- Vanilla Events Expanded -->
         <!-- Taritor -->
             <Traitor.label>traidor</Traitor.label>
-            <Traitor.description>traidor</Traitor.description>
+            <Traitor.description>Traidor.</Traitor.description>
 
         <!-- Stand Off -->
             <StandOff.label>impasse</StandOff.label>
-            <StandOff.description>impasse</StandOff.description>
+            <StandOff.description>Impasse.</StandOff.description>
 
         <!-- Might Join -->
             <MightJoin.label>pode juntar-se</MightJoin.label>
-            <MightJoin.description>pode juntar-se</MightJoin.description>
+            <MightJoin.description>Pode juntar-se.</MightJoin.description>
 
     <!-- Vanilla Expanded Framework -->
         <!-- Acid Buildup -->
@@ -114,11 +160,11 @@
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Faster Moviment -->
             <VFE_FasterMovement.label>bônus de velocidade de movimento</VFE_FasterMovement.label>
-            <VFE_FasterMovement.description>bônus de velocidade de movimento</VFE_FasterMovement.description>
+            <VFE_FasterMovement.description>Bônus de velocidade de movimento.</VFE_FasterMovement.description>
         
         <!-- Mechanoid Uplink -->
             <VFE_MechanoidUplink.label>vínculo mecanóide</VFE_MechanoidUplink.label>
-            <VFE_MechanoidUplink.description>vínculo mecanóide</VFE_MechanoidUplink.description>
+            <VFE_MechanoidUplink.description>Vínculo mecanóide.</VFE_MechanoidUplink.description>
 
     <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Wanted -->

@@ -520,6 +520,14 @@
         <!-- Already Doing -->
             <AlreadyDoing>(Trabalho #{0})</AlreadyDoing>
 
+    <!-- Argón's Tribal Medicine -->
+        <!-- Item Processor -->
+        	<VMEu_InsertPlasticDesc>Inserir plástico líquido.</VMEu_InsertPlasticDesc>
+	        <VMEu_StartInsertionPlastic>Inserir Plástico Líquido</VMEu_StartInsertionPlastic>
+	        <VMEu_StartInsertionPlasticDesc>Insira um plástico líquido para o processador para iniciar o processamento.</VMEu_StartInsertionPlasticDesc>
+	        <VMEu_CancelBringingPlastic>Cancelar Inserir Plástico Líquido</VMEu_CancelBringingPlastic>
+	        <VMEu_CancelBringingPlasticDesc>Cancela inserir plástico líquido para o processador.</VMEu_CancelBringingPlasticDesc>
+
     <!-- Dress Patients -->
         <!-- Dress Patient -->
             <DressOther>Vestir {0}</DressOther>

@@ -60,6 +60,29 @@
  			<NeedBeautyAesthete.stages.5.label>ambiente belo</NeedBeautyAesthete.stages.5.label>
             <NeedBeautyAesthete.stages.5.description>Este lugar é lindo. Eleva meu espírito e me faz amar a vida.</NeedBeautyAesthete.stages.5.description>
 
+    <!-- Argón's Tribal Medicine -->
+        <!-- Disgusting Tea -->
+            <TM_FluTeaEffectThought.stages.0.label>chá nojento</TM_FluTeaEffectThought.stages.0.label>
+            <TM_FluTeaEffectThought.stages.0.description>Credo! Eu sei que o chá é bom para o meu corpo, mas tem um gosto horrível e me deixa tonto(a).</TM_FluTeaEffectThought.stages.0.description>
+            <TM_ImmunityTeaEffectThought.stages.0.label>chá nojento</TM_ImmunityTeaEffectThought.stages.0.label>
+            <TM_ImmunityTeaEffectThought.stages.0.description>Credo! Eu sei que o chá é bom para o meu corpo, mas tem um gosto horrível e me deixa tonto(a).</TM_ImmunityTeaEffectThought.stages.0.description>
+            <TM_CurativeTeaEffectThought.stages.0.label>chá nojento</TM_CurativeTeaEffectThought.stages.0.label>
+            <TM_CurativeTeaEffectThought.stages.0.description>Credo! Eu sei que o chá é bom para o meu corpo, mas tem um gosto horrível e me deixa tonto(a).</TM_CurativeTeaEffectThought.stages.0.description>
+            <TM_DigestiveTeaEffectThought.stages.0.label>chá nojento</TM_DigestiveTeaEffectThought.stages.0.label>
+            <TM_DigestiveTeaEffectThought.stages.0.description>Credo! Eu sei que o chá é bom para o meu corpo, mas tem um gosto horrível e me deixa tonto(a).</TM_DigestiveTeaEffectThought.stages.0.description>
+            <TM_HungerTeaEffectThought.stages.0.label>chá nojento</TM_HungerTeaEffectThought.stages.0.label>
+            <TM_HungerTeaEffectThought.stages.0.description>Ahhg! Eu sei que isso provavelmente vai me salvar de morrer de fome, mas me sinto muito cansado e fraco, também a ideia de processar meus próprios excrementos em nutrientes me assusta completamente.</TM_HungerTeaEffectThought.stages.0.description>
+
+        <!-- Hallucination Tea -->
+            <TM_HallucinationTeaEffectThought.stages.0.label>chá de cogumelos</TM_HallucinationTeaEffectThought.stages.0.label>
+            <TM_HallucinationTeaEffectThought.stages.0.description>Sinto-me em paz ... sou um com a força da natureza.</TM_HallucinationTeaEffectThought.stages.0.description>
+
+        <!-- Insanity Tea -->
+            <TM_InsanityTeaEffectThoughtGood.stages.0.label>alma purificada</TM_InsanityTeaEffectThoughtGood.stages.0.label>
+            <TM_InsanityTeaEffectThoughtGood.stages.0.description>Eu entendo o propósito da vida... estive em contato com os espíritos e finalmente compreendi como funciona o universo, me sinto um deus e estou no controle total da minha existência.</TM_InsanityTeaEffectThoughtGood.stages.0.description>
+            <TM_InsanityTeaEffectThoughtBad.stages.0.label>trauma</TM_InsanityTeaEffectThoughtBad.stages.0.label>
+            <TM_InsanityTeaEffectThoughtBad.stages.0.description>Senti as piores sensações da minha vida, entrei em contato com a morte e vi o propósito da humanidade, não aguento mais, é muita informação para lidar... POR FAVOR, ME LIBERTE!!!</TM_InsanityTeaEffectThoughtBad.stages.0.description>
+
     <!-- Dormitories Not Barracks -->
         <!-- Dormitory -->
             <SleptInDormitory.stages.0.label>dormitório horrível</SleptInDormitory.stages.0.label>

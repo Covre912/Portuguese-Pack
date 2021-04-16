@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Argón's Tribal Medicine -->
+        <!-- Wild White Broots -->
+            <TM_Broots.label>dália selvagem</TM_Broots.label>
+            <TM_Broots.description>Uma flor fibrosa semelhante a uma raiz pequena, elas crescem na natureza e são relativamente difíceis de serem plantadas, os povos tribais sabem como usá-los para preparar misturas medicinais especiais.</TM_Broots.description>
+
+        <!-- Wild Red Petals -->
+            <TM_RedPetals.label>rosa selvagem</TM_RedPetals.label>
+            <TM_RedPetals.description>Flores que crescem uma pequena quantidade de pétalas macias de seda vermelha brilhante, os povos tribais sabem como usá-las para preparar misturas medicinais especiais.</TM_RedPetals.description>
+
+        <!-- Wild Shroms -->
+            <TM_Shrooms.label>cogumelo selvagem</TM_Shrooms.label>
+            <TM_Shrooms.description>Pequenos cogumelos comuns. Os povos tribais parecem colhê-los, devem ser capazes de preparar misturas medicinais com eles.\n\nNão os ingira crus, pois eles são extremamente venenosos.</TM_Shrooms.description>
+
+        <!-- Wild Dark Berries -->
+            <TM_DarkBerries.label>amora selvagem</TM_DarkBerries.label>
+            <TM_DarkBerries.description>Um arbusto compacto e musgoso com uma pequena fruta preta. Amoras têm um sabor suave e salgado que fica na boca por muito tempo e impede as pessoas de sentir sabores, porém é ruim para o organismo.\n\nExistem mitos de que em grandes quantidades elas podem até mesmo curar asma ou doenças cardíacas.</TM_DarkBerries.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Bluebell -->
             <VEE_Plant_Bluebell.label>campânula azul</VEE_Plant_Bluebell.label>
