@@ -2168,6 +2168,71 @@
             <WeaponStats.AccRbName.Medium>Médio</WeaponStats.AccRbName.Medium>
             <WeaponStats.AccRbName.Long>Longo</WeaponStats.AccRbName.Long>
 
+    <!-- Work Tab -->
+        <!-- Work Tab -->
+            <WorkTab>Work Tab</WorkTab>
+
+        <!-- Main Tab Toggle Buttons -->
+	        <WorkTab.PrioritiesSimple>Atualmente mostrando prioridades numéricas\n\nClique para alternar para as propriedades ligar/desligar</WorkTab.PrioritiesSimple>
+	        <WorkTab.PrioritiesDetailed>Atualmente mostrando prioriedades ligar/desligar\n\nClique para alternar para as propriedades numéricas</WorkTab.PrioritiesDetailed>
+	        <WorkTab.PrioritiesTimed>Atualmente mostrando prioridades para o dia todo\n\nClique para alternar para as prioridades programadas</WorkTab.PrioritiesTimed>
+	        <WorkTab.PrioritiesWholeDay>Atualmente mostrando propriedades programadas\n\nClique para alternar paras as properiedades para o dia todo</WorkTab.PrioritiesWholeDay>
+            <WorkTab.ExpandAll>Clique para expandir todas as propriedades\nCtrl-clique os cabeçalhos para alternar as prioridades individuais de expansão</WorkTab.ExpandAll>
+            <WorkTab.CollapseAll>Clique para retrair todas as propriedades\nCtrl-clique os cabeçalhos para alternar as prioridades individuais de expansão</WorkTab.CollapseAll>
+
+        <!-- Column Header Tooltips -->
+            <WorkTab.DetailedColumnTip>Shift + clique esquerdo para aumentar as prioridades\nShift + clique direito para diminuir as prioridades</WorkTab.DetailedColumnTip>
+            <WorkTab.ToggleColumnTip>Shift + clique esquerdo para ligar as prioridades\nShift + clique direito para desligar as prioridades</WorkTab.ToggleColumnTip>
+            <WorkTab.ExpandWorkgiversColumnTip>Ctrl + clique para expandir a lista de prioridades</WorkTab.ExpandWorkgiversColumnTip>
+            <WorkTab.CollapseWorkgiversColumnTip>Ctrl + clique para retrair a lista de prioridades</WorkTab.CollapseWorkgiversColumnTip>
+
+        <!-- Settings -->
+	        <WorkTab.24HourMode>Modo de 24h</WorkTab.24HourMode>
+	        <WorkTab.24HourModeTip>Os horários devem ser mostrados no modo 12h (ex., meio-dia, 9p.m) ou 24h (ex., 12:00, 21:00)?</WorkTab.24HourModeTip>
+	        <WorkTab.MaxPriority>Níveis de prioridade</WorkTab.MaxPriority>
+	        <WorkTab.MaxPriorityTip>Quantos níveis de prioridade devemos usar? (Limitado a entre 4 e 9)</WorkTab.MaxPriorityTip>
+            <WorkTab.PlaySounds>Sons</WorkTab.PlaySounds>
+            <WorkTab.PlaySoundsTip>Tocar sons quando uma prioridade é alterada?</WorkTab.PlaySoundsTip>
+            <WorkTab.PlayCrunch>Sons Crocantes</WorkTab.PlayCrunch>
+            <WorkTab.PlayCrunchTip>Tocar um som crocante quando um colono é atribuído a um trabalho no qual ele não tem habilidade?</WorkTab.PlayCrunchTip>
+            <WorkTab.DisableScrollwheel>Desativar a Roda de Rolagem</WorkTab.DisableScrollwheel>
+            <WorkTab.DisableScrollwheelTip>Desative as funções da roda de rolagem (ao passar o mouse sobre as habilidades)</WorkTab.DisableScrollwheelTip>
+            <WorkTab.VerticalLabels>Nomes Verticais</WorkTab.VerticalLabels>
+            <WorkTab.VerticalLabelsTip>Exibir nomes de trabalhos verticalmente</WorkTab.VerticalLabelsTip>
+            <WorkTab.FontFix>Corrigir Fontes Verticais</WorkTab.FontFix>
+            <WorkTab.FontFixTip>A Unity (a engine em que o RimWorld é construído) não lida bem com fontes giradas, causando um borrão. Essa correção remove o desfoque, mas pode causar um posicionamento ligeiramente estranho das letras.</WorkTab.FontFixTip>
+
+        <!-- Scheduler -->
+            <WorkTab.SchedulerHourTip>{0}-{1} é atualmente {2}\n\n{3}</WorkTab.SchedulerHourTip>
+            <WorkTab.Selected>selecionado</WorkTab.Selected>
+            <WorkTab.NotSelected>não selecionado</WorkTab.NotSelected>
+            <WorkTab.ClickToSelect>Clique para selecionar\nShift-clique para desmarcar todos os outros</WorkTab.ClickToSelect>
+            <WorkTab.ClickToFocus>Clique para focar</WorkTab.ClickToFocus>
+            <WorkTab.RightClickToDeselect>Clique direito para desmarcar</WorkTab.RightClickToDeselect>
+	        <midnight>meia-noite</midnight>
+	        <noon>meio-dia</noon>
+	        <WorkTab.SelectWholeDayTip>Selecionar o dia inteiro</WorkTab.SelectWholeDayTip>
+	        <WorkTab.SelectCurrentHourTip>Selecionar a hora atual</WorkTab.SelectCurrentHourTip>
+
+        <!-- Detailed Tooltips  -->
+            <WorkTab.XIsAssignedToY>{0} é atribuído a {1}</WorkTab.XIsAssignedToY>
+
+        <!-- Pawn Label Tooltip  -->
+            <WorkTab.LabelCellTip>Clique para pular\nShift-clique-esquerdo para aumentar as prioridades\nShift-clique-direito para diminuir as prioridades</WorkTab.LabelCellTip>
+
+        <!-- Favourites -->
+            <Fluffy.WorkTab.CreateFavourite>Criar</Fluffy.WorkTab.CreateFavourite>
+            <Fluffy.WorkTab.LoadFavourite>Carregar</Fluffy.WorkTab.LoadFavourite>
+            <Fluffy.WorkTab.ClearFavourite>Limpar</Fluffy.WorkTab.ClearFavourite>
+            <Fluffy.WorkTab.UnloadFavourite>Descarregar</Fluffy.WorkTab.UnloadFavourite>
+            <Fluffy.WorkTab.DeleteFavourite>Descarregar e Excluir</Fluffy.WorkTab.DeleteFavourite>
+            <Fluffy.WorkTab.DefaultFavouriteLabel>Favorito</Fluffy.WorkTab.DefaultFavouriteLabel>
+            <Fluffy.WorkTab.CreateFavouritesDialogTitle>Crie um novo favorito</Fluffy.WorkTab.CreateFavouritesDialogTitle>
+            <Fluffy.WorkTab.EditFavouritesDialogTitle>Editando "{0}"</Fluffy.WorkTab.EditFavouritesDialogTitle>
+            <Fluffy.WorkTab.FavouriteLabelCannotBeEmpty>O nome favorito não pode estar em branco</Fluffy.WorkTab.FavouriteLabelCannotBeEmpty>
+            <Fluffy.WorkTab.FavouriteInvalidFilename>"{0}" não é um nome válido, os nomes favoritos devem ser nomes de arquivos válidos</Fluffy.WorkTab.FavouriteInvalidFilename>
+            <Fluffy.WorkTab.FavouriteAlreadyExists>Já existe um favorito com esse nome</Fluffy.WorkTab.FavouriteAlreadyExists>
+
     <!-- Zombieland -->
         <!-- Settings -->
             <Zombieland_Settings>Passe o mouse sobre qualquer elemento para ler um texto de ajuda. Todas as configurações podem ser alteradas no jogo e estão ativas imediatamente, elas são salvas com o jogo. Para definir padrões para novos jogos, altere as configurações da tela principal.</Zombieland_Settings>
