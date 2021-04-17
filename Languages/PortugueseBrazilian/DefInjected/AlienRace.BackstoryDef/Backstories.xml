@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- - Xenohumans - Anthromorphs -->
+        <!-- Designer Mate -->
+            <ATK_DesignerMate.title>companheir[PAWN_gender ? o : a] desenhad[PAWN_gender ? o : a]</ATK_DesignerMate.title>
+            <ATK_DesignerMate.titleShort>companheir[PAWN_gender ? o : a]</ATK_DesignerMate.titleShort>
+            <ATK_DesignerMate.baseDescription>[PAWN_nameDef] foi modificad[PAWN_gender ? o : a] no período pré-natal para ser [PAWN_gender ? o : a] parceir[PAWN_gender ? o : a] ideal para um cliente rico e poderoso, e então criado para se adequar às suas necessidades. [PAWN_pronoun] é muito bonit[PAWN_gender ? o : a], naturalmente submiss[PAWN_gender ? o : a] e alegre.</ATK_DesignerMate.baseDescription>
+
+        <!-- Rogue Mate -->
+            <ATK_RogueMate.title>companheir[PAWN_gender ? o : a] rebelde</ATK_RogueMate.title>
+            <ATK_RogueMate.titleShort>rebelde</ATK_RogueMate.titleShort>
+            <ATK_RogueMate.baseDescription>[PAWN_nameDef] era [PAWN_gender ? um : uma] companheir[PAWN_gender ? o : a] desenhad[PAWN_gender ? o : a] que, talvez como resultado de uma falha em sua criação, se tornou raivos[PAWN_gender ? o : a] e matou seu amante. [PAWN_pronoun] conseguiu escapar das autoridades e passou a vagar sem rumo.</ATK_RogueMate.baseDescription>
+
+        <!-- Corporate Product -->
+            <ATK_CorporateProduct.title>produt corporativo</ATK_CorporateProduct.title>
+            <ATK_CorporateProduct.titleShort>escrav[PAWN_gender ? o : a]</ATK_CorporateProduct.titleShort>
+            <ATK_CorporateProduct.baseDescription>[PAWN_nameDef] foi cultivad[PAWN_gender ? o : a] por uma corporação de biotecnologia especializada na produção de escravos planejados para aqueles ricos o suficiente para pagar por eles. [PAWN_pronoun] foi submetid[PAWN_gender ? o : a] a um programa de escolaridade corporativa que enfatizou a obediência e uma ampla gama de habilidades que [PAWN_gender ? o : a] tornariam útil em uma ampla gama de funções para seu futuro proprietário.</ATK_CorporateProduct.baseDescription>
+
+        <!-- Defective -->
+            <ATK_DefectiveProduct.title>produto defeituoso</ATK_DefectiveProduct.title>
+            <ATK_DefectiveProduct.titleShort>escrav[PAWN_gender ? o : a]</ATK_DefectiveProduct.titleShort>
+            <ATK_DefectiveProduct.baseDescription>[PAWN_nameDef] foi cultivad[PAWN_gender ? o : a] por uma corporação de biotecnologia especializada na produção de escravos planejados para aqueles ricos o suficiente para pagar por eles. No entanto, um erro na linha de origem usada para sua criação resultou em que [PAWN_pronoun] não atendesse aos padrões exigidos pela corporação e foi vendid[PAWN_gender ? o : a] com prejuízo para uma empresa de mineração.</ATK_DefectiveProduct.baseDescription>
+
+        <!-- Skyfaller -->
+            <ATK_Skyfaller.title>caíd[PAWN_gender ? o : a] do céu</ATK_Skyfaller.title>
+            <ATK_Skyfaller.titleShort>criança do céu</ATK_Skyfaller.titleShort>
+            <ATK_Skyfaller.baseDescription>[PAWN_nameDef] foi encontrad[PAWN_gender ? o : a] por uma comunidade tribal depois que uma estrela caiu do céu, entre os restos rachados de um ovo de metal. [PAWN_pronoun] era apenas uma criança pequena, e não tinha memórias. A comunidade tribal [PAWN_gender ? o : a] acolheu e criou como um deles, por isso [PAWN_pronoun] ajudou a cuidar dos animais e dos campos enquanto crescia.</ATK_Skyfaller.baseDescription>
+
+        <!-- Engineered Sex Slave -->
+            <ATK_EngineeredSexSlave.title>escrav[PAWN_gender ? o : a] sexual projetad[PAWN_gender ? o : a]</ATK_EngineeredSexSlave.title>
+            <ATK_EngineeredSexSlave.titleShort>escrav[PAWN_gender ? o : a]</ATK_EngineeredSexSlave.titleShort>
+            <ATK_EngineeredSexSlave.baseDescription>[PAWN_nameDef] era [PAWN_gender ? ujm : uma] escrav[PAWN_gender ? o : a] sexual que foi geneticamente modificad[PAWN_gender ? o : a] para se adequar aos gostos de um cliente rico. As modificações foram feitas contra a sua vontade, uma experiência que [PAWN_gender ? o : a] afetou permanentemente.</ATK_EngineeredSexSlave.baseDescription>
+
+        <!-- Ubworld Actor -->
+            <ATK_UrbworldActor.title>[PAWN_gender ? ator : atriz] do mundo urbano</ATK_UrbworldActor.title>
+            <ATK_UrbworldActor.titleShort>[PAWN_gender ? ator : atriz]</ATK_UrbworldActor.titleShort>
+            <ATK_UrbworldActor.baseDescription>[PAWN_nameDef] foi [PAWN_gender ? um : uma] [PAWN_gender ? ator : atriz] famos[PAWN_gender ? o : a] em um distante mundo urbano, conhecid[PAWN_gender ? o : a] por seu carisma que dominou todas as cenas em que [PAWN_pronoun] estava. Uma mudança em sua fortuna [PAWN_gender ? o : a] levou a concordar em assumir um papel que exigiria algumas viagens para fora de seu mundo.</ATK_UrbworldActor.baseDescription>
+
+        <!-- Glitterworld Fashionsta -->
+            <ATK_GlitteworldFashionista.title>fashionista do mundo bilhante</ATK_GlitteworldFashionista.title>
+            <ATK_GlitteworldFashionista.titleShort>fashionista</ATK_GlitteworldFashionista.titleShort>
+            <ATK_GlitteworldFashionista.baseDescription>[PAWN_nameDef] foi dedicad[PAWN_gender ? o : a] às tendências da moda do mundo brilhante que [PAWN_pronoun] chamava de casa. Quando ficou na moda modificar-se para ter características animais, [PAWN_pronoun] adotou isso de todo o coração, ficando sujeit[PAWN_gender ? o : a] em uma dívida significativa no processo de remodelação que fez a si.</ATK_GlitteworldFashionista.baseDescription>
+
+        <!-- Fashion Genesulptor -->
+            <ATK_FashionGenesculptor.title>[PAWN_gender ? escultor : escultora] de genes</ATK_FashionGenesculptor.title>
+            <ATK_FashionGenesculptor.titleShort>[PAWN_gender ? escultor : escultora] de genes</ATK_FashionGenesculptor.titleShort>
+            <ATK_FashionGenesculptor.baseDescription>[PAWN_nameDef] foi [PAWN_gender ? um : uma] cientista que trabalhou na modificação de humanos com genes para a moda, um papel que era em partes ciência e arte. Para incentivar os clientes e para seu próprio prazer, [PAWN_pronoun] passou por um conjunto de modificações semelhantes àquelas que vendia.</ATK_FashionGenesculptor.baseDescription>
+
+        <!-- Totem Animal -->
+            <ATK_TotemAnimal.title>totem animal</ATK_TotemAnimal.title>
+            <ATK_TotemAnimal.titleShort>totem</ATK_TotemAnimal.titleShort>
+            <ATK_TotemAnimal.baseDescription>[PAWN_nameDef] foi adotad[PAWN_gender ? o : a] por uma sociedade tribal. Normalmente desconfiando de estranhos, eles viram em [PAWN_nameDef] uma realização de suas crenças animistas e [PAWN_gender ? o : a] veneraram como um totem vivo. [PAWN_pronoun] foi capaz de se adaptar à sua nova situação com notável facilidade, graças ao respeito e cuidado com que a tribo [PAWN_gender ? o : a] tratou.</ATK_TotemAnimal.baseDescription>
+
+        <!-- Mad Scientist -->
+            <ATK_MadScientist.title>cientista maluc[PAWN_gender ? o : a]</ATK_MadScientist.title>
+            <ATK_MadScientist.titleShort>cientisa</ATK_MadScientist.titleShort>
+            <ATK_MadScientist.baseDescription>[PAWN_nameDef] era [PAWN_gender ? um : uma] cientista maluc[PAWN_gender ? o : a], livre de quaisquer preocupações éticas. Pelo bem de todos, [PAWN_pronoun] estava mais obcecad[PAWN_gender ? o : a] em modificar a si mesm[PAWN_gender ? o : a] do que sujeitar os outros a sua curiosidade científica.</ATK_MadScientist.baseDescription>
+
+        <!-- Urbworld Dancer -->
+            <ATK_UrbworldDancer.title>dançarin[PAWN_gender ? o : a] do mundo urbano</ATK_UrbworldDancer.title>
+            <ATK_UrbworldDancer.titleShort>dançarin[PAWN_gender ? o : a]</ATK_UrbworldDancer.titleShort>
+            <ATK_UrbworldDancer.baseDescription>[PAWN_nameDef] fazia parte de uma renomada trupe de dança em um distante mundo urbano. [PAWN_pronoun] era muito famos[PAWN_gender ? o : a] por sua graça física e agilidade, e eventualmente sua reputação se espalhou para além de seu planeta de origem. A trupe foi contratada para fazer uma turnê fora do mundo a mando de um rico magnata de um mundo brilhante, que envolveu uma extensa viagem interestelar.</ATK_UrbworldDancer.baseDescription>
+
+        <!-- Glitterworld Courtesan -->
+            <ATK_GlitterworldCourtesan.title>cortes[PAWN_gender ? ão : a] do mundo brilhante</ATK_GlitterworldCourtesan.title>
+            <ATK_GlitterworldCourtesan.titleShort>cortes[PAWN_gender ? ão : a]</ATK_GlitterworldCourtesan.titleShort>
+            <ATK_GlitterworldCourtesan.baseDescription>[PAWN_nameDef] era [PAWN_gender ? um : uma] prostitut[PAWN_gender ? o : a] em um estabelecimento altamente exclusivo em um distante mundo brilhante, e [PAWN_pronoun] era bom nisso, capaz de atender às necessidades individuais de sua clientela diversificada. [PAWN_pronoun] também se sentia confortável em remodelar seu corpo para combinar com as tendências da moda atuais.</ATK_GlitterworldCourtesan.baseDescription>
+
+        <!-- Obsessive Enthusiast -->
+            <ATK_ObsessiveEnthusiast.title>entusiasta obsessiv[PAWN_gender ? o : a]</ATK_ObsessiveEnthusiast.title>
+            <ATK_ObsessiveEnthusiast.titleShort>estusiasta</ATK_ObsessiveEnthusiast.titleShort>
+            <ATK_ObsessiveEnthusiast.baseDescription>[PAWN_nameDef] era obcecad[PAWN_gender ? o : a] por animais antropomórficos e não queria nada mais do que se tornar [PAWN_gender ? um : uma]. [PAWN_pronoun] estava entusiasmad[PAWN_gender ? o : a] com isso a um grau que muitas vezes deixava os outros desconfortáveis por estar perto del[PAWN_gender ? o : a] , mas [PAWN_pronoun] eventualmente conseguiu realizar seu sonho.</ATK_ObsessiveEnthusiast.baseDescription>
+
+        <!-- Transanimal -->
+            <ATK_Transanimal.title>transanimal</ATK_Transanimal.title>
+            <ATK_Transanimal.titleShort>animal</ATK_Transanimal.titleShort>
+            <ATK_Transanimal.baseDescription>[PAWN_nameDef] sempre acreditou que era na realidade um animal preso no corpo de um humano. Uma repentina fortuna financeira permitiu que [PAWN_pronoun] realizasse o que acreditava, passando por um procedimento para se tornar o que sempre deveria ser. [PAWN_pronoun] tem jeito com os animais e acredita que sua jornada deixou histórias a serem contadas através de sua arte.</ATK_Transanimal.baseDescription>
+
+        <!-- Beaultiful Assassin -->
+            <ATK_BeautifulAssassin.title>assassin[PAWN_gender ? o : a] bel[PAWN_gender ? o : a]</ATK_BeautifulAssassin.title>
+            <ATK_BeautifulAssassin.titleShort>assassin[PAWN_gender ? o : a]</ATK_BeautifulAssassin.titleShort>
+            <ATK_BeautifulAssassin.baseDescription>[PAWN_nameDef] era [PAWN_gender ? um : uma] assassin[PAWN_gender ? o : a] que usava sua bela aparência para chegar perto de seus alvos e, em seguida, eliminá-los com habilidade profissional. Eventualmente, as autoridades chegaram perto de pegá-l[PAWN_gender ? o : a], tendo assim que fugir para longe.</ATK_BeautifulAssassin.baseDescription>
+
+        <!-- Domestic Slave -->
+            <ATK_DomesticSlave.title>escrav[PAWN_gender ? o : a] doméstic[PAWN_gender ? o : a]</ATK_DomesticSlave.title>
+            <ATK_DomesticSlave.titleShort>escrav[PAWN_gender ? o : a]</ATK_DomesticSlave.titleShort>
+            <ATK_DomesticSlave.baseDescription>[PAWN_nameDef] era [PAWN_gender ? um : uma] escrav[PAWN_gender ? o : a] doméstic[PAWN_gender ? o : a] de uma família rica, gastando seu tempo preparando refeições, limpando, cuidando dos filhos e mantendo os jardim de flores da residência.</ATK_DomesticSlave.baseDescription>
+
+        <!-- Labor Slave -->
+            <ATK_LaborSlave.title>escrav[PAWN_gender ? o : a]</ATK_LaborSlave.title>
+            <ATK_LaborSlave.titleShort>escrav[PAWN_gender ? o : a]</ATK_LaborSlave.titleShort>
+            <ATK_LaborSlave.baseDescription>[PAWN_nameDef] foi escravizad[PAWN_gender ? o : a] por uma corporação do mundo urbano que se concentrava em fornecer mão de obra servil a custos baixos para outras organizações. Assim sendo, [PAWN_pronoun] trabalhou em uma variedade de empregos na construção, na manufatura e na extração de recursos em condições inseguras e desumanas.</ATK_LaborSlave.baseDescription>
+
+        <!-- Tutor -->
+            <ATK_Tutor.title>[PAWN_gender ? tutor : tutora] privad[PAWN_gender ? o : a]</ATK_Tutor.title>
+            <ATK_Tutor.titleShort>[PAWN_gender ? tutor : tutora]</ATK_Tutor.titleShort>
+            <ATK_Tutor.baseDescription>[PAWN_nameDef] era [PAWN_gender ? um : uma] [PAWN_gender ? professor : professora] particular, dando aulas em uma ampla seleção de assuntos para aqueles que podiam pagar seus honorários. [PAWN_pronoun] era bom nisso, ganhando uma rede respeitável de clientes ricos que confiavam nel[PAWN_gender ? o : a] para fazer com que seus filhos continuassem os estudos com boas notas.</ATK_Tutor.baseDescription>
+
+        <!-- Musical Actor -->
+            <ATK_MusicalActor.title>[PAWN_gender ? ator : atriz] musical</ATK_MusicalActor.title>
+            <ATK_MusicalActor.titleShort>artista</ATK_MusicalActor.titleShort>
+            <ATK_MusicalActor.baseDescription>[PAWN_nameDef] foi um membro do elenco de várias produções musicais bem conhecidas em toda a amplitude do espaço humano. [PAWN_pronoun] era conhecid[PAWN_gender ? o : a] pela beleza de suas performances. Todavia, era [PAWN_gender ? seu : sua] própri[PAWN_gender ? o : a] crític[PAWN_gender ? o : a] mais sever[PAWN_gender ? o : a] e reagia mal a qualquer falha percebida em seu trabalho.</ATK_MusicalActor.baseDescription>
+
+        <!-- Rebellious Slave -->
+            <ATK_RebelliousSlave.title>escrav[PAWN_gender ? o : a] rebelde</ATK_RebelliousSlave.title>
+            <ATK_RebelliousSlave.titleShort>rebelde</ATK_RebelliousSlave.titleShort>
+            <ATK_RebelliousSlave.baseDescription>[PAWN_nameDef] era [PAWN_gender ? um : uma] escrav[PAWN_gender ? o : a] que estava zangad[PAWN_gender ? o : a] com sua sorte na vida e falava muito sobre isso. Depois de ter apanhado de seu caoaz mais uma vez, [PAWN_pronoun] revidou e incitou um motim no qual alguns companheiros escravos conseguiram dominar seus donos e escapar, libertando outros escravos no processo. Embora muitos tenham sido recapturados na repressão seguinte, [PAWN_nameDef] conseguiu escapar da captura e os seus compatriotas ainda se lembram de sua bravura.</ATK_RebelliousSlave.baseDescription>
+
+        <!-- Urbworld Master -->
+            <ATK_UrbworldMaster.title>mestre profissional</ATK_UrbworldMaster.title>
+            <ATK_UrbworldMaster.titleShort>mestre</ATK_UrbworldMaster.titleShort>
+            <ATK_UrbworldMaster.baseDescription>[PAWN_nameDef] foi [PAWN_gender ? um : uma] mestre profissional num clube BDSM num mundo urbano distante. [PAWN_pronoun] era conhecid[PAWN_gender ? o : a] pela forma dura como tratava a sua clientela, o que lhe valeu uma extensa lista de clientes, incluindo políticos e outras pessoas poderosas.</ATK_UrbworldMaster.baseDescription>
+
+        <!-- Cluninary Streamer -->
+            <ATK_CulinaryStreamer.title>streamer culinári[PAWN_gender ? o : a]</ATK_CulinaryStreamer.title>
+            <ATK_CulinaryStreamer.titleShort>streamer</ATK_CulinaryStreamer.titleShort>
+            <ATK_CulinaryStreamer.baseDescription>[PAWN_nameDef] era [PAWN_gender ? um : uma] streamer profissional independente e explícit[PAWN_gender ? o : a] que atendia um nicho no mercado. [PAWN_pronoun] preparava vários tipos de comida, desde lanches a refeições, e depois se gravava consumindo-os para uma audiência exclusiva. [PAWN_pronoun] era famos[PAWN_gender ? o : a] dentro dessa comunidade, tanto pela sua cozinha como pela qualidade do seu desempenho enquanto a comia.</ATK_CulinaryStreamer.baseDescription>
+
+</LanguageData>

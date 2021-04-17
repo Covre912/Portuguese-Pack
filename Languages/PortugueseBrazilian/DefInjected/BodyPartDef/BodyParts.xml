@@ -16,4 +16,8 @@
         <!-- Antlers -->
             <AEXP_Antlers.label>chifres</AEXP_Antlers.label>
 
+    <!-- Xenohumans - Anthromorphs -->
+        <!-- Tail -->
+            <ATK_Tail.label>cauda</ATK_Tail.label>
+
 </LanguageData>

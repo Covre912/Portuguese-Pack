@@ -677,6 +677,165 @@
             <MAO_Mechanoids_Assembler.label>construtor automático</MAO_Mechanoids_Assembler.label>]
             <MAO_Mechanoids_Assembler.labelPlural>construtores automáticos</MAO_Mechanoids_Assembler.labelPlural>
 
+    <!-- Xenohumans - Anthromorphs -->
+        <!-- Felinemorph -->
+            <ATK_Mercenary_Elite_Felinemorph.label>mercenário de elite felinomorfo</ATK_Mercenary_Elite_Felinemorph.label>
+            <ATK_Mercenary_Elite_Felinemorph.labelPlural>mercenários de elite felinomorfos</ATK_Mercenary_Elite_Felinemorph.labelPlural>
+            <ATK_Mercenary_Elite_Felinemorph.labelMale>mercenários de elite felinomorfos</ATK_Mercenary_Elite_Felinemorph.labelMale>
+            <ATK_Mercenary_Elite_Felinemorph.labelMalePlural>mercenários de elite felinomorfos</ATK_Mercenary_Elite_Felinemorph.labelMalePlural>
+            <ATK_Mercenary_Elite_Felinemorph.labelFemale>mercenária de elite felinomorfa</ATK_Mercenary_Elite_Felinemorph.labelFemale>
+            <ATK_Mercenary_Elite_Felinemorph.labelFemalePlural>mercenárias de elite felinomorfas</ATK_Mercenary_Elite_Felinemorph.labelFemalePlural>
+
+         <!-- Villager -->
+            <ATK_Villager_Felinemorph.label>aldeão</ATK_Villager_Felinemorph.label>
+            <ATK_Villager_Felinemorph.labelPlural>aldeões</ATK_Villager_Felinemorph.labelPlural>
+            <ATK_Villager_Dragomorph.label>aldeão</ATK_Villager_Dragomorph.label>
+            <ATK_Villager_Dragomorph.labelPlural>aldeões</ATK_Villager_Dragomorph.labelPlural>
+            <ATK_Villager_Caninemorph.label>aldeão</ATK_Villager_Caninemorph.label>
+            <ATK_Villager_Caninemorph.labelPlural>aldeões</ATK_Villager_Caninemorph.labelPlural>
+            <ATK_Villager_Lagomorph.label>aldeão</ATK_Villager_Lagomorph.label>
+            <ATK_Villager_Lagomorph.labelPlural>aldeões</ATK_Villager_Lagomorph.labelPlural>
+            <ATK_Villager_Cervinemorph.label>aldeão</ATK_Villager_Cervinemorph.label>
+            <ATK_Villager_Cervinemorph.labelPlural>aldeões</ATK_Villager_Cervinemorph.labelPlural>
+
+        <!-- Colonist -->
+            <ATK_Colonist_Felinemorph.label>colono</ATK_Colonist_Felinemorph.label>
+            <ATK_Colonist_Felinemorph.labelPlural>colonos</ATK_Colonist_Felinemorph.labelPlural>
+            <ATK_Colonist_Felinemorph.labelMale>colono</ATK_Colonist_Felinemorph.labelMale>
+            <ATK_Colonist_Felinemorph.labelMalePlural>colonos</ATK_Colonist_Felinemorph.labelMalePlural>
+            <ATK_Colonist_Felinemorph.labelFemale>colona</ATK_Colonist_Felinemorph.labelFemale>
+            <ATK_Colonist_Felinemorph.labelFemalePlural>colonas</ATK_Colonist_Felinemorph.labelFemalePlural>
+            <ATK_Colonist_Dragomorph.label>colono</ATK_Colonist_Dragomorph.label>
+            <ATK_Colonist_Dragomorph.labelPlural>colonos</ATK_Colonist_Dragomorph.labelPlural>
+            <ATK_Colonist_Dragomorph.labelMale>colono</ATK_Colonist_Dragomorph.labelMale>
+            <ATK_Colonist_Dragomorph.labelMalePlural>colonos</ATK_Colonist_Dragomorph.labelMalePlural>
+            <ATK_Colonist_Dragomorph.labelFemale>colona</ATK_Colonist_Dragomorph.labelFemale>
+            <ATK_Colonist_Dragomorph.labelFemalePlural>colonas</ATK_Colonist_Dragomorph.labelFemalePlural>
+            <ATK_Colonist_Caninemorph.label>colono</ATK_Colonist_Caninemorph.label>
+            <ATK_Colonist_Caninemorph.labelPlural>colonos</ATK_Colonist_Caninemorph.labelPlural>
+            <ATK_Colonist_Caninemorph.labelMale>colono</ATK_Colonist_Caninemorph.labelMale>
+            <ATK_Colonist_Caninemorph.labelMalePlural>colonos</ATK_Colonist_Caninemorph.labelMalePlural>
+            <ATK_Colonist_Caninemorph.labelFemale>colona</ATK_Colonist_Caninemorph.labelFemale>
+            <ATK_Colonist_Caninemorph.labelFemalePlural>colonas</ATK_Colonist_Caninemorph.labelFemalePlural>
+            <ATK_Colonist_Lagomorph.label>colono</ATK_Colonist_Lagomorph.label>
+            <ATK_Colonist_Lagomorph.labelPlural>colonos</ATK_Colonist_Lagomorph.labelPlural>
+            <ATK_Colonist_Lagomorph.labelMale>colono</ATK_Colonist_Lagomorph.labelMale>
+            <ATK_Colonist_Lagomorph.labelMalePlural>colonos</ATK_Colonist_Lagomorph.labelMalePlural>
+            <ATK_Colonist_Lagomorph.labelFemale>colona</ATK_Colonist_Lagomorph.labelFemale>
+            <ATK_Colonist_Lagomorph.labelFemalePlural>colonas</ATK_Colonist_Lagomorph.labelFemalePlural>
+            <ATK_Colonist_Cervinemorph.label>colono</ATK_Colonist_Cervinemorph.label>
+            <ATK_Colonist_Cervinemorph.labelPlural>colonos</ATK_Colonist_Cervinemorph.labelPlural>
+            <ATK_Colonist_Cervinemorph.labelMale>colono</ATK_Colonist_Cervinemorph.labelMale>
+            <ATK_Colonist_Cervinemorph.labelMalePlural>colonos</ATK_Colonist_Cervinemorph.labelMalePlural>
+            <ATK_Colonist_Cervinemorph.labelFemale>colona</ATK_Colonist_Cervinemorph.labelFemale>
+            <ATK_Colonist_Cervinemorph.labelFemalePlural>colonas</ATK_Colonist_Cervinemorph.labelFemalePlural>
+
+        <!-- Space Refugee -->
+            <ATK_SpaceRefugee_Felinemorph.label>refugiado espacial</ATK_SpaceRefugee_Felinemorph.label>
+            <ATK_SpaceRefugee_Felinemorph.labelPlural>refugiados espaciais</ATK_SpaceRefugee_Felinemorph.labelPlural>
+            <ATK_SpaceRefugee_Felinemorph.labelMale>refugiado espacial</ATK_SpaceRefugee_Felinemorph.labelMale>
+            <ATK_SpaceRefugee_Felinemorph.labelMalePlural>refugiados espaciais</ATK_SpaceRefugee_Felinemorph.labelMalePlural>
+            <ATK_SpaceRefugee_Felinemorph.labelFemale>refugiada espacial</ATK_SpaceRefugee_Felinemorph.labelFemale>
+            <ATK_SpaceRefugee_Felinemorph.labelFemalePlural>refugiadas espaciais</ATK_SpaceRefugee_Felinemorph.labelFemalePlural>
+            <ATK_SpaceRefugee_Clothed_Felinemorph.label>refugiado espacial</ATK_SpaceRefugee_Clothed_Felinemorph.label>
+            <ATK_SpaceRefugee_Clothed_Felinemorph.labelPlural>refugiados espaciais</ATK_SpaceRefugee_Clothed_Felinemorph.labelPlural>
+            <ATK_SpaceRefugee_Clothed_Felinemorph.labelMale>refugiado espacial</ATK_SpaceRefugee_Clothed_Felinemorph.labelMale>
+            <ATK_SpaceRefugee_Clothed_Felinemorph.labelMalePlural>refugiados espaciais</ATK_SpaceRefugee_Clothed_Felinemorph.labelMalePlural>
+            <ATK_SpaceRefugee_Clothed_Felinemorph.labelFemale>refugiada espacial</ATK_SpaceRefugee_Clothed_Felinemorph.labelFemale>
+            <ATK_SpaceRefugee_Clothed_Felinemorph.labelFemalePlural>refugiadas espaciais</ATK_SpaceRefugee_Clothed_Felinemorph.labelFemalePlural>
+            <ATK_SpaceRefugee_Dragomorph.label>refugiado espacial</ATK_SpaceRefugee_Dragomorph.label>
+            <ATK_SpaceRefugee_Dragomorph.labelPlural>refugiados espaciais</ATK_SpaceRefugee_Dragomorph.labelPlural>
+            <ATK_SpaceRefugee_Dragomorph.labelMale>refugiado espacial</ATK_SpaceRefugee_Dragomorph.labelMale>
+            <ATK_SpaceRefugee_Dragomorph.labelMalePlural>refugiados espaciais</ATK_SpaceRefugee_Dragomorph.labelMalePlural>
+            <ATK_SpaceRefugee_Dragomorph.labelFemale>refugiada espacial</ATK_SpaceRefugee_Dragomorph.labelFemale>
+            <ATK_SpaceRefugee_Dragomorph.labelFemalePlural>refugiadas espaciais</ATK_SpaceRefugee_Dragomorph.labelFemalePlural>
+            <ATK_SpaceRefugee_Clothed_Dragomorph.label>refugiado espacial</ATK_SpaceRefugee_Clothed_Dragomorph.label>
+            <ATK_SpaceRefugee_Clothed_Dragomorph.labelPlural>refugiados espaciais</ATK_SpaceRefugee_Clothed_Dragomorph.labelPlural>
+            <ATK_SpaceRefugee_Clothed_Dragomorph.labelMale>refugiado espacial</ATK_SpaceRefugee_Clothed_Dragomorph.labelMale>
+            <ATK_SpaceRefugee_Clothed_Dragomorph.labelMalePlural>refugiados espaciais</ATK_SpaceRefugee_Clothed_Dragomorph.labelMalePlural>
+            <ATK_SpaceRefugee_Clothed_Dragomorph.labelFemale>refugiada espacial</ATK_SpaceRefugee_Clothed_Dragomorph.labelFemale>
+            <ATK_SpaceRefugee_Clothed_Dragomorph.labelFemalePlural>refugiadas espaciais</ATK_SpaceRefugee_Clothed_Dragomorph.labelFemalePlural>
+            <ATK_SpaceRefugee_Caninemorph.label>refugiado espacial</ATK_SpaceRefugee_Caninemorph.label>
+            <ATK_SpaceRefugee_Caninemorph.labelPlural>refugiados espaciais</ATK_SpaceRefugee_Caninemorph.labelPlural>
+            <ATK_SpaceRefugee_Caninemorph.labelMale>refugiado espacial</ATK_SpaceRefugee_Caninemorph.labelMale>
+            <ATK_SpaceRefugee_Caninemorph.labelMalePlural>refugiados espaciais</ATK_SpaceRefugee_Caninemorph.labelMalePlural>
+            <ATK_SpaceRefugee_Caninemorph.labelFemale>refugiada espacial</ATK_SpaceRefugee_Caninemorph.labelFemale>
+            <ATK_SpaceRefugee_Caninemorph.labelFemalePlural>refugiadas espaciais</ATK_SpaceRefugee_Caninemorph.labelFemalePlural>
+            <ATK_SpaceRefugee_Clothed_Caninemorph.label>refugiado espacial</ATK_SpaceRefugee_Clothed_Caninemorph.label>
+            <ATK_SpaceRefugee_Clothed_Caninemorph.labelPlural>refugiados espaciais</ATK_SpaceRefugee_Clothed_Caninemorph.labelPlural>
+            <ATK_SpaceRefugee_Clothed_Caninemorph.labelMale>refugiado espacial</ATK_SpaceRefugee_Clothed_Caninemorph.labelMale>
+            <ATK_SpaceRefugee_Clothed_Caninemorph.labelMalePlural>refugiados espaciais</ATK_SpaceRefugee_Clothed_Caninemorph.labelMalePlural>
+            <ATK_SpaceRefugee_Clothed_Caninemorph.labelFemale>refugiada espacial</ATK_SpaceRefugee_Clothed_Caninemorph.labelFemale>
+            <ATK_SpaceRefugee_Clothed_Caninemorph.labelFemalePlural>refugiadas espaciais</ATK_SpaceRefugee_Clothed_Caninemorph.labelFemalePlural>
+            <ATK_SpaceRefugee_Lagomorph.label>refugiado espacial</ATK_SpaceRefugee_Lagomorph.label>
+            <ATK_SpaceRefugee_Lagomorph.labelPlural>refugiados espaciais</ATK_SpaceRefugee_Lagomorph.labelPlural>
+            <ATK_SpaceRefugee_Lagomorph.labelMale>refugiado espacial</ATK_SpaceRefugee_Lagomorph.labelMale>
+            <ATK_SpaceRefugee_Lagomorph.labelMalePlural>refugiados espaciais</ATK_SpaceRefugee_Lagomorph.labelMalePlural>
+            <ATK_SpaceRefugee_Lagomorph.labelFemale>refugiada espacial</ATK_SpaceRefugee_Lagomorph.labelFemale>
+            <ATK_SpaceRefugee_Lagomorph.labelFemalePlural>refugiadas espaciais</ATK_SpaceRefugee_Lagomorph.labelFemalePlural>
+            <ATK_SpaceRefugee_Clothed_Lagomorph.label>refugiado espacial</ATK_SpaceRefugee_Clothed_Lagomorph.label>
+            <ATK_SpaceRefugee_Clothed_Lagomorph.labelPlural>refugiados espaciais</ATK_SpaceRefugee_Clothed_Lagomorph.labelPlural>
+            <ATK_SpaceRefugee_Clothed_Lagomorph.labelMale>refugiado espacial</ATK_SpaceRefugee_Clothed_Lagomorph.labelMale>
+            <ATK_SpaceRefugee_Clothed_Lagomorph.labelMalePlural>refugiados espaciais</ATK_SpaceRefugee_Clothed_Lagomorph.labelMalePlural>
+            <ATK_SpaceRefugee_Clothed_Lagomorph.labelFemale>refugiada espacial</ATK_SpaceRefugee_Clothed_Lagomorph.labelFemale>
+            <ATK_SpaceRefugee_Clothed_Lagomorph.labelFemalePlural>refugiadas espaciais</ATK_SpaceRefugee_Clothed_Lagomorph.labelFemalePlural>
+            <ATK_SpaceRefugee_Cervinemorph.label>refugiado espacial</ATK_SpaceRefugee_Cervinemorph.label>
+            <ATK_SpaceRefugee_Cervinemorph.labelPlural>refugiados espaciais</ATK_SpaceRefugee_Cervinemorph.labelPlural>
+            <ATK_SpaceRefugee_Cervinemorph.labelMale>refugiado espacial</ATK_SpaceRefugee_Cervinemorph.labelMale>
+            <ATK_SpaceRefugee_Cervinemorph.labelMalePlural>refugiados espaciais</ATK_SpaceRefugee_Cervinemorph.labelMalePlural>
+            <ATK_SpaceRefugee_Cervinemorph.labelFemale>refugiada espacial</ATK_SpaceRefugee_Cervinemorph.labelFemale>
+            <ATK_SpaceRefugee_Cervinemorph.labelFemalePlural>refugiadas espaciais</ATK_SpaceRefugee_Cervinemorph.labelFemalePlural>
+            <ATK_SpaceRefugee_Clothed_Cervinemorph.label>refugiado espacial</ATK_SpaceRefugee_Clothed_Cervinemorph.label>
+            <ATK_SpaceRefugee_Clothed_Cervinemorph.labelPlural>refugiados espaciais</ATK_SpaceRefugee_Clothed_Cervinemorph.labelPlural>
+            <ATK_SpaceRefugee_Clothed_Cervinemorph.labelMale>refugiado espacial</ATK_SpaceRefugee_Clothed_Cervinemorph.labelMale>
+            <ATK_SpaceRefugee_Clothed_Cervinemorph.labelMalePlural>refugiados espaciais</ATK_SpaceRefugee_Clothed_Cervinemorph.labelMalePlural>
+            <ATK_SpaceRefugee_Clothed_Cervinemorph.labelFemale>refugiada espacial</ATK_SpaceRefugee_Clothed_Cervinemorph.labelFemale>
+            <ATK_SpaceRefugee_Clothed_Cervinemorph.labelFemalePlural>refugiadas espaciais</ATK_SpaceRefugee_Clothed_Cervinemorph.labelFemalePlural>
+
+        <!-- Slaves -->
+            <ATK_Slave_Felinemorph.label>escravo</ATK_Slave_Felinemorph.label>
+            <ATK_Slave_Felinemorph.labelPlural>escravos</ATK_Slave_Felinemorph.labelPlural>
+            <ATK_Slave_Felinemorph.labelMale>escravo</ATK_Slave_Felinemorph.labelMale>
+            <ATK_Slave_Felinemorph.labelMalePlural>escravos</ATK_Slave_Felinemorph.labelMalePlural>
+            <ATK_Slave_Felinemorph.labelFemale>escrava</ATK_Slave_Felinemorph.labelFemale>
+            <ATK_Slave_Felinemorph.labelFemalePlural>escravas</ATK_Slave_Felinemorph.labelFemalePlural>
+            <ATK_Slave_Dragomorph.label>escravo</ATK_Slave_Dragomorph.label>
+            <ATK_Slave_Dragomorph.labelPlural>escravos</ATK_Slave_Dragomorph.labelPlural>
+            <ATK_Slave_Dragomorph.labelMale>escravo</ATK_Slave_Dragomorph.labelMale>
+            <ATK_Slave_Dragomorph.labelMalePlural>escravos</ATK_Slave_Dragomorph.labelMalePlural>
+            <ATK_Slave_Dragomorph.labelFemale>escrava</ATK_Slave_Dragomorph.labelFemale>
+            <ATK_Slave_Dragomorph.labelFemalePlural>escravas</ATK_Slave_Dragomorph.labelFemalePlural>
+            <ATK_Slave_Caninemorph.label>escravo</ATK_Slave_Caninemorph.label>
+            <ATK_Slave_Caninemorph.labelPlural>escravos</ATK_Slave_Caninemorph.labelPlural>
+            <ATK_Slave_Caninemorph.labelMale>escravo</ATK_Slave_Caninemorph.labelMale>
+            <ATK_Slave_Caninemorph.labelMalePlural>escravos</ATK_Slave_Caninemorph.labelMalePlural>
+            <ATK_Slave_Caninemorph.labelFemale>escrava</ATK_Slave_Caninemorph.labelFemale>
+            <ATK_Slave_Caninemorph.labelFemalePlural>escravas</ATK_Slave_Caninemorph.labelFemalePlural>
+            <ATK_Slave_Lagomorph.label>escravo</ATK_Slave_Lagomorph.label>
+            <ATK_Slave_Lagomorph.labelPlural>escravos</ATK_Slave_Lagomorph.labelPlural>
+            <ATK_Slave_Lagomorph.labelMale>escravo</ATK_Slave_Lagomorph.labelMale>
+            <ATK_Slave_Lagomorph.labelMalePlural>escravos</ATK_Slave_Lagomorph.labelMalePlural>
+            <ATK_Slave_Lagomorph.labelFemale>escrava</ATK_Slave_Lagomorph.labelFemale>
+            <ATK_Slave_Lagomorph.labelFemalePlural>escravas</ATK_Slave_Lagomorph.labelFemalePlural>
+            <ATK_Slave_Cervinemorph.label>escravo</ATK_Slave_Cervinemorph.label>
+            <ATK_Slave_Cervinemorph.labelPlural>escravos</ATK_Slave_Cervinemorph.labelPlural>
+            <ATK_Slave_Cervinemorph.labelMale>escravo</ATK_Slave_Cervinemorph.labelMale>
+            <ATK_Slave_Cervinemorph.labelMalePlural>escravos</ATK_Slave_Cervinemorph.labelMalePlural>
+            <ATK_Slave_Cervinemorph.labelFemale>escrava</ATK_Slave_Cervinemorph.labelFemale>
+            <ATK_Slave_Cervinemorph.labelFemalePlural>escravas</ATK_Slave_Cervinemorph.labelFemalePlural>
+
+        <!-- Totem -->
+            <ATK_Tribal_Totem_Felinemorph.label>totem</ATK_Tribal_Totem_Felinemorph.label>
+            <ATK_Tribal_Totem_Felinemorph.labelPlural>totens</ATK_Tribal_Totem_Felinemorph.labelPlural>
+            <ATK_Tribal_Totem_Dragomorph.label>totem</ATK_Tribal_Totem_Dragomorph.label>
+            <ATK_Tribal_Totem_Dragomorph.labelPlural>totens</ATK_Tribal_Totem_Dragomorph.labelPlural>
+            <ATK_Tribal_Totem_Caninemorph.label>totem</ATK_Tribal_Totem_Caninemorph.label>
+            <ATK_Tribal_Totem_Caninemorph.labelPlural>totens</ATK_Tribal_Totem_Caninemorph.labelPlural>
+            <ATK_Tribal_Totem_Lagomorph.label>totem</ATK_Tribal_Totem_Lagomorph.label>
+            <ATK_Tribal_Totem_Lagomorph.labelPlural>totens</ATK_Tribal_Totem_Lagomorph.labelPlural>
+            <ATK_Tribal_Totem_Cervinemorph.label>totem</ATK_Tribal_Totem_Cervinemorph.label>
+            <ATK_Tribal_Totem_Cervinemorph.labelPlural>totens</ATK_Tribal_Totem_Cervinemorph.labelPlural>
+
     <!-- Zombieland -->
         <!-- Zombie -->
             <Zombie.label>zumbi</Zombie.label>

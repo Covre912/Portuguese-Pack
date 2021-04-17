@@ -287,4 +287,57 @@
             <AEXP_AntleredQuadruped.corePart.parts.12.customLabel>perna traseira direita</AEXP_AntleredQuadruped.corePart.parts.12.customLabel>
             <AEXP_AntleredQuadruped.corePart.parts.12.parts.0.customLabel>casco traseiro direito</AEXP_AntleredQuadruped.corePart.parts.12.parts.0.customLabel>
 
+    <!-- Xenohumans - Anthromorphs -->
+        <!-- Anthromorph -->
+            <ATK_Anthromorph.label>antromorfo</ATK_Anthromorph.label>
+            <ATK_Anthromorph.corePart.parts.3.customLabel>cauda</ATK_Anthromorph.corePart.parts.3.customLabel>
+            <ATK_Anthromorph.corePart.parts.7.customLabel>pulmão esquerdo</ATK_Anthromorph.corePart.parts.7.customLabel>
+            <ATK_Anthromorph.corePart.parts.8.customLabel>pulmão direito</ATK_Anthromorph.corePart.parts.8.customLabel>
+            <ATK_Anthromorph.corePart.parts.9.customLabel>rim esquerdo</ATK_Anthromorph.corePart.parts.9.customLabel>
+            <ATK_Anthromorph.corePart.parts.10.customLabel>rim direito</ATK_Anthromorph.corePart.parts.10.customLabel>
+            <ATK_Anthromorph.corePart.parts.12.parts.0.parts.1.customLabel>olho esquerdo</ATK_Anthromorph.corePart.parts.12.parts.0.parts.1.customLabel>
+            <ATK_Anthromorph.corePart.parts.12.parts.0.parts.2.customLabel>olho direito</ATK_Anthromorph.corePart.parts.12.parts.0.parts.2.customLabel>
+            <ATK_Anthromorph.corePart.parts.12.parts.0.parts.3.customLabel>orelha esquerda</ATK_Anthromorph.corePart.parts.12.parts.0.parts.3.customLabel>
+            <ATK_Anthromorph.corePart.parts.12.parts.0.parts.4.customLabel>orelha direita</ATK_Anthromorph.corePart.parts.12.parts.0.parts.4.customLabel>
+            <ATK_Anthromorph.corePart.parts.13.customLabel>ombro esquerdo</ATK_Anthromorph.corePart.parts.13.customLabel>
+            <ATK_Anthromorph.corePart.parts.13.parts.0.customLabel>clavícula esquerda</ATK_Anthromorph.corePart.parts.13.parts.0.customLabel>
+            <ATK_Anthromorph.corePart.parts.13.parts.1.customLabel>braço esquerdo</ATK_Anthromorph.corePart.parts.13.parts.1.customLabel>
+            <ATK_Anthromorph.corePart.parts.13.parts.1.parts.0.customLabel>úmero esquerdo</ATK_Anthromorph.corePart.parts.13.parts.1.parts.0.customLabel>
+            <ATK_Anthromorph.corePart.parts.13.parts.1.parts.1.customLabel>rádio esquerdo</ATK_Anthromorph.corePart.parts.13.parts.1.parts.1.customLabel>
+            <ATK_Anthromorph.corePart.parts.13.parts.1.parts.2.customLabel>mão esquerda</ATK_Anthromorph.corePart.parts.13.parts.1.parts.2.customLabel>
+            <ATK_Anthromorph.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>mindinho esquerdo</ATK_Anthromorph.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+            <ATK_Anthromorph.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>dedo anular esquerdo</ATK_Anthromorph.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+            <ATK_Anthromorph.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>dedo médio esquerdo</ATK_Anthromorph.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+            <ATK_Anthromorph.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>dedo indicador esquerdo</ATK_Anthromorph.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+            <ATK_Anthromorph.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>polegar esquerdo</ATK_Anthromorph.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+            <ATK_Anthromorph.corePart.parts.14.customLabel>ombro direito</ATK_Anthromorph.corePart.parts.14.customLabel>
+            <ATK_Anthromorph.corePart.parts.14.parts.0.customLabel>clavícula direita</ATK_Anthromorph.corePart.parts.14.parts.0.customLabel>
+            <ATK_Anthromorph.corePart.parts.14.parts.1.customLabel>braço direito</ATK_Anthromorph.corePart.parts.14.parts.1.customLabel>
+            <ATK_Anthromorph.corePart.parts.14.parts.1.parts.0.customLabel>úmero direito</ATK_Anthromorph.corePart.parts.14.parts.1.parts.0.customLabel>
+            <ATK_Anthromorph.corePart.parts.14.parts.1.parts.1.customLabel>rádio direito</ATK_Anthromorph.corePart.parts.14.parts.1.parts.1.customLabel>
+            <ATK_Anthromorph.corePart.parts.14.parts.1.parts.2.customLabel>mão direita</ATK_Anthromorph.corePart.parts.14.parts.1.parts.2.customLabel>
+            <ATK_Anthromorph.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>mindinho direito</ATK_Anthromorph.corePart.parts.14.parts.1.parts.2.parts.0.customLabel>
+            <ATK_Anthromorph.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>dedo anular direito</ATK_Anthromorph.corePart.parts.14.parts.1.parts.2.parts.1.customLabel>
+            <ATK_Anthromorph.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>dedo médio direito</ATK_Anthromorph.corePart.parts.14.parts.1.parts.2.parts.2.customLabel>
+            <ATK_Anthromorph.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>dedo indicador direito</ATK_Anthromorph.corePart.parts.14.parts.1.parts.2.parts.3.customLabel>
+            <ATK_Anthromorph.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>polegar direito</ATK_Anthromorph.corePart.parts.14.parts.1.parts.2.parts.4.customLabel>
+            <ATK_Anthromorph.corePart.parts.16.customLabel>perna esquerda</ATK_Anthromorph.corePart.parts.16.customLabel>
+            <ATK_Anthromorph.corePart.parts.16.parts.0.customLabel>fêmur esquerdo</ATK_Anthromorph.corePart.parts.16.parts.0.customLabel>
+            <ATK_Anthromorph.corePart.parts.16.parts.1.customLabel>tíbia esquerda</ATK_Anthromorph.corePart.parts.16.parts.1.customLabel>
+            <ATK_Anthromorph.corePart.parts.16.parts.2.customLabel>pé esquerdo</ATK_Anthromorph.corePart.parts.16.parts.2.customLabel>
+            <ATK_Anthromorph.corePart.parts.16.parts.2.parts.0.customLabel>dedinho do pé esquerdo</ATK_Anthromorph.corePart.parts.16.parts.2.parts.0.customLabel>
+            <ATK_Anthromorph.corePart.parts.16.parts.2.parts.1.customLabel>quarto dedo do pé esquerdo</ATK_Anthromorph.corePart.parts.16.parts.2.parts.1.customLabel>
+            <ATK_Anthromorph.corePart.parts.16.parts.2.parts.2.customLabel>terceiro dedo do pé esquerdo</ATK_Anthromorph.corePart.parts.16.parts.2.parts.2.customLabel>
+            <ATK_Anthromorph.corePart.parts.16.parts.2.parts.3.customLabel>segundo dedo do pé esquerdo</ATK_Anthromorph.corePart.parts.16.parts.2.parts.3.customLabel>
+            <ATK_Anthromorph.corePart.parts.16.parts.2.parts.4.customLabel>dedão do pé esquerdo</ATK_Anthromorph.corePart.parts.16.parts.2.parts.4.customLabel>
+            <ATK_Anthromorph.corePart.parts.17.customLabel>perna direita</ATK_Anthromorph.corePart.parts.17.customLabel>
+            <ATK_Anthromorph.corePart.parts.17.parts.0.customLabel>fêmur direito</ATK_Anthromorph.corePart.parts.17.parts.0.customLabel>
+            <ATK_Anthromorph.corePart.parts.17.parts.1.customLabel>tíbia direita</ATK_Anthromorph.corePart.parts.17.parts.1.customLabel>
+            <ATK_Anthromorph.corePart.parts.17.parts.2.customLabel>pé direito</ATK_Anthromorph.corePart.parts.17.parts.2.customLabel>
+            <ATK_Anthromorph.corePart.parts.17.parts.2.parts.0.customLabel>dedinho do pé direito</ATK_Anthromorph.corePart.parts.17.parts.2.parts.0.customLabel>
+            <ATK_Anthromorph.corePart.parts.17.parts.2.parts.1.customLabel>quarto dedo do pé direito</ATK_Anthromorph.corePart.parts.17.parts.2.parts.1.customLabel>
+            <ATK_Anthromorph.corePart.parts.17.parts.2.parts.2.customLabel>terceiro dedo do pé direito</ATK_Anthromorph.corePart.parts.17.parts.2.parts.2.customLabel>
+            <ATK_Anthromorph.corePart.parts.17.parts.2.parts.3.customLabel>segundo dedo do pé direito</ATK_Anthromorph.corePart.parts.17.parts.2.parts.3.customLabel>
+            <ATK_Anthromorph.corePart.parts.17.parts.2.parts.4.customLabel>dedão do pé direito</ATK_Anthromorph.corePart.parts.17.parts.2.parts.4.customLabel>
+
 </LanguageData>

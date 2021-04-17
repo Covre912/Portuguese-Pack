@@ -28,4 +28,8 @@
         <!-- Fore-Flippers -->
             <AEXP_ForeFlipers.label>nadadeiras</AEXP_ForeFlipers.label>
 
+    <!-- Xenohumans - Anthromorphs -->
+        <!-- Tail -->
+            <ATK_Tail.label>cauda</ATK_Tail.label>
+
 </LanguageData>

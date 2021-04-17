@@ -538,29 +538,34 @@
             <VTE_AnimalsInColony.stages.15.description>Temos tantos animais agora! Fico muito feliz em ver todos eles!</VTE_AnimalsInColony.stages.15.description>
 
         <!-- Ocean Lover -->
-            <VTE_ChildOfSea.stages.0.label>Amante do oceano</VTE_ChildOfSea.stages.0.label>
+            <VTE_ChildOfSea.stages.0.label>amante do oceano</VTE_ChildOfSea.stages.0.label>
             <VTE_ChildOfSea.stages.0.description>Eu adoro estar perto do oceano e dos rios, a água é linda.</VTE_ChildOfSea.stages.0.description>
             <VTE_SoakingWetChildOfTheSea.stages.0.label>encharcado(a)</VTE_SoakingWetChildOfTheSea.stages.0.label>
             <VTE_SoakingWetChildOfTheSea.stages.0.description>Estou encharcado(a). Adoro isso!</VTE_SoakingWetChildOfTheSea.stages.0.description>
 
         <!-- Mountain Lover -->
-            <VTE_ChildOfMountain.stages.0.label>Amante de montanhas</VTE_ChildOfMountain.stages.0.label>
+            <VTE_ChildOfMountain.stages.0.label>amante de montanhas</VTE_ChildOfMountain.stages.0.label>
             <VTE_ChildOfMountain.stages.0.description>Eu adoro estar perto das montanhas, elas me tiram o fôlego.</VTE_ChildOfMountain.stages.0.description>
             <VTE_EnvironmentDark.stages.0.label>escuridão</VTE_EnvironmentDark.stages.0.label>
             <VTE_EnvironmentDark.stages.0.description>Eu estive no escuro por um tempo. Gosto disso.</VTE_EnvironmentDark.stages.0.description>
 
         <!-- Mad Surgeon -->
-            <VTE_HaventHarvestedOrgansForLongTime.stages.0.label>Não colheu órgãos</VTE_HaventHarvestedOrgansForLongTime.stages.0.label>
+            <VTE_HaventHarvestedOrgansForLongTime.stages.0.label>não colheu órgãos</VTE_HaventHarvestedOrgansForLongTime.stages.0.label>
             <VTE_HaventHarvestedOrgansForLongTime.stages.0.description>Estou ficando impaciente e entediado, preciso de mais assuntos.</VTE_HaventHarvestedOrgansForLongTime.stages.0.description>
             <VTE_HarvestedOrgans.stages.0.label>Colheu órgãos</VTE_HarvestedOrgans.stages.0.label>
             <VTE_HarvestedOrgans.stages.0.description>A operação correu como o esperado, minha coleção cresceu!</VTE_HarvestedOrgans.stages.0.description>
 
         <!-- Wanderlust -->
-            <VTE_HaventExitedColonyForLongTime.stages.0.label>Não saiu da colônia</VTE_HaventExitedColonyForLongTime.stages.0.label>
+            <VTE_HaventExitedColonyForLongTime.stages.0.label>não saiu da colônia</VTE_HaventExitedColonyForLongTime.stages.0.label>
             <VTE_HaventExitedColonyForLongTime.stages.0.description>Faz algum tempo que não saio de casa, gostaria muito de viajar, para variar.</VTE_HaventExitedColonyForLongTime.stages.0.description>
 
         <!-- Dunce -->
-            <VTE_Dunce.stages.0.label>Burro</VTE_Dunce.stages.0.label>
+            <VTE_Dunce.stages.0.label>burro</VTE_Dunce.stages.0.label>
             <VTE_Dunce.stages.0.description>Eu realmente não entendo por que todo mundo está tão chateado o tempo todo.</VTE_Dunce.stages.0.description>
+
+    <!-- Xenohumans - Anthromorphs -->
+        <!-- Designer Mate -->
+            <ATK_MoodOffsetDesignerMate.stages.0.label>herança desenhada</ATK_MoodOffsetDesignerMate.stages.0.label>
+            <ATK_MoodOffsetDesignerMate.stages.0.description>Bônus natural do traço "herança desenhada".</ATK_MoodOffsetDesignerMate.stages.0.description>
 
 </LanguageData>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Xenohumans - Anthromorphs -->
+        <!-- Cute Pony Tail -->
+            <ATK_CutePonytail.label>rabo de cavalo fofo</ATK_CutePonytail.label>
+
+        <!-- Fluffy -->
+            <ATK_Fluffy.label>fofo</ATK_Fluffy.label>
+
+        <!-- Low Ponytail -->
+            <ATK_LowPonytail.label>rabo de cavalo curto</ATK_LowPonytail.label>
+
+        <!-- Kirbys Curls -->
+            <ATK_KirbysCurls.label>cachos de kirby</ATK_KirbysCurls.label>
+
+        <!-- Raven -->
+            <ATK_Raven.label>corvo</ATK_Raven.label>
+
+        <!-- Spikey Bun -->
+            <ATK_SpikeyBun.label>coque espinhoso</ATK_SpikeyBun.label>
+
+        <!-- Swept -->
+            <ATK_Swept.label>varrido</ATK_Swept.label>
+
+        <!-- Wild Ponytail-->
+            <ATK_WildPonytail.label>rabo de cavalo selvagem</ATK_WildPonytail.label>
+
+</LanguageData>

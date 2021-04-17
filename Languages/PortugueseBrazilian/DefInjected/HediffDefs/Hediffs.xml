@@ -295,6 +295,12 @@
             <VWE_Anesthetic.stages.2.label>sedado</VWE_Anesthetic.stages.2.label>
             <VWE_Anesthetic.stages.3.label>anestesiado</VWE_Anesthetic.stages.3.label>
 
+    <!-- Xenohumans - Anthromorphs -->
+        <!-- Stabilizer Tail -->
+            <ATK_StabilizerTail.label>cauda estabilizadora</ATK_StabilizerTail.label>
+            <ATK_StabilizerTail.description>Uma cauda estabilizadora.</ATK_StabilizerTail.description>
+            <ATK_StabilizerTail.labelNoun>uma cauda estabilizadora</ATK_StabilizerTail.labelNoun>
+
     <!-- Zombieland -->
         <!-- Zombie Bite -->
             <ZombieBite.label>mordida de zumbi</ZombieBite.label>

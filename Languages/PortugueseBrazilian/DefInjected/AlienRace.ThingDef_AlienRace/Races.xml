@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Xenohumans - Anthromorphs -->
+        <!-- Felinelike -->
+            <ATK_Felinemorph.label>felinomorfo</ATK_Felinemorph.label>
+            <ATK_Felinemorph.description>Um xenohumano que se assemelha a um felino antropomorfizado, modificado pela engenharia genética seja pré-natal ou pós-natal, ou herdando tais traços de um progenitor. A maioria é encontrada nos ultra-tecnológicos mundos brilhantes e, consequentemente, são incomuns nos mundos isolados.</ATK_Felinemorph.description>
+            <ATK_Felinemorph.tools.0.label>punho esquerdo</ATK_Felinemorph.tools.0.label>
+            <ATK_Felinemorph.tools.1.label>punho direito</ATK_Felinemorph.tools.1.label>
+            <ATK_Felinemorph.tools.2.label>dentes</ATK_Felinemorph.tools.2.label>
+            <ATK_Felinemorph.tools.3.label>cabeça</ATK_Felinemorph.tools.3.label>
+            <ATK_Felinemorph.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>pele</ATK_Felinemorph.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+            <ATK_Felinemorph.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>cabelo</ATK_Felinemorph.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+
+        <!-- Dragonlike -->
+            <ATK_Dragomorph.label>dragomorfo</ATK_Dragomorph.label>
+            <ATK_Dragomorph.description>Um xenohumano que se assemelha a um dragão antropomorfizado, modificado pela engenharia genética seja pré-natal ou pós-natal, ou herdando tais traços de um progenitor. São extremamente raros entre os mundos isolados, devido às modificações extensivas e caras feitas à sua fisiologia.</ATK_Dragomorph.description>
+            <ATK_Dragomorph.tools.0.label>punho esquerdo</ATK_Dragomorph.tools.0.label>
+            <ATK_Dragomorph.tools.1.label>punho direito</ATK_Dragomorph.tools.1.label>
+            <ATK_Dragomorph.tools.2.label>dentes</ATK_Dragomorph.tools.2.label>
+            <ATK_Dragomorph.tools.3.label>cabeça</ATK_Dragomorph.tools.3.label>
+            <ATK_Dragomorph.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>pele</ATK_Dragomorph.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+            <ATK_Dragomorph.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>cabelo</ATK_Dragomorph.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+
+        <!-- Vulpinelike -->
+            <ATK_Caninemorph.label>caninomorfo</ATK_Caninemorph.label>
+            <ATK_Caninemorph.description>Um xenohumano que se assemelha a um canino antropomorfizado, modificado pela engenharia genética seja pré-natal ou pós-natal, ou herdando tais traços de um progenitor. A maioria é encontrada nos ultra-tecnológicos mundos brilhantes e, consequentemente, são incomuns nos mundos isolados.</ATK_Caninemorph.description>
+            <ATK_Caninemorph.tools.0.label>punho esquerdo</ATK_Caninemorph.tools.0.label>
+            <ATK_Caninemorph.tools.1.label>punho direito</ATK_Caninemorph.tools.1.label>
+            <ATK_Caninemorph.tools.2.label>dentes</ATK_Caninemorph.tools.2.label>
+            <ATK_Caninemorph.tools.3.label>cabeça</ATK_Caninemorph.tools.3.label>
+            <ATK_Caninemorph.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>pele</ATK_Caninemorph.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+            <ATK_Caninemorph.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>cabelo</ATK_Caninemorph.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+
+        <!-- Lapinelike -->
+            <ATK_Lagomorph.label>lagomorfo</ATK_Lagomorph.label>
+            <ATK_Lagomorph.description>Um xenohumano que se assemelha a um coelho antropomorfizado, modificada pela engenharia genética seja pré-natal ou pós-natal, ou herdando tais traços de um progenitor. A maioria é encontrada nos ultra-tecnológicos mundos brilhantes e, consequentemente, são incomuns nos mundos isolados.</ATK_Lagomorph.description>
+            <ATK_Lagomorph.tools.0.label>punho esquerdo</ATK_Lagomorph.tools.0.label>
+            <ATK_Lagomorph.tools.1.label>punho direito</ATK_Lagomorph.tools.1.label>
+            <ATK_Lagomorph.tools.2.label>dentes</ATK_Lagomorph.tools.2.label>
+            <ATK_Lagomorph.tools.3.label>cabeça</ATK_Lagomorph.tools.3.label>
+            <ATK_Lagomorph.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</ATK_Lagomorph.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+            <ATK_Lagomorph.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</ATK_Lagomorph.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+
+        <!-- Cervinelike -->
+            <ATK_Cervinemorph.label>cervinomorfo</ATK_Cervinemorph.label>
+            <ATK_Cervinemorph.description>Um xenohumano que se assemelha a um cervino antropomorfizado, modificado pela engenharia genética seja pré-natal ou pós-natal, ou herdando tais traços de um progenitor. A maioria é encontrada nos ultra-tecnológicos mundos brilhantes e, consequentemente, são incomuns nos mundos isolados.</ATK_Cervinemorph.description>
+            <ATK_Cervinemorph.tools.0.label>punho esquerdo</ATK_Cervinemorph.tools.0.label>
+            <ATK_Cervinemorph.tools.1.label>punho direito</ATK_Cervinemorph.tools.1.label>
+            <ATK_Cervinemorph.tools.2.label>dentes</ATK_Cervinemorph.tools.2.label>
+            <ATK_Cervinemorph.tools.3.label>cabeça</ATK_Cervinemorph.tools.3.label>
+            <ATK_Cervinemorph.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>skin</ATK_Cervinemorph.alienRace.generalSettings.alienPartGenerator.colorChannels.0.name>
+            <ATK_Cervinemorph.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>hair</ATK_Cervinemorph.alienRace.generalSettings.alienPartGenerator.colorChannels.1.name>
+
+</LanguageData>

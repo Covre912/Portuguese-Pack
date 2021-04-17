@@ -597,4 +597,9 @@
             <VTE_Schizoid.degreeDatas.0.label>esquizóide</VTE_Schizoid.degreeDatas.0.label>
             <VTE_Schizoid.degreeDatas.0.description>[PAWN_nameDef] tem problemas para se expressar e colapsará se houver muitas coisas que [PAWN_pronoun] não consiga suportar.</VTE_Schizoid.degreeDatas.0.description>
 
+    <!-- Xenohumans - Anthromorphs -->
+        <!-- Designer Mate -->
+            <ATK_DesignerMate.degreeDatas.0.label>herança desenhada</ATK_DesignerMate.degreeDatas.0.label>
+            <ATK_DesignerMate.degreeDatas.0.description>[PAWN_nameDef] é descendente de um companheiro desenhado. Embora a maioria de seus traços ancestrais estejam diluídos, [PAWN_pronoun] ainda é extremamente bel{PAWN_gender ? o : a} e alegre.</ATK_DesignerMate.degreeDatas.0.description>
+
 </LanguageData>

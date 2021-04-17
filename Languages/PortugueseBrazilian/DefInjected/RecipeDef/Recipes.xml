@@ -144,4 +144,10 @@
             <Salvage_LaserWeapon.description>Recupere uma arma laser aleatória de componentes avançados.</Salvage_LaserWeapon.description>
             <Salvage_LaserWeapon.jobString>Recuperando arma laser.</Salvage_LaserWeapon.jobString>
 
+    <!-- Xenohumans - Anthromorphs -->
+        <!-- Stabilizer Tail -->
+            <ATK_InstallStabilizerTail.label>instalar cauda estabilizadora</ATK_InstallStabilizerTail.label>
+            <ATK_InstallStabilizerTail.description>Instala uma cauda estabilizadora.</ATK_InstallStabilizerTail.description>
+            <ATK_InstallStabilizerTail.jobString>Instalando cauda estabilizadora.</ATK_InstallStabilizerTail.jobString>
+
 </LanguageData>

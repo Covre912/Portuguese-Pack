@@ -637,6 +637,15 @@
             <LaserRandom.label>arma laser recuperada</LaserRandom.label>
             <LaserRandom.description>Um monte de componentes que, quando montados, criam uma arma laser recuperada.</LaserRandom.description>
 
+	<!-- Xenohumans - Anthromorphs -->
+  		<!-- Stabilizer tail -->
+  			<ATK_StabilizerTail.label>cauda estabilizadora</ATK_StabilizerTail.label>
+  			<ATK_StabilizerTail.description>Uma substituição da cauda orientada para o combate que consiste em seções mecânicas ligadas por servomotores. Um conjunto simples de sensores e uma matriz de microprocessadores embutidos na base permite acentuar os movimentos do usuário, permitindo maior agilidade na execução de movimentos bruscos e vigorosos. Entretanto, é bastante pesado em comparação com uma cauda natural e retarda ligeiramente o movimento do usuário.</ATK_StabilizerTail.description>
+
+		<!-- Dragon Leather -->
+			<ATK_Leather_Dragon.label>pele de dragomorfo</ATK_Leather_Dragon.label>
+			<ATK_Leather_Dragon.description>Pele de dragomorfos curtida, seca e raspada. A maioria das pessoas acha este material horripilante, algumas o acham fascinante. Poucos podem negar que é muito bonito, adornado com resplandecentes escamas cosméticas. Um couro decente, que isola bem contra o calor.</ATK_Leather_Dragon.description>
+
 	<!-- Zombieland -->
 		<!-- Zombie Extract -->
   			<ZombieExtract.label>extrato de zumbi</ZombieExtract.label>
