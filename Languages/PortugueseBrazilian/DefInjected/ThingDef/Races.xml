@@ -1,6 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Race to the Rim -->
+        <!-- Fligthmare -->
+            <RttR_Flightmare.label>pesadelo voador</RttR_Flightmare.label>
+            <RttR_Flightmare.description>Bater acidentalmente neste dragão da classe mistério é uma experiência impressionante de várias maneiras. Primeiro, o corpo luminescente do pesadelo pode cegar quando é assustado. Em segundo lugar, a reação instintiva de um pesadelo à surpresa é espirrar sua névoa paralisante diretamente na origem da comoção. Esta névoa estonteante desaparece depois de alguns minutos, momento em que o pesadelo já se foi. Mas essa experiência também pode ser surpreendente de outras maneiras: um número incomum de pessoas relatou ter ficado surpreso com o tamanho real do pesadelo. Entre a reputação do pesadelo de congelar as pessoas de medo e a maneira como ele voa pelo céu parecendo um enorme cometa, as pessoas costumam esperar um dragão grande o suficiente para parecer um anão cortador de tempestade. Em vez disso, observadores atentos notam que os pesadelos geralmente têm o tamanho de um Ferrão Veloz e simplesmente parecem maiores por causa da aura brilhante que os cerca.</RttR_Flightmare.description>
+            <RttR_Flightmare.tools.0.label>garra esquerda</RttR_Flightmare.tools.0.label>
+            <RttR_Flightmare.tools.1.label>garra direita</RttR_Flightmare.tools.1.label>
+            <RttR_Flightmare.tools.3.label>cabeça</RttR_Flightmare.tools.3.label>
+            <RttR_Flightmare.verbs.0.label>sopro de pesadelo</RttR_Flightmare.verbs.0.label>
+
+        <!-- Fury -->
+            <RttR_Fury.label>fúria</RttR_Fury.label>
+            <RttR_Fury.description>Uma vez chamado de filho profano da luz e da própria noite, o Fúria é o dragão mais procurado da classe relâmpago. Considerado o dragão não titã mais inteligente e conhecido por ser o mais rápido, os fúrias da noite e os fúrias da luz que vagam pela Orla são vistos apenas pelos sortudos ou muito condenados.\n\nHabilidades especiais : Montagem muito rápida. Procura periodicamente peixes quando tem fome.</RttR_Fury.description>
+            <RttR_Fury.tools.0.label>garra esquerda</RttR_Fury.tools.0.label>
+            <RttR_Fury.tools.1.label>garra direita</RttR_Fury.tools.1.label>
+            <RttR_Fury.tools.3.label>cabeça</RttR_Fury.tools.3.label>
+            <RttR_Fury.verbs.0.label>sopro de fúria</RttR_Fury.verbs.0.label>
+
+        <!-- Gronckle -->
+            <RttR_Gronckle.label>gronckel</RttR_Gronckle.label>
+            <RttR_Gronckle.description>A maioria dos dragões da classe rocha são litovoros, e o icônico gronckel não é exceção. Em vez de subsistir de peixe ou carne como a maioria dos dragões, os gronckel comem pedras para se nutrir. Consequentemente, eles se espalharam para a maioria das regiões montanhosas do mundo. Devido à alta temperatura interna da corrente sanguínea do magma do gronckel, qualquer rocha que eles consomem é rapidamente liquefeita e seus componentes metálicos podem ser regurgitados na forma de Ferro Gronckel.</RttR_Gronckle.description>
+            <RttR_Gronckle.tools.0.label>garra esquerda</RttR_Gronckle.tools.0.label>
+            <RttR_Gronckle.tools.1.label>garra direita</RttR_Gronckle.tools.1.label>
+            <RttR_Gronckle.tools.3.label>cabeça</RttR_Gronckle.tools.3.label>
+            <RttR_Gronckle.verbs.0.label>sopro de gronckel</RttR_Gronckle.verbs.0.label>
+
+        <!-- Hotburple -->
+            <RttR_Hotburple.label>bafoquente</RttR_Hotburple.label>
+            <RttR_Hotburple.description>Entre os muitos deuses dragões que os vikings adoram, está uma poderosa cova quente que se acredita ser a encarnação da própria sorte. Na verdade, esses dragões da classe rocha podem ser vistos como o maior benefício que uma colônia já aceitou em seu rebanho, ou então uma praga em toda sua riqueza e maquinário! Tudo depende do temperamento de cada bafoquente individual, sua dieta metálica é preferida e se eles são capazes de compartilhar urânio, ouro, prata, plastiaço ou maquinário que escavaram nas montanhas.</RttR_Hotburple.description>
+            <RttR_Hotburple.tools.0.label>garra esquerda</RttR_Hotburple.tools.0.label>
+            <RttR_Hotburple.tools.1.label>garra direita</RttR_Hotburple.tools.1.label>
+            <RttR_Hotburple.tools.3.label>cabeça</RttR_Hotburple.tools.3.label>
+            <RttR_Hotburple.verbs.0.label>sopro de bafoquente</RttR_Hotburple.verbs.0.label>
+
+        <!-- Deadly Nadder -->
+            <RttR_Nadder.label>nadder mortal</RttR_Nadder.label>
+            <RttR_Nadder.description>A epítome da classe afiado, nadders são dragões ágeis, vaidosos e coloridos cuja adaptabilidade e desenvoltura os permitiram prosperar em todas as florestas do mundo. Uma das montarias de dragão mais populares, os nadders são preferidos por cavaleiros que possuem uma mentalidade tática, talento e um amor particular por frango grelhado com magnésio.</RttR_Nadder.description>
+            <RttR_Nadder.tools.0.label>garra esquerda</RttR_Nadder.tools.0.label>
+            <RttR_Nadder.tools.1.label>garra direita</RttR_Nadder.tools.1.label>
+            <RttR_Nadder.tools.3.label>cabeça</RttR_Nadder.tools.3.label>
+            <RttR_Nadder.verbs.0.label>sopro de nadder</RttR_Nadder.verbs.0.label>
+            <RttR_Nadder.verbs.1.label>espinhos de nadder</RttR_Nadder.verbs.1.label>
+
+        <!-- Monstuous Nightmare -->
+            <RttR_Nightmare.label>pesadelo monstruoso</RttR_Nightmare.label>
+            <RttR_Nightmare.description>O dragão da classe brasa favorito dos piromaníacos em todos os lugares. Esses cabeças quentes são conhecidos por suas tendências de auto-imolação - seu corpo inteiro inflama quando está com raiva, medo ou até mesmo entediado. Eles conseguem isso secretando uma substância semelhante ao napalm de sua pele. Este gel de pesadelo monstruoso pode ser refinado em combustível químico e usado para alimentar lâmpadas, armadilhas e máquinas.</RttR_Nightmare.description>
+            <RttR_Nightmare.tools.0.label>garra esquerda</RttR_Nightmare.tools.0.label>
+            <RttR_Nightmare.tools.1.label>garra direita</RttR_Nightmare.tools.1.label>
+            <RttR_Nightmare.tools.3.label>cabeça</RttR_Nightmare.tools.3.label>
+            <RttR_Nightmare.verbs.0.label>sopro de pesadelo</RttR_Nightmare.verbs.0.label>
+
+        <!-- Razorwhip -->
+            <RttR_Razorwhip.label>chicote-cortante</RttR_Razorwhip.label>
+            <RttR_Razorwhip.description>Mortais mesmo para os padrões dos dragões, esses dragões de classe afiado são excepcionalmente capazes de derrotar mecanoides. Seus corpos blindados, pontas de cauda lançáveis, lágrimas venenosas e fogo azul potente tornam os chicotes-cortantes alguns dos dragões mais procurados para quem espera seguir uma carreira na caça de mecanoides, e a esterilidade inerente das pontas da cauda os tornam uma das primeiras fontes de aço esterilizado para agulhas, implantes e aparelhos ortodônticos incluídos em medicinas.</RttR_Razorwhip.description>
+            <RttR_Razorwhip.tools.0.label>garra esquerda</RttR_Razorwhip.tools.0.label>
+            <RttR_Razorwhip.tools.1.label>garra direita</RttR_Razorwhip.tools.1.label>
+            <RttR_Razorwhip.tools.3.label>cabeça</RttR_Razorwhip.tools.3.label>
+            <RttR_Razorwhip.verbs.0.label>respiração magética</RttR_Razorwhip.verbs.0.label>
+
+        <!-- Rumblehorn -->
+            <RttR_Rumblehorn.label>chifre estrondoso</RttR_Rumblehorn.label>
+            <RttR_Rumblehorn.description>Um titã da classe pavor, os cifres estrondosos usam seus chifres enormes e cargas poderosas para atacar qualquer coisa e qualquer pessoa que esteja em seu caminho. Eles são preferidos pelo tipo de treinador que adota a abordagem padrão do tipo "cobrar primeiro, fazer perguntas, depois". Mais comumente encontrados em ambientes com vegetação exuberante, os chifres estrondosos caçam peixes realizando um mergulho de bala de canhão na água e, em seguida, abocanhando os peixes atordoados com a boca.</RttR_Rumblehorn.description>
+            <RttR_Rumblehorn.tools.0.label>garra esquerda</RttR_Rumblehorn.tools.0.label>
+            <RttR_Rumblehorn.tools.1.label>garra direita</RttR_Rumblehorn.tools.1.label>
+            <RttR_Rumblehorn.tools.3.label>cabeça</RttR_Rumblehorn.tools.3.label>
+            <RttR_Rumblehorn.verbs.0.label>sopro de chifre estrondoso</RttR_Rumblehorn.verbs.0.label>
+
+        <!-- Scauldron -->
+            <RttR_Scauldron.label>escalderível</RttR_Scauldron.label>
+            <RttR_Scauldron.description>As lendas dizem que a cabeça do dragão na proa dos navios vikings vem de tentativas de enganar os escalderíveis para que passem por eles. Como esse método tem resultados questionáveis, os vikings temerosos de dragões costumam jogar uma parte de sua captura de volta no mar como tributo aos escalderíveis. Os vikings oriundos montados em dragões adotaram uma abordagem diferente: os escalderíveis domesticados se tornaram apreciados por seu sopro de água extintor e sua habilidade de acelerar o cozimento com água fervente quase que instantaneamente. Existem até rumores de vikings industriosos que criaram selas especiais para escalderíveis que podem transformar os dragões em híbridos de meio-navio para viagens na água. Outros escalderíveis são absolutamente dissuadidos da "proa" desses "navios", embora seja incerto se isso é devido ao medo, admiração ou desejo de evitar o que eles consideram um desastre da moda.</RttR_Scauldron.description>
+            <RttR_Scauldron.tools.0.label>garra esquerda</RttR_Scauldron.tools.0.label>
+            <RttR_Scauldron.tools.1.label>garra direita</RttR_Scauldron.tools.1.label>
+            <RttR_Scauldron.tools.3.label>cabeça</RttR_Scauldron.tools.3.label>
+            <RttR_Scauldron.verbs.0.label>sopro de escalderível</RttR_Scauldron.verbs.0.label>
+
+        <!-- Stormcutter -->
+            <RttR_Stormcutter.label>corta tormenta</RttR_Stormcutter.label>
+            <RttR_Stormcutter.description>Esses maciços dragões alados são poderosos voadores com uma inteligência que rivaliza com alguns humanos. Habitam as regiões do extremo norte, planando dezenas de quilômetros todos os dias em busca de cardumes de peixes ou presas errantes. Uma potência de combate corpo a corpo com um potente ataque de fogo em espiral, os cortas tormentas são inimigos temidos e aliados amados pelos poucos que podem ganhar sua confiança.</RttR_Stormcutter.description>
+            <RttR_Stormcutter.tools.0.label>garra esquerda</RttR_Stormcutter.tools.0.label>
+            <RttR_Stormcutter.tools.1.label>garra direita</RttR_Stormcutter.tools.1.label>
+            <RttR_Stormcutter.tools.3.label>cabeça</RttR_Stormcutter.tools.3.label>
+            <RttR_Stormcutter.verbs.0.label>sopro de corta tormenta</RttR_Stormcutter.verbs.0.label>
+
+        <!-- Terrible Terror -->
+            <RttR_TerribleTerror.label>terror terrível</RttR_TerribleTerror.label>
+            <RttR_TerribleTerror.description>Não se deixe enganar pelo tamanho diminuto e pela atitude fofinha deles - terrores terríveis são pequenos trapaceiros tortuosos! Embora seus focinhos sejam extremamente comuns e adoráveis, os terrores terríveis são altamente territoriais e têm uma excelente memória tanto para o caminho de volta ao ninho quanto para os rostos de quem os fez mal. Esses pequenos dragões geralmente são mantidos por sua fofura e habilidades de entrega de mensagens.</RttR_TerribleTerror.description>
+            <RttR_TerribleTerror.tools.0.label>garra esquerda</RttR_TerribleTerror.tools.0.label>
+            <RttR_TerribleTerror.tools.1.label>garra direita</RttR_TerribleTerror.tools.1.label>
+            <RttR_TerribleTerror.tools.3.label>cabeça</RttR_TerribleTerror.tools.3.label>
+            <RttR_TerribleTerror.verbs.0.label>sopro de terror terrível</RttR_TerribleTerror.verbs.0.label>
+
+        <!-- Triple Stryke -->
+            <RttR_TripleStryke.label>ataque triplo</RttR_TripleStryke.label>
+            <RttR_TripleStryke.description>Este dragão da classe afiado não tem escolha quando se trata de despachar seus inimigos, cortesia de suas três caudas especializadas e pungentes. A primeira cauda é um anestésico, a segunda é psicoativa e a terceira é uma hemotoxina extremamente potente. Acredita-se que a cauda que o ataque triplo favorece influencia o tipo de piloto que é procurado. Aqueles que defendem o ataque da primeira cauda são frequentemente treinados por profissionais médicos, que utilizam o anestésico natural de seu dragão para ajudar seus companheiros colonos e dragões. Os dragões que optam pela segunda cauda são frequentemente montados por espiões, que confiam na indução de alucinações para coagir informações ou facilitar a fuga. O terceiro tipo de golpe triplo é o mais raro e o mais temido: esses dragões se concentram em eliminar seus inimigos o mais rápido possível e costumam ser atraídos pelos lutadores de espada e machados de uma colônia humana.</RttR_TripleStryke.description>
+            <RttR_TripleStryke.tools.0.label>primeira cauda</RttR_TripleStryke.tools.0.label>
+            <RttR_TripleStryke.tools.1.label>segunda cauda</RttR_TripleStryke.tools.1.label>
+            <RttR_TripleStryke.tools.2.label>terceira cauda</RttR_TripleStryke.tools.2.label>
+            <RttR_TripleStryke.tools.4.label>cabeça</RttR_TripleStryke.tools.4.label>
+            <RttR_TripleStryke.verbs.0.label>sopro de ataque triplo</RttR_TripleStryke.verbs.0.label>
+
+        <!-- Hideous Zippleback -->
+            <RttR_Zippleback.label>ziperarepiante</RttR_Zippleback.label>
+            <RttR_Zippleback.description>Os dragões da classe mistério caçam por meio de má orientação e malícia. O hediondo ziperarepiante usa ambas essas táticas, bem como uma técnica única de respiração de fogo que é surpreendentemente versátil. Enquanto a maioria dos dragões libera gás em sua garganta antes de inflamar e expelir como chamas, o ziperarepiante divide essa habilidade em duas. A cabeça direita respira grandes quantidades de gás verde nocivo, enquanto a cabeça esquerda cria uma faísca que a acende para uma explosão poderosa. Embora incrivelmente úteis para explodir peixes e atacar, os domadores são aconselhados a investir pesadamente em infraestrutura não inflamável para minimizar os danos colaterais.</RttR_Zippleback.description>
+            <RttR_Zippleback.tools.0.label>garra esquerda</RttR_Zippleback.tools.0.label>
+            <RttR_Zippleback.tools.1.label>garra direita</RttR_Zippleback.tools.1.label>
+            <RttR_Zippleback.tools.4.label>cabeça</RttR_Zippleback.tools.4.label>
+            <RttR_Zippleback.verbs.0.label>sopro de gás de ziperarepiante</RttR_Zippleback.verbs.0.label>
+            <RttR_Zippleback.verbs.1.label>sopro flamejante de ziperarepiante</RttR_Zippleback.verbs.1.label>
+
     <!-- Vanilla Animals Expanded - Arid Shrubland -->
         <!-- Coyote -->
             <AEXP_Coyote.label>coiote</AEXP_Coyote.label>

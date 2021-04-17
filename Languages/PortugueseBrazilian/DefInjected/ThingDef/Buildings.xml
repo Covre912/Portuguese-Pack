@@ -130,6 +130,11 @@
             <LaserTableSculpting.label>mesa de escultura a laser</LaserTableSculpting.label>
             <LaserTableSculpting.description>Uma mesa de alta tecnologia com um cortador a laser robótico. Permite a criação de joias valiosas.</LaserTableSculpting.description>
 
+    <!-- Race to the Rim -->
+        <!-- Algae Lantern -->
+            <RttR_AlgaeLantern.label>lanterna de alga</RttR_AlgaeLantern.label>
+            <RttR_AlgaeLantern.description>Uma lanterna que converte a bioluminiscência natural das algas de pesadelo em luz utilizável para o cultivo de plantas.</RttR_AlgaeLantern.description>
+
     <!-- Vanilla Animals Expanded - Temperate Forest -->
         <!-- Beaver Dam -->
             <AEXP_BeaverDam.label>barragem de castor</AEXP_BeaverDam.label>

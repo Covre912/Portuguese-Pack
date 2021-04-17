@@ -6,6 +6,137 @@
             <YoungTribalWarrior.label>jovem guerreiro</YoungTribalWarrior.label>
             <YoungTribalWarrior.labelPlural>jovens guerreiros</YoungTribalWarrior.labelPlural>
 
+    <!-- Race to the Rim -->
+        <!-- Flightmare -->
+            <RttR_Flightmare.label>pesadelo voador</RttR_Flightmare.label>
+            <RttR_Flightmare.labelPlural>pesadelos voadores</RttR_Flightmare.labelPlural>
+            <RttR_Flightmare.lifeStages.0.label>pesadelo voador filhote</RttR_Flightmare.lifeStages.0.label>
+            <RttR_Flightmare.lifeStages.0.labelPlural>pesadelos voadores filhotes</RttR_Flightmare.lifeStages.0.labelPlural>
+            <RttR_Flightmare.lifeStages.1.label>pesadelo voador jovem</RttR_Flightmare.lifeStages.1.label>
+            <RttR_Flightmare.lifeStages.1.labelPlural>pesadelos voadores jovens</RttR_Flightmare.lifeStages.1.labelPlural>
+            <RttR_Flightmare.lifeStages.2.label>pesadelo voador adolescente</RttR_Flightmare.lifeStages.2.label>
+            <RttR_Flightmare.lifeStages.2.labelPlural>pesadelos voadores adolescentes</RttR_Flightmare.lifeStages.2.labelPlural>
+
+        <!-- Fury -->
+            <RttR_Fury.label>fúria</RttR_Fury.label>
+            <RttR_Fury.labelPlural>fúrias</RttR_Fury.labelPlural>
+            <RttR_Fury.lifeStages.0.label>fúria filhote</RttR_Fury.lifeStages.0.label>
+            <RttR_Fury.lifeStages.0.labelPlural>fúrias filhotes</RttR_Fury.lifeStages.0.labelPlural>
+            <RttR_Fury.lifeStages.1.label>fúria jovem</RttR_Fury.lifeStages.1.label>
+            <RttR_Fury.lifeStages.1.labelPlural>fúrias jovens</RttR_Fury.lifeStages.1.labelPlural>
+            <RttR_Fury.lifeStages.2.label>fúria adolescente</RttR_Fury.lifeStages.2.label>
+            <RttR_Fury.lifeStages.2.labelPlural>fúrias adolescentes</RttR_Fury.lifeStages.2.labelPlural>
+
+        <!-- Gronckle -->
+            <RttR_Gronckle.label>gronckel</RttR_Gronckle.label>
+            <RttR_Gronckle.labelPlural>gronckels</RttR_Gronckle.labelPlural>
+            <RttR_Gronckle.lifeStages.0.label>gronckel filhote</RttR_Gronckle.lifeStages.0.label>
+            <RttR_Gronckle.lifeStages.0.labelPlural>gronckels filhotes</RttR_Gronckle.lifeStages.0.labelPlural>
+            <RttR_Gronckle.lifeStages.1.label>gronckel jovem</RttR_Gronckle.lifeStages.1.label>
+            <RttR_Gronckle.lifeStages.1.labelPlural>gronckels jovens</RttR_Gronckle.lifeStages.1.labelPlural>
+            <RttR_Gronckle.lifeStages.2.label>gronckel adolescente</RttR_Gronckle.lifeStages.2.label>
+            <RttR_Gronckle.lifeStages.2.labelPlural>gronckels adolescentes</RttR_Gronckle.lifeStages.2.labelPlural>
+
+        <!-- Hotburble -->
+            <RttR_Hotburple.label>bafoquente</RttR_Hotburple.label>
+            <RttR_Hotburple.labelPlural>bafoquentes</RttR_Hotburple.labelPlural>
+            <RttR_Hotburple.lifeStages.0.label>bafoquente filhote</RttR_Hotburple.lifeStages.0.label>
+            <RttR_Hotburple.lifeStages.0.labelPlural>bafoquentes filhotes</RttR_Hotburple.lifeStages.0.labelPlural>
+            <RttR_Hotburple.lifeStages.1.label>bafoquente jovem</RttR_Hotburple.lifeStages.1.label>
+            <RttR_Hotburple.lifeStages.1.labelPlural>bafoquentes jovens</RttR_Hotburple.lifeStages.1.labelPlural>
+            <RttR_Hotburple.lifeStages.2.label>bafoquente adolescente</RttR_Hotburple.lifeStages.2.label>
+            <RttR_Hotburple.lifeStages.2.labelPlural>bafoquentes adolescentes</RttR_Hotburple.lifeStages.2.labelPlural>
+
+        <!-- Deadly Nadder -->
+            <RttR_Nadder.label>nadder mortal</RttR_Nadder.label>
+            <RttR_Nadder.labelPlural>nadders mortais</RttR_Nadder.labelPlural>
+            <RttR_Nadder.lifeStages.0.label>nadder mortal filhote</RttR_Nadder.lifeStages.0.label>
+            <RttR_Nadder.lifeStages.0.labelPlural>nadders mortais filhotes</RttR_Nadder.lifeStages.0.labelPlural>
+            <RttR_Nadder.lifeStages.1.label>nadder mortal jovem</RttR_Nadder.lifeStages.1.label>
+            <RttR_Nadder.lifeStages.1.labelPlural>nadders mortais jovens</RttR_Nadder.lifeStages.1.labelPlural>
+            <RttR_Nadder.lifeStages.2.label>nadder mortal adolescente</RttR_Nadder.lifeStages.2.label>
+            <RttR_Nadder.lifeStages.2.labelPlural>nadders mortais adolescentes</RttR_Nadder.lifeStages.2.labelPlural>
+
+        <!-- Monstuous Nightmare -->
+            <RttR_Nightmare.label>pesadelo monstruoso</RttR_Nightmare.label>
+            <RttR_Nightmare.labelPlural>pesadelos monstruosos</RttR_Nightmare.labelPlural>
+            <RttR_Nightmare.lifeStages.0.label>pesadelo monstruoso filhote</RttR_Nightmare.lifeStages.0.label>
+            <RttR_Nightmare.lifeStages.0.labelPlural>pesadelos monstruosos filhotes</RttR_Nightmare.lifeStages.0.labelPlural>
+            <RttR_Nightmare.lifeStages.1.label>pesadelo monstruoso jovem</RttR_Nightmare.lifeStages.1.label>
+            <RttR_Nightmare.lifeStages.1.labelPlural>pesadelos monstruosos jovens</RttR_Nightmare.lifeStages.1.labelPlural>
+            <RttR_Nightmare.lifeStages.2.label>pesadelo monstruoso adolescente</RttR_Nightmare.lifeStages.2.label>
+            <RttR_Nightmare.lifeStages.2.labelPlural>pesadelos monstruosos adolescentes</RttR_Nightmare.lifeStages.2.labelPlural>
+
+        <!-- Razorwhip -->
+            <RttR_Razorwhip.label>chicote-cortante</RttR_Razorwhip.label>
+            <RttR_Razorwhip.labelPlural>chicotes-cortantes</RttR_Razorwhip.labelPlural>
+            <RttR_Razorwhip.lifeStages.0.label>chicote-cortante filhote</RttR_Razorwhip.lifeStages.0.label>
+            <RttR_Razorwhip.lifeStages.0.labelPlural>chicotes-cortantes filhotes</RttR_Razorwhip.lifeStages.0.labelPlural>
+            <RttR_Razorwhip.lifeStages.1.label>chicote-cortante jovem</RttR_Razorwhip.lifeStages.1.label>
+            <RttR_Razorwhip.lifeStages.1.labelPlural>chicotes-cortantes jovens</RttR_Razorwhip.lifeStages.1.labelPlural>
+            <RttR_Razorwhip.lifeStages.2.label>chicote-cortante adolescente</RttR_Razorwhip.lifeStages.2.label>
+            <RttR_Razorwhip.lifeStages.2.labelPlural>chicotes-cortantes adolescentes</RttR_Razorwhip.lifeStages.2.labelPlural>
+
+        <!-- Rumblehorn -->
+            <RttR_Rumblehorn.label>chifre estrondoso</RttR_Rumblehorn.label>
+            <RttR_Rumblehorn.labelPlural>chifres estrondosos</RttR_Rumblehorn.labelPlural>
+            <RttR_Rumblehorn.lifeStages.0.label>chifre estrondoso filhote</RttR_Rumblehorn.lifeStages.0.label>
+            <RttR_Rumblehorn.lifeStages.0.labelPlural>chifres estrondosos filhotes</RttR_Rumblehorn.lifeStages.0.labelPlural>
+            <RttR_Rumblehorn.lifeStages.1.label>chifre estrondoso jovem</RttR_Rumblehorn.lifeStages.1.label>
+            <RttR_Rumblehorn.lifeStages.1.labelPlural>chifres estrondosos jovens</RttR_Rumblehorn.lifeStages.1.labelPlural>
+            <RttR_Rumblehorn.lifeStages.2.label>chifre estrondoso adolescente</RttR_Rumblehorn.lifeStages.2.label>
+            <RttR_Rumblehorn.lifeStages.2.labelPlural>chifres estrondosos adolescentes</RttR_Rumblehorn.lifeStages.2.labelPlural>
+
+        <!-- Scauldron -->
+            <RttR_Scauldron.label>escalderível</RttR_Scauldron.label>
+            <RttR_Scauldron.labelPlural>escalderíveis</RttR_Scauldron.labelPlural>
+            <RttR_Scauldron.lifeStages.0.label>escalderível filhote</RttR_Scauldron.lifeStages.0.label>
+            <RttR_Scauldron.lifeStages.0.labelPlural>escalderíveis filhotes</RttR_Scauldron.lifeStages.0.labelPlural>
+            <RttR_Scauldron.lifeStages.1.label>escalderível jovem</RttR_Scauldron.lifeStages.1.label>
+            <RttR_Scauldron.lifeStages.1.labelPlural>escalderíveis jovens</RttR_Scauldron.lifeStages.1.labelPlural>
+            <RttR_Scauldron.lifeStages.2.label>escalderível adolescente</RttR_Scauldron.lifeStages.2.label>
+            <RttR_Scauldron.lifeStages.2.labelPlural>escalderíveis adolescentes</RttR_Scauldron.lifeStages.2.labelPlural>
+
+        <!-- Stormcutter -->
+            <RttR_Stormcutter.label>corta tormenta</RttR_Stormcutter.label>
+            <RttR_Stormcutter.labelPlural>cortas tormentas</RttR_Stormcutter.labelPlural>
+            <RttR_Stormcutter.lifeStages.0.label>corta tormenta filhote</RttR_Stormcutter.lifeStages.0.label>
+            <RttR_Stormcutter.lifeStages.0.labelPlural>cortas tormentas filhotes</RttR_Stormcutter.lifeStages.0.labelPlural>
+            <RttR_Stormcutter.lifeStages.1.label>corta tormenta jovem</RttR_Stormcutter.lifeStages.1.label>
+            <RttR_Stormcutter.lifeStages.1.labelPlural>cortas tormentas jovens</RttR_Stormcutter.lifeStages.1.labelPlural>
+            <RttR_Stormcutter.lifeStages.2.label>corta tormenta adolescente</RttR_Stormcutter.lifeStages.2.label>
+            <RttR_Stormcutter.lifeStages.2.labelPlural>cortas tormentas adolescentes</RttR_Stormcutter.lifeStages.2.labelPlural>
+
+        <!-- Terrible Terror -->
+            <RttR_TerribleTerror.label>terror terrível</RttR_TerribleTerror.label>
+            <RttR_TerribleTerror.labelPlural>terrores terríveis</RttR_TerribleTerror.labelPlural>
+            <RttR_TerribleTerror.lifeStages.0.label>terror terrível filhote</RttR_TerribleTerror.lifeStages.0.label>
+            <RttR_TerribleTerror.lifeStages.0.labelPlural>terrores terríveis filhotes</RttR_TerribleTerror.lifeStages.0.labelPlural>
+            <RttR_TerribleTerror.lifeStages.1.label>terror terrível jovem</RttR_TerribleTerror.lifeStages.1.label>
+            <RttR_TerribleTerror.lifeStages.1.labelPlural>terrores terríveis jovens</RttR_TerribleTerror.lifeStages.1.labelPlural>
+            <RttR_TerribleTerror.lifeStages.2.label>terror terrível adolescente</RttR_TerribleTerror.lifeStages.2.label>
+            <RttR_TerribleTerror.lifeStages.2.labelPlural>terrores terríveis adolescentes</RttR_TerribleTerror.lifeStages.2.labelPlural>
+
+        <!-- Triple Stryke -->
+            <RttR_TripleStryke.label>ataque triplo</RttR_TripleStryke.label>
+            <RttR_TripleStryke.labelPlural>ataques triplos</RttR_TripleStryke.labelPlural>
+            <RttR_TripleStryke.lifeStages.0.label>ataque triplo filhote</RttR_TripleStryke.lifeStages.0.label>
+            <RttR_TripleStryke.lifeStages.0.labelPlural>ataques triplos filhotes</RttR_TripleStryke.lifeStages.0.labelPlural>
+            <RttR_TripleStryke.lifeStages.1.label>ataque triplo jovem</RttR_TripleStryke.lifeStages.1.label>
+            <RttR_TripleStryke.lifeStages.1.labelPlural>ataques triplos jovens</RttR_TripleStryke.lifeStages.1.labelPlural>
+            <RttR_TripleStryke.lifeStages.2.label>ataque triplo adolescente</RttR_TripleStryke.lifeStages.2.label>
+            <RttR_TripleStryke.lifeStages.2.labelPlural>ataques triplos adolescentes</RttR_TripleStryke.lifeStages.2.labelPlural>
+
+        <!-- Hideous Zippleback -->
+            <RttR_Zippleback.label>ziperarepiante</RttR_Zippleback.label>
+            <RttR_Zippleback.labelPlural>ziperarepiantes</RttR_Zippleback.labelPlural>
+            <RttR_Zippleback.lifeStages.0.label>ziperarepiante filhote</RttR_Zippleback.lifeStages.0.label>
+            <RttR_Zippleback.lifeStages.0.labelPlural>ziperarepiantes filhotes</RttR_Zippleback.lifeStages.0.labelPlural>
+            <RttR_Zippleback.lifeStages.1.label>ziperarepiante jovem</RttR_Zippleback.lifeStages.1.label>
+            <RttR_Zippleback.lifeStages.1.labelPlural>ziperarepiantes jovens</RttR_Zippleback.lifeStages.1.labelPlural>
+            <RttR_Zippleback.lifeStages.2.label>ziperarepiante adolescente</RttR_Zippleback.lifeStages.2.label>
+            <RttR_Zippleback.lifeStages.2.labelPlural>ziperarepiantes adolescentes</RttR_Zippleback.lifeStages.2.labelPlural>
+
     <!-- Vanilla Animals Expanded - Arid Shrubland -->
         <!-- Coyote -->
             <AEXP_Coyote.label>coiote</AEXP_Coyote.label>

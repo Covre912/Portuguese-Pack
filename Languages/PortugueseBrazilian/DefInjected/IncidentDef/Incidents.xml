@@ -5,6 +5,10 @@
         <!-- Election -->
             <Election.label>eleição</Election.label>
 
+    <!-- Race to the Rim -->
+        <!-- The Sounds Of A Fury -->
+            <RttR_FuryEvent.label>os sons de um fúria</RttR_FuryEvent.label>
+
     <!-- RimCities - Citadel Update -->
         <!-- Sabotage -->
             <Quest_City_Sabotage.label>missão sabotagem na cidade</Quest_City_Sabotage.label>

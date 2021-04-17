@@ -1254,6 +1254,26 @@
             <SexDrive>Desejo sexual:</SexDrive>
             <RomanticDrive>Desejo romântico:</RomanticDrive>
 
+    <!-- Race to the Rim -->
+    	<!-- Animal Products -->
+	        <RttR_GronckleIron>Produção de Ferro Gronckel</RttR_GronckleIron>
+	        <RttR_NightmareGel>Produção de Gel de Pesadelo</RttR_NightmareGel>
+	        <RttR_WoodLog>Produção de Espinho de Nadder</RttR_WoodLog>
+	        <RttR_Gemstones>Produção de Joias</RttR_Gemstones>
+	        <RttR_RazorwhipSpikes>Produção de Espinho</RttR_RazorwhipSpikes>
+	        <RttR_TripleStrykeVenom>Produção de Veneno</RttR_TripleStrykeVenom>
+	        <RttR_ScaleProduction>Produção de Escama</RttR_ScaleProduction>
+	
+	    <!-- Scenario Part -->
+	        <RttR_RandomDragon>Dragão aleatório</RttR_RandomDragon>
+
+	    <!-- Events -->
+	        <RttR_FuryEventLetterLabel>Os Sons de um Fúria</RttR_FuryEventLetterLabel>
+	        <RttR_FuryEventLetter>Ao longe, vêm os ecos de um grito revelador. O Fúria está por perto. Ele cuidará da sua própria vida enquanto você cuidar da sua.</RttR_FuryEventLetter>
+	
+	    <!-- Mod Settings -->
+	        <RttR_DisableAnimal>Desabilitar {0}</RttR_DisableAnimal>
+
     <!-- Raids For Me -->
         <!-- Insult -->
     	    <RFM_InsultFaction>Insultar {0} ({1})</RFM_InsultFaction>

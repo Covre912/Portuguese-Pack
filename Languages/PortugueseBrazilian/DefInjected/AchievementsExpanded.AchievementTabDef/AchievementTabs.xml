@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Race to the Rim -->
+        <!-- Race to the Rim -->
+            <RttR_Achievements.label>Jornada do Herói</RttR_Achievements.label>
+
     <!-- Vanilla Achievement Expanded -->
         <!-- Main -->
             <Main.label>Principal</Main.label>

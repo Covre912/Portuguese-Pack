@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Race to the Rim -->
+        <!-- Toxic Gas -->
+            <RttR_ToxicGas.label>gás tóxico</RttR_ToxicGas.label>
+
     <!-- Vanilla Weapons Expanded -->
         <!-- Toxin Gas -->
             <Gas_OPToxin.label>Gás Tóxico</Gas_OPToxin.label>

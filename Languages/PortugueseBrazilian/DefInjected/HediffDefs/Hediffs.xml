@@ -183,6 +183,28 @@
             <MethadoneAddiction.description>Desenvolveu um vício em metadona</MethadoneAddiction.description>
             <MethadoneAddiction.stages.1.label>abstinência</MethadoneAddiction.stages.1.label>
 
+    <!-- Race to the Rim -->
+        <!-- Blood Burning Feeling -->
+            <RttR_ToxicBuildup.label>queimação de sangue</RttR_ToxicBuildup.label>
+            <RttR_ToxicBuildup.description>Toxinas na corrente sanguínea. Isso pode vir de várias fontes, incluindo toxinas ambientais, picadas venenosas ou armas envenenadas.\n\nEm altas doses, o acúmulo tóxico é letal. Mesmo em doses baixas, pode gerar câncer.\n\nAo contrário do aumento tóxico normal, criaturas que morrem com esse dano tóxico podem ser comidas.</RttR_ToxicBuildup.description>
+            <RttR_ToxicBuildup.stages.0.label>inicial</RttR_ToxicBuildup.stages.0.label>
+            <RttR_ToxicBuildup.stages.1.label>inicial</RttR_ToxicBuildup.stages.1.label>
+            <RttR_ToxicBuildup.stages.2.label>menor</RttR_ToxicBuildup.stages.2.label>
+            <RttR_ToxicBuildup.stages.3.label>moderado</RttR_ToxicBuildup.stages.3.label>
+            <RttR_ToxicBuildup.stages.4.label>grave</RttR_ToxicBuildup.stages.4.label>
+            <RttR_ToxicBuildup.stages.5.label>extremo</RttR_ToxicBuildup.stages.5.label>
+
+        <!-- Anesthetic -->
+            <RttR_ReverseAnesthetic.label>anestésico</RttR_ReverseAnesthetic.label>
+            <RttR_ReverseAnesthetic.description>Droga injetada na corrente sanguínea. O anestésico deixa criaturas inconscientes.</RttR_ReverseAnesthetic.description>
+            <RttR_ReverseAnesthetic.stages.0.label>passando</RttR_ReverseAnesthetic.stages.0.label>
+            <RttR_ReverseAnesthetic.stages.1.label>tonto</RttR_ReverseAnesthetic.stages.1.label>
+            <RttR_ReverseAnesthetic.stages.2.label>sedado</RttR_ReverseAnesthetic.stages.2.label>
+
+        <!-- Dazed And Confused -->
+            <RttR_DazeAffected.label>atordoado e confuso</RttR_DazeAffected.label>
+            <RttR_DazeAffected.description>Esta criatura foi recentemente afetada por um ataque atordoante de Ataque Triplo.</RttR_DazeAffected.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Taritor -->
             <Traitor.label>traidor</Traitor.label>

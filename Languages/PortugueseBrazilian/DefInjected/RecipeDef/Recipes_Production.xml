@@ -109,6 +109,35 @@
             <VMEu_MakeEMPAmmo.description>Fabrique muinições PEM avançadas para torretas tecnológicas.</VMEu_MakeEMPAmmo.description>
             <VMEu_MakeEMPAmmo.jobString>Fabricando munição.</VMEu_MakeEMPAmmo.jobString>
 
+    <!-- Race to the Rim -->
+        <!-- Metal -->
+            <RttR_ExtractMetalFromRazorwhipSpikes.label>fundir metal de espinhos de chicote-cortante</RttR_ExtractMetalFromRazorwhipSpikes.label>
+            <RttR_ExtractMetalFromRazorwhipSpikes.description>Use calor e eletroímãs fortes para extrair metal útil dos espinhos de chicote-cortante.</RttR_ExtractMetalFromRazorwhipSpikes.description>
+            <RttR_ExtractMetalFromRazorwhipSpikes.jobString>Fundindo metal.</RttR_ExtractMetalFromRazorwhipSpikes.jobString>
+
+        <!-- Medicine -->
+            <RttR_RefineMedicineFromRazorwhipSpikes.label>refinar medicina de espinhos de chicote-cortante</RttR_RefineMedicineFromRazorwhipSpikes.label>
+            <RttR_RefineMedicineFromRazorwhipSpikes.description>Use espinhos de chicote-cortante para fazer medicina industrial.</RttR_RefineMedicineFromRazorwhipSpikes.description>
+            <RttR_RefineMedicineFromRazorwhipSpikes.jobString>Refinando medicina.</RttR_RefineMedicineFromRazorwhipSpikes.jobString>
+
+        <!-- Herbal Medicine -->
+            <RttR_RefineHerbalMedicineFromTripleStrykeVenom.label>refinar medicina natural de veneno de ataque triplo</RttR_RefineHerbalMedicineFromTripleStrykeVenom.label>
+            <RttR_RefineHerbalMedicineFromTripleStrykeVenom.description>Use o veneno de ataque triplo para fazer medicinas naturais.</RttR_RefineHerbalMedicineFromTripleStrykeVenom.description>
+            <RttR_RefineHerbalMedicineFromTripleStrykeVenom.jobString>Refinando medicina.</RttR_RefineHerbalMedicineFromTripleStrykeVenom.jobString>
+
+        <!-- Mixed Dragonscales -->
+            <RttR_Make_MixedDragonscales.label>combinar escamas</RttR_Make_MixedDragonscales.label>
+            <RttR_Make_MixedDragonscales.description>Combine vários tipos de escamas de dragão para criar um tecido mais fraco.</RttR_Make_MixedDragonscales.description>
+            <RttR_Make_MixedDragonscales.jobString>Combinando escamas.</RttR_Make_MixedDragonscales.jobString>
+
+        <!-- Chemfuel -->
+            <RttR_NightmareGelToChemfuel.label>fazer combustível químico de gel de pesadelo</RttR_NightmareGelToChemfuel.label>
+            <RttR_NightmareGelToChemfuel.description>Faça um lote de combustível químico com gel de pesadelo.</RttR_NightmareGelToChemfuel.description>
+            <RttR_NightmareGelToChemfuel.jobString>Refinando combustível químico.</RttR_NightmareGelToChemfuel.jobString>
+            <RttR_NightmareGelToChemfuelManual.label>fazer combustível químico de gel de pesadelo</RttR_NightmareGelToChemfuelManual.label>
+            <RttR_NightmareGelToChemfuelManual.description>Faça um lote de combustível químico com gel de pesadelo. Este é um processo manual muito ineficiente.</RttR_NightmareGelToChemfuelManual.description>
+            <RttR_NightmareGelToChemfuelManual.jobString>Extraindo combustível químico.</RttR_NightmareGelToChemfuelManual.jobString>
+
     <!-- Vanilla Weapons Expanded - Laser -->
         <!-- Salvage Laser Weapons -->
             <Salvage_LaserWeapon.label>recuperar arma laser</Salvage_LaserWeapon.label>

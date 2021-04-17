@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Race to the Rim -->
+        <!-- Nightmare Breath -->
+            <RttR_NightmareBreath.label>sopro de pesadelo</RttR_NightmareBreath.label>
+
+        <!-- Magnetic Breath -->
+            <RttR_RazorwhipBreath.label>sopro magnético</RttR_RazorwhipBreath.label>
+
+        <!-- Triple Spyke Breath -->
+            <RttR_TripleStrykeBreath.label>sopro de ataque triplo</RttR_TripleStrykeBreath.label>
+
+        <!-- Stormcutter Breath -->
+            <RttR_StormcutterBreath.label>sopro de corta tormenta</RttR_StormcutterBreath.label>
+
+        <!-- Terrible Terror Breath -->
+            <RttR_TerribleTerrorBreath.label>sopro de terror terrível</RttR_TerribleTerrorBreath.label>
+
+        <!-- Nadder Breath -->
+            <RttR_NadderBreath.label>sopro de nadder</RttR_NadderBreath.label>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Advanced Light Charge Blaster -->
+            <VFE_Bullet_AdvancedInfernoSpewer.label>tiro de lança-chamas infernal</VFE_Bullet_AdvancedInfernoSpewer.label>
+
+</LanguageData>

@@ -245,6 +245,146 @@
 		    <Methadone.label>metadona</Methadone.label>
    	 		<Methadone.description>Um opióide para tratar o vício. Evita que os usuários sofram os efeitos negativos da abstinência de outras drogas, exceto do luciferium. O vício causa redução no desempenho e ocasionais farras de drogas. Tome todos os dias. Interrompa o uso após o término da abstinência.</Methadone.description>
 
+	<!-- Race to the Rim -->
+	  	<!-- Fury Egg -->
+			<RttR_EggFuryFertilized.label>ovo de fúria (fert.)</RttR_EggFuryFertilized.label>
+			<RttR_EggFuryFertilized.description>Ovo de fúria fertilizado. Se tudo ocorrer bem, ele deve eclodir um fúria bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</RttR_EggFuryFertilized.description>
+
+  		<!-- Gronckle Egg -->
+  			<RttR_EggGronckleFertilized.label>ovo de gronckel (fert.)</RttR_EggGronckleFertilized.label>
+  			<RttR_EggGronckleFertilized.description>Ovo de gronckel fertilizado. Se tudo ocorrer bem, ele deve eclodir um gronckel bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</RttR_EggGronckleFertilized.description>
+
+  		<!-- Deadly Nadder Egg -->
+  			<RttR_EggNadderFertilized.label>ovo de nadder mortal (fert.)</RttR_EggNadderFertilized.label>
+  			<RttR_EggNadderFertilized.description>Ovo de nadder mortal fertilizado. Se tudo ocorrer bem, ele deve eclodir um nadder mortal bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</RttR_EggNadderFertilized.description>
+
+  		<!-- Monstruous Nightmare Egg -->
+  			<RttR_EggNightmareFertilized.label>ovo de pesadelo monstruoso (fert.)</RttR_EggNightmareFertilized.label>
+  			<RttR_EggNightmareFertilized.description>Ovo de pesadelo monstruoso fertilizado. Se tudo ocorrer bem, ele deve eclodir um pesadelo monstruoso bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</RttR_EggNightmareFertilized.description>
+
+  		<!-- Hideous Zippleback Egg -->
+  			<RttR_EggZipplebackFertilized.label>ovo de ziperarepiante (fert.)</RttR_EggZipplebackFertilized.label>
+ 			<RttR_EggZipplebackFertilized.description>Ovo de ziperarepiante fertilizado. Se tudo ocorrer bem, ele deve eclodir um ziperarepiante bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</RttR_EggZipplebackFertilized.description>
+
+  		<!-- Scauldron Egg -->
+  			<RttR_EggScauldronFertilized.label>ovo de escalderível (fert.)</RttR_EggScauldronFertilized.label>
+ 			<RttR_EggScauldronFertilized.description>Ovo de escalderível fertilizado. Se tudo ocorrer bem, ele deve eclodir um escalderível bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</RttR_EggScauldronFertilized.description>
+
+ 		<!-- Hotburple Egg -->
+  			<RttR_EggHotburpleFertilized.label>ovo de bafoquente (fert.)</RttR_EggHotburpleFertilized.label>
+  			<RttR_EggHotburpleFertilized.description>Ovo de bafoquente fertilizado. Se tudo ocorrer bem, ele deve eclodir um bafoquente bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</RttR_EggHotburpleFertilized.description>
+
+  		<!-- Flightmare Egg -->
+  			<RttR_EggFlightmareFertilized.label>ovo de pesadelo voador (fert.)</RttR_EggFlightmareFertilized.label>
+  			<RttR_EggFlightmareFertilized.description>Ovo de pesadelo voador fertilizado. Se tudo ocorrer bem, ele deve eclodir um pesadelo voador bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</RttR_EggFlightmareFertilized.description>
+
+  		<!-- Terrible Terror Egg -->
+  			<RttR_EggTerribleTerrorFertilized.label>ovo de terror terrível (fert.)</RttR_EggTerribleTerrorFertilized.label>
+  			<RttR_EggTerribleTerrorFertilized.description>Ovo de terror terrível fertilizado. Se tudo ocorrer bem, ele deve eclodir um terror terrível bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</RttR_EggTerribleTerrorFertilized.description>
+
+  		<!-- Rumblehorn Egg -->
+  			<RttR_EggRumblehornFertilized.label>ovo de chifre estrondoso (fert.)</RttR_EggRumblehornFertilized.label>
+  			<RttR_EggRumblehornFertilized.description>Ovo de chifre estrondoso fertilizado. Se tudo ocorrer bem, ele deve eclodir um chifre estrondoso bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</RttR_EggRumblehornFertilized.description>
+
+  		<!-- Stormcutter Egg -->
+  			<RttR_EggStormcutterFertilized.label>ovo de corta tormenta (fert.)</RttR_EggStormcutterFertilized.label>
+  			<RttR_EggStormcutterFertilized.description>Ovo de corta tormenta fertilizado. Se tudo ocorrer bem, ele deve eclodir um corta tormenta bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</RttR_EggStormcutterFertilized.description>
+
+  		<!-- Razorwhip Egg -->
+  			<RttR_EggRazorwhipFertilized.label>ovo de chichote-cortante (fert.)</RttR_EggRazorwhipFertilized.label>
+  			<RttR_EggRazorwhipFertilized.description>Ovo de chicote-cortante fertilizado. Se tudo ocorrer bem, ele deve eclodir um chicote-cortante bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</RttR_EggRazorwhipFertilized.description>
+
+  		<!-- Triple Stryke Egg -->
+  			<RttR_EggTripleStrykeFertilized.label>ovo de ataque triplo (fert.)</RttR_EggTripleStrykeFertilized.label>
+  			<RttR_EggTripleStrykeFertilized.description>Ovo de ataque triplo fertilizado. Se tudo ocorrer bem, ele deve eclodir um ataque triplo bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</RttR_EggTripleStrykeFertilized.description>
+
+		<!-- Raw Fish -->
+			<RttR_RawFish.label>peixe cru</RttR_RawFish.label>
+			<RttR_RawFish.description>Peixe cru. Um dragão engenhoso pescou isso.</RttR_RawFish.description>
+			<RttR_RawFish.tools.0.label>peixe cru</RttR_RawFish.tools.0.label>
+
+		<!-- Gronckle Iron -->
+  			<RttR_GronckleIron.label>ferro gronckel</RttR_GronckleIron.label>
+  			<RttR_GronckleIron.description>Enquanto Gronckels consomem rochas para nutrição, eles não são capazes de metabolizar tudo. Em vez disso, tendem a consumir os mesmos elementos básicos da vida que outros seres vivos, enquanto absorvem apenas vestígios dos elementos maiores e mais metálicos. O metal restante pode ser regurgitado como magma - para se defender ou, no caso de gronckels domados, para fornecer a seus treinadores a mais incomum das ligas, o ferro gronckel. Embora geralmente semelhante ao aço, o ferro gronckel tem algumas características principais. É mais leve, mais brilhante e ainda um pouco mais resistente, o que o torna o favorito dos ferreiros em todos os lugares. O ingrediente chave no processo de fundição parece ser os próprios gronckels, já que repetidas tentativas de sintetizar o metal artificialmente se mostraram infrutíferas.</RttR_GronckleIron.description>
+
+		<!-- Nadder Spikes -->
+			<RttR_WoodLog.label>espinhos de nadder</RttR_WoodLog.label>
+			<RttR_WoodLog.description>Além de suas chamas potentes, os nadders mortais são famosos por seu outro ataque: lançar pontas cônicas de sua cauda na direção de seus inimigos. Depois de serem lançados, esses espinhos podem ser colhidos e usados ​​como pontas de lança, armadilhas de espinhos ou agulhas muito grandes. Eles também podem ser empilhados uns sobre os outros para formar uma espécie de cordão semiflexível, que pode ser tecido em colmo para fazer estruturas ou, se você for realmente hábil, estátuas.</RttR_WoodLog.description>
+			<RttR_WoodLog.tools.0.label>espinhos de nadder</RttR_WoodLog.tools.0.label>
+			<RttR_WoodLog.stuffProps.stuffAdjective>espinhos de nadder</RttR_WoodLog.stuffProps.stuffAdjective>
+
+		<!-- Nightmare Gel -->
+			<RttR_NightmareGel.label>gel de pesadelo</RttR_NightmareGel.label>
+			<RttR_NightmareGel.description>O corpo flamejante de um pesadelo decorre de sua capacidade de secretar uma substância semelhante ao napalm de sua pele. Esta substância pode ser inflamada à vontade, mas um pesadelo domesticado também permitirá que seu cavaleiro raspe o gel em recipientes para usar de outras maneiras. Armadilhas de chamas, braseiros e fogueiras para cozinhar podem ser alimentados por esse gel.</RttR_NightmareGel.description>
+
+		<!-- Flightmare Algae -->
+			<RttR_FlightmareAlgae.label>alga de pesadelo</RttR_FlightmareAlgae.label>
+			<RttR_FlightmareAlgae.description>Uma alga brilhante que é mais conhecida como fonte de alimento para o pesadelo voador e parece contribuir para o brilho azulado deste dragão. Pesadelos voadores são adeptos de encontrar fontes dessas algas cavando na terra.</RttR_FlightmareAlgae.description>
+
+		<!-- Razorwhip spikes -->
+			<RttR_RazorwhipSpikes.label>espinhos de chicpte-cortante</RttR_RazorwhipSpikes.label>
+			<RttR_RazorwhipSpikes.description>Essas pontas longas e mortais constituem a bainha da cauda de um chicote-cortante e podem ser lançadas à vontade na direção de inimigos, alimentos ou alvos. Devido à natureza altamente tóxica da fisiologia do chicote-cortante, essas pontas são excepcionalmente estéreis. Consequentemente, colonos diligentes transformaram essas pontas em agulhas, implantes e grampos esterilizados para auxiliar no processo de cicatrização.</RttR_RazorwhipSpikes.description>
+
+		<!-- Triple Spyke Venom -->
+			<RttR_TripleStrykeVenom.label>veneno de ataque triplo</RttR_TripleStrykeVenom.label>
+			<RttR_TripleStrykeVenom.description>O veneno do ataque triplo, embora perigoso no ferrão de um dragão raivoso, é incrivelmente benéfico quando isolado e destilado. O primeiro tipo funciona como um analgésico, o segundo como um agente ansiolítico com potencial recreativo leve e o terceiro, embora doloroso, pode atuar como um antibiótico primitivo se manuseado corretamente.</RttR_TripleStrykeVenom.description>
+
+		<!-- Flightmare Dragon Scales -->
+			<RttR_FlightmareDragonScales.label>escamas de pesadelo voador</RttR_FlightmareDragonScales.label>
+			<RttR_FlightmareDragonScales.description>Fracamente brilhantes, escamas duras sobrepostas com um brilho metálico brilhante. Bom para isolamento frio e contra ataques de fogo.</RttR_FlightmareDragonScales.description>
+
+		<!-- Fury Dragon Scales -->
+			<RttR_FuryDragonScales.label>escamas de fúria</RttR_FuryDragonScales.label>
+			<RttR_FuryDragonScales.description>Escalas duras sobrepostas com um brilho metálico brilhante. Excepcionalmente resistente ao fogo.</RttR_FuryDragonScales.description>
+
+		<!-- Gronckle Dragon Scales -->
+			<RttR_GronckleDragonScales.label>escamas de gronckel</RttR_GronckleDragonScales.label>
+			<RttR_GronckleDragonScales.description>Pequenas escamas parecidas com rochas. Ao contrário de outras escamas de dragão, as de Gronckel não têm seu brilho característico. Durável contra danos contundantes.</RttR_GronckleDragonScales.description>
+
+		<!-- Hotburple Dragon Scales -->
+			<RttR_HotburpleDragonScales.label>escamas de bafoquente</RttR_HotburpleDragonScales.label>
+			<RttR_HotburpleDragonScales.description>Escamas laranja brilhantes, quentes ao toque. Durável contra danos contundantes.</RttR_HotburpleDragonScales.description>
+
+		<!-- Nadder Dragon Sclaes -->
+			<RttR_NadderDragonScales.label>escamas de nadder</RttR_NadderDragonScales.label>
+			<RttR_NadderDragonScales.description>Escalas duras sobrepostas com um brilho metálico brilhante. Excepcionalmente durável em combate.</RttR_NadderDragonScales.description>
+
+		<!-- Nightmare Dragon Scales -->
+			<RttR_NightmareDragonScales.label>escamas de pesadelo monstruoso</RttR_NightmareDragonScales.label>
+			<RttR_NightmareDragonScales.description>Escalas duras sobrepostas com um brilho metálico brilhante. Excepcionalmente durável em combate.</RttR_NightmareDragonScales.description>
+
+		<!-- Rumblehorn Dragon Scales -->
+			<RttR_RumblehornDragonScales.label>escamas de chifre estrondoso</RttR_RumblehornDragonScales.label>
+			<RttR_RumblehornDragonScales.description>Escalas duras sobrepostas com um brilho metálico brilhante. Excepcionalmente durável em combate.</RttR_RumblehornDragonScales.description>
+
+		<!-- Scauldron Dragon Scales -->
+			<RttR_ScauldronDragonScales.label>escamas de escalderível</RttR_ScauldronDragonScales.label>
+			<RttR_ScauldronDragonScales.description>Escalas duras sobrepostas com um brilho metálico brilhante. Excepcionalmente durável em combate.</RttR_ScauldronDragonScales.description>
+
+		<!-- Stormcutter Dragon Scales -->
+			<RttR_StormcutterDragonScales.label>escamas de corta tormenta</RttR_StormcutterDragonScales.label>
+			<RttR_StormcutterDragonScales.description>Escalas duras sobrepostas com um brilho metálico brilhante. Excepcionalmente durável em combate.</RttR_StormcutterDragonScales.description>
+
+		<!-- Terrible Terror Dragon Scales -->
+			<RttR_TerribleTerrorDragonScales.label>escamas de terror terrível</RttR_TerribleTerrorDragonScales.label>
+			<RttR_TerribleTerrorDragonScales.description>Escalas duras sobrepostas com um brilho metálico brilhante. Excepcionalmente durável em combate.</RttR_TerribleTerrorDragonScales.description>
+
+		<!-- Zippleback Dragon Scales -->
+			<RttR_ZipplebackDragonScales.label>escamas de ziperarepiante</RttR_ZipplebackDragonScales.label>
+			<RttR_ZipplebackDragonScales.description>Escalas duras sobrepostas com um brilho metálico brilhante. Excepcionalmente durável em combate.</RttR_ZipplebackDragonScales.description>
+
+		<!-- Razorwhip Dragon Scales -->
+			<RttR_RazorwhipDragonScales.label>escamas de chicote-cortante</RttR_RazorwhipDragonScales.label>
+			<RttR_RazorwhipDragonScales.description>Escalas sobrepostas extremamente duras com um brilho metálico brilhante. As mais fortes de todas as escamas de dragão, oferecem defesas imbatíveis contra ataques afiados.</RttR_RazorwhipDragonScales.description>
+
+		<!-- Triple Stryke Dragon Scales -->
+			<RttR_TripleStrykeDragonScales.label>escamas de ataque triplo</RttR_TripleStrykeDragonScales.label>
+			<RttR_TripleStrykeDragonScales.description>Uma substância quitinosa semelhante a escamas. Não é tão bom em isolamento quanto outras escamas de dragão, mas excelente em capacidades defensivas.</RttR_TripleStrykeDragonScales.description>
+
+		<!-- Mixed Dragon Scales-->
+			<RttR_PatchedDragonScales.label>escamas misturadas</RttR_PatchedDragonScales.label>
+			<RttR_PatchedDragonScales.description>Um tecido de escama fraco criado cortando e costurando vários tipos de escamas de dragão.</RttR_PatchedDragonScales.description>
+
 	<!-- Vanilla Animals Expanded - Arid Shrubland -->
 		<!-- Crocodile Egg -->
 			<AEXP_EggCrocodileUnfertilized.label>ovo de crocodilo (não fert.)</AEXP_EggCrocodileUnfertilized.label>

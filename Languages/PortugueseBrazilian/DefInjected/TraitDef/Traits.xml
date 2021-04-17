@@ -313,7 +313,7 @@
     <!-- Psychology (unofficial 1.1/1.2) -->
         <!-- Prude -->
             <Prude.degreeDatas.0.label>puritano</Prude.degreeDatas.0.label>
-            <Prude.degreeDatas.0.description>[PAWN_nameDef] odeia a visão do corpo humano. [PAWN_pronoun] irá ficar extremamente infeliz pelad[PAWN_gender ? o : a], mais descontente do que o normal com roupas esfarrapadas ou surradas e não gosta de ver outras pessoas nuas.</Prude.degreeDatas.0.description>
+            <Prude.degreeDatas.0.description>{PAWN_nameDef} odeia a visão do corpo humano. {PAWN_pronoun} irá ficar extremamente infeliz pelad{PAWN_gender ? o : a}, mais descontente do que o normal com roupas esfarrapadas ou surradas e não gosta de ver outras pessoas nuas.</Prude.degreeDatas.0.description>
 
         <!-- Insomniac -->
             <Insomniac.degreeDatas.0.label>insônico</Insomniac.degreeDatas.0.label>

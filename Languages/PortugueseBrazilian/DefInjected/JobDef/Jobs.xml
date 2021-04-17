@@ -9,6 +9,10 @@
         <!-- Dress Patient -->
             <DressPatient.reportString>vestindo TargetA.</DressPatient.reportString>
 
+    <!-- Race to the Rim -->
+        <!-- Consume -->
+            <RttR_IngestWeird.reportString>consumindo TargetA.</RttR_IngestWeird.reportString>
+
     <!-- Psychology (unofficial 1.1/1.2) -->
         <!-- Abuse -->
           <Abuse.reportString>abusando verbalmente TargetA.</Abuse.reportString>

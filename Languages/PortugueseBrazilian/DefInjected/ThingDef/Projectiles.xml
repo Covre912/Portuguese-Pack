@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Race to the Rim -->
+        <!-- Incendiary Breath -->
+            <RttR_FlameBreath.label>sopro incendiário</RttR_FlameBreath.label>
+            <RttR_TinyFlameBreath.label>sopro incendiário</RttR_TinyFlameBreath.label>
+            <RttR_StreamFlameBreath.label>sopro de fluxo incendiário</RttR_StreamFlameBreath.label>
+
+        <!-- Stun Breath -->
+            <RttR_FlightmareBreath.label>sopro atordoante</RttR_FlightmareBreath.label>
+
+        <!-- Lava Breath -->
+            <RttR_GronckleBreath.label>sopro de lava</RttR_GronckleBreath.label>
+
+        <!-- Plasma Blast -->
+            <RttR_Furybreath.label>explosão de plasma</RttR_Furybreath.label>
+
+        <!-- Nadder Spikes -->
+            <RttR_NadderSpikes.label>espinhos de nadder</RttR_NadderSpikes.label>
+
+        <!-- Gas Ball -->
+            <RttR_GasBall.label>bola de gás</RttR_GasBall.label>
+
+        <!-- Water Breath -->
+            <RttR_WaterBreath.label>water breath</RttR_WaterBreath.label>
+
+</LanguageData>

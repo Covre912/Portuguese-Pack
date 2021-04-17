@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Race to the Rim -->
+        <!-- Juvenile -->
+            <RttR_AnimalJuvenile.label>jovem</RttR_AnimalJuvenile.label>
+
+        <!-- Adolescent -->
+            <RttR_AnimalAdolescent.label>adolescente</RttR_AnimalAdolescent.label>
+
+</LanguageData>

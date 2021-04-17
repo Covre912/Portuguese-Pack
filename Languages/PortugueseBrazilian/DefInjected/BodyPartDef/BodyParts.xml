@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Race to the Rim -->
+        <!-- Wing -->
+            <RttR_Wing.label>asa</RttR_Wing.label>
+
     <!-- Vanilla Animals Expanded - Ice Sheet -->
         <!-- Fore-Flippers -->     
             <AEXP_ForeFlipper.label>nadadeira</AEXP_ForeFlipper.label>

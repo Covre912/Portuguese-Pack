@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+	<!-- Race to the Rim -->
+		<!-- Helixien Gas -->
+			<RttR_Filth_LiquefiedHelixienGas.label>gás helixien liquefeito</RttR_Filth_LiquefiedHelixienGas.label>
+  			<RttR_Filth_LiquefiedHelixienGas.description>Uma poça de gás helixien liquefeito. EXTREMAMENTE inflamável.</RttR_Filth_LiquefiedHelixienGas.description>
+
+		<!-- Scalding Residue -->
+  			<RttR_Filth_ScaldingFoam.label>resíduo escaldante</RttR_Filth_ScaldingFoam.label>
+
     <!-- Zombieland -->
 		<!-- Sticky Goo -->
 			<StickyGoo.label>gosma de zumbi tóxica pegajosa</StickyGoo.label>

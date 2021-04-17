@@ -5,6 +5,12 @@
         <!-- Ears -->
             <Ears.label>orelhas</Ears.label>
 
+    <!-- Race to the Rim -->
+        <!-- Tail -->
+            <RttR_FirstTailAttackTool.label>cauda</RttR_FirstTailAttackTool.label>
+            <RttR_SecondTailAttackTool.label>cauda</RttR_SecondTailAttackTool.label>
+            <RttR_ThirdTailAttackTool.label>cauda</RttR_ThirdTailAttackTool.label>
+
     <!-- Vanilla Animals Expanded - Australia -->
         <!-- Rear Left Claws -->
             <AEXP_RearLeftClaws.label>garra esquerda</AEXP_RearLeftClaws.label>

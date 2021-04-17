@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Race to The Rim -->
+        <!-- Siege Blunt -->
+            <RttR_SiegeBlunt.label>esmagamento</RttR_SiegeBlunt.label>
+
+        <!-- Steel Claws -->
+            <RttR_MechanoidScratch.label>garras de aço</RttR_MechanoidScratch.label>
+
+        <!-- Triple Stryke -->
+            <RttR_Anesthesia.label>cauda de ataque triplo</RttR_Anesthesia.label>
+            <RttR_Dazing.label>cauda de ataque triplo</RttR_Dazing.label>
+            <RttR_Toxic.label>cauda de ataque triplo</RttR_Toxic.label>
+
     <!-- Zombieland -->
         <!-- Zombie Bite -->
-            <ZombieBite.label>mordida de zumbi</ZombieBite.label>
+            <ZombieBite.label>mordida</ZombieBite.label>
 
 </LanguageData>

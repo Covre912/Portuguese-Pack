@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Race to the Rim --> 
+        <!-- Toxic Gas -->
+            <RttR_GasExplosion.label>gás tóxico</RttR_GasExplosion.label>
+            <RttR_GasExplosion.deathMessage>{0} morreu envenenado.</RttR_GasExplosion.deathMessage>
+
+        <!-- Water Explosion -->
+            <RttR_WaterExplosion.label>explosão de água</RttR_WaterExplosion.label>
+            <RttR_WaterExplosion.deathMessage>{0} foi morto.</RttR_WaterExplosion.deathMessage>
+
+        <!-- Crush -->
+            <RttR_SiegeBlunt.label>esmagamento</RttR_SiegeBlunt.label>
+            <RttR_SiegeBlunt.deathMessage>{0} foi esmagado até a morte.</RttR_SiegeBlunt.deathMessage>
+
+        <!-- Steel Claws -->
+            <RttR_MechanoidScratch.label>garras de aço</RttR_MechanoidScratch.label>
+            <RttR_MechanoidScratch.deathMessage>{0} foi morto.</RttR_MechanoidScratch.deathMessage>
+
+        <!-- Magnetic Breath -->
+            <RttR_MechanoidBreath.label>sopro magnético</RttR_MechanoidBreath.label>
+            <RttR_MechanoidBreath.deathMessage>{0} foi morto.</RttR_MechanoidBreath.deathMessage>
+
+        <!-- Triple Stryke -->
+            <RttR_Toxic.label>picada tóxica de ataque triplo</RttR_Toxic.label>
+            <RttR_Toxic.deathMessage>{0} foi picado até a morte.</RttR_Toxic.deathMessage>
+            <RttR_Anesthesia.label>picada anestésica de ataque triplo</RttR_Anesthesia.label>
+            <RttR_Anesthesia.deathMessage>{0} foi picado até a morte.</RttR_Anesthesia.deathMessage>
+            <RttR_Dazing.label>picada alucinógena de ataque triplo</RttR_Dazing.label>
+            <RttR_Dazing.deathMessage>{0} foi picado até a morte.</RttR_Dazing.deathMessage>
+
     <!-- Vanilla Animals Expanded - Desert -->
         <!-- Venomous Bite -->
             <AEXP_GilaToxicBuildUp.label>mordida venenosa</AEXP_GilaToxicBuildUp.label>
