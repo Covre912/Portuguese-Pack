@@ -533,7 +533,7 @@
 	        <Designator_context_forbid_visible_fail>Nenhuma coisa permitida encontrada.</Designator_context_forbid_visible_fail>
 	
         <!-- Party Hunt Toggle -->
-	        <PartyHuntToggle_label>Caça Alistada</PartyHuntToggle_label>
+	        <PartyHuntToggle_label>Caça alistada</PartyHuntToggle_label>
 	        <PartyHuntToggle_desc>Quando habilitado, os colonos alistados irão atirar automaticamente em animais selvagens passivos.</PartyHuntToggle_desc>
 
     <!-- Argón's Tribal Medicine -->

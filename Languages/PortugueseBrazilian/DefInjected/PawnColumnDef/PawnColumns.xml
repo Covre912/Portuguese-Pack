@@ -6,7 +6,7 @@
             <Mood.headerTip>Humor</Mood.headerTip>
 
         <!-- Job -->
-            <Job.headerTip>Trabalho Atual</Job.headerTip>
+            <Job.headerTip>Atividade</Job.headerTip>
 
         <!-- Favourite -->
             <Favourite.headerTip>Favorito</Favourite.headerTip>

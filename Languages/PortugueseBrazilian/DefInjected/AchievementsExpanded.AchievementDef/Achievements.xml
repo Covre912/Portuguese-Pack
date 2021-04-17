@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Race to the Rim -->
+        <!-- Elusive Giant -->
+            <RttR_AchievementElusiveGiant.label>Gigante Esquivo</RttR_AchievementElusiveGiant.label>
+            <RttR_AchievementElusiveGiant.description>Faça um colono desenvolver um vínculo com um Chifre Estrondosou</RttR_AchievementElusiveGiant.description>
+
+        <!-- Nadder Plate -->
+            <RttR_AchievementNadderPlate.label>Placa de Nadder</RttR_AchievementNadderPlate.label>
+            <RttR_AchievementNadderPlate.description>Crie uma armadura de placsa com escamas de Nadder Mortal</RttR_AchievementNadderPlate.description>
+
+        <!-- Welcome to Berk -->
+            <RttR_AchievementWelcomeToBerk.label>Bem-Vindo a Berk</RttR_AchievementWelcomeToBerk.label>
+            <RttR_AchievementWelcomeToBerk.description>Domestique um Fúria, um Gronckel, um Nadder Mortal, um Pesadelo Monstruoso e um Ziperarepiante</RttR_AchievementWelcomeToBerk.description>
+
+        <!-- Cute but Deadly -->
+            <RttR_AchievementCuteButDeadly.label>Fofo, mas Mortal</RttR_AchievementCuteButDeadly.label>
+            <RttR_AchievementCuteButDeadly.description>Domestique um Terror Terrível</RttR_AchievementCuteButDeadly.description>
+
+        <!-- Oh, the Irony -->
+            <RttR_AchievementGronckle.label>Ah, a Ironia</RttR_AchievementGronckle.label>
+            <RttR_AchievementGronckle.description>Acumule um total de 1000 Ferro Gronckel</RttR_AchievementGronckle.description>
+
+        <!-- Rim by Algae Light -->
+            <RttR_AchievementByAlgaeLight.label>Pela Luz das Algas</RttR_AchievementByAlgaeLight.label>
+            <RttR_AchievementByAlgaeLight.description>Construa uma lanterna de algas</RttR_AchievementByAlgaeLight.description>
+
+        <!-- Easy Fishing -->
+            <RttR_AchievementEasyFishing.label>Pesca Fácil</RttR_AchievementEasyFishing.label>
+            <RttR_AchievementEasyFishing.description>Faça seus dragões pegarem 500 peixes para você</RttR_AchievementEasyFishing.description>
+
+        <!-- Triple Struck -->
+            <RttR_AchievementTripleStryked.label>Golpe Triplo</RttR_AchievementTripleStryked.label>
+            <RttR_AchievementTripleStryked.description>Tenha um único colono afetado pelos três ataques das caudas de um Ataque Triplo</RttR_AchievementTripleStryked.description>
+
+        <!-- The Iron Chair -->
+            <RttR_AchievementTheIronChair.label>A Cadeira de Ferro</RttR_AchievementTheIronChair.label>
+            <RttR_AchievementTheIronChair.description>Crie uma cadeira de jantar com espinhos de Nadder Mortal</RttR_AchievementTheIronChair.description>
+
+        <!-- Apprentice Dragonslayer -->
+            <RttR_AchievementApprenticeDragonslayer.label>Jovem Aprendiz</RttR_AchievementApprenticeDragonslayer.label>
+            <RttR_AchievementApprenticeDragonslayer.description>Mate qualquer dragão</RttR_AchievementApprenticeDragonslayer.description>
+
+        <!-- More Like Isle of Jerk -->
+            <RttR_AchievementMoreLikeIsleOfJerk.label>Ilha da Morte</RttR_AchievementMoreLikeIsleOfJerk.label>
+            <RttR_AchievementMoreLikeIsleOfJerk.description>Mate 5 dragões da mesma espécie</RttR_AchievementMoreLikeIsleOfJerk.description>
+
+</LanguageData>
