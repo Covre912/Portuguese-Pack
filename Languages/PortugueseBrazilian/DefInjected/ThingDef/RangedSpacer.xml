@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] Rimworld: UNSC Armoury -->
+        <!-- Halo Stanchion Rifle -->
+            <RUA_Gun_ChargeStanchion.label>rifle de precisão de suporte</RUA_Gun_ChargeStanchion.label>
+            <RUA_Gun_ChargeStanchion.description>Um rifle de precisão experimental de carga que dispara tiros mecanoides. Combinando a tecnologia de carga de pulso com um design de arma operado a gás mais antigo, esta arma é verdadeiramente única e, extremamente poderosa.</RUA_Gun_ChargeStanchion.description>
+            <RUA_Gun_ChargeStanchion.tools.0.label>coronha</RUA_Gun_ChargeStanchion.tools.0.label>
+            <RUA_Gun_ChargeStanchion.tools.1.label>cano</RUA_Gun_ChargeStanchion.tools.1.label>
+            <RUA_Bullet_ChargeStanchion.label>tiro de rifle de precisão de suporte</RUA_Bullet_ChargeStanchion.label>
+
+        <!-- Halo Gauss Rifle -->
+            <RUA_Gun_HeavyChargeRifle.label>rifle de carga pesado</RUA_Gun_HeavyChargeRifle.label>
+            <RUA_Gun_HeavyChargeRifle.description>Um rifle de assalto pesado que dispara duas curtas rajadas. A tecnologia de carga por pulso carrega cada tiro com energia instável quando sai do cano. Liberada no impacto, a energia carregada aumenta muito o dano causado.</RUA_Gun_HeavyChargeRifle.description>
+            <RUA_Gun_HeavyChargeRifle.tools.0.label>coronha</RUA_Gun_HeavyChargeRifle.tools.0.label>
+            <RUA_Gun_HeavyChargeRifle.tools.1.label>cano</RUA_Gun_HeavyChargeRifle.tools.1.label>
+            <RUA_Bullet_HeavyChargeRifle.label>tiro de rifle de carga pesado</RUA_Bullet_HeavyChargeRifle.label>
+
+        <!-- Heavy Laser Rifle -->
+            <RUA_Gun_Anti-TankLaserRifle.label>rifle laser pesado</RUA_Gun_Anti-TankLaserRifle.label>
+            <RUA_Gun_Anti-TankLaserRifle.description>Um rifle de precisão ultratecnológico pesado, capaz de emitir um feixe de luz concentrado com energia suficiente para derreter até mesmo a armadura mais pesada.\n\nUtilizando células de bateria avançadas, esta arma é capaz de aquecer-se, aumentando a velocidade de disparo a cada tiro consecutivo.\n\nEsta arma pode superaquecer quando totalmente aquecida, resultando em uma pequena explosão da bateria ao redor do usuário.</RUA_Gun_Anti-TankLaserRifle.description>
+            <RUA_Gun_Anti-TankLaserRifle.tools.0.label>cano</RUA_Gun_Anti-TankLaserRifle.tools.0.label>
+            <RUA_Gun_Anti-TankLaserRifle.tools.1.label>cabo</RUA_Gun_Anti-TankLaserRifle.tools.1.label>
+            <RUA_Bullet_Anti-TankLaserRifle.label>tiro laser preciso</RUA_Bullet_Anti-TankLaserRifle.label>
+            <RUA_Bullet_Anti-TankLaserRifle.description>Um feixe de laser focalizado de longo alcance.</RUA_Bullet_Anti-TankLaserRifle.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Light Charge Blaster -->
             <VFE_Bullet_ChargeBlasterLight.label>tiro de desintegrador de carga</VFE_Bullet_ChargeBlasterLight.label>

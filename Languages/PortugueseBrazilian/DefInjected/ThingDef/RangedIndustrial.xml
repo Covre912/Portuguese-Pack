@@ -1,6 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] Rimworld: UNSC Armoury -->
+        <!-- Advanced Pistol -->
+            <RUA_Gun_AdvancedMagnum.label>pistola avançada</RUA_Gun_AdvancedMagnum.label>
+            <RUA_Gun_AdvancedMagnum.description>Uma avançada pistola automática operada a gás. Falta potência e alcance, mas causa uma grande quantidade de dano.</RUA_Gun_AdvancedMagnum.description>
+            <RUA_Gun_AdvancedMagnum.tools.0.label>cabo</RUA_Gun_AdvancedMagnum.tools.0.label>
+            <RUA_Gun_AdvancedMagnum.tools.1.label>cano</RUA_Gun_AdvancedMagnum.tools.1.label>
+            <RUA_Bullet_AdvancedMagnum.label>tiro de pistola avançada</RUA_Bullet_AdvancedMagnum.label>
+
+        <!-- Advanced Assault Rifle -->
+            <RUA_Gun_AdvancedAssaultRifle.label>rifle de assalto avançado</RUA_Gun_AdvancedAssaultRifle.label>
+            <RUA_Gun_AdvancedAssaultRifle.description>Um rifle de assalto avançado a gás para combate urbano e de embarque. Falta em precisão, mas compensa com danos.</RUA_Gun_AdvancedAssaultRifle.description>
+            <RUA_Gun_AdvancedAssaultRifle.tools.0.label>coronha</RUA_Gun_AdvancedAssaultRifle.tools.0.label>
+            <RUA_Gun_AdvancedAssaultRifle.tools.1.label>cano</RUA_Gun_AdvancedAssaultRifle.tools.1.label>
+            <RUA_Bullet_AdvancedAssaultRifle.label>tiro de rifle avançado</RUA_Bullet_AdvancedAssaultRifle.label>
+
+        <!-- Advanced Battle Rifle -->
+            <RUA_Gun_AdvancedBattleRifle.label>rifle de batalha avançado</RUA_Gun_AdvancedBattleRifle.label>
+            <RUA_Gun_AdvancedBattleRifle.description>Um rifle de batalha avançado que dispara três rajadas de balas. Tem bom alcance, dano e penetração.</RUA_Gun_AdvancedBattleRifle.description>
+            <RUA_Gun_AdvancedBattleRifle.tools.0.label>coronha</RUA_Gun_AdvancedBattleRifle.tools.0.label>
+            <RUA_Gun_AdvancedBattleRifle.tools.1.label>cano</RUA_Gun_AdvancedBattleRifle.tools.1.label>
+            <RUA_Gun_AdvancedBattleRifle.tools.2.label>cabo</RUA_Gun_AdvancedBattleRifle.tools.2.label>
+            <RUA_Bullet_AdvancedBattleRifle.label>tiro de rifle avançado</RUA_Bullet_AdvancedBattleRifle.label>
+
+        <!-- Advanced Marksman Rifle -->
+            <RUA_Gun_AdvancedDMR.label>rifle de atirador avançado</RUA_Gun_AdvancedDMR.label>
+            <RUA_Gun_AdvancedDMR.description>Um rifle de atirador avançado com alcance excepcionalmente longo, grande precisão e boa potência. Arquiva tanto o papel de um rifle de batalha quanto de um rifle de precisão.</RUA_Gun_AdvancedDMR.description>
+            <RUA_Gun_AdvancedDMR.tools.0.label>coronha</RUA_Gun_AdvancedDMR.tools.0.label>
+            <RUA_Gun_AdvancedDMR.tools.1.label>cano</RUA_Gun_AdvancedDMR.tools.1.label>
+            <RUA_Gun_AdvancedDMR.tools.2.label>cabo</RUA_Gun_AdvancedDMR.tools.2.label>
+            <RUA_Bullet_AdvancedDMR.label>tiro de rifle avançado</RUA_Bullet_AdvancedDMR.label>
+
+        <!-- Advanced Shotgun -->
+            <RUA_Gun_AdvancedShotgun.label>espingarda avançada</RUA_Gun_AdvancedShotgun.label>
+            <RUA_Gun_AdvancedShotgun.description>Uma espingarda avançada automática. Tem um alcance ainda mais curto do que uma espingarda típica, mas é extraordinariamente perigosa devido ao seu dano.</RUA_Gun_AdvancedShotgun.description>
+            <RUA_Gun_AdvancedShotgun.tools.0.label>coronha</RUA_Gun_AdvancedShotgun.tools.0.label>
+            <RUA_Gun_AdvancedShotgun.tools.1.label>cano</RUA_Gun_AdvancedShotgun.tools.1.label>
+            <RUA_Bullet_AdvancedShotgun.label>tiro de espingarda avançado</RUA_Bullet_AdvancedShotgun.label>
+
+        <!-- Advanced Sniper Rifle -->
+            <RUA_Gun_AdvancedSniperRifle.label>rifle de precisão avançado</RUA_Gun_AdvancedSniperRifle.label>
+            <RUA_Gun_AdvancedSniperRifle.description>Um design avançado a gás de um rifle de precisão. Possui um alcance excepcionalmente longo, grande precisão e extrema potência.</RUA_Gun_AdvancedSniperRifle.description>
+            <RUA_Gun_AdvancedSniperRifle.tools.0.label>coronha</RUA_Gun_AdvancedSniperRifle.tools.0.label>
+            <RUA_Gun_AdvancedSniperRifle.tools.1.label>cano</RUA_Gun_AdvancedSniperRifle.tools.1.label>
+            <RUA_Gun_AdvancedSniperRifle.tools.2.label>cabo</RUA_Gun_AdvancedSniperRifle.tools.2.label>
+            <RUA_Bullet_AdvancedSniperRifle.label>tiro de rifle de precisão</RUA_Bullet_AdvancedSniperRifle.label>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Handheld Mini-Turret -->
             <VFE_Gun_CombatMechanoidGun.label>mini-torreta portátil</VFE_Gun_CombatMechanoidGun.label>

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] Rimworld: UNSC Armoury -->
+        <!-- Combat Helmet -->
+            <RUA_Apparel_CombatHelmet.label>capacete de combate</RUA_Apparel_CombatHelmet.label>
+            <RUA_Apparel_CombatHelmet.description>Um capacete de combate volumoso com um design complexo e duas camadas reforçadas de plastiaço. Eficaz contra armas contundentes, afiadas e de longo alcance.</RUA_Apparel_CombatHelmet.description>
+
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Light Plate Helmet -->
             <VFEM_Apparel_PlateHelmetLight.label>capacete de placa leve</VFEM_Apparel_PlateHelmetLight.label>
