@@ -47,6 +47,41 @@
             <RUA_Gun_AdvancedSniperRifle.tools.2.label>cabo</RUA_Gun_AdvancedSniperRifle.tools.2.label>
             <RUA_Bullet_AdvancedSniperRifle.label>tiro de rifle de precisão</RUA_Bullet_AdvancedSniperRifle.label>
 
+    <!-- [HLX] Ultratech: Altered Carbon - Armoury -->
+        <!-- Bullpup Pistol -->
+            <AC_Gun_BullpupPistol.label>pistola bullpup</AC_Gun_BullpupPistol.label>
+            <AC_Gun_BullpupPistol.description>Uma pistola bullpup industrial leve. Tem um alcance limitado, mas dispara rapidamente.</AC_Gun_BullpupPistol.description>
+            <AC_Gun_BullpupPistol.tools.0.label>cabo</AC_Gun_BullpupPistol.tools.0.label>
+            <AC_Gun_BullpupPistol.tools.1.label>cano</AC_Gun_BullpupPistol.tools.1.label>
+            <AC_Bullet_BullpupPistol.label>tiro de pistola bullpup</AC_Bullet_BullpupPistol.label>
+
+        <!-- Quickfire Pistol -->
+            <AC_Gun_QuickfirePistol.label>pistola leve</AC_Gun_QuickfirePistol.label>
+            <AC_Gun_QuickfirePistol.description>Uma pistola automática industrial leve. Tem um alcance médio e pode ser recarregada rapidamente.</AC_Gun_QuickfirePistol.description>
+            <AC_Gun_QuickfirePistol.tools.0.label>cabo</AC_Gun_QuickfirePistol.tools.0.label>
+            <AC_Gun_QuickfirePistol.tools.1.label>cano</AC_Gun_QuickfirePistol.tools.1.label>
+            <AC_Bullet_QuickfirePistol.label>tiro de pistola leve</AC_Bullet_QuickfirePistol.label>
+
+        <!-- Gauss Revolver -->
+            <AC_Gun_MACRevolver.label>revólver gauss leve</AC_Gun_MACRevolver.label>
+            <AC_Gun_MACRevolver.description>Um revólver gauss espacial raro. Dispara tiros em curta sucessão, causando danos altamente letais.</AC_Gun_MACRevolver.description>
+            <AC_Gun_MACRevolver.tools.0.label>cabo</AC_Gun_MACRevolver.tools.0.label>
+            <AC_Gun_MACRevolver.tools.1.label>cano</AC_Gun_MACRevolver.tools.1.label>
+
+        <!-- Gauss Shock PDW -->
+            <AC_Gun_ShockPDW.label>PDW gauss</AC_Gun_ShockPDW.label>
+            <AC_Gun_ShockPDW.description>Uma SMG gauss espacial rara. Dispara até 4 tiros em uma explosão mortal.</AC_Gun_ShockPDW.description>
+            <AC_Gun_ShockPDW.tools.0.label>cabo</AC_Gun_ShockPDW.tools.0.label>
+            <AC_Gun_ShockPDW.tools.1.label>cano</AC_Gun_ShockPDW.tools.1.label>
+            <AC_Gun_ShockPDW.tools.2.label>coronha</AC_Gun_ShockPDW.tools.2.label>
+
+        <!-- Gauss Precision Rifle -->
+            <AC_Gun_MACRifle.label>rifle de precisão gauss</AC_Gun_MACRifle.label>
+            <AC_Gun_MACRifle.description>Um rifle de precisão gauss espacial raro. Dispara em declive em extrema velocidade em seu alvo, capaz de perfurar várias paredes e alvos fortemente blindados.</AC_Gun_MACRifle.description>
+            <AC_Gun_MACRifle.tools.0.label>cabo</AC_Gun_MACRifle.tools.0.label>
+            <AC_Gun_MACRifle.tools.1.label>coronha</AC_Gun_MACRifle.tools.1.label>
+            <AC_Gun_MACRifle.tools.2.label>cano</AC_Gun_MACRifle.tools.2.label>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Handheld Mini-Turret -->
             <VFE_Gun_CombatMechanoidGun.label>mini-torreta portátil</VFE_Gun_CombatMechanoidGun.label>

@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] Ultratech: Altered Carbon - Armoury -->
+        <!-- Gauss Revolver Sabot -->
+            <AC_Bullet_GaussRevolver.label>tiro de revólver gauss</AC_Bullet_GaussRevolver.label>
+
+        <!-- Gauss Shock PDW Sabot -->
+            <AC_Bullet_GaussShockPDW.label>tiro de PDW gauss</AC_Bullet_GaussShockPDW.label>
+
+        <!-- Gauss Precision Rifle Sabot -->
+            <AC_Bullet_GaussPrecisionRifle.label>tiro de rifle de precisão gauss</AC_Bullet_GaussPrecisionRifle.label>
+
     <!-- Race to the Rim -->
         <!-- Nightmare Breath -->
             <RttR_NightmareBreath.label>sopro de pesadelo</RttR_NightmareBreath.label>

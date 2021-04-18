@@ -6,6 +6,14 @@
             <RUA_Apparel_CombatHelmet.label>capacete de combate</RUA_Apparel_CombatHelmet.label>
             <RUA_Apparel_CombatHelmet.description>Um capacete de combate volumoso com um design complexo e duas camadas reforçadas de plastiaço. Eficaz contra armas contundentes, afiadas e de longo alcance.</RUA_Apparel_CombatHelmet.description>
 
+    <!-- [HLX] Ultratech: Altered Carbon - Armoury -->
+        <!-- Protectorate Helmet -->
+            <AC_Apparel_ProtectorateArmorHelmet.label>capacete de protetorado</AC_Apparel_ProtectorateArmorHelmet.label>
+            <AC_Apparel_ProtectorateArmorHelmet.description>Um capacete de armadura de protetorado, com um computador de status embutido e placas em tecido de plastiaço em camadas.</AC_Apparel_ProtectorateArmorHelmet.description>
+
+        <!-- Protectorate Armor -->
+            <AC_Apparel_ProtectorateArmor.label>armadura de protetorado</AC_Apparel_ProtectorateArmor.label>
+            <AC_Apparel_ProtectorateArmor.description>Uma armadura leve e potente. Placas em tecido de plastiaço em camadas são eficazes para interromper os ataques, com poucas seções de articulação vulneráveis. Assistentes neuro-meméticos permitem que um humano use a armadura e ainda se mova com facilidade.</AC_Apparel_ProtectorateArmor.description>
 
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Light Plate Helmet -->

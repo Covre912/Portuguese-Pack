@@ -125,7 +125,7 @@
 
     <!-- Vanilla Weapons Expanded - Frontier -->
         <!-- Gauss Revolver -->
-            <VWEFT_Gun_GaussRevolver.label>revólver gauss</VWEFT_Gun_GaussRevolver.label>
+            <VWEFT_Gun_GaussRevolver.label>revólver gauss pesado</VWEFT_Gun_GaussRevolver.label>
             <VWEFT_Gun_GaussRevolver.description>Um revólver gauss com tecnologia espacial. Uma série de bobinas acelera os tiros de um tambor giratório, penetrando a armadura e perfurando os alvos em seu caminho. Carrega mais rápido do que a maioria das armas de bobina ao custo de dano.</VWEFT_Gun_GaussRevolver.description>
             <VWEFT_Gun_GaussRevolver.tools.0.label>coronha</VWEFT_Gun_GaussRevolver.tools.0.label>
             <VWEFT_Gun_GaussRevolver.tools.1.label>cano</VWEFT_Gun_GaussRevolver.tools.1.label>
