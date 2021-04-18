@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] Ultratech: Altered Carbon -->
+        <!-- Free Mind -->
+            <AC_FreeMind.degreeDatas.0.label>mente livre</AC_FreeMind.degreeDatas.0.label>
+            <AC_FreeMind.degreeDatas.0.description>[PAWN_nameDef] sempre viu seu corpo como nada mais do que um recipiente para sua mente. [PAWN_pronoun] não se preocupa com o sexo, idade ou aparência de um corpo.</AC_FreeMind.degreeDatas.0.description>
+
+        <!-- Sleever -->
+            <AC_Sleever.degreeDatas.0.label>desalmado</AC_Sleever.degreeDatas.0.label>
+            <AC_Sleever.degreeDatas.0.description>[PAWN_nameDef] está acostumad{PAWN_gender ? o : a} a trocar de corpos como se fossem roupas. [PAWN_pronoun] não se importa com a frequência com que muda de corpo ou em qual corpo está usando no momento.</AC_Sleever.degreeDatas.0.description>
+
+        <!-- One Soul -->
+            <AC_AntiStack.degreeDatas.0.label>almado</AC_AntiStack.degreeDatas.0.label>
+            <AC_AntiStack.degreeDatas.0.description>[PAWN_nameDef] considera o uso de cartuchos e corpos como amoral. [PAWN_pronoun] acredita que os humanos têm apenas uma vida e que as prolongar por meio da tecnologia é um pecado.</AC_AntiStack.degreeDatas.0.description>
+
     <!-- [KV] Consolidated Traits -->
         <!-- Aesthete -->
             <RCT_Aesthete.degreeDatas.0.label>esteta</RCT_Aesthete.degreeDatas.0.label>
@@ -54,7 +67,7 @@
 
 		<!-- Pain Threshold -->
             <RCT_PainThreshold.degreeDatas.0.label>intolerante a dor</RCT_PainThreshold.degreeDatas.0.label>
-            <RCT_PainThreshold.degreeDatas.0.description>a dor imobiliza [PAWN_nameDef] mais rápido do que o normal.</RCT_PainThreshold.degreeDatas.0.description>
+            <RCT_PainThreshold.degreeDatas.0.description>A dor imobiliza [PAWN_nameDef] mais rápido do que o normal.</RCT_PainThreshold.degreeDatas.0.description>
             <RCT_PainThreshold.degreeDatas.1.label>homem de ferro</RCT_PainThreshold.degreeDatas.1.label>
             <RCT_PainThreshold.degreeDatas.1.description>[PAWN_nameDef] possui alta tolerância a dor.</RCT_PainThreshold.degreeDatas.1.description>
             <RCT_PainThreshold.degreeDatas.2.label>imbatível</RCT_PainThreshold.degreeDatas.2.label>

@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] Ultratech: Altered Carbon -->
+        <!-- Death Is No More-->
+            <AC_DeathIsNoMore.label>Não Há Mais Morte</AC_DeathIsNoMore.label>
+            <AC_DeathIsNoMore.description>Instale um cartucho cortical</AC_DeathIsNoMore.description>
+
+        <!-- Stacking Stacks -->
+            <AC_StackingStacks.label>Empilhando Cartuchos</AC_StackingStacks.label>
+            <AC_StackingStacks.description>Acumule 10 cartuchos corticais vazios</AC_StackingStacks.description>
+
+        <!-- Growing Babies -->
+            <AC_GrowingBabies.label>Criando Bebês</AC_GrowingBabies.label>
+            <AC_GrowingBabies.description>Construa uma incubadora de corpos</AC_GrowingBabies.description>
+
     <!-- Race to the Rim -->
         <!-- Elusive Giant -->
             <RttR_AchievementElusiveGiant.label>Gigante Esquivo</RttR_AchievementElusiveGiant.label>
-            <RttR_AchievementElusiveGiant.description>Faça um colono desenvolver um vínculo com um Chifre Estrondosou</RttR_AchievementElusiveGiant.description>
+            <RttR_AchievementElusiveGiant.description>Faça um colono desenvolver um vínculo com um Chifre Estrondoso</RttR_AchievementElusiveGiant.description>
 
         <!-- Nadder Plate -->
             <RttR_AchievementNadderPlate.label>Placa de Nadder</RttR_AchievementNadderPlate.label>

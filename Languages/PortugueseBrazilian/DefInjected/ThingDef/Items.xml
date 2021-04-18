@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+	<!-- [HLX] Ultratech: Altered Carbon -->
+		<!-- Empry Cortical Stack  -->
+			<AC_EmptyCorticalStack.label>cartucho cortical vazio</AC_EmptyCorticalStack.label>
+			<AC_EmptyCorticalStack.description>Um implante vazio que pode armazenar a consciência de um humano, implantado diretamente no pescoço de uma pessoa.</AC_EmptyCorticalStack.description>
+
+		<!-- Cortical Stack -->
+			<AC_FilledCorticalStack.label>cartucho cortical</AC_FilledCorticalStack.label>
+			<AC_FilledCorticalStack.description>Um implante com a consciência de um humano armazenada. Pode ser implantado em um corpo descocupado para trazer de volta a pessoa armazenada nele.</AC_FilledCorticalStack.description>
+
+		<!-- Brain Template -->
+			<AC_BrainTemplateCombat.label>modelo cerebral (combate)</AC_BrainTemplateCombat.label>
+			<AC_BrainTemplateCombat.description>Um chip de modificação que pode ser instalado em incubadoras de corpos que ajustam o cérebro de um corpo para uma habilidade específica. Apenas um modelo pode ser instalado por vez.</AC_BrainTemplateCombat.description>
+			<AC_BrainTemplateWorker.label>modelo cerebral (trabalho)</AC_BrainTemplateWorker.label>
+			<AC_BrainTemplateWorker.description>Um chip de modificação que pode ser instalado em incubadoras de corpos que ajustam o cérebro de um corpo para uma habilidade específica. Apenas um modelo pode ser instalado por vez.</AC_BrainTemplateWorker.description>
+			<AC_BrainTemplateInfiltrator.label>modelo cerebral (infiltração)</AC_BrainTemplateInfiltrator.label>
+			<AC_BrainTemplateInfiltrator.description>Um chip de modificação que pode ser instalado em incubadoras de corpos que ajustam o cérebro de um corpo para uma habilidade específica. Apenas um modelo pode ser instalado por vez.</AC_BrainTemplateInfiltrator.description>
+			<AC_BrainTemplatePsycaster.label>modelo cerebral (psycast)</AC_BrainTemplatePsycaster.label>
+			<AC_BrainTemplatePsycaster.description>Um chip de modificação que pode ser instalado em incubadoras de corpos que ajustam o cérebro de um corpo para uma habilidade específica. Apenas um modelo pode ser instalado por vez.</AC_BrainTemplatePsycaster.description>
+
 	<!-- [T] MoreFloors -->
 		<!-- Wool Cloth -->
 	  		<WoolCloth.label>tecido de lã</WoolCloth.label>

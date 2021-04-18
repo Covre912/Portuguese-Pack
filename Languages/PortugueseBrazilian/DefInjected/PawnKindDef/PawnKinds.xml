@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] Ultratech: Altered Carbon -->
+        <!-- Colonist -->
+            <AC_ColonistWithStack.label>colono</AC_ColonistWithStack.label>
+            <AC_ColonistWithStack.labelPlural>colonos</AC_ColonistWithStack.labelPlural>
+
     <!-- [KV] Faction Control -->
         <!-- Young Warrior -->
             <YoungTribalWarrior.label>jovem guerreiro</YoungTribalWarrior.label>

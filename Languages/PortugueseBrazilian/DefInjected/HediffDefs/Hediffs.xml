@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] Ultratech: Altered Carbon -->
+        <!-- Cortical Stack -->
+            <AC_CorticalStack.label>cartucho cortical</AC_CorticalStack.label>
+            <AC_CorticalStack.description>Um cartucho cortical instalado.</AC_CorticalStack.description>
+            <AC_CorticalStack.labelNoun>um cartucho cortical</AC_CorticalStack.labelNoun>
+
+        <!-- Sleeve Quality -->
+            <AC_Sleeve_Quality_Low.label>qualidade do corpo</AC_Sleeve_Quality_Low.label>
+            <AC_Sleeve_Quality_Low.description>Este corpo cresceu rápido e precariamente. É frágil e doentio.</AC_Sleeve_Quality_Low.description>
+            <AC_Sleeve_Quality_Low.stages.0.label>baixa</AC_Sleeve_Quality_Low.stages.0.label>
+            <AC_Sleeve_Quality_Standart.label>qualidade do corpo</AC_Sleeve_Quality_Standart.label>
+            <AC_Sleeve_Quality_Standart.description>Um corpo básico crescido adequadamente.</AC_Sleeve_Quality_Standart.description>
+            <AC_Sleeve_Quality_Standart.stages.0.label>padrão</AC_Sleeve_Quality_Standart.stages.0.label>
+            <AC_Sleeve_Quality_High.label>qualidade do corpo</AC_Sleeve_Quality_High.label>
+            <AC_Sleeve_Quality_High.description>Um corpo desenvolvido até a perfeição. É forte e não tem falhas.</AC_Sleeve_Quality_High.description>
+            <AC_Sleeve_Quality_High.stages.0.label>alta</AC_Sleeve_Quality_High.stages.0.label>
+
+        <!-- Empty Sleeve -->
+            <AC_EmptySleeve.label>corpo desocupado</AC_EmptySleeve.label>
+            <AC_EmptySleeve.description>Um corpo desocupado.</AC_EmptySleeve.description>
+            <AC_EmptySleeve.stages.0.label>vazio</AC_EmptySleeve.stages.0.label>
+
+        <!-- DEV -->
+            <AC_SleeveBodyData.label>Dev_SleeveBodyData</AC_SleeveBodyData.label>
+            <AC_SleeveBodyData.description>SleeveBodyData</AC_SleeveBodyData.description>
+            <AC_SleeveBodyData.stages.0.label>baixa</AC_SleeveBodyData.stages.0.label>
+
+        <!-- Brain Template -->
+            <AC_BrainTemplateCombat.label>tipo do corpo (combate)</AC_BrainTemplateCombat.label>
+            <AC_BrainTemplateCombat.description>Este corpo foi criado especificamente para o combate.</AC_BrainTemplateCombat.description>
+            <AC_BrainTemplateWorker.label>tipo do corpo (trablho)</AC_BrainTemplateWorker.label>
+            <AC_BrainTemplateWorker.description>Este corpo foi criado especificamente para o trabalho manual.</AC_BrainTemplateWorker.description>
+            <AC_BrainTemplateInfiltrator.label>tipo do corpo (infiltração)</AC_BrainTemplateInfiltrator.label>
+            <AC_BrainTemplateInfiltrator.description>Este corpo foi criado especificamente para ser furtivo.</AC_BrainTemplateInfiltrator.description>
+            <AC_BrainTemplatePsycaster.label>tipo do corpo (psycast)</AC_BrainTemplatePsycaster.label>
+            <AC_BrainTemplatePsycaster.description>Este corpo foi criado especificamente para um psycaster.</AC_BrainTemplatePsycaster.description>
+
     <!-- A Dog Said... Animal Prosthetics -->
         <!--Limbs-->
             <ProstheticTail.label>cauda protética</ProstheticTail.label>

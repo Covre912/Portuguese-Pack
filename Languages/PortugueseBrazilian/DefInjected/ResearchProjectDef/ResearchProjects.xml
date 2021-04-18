@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] Ultratech: Altared Carbon -->
+        <!-- Human Sleeves -->
+            <AC_SleeveProduction.label>corpos humanos</AC_SleeveProduction.label>
+            <AC_SleeveProduction.description>Crie implantes ultra-tecnológicos que armazenam a consciência de um humano, removendo efetivamente alguém de seu corpo.</AC_SleeveProduction.description>
+
     <!-- A Dog Said... Animal Prosthetics -->
 	    <!-- Simple Animal Prosthetics -->
 		    <SimpleAnimalProsthetics.label>próteses veterinárias simples</SimpleAnimalProsthetics.label>

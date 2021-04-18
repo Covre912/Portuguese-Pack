@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] Ultratech: Altered Carbon -->
+        <!-- Extract Stack -->
+            <AC_ExtractStack.reportString>extraindo cartucho cortical de TargetA.</AC_ExtractStack.reportString>
+
+        <!-- Wipe Stack -->
+            <AC_WipeStack.reportString>limpando cartucho cortical.</AC_WipeStack.reportString>
+
+        <!-- Destroy Stack -->
+            <AC_DestroyStack.reportString>destruindo cartucho cortical.</AC_DestroyStack.reportString>
+
+        <!-- Copy Stack -->
+            <AC_CopyStack.reportString>copiando cartucho cortical.</AC_CopyStack.reportString>
+
+        <!-- Release Sleeve -->
+            <AC_ReleaseSleeve.reportString>liberando corpo.</AC_ReleaseSleeve.reportString>
+
+        <!-- Insert Brain Template -->
+            <AC_InsertBrainTemplate.reportString>inserindo modelo cerebral.</AC_InsertBrainTemplate.reportString>
+
+        <!-- Extract Brain Template -->
+            <AC_ExtractActiveBrainTemplate.reportString>extraindo modelo cerebral de incubadora.</AC_ExtractActiveBrainTemplate.reportString>
+
     <!-- Allow Tool -->
         <!-- Finish Off Creature -->
             <FinishOffPawn.reportString>finalizando criatura.</FinishOffPawn.reportString>

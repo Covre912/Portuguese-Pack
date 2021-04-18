@@ -1,6 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] Ultratech: Altered Carbon -->
+        <!-- Death -->
+            <AC_MyOriginalDied.stages.0.label>minha cópia original {0} morreu</AC_MyOriginalDied.stages.0.label>
+            <AC_MyOriginalDied.stages.0.description>Minha cópia original está morta. Estou sozinho(a) de novo.</AC_MyOriginalDied.stages.0.description>
+            <AC_MyCopyDied.stages.0.label>minha cópia {0} morreu</AC_MyCopyDied.stages.0.label>
+            <AC_MyCopyDied.stages.0.description>Minha cópia está morta. Estou sozinho(a) de novo.</AC_MyCopyDied.stages.0.description>
+
+        <!-- Lost -->
+            <AC_MyOriginalLostMale.stages.0.label>minha cópia orginal {0} foi perdida</AC_MyOriginalLostMale.stages.0.label>
+            <AC_MyOriginalLostMale.stages.0.description>Minha cópia original foi perdida. Espero que ele volte algum dia.</AC_MyOriginalLostMale.stages.0.description>
+            <AC_MyOriginalLostFemale.stages.0.label>minha cópia orginal {0} foi perdida</AC_MyOriginalLostFemale.stages.0.label>
+            <AC_MyOriginalLostFemale.stages.0.description>Minha cópia original foi perdida. Espero que ela volte algum dia.</AC_MyOriginalLostFemale.stages.0.description>
+            <AC_MyCopyLostMale.stages.0.label>minha cópia {0} foi perdida</AC_MyCopyLostMale.stages.0.label>
+            <AC_MyCopyLostMale.stages.0.description>Minha cópia foi perdida. Espero que ele volte algum dia.</AC_MyCopyLostMale.stages.0.description>
+            <AC_MyCopyLostFemale.stages.0.label>minha cópia {0} foi perdida</AC_MyCopyLostFemale.stages.0.label>
+            <AC_MyCopyLostFemale.stages.0.description>Minha cópia foi perdida. Espero que ela volte algum dia.</AC_MyCopyLostFemale.stages.0.description>
+
+        <!-- Wrong Sleeve  -->
+            <AC_WrongRace.stages.0.label>corpo de raça diferente</AC_WrongRace.stages.0.label>
+            <AC_WrongRace.stages.0.description>A raça de meu corpo não é a minha, isso parece errado...</AC_WrongRace.stages.0.description>
+            <AC_WrongGender.stages.0.label>corpo de gênero diferente</AC_WrongGender.stages.0.label>
+            <AC_WrongGender.stages.0.description>O gênero do meu corpo não é o meu, isso parece errado...</AC_WrongGender.stages.0.description>
+            <AC_WrongGenderDouble.stages.0.label>corpo de gênero diferente</AC_WrongGenderDouble.stages.0.label>
+            <AC_WrongGenderDouble.stages.0.description>O gênero do meu corpo não é o meu, isso parece errado...</AC_WrongGenderDouble.stages.0.description>
+            <AC_MansBody.stages.0.label>corpo de homem</AC_MansBody.stages.0.label>
+            <AC_MansBody.stages.0.description>Estou no corpo de um homem, não gosto disso!</AC_MansBody.stages.0.description>
+            <AC_WomansBody.stages.0.label>corpo de mulher</AC_WomansBody.stages.0.label>
+            <AC_WomansBody.stages.0.description>Estou no corpo de uma mulher, não gosto disso!</AC_WomansBody.stages.0.description>
+
+        <!-- New Sleeve -->
+            <AC_NewSleeve.stages.0.label>novo corpo</AC_NewSleeve.stages.0.label>
+            <AC_NewSleeve.stages.0.description>Eu tenho um novo corpo, vai demorar um pouco para me acostumar.</AC_NewSleeve.stages.0.description>
+            <AC_NewSleeveDouble.stages.0.label>novo corpo</AC_NewSleeveDouble.stages.0.label>
+            <AC_NewSleeveDouble.stages.0.description>Eu tenho um novo corpo, vai demorar um pouco para me acostumar.</AC_NewSleeveDouble.stages.0.description>
+
+        <!-- Colony -->
+            <AC_ColonyUsesStacks.stages.0.label>colônia usa cartuchos</AC_ColonyUsesStacks.stages.0.label>
+            <AC_ColonyUsesStacks.stages.0.description>As pessoas nesta colônia usam cartuchos, eles não sabem que é errado?</AC_ColonyUsesStacks.stages.0.description>
+
+        <!-- Copy -->
+            <AC_JustCopy.stages.0.label>apenas uma cópia</AC_JustCopy.stages.0.label>
+            <AC_JustCopy.stages.0.description>Não sou nada mais do que uma cópia... o que sou mesmo?</AC_JustCopy.stages.0.description>
+
+        <!-- Lost My -->
+            <AC_LostMySoul.stages.0.label>perdi minha alma</AC_LostMySoul.stages.0.label>
+            <AC_LostMySoul.stages.0.description>Isso vai contra tudo em que acredito, estou com um cartucho e perdi minha alma... Nunca vou me acostumar com isso.</AC_LostMySoul.stages.0.description>
+            <AC_LostMySpouse.stages.0.label>perdi meu cônjuge</AC_LostMySpouse.stages.0.label>
+            <AC_LostMySpouse.stages.0.description>Meu cônjuge ficou com minha cópia original, mas ainda o(a) amo. Isso não é justo...</AC_LostMySpouse.stages.0.description>
+            <AC_LostMyFiance.stages.0.label>perdi meu(inha) noivo(a)</AC_LostMyFiance.stages.0.label>
+            <AC_LostMyFiance.stages.0.description>Meu(inha) noivo(a) ficou com minha cópia original, mas ainda o(a) amo. Isso não é justo...</AC_LostMyFiance.stages.0.description>
+            <AC_LostMyLover.stages.0.label>perdi meu(inha) amante</AC_LostMyLover.stages.0.label>
+            <AC_LostMyLover.stages.0.description>Meu(inha) amante ficou com minha cópia original, mas ainda o(a) amo. Isso não é justo...</AC_LostMyLover.stages.0.description>
+
+        <!-- Kill -->
+            <AC_KilledMyOriginal.stages.0.label>matou meu original</AC_KilledMyOriginal.stages.0.label>
+            <AC_KilledMyCopy.stages.0.label>matou minha cópia</AC_KilledMyCopy.stages.0.label>
+
     <!-- [KV] Consolidated Traits -->
 		<!-- Cold-Lover -->
             <EnvironmentColdCL.stages.0.label>com frio</EnvironmentColdCL.stages.0.label>

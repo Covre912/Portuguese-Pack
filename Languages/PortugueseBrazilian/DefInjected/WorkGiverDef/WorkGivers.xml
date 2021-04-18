@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] Ultratech: Altered Carbon -->
+        <!-- Extract Brain Templete -->
+            <AC_ExtractActiveBrainTemplate.label>extração de modelo cerebral de incubadora</AC_ExtractActiveBrainTemplate.label>
+            <AC_ExtractActiveBrainTemplate.verb>extrair modelo cerebral de incubadora</AC_ExtractActiveBrainTemplate.verb>
+            <AC_ExtractActiveBrainTemplate.gerund>extraindo modelo cerebral de incubadora</AC_ExtractActiveBrainTemplate.gerund>
+
+        <!-- Insert Brain Template -->
+            <AC_InsertBrainTemplate.label>inserção de modelo cerebral na incubadora</AC_InsertBrainTemplate.label>
+            <AC_InsertBrainTemplate.verb>inserir modelo cerebral na incubadora</AC_InsertBrainTemplate.verb>
+            <AC_InsertBrainTemplate.gerund>inseririndo modelo cerebral na incubadora</AC_InsertBrainTemplate.gerund>
+
+        <!-- Extract Stack -->
+            <AC_ExtractStack.label>extração de cartucho cortical</AC_ExtractStack.label>
+            <AC_ExtractStack.verb>extrair cartucho cortical</AC_ExtractStack.verb>
+            <AC_ExtractStack.gerund>extraindo cartucho cortical</AC_ExtractStack.gerund>
+
     <!-- [T] MoreFloors -->
         <!-- Weave Wool -->
             <DoBillsWeaveWool.label>tecer lã</DoBillsWeaveWool.label>

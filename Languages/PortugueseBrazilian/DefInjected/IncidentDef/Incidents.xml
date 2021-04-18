@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] Ultratech: Altered Carbon -->
+        <!-- Stack Request -->
+            <AC_StackRequest.label>solicitação de cartucho</AC_StackRequest.label>
+
     <!-- Psychology (unofficial 1.1/1.2) -->
         <!-- Election -->
             <Election.label>eleição</Election.label>

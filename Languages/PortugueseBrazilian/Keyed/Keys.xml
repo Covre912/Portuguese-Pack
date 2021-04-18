@@ -1,6 +1,81 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+    <!-- [HLX] Ultratech: Altered Carbon -->
+        <!-- Incubator -->
+            <AlteredCarbon.Name>Nome</AlteredCarbon.Name>
+            <AlteredCarbon.faction>Facção</AlteredCarbon.faction>
+            <AlteredCarbon.childhood>Infância</AlteredCarbon.childhood>
+            <AlteredCarbon.adulthood>Idade Adulta</AlteredCarbon.adulthood>
+            <AlteredCarbon.ageChronologicalTicks>Idade Cronológica</AlteredCarbon.ageChronologicalTicks>
+            <AlteredCarbon.ExtractStack>Extrair Cartucho</AlteredCarbon.ExtractStack>
+            <AlteredCarbon.DuplicateStack>Duplicar Cartucho</AlteredCarbon.DuplicateStack>
+            <AlteredCarbon.WipeStack>Limpar Cartucho</AlteredCarbon.WipeStack>
+            <AlteredCarbon.DestroyStack>Destruir Cartucho</AlteredCarbon.DestroyStack>
+            <AlteredCarbon.DestroyedStack>Cartucho Destruído</AlteredCarbon.DestroyedStack>
+            <AlteredCarbon.DestroyedStackDesc>Um cartucho vazio foi destruído por ações ineptas de {PAWN_labelShort}</AlteredCarbon.DestroyedStackDesc>
+            <AlteredCarbon.DestroyedWipingStackDesc>Um cartucho foi destruído por ações ineptas de {PAWN_labelShort}</AlteredCarbon.DestroyedWipingStackDesc>
+            <AlteredCarbon.EmptySleeve>Corpo Vazio</AlteredCarbon.EmptySleeve>
+            <AlteredCarbon.EmptyStack>Cartucho Vazio</AlteredCarbon.EmptyStack>
+            <AlteredCarbon.EmptyStackDesc>Cartucho Vazio</AlteredCarbon.EmptyStackDesc>
+            <AlteredCarbon.SleeveDeath>Morte Corporal</AlteredCarbon.SleeveDeath>
+            <AlteredCarbon.SleeveDeathDesc>Morte Corporal</AlteredCarbon.SleeveDeathDesc>
+            <AlteredCarbon.PawnDiedBecauseOf>O corpo de {PAWN_labelShort} foi morto. Causa: {1}.</AlteredCarbon.PawnDiedBecauseOf>
+            <AlteredCarbon.PawnDied>O corpo de {1_labelShort} foi morto.</AlteredCarbon.PawnDied>
+            <AlteredCarbon.SleveOf>Corpo de </AlteredCarbon.SleveOf>
+            <AlteredCarbon.EmptyStackConfirmation>Exclusão de Cartucho:\nAVISO! Você está prestes a limpar este cartucho, matando a pessoa salva nela. Você tem certeza que quer continuar?</AlteredCarbon.EmptyStackConfirmation>
+            <AlteredCarbon.DestroyStackConfirmation>Exclusão de Cartucho:\nAVISO! Você está prestes destruir este cartucho. Você tem certeza que quer continuar?</AlteredCarbon.DestroyStackConfirmation>
+            <AlteredCarbon.SleeveCustomization>Customização Corporal</AlteredCarbon.SleeveCustomization>
+            <AlteredCarbon.NoSleeve>Sem Corpo</AlteredCarbon.NoSleeve>
+            <AlteredCarbon.Sleeve>Corpo</AlteredCarbon.Sleeve>
+            <AlteredCarbon.CannotCopyNoIntellectual>Duplicar Cartucho (requer habilidade intelectual de 10 ou superior)</AlteredCarbon.CannotCopyNoIntellectual>
+            <AlteredCarbon.CannotCopyNoOtherEmptyStacks>Duplicar Cartucho (sem cartuchos vazios no mapa)</AlteredCarbon.CannotCopyNoOtherEmptyStacks>
+            <AlteredCarbon.GoodwillChangedReason_ErasedPawn>apagou {PAWN_labelShort}</AlteredCarbon.GoodwillChangedReason_ErasedPawn>
+            <AlteredCarbon.CantWipeStackTooDumb>Limpar Cartucho (requer habilidade intelectual de 5 ou superior)</AlteredCarbon.CantWipeStackTooDumb>
+            <AlteredCarbon.CancelSleeveBodyGrowing>Cancelar o crescimento do corpo</AlteredCarbon.CancelSleeveBodyGrowing>
+            <AlteredCarbon.CancelSleeveBodyGrowingDesc>Cancelar o crescimento do corpo</AlteredCarbon.CancelSleeveBodyGrowingDesc>
+            <AlteredCarbon.CreateSleeveBody>Criar corpo</AlteredCarbon.CreateSleeveBody>
+            <AlteredCarbon.CreateSleeveBodyDesc>Criar corpo</AlteredCarbon.CreateSleeveBodyDesc>
+            <AlteredCarbon.ReleaseSleeve>Liberar corpo</AlteredCarbon.ReleaseSleeve>
+            <BodyShape>Tipo de Corpo</BodyShape>
+            <BodyTypeReplace>Tipo de Corpo</BodyTypeReplace>
+            <Cancel>Cancelar</Cancel>
+            <GrowthProgress>Progresso: </GrowthProgress>
+            <AlteredCarbon.noHairAllowed>Esta raça não suporta cabelo</AlteredCarbon.noHairAllowed>
+            <HairColour>Cor do Cabelo</HairColour>
+            <HairType>Tipo de Cabelo</HairType>
+            <HeadShape>Tipo de Cabeça</HeadShape>
+            <HeadTypeReplace>Tipo de Cabeça</HeadTypeReplace>
+            <LevelOfBeauty>Beleza</LevelOfBeauty>
+            <LevelofQuality>Qualidade</LevelofQuality>
+            <RequireBiomass>Requerimento de Biomassa</RequireBiomass>
+            <SkinColour>Cor da Pele</SkinColour>
+            <TimeToGrow>Tempo de Crescimento</TimeToGrow>
+            <SelectRace>Selecionar Raça</SelectRace>
+            <RaceTypeReplace>Tipo de Raça</RaceTypeReplace>
+            <AlteredCarbon.isRunningOutFuel>A incubadora de corpos está ficando sem combustível</AlteredCarbon.isRunningOutFuel>
+            <AlteredCarbon.isRunningOutPower>A incubadora de corpos está ficando sem energia</AlteredCarbon.isRunningOutPower>
+            <AlteredCarbon.SleeveInIncubatorIsDead>O corpo na incubadora está morto</AlteredCarbon.SleeveInIncubatorIsDead>
+            <AlteredCarbon.NoBrainTemplatesFound>Nenhum modelo cerebral encontrado</AlteredCarbon.NoBrainTemplatesFound>
+            <AlteredCarbon.InsertBrainTemplate>Inserir modelo cerebral</AlteredCarbon.InsertBrainTemplate>
+            <AlteredCarbon.InsertBrainTemplateDesc>Inserir modelo cerebral desc.</AlteredCarbon.InsertBrainTemplateDesc>
+            <AlteredCarbon.RemoveCurrentBrainTemplate>Remover o modelo cerebral atual</AlteredCarbon.RemoveCurrentBrainTemplate>
+            <AlteredCarbon.CommandCallsNeuroformers>Exigir dispositivos neuroformadores</AlteredCarbon.CommandCallsNeuroformers>
+            <AlteredCarbon.growingTimeModifier>Multiplicador do tempo de crescimento de corpo</AlteredCarbon.growingTimeModifier>
+            <AlteredCarbon.sleeveHealthPreview>Antevisão de Saúde</AlteredCarbon.sleeveHealthPreview>
+            <AlteredCarbon.saturation>saturação</AlteredCarbon.saturation>
+            <AlteredCarbon.value>brilho</AlteredCarbon.value>
+
+        <!-- Extract Stack -->
+            <AC.DesignatorExtractStack>Extrair cartuchos</AC.DesignatorExtractStack>
+            <AC.DesignatorExtractStackDesc>Extraia cartuchos corticais de cadáveres</AC.DesignatorExtractStackDesc>
+            <AC.MessageMustDesignateHasStack>O corpo deve ter um cartucho cortical</AC.MessageMustDesignateHasStack>
+
+        <!-- Stack Demand -->
+            <AC.FactionDemandsStacks>{FACTION_name} exige os cartuchos de seus membros de volta.\n\n{0}</AC.FactionDemandsStacks>
+            <AC.AppeptFactionDemand>Aceitar: (+{0} boa vontade)</AC.AppeptFactionDemand>
+            <AC.RejectFactionDemand>Rejeitar: ({0} boa vontade)</AC.RejectFactionDemand>
+
     <!-- [KV] Consolidated Traits -->
         <!-- Consolidated Tarits -->
             <ConsolidatedTraits>Consolidated Traits</ConsolidatedTraits>

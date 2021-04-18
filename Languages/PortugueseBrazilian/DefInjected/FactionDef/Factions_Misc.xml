@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] Ultratech: Altered Carbon -->
+        <!-- Empty Sleeves -->
+            <AC_EmptySleeves.label>corpos desocupados</AC_EmptySleeves.label>
+            <AC_EmptySleeves.pawnSingular>corpo</AC_EmptySleeves.pawnSingular>
+            <AC_EmptySleeves.pawnsPlural>corpos</AC_EmptySleeves.pawnsPlural>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Swarm -->
             <VFE_Mechanoid.label>enxame mecanóide</VFE_Mechanoid.label>

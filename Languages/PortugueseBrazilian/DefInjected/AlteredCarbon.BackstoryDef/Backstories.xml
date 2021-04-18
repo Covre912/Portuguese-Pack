@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- [HLX] Ultratech: Altered Carbon -->
+        <!-- Empty Sleeve -->
+            <AC_EmptySleeveChildhood.title>Corpo desocupado</AC_EmptySleeveChildhood.title>
+            <AC_EmptySleeveChildhood.titleShort>Corpo vazio</AC_EmptySleeveChildhood.titleShort>
+            <AC_EmptySleeveChildhood.baseDescription>Crescido em um tanque, este corpo tem basicamente morte cerebral e não pode viver por conta própria.</AC_EmptySleeveChildhood.baseDescription>
+
+</LanguageData>

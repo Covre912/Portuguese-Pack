@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- [HLX] Ultratech: Altered Carbon -->
+        <!-- Growing Sleeves -->
+            <AC_SleeveGrowing.label>Crescimento de Corpos</AC_SleeveGrowing.label>
+            <AC_SleeveGrowing.helpText>INCUBADORES DE CORPOS podem ser usados ​​para criar novos corpos a partir do zero. Requer NEUTROAMINA como combustível.\n\n\nPara começar a a criar um novo corpo, selecione a incubadora de corpos e clique em CRIAR CORPO. Isso abrirá o designer de corpos. Aqui você pode personalizar o novo corpo ao seu gosto, escolher sua raça seu nível de QUALIDADE e BELEZA. Quando estiver satisfeito com o design, clique em ACEITAR para começar a criar o COLONO.\n\nA BELEZA define o quão bonitp será o novo corpo. Isso adicionará o traço apropriado ao novo corpo. NORMAL não adiciona traços de beleza.\n\n\nA QUALIDADE influencia o tempo que o corpo leva para crescer e aplica uma condição que afeta a eficácia do novo corpo. NORMAL não adicionará uma condição.\n\n\nOs novos corpos têm basicamente morte cerebral e não serão capazes de cuidar de si mesmos. Recomenda-se ter um SARCÓFAGO DE CORPOS pronto para armazená-los até a instalação de um cartucho.</AC_SleeveGrowing.helpText>
+
+        <!-- Sleeve Caskets -->
+            <AC_UsingSleeveCaskets.label>Sarcófagos de Corpos</AC_UsingSleeveCaskets.label>
+            <AC_UsingSleeveCaskets.helpText>SARCÓFAGOS DE CORPOS são camas ultratecnológicas que basicamente "congelam" o colono ao usá-las. Isso significa que suas necessidades não irão diminuir e você pode levar seu tempo instalando IMPLANTES e CARTUCHOS em novos corpo vazias.\n\n\nOs SARCÓFAGOS DE CORPOS só podem ser usados ​​como leitos médicos e devem ser usados ​​apenas para corpos vazios.</AC_UsingSleeveCaskets.helpText>
+
+        <!-- Brain Templates -->
+            <AC_UsingBrainTemplates.label>Modelos Cerebrais</AC_UsingBrainTemplates.label>
+            <AC_UsingBrainTemplates.helpText>MODELOS CEREBRAIS são novos itens que você pode inserir em SARCÓFAGOS DE CORPOS para modificar os corpos crescidos por dentro com valores especiais, dando-lhes CONDIÇÕES que tornam o novo corpo mais útil para certas tarefas.\n\n\nPara inserir um modelo cerebral, selecione a INCUBADORA DE CORPOS desejada e clique em INSERIR MODELO CEREBRAL. Agora você pode selecionar o tipo de modelo que deseja (apenas mostrará os modelos disponíveis para você!). Um de seus colonos irá inserir automaticamente o modelo para você.\n\n\nVocê pode remover um modelo de uma incubadora de corpos selecionando-a e selecionando REMOVER O MODELO CEREBRAL ATUAL.</AC_UsingBrainTemplates.helpText>
+
+        <!-- Cortical Stacks -->
+            <AC_EmptyStacks.label>Cartuchos Corticais</AC_EmptyStacks.label>
+            <AC_EmptyStacks.helpText>CARTUCHOS CORTICAIS são um novo IMPLANTE que você pode instalar em qualquer colono via CIRURGIA. Eles vão armazenar a consciência dos peões e evitar que morram quando seu corpo for destruído.\n\n\nEm termos de jogo, isso significa: quando um cartucho vazio é instalado, ela salva a data dos colonos nele. Isso inclui, mas não se limita a: nome, idade, traços (nem todos, alguns serão excluídos!), habilidades, relacionamentos, vínculos e muito mais!\n\n\nQuando um peão com um cartucho morre, você pode EXTRAIR o cartucho do cadáver por meio da EXTRAÇÃO DE CARTUCHO. Da mesma forma como funciona a remoção de roupas.\n\n\nCARTUCHOS CORTICAIS não podem ser criados. Você terá que encontrá-los ou "adquiri-los" de outras pessoas.\n\n\nOs CARTUCHOS CORTICAIS podem ser DUPLICADOS. Isso faz uma cópia exata do colono em CARTUCHO UM para uma novo cartucho vazip, CARTUCHO DOIS. Não seja cretino, nem todo mundo gosta de ser clonado. Para DUPLICAR um cartucho, selecione um colono e clique no cartucho que deseja duplicar. Isso requer um colono com pelo menos uma perícia INTELECTUAL de 10. Esteja ciente, isso pode falhar e destruir o cartucho!</AC_EmptyStacks.helpText>
+
+        <!-- Filled Stacks -->
+            <AC_FilledStacks.label>Cartuchos Preenchidos</AC_FilledStacks.label>
+            <AC_FilledStacks.helpText>CARTUCHOS CORTICAIS PREENCHIDOS são cartuchos com uma consciência armazenada neles.\n\n\nEnquanto o cartucho com um colono armazenado existir, o colono nela é considerado vivo pelo jogo. Você pode IMPLANTAR cartuchos preenchidps em um novo corpo por meio de uma CIRURGIA. Pode ser QUALQUER PESSOA, até um PRISIONEIRO! Devido às limitações do jogo, você não pode selecionar qual cartucho deseja instalar, então é recomendável que você PROÍBA todas os cartuchos preenchidos que você possui, MENOS aquele que deseja instalar.\n\n\nCARTUCHOS CORTICAIS PREENCHIDOS também podem ser LIMPADOS e transformados em CARTUCHOS CORTICAIS VAZIOS. Este progresso mata o colono armazenado nele. Para LIMPAR um cartucho, selecione um colono e clique no cartucho que deseja limpar. Isso requer um peão com pelo menos uma perícia INTELECTUAL de 5. Esteja ciente, isso pode falhar e destruir o cartucho!\n\n\nCARTUCHOS CORTICAIS não podem ser criados. Você terá que encontrá-los ou "adquiri-los" de outras pessoas.</AC_FilledStacks.helpText>
+
+        <!-- Extract Stacls -->
+            <AC_DeadPawnWithStack.label>Extração de Cartuchos</AC_DeadPawnWithStack.label>
+            <AC_DeadPawnWithStack.helpText>Parece que você tem cadáveres com CARTUCHOS CORTICAIS em seu mapa!\n\n\nVocê pode EXTRAIR o cartucho de um cadáver por meio da ordem de EXTRAÇÃO DE CARTUCHOS ou simplesmente clicando com o botão direito em um cadáver com um colono selecionado. Da mesma forma como funciona a remoção de roupas.\n\n\nOs cartuchos são raros e poderosos, então certifique-se de colhê-los!</AC_DeadPawnWithStack.helpText>
+
+</LanguageData>

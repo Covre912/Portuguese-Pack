@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- [HLX] Ultratech: Altered Carbon -->
+        <!-- Original -->
+            <AC_Original.label>original</AC_Original.label>
+            <AC_Original.labelFemale>original</AC_Original.labelFemale>
+
+        <!-- Copy -->
+            <AC_Copy.label>cópia</AC_Copy.label>
+            <AC_Copy.labelFemale>cópia</AC_Copy.labelFemale>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- Best Friend -->
+            <VSIE_BestFriend.label>melhor amigo</VSIE_BestFriend.label>
+            <VSIE_BestFriend.labelFemale>melhor amiga</VSIE_BestFriend.labelFemale> 
+
+</LanguageData>

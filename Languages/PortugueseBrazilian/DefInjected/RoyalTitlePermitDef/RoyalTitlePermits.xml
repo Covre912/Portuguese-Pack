@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- [HLX] Ultratech: Altered Carbon -->
+        <!-- Call Neuroformers -->
+            <AC_CallNeuroformers.label>exigir dispositivos neuroformadores</AC_CallNeuroformers.label>
+            <AC_CallNeuroformers.description>Exige dispositivos neuroformadores.</AC_CallNeuroformers.description>
+
+</LanguageData>

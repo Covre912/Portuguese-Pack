@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] Ultratech: Altered Carbon -->
+        <!-- Empty Cortical Stack -->
+            <AC_InstallEmptyCorticalStack.label>instalar cartucho cortical vazio</AC_InstallEmptyCorticalStack.label>
+            <AC_InstallEmptyCorticalStack.description>Instala um cartucho cortical vazio.</AC_InstallEmptyCorticalStack.description>
+            <AC_InstallEmptyCorticalStack.jobString>Instalando cartucho cortical.</AC_InstallEmptyCorticalStack.jobString>
+
+        <!-- Filled Cortical Stack -->
+            <AC_InstallCorticalStack.label>instalar cartucho cortical preenchido</AC_InstallCorticalStack.label>
+            <AC_InstallCorticalStack.description>Instala um cartucho cortical.</AC_InstallCorticalStack.description>
+            <AC_InstallCorticalStack.jobString>Instalando cartucho cortical.</AC_InstallCorticalStack.jobString>
+
+        <!-- Cortical Stack -->
+            <AC_RemoveCorticalStack.label>remover cartucho cortical</AC_RemoveCorticalStack.label>
+            <AC_RemoveCorticalStack.description>Remova um cartucho cortical.</AC_RemoveCorticalStack.description>
+            <AC_RemoveCorticalStack.jobString>Removendo cartucho cortical.</AC_RemoveCorticalStack.jobString>
+
     <!-- [T] MoreFloors -->
         <!-- Wool Cloth -->
             <MakeWoolCloth.label>fazer tecido de lã</MakeWoolCloth.label>

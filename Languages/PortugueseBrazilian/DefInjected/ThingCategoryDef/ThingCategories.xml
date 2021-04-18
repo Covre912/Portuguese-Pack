@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] Ultratech: Altered Carbon -->
+        <!-- Brain Templates -->
+            <AC_BrainTemplates.label>modelos cerebrais</AC_BrainTemplates.label>
+
     <!-- A Dog Said... Animal Prosthetics -->
         <!-- Animal Body Part-->
             <BodyPartsAnimalArtificial.label>partes do corpo de animal</BodyPartsAnimalArtificial.label>
