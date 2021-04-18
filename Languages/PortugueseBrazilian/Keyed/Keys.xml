@@ -1301,6 +1301,57 @@
 	        <RFM_StartRaidDelayed>{0} ({1}) está realmente chateado! Você será invadido em {2}!</RFM_StartRaidDelayed>
 	        <RFM_StartAirDropRaidNow>{0} ({1}) começou a te atacar com cápsulas de transporte!</RFM_StartAirDropRaidNow>
 
+    <!-- RandomPlus -->
+        <!-- Random Editor -->
+            <RandomPlus.RandomEditor.Header>Editor</RandomPlus.RandomEditor.Header>
+            <RandomPlus.RandomEditor.ResetAllButton>Redefinir</RandomPlus.RandomEditor.ResetAllButton>
+            <RandomPlus.RandomEditor.SaveLoadButton>Salvar</RandomPlus.RandomEditor.SaveLoadButton>
+        
+        <!-- Save Load Dialog -->
+            <RandomPlus.SaveLoadDialog.SaveButton>Salvar</RandomPlus.SaveLoadDialog.SaveButton>
+            <RandomPlus.SaveLoadDialog.OverwriteButton>Sobrescrever</RandomPlus.SaveLoadDialog.OverwriteButton>
+            <RandomPlus.SaveLoadDialog.LoadButton>Carregar</RandomPlus.SaveLoadDialog.LoadButton>
+            <RandomPlus.SaveLoadDialog.DeleteButton>Excluir</RandomPlus.SaveLoadDialog.DeleteButton>
+            
+        <!-- Filter-->
+            <RandomPlus.FilterButton>Filtro</RandomPlus.FilterButton>
+            <RandomPlus.RerollLabel>Roladas: </RandomPlus.RerollLabel>
+  
+        <!-- Panel Skills -->
+            <RandomPlus.PanelSkills.Header>Nível Mínimo de Habilidade</RandomPlus.PanelSkills.Header>
+            <RandomPlus.PanelSkills.PassionSlider>Paixão: {0} - {1}</RandomPlus.PanelSkills.PassionSlider>
+	
+        <!-- Panel Traits -->
+            <RandomPlus.PanelTraits.Header>Filtro de Traços</RandomPlus.PanelTraits.Header>
+            <RandomPlus.PanelTraits.NoTraits>Sem Traços</RandomPlus.PanelTraits.NoTraits>
+            <RandomPlus.PanelTraits.AddDialog.AddButton>Adicionar</RandomPlus.PanelTraits.AddDialog.AddButton>
+            <RandomPlus.PanelTraits.PoolLabel>Quantidade de Traços: </RandomPlus.PanelTraits.PoolLabel>
+            <RandomPlus.PanelTraits.FilterType.Required> (Req.)</RandomPlus.PanelTraits.FilterType.Required>
+            <RandomPlus.PanelTraits.FilterType.Pool> (Est.)</RandomPlus.PanelTraits.FilterType.Pool>
+            <RandomPlus.PanelTraits.FilterType.Excluded> (Excl.)</RandomPlus.PanelTraits.FilterType.Excluded>
+	
+        <!-- Panel Others -->
+            <RandomPlus.PanelOthers.Header>Outras Opções</RandomPlus.PanelOthers.Header>
+            <RandomPlus.PanelOthers.RerollLimitLabel>Limite de Roladas:</RandomPlus.PanelOthers.RerollLimitLabel>
+            <RandomPlus.PanelOthers.GenderLabel>Gênero:</RandomPlus.PanelOthers.GenderLabel>
+            <RandomPlus.PanelOthers.HealthOptionLabel>Saúde:</RandomPlus.PanelOthers.HealthOptionLabel>
+            <RandomPlus.PanelOthers.HealthOptions.AllowAll>Tudo</RandomPlus.PanelOthers.HealthOptions.AllowAll>
+            <RandomPlus.PanelOthers.HealthOptions.OnlyStartConditions>Condições Iniciais</RandomPlus.PanelOthers.HealthOptions.OnlyStartConditions>
+            <RandomPlus.PanelOthers.HealthOptions.NoPain>Indolor</RandomPlus.PanelOthers.HealthOptions.NoPain>
+            <RandomPlus.PanelOthers.HealthOptions.NoAddiction>Sem Vício</RandomPlus.PanelOthers.HealthOptions.NoAddiction>
+            <RandomPlus.PanelOthers.HealthOptions.AllowNone>Nenhum</RandomPlus.PanelOthers.HealthOptions.AllowNone>
+            <RandomPlus.PanelOthers.IncapableOptionLabel>Incapaz:</RandomPlus.PanelOthers.IncapableOptionLabel>
+            <RandomPlus.PanelOthers.IncapableOptions.AllowAll>Tudo</RandomPlus.PanelOthers.IncapableOptions.AllowAll>
+            <RandomPlus.PanelOthers.IncapableOptions.NoDumbLabor>Trabalho Simples</RandomPlus.PanelOthers.IncapableOptions.NoDumbLabor>
+            <RandomPlus.PanelOthers.IncapableOptions.AllowNone>Nenhum</RandomPlus.PanelOthers.IncapableOptions.AllowNone>
+            <RandomPlus.PanelOthers.AgeLabel>Idade: {0} - {1}</RandomPlus.PanelOthers.AgeLabel>
+
+        <!-- Debug -->
+            <RandomPlus.Debug.QuickStartButton>Teste[RandomPlus]</RandomPlus.Debug.QuickStartButton>
+	
+        <!-- Dialog -->
+            <RandomPlus.Dialog.Close>Fechar</RandomPlus.Dialog.Close>
+
     <!-- RimCities - Citadel Update -->
         <!-- Enter City -->
             <EnterCity>Entrar na Cidade</EnterCity>

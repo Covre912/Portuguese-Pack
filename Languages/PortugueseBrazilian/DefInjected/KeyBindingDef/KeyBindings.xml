@@ -45,4 +45,8 @@
         <!-- Open Mod Update News -->
             <HLOpenUpdateNews.label>Abrir atualizações de mods</HLOpenUpdateNews.label>
 
+    <!-- RandomPlus -->
+        <!-- Go To Config Pawn Page -->
+            <Dev_QuickGoToConfigPawnPage.label>Ir para a página de configuração de colono</Dev_QuickGoToConfigPawnPage.label>
+
 </LanguageData>
