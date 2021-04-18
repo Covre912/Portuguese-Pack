@@ -581,6 +581,13 @@
 	        <KeyRightCommand>Cmd Dir.</KeyRightCommand>
 	        <KeyRightWindows>Win Dir.</KeyRightWindows>
 
+    <!-- Down For Me -->
+        <!-- Fake Down -->
+            <aRandomKiwi_DFM_ForceDownLabel>Queda falsa</aRandomKiwi_DFM_ForceDownLabel>
+            <aRandomKiwi_DFM_ForceDownDesc>Força o colono a fingir que está sendo derrubado.</aRandomKiwi_DFM_ForceDownDesc>
+            <aRandomKiwi_DFM_ForceUndownLabel>Parar queda falsa</aRandomKiwi_DFM_ForceUndownLabel>
+            <aRandomKiwi_DFM_ForceUndownDesc>Força o colono a parar de fingir que está sendo derrubado.</aRandomKiwi_DFM_ForceUndownDesc>
+
     <!-- Dress Patients -->
         <!-- Dress Patient -->
             <DressOther>Vestir {0}</DressOther>

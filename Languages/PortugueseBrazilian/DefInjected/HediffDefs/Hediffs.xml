@@ -127,6 +127,12 @@
             <VegetativeState.label>estado vegetativo</VegetativeState.label>
             <VegetativeState.description>A vítima está em estado vegetativo.</VegetativeState.description>
 
+    <!-- Down For Me -->
+        <!-- Pretend To Be Downed -->
+            <aRandomKiwi_DFM_WTBD.label>fingindo estar derrubado</aRandomKiwi_DFM_WTBD.label>
+            <aRandomKiwi_DFM_WTBD.labelNoun>fingido</aRandomKiwi_DFM_WTBD.labelNoun>
+            <aRandomKiwi_DFM_WTBD.description>Fingindo estar derrubado.</aRandomKiwi_DFM_WTBD.description>
+
     <!-- Psychology (unofficial 1.1/1.2) -->
         <!-- Holding Conversation -->
             <HoldingConversation.label>conversa</HoldingConversation.label>
