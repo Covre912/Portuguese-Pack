@@ -28,7 +28,7 @@
             <TM_MakeHungerTeas.label>fazer chá de rosas</TM_MakeHungerTeas.label>
             <TM_MakeHungerTeas.description>Faça chá de rosas com pétalas vermelhas e couro.</TM_MakeHungerTeas.description>
             <TM_MakeHungerTeas.jobString>Fazendo chá de rosas.</TM_MakeHungerTeas.jobString>
-            <TM_MakeHungerTeasFour.label>fazer chá de rosas (x4)</TM_MakeHungerTeasFour.label>
+            <TM_MakeHungerTeasFour.label>fazer chá de rosas x4</TM_MakeHungerTeasFour.label>
             <TM_MakeHungerTeasFour.description>Faça chá de rosas com pétalas vermelhas e couro.</TM_MakeHungerTeasFour.description>
             <TM_MakeHungerTeasFour.jobString>Fazendo chá de rosas.</TM_MakeHungerTeasFour.jobString>
 
@@ -47,7 +47,7 @@
             <VMEu_MakeConcrete.label>fazer concreto</VMEu_MakeConcrete.label>
             <VMEu_MakeConcrete.description>Rochas misturadas com pó de ferro expostas a altas temperaturas tornam os materiais à base de concreto mais resistentes.</VMEu_MakeConcrete.description>
             <VMEu_MakeConcrete.jobString>Fazendo concreto.</VMEu_MakeConcrete.jobString>
-            <VMEu_MakeBulkConcrete.label>fazer concreto (x4)</VMEu_MakeBulkConcrete.label>
+            <VMEu_MakeBulkConcrete.label>fazer concreto x4</VMEu_MakeBulkConcrete.label>
             <VMEu_MakeBulkConcrete.description>Rochas misturadas com pó de ferro expostas a altas temperaturas tornam os materiais à base de concreto mais resistentes.</VMEu_MakeBulkConcrete.description>
             <VMEu_MakeBulkConcrete.jobString>Fazendo concreto.</VMEu_MakeBulkConcrete.jobString>
             <VMEu_MakeConcreteRockPowder.label>fazer concreto com pó de pedra</VMEu_MakeConcreteRockPowder.label>
@@ -73,7 +73,7 @@
             <VMEu_MakeSteel.label>ligar aço</VMEu_MakeSteel.label>
             <VMEu_MakeSteel.description>Uma liga de ferro e carbono, o aço é mais resistente à ferrugem e mais forte do que o ferro.</VMEu_MakeSteel.description>
             <VMEu_MakeSteel.jobString>Ligando aço.</VMEu_MakeSteel.jobString>
-            <VMEu_MakeBulkSteel.label>ligar aço (x4)</VMEu_MakeBulkSteel.label>
+            <VMEu_MakeBulkSteel.label>ligar aço x4</VMEu_MakeBulkSteel.label>
             <VMEu_MakeBulkSteel.description>Uma liga de ferro e carbono, o aço é mais resistente à ferrugem e mais forte do que o ferro.</VMEu_MakeBulkSteel.description>
             <VMEu_MakeBulkSteel.jobString>Ligando aço.</VMEu_MakeBulkSteel.jobString>
             <VMEu_MakeSteelCharcoal.label>ligar aço com carvão vegetal</VMEu_MakeSteelCharcoal.label>
@@ -90,7 +90,7 @@
             <VMEu_MakeStainlessSteel_Tin.label>ligar aço inoxidável com estanho</VMEu_MakeStainlessSteel_Tin.label>
             <VMEu_MakeStainlessSteel_Tin.description>Ligue um tipo especial de aço ao misturá-lo com estanho e tungstênio, usado para fazer próteses, biônicos e órgãos sintéticos.</VMEu_MakeStainlessSteel_Tin.description>
             <VMEu_MakeStainlessSteel_Tin.jobString>Ligando aço inoxidável.</VMEu_MakeStainlessSteel_Tin.jobString>
-            <VMEu_MakeBulkStainlessSteel.label>ligar aço inoxidável (x4)</VMEu_MakeBulkStainlessSteel.label>
+            <VMEu_MakeBulkStainlessSteel.label>ligar aço inoxidável x4</VMEu_MakeBulkStainlessSteel.label>
             <VMEu_MakeBulkStainlessSteel.description>Ligue um tipo especial de aço ao misturá-lo com cromo e tungstênio, usado para fazer próteses, biônicos e órgãos sintéticos.</VMEu_MakeBulkStainlessSteel.description>
             <VMEu_MakeBulkStainlessSteel.jobString>Ligando aço inoxidável.</VMEu_MakeBulkStainlessSteel.jobString>
 
@@ -153,6 +153,31 @@
             <RttR_NightmareGelToChemfuelManual.label>fazer combustível químico de gel de pesadelo</RttR_NightmareGelToChemfuelManual.label>
             <RttR_NightmareGelToChemfuelManual.description>Faça um lote de combustível químico com gel de pesadelo. Este é um processo manual muito ineficiente.</RttR_NightmareGelToChemfuelManual.description>
             <RttR_NightmareGelToChemfuelManual.jobString>Extraindo combustível químico.</RttR_NightmareGelToChemfuelManual.jobString>
+
+    <!-- Sauced Meals -->
+        <!-- Simple Meal -->
+            <SM_CookSaucedMealSimple.label>cozinhar refeição simples temperada</SM_CookSaucedMealSimple.label>
+            <SM_CookSaucedMealSimple.description>Cozinhe uma refeição temperada simples a partir de um ingrediente e um condimento.</SM_CookSaucedMealSimple.description>
+            <SM_CookSaucedMealSimple.jobString>Cozinhando refeição simples temperada.</SM_CookSaucedMealSimple.jobString>
+            <SM_CookSaucedMealSimpleBulk.label>cozinhar refeição simples temperada x4</SM_CookSaucedMealSimpleBulk.label>
+            <SM_CookSaucedMealSimpleBulk.description>Cozinhe refeições temperadas simples a partir de um ingrediente e um condimento.</SM_CookSaucedMealSimpleBulk.description>
+            <SM_CookSaucedMealSimpleBulk.jobString>Cozinhando refeições luxuosas temperadas.</SM_CookSaucedMealSimpleBulk.jobString>
+
+        <!-- Fine Meal -->
+            <SM_CookSaucedMealFine.label>cozinhar refeição boa temperada</SM_CookSaucedMealFine.label>
+            <SM_CookSaucedMealFine.description>Cozinhe uma refeição mais complexa a partir da combinção de carne, plantas e um condimento.</SM_CookSaucedMealFine.description>
+            <SM_CookSaucedMealFine.jobString>Cozinhando refeição boa temperada.</SM_CookSaucedMealFine.jobString>
+            <SM_CookSaucedMealFineBulk.label>cozinhar refeição boa temperada x4</SM_CookSaucedMealFineBulk.label>
+            <SM_CookSaucedMealFineBulk.description>Cozinhe refeições mais complexas a partir da combinção de carne e ingredientes vegetais, além de um condimento.</SM_CookSaucedMealFineBulk.description>
+            <SM_CookSaucedMealFineBulk.jobString>Cozinhando refeições boas temperadas.</SM_CookSaucedMealFineBulk.jobString>
+
+        <!-- Lavish Meal -->
+            <SM_CookSaucedMealLavish.label>cozinhar refeição luxuosa temperada</SM_CookSaucedMealLavish.label>
+            <SM_CookSaucedMealLavish.description>Cozinhe uma refeição complexa a partir da combinação de carne e ingredientes vegetais, além de um condimento. Muitos dos ingredientes serão despediçados.</SM_CookSaucedMealLavish.description>
+            <SM_CookSaucedMealLavish.jobString>Cozinhando refeição luxuosa temperada.</SM_CookSaucedMealLavish.jobString>
+            <SM_CookSaucedMealLavishBulk.label>cozinhar refeição luxuosa temperada x4</SM_CookSaucedMealLavishBulk.label>
+            <SM_CookSaucedMealLavishBulk.description>Cozinhe refeições complexas a partir da combinação de carne e ingredientes vegetais, além de um condimento. Muitos dos ingredientes serão despediçados.</SM_CookSaucedMealLavishBulk.description>
+            <SM_CookSaucedMealLavishBulk.jobString>Cozinhando refeições luxosas temperadas.</SM_CookSaucedMealLavishBulk.jobString>
 
     <!-- Vanilla Weapons Expanded - Laser -->
         <!-- Salvage Laser Weapons -->

@@ -248,6 +248,19 @@
             <RttR_DazeAffected.label>atordoado e confuso</RttR_DazeAffected.label>
             <RttR_DazeAffected.description>Esta criatura foi recentemente afetada por um ataque atordoante de Ataque Triplo.</RttR_DazeAffected.description>
 
+    <!-- Sauced Meals -->
+        <!-- Simple Meal -->
+            <SM_AteSaucedSimpleMeal.label>consumiu comida simples temperada (da refeição)</SM_AteSaucedSimpleMeal.label>
+            <SM_AteSaucedSimpleMeal.description>Este colono consumiu alimentos simples com condimentos.</SM_AteSaucedSimpleMeal.description>
+
+        <!-- Fine Meal -->
+            <SM_AteSaucedFineMeal.label>consumiu comida boa temperada (da refeição)</SM_AteSaucedFineMeal.label>
+            <SM_AteSaucedFineMeal.description>Este colono consumiu alimentos bons com condimentos.</SM_AteSaucedFineMeal.description>
+
+        <!-- Lavish Meal -->
+            <SM_AteSaucedLavishMeal.label>consumiu comida luxuosa temperada (da refeição)</SM_AteSaucedLavishMeal.label>
+            <SM_AteSaucedLavishMeal.description>Este colono consumiu alimentos luxuosos com condimentos.</SM_AteSaucedLavishMeal.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Taritor -->
             <Traitor.label>traidor</Traitor.label>

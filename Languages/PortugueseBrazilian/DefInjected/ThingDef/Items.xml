@@ -404,6 +404,19 @@
 			<RttR_PatchedDragonScales.label>escamas misturadas</RttR_PatchedDragonScales.label>
 			<RttR_PatchedDragonScales.description>Um tecido de escama fraco criado cortando e costurando vários tipos de escamas de dragão.</RttR_PatchedDragonScales.description>
 
+	<!-- Sauced Meals -->
+		<!-- Sauced Meal Simple -->
+			<SM_SaucedMealSimple.label>refeição simples temperada</SM_SaucedMealSimple.label>
+			<SM_SaucedMealSimple.description>Uma refeição simples temperada, cozida rapidamente a partir de um ingrediente principal e coberta com um condimento.</SM_SaucedMealSimple.description>
+
+		<!-- Sauced Meal Fine -->
+			<SM_SaucedMealFine.label>refeição boa temperada</SM_SaucedMealFine.label>
+			<SM_SaucedMealFine.description>Um complexo prato temperado, montado com cuidado a partir de uma variedade de ingredientes e coberto com um condimento.</SM_SaucedMealFine.description>
+
+		<!-- Sauced Meal Lavish -->
+			<SM_SaucedMealLavish.label>refeição luxuosa temperada</SM_SaucedMealLavish.label>
+			<SM_SaucedMealLavish.description>Uma obra-prima das artes culinárias, esta refeição temperada nutre o corpo, a mente e a alma.</SM_SaucedMealLavish.description>
+
 	<!-- Vanilla Animals Expanded - Arid Shrubland -->
 		<!-- Crocodile Egg -->
 			<AEXP_EggCrocodileUnfertilized.label>ovo de crocodilo (não fert.)</AEXP_EggCrocodileUnfertilized.label>

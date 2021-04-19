@@ -438,6 +438,19 @@
             <Sedentary.stages.1.label>confortavelmente acomodado</Sedentary.stages.1.label>
             <Sedentary.stages.1.description>Um lugar agradável e confortável para descansar um pouco. Bem do jeito que eu gosto.</Sedentary.stages.1.description>
 
+    <!-- Sauced Meals -->
+        <!-- Lavish Meal -->
+            <SM_AteSaucedLavishMeal.stages.0.label>comeu refeição luxuosa temperada</SM_AteSaucedLavishMeal.stages.0.label>
+            <SM_AteSaucedLavishMeal.stages.0.description>Aquela refeição temperada foi incrível. Ela alimentou meu corpo e minha alma.</SM_AteSaucedLavishMeal.stages.0.description>
+
+        <!-- Fine Meal -->
+            <SM_AteSaucedFineMeal.stages.0.label>comeu refeição boa temperada</SM_AteSaucedFineMeal.stages.0.label>
+            <SM_AteSaucedFineMeal.stages.0.description>Eu comi uma refeição realmente saborosa com uma cobertura. Yum!</SM_AteSaucedFineMeal.stages.0.description>
+
+        <!-- Simple Meal -->
+            <SM_AteSaucedSimpleMeal.stages.0.label>comeu refeição simples temperada</SM_AteSaucedSimpleMeal.stages.0.label>
+            <SM_AteSaucedSimpleMeal.stages.0.description>Eu comi uma refeição simples. Não foi surpreendente, mas a cobertura foi boa.</SM_AteSaucedSimpleMeal.stages.0.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Aurora -->
             <Aurora.stages.0.label>aurora linda</Aurora.stages.0.label>
