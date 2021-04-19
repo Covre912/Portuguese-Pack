@@ -6,48 +6,48 @@
             <VSIE_Inspired_Planting.label>inspiração agrícola</VSIE_Inspired_Planting.label>
             <VSIE_Inspired_Planting.beginLetter>[PAWN_pronoun] poderá semear qualquer planta independentemente do seu nível de habilidade com Plantas pelos próximos 8 dias.\n\n[PAWN_pronoun] gostaria de semear pelo menos 50 plantas.</VSIE_Inspired_Planting.beginLetter>
             <VSIE_Inspired_Planting.endMessage>{0} não está mais inspirad{PAWN_gender ? o : a} (inspiração agrícola).</VSIE_Inspired_Planting.endMessage>
-            <VSIE_Inspired_Planting.baseInspectLine>Inspirad{PAWN_gender ? o : a}: Inspiração agrícula</VSIE_Inspired_Planting.baseInspectLine>
+            <VSIE_Inspired_Planting.baseInspectLine>Inspirado(a): Inspiração agrícola</VSIE_Inspired_Planting.baseInspectLine>
 
         <!-- Party Frenzy -->
             <VSIE_Party_Frenzy.label>frenesi de festa</VSIE_Party_Frenzy.label>
             <VSIE_Party_Frenzy.beginLetter>[PAWN_pronoun] ganhará recreação duas vezes mais rápido nos próximos 8 dias.\n\n[PAWN_pronoun] gostaria de participar de uma festa.</VSIE_Party_Frenzy.beginLetter>
-            <VSIE_Party_Frenzy.endMessage>{0} não está mais inspirad{PAWN_gender ? o : a} (frenesi de festa)</VSIE_Party_Frenzy.endMessage>
-            <VSIE_Party_Frenzy.baseInspectLine>Inspirad{PAWN_gender ? o : a}: Frenesi de festa</VSIE_Party_Frenzy.baseInspectLine>
+            <VSIE_Party_Frenzy.endMessage>{0} não está mais inspirad{0_gender ? o : a} (frenesi de festa)</VSIE_Party_Frenzy.endMessage>
+            <VSIE_Party_Frenzy.baseInspectLine>Inspirado: Frenesi de festa</VSIE_Party_Frenzy.baseInspectLine>
 
         <!-- Inspired Research -->
             <VSIE_Inspired_Research.label>inspiração científica</VSIE_Inspired_Research.label>
             <VSIE_Inspired_Research.beginLetter>[PAWN_pronoun] pesquisará 5 vezes mais rápido nos próximos 8 dias ou até que um projeto de pesquisa seja concluído.\n\n[PAWN_pronoun] deseja concluir um projeto de pesquisa.</VSIE_Inspired_Research.beginLetter>
-            <VSIE_Inspired_Research.endMessage>{0} não está mais inspirad{PAWN_gender ? o : a} (inspiração científica)</VSIE_Inspired_Research.endMessage>
-            <VSIE_Inspired_Research.baseInspectLine>Inspirad{PAWN_gender ? o : a}: Inspiração científica</VSIE_Inspired_Research.baseInspectLine>
+            <VSIE_Inspired_Research.endMessage>{0} não está mais inspirad{0_gender ? o : a} (inspiração científica)</VSIE_Inspired_Research.endMessage>
+            <VSIE_Inspired_Research.baseInspectLine>Inspirado: Inspiração científica</VSIE_Inspired_Research.baseInspectLine>
 
         <!-- Inspired Mining -->
             <VSIE_Inspired_Mining.label>inspiração de mineração</VSIE_Inspired_Mining.label>
             <VSIE_Inspired_Mining.beginLetter>[PAWN_pronoun] ganhará o dobro do rendimento de qualquer rocha ou minério extraído nos próximos 8 dias.\n\n[PAWN_pronoun] gostaria de minerar pelo menos 50 rochas.</VSIE_Inspired_Mining.beginLetter>
-            <VSIE_Inspired_Mining.endMessage>{0} não está mais inspirad{PAWN_gender ? o : a} (inspiração de mineração)</VSIE_Inspired_Mining.endMessage>
-            <VSIE_Inspired_Mining.baseInspectLine>Inspirad{PAWN_gender ? o : a}: Inspiração de mineração</VSIE_Inspired_Mining.baseInspectLine>
+            <VSIE_Inspired_Mining.endMessage>{0} não está mais inspirad{0_gender ? o : a} (inspiração de mineração)</VSIE_Inspired_Mining.endMessage>
+            <VSIE_Inspired_Mining.baseInspectLine>Inspirado: Inspiração de mineração</VSIE_Inspired_Mining.baseInspectLine>
 
         <!-- Learning Frenzy -->
             <VSIE_Learning_Frenzy.label>frenesi de aprendizagem</VSIE_Learning_Frenzy.label>
             <VSIE_Learning_Frenzy.beginLetter>[PAWN_pronoun] ganhará o dobro da taxa normal de experiência pelos próximos 8 dias.\n\n[PAWN_pronoun] gostaria de subir qualquer habilidade para o nível 10.</VSIE_Learning_Frenzy.beginLetter>
-            <VSIE_Learning_Frenzy.endMessage>{0} não está mais inspirad{PAWN_gender ? o : a} (frenesi de aprendizagem)</VSIE_Learning_Frenzy.endMessage>
-            <VSIE_Learning_Frenzy.baseInspectLine>Inspirad{PAWN_gender ? o : a}: Frenesi de aprendizagem</VSIE_Learning_Frenzy.baseInspectLine>
+            <VSIE_Learning_Frenzy.endMessage>{0} não está mais inspirad{0_gender ? o : a} (frenesi de aprendizagem)</VSIE_Learning_Frenzy.endMessage>
+            <VSIE_Learning_Frenzy.baseInspectLine>Inspirado: Frenesi de aprendizagem</VSIE_Learning_Frenzy.baseInspectLine>
 
         <!-- Inspired Cooking -->
             <VSIE_Inspired_Cooking.label>inspiração culinária</VSIE_Inspired_Cooking.label>
             <VSIE_Inspired_Cooking.beginLetter>[PAWN_pronoun] cozinhará duas vezes mais rápido nos próximos 8 dias.\n\n[PAWN_pronoun] gostaria de cozinhar pelo menos 50 refeições.</VSIE_Inspired_Cooking.beginLetter>
-            <VSIE_Inspired_Cooking.endMessage>{0} não está mais inspirad{PAWN_gender ? o : a} (inspiração culinária)</VSIE_Inspired_Cooking.endMessage>
-            <VSIE_Inspired_Cooking.baseInspectLine>Inspirad{PAWN_gender ? o : a}: Inspiração culinária</VSIE_Inspired_Cooking.baseInspectLine>
+            <VSIE_Inspired_Cooking.endMessage>{0} não está mais inspirad{0_gender ? o : a} (inspiração culinária)</VSIE_Inspired_Cooking.endMessage>
+            <VSIE_Inspired_Cooking.baseInspectLine>Inspirado: Inspiração culinária</VSIE_Inspired_Cooking.baseInspectLine>
 
         <!-- Flirting Frenzy -->
             <VSIE_Flirting_Frenzy.label>frenesi de flerte</VSIE_Flirting_Frenzy.label>
             <VSIE_Flirting_Frenzy.beginLetter>[PAWN_pronoun] será muito mais agradável para os outros nas interações sociais, bem como muito mais sofisticado nas interações românticas, resultando em menores chances de ser rejeitad{PAWN_gender ? o : a} nos próximos 8 dias.\n\n[PAWN_pronoun] gostaria fazer um pouco de amor.</VSIE_Flirting_Frenzy.beginLetter>
-            <VSIE_Flirting_Frenzy.endMessage>{0} não está mais inspirad{PAWN_gender ? o : a} (frenesi de flerte)</VSIE_Flirting_Frenzy.endMessage>
-            <VSIE_Flirting_Frenzy.baseInspectLine>Inspirad{PAWN_gender ? o : a}: Frenesi de flerte</VSIE_Flirting_Frenzy.baseInspectLine>
+            <VSIE_Flirting_Frenzy.endMessage>{0} não está mais inspirad{0_gender ? o : a} (frenesi de flerte)</VSIE_Flirting_Frenzy.endMessage>
+            <VSIE_Flirting_Frenzy.baseInspectLine>Inspirado: Frenesi de flerte</VSIE_Flirting_Frenzy.baseInspectLine>
 
         <!-- Melee Frenzy -->
             <VSIE_Melee_Frenzy.label>frenesi corpo-a-corpo</VSIE_Melee_Frenzy.label>
             <VSIE_Melee_Frenzy.beginLetter>[PAWN_pronoun] vai acertar todos os ataques corpo a corpo pelos próximos 8 dias.\n\n[PAWN_pronoun] gostaria de derrotar um inimigo em combate corpo a corpo.</VSIE_Melee_Frenzy.beginLetter>
-            <VSIE_Melee_Frenzy.endMessage>{0} não está mais inspirad{PAWN_gender ? o : a} (frenesi corpo-a-corpo)</VSIE_Melee_Frenzy.endMessage>
-            <VSIE_Melee_Frenzy.baseInspectLine>Inspirad{PAWN_gender ? o : a}: Frenesi corpo-a-corpo</VSIE_Melee_Frenzy.baseInspectLine>
+            <VSIE_Melee_Frenzy.endMessage>{0} não está mais inspirad{0_gender ? o : a} (frenesi corpo-a-corpo)</VSIE_Melee_Frenzy.endMessage>
+            <VSIE_Melee_Frenzy.baseInspectLine>Inspirado: Frenesi corpo-a-corpo</VSIE_Melee_Frenzy.baseInspectLine>
 
 </LanguageData>
