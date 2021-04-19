@@ -5,7 +5,7 @@
         <!-- Joy Need Rate Multiplier -->
             <JoyNeedRateMultiplier.label>multiplicador da taxa de necessidade de diversão</JoyNeedRateMultiplier.label>
             <JoyNeedRateMultiplier.description>Um multiplicador da frequência em que uma pessoa precisa de recreação.</JoyNeedRateMultiplier.description>
-
+ 
     <!-- Psychology (unofficial 1.1/1.2) -->
         <!-- Arrest Peacefully Chance -->
             <ArrestPeacefullyChance.label>chance de prisão pacífica</ArrestPeacefullyChance.label>
