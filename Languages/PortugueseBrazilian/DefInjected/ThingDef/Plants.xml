@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] ReGrowth - Boreal Forest Expansion -->
+        <!-- Cultivated Potokus -->
+            <RG-BF_Plant_Potokus.label>cogusune</RG-BF_Plant_Potokus.label>
+            <RG-BF_Plant_Potokus.description>Um pequeno cogumelo marrom delicioso que cresce em cachos. Despende tempo, mas não pode deteriorar.</RG-BF_Plant_Potokus.description>
+
+        <!-- Fern -->
+            <RG-BF_Plant_BorealFern.label>samambaia</RG-BF_Plant_BorealFern.label>
+            <RG-BF_Plant_BorealFern.description>Um arbusto curto com folhas longas e finas. Cresce em florestas quentes.</RG-BF_Plant_BorealFern.description>
+
+        <!-- Pine Scrub -->
+            <RG-T_Plant_ScrubPine.label>arbustos de pinheiro</RG-T_Plant_ScrubPine.label>
+            <RG-T_Plant_ScrubPine.description>Um arbusto de pinheiro baixo encontrado em biomas boreais.</RG-T_Plant_ScrubPine.description>
+
+        <!-- Rim Reed -->
+            <RG-BF_Plant_RimReed.label>junco orlar</RG-BF_Plant_RimReed.label>
+            <RG-BF_Plant_RimReed.description>Uma versão geneticamente modificada do junco comum.</RG-BF_Plant_RimReed.description>
+
+        <!-- Pine Tree -->
+            <RG-BF_Plant_OrangeTreePine.label>pinheiro</RG-BF_Plant_OrangeTreePine.label>
+            <RG-BF_Plant_OrangeTreePine.description>Uma grande conífera laranja. Cresce em uma forma cônica única.</RG-BF_Plant_OrangeTreePine.description>
+            <RG-BF_Plant_BlueTreePine.label>pinheiro</RG-BF_Plant_BlueTreePine.label>
+            <RG-BF_Plant_BlueTreePine.description>Uma conífera azulada pequena. Cresce apenas em regiões frias ou em altitudes elevadas.</RG-BF_Plant_BlueTreePine.description>
+            <RG-BF_Plant_LargeTreePine.label>pinheiro</RG-BF_Plant_LargeTreePine.label>
+            <RG-BF_Plant_LargeTreePine.description>Uma grande conífera verde brilhante com uma casca fina.</RG-BF_Plant_LargeTreePine.description>
+
+        <!-- Potockus -->
+            <RG-BF_Potokus.label>cogusune selvagem</RG-BF_Potokus.label>
+            <RG-BF_Potokus.description>Um pequeno cogumelo marrom delicioso que cresce em cachos. Despende tempo, mas não pode deteriorar.</RG-BF_Potokus.description>
+
     <!-- Argón's Tribal Medicine -->
         <!-- Wild White Broots -->
             <TM_Broots.label>dália selvagem</TM_Broots.label>
