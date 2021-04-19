@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] ReGrowth - Core -->
+        <!-- Ancient Grave -->
+            <RG_AncientGraveFull.label>túmulo antigo</RG_AncientGraveFull.label>
+            <RG_AncientGraveFull.description>Um antigo local de descanso final de uma pessoa morta há muito tempo.</RG_AncientGraveFull.description>
+
     <!-- [HLX] Ultratech: Altered Carbon -->
         <!-- Sleeve Incubator -->
             <AC_SleeveIncubator.label>incubadora de corpos</AC_SleeveIncubator.label>

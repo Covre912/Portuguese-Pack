@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+	<!-- [HLX] ReGrowth - Core -->
+		<!-- Raw Cactus -->
+			<RG_RawCactus.label>cactos</RG_RawCactus.label>
+			<RG_RawCactus.description>Cactos crus.</RG_RawCactus.description>
+
+		<!-- Devils Hole Pupfish -->
+			<RG_RawDevilsHole.label>buraco do diabo</RG_RawDevilsHole.label>
+			<G_RawDevilsHole.description>Buracos do diabo crus. Um pequeno peixe roxo pertencente à família Cyprinodontidae. Só pode ser encontrado em águas termais e é extremamente raro.</G_RawDevilsHole.description>
+			<RG_RawDevilsHole.tools.0.label>buraco do diabo</RG_RawDevilsHole.tools.0.label>
+
 	<!-- [HLX] Ultratech: Altered Carbon -->
 		<!-- Empry Cortical Stack  -->
 			<AC_EmptyCorticalStack.label>cartucho cortical vazio</AC_EmptyCorticalStack.label>

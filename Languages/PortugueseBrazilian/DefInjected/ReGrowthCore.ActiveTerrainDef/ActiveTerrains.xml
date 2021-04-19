@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- [HLX] ReGrowth - Core -->
+        <!-- Lava -->
+            <RG_Lava.label>lava</RG_Lava.label>
+
+        <!-- Hot Spring -->
+            <RG_HotSpring.label>água quente</RG_HotSpring.label>
+
+        <!-- Deep Hot Spring -->
+            <RG_HotSpringDeep.label>água quente profunda</RG_HotSpringDeep.label>
+
+        <!-- Toxic Waste -->
+            <RG_ToxicWaste.label>lixo tóxico</RG_ToxicWaste.label>
+
+</LanguageData>

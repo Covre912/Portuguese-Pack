@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] ReGrowth - Core -->
+        <!-- Wet -->
+            <RG_Wet.stages.0.label>molhado(a)</RG_Wet.stages.0.label>
+            <RG_Wet.stages.0.description>Estou molhado(a).</RG_Wet.stages.0.description>
+
+        <!-- Extremely Wet -->
+            <RG_ExtremelyWet.stages.0.label>extremamente molhado(a)</RG_ExtremelyWet.stages.0.label>
+            <RG_ExtremelyWet.stages.0.description>Estou extremamente molhado(a).</RG_ExtremelyWet.stages.0.description>
+
+        <!-- Sandy -->
+            <RG_Sandy.stages.0.label>arenoso(a)</RG_Sandy.stages.0.label>
+            <RG_Sandy.stages.0.description>Tem areia em... em todos os lugares! Até nos meus olhos!</RG_Sandy.stages.0.description>
+
+        <!-- Warm Water -->
+            <RG_HotSpringWet.stages.0.label>água morna</RG_HotSpringWet.stages.0.label>
+            <RG_HotSpringWet.stages.0.description>A água daquela fonte termal era incrível!</RG_HotSpringWet.stages.0.description>
+
     <!-- [HLX] Ultratech: Altered Carbon -->
         <!-- Death -->
             <AC_MyOriginalDied.stages.0.label>minha cópia original {0} morreu</AC_MyOriginalDied.stages.0.label>
@@ -544,67 +561,67 @@
 
     <!-- Vanilla Traits Expanded -->
         <!-- Perfectionist -->
-            <VTE_CreatedLowQualityItem.stages.0.label>Criou item de baixa qualidade</VTE_CreatedLowQualityItem.stages.0.label>
+            <VTE_CreatedLowQualityItem.stages.0.label>criou item de baixa qualidade</VTE_CreatedLowQualityItem.stages.0.label>
             <VTE_CreatedLowQualityItem.stages.0.description>Eu criei lixo. Eu sinto que não consigo fazer nada certo.</VTE_CreatedLowQualityItem.stages.0.description>
             <VTE_CouldNotFinishItem.stages.0.label>Não pôde terminar o item</VTE_CouldNotFinishItem.stages.0.label>
             <VTE_CouldNotFinishItem.stages.0.description>Não consegui terminar meu projeto, simplesmente não estava indo bem.</VTE_CouldNotFinishItem.stages.0.description>
 
         <!-- Neat -->
-            <VTE_PassionateCleaningWork.stages.0.label>Limpando</VTE_PassionateCleaningWork.stages.0.label>
+            <VTE_PassionateCleaningWork.stages.0.label>limpando</VTE_PassionateCleaningWork.stages.0.label>
             <VTE_PassionateCleaningWork.stages.0.description>Na verdade, eu realmente gosto de organizar e limpar o lugar.</VTE_PassionateCleaningWork.stages.0.description>
 
         <!-- Vengeful -->
-            <VTE_MyRivalsAreAlive.stages.0.label>Meus rivais estão vivos</VTE_MyRivalsAreAlive.stages.0.label>
+            <VTE_MyRivalsAreAlive.stages.0.label>meus rivais estão vivos</VTE_MyRivalsAreAlive.stages.0.label>
             <VTE_MyRivalsAreAlive.stages.0.description>Eu os odeio. Por que merecem viver?</VTE_MyRivalsAreAlive.stages.0.description>
 
         <!-- Technophobe -->
-            <VTE_MechanoidIsKilled.stages.0.label>Mecanóide morreu</VTE_MechanoidIsKilled.stages.0.label>
+            <VTE_MechanoidIsKilled.stages.0.label>mecanoide morreu</VTE_MechanoidIsKilled.stages.0.label>
             <VTE_MechanoidIsKilled.stages.0.description>Essas máquinas do mal não merecem funcionar.</VTE_MechanoidIsKilled.stages.0.description>
 
        <!-- Squeamish -->
-            <VTE_ObservedManyBlood.stages.0.label>Observou muito sangue</VTE_ObservedManyBlood.stages.0.label>
+            <VTE_ObservedManyBlood.stages.0.label>observou muito sangue</VTE_ObservedManyBlood.stages.0.label>
             <VTE_ObservedManyBlood.stages.0.description>Eu vi muito sangue. Só de lembrar me dá ânsia de vômito.</VTE_ObservedManyBlood.stages.0.description>
 
         <!-- Couch Potato -->
-            <VTE_WatchedTelevisor.stages.0.label>Assistiu televisão recentemente</VTE_WatchedTelevisor.stages.0.label>
+            <VTE_WatchedTelevisor.stages.0.label>assistiu televisão recentemente</VTE_WatchedTelevisor.stages.0.label>
             <VTE_WatchedTelevisor.stages.0.description>Eu tenho que descansar e acompanhar meus programas.</VTE_WatchedTelevisor.stages.0.description>
 
       <!-- Prodigy -->
-            <VTE_NoDedicatedLaboratory.stages.0.label>Sem laboratório dedicado</VTE_NoDedicatedLaboratory.stages.0.label>
+            <VTE_NoDedicatedLaboratory.stages.0.label>sem laboratório dedicado</VTE_NoDedicatedLaboratory.stages.0.label>
             <VTE_NoDedicatedLaboratory.stages.0.description>Não tenho onde estudar em paz, que chato.</VTE_NoDedicatedLaboratory.stages.0.description>
 
         <!-- Menagerist -->
-            <VTE_AnimalsInColony.stages.0.label>Nenhum animal na colônia</VTE_AnimalsInColony.stages.0.label>
+            <VTE_AnimalsInColony.stages.0.label>nenhum animal na colônia</VTE_AnimalsInColony.stages.0.label>
             <VTE_AnimalsInColony.stages.0.description>Não temos um único animal.</VTE_AnimalsInColony.stages.0.description>
-            <VTE_AnimalsInColony.stages.1.label>Quase nenhum animal na colônia</VTE_AnimalsInColony.stages.1.label>
+            <VTE_AnimalsInColony.stages.1.label>quase nenhum animal na colônia</VTE_AnimalsInColony.stages.1.label>
             <VTE_AnimalsInColony.stages.1.description>Quase não temos animais na colônia, isso é uma merda.</VTE_AnimalsInColony.stages.1.description>
-            <VTE_AnimalsInColony.stages.2.label>Quase nenhum animal na colônia</VTE_AnimalsInColony.stages.2.label>
+            <VTE_AnimalsInColony.stages.2.label>quase nenhum animal na colônia</VTE_AnimalsInColony.stages.2.label>
             <VTE_AnimalsInColony.stages.2.description>Quase não temos animais na colônia, é alguma coisa eu acho.</VTE_AnimalsInColony.stages.2.description>
-            <VTE_AnimalsInColony.stages.3.label>Quase nenhum animal na colônia</VTE_AnimalsInColony.stages.3.label>
+            <VTE_AnimalsInColony.stages.3.label>quase nenhum animal na colônia</VTE_AnimalsInColony.stages.3.label>
             <VTE_AnimalsInColony.stages.3.description>Quase não temos animais na colônia, é alguma coisa eu acho.</VTE_AnimalsInColony.stages.3.description>
-            <VTE_AnimalsInColony.stages.4.label>Alguns animais na colônia</VTE_AnimalsInColony.stages.4.label>
+            <VTE_AnimalsInColony.stages.4.label>alguns animais na colônia</VTE_AnimalsInColony.stages.4.label>
             <VTE_AnimalsInColony.stages.4.description>Temos alguns animais na colônia, isso é bom.</VTE_AnimalsInColony.stages.4.description>
-            <VTE_AnimalsInColony.stages.5.label>Alguns animais na colônia</VTE_AnimalsInColony.stages.5.label>
+            <VTE_AnimalsInColony.stages.5.label>alguns animais na colônia</VTE_AnimalsInColony.stages.5.label>
             <VTE_AnimalsInColony.stages.5.description>Temos alguns animais na colônia, isso é bom.</VTE_AnimalsInColony.stages.5.description>
-            <VTE_AnimalsInColony.stages.6.label>Alguns animais da colônia</VTE_AnimalsInColony.stages.6.label>
+            <VTE_AnimalsInColony.stages.6.label>alguns animais da colônia</VTE_AnimalsInColony.stages.6.label>
             <VTE_AnimalsInColony.stages.6.description>Temos uma quantidade razoável de animais agora, estamos chegando lá.</VTE_AnimalsInColony.stages.6.description>
-            <VTE_AnimalsInColony.stages.7.label>Alguns animais da colônia</VTE_AnimalsInColony.stages.7.label>
+            <VTE_AnimalsInColony.stages.7.label>alguns animais da colônia</VTE_AnimalsInColony.stages.7.label>
             <VTE_AnimalsInColony.stages.7.description>Temos uma quantidade razoável de animais agora, estamos chegando lá.</VTE_AnimalsInColony.stages.7.description>
-            <VTE_AnimalsInColony.stages.8.label>Alguns animais da colônia</VTE_AnimalsInColony.stages.8.label>
+            <VTE_AnimalsInColony.stages.8.label>alguns animais da colônia</VTE_AnimalsInColony.stages.8.label>
             <VTE_AnimalsInColony.stages.8.description>Temos uma quantidade razoável de animais agora, estamos chegando lá.</VTE_AnimalsInColony.stages.8.description>
-            <VTE_AnimalsInColony.stages.9.label>Alguns animais da colônia</VTE_AnimalsInColony.stages.9.label>
+            <VTE_AnimalsInColony.stages.9.label>alguns animais da colônia</VTE_AnimalsInColony.stages.9.label>
             <VTE_AnimalsInColony.stages.9.description>Temos uma quantidade razoável de animais agora, estamos chegando lá.</VTE_AnimalsInColony.stages.9.description>
-            <VTE_AnimalsInColony.stages.10.label>Muitos animais na colônia</VTE_AnimalsInColony.stages.10.label>
+            <VTE_AnimalsInColony.stages.10.label>muitos animais na colônia</VTE_AnimalsInColony.stages.10.label>
             <VTE_AnimalsInColony.stages.10.description>Temos muitos animais na colônia agora, eles são maravilhosos.</VTE_AnimalsInColony.stages.10.description>
-            <VTE_AnimalsInColony.stages.11.label>Muitos animais na colônia</VTE_AnimalsInColony.stages.11.label>
+            <VTE_AnimalsInColony.stages.11.label>muitos animais na colônia</VTE_AnimalsInColony.stages.11.label>
             <VTE_AnimalsInColony.stages.11.description>Temos muitos animais na colônia agora, eles são maravilhosos.</VTE_AnimalsInColony.stages.11.description>
-            <VTE_AnimalsInColony.stages.12.label>Muitos animais na colônia</VTE_AnimalsInColony.stages.12.label>
+            <VTE_AnimalsInColony.stages.12.label>muitos animais na colônia</VTE_AnimalsInColony.stages.12.label>
             <VTE_AnimalsInColony.stages.12.description>Temos muitos animais na colônia agora, eles são maravilhosos.</VTE_AnimalsInColony.stages.12.description>
-            <VTE_AnimalsInColony.stages.13.label>Uma tonelada de animais na colônia</VTE_AnimalsInColony.stages.13.label>
+            <VTE_AnimalsInColony.stages.13.label>uma tonelada de animais na colônia</VTE_AnimalsInColony.stages.13.label>
             <VTE_AnimalsInColony.stages.13.description>Temos tantos animais agora! Fico muito feliz em ver todos eles!</VTE_AnimalsInColony.stages.13.description>
-            <VTE_AnimalsInColony.stages.14.label>Uma tonelada de animais na colônia</VTE_AnimalsInColony.stages.14.label>
+            <VTE_AnimalsInColony.stages.14.label>uma tonelada de animais na colônia</VTE_AnimalsInColony.stages.14.label>
             <VTE_AnimalsInColony.stages.14.description>Temos tantos animais agora! Fico muito feliz em ver todos eles!</VTE_AnimalsInColony.stages.14.description>
-            <VTE_AnimalsInColony.stages.15.label>Uma tonelada de animais na colônia</VTE_AnimalsInColony.stages.15.label>
+            <VTE_AnimalsInColony.stages.15.label>uma tonelada de animais na colônia</VTE_AnimalsInColony.stages.15.label>
             <VTE_AnimalsInColony.stages.15.description>Temos tantos animais agora! Fico muito feliz em ver todos eles!</VTE_AnimalsInColony.stages.15.description>
 
         <!-- Ocean Lover -->
@@ -622,7 +639,7 @@
         <!-- Mad Surgeon -->
             <VTE_HaventHarvestedOrgansForLongTime.stages.0.label>não colheu órgãos</VTE_HaventHarvestedOrgansForLongTime.stages.0.label>
             <VTE_HaventHarvestedOrgansForLongTime.stages.0.description>Estou ficando impaciente e entediado, preciso de mais assuntos.</VTE_HaventHarvestedOrgansForLongTime.stages.0.description>
-            <VTE_HarvestedOrgans.stages.0.label>Colheu órgãos</VTE_HarvestedOrgans.stages.0.label>
+            <VTE_HarvestedOrgans.stages.0.label>colheu órgãos</VTE_HarvestedOrgans.stages.0.label>
             <VTE_HarvestedOrgans.stages.0.description>A operação correu como o esperado, minha coleção cresceu!</VTE_HarvestedOrgans.stages.0.description>
 
         <!-- Wanderlust -->

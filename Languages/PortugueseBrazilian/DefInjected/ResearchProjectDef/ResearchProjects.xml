@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] ReGrowth - Core -->
+        <!-- Mushroom Cultivation -->
+            <RG_MushroomCultivation.label>cultivo de cogumelos</RG_MushroomCultivation.label>
+            <RG_MushroomCultivation.description>Cultive e crie cogumelos selvagens.</RG_MushroomCultivation.description>
+
     <!-- [HLX] Ultratech: Altared Carbon -->
         <!-- Human Sleeves -->
             <AC_SleeveProduction.label>corpos humanos</AC_SleeveProduction.label>

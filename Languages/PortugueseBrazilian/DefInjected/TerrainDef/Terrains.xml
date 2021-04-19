@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] ReGrowth - Core -->
+        <!-- Vulcanic Rock -->
+            <RG_LavaRock.label>rocha vulcânica</RG_LavaRock.label>
+            <RG_LavaRock.tools.0.label>lava</RG_LavaRock.tools.0.label>
+
+        <!-- Sand -->
+            <RG_HotSpringSand.label>areia</RG_HotSpringSand.label>
+            <RG_HotSpringSand.tools.0.label>areia</RG_HotSpringSand.tools.0.label>
+
+        <!-- Moss-Covered Soil -->
+            <RG_TundraSoil.label>solo musgoso</RG_TundraSoil.label>
+            <RG_TundraSoil.tools.0.label>lama</RG_TundraSoil.tools.0.label>
+
+        <!-- Depleted Soil -->
+            <RG_DepletedSoil.label>solo empobrecido</RG_DepletedSoil.label>
+            <RG_DepletedSoil.tools.0.label>terra</RG_DepletedSoil.tools.0.label>
+
+        <!-- Rubble -->
+            <RG_RubbleSoil.label>predegulho</RG_RubbleSoil.label>
+            <RG_RubbleSoil.tools.0.label>predegulho</RG_RubbleSoil.tools.0.label>
+
+        <!-- Lichen-Covered Depleted Soil -->
+            <RG_DepletedMossy.label>solo empobrecido coberto de líquen</RG_DepletedMossy.label>
+
+        <!-- Depleted Gravel -->
+            <RG_DepletedGravel.label>cascalho empobrecido</RG_DepletedGravel.label>
+            <RG_DepletedGravel.tools.0.label>cascalho</RG_DepletedGravel.tools.0.label>
+
     <!-- [T] MoreFloors -->
 		<!-- Orange Carpet -->
 			<CarpetOrange.label>carpete laranja</CarpetOrange.label>

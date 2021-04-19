@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+    <!-- [HLX] ReGrowth - Core -->
+        <!-- Settings -->
+            <RG.SpawnLeaves>Gerar folhas</RG.SpawnLeaves>
+            <RG.ColdFog>Nevoeiro frio</RG.ColdFog>
+            <RG.IceLayer>Camada de gelo</RG.IceLayer>
+            <RG.RainWaterPuddles>Poças de água da chuva</RG.RainWaterPuddles>
+            <RG.RainCleanWaterPuddles>Limpar poças de água</RG.RainCleanWaterPuddles>
+            <RG.FogVelocity>Velocidade em nevoeiro</RG.FogVelocity>
+            <RG.FogTemp>Temperatura do nevoeiro</RG.FogTemp>
+            <RG.PuddleChance>Chance de geração de poças</RG.PuddleChance>
+            <RG.SpawnFogOnHotSprings>Gerar nevoeiros em fontes termais</RG.SpawnFogOnHotSprings>
+            <RG.DisableHailDamage>Desabilitar dano de granizo</RG.DisableHailDamage>
+
+        <!-- Dust Devil -->
+            <RG.SandDevilLeftTheMap>Os redemoinhos de poeira deixaram o mapa.</RG.SandDevilLeftTheMap>
+            <RG.SandDevilDissipated>O redemoinho de poeira se dissipou.</RG.SandDevilDissipated>
+            <RG.SandDevilDissipated>O redemoinho de poeira se dissipou.</RG.SandDevilDissipated>
+
     <!-- [HLX] Ultratech: Altered Carbon -->
         <!-- Incubator -->
             <AlteredCarbon.Name>Nome</AlteredCarbon.Name>

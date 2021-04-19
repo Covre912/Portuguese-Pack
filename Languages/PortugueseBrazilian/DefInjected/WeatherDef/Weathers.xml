@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- [HLX] ReGrowth - Core -->
+        <!-- Overcast -->
+            <RG_Overcast.label>nublado</RG_Overcast.label>
+            <RG_Overcast.description>Nuvens cobrem o céu, mas não está chovendo.</RG_Overcast.description>
+
+        <!-- Windy -->
+            <RG_Windy.label>ventando</RG_Windy.label>
+            <RG_Windy.description>Os ventos ajudam as turbinas, mas reduzem a precisão das armas de longo alcance.</RG_Windy.description>
+
+        <!-- Hail -->
+            <RG_Hail.label>granizo</RG_Hail.label>
+            <RG_Hail.description>Gotas de chuva congeladas caem de nuvens cumulonimbus. Qualquer pessoa ou criatura que não esteja sob algum telhado corre o risco de ser ferido.</RG_Hail.description>
+            <RG_Hail.modExtensions.0.letterTitle>Granizo</RG_Hail.modExtensions.0.letterTitle>
+            <RG_Hail.modExtensions.0.letterText>Gotas de chuva congeladas caem de nuvens cumulonimbus. Qualquer pessoa ou criatura que não esteja sob algum telhado corre o risco de ser ferido.</RG_Hail.modExtensions.0.letterText>
+
+        <!-- Drizzle -->
+            <RG_Drizzle.label>garoa</RG_Drizzle.label>
+            <RG_Drizzle.description>Chuva muito fraca. Mal afeta armas de longo alcance ou pessoas.</RG_Drizzle.description>
+
+        <!-- Monsoon -->
+            <RG_Monsoon.label>monção</RG_Monsoon.label>
+            <RG_Monsoon.description>Chuva extremamente forte. Apaga o fogo e torna o movimento, bem como o uso de armas de longo alcance, quase impossível.</RG_Monsoon.description>
+            <RG_Monsoon.modExtensions.0.letterTitle>Monção</RG_Monsoon.modExtensions.0.letterTitle>
+            <RG_Monsoon.modExtensions.0.letterText>Chuva extremamente forte. Apaga o fogo e torna o movimento, bem como o uso de armas de longo alcance, quase impossível.</RG_Monsoon.modExtensions.0.letterText>
+
+        <!-- Foggy Snow -->
+            <RG_FoggySnow.label>neve nebulosa</RG_FoggySnow.label>
+            <RG_FoggySnow.description>A neve e o nevoeiro reduzem a precisão das armas de longo alcance, extinguem o fogo e retarda as pessoas.</RG_FoggySnow.description>
+
+        <!-- Blizzard -->
+            <RG_Blizzard.label>nevasca</RG_Blizzard.label>
+            <RG_Blizzard.description>Queda de neve e ventos extremamente fortes reduzem a precisão de armas de longo alcance e retarda as pessoas.</RG_Blizzard.description>
+            <RG_Blizzard.modExtensions.0.letterTitle>Nevasca</RG_Blizzard.modExtensions.0.letterTitle>
+            <RG_Blizzard.modExtensions.0.letterText>Queda de neve e ventos extremamente fortes reduzem a precisão de armas de longo alcance e retarda as pessoas.</RG_Blizzard.modExtensions.0.letterText>
+
+        <!-- Foggy Sandstorm -->
+            <RG_FoggySandstorm.label>tempestade de areia nebulosa</RG_FoggySandstorm.label>
+            <RG_FoggySandstorm.description>A areia é espalhada pelo vento e a névoa reduz a precisão das armas de longo alcance.</RG_FoggySandstorm.description>
+
+        <!-- Sandstorm -->
+            <RG_SandStorm.label>tempestade de areia</RG_SandStorm.label>
+            <RG_SandStorm.description>A areia é espalhada pelo vento. Reduz a precisão da arma de longo alcance e retarda as pessoas.</RG_SandStorm.description>
+
+        <!-- Hard Sandstorm -->
+            <RG_SandStormHard.label>tempestade de areia forte</RG_SandStormHard.label>
+            <RG_SandStormHard.description>Fortes tempestades reduzem a precisão das armas de longo alcance e diminuem a velocidade das pessoas.</RG_SandStormHard.description>
+
+</LanguageData>

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+	<!-- [HLX] ReGrowth - Core -->
+		<!-- Leaves -->
+			<RG_Filth_LeavesTreeOak.label>folhas</RG_Filth_LeavesTreeOak.label>
+			<RG_Filth_LeavesTreePopolar.label>folhas</RG_Filth_LeavesTreePopolar.label>
+			<RG_Filth_LeavesTreeBirch.label>folhas</RG_Filth_LeavesTreeBirch.label>
+
 	<!-- Race to the Rim -->
 		<!-- Helixien Gas -->
 			<RttR_Filth_LiquefiedHelixienGas.label>gás helixien liquefeito</RttR_Filth_LiquefiedHelixienGas.label>
