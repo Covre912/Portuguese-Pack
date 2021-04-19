@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- ResearchPal - Forked -->
+        <!-- Research -->
+            <Research.label>pesquisa</Research.label>
+            <Research.description>Examine e decida sobre os projetos de pesquisa.</Research.description>
+
     <!-- Vanilla Achievements Expanded -->
         <!-- Achievements -->
             <Achievements.label>conquistas</Achievements.label>
