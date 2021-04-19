@@ -30,6 +30,35 @@
             <RG-BF_Potokus.label>cogusune selvagem</RG-BF_Potokus.label>
             <RG-BF_Potokus.description>Um pequeno cogumelo marrom delicioso que cresce em cachos. Despende tempo, mas não pode deteriorar.</RG-BF_Potokus.description>
 
+    <!-- [HLX] ReGrowth - Cold Bog Expansion -->
+        <!-- Cultivated Volopus -->
+            <RG-B_Plant_Volopus.label>cogubvs</RG-B_Plant_Volopus.label>
+            <RG-B_Plant_Volopus.description>Um pequeno cogumelo marrom delicioso que cresce em cachos.</RG-B_Plant_Volopus.description>
+
+        <!-- Dervish -->
+            <RG-CB_Dervish.label>dervixe</RG-CB_Dervish.label>
+            <RG-CB_Dervish.description>Uma bela flor azulada que cresce em biomas mais frios e úmidos. Cresce exclusivamente em pântanos frios.</RG-CB_Dervish.description>
+
+        <!-- Spruce Pine Tree -->
+            <RG-CB_Plant_SpruceTreePine.label>pinheiro</RG-CB_Plant_SpruceTreePine.label>
+            <RG-CB_Plant_SpruceTreePine.description>Uma conífera alta com manchas brancas e galhos mortos.</RG-CB_Plant_SpruceTreePine.description>
+
+        <!-- Karim Tree -->
+            <RG-CB_Plant_KarimTree.label>junio</RG-CB_Plant_KarimTree.label>
+            <RG-CB_Plant_KarimTree.description>Uma árvore alta que cresce em pântanos frios.</RG-CB_Plant_KarimTree.description>
+
+        <!-- Volopus -->
+            <RG-CB_Volopus.label>cogubvs selvagem</RG-CB_Volopus.label>
+            <RG-CB_Volopus.description>Um pequeno cogumelo marrom delicioso que cresce em cachos. Cresce exclusivamente em pântanos frios.</RG-CB_Volopus.description>
+
+        <!-- Swamp Pod -->
+            <RG-CB_SwampPod.label>cogutei</RG-CB_SwampPod.label>
+            <RG-CB_SwampPod.description>Um pequeno cogumelo parecido com um olho. Cresce exclusivamente em pântanos frios.</RG-CB_SwampPod.description>
+
+        <!-- Reed Grass -->
+            <RG-CB_Plant_ReedGrass.label>grama de junco</RG-CB_Plant_ReedGrass.label>
+            <RG-CB_Plant_ReedGrass.description>Grama de junco selvagem. Retarda qualquer um que se mova sobre ela.</RG-CB_Plant_ReedGrass.description>
+
     <!-- Argón's Tribal Medicine -->
         <!-- Wild White Broots -->
             <TM_Broots.label>dália selvagem</TM_Broots.label>
