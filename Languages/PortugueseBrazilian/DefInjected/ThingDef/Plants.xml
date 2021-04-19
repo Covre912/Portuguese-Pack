@@ -32,7 +32,7 @@
 
     <!-- [HLX] ReGrowth - Cold Bog Expansion -->
         <!-- Cultivated Volopus -->
-            <RG-B_Plant_Volopus.label>cogubvs</RG-B_Plant_Volopus.label>
+            <RG-B_Plant_Volopus.label>vermimelo</RG-B_Plant_Volopus.label>
             <RG-B_Plant_Volopus.description>Um pequeno cogumelo marrom delicioso que cresce em cachos.</RG-B_Plant_Volopus.description>
 
         <!-- Dervish -->
@@ -48,16 +48,51 @@
             <RG-CB_Plant_KarimTree.description>Uma árvore alta que cresce em pântanos frios.</RG-CB_Plant_KarimTree.description>
 
         <!-- Volopus -->
-            <RG-CB_Volopus.label>cogubvs selvagem</RG-CB_Volopus.label>
+            <RG-CB_Volopus.label>vermimelo selvagem</RG-CB_Volopus.label>
             <RG-CB_Volopus.description>Um pequeno cogumelo marrom delicioso que cresce em cachos. Cresce exclusivamente em pântanos frios.</RG-CB_Volopus.description>
 
         <!-- Swamp Pod -->
-            <RG-CB_SwampPod.label>cogutei</RG-CB_SwampPod.label>
+            <RG-CB_SwampPod.label>fungutei</RG-CB_SwampPod.label>
             <RG-CB_SwampPod.description>Um pequeno cogumelo parecido com um olho. Cresce exclusivamente em pântanos frios.</RG-CB_SwampPod.description>
 
         <!-- Reed Grass -->
             <RG-CB_Plant_ReedGrass.label>grama de junco</RG-CB_Plant_ReedGrass.label>
             <RG-CB_Plant_ReedGrass.description>Grama de junco selvagem. Retarda qualquer um que se mova sobre ela.</RG-CB_Plant_ReedGrass.description>
+
+    <!-- [HLX] ReGrowth - Temperate Forest Expansion -->
+        <!-- Cibarius -->
+            <RG-TF_Plant_Cibarius.label>canário</RG-TF_Plant_Cibarius.label>
+            <RG-TF_Plant_Cibarius.description>Um pequeno cogumelo amarelo muito saboroso que cresce em pequenos cachos.</RG-TF_Plant_Cibarius.description>
+
+        <!-- Cornish Tree -->
+            <RG-TF_Plant_TreeCornish.label>córnica</RG-TF_Plant_TreeCornish.label>
+            <RG-TF_Plant_TreeCornish.description>Uma grande conífera mediterrânea coberta com pequenas pinhas. Cresce exclusivamente em biomas temperados.</RG-TF_Plant_TreeCornish.description>
+
+        <!-- Dandelions -->
+            <RG-TF_Plant_MountainDandelion.label>dentes-de-leão</RG-TF_Plant_MountainDandelion.label>
+            <RG-TF_Plant_MountainDandelion.description>Uma pequena flor laranja que cresce em grandes cachos. Embora muitas vezes seja considerada uma erva daninha, os dentes-de-leão são muito bonitos.</RG-TF_Plant_MountainDandelion.description>
+            <RG-TF_Plant_NordicDandelion.label>dentes-de-leão</RG-TF_Plant_NordicDandelion.label>
+            <RG-TF_Plant_NordicDandelion.description>Uma pequena flor azul que cresce em grandes cachos. Embora muitas vezes seja considerada uma erva daninha, os dentes-de-leão são muito bonitos.</RG-TF_Plant_NordicDandelion.description>
+    
+        <!-- Cathedralis -->
+            <RG-TF_Plant_Cathedralis.label>catedral</RG-TF_Plant_Cathedralis.label>
+            <RG-TF_Plant_Cathedralis.description>Uma grande e bela flor silvestre que cresce em climas quentes.</RG-TF_Plant_Cathedralis.description>
+
+        <!-- Fern -->
+            <RG-TF_Plant_TemperateFern.label>samambaia</RG-TF_Plant_TemperateFern.label>
+            <RG-TF_Plant_TemperateFern.description>Um arbusto curto com folhas longas e finas. Cresce em florestas quentes.</RG-TF_Plant_TemperateFern.description>
+
+        <!-- Ivy -->
+            <RG-TF_Plant_TemperateMoss.label>hera</RG-TF_Plant_TemperateMoss.label>
+            <RG-TF_Plant_TemperateMoss.description>Hera selvagem com folhas que crescem em manchas de folhas em áreas de temperaturas quentes. Leva muito tempo para crescer, mas é muito resistente às geadas.</RG-TF_Plant_TemperateMoss.description>
+
+        <!-- Cibarius -->
+            <RG-TF_Cibarius.label>canário selvagem</RG-TF_Cibarius.label>
+            <RG-TF_Cibarius.description>Um pequeno cogumelo amarelo muito saboroso que cresce em pequenos cachos. Cresce exclusivamente em biomas temperados.</RG-TF_Cibarius.description>
+
+        <!-- Alastairus -->
+            <RG-TF_Alastairus.label>agárino</RG-TF_Alastairus.label>
+            <RG-TF_Alastairus.description>Um estranho cogumelo azul que brilha no escuro. Seu tamanho e saliências brilhantes tornam esse fungo bonito.</RG-TF_Alastairus.description>
 
     <!-- Argón's Tribal Medicine -->
         <!-- Wild White Broots -->

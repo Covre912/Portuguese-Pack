@@ -8,8 +8,13 @@
 
 		<!-- Devils Hole Pupfish -->
 			<RG_RawDevilsHole.label>buraco do diabo</RG_RawDevilsHole.label>
-			<G_RawDevilsHole.description>Buracos do diabo crus. Um pequeno peixe roxo pertencente à família Cyprinodontidae. Só pode ser encontrado em águas termais e é extremamente raro.</G_RawDevilsHole.description>
+			<RG_RawDevilsHole.description>Buracos do diabo crus. Um pequeno peixe roxo pertencente à família Cyprinodontidae. Só pode ser encontrado em águas termais e é extremamente raro.</RG_RawDevilsHole.description>
 			<RG_RawDevilsHole.tools.0.label>buraco do diabo</RG_RawDevilsHole.tools.0.label>
+
+	<!-- [HLX] ReGrowth - Temperate Forest Expansion -->
+		<!-- Alastair -->
+			<RG-TF_Alastair.label>agárino</RG-TF_Alastair.label>
+			<RG-TF_Alastair.description>Um pedaço delicioso de um cogumelo do agárino. Não tem um aspecto muito apelativo, ou é muito nutritivo, mas tem um sabor muito doce e preenche a necessidade de recreação.</RG-TF_Alastair.description>
 
 	<!-- [HLX] Ultratech: Altered Carbon -->
 		<!-- Empry Cortical Stack  -->

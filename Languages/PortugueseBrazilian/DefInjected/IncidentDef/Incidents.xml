@@ -7,6 +7,12 @@
             <RG_DevilDusts.letterLabel>Redemoinhos de Poeira</RG_DevilDusts.letterLabel>
             <RG_DevilDusts.letterText>Um grupo de redemoinhos fortes, bem formados e de vida relativamente curta se formou ao redor do mapa. Eles vão danificar qualquer animal e pessoa que entrar nele.</RG_DevilDusts.letterText>
 
+    <!-- [HLX] ReGrowth - Temperate Forest Expansion -->
+        <!-- Alastairus Sprout -->
+            <RG-TF_AlastairusSprout.label>broto de agárino</RG-TF_AlastairusSprout.label>
+            <RG-TF_AlastairusSprout.letterLabel>Broto de agárino</RG-TF_AlastairusSprout.letterLabel>
+            <RG-TF_AlastairusSprout.letterText>Alguns arbustos do estranho cogumelo agárino brotoram nas proximidades! Se esperar que cresçam, poderá colher o delicioso e doce cogumelo.</RG-TF_AlastairusSprout.letterText>
+
     <!-- [HLX] Ultratech: Altered Carbon -->
         <!-- Stack Request -->
             <AC_StackRequest.label>solicitação de cartucho</AC_StackRequest.label>
@@ -134,7 +140,7 @@
             <VEE_CaravanAnimalsWanderIn.label>animais de caravana</VEE_CaravanAnimalsWanderIn.label>
 
         <!-- Crop Sprout -->
-            <VEE_CropSprout.label>brotamento de plantas</VEE_CropSprout.label>
+            <VEE_CropSprout.label>broto de plantas</VEE_CropSprout.label>
 
         <!-- Battle Animals Wander In -->
             <VEE_BattleAnimalsWanderIn.label>animais de batalha</VEE_BattleAnimalsWanderIn.label>
