@@ -94,6 +94,49 @@
             <RG-TF_Alastairus.label>agárino</RG-TF_Alastairus.label>
             <RG-TF_Alastairus.description>Um estranho cogumelo azul que brilha no escuro. Seu tamanho e saliências brilhantes tornam esse fungo bonito.</RG-TF_Alastairus.description>
 
+    <!-- [HLX] Tundra Expansion -->
+        <!-- Grass -->
+            <RG-T_Plant_TundraGrass.label>grama</RG-T_Plant_TundraGrass.label>
+            <RG-T_Plant_TundraGrass.description>Grama de tundra selvagem. Cresce em regiões mais frias onde há pouca luz e solo minimamente fértil.</RG-T_Plant_TundraGrass.description>
+
+        <!-- Tall Grass -->
+            <RG-T_Plant_TundraTallGrass.label>grama alta</RG-T_Plant_TundraTallGrass.label>
+            <RG-T_Plant_TundraTallGrass.description>Grama alta de tundra selvagem. Retarda qualquer um que se mova sobre ela.</RG-T_Plant_TundraTallGrass.description>
+
+        <!-- Crimson Cusihon -->
+            <RG-T_Plant_CrimsonCushion.label>arbustos de carmim</RG-T_Plant_CrimsonCushion.label>
+            <RG-T_Plant_CrimsonCushion.description>Planta rasteira de cor carmesim selvagem. Leva muito tempo para crescer, mas é muito resistente às geadas.</RG-T_Plant_CrimsonCushion.description>
+
+        <!-- Tundra Cotton -->
+            <RG-T_Plant_TundraCotton.label>planta de algodão</RG-T_Plant_TundraCotton.label>
+            <RG-T_Plant_TundraCotton.description>Uma pequena flor com algodão. Por ser muito resistente às geadas, cresce exclusivamente nas regiões de tundra.</RG-T_Plant_TundraCotton.description>
+
+        <!-- Brambles -->
+            <RG-T_Plant_BramblesRed.label>rebentos</RG-T_Plant_BramblesRed.label>
+            <RG-T_Plant_BramblesRed.description>Rebentos emaranhados, espinhosos e lenhosos cobertos por folhas. Os brotos crescem em grupos e atrasam qualquer pessoa que se mova por cima deles.</RG-T_Plant_BramblesRed.description>
+            <RG-T_Plant_BramblesYellow.label>rebentos</RG-T_Plant_BramblesYellow.label>
+            <RG-T_Plant_BramblesYellow.description>Rebentos emaranhados, espinhosos e lenhosos cobertos por folhas. Os brotos crescem em grupos e atrasam qualquer pessoa que se mova por cima deles.</RG-T_Plant_BramblesYellow.description>
+
+        <!-- Saxifraga -->
+            <RG-T_Plant_Saxifraga.label>saxifraga</RG-T_Plant_Saxifraga.label>
+            <RG-T_Plant_Saxifraga.description>Uma pequena flor roxa que cresce em grandes cachos. Embora muitas vezes seja considerada uma erva daninha, é muito bonita.</RG-T_Plant_Saxifraga.description>
+
+        <!-- Lupine -->
+            <RG-T_Plant_LupineIceland.label>tremoço</RG-T_Plant_LupineIceland.label>
+            <RG-T_Plant_LupineIceland.description>Uma longa e bela flor silvestre que cresce em climas frios.</RG-T_Plant_LupineIceland.description>
+
+        <!-- Rimbay Willow -->
+            <RG-T_Plant_RimbayWillow.label>salgueiro</RG-T_Plant_RimbayWillow.label>
+            <RG-T_Plant_RimbayWillow.description>Salgueiros crescem em biomas de tundra e podem ser usado para remédios à base de ervas.</RG-T_Plant_RimbayWillow.description>
+
+        <!-- Hygrophorus -->
+            <RG-T_Hygrophorus.label>higróforo</RG-T_Hygrophorus.label>
+            <RG-T_Hygrophorus.description>Um minúsculo cogumelo roxo que cresce em pequenos cachos. Cresce exclusivamente nas regiões de tundra</RG-T_Hygrophorus.description>
+
+        <!-- Pine Tree -->
+            <RG-T_Plant_YellowTreePine.label>pinheiro</RG-T_Plant_YellowTreePine.label>
+            <RG-T_Plant_YellowTreePine.description>Uma rara conífera amarela. Por ser muito resistente às geadas, cresce apenas em regiões de tundra e pântanos frios.</RG-T_Plant_YellowTreePine.description>
+
     <!-- Argón's Tribal Medicine -->
         <!-- Wild White Broots -->
             <TM_Broots.label>dália selvagem</TM_Broots.label>
