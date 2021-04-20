@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+          <RandomEventRewardWitcher.label>Evento Aleatório</RandomEventRewardWitcher.label>
+
     <!-- Vanilla Achievements Expanded -->
-        <!-- Random Event -->
-            <RandomEventReward.label>Evento Aleatório</RandomEventReward.label>
+        <RandomEventReward.label>Evento Aleatório</RandomEventReward.label>
 
     <!-- Vanilla Weapons Expanded -->
-        <!-- Random Event -->
-            <RandomEventRewardVE.label>Evento Aleatório</RandomEventRewardVE.label>
+        <RandomEventRewardVE.label>Evento Aleatório</RandomEventRewardVE.label>
         
 </LanguageData>

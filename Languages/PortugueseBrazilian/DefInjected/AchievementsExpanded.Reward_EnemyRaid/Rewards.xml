@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Summon a Raid -->
+            <EnemyRaidRewardWitcher.label>Invasão</EnemyRaidRewardWitcher.label>
+
     <!-- Vanilla Achievements Expanded -->
         <!-- Summon a Raid -->
             <EnemyRaidReward.label>Invasão</EnemyRaidReward.label>

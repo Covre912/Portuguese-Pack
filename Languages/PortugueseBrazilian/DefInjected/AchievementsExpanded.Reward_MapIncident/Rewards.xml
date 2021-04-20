@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Summon a Trade Caravan -->
+            <TradeCaravanRewardWitcher.label>Caravana Comercial</TradeCaravanRewardWitcher.label>
+
+        <!-- Spawn Cargo Pods -->
+            <CargoPodsRewardWitcher.label>Cápsulas de Carga</CargoPodsRewardWitcher.label>
+
+        <!-- Man in Black Joins -->
+            <ManInBlackRewardWitcher.label>Estranho de Preto</ManInBlackRewardWitcher.label>
+
     <!-- Vanilla Achievements Expanded -->
         <!-- Summon a Trade Caravan -->
             <TradeCaravanReward.label>Caravana Comercial</TradeCaravanReward.label>

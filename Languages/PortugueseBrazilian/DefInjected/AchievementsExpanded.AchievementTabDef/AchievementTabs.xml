@@ -5,6 +5,10 @@
         <!-- Race to the Rim -->
             <RttR_Achievements.label>Jornada do Herói</RttR_Achievements.label>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Witcher Monster Hunt -->
+            <WitcherMonsterHunt.label>Caça aos Monstros</WitcherMonsterHunt.label>
+
     <!-- Vanilla Achievement Expanded -->
         <!-- Main -->
             <Main.label>Principal</Main.label>

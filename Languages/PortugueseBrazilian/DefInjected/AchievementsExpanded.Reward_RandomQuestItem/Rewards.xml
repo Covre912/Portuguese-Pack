@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <RandomRewardQuestItemWitcher.label>Item de Missão Aleatório</RandomRewardQuestItemWitcher.label>
+
     <!-- Vanilla Achievements Expanded -->
-        <!-- Random Quest Item -->
-            <RandomRewardQuestItem.label>Item de Missão Aleatório</RandomRewardQuestItem.label>
+        <RandomRewardQuestItem.label>Item de Missão Aleatório</RandomRewardQuestItem.label>
 
     <!-- Vanilla Weapons Expanded -->
-        <!-- Random Quest Item -->
-            <RandomRewardQuestItemVE.label>Item de Missão Aleatório</RandomRewardQuestItemVE.label>
+        <RandomRewardQuestItemVE.label>Item de Missão Aleatório</RandomRewardQuestItemVE.label>
         
 </LanguageData>

@@ -59,4 +59,77 @@
             <RttR_AchievementMoreLikeIsleOfJerk.label>Ilha da Morte</RttR_AchievementMoreLikeIsleOfJerk.label>
             <RttR_AchievementMoreLikeIsleOfJerk.description>Mate 5 dragões da mesma espécie</RttR_AchievementMoreLikeIsleOfJerk.description>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Basilisk -->
+            <BasiliskContract.label>Contrato de Basilisco</BasiliskContract.label>
+            <BasiliskContract.description>Mate um basilisco</BasiliskContract.description>
+
+        <!-- Bearofleet -->
+            <BearofleetContract.label>Contrato de Urso-vivo</BearofleetContract.label>
+            <BearofleetContract.description>Mate um urso-vivo</BearofleetContract.description>
+
+        <!-- Chort -->
+            <ChortContract.label>Contrato de Chorabashe</ChortContract.label>
+            <ChortContract.description>Mate um chorabashe</ChortContract.description>
+
+        <!-- Cyclops -->
+            <CyclopsContract.label>Contrato de Ciclope</CyclopsContract.label>
+            <CyclopsContract.description>Mate um ciclope</CyclopsContract.description>
+
+        <!-- Djinn -->
+            <DjinnContract.label>Contrato de Djinn</DjinnContract.label>
+            <DjinnContract.description>Mate um djinn</DjinnContract.description>
+
+        <!-- Ekimmara -->
+            <EkimmaraContract.label>Contrato de Ekimmus</EkimmaraContract.label>
+            <EkimmaraContract.description>Mate um ekimmus</EkimmaraContract.description>
+
+        <!-- Fiend -->
+            <FiendContract.label>Contrato de Demônio</FiendContract.label>
+            <FiendContract.description>Mate um demônio</FiendContract.description>
+
+        <!-- Fleder -->
+            <FlederContract.label>Contrato de Fleder</FlederContract.label>
+            <FlederContract.description>Mate um fleder</FlederContract.description>
+
+        <!-- Fogler -->
+            <FoglerContract.label>Contrato de Nevoloso</FoglerContract.label>
+            <FoglerContract.description>Mate um nevoloso</FoglerContract.description>
+
+        <!-- Ghoul -->
+            <GhoulContract.label>Contrato de Ghoul</GhoulContract.label>
+            <GhoulContract.description>Mate um ghoul</GhoulContract.description>
+
+        <!-- Golem -->
+            <GolemContract.label>Contrato de Golem</GolemContract.label>
+            <GolemContract.description>Mate um golem</GolemContract.description>
+
+        <!-- Hym -->
+            <HymContract.label>Contrato de Hym</HymContract.label>
+            <HymContract.description>Mate um hym</HymContract.description>
+
+        <!-- Kikimore -->
+            <KikimoreContract.label>Contrato de Kikimora</KikimoreContract.label>
+            <KikimoreContract.description>Mate uma rainha kikimora</KikimoreContract.description>
+
+        <!-- Leshy -->
+            <LeshyContract.label>Contrato de Liche</LeshyContract.label>
+            <LeshyContract.description>Mate um liche</LeshyContract.description>
+
+        <!-- Nekker -->
+            <NekkerContract.label>Contrato de Nekker</NekkerContract.label>
+            <NekkerContract.description>Mate um nekker</NekkerContract.description>
+
+        <!-- Werewolf -->
+            <WerewolfContract.label>Contrato de Lobisomem</WerewolfContract.label>
+            <WerewolfContract.description>Mate um lobisomem</WerewolfContract.description>
+
+        <!-- Wraith -->
+            <WraithContract.label>Contrato de Aparição</WraithContract.label>
+            <WraithContract.description>Mate uma aparição</WraithContract.description>
+
+        <!-- Wyvern -->
+            <WyvernContract.label>Contrato de Wyvern</WyvernContract.label>
+            <WyvernContract.description>Mate um wyvern</WyvernContract.description>
+
 </LanguageData>
