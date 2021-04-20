@@ -392,6 +392,12 @@
             <DecreaseForceRadius>Diminuir Raio</DecreaseForceRadius>
             <DecreaseForceRadiusDesc>Diminui a distância de busca para o trabalho forçado (o raio atual é {0})</DecreaseForceRadiusDesc>
 
+        <!-- Building Smart -->
+            <BuildingSmart>Construção Inteligente</BuildingSmart>
+            <BuildingSmartDesc>Construção inteligente evita que colonos se prendam, mas é mais lenta</BuildingSmartDesc>
+            <BuildingSmartDefaultTitle>Construção inteligente está agora em trabalhos Atchung!</BuildingSmartDefaultTitle>
+            <BuildingSmartDefaultExplained>Define o padrão de como os novos trabalhos escolhem sua ordem de construção</BuildingSmartDefaultExplained>
+
         <!-- Notes -->
             <Notes>Observações</Notes>
             <Note1>Ao usar Achtung, o menu contextual contém tanto comandos alistados quanto desalistados</Note1>
