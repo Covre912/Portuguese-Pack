@@ -248,6 +248,90 @@
             <RttR_DazeAffected.label>atordoado e confuso</RttR_DazeAffected.label>
             <RttR_DazeAffected.description>Esta criatura foi recentemente afetada por um ataque atordoante de Ataque Triplo.</RttR_DazeAffected.description>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- No Pain Sensitivity -->
+            <WMH_NoPain.label>sem sensibilidade à dor</WMH_NoPain.label>
+            <WMH_NoPain.description>Este monstro tem uma sensibilidade à dor reduzida e leva mais tempo para ser derrubado.</WMH_NoPain.description>
+
+        <!-- Preternatural Hunger -->
+            <WMH_Hunger.label>fome sobrenatural</WMH_Hunger.label>
+            <WMH_Hunger.description>Uma sensação anormalmente forte de fome está fazendo com que essa pessoa se sinta enfraquecida e nauseada. Se a comida não for fornecida logo, a morte virá em seguida.</WMH_Hunger.description>
+
+        <!-- Toxic Buildup -->
+            <WMH_ToxicBuildup.label>acúmulo tóxico</WMH_ToxicBuildup.label>
+            <WMH_ToxicBuildup.description>Toxinas na corrente sanguínea. Isso pode vir de várias fontes, incluindo toxinas ambientais, picadas venenosas ou armas envenenadas.\n\nEm altas doses, o acúmulo de tóxicos é letal. Mesmo em doses baixas, pode gerar câncer.\n\nAo contrário do aumento tóxico normal, criaturas que morrem com esse dano tóxico podem ser esquartejadas.</WMH_ToxicBuildup.description>
+            <WMH_ToxicBuildup.stages.0.label>inicial</WMH_ToxicBuildup.stages.0.label>
+            <WMH_ToxicBuildup.stages.1.label>inicial</WMH_ToxicBuildup.stages.1.label>
+            <WMH_ToxicBuildup.stages.2.label>leve</WMH_ToxicBuildup.stages.2.label>
+            <WMH_ToxicBuildup.stages.3.label>moderado</WMH_ToxicBuildup.stages.3.label>
+            <WMH_ToxicBuildup.stages.4.label>sério</WMH_ToxicBuildup.stages.4.label>
+            <WMH_ToxicBuildup.stages.5.label>extremo</WMH_ToxicBuildup.stages.5.label>
+
+        <!-- Uncontrollabe Vomiting -->
+            <WMH_Vomiting.label>vômito incontrolável</WMH_Vomiting.label>
+            <WMH_Vomiting.description>A extrema repulsão dos ataques do necrófago causou uma náusea incontrolável.</WMH_Vomiting.description>
+            <WMH_Vomiting.stages.0.label>leve</WMH_Vomiting.stages.0.label>
+            <WMH_Vomiting.stages.1.label>grave</WMH_Vomiting.stages.1.label>
+            <WMH_Vomiting.stages.2.label>extremo</WMH_Vomiting.stages.2.label>
+
+        <!-- Lycanthropy -->
+            <WMH_Lycanthropy.label>licantropia</WMH_Lycanthropy.label>
+            <WMH_Lycanthropy.description>Este colono foi afetado pela licantropia. Se a doença não for tratada adequadamente, ou se o colono morrer quando estiver suficientemente avançado, ele se transformará em um lobisomem.</WMH_Lycanthropy.description>
+            <WMH_Lycanthropy.stages.0.label>leve</WMH_Lycanthropy.stages.0.label>
+            <WMH_Lycanthropy.stages.1.label>grave</WMH_Lycanthropy.stages.1.label>
+            <WMH_Lycanthropy.stages.2.label>extremo</WMH_Lycanthropy.stages.2.label>
+            <WMH_Lycanthropy.stages.3.label>extremo</WMH_Lycanthropy.stages.3.label>
+
+        <!-- Vampirism -->
+            <WMH_VampirismEkimmara.label>vampirismo</WMH_VampirismEkimmara.label>
+            <WMH_VampirismEkimmara.description>Este colono foi afetado pelo vampirismo. Se a doença não for tratada adequadamente ou se o colono morrer quando estiver suficientemente avançado, ele se transformará em um Ekimmus.</WMH_VampirismEkimmara.description>
+            <WMH_VampirismEkimmara.stages.0.label>leve</WMH_VampirismEkimmara.stages.0.label>
+            <WMH_VampirismEkimmara.stages.1.label>grave</WMH_VampirismEkimmara.stages.1.label>
+            <WMH_VampirismEkimmara.stages.2.label>extremo</WMH_VampirismEkimmara.stages.2.label>
+            <WMH_VampirismEkimmara.stages.3.label>extremo</WMH_VampirismEkimmara.stages.3.label>
+            <WMH_VampirismFleder.label>vampirismo</WMH_VampirismFleder.label>
+            <WMH_VampirismFleder.description>Este colono foi afetado pelo vampirismo. Se a doença não for tratada adequadamente ou se o colono morrer quando estiver suficientemente avançado, ele se transformará em um Fleder.</WMH_VampirismFleder.description>
+            <WMH_VampirismFleder.stages.0.label>leve</WMH_VampirismFleder.stages.0.label>
+            <WMH_VampirismFleder.stages.1.label>grave</WMH_VampirismFleder.stages.1.label>
+            <WMH_VampirismFleder.stages.2.label>extreme</WMH_VampirismFleder.stages.2.label>
+            <WMH_VampirismFleder.stages.3.label>extreme</WMH_VampirismFleder.stages.3.label>
+
+        <!-- Paralysis -->
+            <WMH_Paralysis.label>paralisia</WMH_Paralysis.label>
+            <WMH_Paralysis.description>Uma toxina de ação rápida está correndo pelas veias deste colono, paralisando seus músculos. O efeito deve passar depois de um tempo.</WMH_Paralysis.description>
+            <WMH_Paralysis.stages.0.label>levemente atordoado</WMH_Paralysis.stages.0.label>
+            <WMH_Paralysis.stages.1.label>atordoado</WMH_Paralysis.stages.1.label>
+            <WMH_Paralysis.stages.2.label>muito atordoado</WMH_Paralysis.stages.2.label>
+            <WMH_Paralysis.stages.3.label>paralisado</WMH_Paralysis.stages.3.label>
+
+        <!-- Acid Buildup -->
+            <WMH_AcidBuildup.label>ácido</WMH_AcidBuildup.label>
+            <WMH_AcidBuildup.description>Um respingo de ácido que continua a causar queimaduras por algum tempo após o ataque inicial.</WMH_AcidBuildup.description>
+            <WMH_AcidBuildup.stages.0.label>leve, queimando</WMH_AcidBuildup.stages.0.label>
+            <WMH_AcidBuildup.stages.1.label>moderado, queimando</WMH_AcidBuildup.stages.1.label>
+            <WMH_AcidBuildup.stages.2.label>sério, queimando</WMH_AcidBuildup.stages.2.label>
+
+        <!-- Rage of Nature -->
+            <WMH_RageOfNatureImplant.label>fúria da natureza</WMH_RageOfNatureImplant.label>
+            <WMH_RageOfNatureImplant.labelNoun>um implante de fúria da natureza</WMH_RageOfNatureImplant.labelNoun>
+            <WMH_RageOfNatureImplant.description>Um implante de fúria da natureza. Este implante permitirá que esta criatura use um ataque venenoso muito perigoso que causará acúmulo tóxico.</WMH_RageOfNatureImplant.description>
+            <WMH_RageOfNatureImplant.comps.0.verbs.0.label>fúria da natureza</WMH_RageOfNatureImplant.comps.0.verbs.0.label>
+            <WMH_RageOfNatureImplant.comps.0.verbProps.0.label>fúria da natureza</WMH_RageOfNatureImplant.comps.0.verbProps.0.label>
+
+        <!-- Wyvern Acid Spitter -->
+            <WMH_WyvernAcidSpitterImplant.label>cuspe ácido</WMH_WyvernAcidSpitterImplant.label>
+            <WMH_WyvernAcidSpitterImplant.labelNoun>um implante de cuspe ácido</WMH_WyvernAcidSpitterImplant.labelNoun>
+            <WMH_WyvernAcidSpitterImplant.description>Um implante de cuspe ácido. Este implante permitirá que esta criatura use um ataque de cuspe ácido de longo alcance muito potente que causa danos ao longo do tempo.</WMH_WyvernAcidSpitterImplant.description>
+            <WMH_WyvernAcidSpitterImplant.comps.0.verbs.0.label>cuspe ácido</WMH_WyvernAcidSpitterImplant.comps.0.verbs.0.label>
+            <WMH_WyvernAcidSpitterImplant.comps.0.verbProps.0.label>cuspe ácido</WMH_WyvernAcidSpitterImplant.comps.0.verbProps.0.label>
+
+        <!-- Djinn Fire -->
+            <WMH_DjinnFireImplant.label>chamas</WMH_DjinnFireImplant.label>
+            <WMH_DjinnFireImplant.labelNoun>um implante de chamas</WMH_DjinnFireImplant.labelNoun>
+            <WMH_DjinnFireImplant.description>Um implante de chamas. Este implante permitirá que esta criatura use um ataque de fogo muito perigoso que colocará inimigos em chamas.</WMH_DjinnFireImplant.description>
+            <WMH_DjinnFireImplant.comps.0.verbs.0.label>fogo</WMH_DjinnFireImplant.comps.0.verbs.0.label>
+            <WMH_DjinnFireImplant.comps.0.verbProps.0.label>fogo</WMH_DjinnFireImplant.comps.0.verbProps.0.label>
+
     <!-- Sauced Meals -->
         <!-- Simple Meal -->
             <SM_AteSaucedSimpleMeal.label>consumiu comida simples temperada (da refeição)</SM_AteSaucedSimpleMeal.label>
@@ -278,9 +362,9 @@
         <!-- Acid Buildup -->
             <VEF_AcidBuildup.label>ácido</VEF_AcidBuildup.label>
             <VEF_AcidBuildup.description>Um respingo de ácido que continua a causar queimaduras por algum tempo após o ataque inicial.</VEF_AcidBuildup.description>
-            <VEF_AcidBuildup.stages.0.label>menor, recebendo queimaduras</VEF_AcidBuildup.stages.0.label>
-            <VEF_AcidBuildup.stages.1.label>moderado, recebendo queimaduras</VEF_AcidBuildup.stages.1.label>
-            <VEF_AcidBuildup.stages.2.label>sério, recebendo queimaduras</VEF_AcidBuildup.stages.2.label>
+            <VEF_AcidBuildup.stages.0.label>leve, queimando</VEF_AcidBuildup.stages.0.label>
+            <VEF_AcidBuildup.stages.1.label>moderado, queimando</VEF_AcidBuildup.stages.1.label>
+            <VEF_AcidBuildup.stages.2.label>sério, queimando</VEF_AcidBuildup.stages.2.label>
 
         <!-- Acid Burn -->
             <VEF_AcidBurn.label>ácido</VEF_AcidBurn.label>

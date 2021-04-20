@@ -17,7 +17,7 @@
 		    <SimpleAnimalProsthetics.description>Aprenda a usar e fabricar próteses simples para animais.</SimpleAnimalProsthetics.description>
 		
 	    <!-- Animal Bionics -->
-		    <AnimalBionics.label>próteses veterinárias biônicas</AnimalBionics.label>
+		    <AnimalBionics.label>próteses veterináris biônicas</AnimalBionics.label>
 		    <AnimalBionics.description>Aprenda a usar e fabricar próteses biônicas para animais.</AnimalBionics.description>
 
 	    <!-- Animal Heal -->
@@ -54,6 +54,19 @@
         <!-- Jewelry -->
             <Jewelry.label>joalheria</Jewelry.label>
             <Jewelry.description>Aprenda como fazer joias.</Jewelry.description>
+
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Exotic Animal Prosthetics -->
+            <VEF_ExoticProsthetics.label>próteses veterinárias exóticas</VEF_ExoticProsthetics.label>
+            <VEF_ExoticProsthetics.description>Aprenda a usar e fabricar próteses de animais exóticos para substituir tentáculos, asas, órgãos de ecolocalização e assim por diante.</VEF_ExoticProsthetics.description>
+
+        <!-- Exotic Animal Bionics -->
+            <VEF_ExoticBionics.label>biônicos veterinários exóticos</VEF_ExoticBionics.label>
+            <VEF_ExoticBionics.description>Aprenda a usar e fabricar biônicos de animais exóticos para substituir tentáculos, asas, órgãos de ecolocalização e assim por diante.</VEF_ExoticBionics.description>
+
+        <!-- Advanced Animal Implant -->
+            <VEF_AdvancedAnimalImplants.label>implantes veterinários avançados</VEF_AdvancedAnimalImplants.label>
+            <VEF_AdvancedAnimalImplants.description>Aprenda a extrair certas habilidades de animais e implantá-las em outros. Ataques de animais à distância também podem ser implantados em um animal diferente.</VEF_AdvancedAnimalImplants.description>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Factory Basics -->

@@ -149,6 +149,65 @@
             <RttR_AlgaeLantern.label>lanterna de alga</RttR_AlgaeLantern.label>
             <RttR_AlgaeLantern.description>Uma lanterna que converte a bioluminiscência natural das algas de pesadelo em luz utilizável para o cultivo de plantas.</RttR_AlgaeLantern.description>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Ghoul Victim -->
+            <WMH_GhoulBody.label>vítima de ghoul</WMH_GhoulBody.label>
+            <WMH_GhoulBody.description>Este cadáver meio comido é totalmente nojento. Um fedor podre emana dele.</WMH_GhoulBody.description>
+
+        <!-- Kikimore Nest -->
+            <WMH_KikimoreNest.label>ninho de kikimora</WMH_KikimoreNest.label>
+            <WMH_KikimoreNest.description>Este monte pustulento parece ser um ponto de entrada para uma vasta rede subterrânea de cavernas. Esperançosamente, nenhuma Kikimora mais irrompeu na superfície por aqui...</WMH_KikimoreNest.description>
+
+        <!-- Leshy Totem -->
+            <WMH_LeshyTotem.label>totem xamanístico</WMH_LeshyTotem.label>
+            <WMH_LeshyTotem.description>Um totem xamanístico de significância desconhecida.</WMH_LeshyTotem.description>
+
+        <!-- Ancient Grave -->
+            <WMH_AncientGrave.label>túmulo antigo</WMH_AncientGrave.label>
+            <WMH_AncientGrave.description>Um túmulo há muito esquecido.</WMH_AncientGrave.description>
+
+        <!-- Trophies -->
+            <WMHT_TrophyLargeDjinn.label>troféu de djinn</WMHT_TrophyLargeDjinn.label>
+            <WMHT_TrophyLargeDjinn.description>Uma peça de material do tamanho de uma pessoa esculpida em uma forma artística. Este troféu retrata a caça ao Djinn.</WMHT_TrophyLargeDjinn.description>
+            <WMHT_TrophyLargeEkimmara.label>troféu de ekimmus</WMHT_TrophyLargeEkimmara.label>
+            <WMHT_TrophyLargeEkimmara.description>Uma peça de material do tamanho de uma pessoa esculpida em uma forma artística. Este troféu retrata a caça ao Ekimmus.</WMHT_TrophyLargeEkimmara.description>
+            <WMHT_TrophyLargeFleder.label>troféu de fleder</WMHT_TrophyLargeFleder.label>
+            <WMHT_TrophyLargeFleder.description>Uma peça de material do tamanho de uma pessoa esculpida em uma forma artística. Este troféu retrata a caça ao Fleder.</WMHT_TrophyLargeFleder.description>
+            <WMHT_TrophyLargeFogler.label>troféu de nevoloso</WMHT_TrophyLargeFogler.label>
+            <WMHT_TrophyLargeFogler.description>Uma peça de material do tamanho de uma pessoa esculpida em uma forma artística. Este troféu retrata a caça ao Nevoloso.</WMHT_TrophyLargeFogler.description>
+            <WMHT_TrophyLargeGhoul.label>troféu de ghoul</WMHT_TrophyLargeGhoul.label>
+            <WMHT_TrophyLargeGhoul.description>Uma peça de material do tamanho de uma pessoa esculpida em uma forma artística. Este troféu retrata a caça ao Ghoul.</WMHT_TrophyLargeGhoul.description>
+            <WMHT_TrophyLargeHym.label>troféu de hym</WMHT_TrophyLargeHym.label>
+            <WMHT_TrophyLargeHym.description>Uma peça de material do tamanho de uma pessoa esculpida em uma forma artística. Este troféu retrata a caça ao Hym.</WMHT_TrophyLargeHym.description>
+            <WMHT_TrophyLargeLeshy.label>troféu de liche</WMHT_TrophyLargeLeshy.label>
+            <WMHT_TrophyLargeLeshy.description>Uma peça de material do tamanho de uma pessoa esculpida em uma forma artística. Este troféu retrata a caça ao Liche.</WMHT_TrophyLargeLeshy.description>
+            <WMHT_TrophyLargeNekker.label>troféu de nekker</WMHT_TrophyLargeNekker.label>
+            <WMHT_TrophyLargeNekker.description>Uma peça de material do tamanho de uma pessoa esculpida em uma forma artística. Este troféu retrata a caça ao Nekker.</WMHT_TrophyLargeNekker.description>
+            <WMHT_TrophyLargeWerewolf.label>troféu de lobisomem</WMHT_TrophyLargeWerewolf.label>
+            <WMHT_TrophyLargeWerewolf.description>Uma peça de material do tamanho de uma pessoa esculpida em uma forma artística. Este troféu retrata a caça ao Lobisomem.</WMHT_TrophyLargeWerewolf.description>
+            <WMHT_TrophyLargeWraith.label>troféu de aparição</WMHT_TrophyLargeWraith.label>
+            <WMHT_TrophyLargeWraith.description>Uma peça de material do tamanho de uma pessoa esculpida em uma forma artística. Este troféu retrata a caça à Aparição.</WMHT_TrophyLargeWraith.description>
+            <WMHT_TrophyGrandBasilisk.label>troféu de basilisco (grande)</WMHT_TrophyGrandBasilisk.label>
+            <WMHT_TrophyGrandBasilisk.description>Uma enorme peça de material em um pedestal decorativo, esculpida em uma forma artística. Este troféu retrata a caça ao Basilisco.</WMHT_TrophyGrandBasilisk.description>
+            <WMHT_TrophyGrandBearofleet.label>troféu de urso-vivo (grande)</WMHT_TrophyGrandBearofleet.label>
+            <WMHT_TrophyGrandBearofleet.description>Uma enorme peça de material em um pedestal decorativo, esculpida em uma forma artística. Este troféu retrata a caça ao Urso-vivo.</WMHT_TrophyGrandBearofleet.description>
+            <WMHT_TrophyGrandChort.label>troféu de chorabashe (grande)</WMHT_TrophyGrandChort.label>
+            <WMHT_TrophyGrandChort.description>Uma enorme peça de material em um pedestal decorativo, esculpida em uma forma artística. Este troféu retrata a caça ao Chorabashe.</WMHT_TrophyGrandChort.description>
+            <WMHT_TrophyGrandCyclops.label>troféu de ciclope (grande)</WMHT_TrophyGrandCyclops.label>
+            <WMHT_TrophyGrandCyclops.description>Uma enorme peça de material em um pedestal decorativo, esculpida em uma forma artística. Este troféu retrata a caça ao Ciclope.</WMHT_TrophyGrandCyclops.description>
+            <WMHT_TrophyGrandFiend.label>troféu de demônio (grande)</WMHT_TrophyGrandFiend.label>
+            <WMHT_TrophyGrandFiend.description>Uma enorme peça de material em um pedestal decorativo, esculpida em uma forma artística. Este troféu retrata a caça ao Demônio.</WMHT_TrophyGrandFiend.description>
+            <WMHT_TrophyGrandGolem.label>troféu de golem (grande)</WMHT_TrophyGrandGolem.label>
+            <WMHT_TrophyGrandGolem.description>Uma enorme peça de material em um pedestal decorativo, esculpida em uma forma artística. Este troféu retrata a caça ao Golem.</WMHT_TrophyGrandGolem.description>
+            <WMHT_TrophyGrandKikimore.label>troféu de kikimora (grande)</WMHT_TrophyGrandKikimore.label>
+            <WMHT_TrophyGrandKikimore.description>Uma enorme peça de material em um pedestal decorativo, esculpida em uma forma artística. Este troféu retrata a caça à Rainha Kikimora.</WMHT_TrophyGrandKikimore.description>
+            <WMHT_TrophyGrandWyvern.label>troféu de wyvern (grande)</WMHT_TrophyGrandWyvern.label>
+            <WMHT_TrophyGrandWyvern.description>Uma enorme peça de material em um pedestal decorativo, esculpida em uma forma artística. Este troféu retrata a caça ao Wyvern.</WMHT_TrophyGrandWyvern.description>
+
+        <!-- Advanced Animal Prosthetics Table -->
+            <VEF_AdvancedAnimalImplantsTable.label>mesa de protéses veterinárias avançadas</VEF_AdvancedAnimalImplantsTable.label>
+            <VEF_AdvancedAnimalImplantsTable.description>Permite extrair certas habilidades de animais e implantá-las em outros. Ataques de animais à distância também podem ser implantados em um animal diferente.</VEF_AdvancedAnimalImplantsTable.description>
+
     <!-- Vanilla Animals Expanded - Temperate Forest -->
         <!-- Beaver Dam -->
             <AEXP_BeaverDam.label>barragem de castor</AEXP_BeaverDam.label>

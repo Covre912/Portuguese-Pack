@@ -109,6 +109,144 @@
             <RttR_Zippleback.verbs.0.label>sopro de gás de ziperarepiante</RttR_Zippleback.verbs.0.label>
             <RttR_Zippleback.verbs.1.label>sopro flamejante de ziperarepiante</RttR_Zippleback.verbs.1.label>
 
+    <!-- RimWorld - Wither Monster Hunt -->
+        <!-- Basilisk -->
+            <WMH_Basilisk.label>basilisco</WMH_Basilisk.label>
+            <WMH_Basilisk.description>Ao contrário da crença popular, os basiliscos não podem transformar nada em pedra com o olhar, no entanto, seu ácido, veneno, garras e dentes fornecem a eles muitas outras maneiras de matar. Várias universidades do mundo brilhante proclamam que o veneno de um Basilisco é o mais potente em todo o mundo.</WMH_Basilisk.description>
+            <WMH_Basilisk.tools.0.label>garra esquerda</WMH_Basilisk.tools.0.label>
+            <WMH_Basilisk.tools.1.label>garra direita</WMH_Basilisk.tools.1.label>
+            <WMH_Basilisk.tools.2.label>bico</WMH_Basilisk.tools.2.label>
+            <WMH_Basilisk.tools.3.label>cabeça</WMH_Basilisk.tools.3.label>
+
+        <!-- Bearofleet -->
+            <WMH_Bearofleet.label>urso-vivo</WMH_Bearofleet.label>
+            <WMH_Bearofleet.description>Ursos-vivos são monstruosidades genéticas criadas pela arrogância do homem. Eles foram criados por meio de processamento genético avançado e liberados na natureza, onde seu apetite voraz provou ser um verdadeiro desafio para pequenos assentamentos. A simples presença deles instila uma fome sobrenatural em quem testemunha sua barriga inchada.</WMH_Bearofleet.description>
+            <WMH_Bearofleet.tools.1.label>tentáculos</WMH_Bearofleet.tools.1.label>
+
+        <!-- Chort -->
+            <WMH_Chort.label>chorabashe</WMH_Chort.label>
+            <WMH_Chort.description>Chorabashes são parentes um pouco menores dos demônios. Eles lutam com pouca sutileza, correndo na direção do oponente e tentando derrubá-lo com a força de seu ataque. Se cercados por inimigos, os Chorabashes costumam usar seu terceiro olho para lançar um inimigo em uma fúria furiosa, fazendo-o virar-se contra seus aliados.</WMH_Chort.description>
+            <WMH_Chort.tools.0.label>chifre</WMH_Chort.tools.0.label>
+            <WMH_Chort.tools.1.label>chifre</WMH_Chort.tools.1.label>
+            <WMH_Chort.tools.3.label>cabeça</WMH_Chort.tools.3.label>
+
+        <!-- Cyclops -->
+            <WMH_Cyclops.label>ciclope</WMH_Cyclops.label>
+            <WMH_Cyclops.description>Os ciclopes podem ser facilmente reconhecidos por um único olho localizado no centro de suas testas. Se por algum motivo isso não for visível, outros sinais reveladores são seu enorme tamanho e incrível força. Eles costumam ser vistos jogando pedras pesadas em seus inimigos.</WMH_Cyclops.description>
+            <WMH_Cyclops.tools.0.label>punho esquerdo</WMH_Cyclops.tools.0.label>
+            <WMH_Cyclops.tools.1.label>punho direito</WMH_Cyclops.tools.1.label>
+            <WMH_Cyclops.tools.3.label>cabeça</WMH_Cyclops.tools.3.label>
+            <WMH_Cyclops.verbs.0.label>rocha</WMH_Cyclops.verbs.0.label>
+
+        <!-- Djinn -->
+            <WMH_Djinn.label>djinn</WMH_Djinn.label>
+            <WMH_Djinn.description>Um djinn é um poderoso espírito do ar, uma condensação do poder daquele elemento dotado de consciência e caráter - o último geralmente desagradável. De acordo com os pesquisadores, um Djinn pode atacar com um fluxo contínuo de energia, capaz de derrubar naves ultratecnológicas com facilidade.</WMH_Djinn.description>
+            <WMH_Djinn.tools.0.label>pseudópode</WMH_Djinn.tools.0.label>
+            <WMH_Djinn.verbs.0.label>fogo de djinn</WMH_Djinn.verbs.0.label>
+
+        <!-- Ekimmara -->
+            <WMH_Ekimmara.label>ekimmus</WMH_Ekimmara.label>
+            <WMH_Ekimmara.description>Ekimmus não são, apesar do que as fofocas possam dizer, vampiros inteligentes. Em vez disso, eles são viajantes infectados presos em corpos monstruosos, que não têm nenhum sentimento particular sobre alho, água benta ou símbolos religiosos.</WMH_Ekimmara.description>
+            <WMH_Ekimmara.tools.0.label>garras esquerdas</WMH_Ekimmara.tools.0.label>
+            <WMH_Ekimmara.tools.1.label>garras direitas</WMH_Ekimmara.tools.1.label>
+            <WMH_Ekimmara.tools.3.label>cabeça</WMH_Ekimmara.tools.3.label>
+
+        <!-- Fiend -->
+            <WMH_Fiend.label>demônio</WMH_Fiend.label>
+            <WMH_Fiend.description>O demônio é uma montanha ambulante de músculos com cabeça cheia de chifres e dentes. Seu enorme tamanho e força permitem que ele assuma um grupo de invasores inteiro, enquanto o terceiro olho localizado no centro de sua testa é usado para levar sua presa a um estado de hipnose.</WMH_Fiend.description>
+            <WMH_Fiend.tools.0.label>garra esquerda</WMH_Fiend.tools.0.label>
+            <WMH_Fiend.tools.1.label>garra direita</WMH_Fiend.tools.1.label>
+            <WMH_Fiend.tools.2.label>chifre</WMH_Fiend.tools.2.label>
+            <WMH_Fiend.tools.4.label>cabeça</WMH_Fiend.tools.4.label>
+
+        <!-- Fleder -->
+            <WMH_Fleder.label>fleder</WMH_Fleder.label>
+            <WMH_Fleder.description>Os fleders são vampiros inferiores, mais fracos do que o resto de sua laia em quase todos os aspectos. Esses vampiros lutam principalmente com seus dentes e garras, agitando-os cegamente e não parando mesmo quando a vítima já está morta. Suas garras podem rasgar a armadura e a carne da mesma forma.</WMH_Fleder.description>
+            <WMH_Fleder.tools.0.label>garras esquerdas</WMH_Fleder.tools.0.label>
+            <WMH_Fleder.tools.1.label>garras direitas</WMH_Fleder.tools.1.label>
+            <WMH_Fleder.tools.3.label>cabeça</WMH_Fleder.tools.3.label>
+
+        <!-- Fogler -->
+            <WMH_Fogler.label>nevoloso</WMH_Fogler.label>
+            <WMH_Fogler.description>Nevolosos têm braços e garras poderosos como megaranhas geneticamente modificadas, mas o que os torna verdadeiramente perigosos é seu domínio do engano, da ilusão e da desorientação. Quando em perigo, um nevoloso libera uma densa nuvem de fumaça, tornando todos os ataques à distância inúteis.</WMH_Fogler.description>
+            <WMH_Fogler.tools.0.label>punho esquerdo</WMH_Fogler.tools.0.label>
+            <WMH_Fogler.tools.1.label>punho direito</WMH_Fogler.tools.1.label>
+            <WMH_Fogler.tools.3.label>cabeça</WMH_Fogler.tools.3.label>
+
+        <!-- Ghoul -->
+            <WMH_Ghoul.label>ghoul</WMH_Ghoul.label>
+            <WMH_Ghoul.description>Ghouls são difíceis de descrever. Em parte, eles se assemelham a humanos - mas, no geral, são a negação total de tudo o que é humano. Eles são movidos por uma coisa e apenas uma coisa: um desejo insaciável por carne humana. Sua aparência repulsiva faz as pessoas vomitarem ao vê-los.</WMH_Ghoul.description>
+            <WMH_Ghoul.tools.0.label>punho esquerdo</WMH_Ghoul.tools.0.label>
+            <WMH_Ghoul.tools.1.label>punho direito</WMH_Ghoul.tools.1.label>
+            <WMH_Ghoul.tools.3.label>cabeça</WMH_Ghoul.tools.3.label>
+
+        <!-- Golem -->
+            <WMH_Golem.label>golem</WMH_Golem.label>
+            <WMH_Golem.description>Golens são matéria irracional trazida à vida por anomalias psíquicas. Golens não usam armas, pois eles não precisam - seus punhos, pesando mais de 45 quilos cada, podem esmagar granito sólido com um golpe. Sua armadura de rocha sólida pode desviar quase todos os ataques.</WMH_Golem.description>
+            <WMH_Golem.tools.0.label>punho esquerdo</WMH_Golem.tools.0.label>
+            <WMH_Golem.tools.1.label>punho direito</WMH_Golem.tools.1.label>
+            <WMH_Golem.tools.2.label>cabeça</WMH_Golem.tools.2.label>
+
+        <!-- Hym -->
+            <WMH_Hym.label>hym</WMH_Hym.label>
+            <WMH_Hym.description>Hyms evitam cravar suas garras em suas vítimas. Em vez disso, esgotam sua força diretamente, infligindo sofrimento. Falando em voz que apenas a vítima ouve, Hyms levam-a a cometer atos de violência, agressão e automutilação. Aqueles atormentados por um Hym são incapazes de um sono reparador semanas depois que o Hym se foi.</WMH_Hym.description>
+            <WMH_Hym.tools.0.label>garras esquerdas</WMH_Hym.tools.0.label>
+            <WMH_Hym.tools.1.label>garras direitas</WMH_Hym.tools.1.label>
+            <WMH_Hym.tools.2.label>cabeça</WMH_Hym.tools.2.label>
+
+        <!-- Kikimore -->
+            <WMAux_KikimoreWorker.label>kikimora trabalhadora</WMAux_KikimoreWorker.label>
+            <WMAux_KikimoreWorker.description>As kikimoras formam colônias, tornando-as semelhantes aos insetos comuns, como as megaranhas. As kikimoras trabalhadoras cuidam da caça e da comida.</WMAux_KikimoreWorker.description>
+            <WMAux_KikimoreWorker.tools.0.label>mandíbulas</WMAux_KikimoreWorker.tools.0.label>
+            <WMAux_KikimoreWorker.tools.1.label>cabeça</WMAux_KikimoreWorker.tools.1.label>
+            <WMAux_KikimoreWarrior.label>kikimora guerreira</WMAux_KikimoreWarrior.label>
+            <WMAux_KikimoreWarrior.description>As kikimoras formam colônias, tornando-as semelhantes aos insetos comuns, como as megaranhas. As kikimoras guerreiras defendem seus ninhos dos invasores. Elas atacam um pouco mais lentamente do que as kikimoras trabalhadoras, mas sua mordida injeta um veneno potente.</WMAux_KikimoreWarrior.description>
+            <WMAux_KikimoreWarrior.tools.0.label>mandíbulas</WMAux_KikimoreWarrior.tools.0.label>
+            <WMAux_KikimoreWarrior.tools.1.label>cabeça</WMAux_KikimoreWarrior.tools.1.label>
+            <WMH_KikimoreQueen.label>rainha kikimora</WMH_KikimoreQueen.label>
+            <WMH_KikimoreQueen.description>As kikimoras formam colônias, tornando-as semelhantes aos insetos comuns, como as megaranhas. Uma colônia kikimora é governada por uma rainha e organizada em uma espécie de hierarquia social. A mordida da Rainha injeta um veneno paralisante, enquanto sua armadura de quitina a torna quase imune a ataques.</WMH_KikimoreQueen.description>
+            <WMH_KikimoreQueen.tools.0.label>mandíbulas</WMH_KikimoreQueen.tools.0.label>
+            <WMH_KikimoreQueen.tools.1.label>cabeça</WMH_KikimoreQueen.tools.1.label>
+
+        <!-- Leshy -->
+            <WMH_Leshy.label>liche</WMH_Leshy.label>
+            <WMH_Leshy.description>Liche, sendo chamado de criação fracassada de Archotech, usa sua habilidade psíquica inata para controlar as plantas e animais dentro de seu território. Quando um invasor é encontrado, pode convocar matilhas de animais caçadores de humanos. Sempre ficando longe do inimigo, ele pode lançar projéteis de pura energia psíquica.</WMH_Leshy.description>
+            <WMH_Leshy.tools.0.label>chifre</WMH_Leshy.tools.0.label>
+            <WMH_Leshy.tools.1.label>chifre</WMH_Leshy.tools.1.label>
+            <WMH_Leshy.tools.2.label>garra esquerda</WMH_Leshy.tools.2.label>
+            <WMH_Leshy.tools.3.label>garra direita</WMH_Leshy.tools.3.label>
+            <WMH_Leshy.tools.4.label>cabeça</WMH_Leshy.tools.4.label>
+            <WMH_Leshy.verbs.0.label>fúria da natureza</WMH_Leshy.verbs.0.label>
+
+        <!-- Nekker -->
+            <WMH_Nekker.label>nekker</WMH_Nekker.label>
+            <WMH_Nekker.description>Um nekker solitário é inofensivo. Cinco são perigosos. Dez podem matar até mesmo um veterano das guerras mecanoides. Os Nekkers sempre atacam em grupos e de surpresa. Nekkers são covardes, o que significa que tentarão correr se enfrentarem um grande perigo.</WMH_Nekker.description>
+            <WMH_Nekker.tools.0.label>punho esquerdo</WMH_Nekker.tools.0.label>
+            <WMH_Nekker.tools.1.label>punho direito</WMH_Nekker.tools.1.label>
+            <WMH_Nekker.tools.3.label>cabeça</WMH_Nekker.tools.3.label>
+
+        <!-- Werewolf -->
+            <WMH_Werewolf.label>lobisomem</WMH_Werewolf.label>
+            <WMH_Werewolf.description>Nem animal, nem homem, o Lobisomem tira o pior de ambas as espécies: a sede de sangue e a natureza primitiva de um lobo da madeira, e a crueldade e crueldade de um humano. Temidos pelos anciãos tribais, os lobisomens são quase impossíveis de matar devido à rápida regeneração de feridas.</WMH_Werewolf.description>
+            <WMH_Werewolf.tools.0.label>garras esquerdas</WMH_Werewolf.tools.0.label>
+            <WMH_Werewolf.tools.1.label>garras direitas</WMH_Werewolf.tools.1.label>
+            <WMH_Werewolf.tools.3.label>cabeça</WMH_Werewolf.tools.3.label>
+
+        <!-- Wraith -->
+            <WMH_Wraith.label>aparição</WMH_Wraith.label>
+            <WMH_Wraith.description>Aparições sofrem uma dor infinita e indescritível. Cheios de raiva e uma sensação de terem sido injustiçados, ambos invejam os vivos e transbordam de um ódio avassalador por eles. Seus fortes ataques de garras podem derrubar até mesmo o mais resistente dos cavaleiros.</WMH_Wraith.description>
+            <WMH_Wraith.tools.0.label>garras esquerdas</WMH_Wraith.tools.0.label>
+            <WMH_Wraith.tools.1.label>garras direitas</WMH_Wraith.tools.1.label>
+            <WMH_Wraith.tools.2.label>cabeça</WMH_Wraith.tools.2.label>
+
+        <!-- Wyvern -->
+            <WMH_Wyvern.label>wyvern</WMH_Wyvern.label>
+            <WMH_Wyvern.description>Wyverns são frequentemente confundidos com dragões e, embora sejam muito menores do que seus parentes mais famosos e não respirem fogo, eles são monstros extremamente perigosos. Antes de atacar, os wyverns tendem a cuspir ácido em seus inimigos.</WMH_Wyvern.description>
+            <WMH_Wyvern.tools.0.label>garra esquerda</WMH_Wyvern.tools.0.label>
+            <WMH_Wyvern.tools.1.label>garra direita</WMH_Wyvern.tools.1.label>
+            <WMH_Wyvern.tools.3.label>cauda</WMH_Wyvern.tools.3.label>
+            <WMH_Wyvern.verbs.0.label>cuspe ácido de wyvern</WMH_Wyvern.verbs.0.label>
+
     <!-- Vanilla Animals Expanded - Arid Shrubland -->
         <!-- Coyote -->
             <AEXP_Coyote.label>coiote</AEXP_Coyote.label>

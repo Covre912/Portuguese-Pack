@@ -3,8 +3,391 @@
 
     <!-- RimCities - Citadel Update -->
         <!-- City -->
-            <CityQuest.questNameRules.rulesStrings.0>questName->Missão da Cidade</CityQuest.questNameRules.rulesStrings.0>
-            <CityQuest.questDescriptionRules.rulesStrings.0>questDescription-></CityQuest.questDescriptionRules.rulesStrings.0>
+            <CityQuest.questNameRules.rulesStrings>
+                <li>questName->Missão da Cidade</li>
+            </CityQuest.questNameRules.rulesStrings>
+            <CityQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription-></li>
+            </CityQuest.questDescriptionRules.rulesStrings>
+
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Basilisk -->
+            <WMH_Basilisk_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Basilisk_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Basilisk_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], relatou que caravanas desaparaceram viajando pela área. Testemunhas delcaram que a área é um campo de caça de Basilisco.\n\nAo contrário da crença popular, os basiliscos não podem transformar nada em pedra com o olhar, no entanto, seu ácido, veneno, garras e dentes fornecem a eles muitas outras maneiras de matar. Várias universidades do mundo brilhante proclamam que o veneno de um Basilisco é o mais potente em todo o mundo.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Draconídeo\n\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Basilisk_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Basilisk_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Basilisk_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Basilisk_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Basilisk_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Basilisk_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Basilisk_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Basilisk_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Basilisk_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Basilisk_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Basilisk_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Basilisk_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Basilisk_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+
+        <!-- Bearofleet -->
+            <WMH_Bearofleet_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Bearofleet_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Bearofleet_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], fez um contrato por um Urso-vivo - uma monstruosidade insana que devora tudo em sua área. A única prova de sua existência são várias vítimas que conseguiram escapar com vida, apenas para morrer semanas depois devido à sua psicose glutona.\n\nUrsos-vivos são monstruosidades genéticas criadas pela arrogância do homem. Eles foram criados por meio de processamento genético avançado e liberados na natureza, onde seu apetite voraz provou ser um verdadeiro desafio para pequenos assentamentos. A simples presença deles instila uma fome sobrenatural em quem testemunha sua barriga inchada.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Relicto\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Bearofleet_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Bearofleet_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Bearofleet_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Bearofleet_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Bearofleet_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Bearofleet_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Bearofleet_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Bearofleet_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Bearofleet_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Bearofleet_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Bearofleet_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Bearofleet_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Bearofleet_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+
+        <!-- Chort -->
+            <WMH_Chort_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Chort_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Chort_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], está lutando com um Chorabashe - uma criatura que destrói postos avançados, devorando qualquer coisa, incluindo arroz, se estiver disponível, mas também estendendo-se a aves, porcos, o cachorros de família e então a própria família.\n\nChorabashes são parentes um pouco menores dos demônios. Eles lutam com pouca sutileza, correndo na direção do oponente e tentando derrubá-lo com a força de seu ataque. Se cercados por inimigos, os Chorabashes costumam usar seu terceiro olho para lançar um inimigo em uma fúria furiosa, fazendo-o virar-se contra seus aliados.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Relicto\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Chort_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Chort_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Chort_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Chort_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Chort_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Chort_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Chort_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Chort_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Chort_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Chort_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Chort_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Chort_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Chort_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+
+        <!-- Cyclops -->
+            <WMH_Cyclops_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Cyclops_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Cyclops_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], foi atacado por um Ciclope, deixando um rastro de cadáveres mutilados e esmagados e animais comidos pela metade.\n\nOs ciclopes podem ser facilmente reconhecidos por um único olho localizado no centro de suas testas. Se por algum motivo isso não for visível, outros sinais reveladores são seu enorme tamanho e incrível força. Eles costumam ser vistos jogando pedras pesadas em seus inimigos.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Ogróide\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Cyclops_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Cyclops_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Cyclops_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Cyclops_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Cyclops_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Cyclops_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Cyclops_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Cyclops_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Cyclops_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Cyclops_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Cyclops_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Cyclops_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Cyclops_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+
+        <!-- Djinn -->
+            <WMH_Djinn_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Djinn_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Djinn_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], tentou capturar e usar o poder de um Djinn, um poderoso elemental do ar. Agora, tudo o que resta deste assentamento é uma pilha de entulho e cadáveres. As pessoas firmaram um contrato para caçar o monstro.\n\nUm djinn é um poderoso espírito do ar, uma condensação do poder daquele elemento dotado de consciência e caráter - o último geralmente desagradável. De acordo com os pesquisadores, um Djinn pode atacar com um fluxo contínuo de energia, capaz de derrubar naves ultratecnológicas com facilidade.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Elemental\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Djinn_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Djinn_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Djinn_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Djinn_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Djinn_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Djinn_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Djinn_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Djinn_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Djinn_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Djinn_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Djinn_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Djinn_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Djinn_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+
+        <!-- Ekimmara -->
+            <WMH_Ekimmara_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Ekimmara_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Ekimmara_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], relatou várias vítimas rasgadas em pedaços com marcas semelhantes a mordidas - não em seus pescoços, mas em todo o corpo. Claramente um trabalho de um Ekimmus.\n\nEkimmus não são, apesar do que as fofocas possam dizer, vampiros inteligentes. Em vez disso, eles são viajantes infectados presos em corpos monstruosos, que não têm nenhum sentimento particular sobre alho, água benta ou símbolos religiosos.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Amaldiçoado\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Ekimmara_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Ekimmara_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Ekimmara_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Ekimmara_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Ekimmara_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Ekimmara_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Ekimmara_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Ekimmara_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Ekimmara_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Ekimmara_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Ekimmara_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Ekimmara_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Ekimmara_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+
+        <!-- Fiend -->
+            <WMH_Fiend_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Fiend_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Fiend_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], foi atacado por um Demônio, uma montanha de músculos e raiva. Eles geralmente evitam o contato humano, mas quando estão com fome ou em perigo, matam sem dificuldade.\n\nO demônio é uma montanha ambulante de músculos com cabeça cheia de chifres e dentes. Seu enorme tamanho e força permitem que ele assuma um grupo de invasores inteiro, enquanto o terceiro olho localizado no centro de sua testa é usado para levar sua presa a um estado de hipnose.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Relicto\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Fiend_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Fiend_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Fiend_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Fiend_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Fiend_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Fiend_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Fiend_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Fiend_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Fiend_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Fiend_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Fiend_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Fiend_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Fiend_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+
+        <!-- Fleder -->
+            <WMH_Fleder_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Fleder_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Fleder_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], foi atacado por um Demônio, uma montanha de músculos e raiva. Eles geralmente evitam o contato humano, mas quando estão com fome ou em perigo, matam sem dificuldade.\n\nO demônio é uma montanha ambulante de músculos com cabeça cheia de chifres e dentes. Seu enorme tamanho e força permitem que ele assuma um grupo de invasores inteiro, enquanto o terceiro olho localizado no centro de sua testa é usado para levar sua presa a um estado de hipnose.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Relicto\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Fleder_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Fleder_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Fleder_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Fleder_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Fleder_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Fleder_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Fleder_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Fleder_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Fleder_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Fleder_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Fleder_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Fleder_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Fleder_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+
+        <!-- Fogler -->
+            <WMH_Fleder_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Fleder_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Fleder_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], perdeu vários grupos de caça em uma densa névoa que cerca a área local. Todas as pistas apontam para uma família de Nevolosos.\n\nNevolosos têm braços e garras poderosos como megaranhas geneticamente modificadas, mas o que os torna verdadeiramente perigosos é seu domínio do engano, da ilusão e da desorientação. Quando em perigo, um nevoloso libera uma densa nuvem de fumaça, tornando todos os ataques à distância inúteis.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Necrófago\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Fleder_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Fleder_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Fleder_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Fleder_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Fleder_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Fleder_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Fleder_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Fleder_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Fleder_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Fleder_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Fleder_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Fleder_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Fleder_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+
+        <!-- Ghoul -->
+            <WMH_Ghoul_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Ghoul_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Ghoul_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], elatou um grupo de Ghouls comedores de carne, comendo qualquer coisa que se assemelhe mesmo remotamente à carne humana.\n\nGhouls são difíceis de descrever. Em parte, eles se assemelham a humanos - mas, no geral, são a negação total de tudo o que é humano. Eles são movidos por uma coisa e apenas uma coisa: um desejo insaciável por carne humana. Sua aparência repulsiva faz as pessoas vomitarem ao vê-los.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Necrófago\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Ghoul_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Ghoul_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Ghoul_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Ghoul_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Ghoul_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Ghoul_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Ghoul_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Ghoul_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Ghoul_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Ghoul_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Ghoul_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Ghoul_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Ghoul_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+
+        <!-- Golem -->
+            <WMH_Golem_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Golem_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Golem_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], perdeu seu grupo de ataque para uma grande monstruosidade feita de pedra, quase indestrutível com armas convencionais. Um contrato de caça a um Golem foi dado a você.\n\nGolens são matéria irracional trazida à vida por anomalias psíquicas. Golens não usam armas, pois eles não precisam - seus punhos, pesando mais de 45 quilos cada, podem esmagar granito sólido com um golpe. Sua armadura de rocha sólida pode desviar quase todos os ataques.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Elemental\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Golem_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Golem_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Golem_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Golem_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Golem_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Golem_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Golem_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Golem_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Golem_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Golem_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Golem_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Golem_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Golem_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+
+        <!-- Hym -->
+            <WMH_Hym_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Hym_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Hym_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], passou por sua terceira eleição nas últimas duas semanas, com todos os líderes anteriores cometendo suicídio. Um contrato foi firmado para cuidar de um Hym que atormenta essas pessoas.\n\nHyms evitam cravar suas garras em suas vítimas. Em vez disso, esgotam sua força diretamente, infligindo sofrimento. Falando em voz que apenas a vítima ouve, Hyms levam-a a cometer atos de violência, agressão e automutilação. Aqueles atormentados por um Hym são incapazes de um sono reparador semanas depois que o Hym se foi.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Espectro\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Hym_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Hym_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Hym_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Hym_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Hym_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Hym_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Hym_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Hym_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Hym_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Hym_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Hym_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Hym_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Hym_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+
+        <!-- Kikimore -->
+            <WMH_Kikimore_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Kikimore_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Kikimore_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], não é capaz de enviar caravanas ou grupos de caça devido a um grande ninho de Kikimoras nas proximidades.\n\nAs kikimoras formam colônias, tornando-as semelhantes aos insetos comuns, como as megaranhas. Uma colônia kikimora é governada por uma rainha e organizada em uma espécie de hierarquia social. A mordida da Rainha injeta um veneno paralisante, enquanto sua armadura de quitina a torna quase imune a ataques.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Insectoide\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Kikimore_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Kikimore_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Kikimore_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Kikimore_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Kikimore_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Kikimore_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Kikimore_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Kikimore_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Kikimore_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Kikimore_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Kikimore_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Kikimore_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Kikimore_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+
+        <!-- Leshy -->
+            <WMH_Leshy_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Leshy_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Leshy_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], encontrou vários cadáveres mutilados, emaranhados nas raízes e galhos de árvores e arbustos. Todos os sinais apontam para um Liche, um deus da floresta.\n\nLiche, sendo chamado de criação fracassada de Archotech, usa sua habilidade psíquica inata para controlar as plantas e animais dentro de seu território. Quando um invasor é encontrado, pode convocar matilhas de animais caçadores de humanos. Sempre ficando longe do inimigo, ele pode lançar projéteis de pura energia psíquica.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Relicto\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Leshy_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Leshy_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Leshy_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Leshy_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Leshy_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Leshy_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Leshy_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Leshy_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Leshy_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Leshy_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Leshy_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Leshy_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Leshy_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+
+        <!-- Nekker -->
+            <WMH_Nekker_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Nekker_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Nekker_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], está relatando caravanas desaparecidas e gado abatido. Todas as pistas apontam para um ninho de Nekkers.\n\nUm nekker solitário é inofensivo. Cinco são perigosos. Dez podem matar até mesmo um veterano das guerras mecanoides. Os Nekkers sempre atacam em grupos e de surpresa. Nekkers são covardes, o que significa que tentarão correr se enfrentarem um grande perigo.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Ogróide\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Nekker_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Nekker_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Nekker_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Nekker_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Nekker_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Nekker_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Nekker_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Nekker_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Nekker_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Nekker_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Nekker_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Nekker_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Nekker_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+
+        <!-- Werewolf -->
+            <WMH_Werewolf_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Werewolf_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Werewolf_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], assinou um contrato para a caça de uma pequena matilha de lobisomens que perseguiam fazendeiros e viajantes pobres o suficiente na área local.\n\nNem animal, nem homem, o Lobisomem tira o pior de ambas as espécies: a sede de sangue e a natureza primitiva de um lobo da madeira, e a crueldade e crueldade de um humano. Temidos pelos anciãos tribais, os lobisomens são quase impossíveis de matar devido à rápida regeneração de feridas.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Amaldiçoado\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Werewolf_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Werewolf_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Werewolf_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Werewolf_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Werewolf_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Werewolf_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Werewolf_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Werewolf_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Werewolf_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Werewolf_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Werewolf_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Werewolf_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Werewolf_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+
+        <!-- Wraith -->
+            <WMH_Wraith_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Wraith_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Wraith_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], recentemente restringiu a entrada em suas valas comuns devido a luzes bizarras e gritos de tormento. Todas as pistas apontam para um grupo de Aparições.\n\nAparições sofrem uma dor infinita e indescritível. Cheios de raiva e uma sensação de terem sido injustiçados, ambos invejam os vivos e transbordam de um ódio avassalador por eles. Seus fortes ataques de garras podem derrubar até mesmo o mais resistente dos cavaleiros.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Espectro\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Wraith_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Wraith_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Wraith_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Wraith_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Wraith_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Wraith_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Wraith_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Wraith_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Wraith_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Wraith_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Wraith_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Wraith_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Wraith_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+
+        <!-- Wyvern -->
+            <WMH_Wyvern_MonsterEncounterQuest.questNameRules.rulesStrings>
+                <li>questName->[contract] de [monster] de [asker_nameDef]</li>
+                <li>monster->caça</li>
+                <li>monster->caça ao monstro</li>
+                <li>monster->caça à besta</li>
+                <li>contract->contrato</li>
+                <li>contract->missão</li>
+                <li>contract->cometimento</li>
+                <li>contract->tarefa</li>
+            </WMH_Wyvern_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Wyvern_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], está perdendo gado diariamente devido ao predador de mundos - um Wyvern.\n\nWyverns são frequentemente confundidos com dragões e, embora sejam muito menores do que seus parentes mais famosos e não respirem fogo, eles são monstros extremamente perigosos. Antes de atacar, os wyverns tendem a cuspir ácido em seus inimigos.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Draconídeo\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
+            </WMH_Wyvern_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Wyvern_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Wyvern_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Wyvern_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Wyvern_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Wyvern_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Wyvern_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Wyvern_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Wyvern_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Wyvern_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Wyvern_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Wyvern_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Wyvern_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Abandoned Factory -->

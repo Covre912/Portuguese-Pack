@@ -11,6 +11,13 @@
             <RttR_SecondTailAttackTool.label>cauda</RttR_SecondTailAttackTool.label>
             <RttR_ThirdTailAttackTool.label>cauda</RttR_ThirdTailAttackTool.label>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Pseudopods -->
+            <WMH_Pseudopods.label>pseudópodes</WMH_Pseudopods.label>
+
+        <!-- Tail -->
+            <WMH_TailAttackTool.label>cauda</WMH_TailAttackTool.label>
+
     <!-- Vanilla Animals Expanded - Australia -->
         <!-- Rear Left Claws -->
             <AEXP_RearLeftClaws.label>garra esquerda</AEXP_RearLeftClaws.label>

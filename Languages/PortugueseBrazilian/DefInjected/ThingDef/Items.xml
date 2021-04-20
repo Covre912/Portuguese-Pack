@@ -419,6 +419,19 @@
 			<RttR_PatchedDragonScales.label>escamas misturadas</RttR_PatchedDragonScales.label>
 			<RttR_PatchedDragonScales.description>Um tecido de escama fraco criado cortando e costurando vários tipos de escamas de dragão.</RttR_PatchedDragonScales.description>
 
+	<!-- RimWorld - Witcher Monster Hunt -->
+		<!-- Rage of Nature Implant -->
+			<WMH_RageOfNatureImplant.label>implante de fúria da natureza</WMH_RageOfNatureImplant.label>
+			<WMH_RageOfNatureImplant.description>Um implante de fúria da natureza. Este implante permitirá que esta criatura use um ataque venenoso muito perigoso que causará acúmulo tóxico.</WMH_RageOfNatureImplant.description>
+
+		<!-- Wyvern Acid Spitter Implant -->
+			<WMH_WyvernAcidSpitterImplant.label>implante de cuspe ácido</WMH_WyvernAcidSpitterImplant.label>
+			<WMH_WyvernAcidSpitterImplant.description>Um implante de cuspe ácido. Este implante permitirá que esta criatura use um ataque de cuspe ácido de longo alcance muito potente que causa danos ao longo do tempo.</WMH_WyvernAcidSpitterImplant.description>
+
+		<!-- Djinn Fire Implant -->
+			<WMH_DjinnFireImplant.label>implante de chamas</WMH_DjinnFireImplant.label>
+			<WMH_DjinnFireImplant.description>Um implante de chamas. Este implante permitirá que esta criatura use um ataque de fogo muito perigoso que colocará inimigos em chamas.</WMH_DjinnFireImplant.description>
+
 	<!-- Sauced Meals -->
 		<!-- Sauced Meal Simple -->
 			<SM_SaucedMealSimple.label>refeição simples temperada</SM_SaucedMealSimple.label>

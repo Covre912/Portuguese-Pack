@@ -15,6 +15,10 @@
 		<!-- Scalding Residue -->
   			<RttR_Filth_ScaldingFoam.label>resíduo escaldante</RttR_Filth_ScaldingFoam.label>
 
+	<!-- RimWorld - Witcher Monster Hunt -->
+		<!-- Rocks -->
+			<WMH_Filth_Rocks.label>rochas</WMH_Filth_Rocks.label>
+
     <!-- Zombieland -->
 		<!-- Sticky Goo -->
 			<StickyGoo.label>gosma de zumbi tóxica pegajosa</StickyGoo.label>

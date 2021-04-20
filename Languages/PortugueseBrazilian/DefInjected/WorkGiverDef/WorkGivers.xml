@@ -52,6 +52,12 @@
             <VMEu_DoBillsAdvancedSmelter.verb>ligar</VMEu_DoBillsAdvancedSmelter.verb>
             <VMEu_DoBillsAdvancedSmelter.gerund>ligando em</VMEu_DoBillsAdvancedSmelter.gerund>
 
+    <!-- RimWorld - Wicther Monster Hunt -->
+        <!-- Advanced Animals Implants -->
+            <VEF_DoBillsAdvancedAnimalImplantsTable.label>fazer implantes veterinários avançados</VEF_DoBillsAdvancedAnimalImplantsTable.label>
+            <VEF_DoBillsAdvancedAnimalImplantsTable.verb>fazer implantes veterinários avançados</VEF_DoBillsAdvancedAnimalImplantsTable.verb>
+            <VEF_DoBillsAdvancedAnimalImplantsTable.gerund>fazendo implantes veterinários avançados em</VEF_DoBillsAdvancedAnimalImplantsTable.gerund>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Take Wine -->
             <VFEM_TakeBeerOutOfWineBarrel.label>retirar vinho dos barris</VFEM_TakeBeerOutOfWineBarrel.label>

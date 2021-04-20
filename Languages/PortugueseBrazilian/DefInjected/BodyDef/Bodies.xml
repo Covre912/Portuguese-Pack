@@ -72,6 +72,177 @@
             <RttR_QuadWingedQuadrupedAnimalWithPawsAndTail.corePart.parts.16.parts.0.customLabel>pata traseira esquerda</RttR_QuadWingedQuadrupedAnimalWithPawsAndTail.corePart.parts.16.parts.0.customLabel>
             <RttR_QuadWingedQuadrupedAnimalWithPawsAndTail.corePart.parts.17.customLabel>perna traseira direita</RttR_QuadWingedQuadrupedAnimalWithPawsAndTail.corePart.parts.17.customLabel>
             <RttR_QuadWingedQuadrupedAnimalWithPawsAndTail.corePart.parts.17.parts.0.customLabel>pata traseira direita</RttR_QuadWingedQuadrupedAnimalWithPawsAndTail.corePart.parts.17.parts.0.customLabel>
+    
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Jellyfish -->
+            <WMH_JellyfishBody.label>água-viva</WMH_JellyfishBody.label>
+            <WMH_JellyfishBody.corePart.parts.0.customLabel>bolsa estomacal</WMH_JellyfishBody.corePart.parts.0.customLabel>
+            <WMH_JellyfishBody.corePart.parts.1.customLabel>cavidade gastrovascular</WMH_JellyfishBody.corePart.parts.1.customLabel>
+            <WMH_JellyfishBody.corePart.parts.2.customLabel>saco de hidrogênio esquerdo</WMH_JellyfishBody.corePart.parts.2.customLabel>
+            <WMH_JellyfishBody.corePart.parts.3.customLabel>saco de hidrogênio direito</WMH_JellyfishBody.corePart.parts.3.customLabel>
+            <WMH_JellyfishBody.corePart.parts.4.customLabel>ponto do olho esquerdo</WMH_JellyfishBody.corePart.parts.4.customLabel>
+            <WMH_JellyfishBody.corePart.parts.5.customLabel>ponto do olho direito</WMH_JellyfishBody.corePart.parts.5.customLabel>
+            <WMH_JellyfishBody.corePart.parts.7.customLabel>primeiro tentáculo</WMH_JellyfishBody.corePart.parts.7.customLabel>
+            <WMH_JellyfishBody.corePart.parts.8.customLabel>segundo tentáculo</WMH_JellyfishBody.corePart.parts.8.customLabel>
+            <WMH_JellyfishBody.corePart.parts.9.customLabel>terceiro tentáculo</WMH_JellyfishBody.corePart.parts.9.customLabel>
+
+        <!-- Wisp -->
+            <WMH_Wisp.label>espírito</WMH_Wisp.label>
+
+        <!-- Horned Humanoid -->
+            <WMH_HornedHumanoid.label>humanóide com chifres</WMH_HornedHumanoid.label>
+            <WMH_HornedHumanoid.corePart.parts.4.parts.0.parts.1.customLabel>olho esquerdo</WMH_HornedHumanoid.corePart.parts.4.parts.0.parts.1.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.4.parts.0.parts.2.customLabel>olho direito</WMH_HornedHumanoid.corePart.parts.4.parts.0.parts.2.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.4.parts.0.parts.3.customLabel>chifre esquerdo</WMH_HornedHumanoid.corePart.parts.4.parts.0.parts.3.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.4.parts.0.parts.4.customLabel>chifre direito</WMH_HornedHumanoid.corePart.parts.4.parts.0.parts.4.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.5.customLabel>ombro esquerdo</WMH_HornedHumanoid.corePart.parts.5.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.5.parts.0.customLabel>clavícula esquerda</WMH_HornedHumanoid.corePart.parts.5.parts.0.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.5.parts.1.customLabel>braço esquerdo</WMH_HornedHumanoid.corePart.parts.5.parts.1.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.5.parts.1.parts.0.customLabel>úmero esquerdo</WMH_HornedHumanoid.corePart.parts.5.parts.1.parts.0.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.5.parts.1.parts.1.customLabel>rádio esquerdo</WMH_HornedHumanoid.corePart.parts.5.parts.1.parts.1.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.5.parts.1.parts.2.customLabel>mão esquerda</WMH_HornedHumanoid.corePart.parts.5.parts.1.parts.2.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.5.parts.1.parts.2.parts.0.customLabel>mindinho esquerdo</WMH_HornedHumanoid.corePart.parts.5.parts.1.parts.2.parts.0.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.5.parts.1.parts.2.parts.1.customLabel>dedo anelar esquerdo</WMH_HornedHumanoid.corePart.parts.5.parts.1.parts.2.parts.1.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.5.parts.1.parts.2.parts.2.customLabel>dedo médio esquerdo</WMH_HornedHumanoid.corePart.parts.5.parts.1.parts.2.parts.2.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.5.parts.1.parts.2.parts.3.customLabel>dedo indicador esquerdo</WMH_HornedHumanoid.corePart.parts.5.parts.1.parts.2.parts.3.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.5.parts.1.parts.2.parts.4.customLabel>polegar esquerdo</WMH_HornedHumanoid.corePart.parts.5.parts.1.parts.2.parts.4.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.6.customLabel>ombro direito</WMH_HornedHumanoid.corePart.parts.6.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.6.parts.0.customLabel>clavícula direita</WMH_HornedHumanoid.corePart.parts.6.parts.0.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.6.parts.1.customLabel>braço direito</WMH_HornedHumanoid.corePart.parts.6.parts.1.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.6.parts.1.parts.0.customLabel>úmero direito</WMH_HornedHumanoid.corePart.parts.6.parts.1.parts.0.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.6.parts.1.parts.1.customLabel>rádio direito</WMH_HornedHumanoid.corePart.parts.6.parts.1.parts.1.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.6.parts.1.parts.2.customLabel>mão direita</WMH_HornedHumanoid.corePart.parts.6.parts.1.parts.2.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.6.parts.1.parts.2.parts.0.customLabel>mindinho direito</WMH_HornedHumanoid.corePart.parts.6.parts.1.parts.2.parts.0.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.6.parts.1.parts.2.parts.1.customLabel>dedo anelar direito</WMH_HornedHumanoid.corePart.parts.6.parts.1.parts.2.parts.1.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.6.parts.1.parts.2.parts.2.customLabel>dedo médio direito</WMH_HornedHumanoid.corePart.parts.6.parts.1.parts.2.parts.2.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.6.parts.1.parts.2.parts.3.customLabel>dedo indicador direito</WMH_HornedHumanoid.corePart.parts.6.parts.1.parts.2.parts.3.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.6.parts.1.parts.2.parts.4.customLabel>polegar direito</WMH_HornedHumanoid.corePart.parts.6.parts.1.parts.2.parts.4.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.8.customLabel>perna esquerda</WMH_HornedHumanoid.corePart.parts.8.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.8.parts.0.customLabel>fêmur esquerdo</WMH_HornedHumanoid.corePart.parts.8.parts.0.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.8.parts.1.customLabel>tíbia esquerda</WMH_HornedHumanoid.corePart.parts.8.parts.1.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.8.parts.2.customLabel>pé esquerdo</WMH_HornedHumanoid.corePart.parts.8.parts.2.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.8.parts.2.parts.0.customLabel>dedinho do pé esquerdo</WMH_HornedHumanoid.corePart.parts.8.parts.2.parts.0.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.8.parts.2.parts.1.customLabel>quarto dedo do pé esquerdo</WMH_HornedHumanoid.corePart.parts.8.parts.2.parts.1.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.8.parts.2.parts.2.customLabel>dedo médio do pé esquerdo</WMH_HornedHumanoid.corePart.parts.8.parts.2.parts.2.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.8.parts.2.parts.3.customLabel>segundo dedo do pé esquerdo</WMH_HornedHumanoid.corePart.parts.8.parts.2.parts.3.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.8.parts.2.parts.4.customLabel>dedão do pé esquerdo</WMH_HornedHumanoid.corePart.parts.8.parts.2.parts.4.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.9.customLabel>perna direita</WMH_HornedHumanoid.corePart.parts.9.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.9.parts.0.customLabel>fêmur direito</WMH_HornedHumanoid.corePart.parts.9.parts.0.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.9.parts.1.customLabel>tíbia direita</WMH_HornedHumanoid.corePart.parts.9.parts.1.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.9.parts.2.customLabel>pé direito</WMH_HornedHumanoid.corePart.parts.9.parts.2.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.9.parts.2.parts.0.customLabel>dedinho do pé direito</WMH_HornedHumanoid.corePart.parts.9.parts.2.parts.0.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.9.parts.2.parts.1.customLabel>quarto dedo do pé direito</WMH_HornedHumanoid.corePart.parts.9.parts.2.parts.1.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.9.parts.2.parts.2.customLabel>dedo médio do pé direito</WMH_HornedHumanoid.corePart.parts.9.parts.2.parts.2.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.9.parts.2.parts.3.customLabel>segundo dedo do pé direito</WMH_HornedHumanoid.corePart.parts.9.parts.2.parts.3.customLabel>
+            <WMH_HornedHumanoid.corePart.parts.9.parts.2.parts.4.customLabel>dedão do pé direito</WMH_HornedHumanoid.corePart.parts.9.parts.2.parts.4.customLabel>
+
+        <!-- Quadruped Animal With Paws And Horns -->
+            <WMH_QuadrupedWithPawsAndHorns.label>animal quadrúpede com patas e chifres</WMH_QuadrupedWithPawsAndHorns.label>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.3.customLabel>pulmão esquerdo</WMH_QuadrupedWithPawsAndHorns.corePart.parts.3.customLabel>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.4.customLabel>pulmão direito</WMH_QuadrupedWithPawsAndHorns.corePart.parts.4.customLabel>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.5.customLabel>rim esquerdo</WMH_QuadrupedWithPawsAndHorns.corePart.parts.5.customLabel>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.6.customLabel>rim direito</WMH_QuadrupedWithPawsAndHorns.corePart.parts.6.customLabel>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.8.parts.0.parts.1.customLabel>olho esquerdo</WMH_QuadrupedWithPawsAndHorns.corePart.parts.8.parts.0.parts.1.customLabel>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.8.parts.0.parts.2.customLabel>olho direito</WMH_QuadrupedWithPawsAndHorns.corePart.parts.8.parts.0.parts.2.customLabel>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.8.parts.0.parts.3.customLabel>orelha esquerda</WMH_QuadrupedWithPawsAndHorns.corePart.parts.8.parts.0.parts.3.customLabel>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.8.parts.0.parts.4.customLabel>orelha direita</WMH_QuadrupedWithPawsAndHorns.corePart.parts.8.parts.0.parts.4.customLabel>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.8.parts.0.parts.7.customLabel>chifre esquerdo</WMH_QuadrupedWithPawsAndHorns.corePart.parts.8.parts.0.parts.7.customLabel>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.8.parts.0.parts.8.customLabel>chifre direito</WMH_QuadrupedWithPawsAndHorns.corePart.parts.8.parts.0.parts.8.customLabel>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.9.customLabel>braço esquerdo</WMH_QuadrupedWithPawsAndHorns.corePart.parts.9.customLabel>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.9.parts.0.customLabel>pata esquerda</WMH_QuadrupedWithPawsAndHorns.corePart.parts.9.parts.0.customLabel>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.10.customLabel>braço direito</WMH_QuadrupedWithPawsAndHorns.corePart.parts.10.customLabel>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.10.parts.0.customLabel>pata direita</WMH_QuadrupedWithPawsAndHorns.corePart.parts.10.parts.0.customLabel>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.11.customLabel>perna traseira esquerda</WMH_QuadrupedWithPawsAndHorns.corePart.parts.11.customLabel>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.11.parts.0.customLabel>casco traseiro esquerdo</WMH_QuadrupedWithPawsAndHorns.corePart.parts.11.parts.0.customLabel>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.12.customLabel>perna traseira direita</WMH_QuadrupedWithPawsAndHorns.corePart.parts.12.customLabel>
+            <WMH_QuadrupedWithPawsAndHorns.corePart.parts.12.parts.0.customLabel>casco traseiro direito</WMH_QuadrupedWithPawsAndHorns.corePart.parts.12.parts.0.customLabel>
+
+        <!-- Rock Humanoid -->
+            <WMH_RockHumanoid.label>humanóide rochoso</WMH_RockHumanoid.label>
+            <WMH_RockHumanoid.corePart.parts.1.customLabel>braço rochoso esquerdo</WMH_RockHumanoid.corePart.parts.1.customLabel>
+            <WMH_RockHumanoid.corePart.parts.2.customLabel>braço rochoso direito</WMH_RockHumanoid.corePart.parts.2.customLabel>
+            <WMH_RockHumanoid.corePart.parts.3.customLabel>perna rochosa esquerda</WMH_RockHumanoid.corePart.parts.3.customLabel>
+            <WMH_RockHumanoid.corePart.parts.4.customLabel>perna rochosa direita</WMH_RockHumanoid.corePart.parts.4.customLabel>
+
+        <!-- Cyclops -->
+            <WMH_SingleEyedHumanoid.label>ciclope</WMH_SingleEyedHumanoid.label>
+            <WMH_SingleEyedHumanoid.corePart.parts.6.customLabel>pulmão esquerdo</WMH_SingleEyedHumanoid.corePart.parts.6.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.7.customLabel>pulmão direito</WMH_SingleEyedHumanoid.corePart.parts.7.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.8.customLabel>rim esquerdo</WMH_SingleEyedHumanoid.corePart.parts.8.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.9.customLabel>rim direito</WMH_SingleEyedHumanoid.corePart.parts.9.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.11.parts.0.parts.1.customLabel>olho</WMH_SingleEyedHumanoid.corePart.parts.11.parts.0.parts.1.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.11.parts.0.parts.2.customLabel>orelha esquerda</WMH_SingleEyedHumanoid.corePart.parts.11.parts.0.parts.2.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.11.parts.0.parts.3.customLabel>orelha direita</WMH_SingleEyedHumanoid.corePart.parts.11.parts.0.parts.3.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.12.customLabel>ombro esquerdo</WMH_SingleEyedHumanoid.corePart.parts.12.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.12.parts.0.customLabel>clavícula esquerda</WMH_SingleEyedHumanoid.corePart.parts.12.parts.0.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.customLabel>braço esquerdo</WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.parts.0.customLabel>úmero esquerdo</WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.parts.0.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.parts.1.customLabel>rádio esquerdo</WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.parts.1.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.parts.2.customLabel>mão esquerda</WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.parts.2.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>mindinho esquerdo</WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.parts.2.parts.0.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>dedo anelar esquerdo</WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.parts.2.parts.1.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>dedo médio esquerdo</WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.parts.2.parts.2.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>dedo indicador esquerdo</WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.parts.2.parts.3.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>polegar esquerdo</WMH_SingleEyedHumanoid.corePart.parts.12.parts.1.parts.2.parts.4.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.13.customLabel>ombro direito</WMH_SingleEyedHumanoid.corePart.parts.13.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.13.parts.0.customLabel>clavícula direita</WMH_SingleEyedHumanoid.corePart.parts.13.parts.0.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.customLabel>braço direito</WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.parts.0.customLabel>úmero direito</WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.parts.0.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.parts.1.customLabel>rádio direito</WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.parts.1.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.parts.2.customLabel>mão direita</WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.parts.2.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>mindinho direito</WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.parts.2.parts.0.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>dedo anelar direito</WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.parts.2.parts.1.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>dedo médio direito</WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.parts.2.parts.2.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>dedo indicador direito</WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.parts.2.parts.3.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>polegar direito</WMH_SingleEyedHumanoid.corePart.parts.13.parts.1.parts.2.parts.4.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.15.customLabel>perna esquerda</WMH_SingleEyedHumanoid.corePart.parts.15.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.15.parts.0.customLabel>fêmur esquerdo</WMH_SingleEyedHumanoid.corePart.parts.15.parts.0.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.15.parts.1.customLabel>tíbia esquerda</WMH_SingleEyedHumanoid.corePart.parts.15.parts.1.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.15.parts.2.customLabel>pé esquerdo</WMH_SingleEyedHumanoid.corePart.parts.15.parts.2.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.15.parts.2.parts.0.customLabel>dedinho do pé esquerdo</WMH_SingleEyedHumanoid.corePart.parts.15.parts.2.parts.0.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.15.parts.2.parts.1.customLabel>quarto dedo do pé esquerdo</WMH_SingleEyedHumanoid.corePart.parts.15.parts.2.parts.1.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.15.parts.2.parts.2.customLabel>dedo médio do pé esquerdo</WMH_SingleEyedHumanoid.corePart.parts.15.parts.2.parts.2.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.15.parts.2.parts.3.customLabel>segundo dedo do pé esquerdo</WMH_SingleEyedHumanoid.corePart.parts.15.parts.2.parts.3.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.15.parts.2.parts.4.customLabel>dedão esquerdo</WMH_SingleEyedHumanoid.corePart.parts.15.parts.2.parts.4.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.16.customLabel>perna direita</WMH_SingleEyedHumanoid.corePart.parts.16.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.16.parts.0.customLabel>fêmur direito</WMH_SingleEyedHumanoid.corePart.parts.16.parts.0.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.16.parts.1.customLabel>tíbia direita</WMH_SingleEyedHumanoid.corePart.parts.16.parts.1.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.16.parts.2.customLabel>pé direito</WMH_SingleEyedHumanoid.corePart.parts.16.parts.2.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.16.parts.2.parts.0.customLabel>dedinho do pé direito</WMH_SingleEyedHumanoid.corePart.parts.16.parts.2.parts.0.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.16.parts.2.parts.1.customLabel>quarto dedo do pé direito</WMH_SingleEyedHumanoid.corePart.parts.16.parts.2.parts.1.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.16.parts.2.parts.2.customLabel>dedo médio do pé direito</WMH_SingleEyedHumanoid.corePart.parts.16.parts.2.parts.2.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.16.parts.2.parts.3.customLabel>segundo dedo do pé direito</WMH_SingleEyedHumanoid.corePart.parts.16.parts.2.parts.3.customLabel>
+            <WMH_SingleEyedHumanoid.corePart.parts.16.parts.2.parts.4.customLabel>dedão direito</WMH_SingleEyedHumanoid.corePart.parts.16.parts.2.parts.4.customLabel>
+
+        <!-- Winged Bird -->
+            <WMH_Bird.label>pássaro alado</WMH_Bird.label>
+            <WMH_Bird.corePart.parts.4.customLabel>pulmão esquerdo</WMH_Bird.corePart.parts.4.customLabel>
+            <WMH_Bird.corePart.parts.5.customLabel>pulmão direito</WMH_Bird.corePart.parts.5.customLabel>
+            <WMH_Bird.corePart.parts.6.customLabel>rim esquerdo</WMH_Bird.corePart.parts.6.customLabel>
+            <WMH_Bird.corePart.parts.7.customLabel>rim direito</WMH_Bird.corePart.parts.7.customLabel>
+            <WMH_Bird.corePart.parts.9.parts.0.parts.1.customLabel>olho esquerdo</WMH_Bird.corePart.parts.9.parts.0.parts.1.customLabel>
+            <WMH_Bird.corePart.parts.9.parts.0.parts.2.customLabel>olho direito</WMH_Bird.corePart.parts.9.parts.0.parts.2.customLabel>
+            <WMH_Bird.corePart.parts.10.customLabel>asa esquerda</WMH_Bird.corePart.parts.10.customLabel>
+            <WMH_Bird.corePart.parts.11.customLabel>asa direita</WMH_Bird.corePart.parts.11.customLabel>
+            <WMH_Bird.corePart.parts.12.customLabel>perna esquerda</WMH_Bird.corePart.parts.12.customLabel>
+            <WMH_Bird.corePart.parts.12.parts.0.customLabel>pé esquerdo</WMH_Bird.corePart.parts.12.parts.0.customLabel>
+            <WMH_Bird.corePart.parts.13.customLabel>perna direita</WMH_Bird.corePart.parts.13.customLabel>
+            <WMH_Bird.corePart.parts.13.parts.0.customLabel>pé direito</WMH_Bird.corePart.parts.13.parts.0.customLabel>
+
+        <!-- Winged Reptile -->
+            <WMH_Reptile.label>réptil alado</WMH_Reptile.label>
+            <WMH_Reptile.corePart.parts.4.customLabel>pulmão esquerdo</WMH_Reptile.corePart.parts.4.customLabel>
+            <WMH_Reptile.corePart.parts.5.customLabel>pulmão direito</WMH_Reptile.corePart.parts.5.customLabel>
+            <WMH_Reptile.corePart.parts.6.customLabel>rim esquerdo</WMH_Reptile.corePart.parts.6.customLabel>
+            <WMH_Reptile.corePart.parts.7.customLabel>rim direito</WMH_Reptile.corePart.parts.7.customLabel>
+            <WMH_Reptile.corePart.parts.9.parts.0.parts.1.customLabel>olho esquerdo</WMH_Reptile.corePart.parts.9.parts.0.parts.1.customLabel>
+            <WMH_Reptile.corePart.parts.9.parts.0.parts.2.customLabel>olho direito</WMH_Reptile.corePart.parts.9.parts.0.parts.2.customLabel>
+            <WMH_Reptile.corePart.parts.10.customLabel>asa esquerda</WMH_Reptile.corePart.parts.10.customLabel>
+            <WMH_Reptile.corePart.parts.11.customLabel>asa direita</WMH_Reptile.corePart.parts.11.customLabel>
+            <WMH_Reptile.corePart.parts.12.customLabel>perna esquerda</WMH_Reptile.corePart.parts.12.customLabel>
+            <WMH_Reptile.corePart.parts.12.parts.0.customLabel>pé esquerdo</WMH_Reptile.corePart.parts.12.parts.0.customLabel>
+            <WMH_Reptile.corePart.parts.13.customLabel>perna direita</WMH_Reptile.corePart.parts.13.customLabel>
+            <WMH_Reptile.corePart.parts.13.parts.0.customLabel>pé direito</WMH_Reptile.corePart.parts.13.parts.0.customLabel>
 
     <!-- Vanilla Animals Expanded - Australia -->
         <!-- Platypus -->

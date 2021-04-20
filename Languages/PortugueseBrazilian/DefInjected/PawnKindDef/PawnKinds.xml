@@ -142,6 +142,83 @@
             <RttR_Zippleback.lifeStages.2.label>ziperarepiante adolescente</RttR_Zippleback.lifeStages.2.label>
             <RttR_Zippleback.lifeStages.2.labelPlural>ziperarepiantes adolescentes</RttR_Zippleback.lifeStages.2.labelPlural>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Basilisk -->
+            <WMH_Basilisk.label>basilisco</WMH_Basilisk.label>
+            <WMH_Basilisk.labelPlural>basiliscos</WMH_Basilisk.labelPlural>
+
+        <!-- Bearofleet -->
+            <WMH_Bearofleet.label>urso-vivo</WMH_Bearofleet.label>
+            <WMH_Bearofleet.labelPlural>ursos-vivos</WMH_Bearofleet.labelPlural>
+
+        <!-- Chort -->
+            <WMH_Chort.label>chorabashe</WMH_Chort.label>
+            <WMH_Chort.labelPlural>Chorabashes</WMH_Chort.labelPlural>
+
+        <!-- Cyclops -->
+            <WMH_Cyclops.label>ciclope</WMH_Cyclops.label>
+            <WMH_Cyclops.labelPlural>ciclopes</WMH_Cyclops.labelPlural>
+
+        <!-- Djinn -->
+            <WMH_Djinn.label>djinn</WMH_Djinn.label>
+            <WMH_Djinn.labelPlural>djinns</WMH_Djinn.labelPlural>
+
+        <!-- Ekimmara -->
+            <WMH_Ekimmara.label>ekimmus</WMH_Ekimmara.label>
+            <WMH_Ekimmara.labelPlural>ekimmus</WMH_Ekimmara.labelPlural>
+
+        <!-- Fiend -->
+            <WMH_Fiend.label>demônio</WMH_Fiend.label>
+            <WMH_Fiend.labelPlural>demônios</WMH_Fiend.labelPlural>
+
+        <!-- Fleder -->
+            <WMH_Fleder.label>fleder</WMH_Fleder.label>
+            <WMH_Fleder.labelPlural>fleders</WMH_Fleder.labelPlural>
+
+        <!-- Fogler -->
+            <WMH_Fogler.label>nevoloso</WMH_Fogler.label>
+            <WMH_Fogler.labelPlural>nevolosos</WMH_Fogler.labelPlural>
+
+        <!-- Ghoul -->
+            <WMH_Ghoul.label>ghoul</WMH_Ghoul.label>
+            <WMH_Ghoul.labelPlural>ghouls</WMH_Ghoul.labelPlural>
+
+        <!-- Golem -->
+            <WMH_Golem.label>golem</WMH_Golem.label>
+            <WMH_Golem.labelPlural>golens</WMH_Golem.labelPlural>
+
+        <!-- Hym -->
+            <WMH_Hym.label>hym</WMH_Hym.label>
+            <WMH_Hym.labelPlural>hyms</WMH_Hym.labelPlural>
+
+        <!-- Kikimore -->
+            <WMAux_KikimoreWorker.label>kikimora trabalhadora</WMAux_KikimoreWorker.label>
+            <WMAux_KikimoreWorker.labelPlural>kikimoras trabalhadoras</WMAux_KikimoreWorker.labelPlural>
+            <WMAux_KikimoreWarrior.label>kikimora guerreira</WMAux_KikimoreWarrior.label>
+            <WMAux_KikimoreWarrior.labelPlural>kikimoras guerreiras</WMAux_KikimoreWarrior.labelPlural>
+            <WMH_KikimoreQueen.label>rainha kikimora</WMH_KikimoreQueen.label>
+            <WMH_KikimoreQueen.labelPlural>rainhas kikimoras</WMH_KikimoreQueen.labelPlural>
+
+        <!-- Leshy -->
+            <WMH_Leshy.label>liche</WMH_Leshy.label>
+            <WMH_Leshy.labelPlural>liches</WMH_Leshy.labelPlural>
+
+        <!-- Nekker -->
+            <WMH_Nekker.label>nekker</WMH_Nekker.label>
+            <WMH_Nekker.labelPlural>nekkers</WMH_Nekker.labelPlural>
+
+        <!-- Werewolf -->
+            <WMH_Werewolf.label>lobisomem</WMH_Werewolf.label>
+            <WMH_Werewolf.labelPlural>lobisomens</WMH_Werewolf.labelPlural>
+
+        <!-- Wraith -->
+            <WMH_Wraith.label>aparição</WMH_Wraith.label>
+            <WMH_Wraith.labelPlural>aparições</WMH_Wraith.labelPlural>
+
+        <!-- Wyvern -->
+            <WMH_Wyvern.label>wyvern</WMH_Wyvern.label>
+            <WMH_Wyvern.labelPlural>wyverns</WMH_Wyvern.labelPlural>
+        
     <!-- Vanilla Animals Expanded - Arid Shrubland -->
         <!-- Coyote -->
             <AEXP_Coyote.label>coiote</AEXP_Coyote.label>

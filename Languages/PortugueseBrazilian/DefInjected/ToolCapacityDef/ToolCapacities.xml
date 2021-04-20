@@ -13,6 +13,28 @@
             <RttR_Dazing.label>cauda de ataque triplo</RttR_Dazing.label>
             <RttR_Toxic.label>cauda de ataque triplo</RttR_Toxic.label>
 
+    <!-- RimWorld - Witcher Monster Hunter -->
+        <!-- Virulent -->
+            <WMH_VeryToxicBite.label>mordida tóxica virulenta</WMH_VeryToxicBite.label>
+
+        <!-- Infected Claws -->
+            <WMH_InfectedClaws.label>garras infectadas</WMH_InfectedClaws.label>
+
+        <!-- Werewoldf Bite -->
+            <WMH_WerewolfBite.label>mordida de lobisomem</WMH_WerewolfBite.label>
+
+        <!-- Ekimmara Bite -->
+            <WMH_EkimmaraBite.label>mordida de ekimmus</WMH_EkimmaraBite.label>
+
+        <!-- Fleder Bite -->
+            <WMH_FlederBite.label>mordida de fleder</WMH_FlederBite.label>
+
+        <!-- Hym Claws -->
+            <WMH_HymPunch.label>garras de hym</WMH_HymPunch.label>
+
+        <!-- Paralysing Bite -->
+            <WMH_ParalysingBite.label>mordida paralisante</WMH_ParalysingBite.label>
+
     <!-- Zombieland -->
         <!-- Zombie Bite -->
             <ZombieBite.label>mordida</ZombieBite.label>

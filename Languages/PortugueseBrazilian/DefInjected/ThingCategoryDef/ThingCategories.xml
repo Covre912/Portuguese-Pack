@@ -21,6 +21,13 @@
         <!-- Turret Ammunition -->
             <VMEu_AmmunitionCategory.label>munições</VMEu_AmmunitionCategory.label>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Monster Corpses -->
+            <WMH_Flesh.label>cadáveres de monstros</WMH_Flesh.label>
+
+        <!-- Trophies -->
+            <WMH_BuildingsTrophies.label>troféus</WMH_BuildingsTrophies.label>
+
     <!-- Vanilla Expanded Framework -->
         <!-- Shields -->
             <VFEC_Shields.label>escudos</VFEC_Shields.label>

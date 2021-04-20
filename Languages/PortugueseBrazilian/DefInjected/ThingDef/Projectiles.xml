@@ -25,4 +25,17 @@
         <!-- Water Breath -->
             <RttR_WaterBreath.label>water breath</RttR_WaterBreath.label>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Rage of Nature -->
+            <WMH_LeshyWave.label>fúria da natureza</WMH_LeshyWave.label>
+
+        <!-- Wyvern Acid Spit -->
+            <WMH_WyvernAcidSpit.label>cuspe ácido de wyvern</WMH_WyvernAcidSpit.label>
+
+        <!-- Rock -->
+            <WMH_Rock.label>rocha</WMH_Rock.label>
+
+        <!-- Djinn Fire -->
+            <WMH_WispProjectile.label>fogo de djinn</WMH_WispProjectile.label>
+
 </LanguageData>

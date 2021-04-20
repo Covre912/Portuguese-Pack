@@ -5,6 +5,53 @@
         <!-- Wing -->
             <RttR_Wing.label>asa</RttR_Wing.label>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Wing -->
+            <WMH_Wing.label>asa</WMH_Wing.label>
+
+        <!-- Plasma Membrane -->
+            <WMH_PlasmaMembrane.label>membrana plasmática</WMH_PlasmaMembrane.label>
+
+        <!-- Cytoplasm -->
+            <WMH_Cytoplasm.label>citoplasma</WMH_Cytoplasm.label>
+
+        <!-- Echolocation Organs -->
+            <WMH_EcholocationOrgans.label>órgãos de ecolocalização</WMH_EcholocationOrgans.label>
+
+        <!-- Rocky Head -->
+            <WMH_RockHead.label>cabeça rochosa</WMH_RockHead.label>
+
+        <!-- Rocky Leg -->
+            <WMH_RockLeg.label>perna rochosa</WMH_RockLeg.label>
+
+        <!-- Rocky Arm -->
+            <WMH_RockArm.label>braço rochoso</WMH_RockArm.label>
+
+        <!-- Hood -->
+            <WMH_JellyfishMainBody.label>mesogléia</WMH_JellyfishMainBody.label>
+            <AA_JellyfishMainBody.label>mesogléia</AA_JellyfishMainBody.label>
+
+        <!-- Hydrogen Sac -->
+            <WMH_HydrogenSac.label>saco de hidrogênio</WMH_HydrogenSac.label>
+
+        <!-- Tentacle -->
+            <WMH_JellyfishTentacle.label>tentáculo</WMH_JellyfishTentacle.label>
+
+        <!-- Protoplasm -->
+            <AA_Protoplasm.label>protoplasma</AA_Protoplasm.label>
+
+        <!-- Thorax -->
+            <AA_Thorax.label>tórax</AA_Thorax.label>
+
+        <!-- Sentient Plant Body -->
+            <AA_SentientPlantBody.label>corpo de planta senciente</AA_SentientPlantBody.label>
+
+        <!-- Slug Body -->
+            <AA_SlugBody.label>corpo de lesma</AA_SlugBody.label>
+
+        <!-- Sting -->
+            <AA_InsectSting.label>ferrão</AA_InsectSting.label>
+
     <!-- Vanilla Animals Expanded - Ice Sheet -->
         <!-- Fore-Flippers -->     
             <AEXP_ForeFlipper.label>nadadeira</AEXP_ForeFlipper.label>

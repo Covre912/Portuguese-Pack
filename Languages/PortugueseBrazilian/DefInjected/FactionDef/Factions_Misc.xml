@@ -7,6 +7,12 @@
             <AC_EmptySleeves.pawnSingular>corpo</AC_EmptySleeves.pawnSingular>
             <AC_EmptySleeves.pawnsPlural>corpos</AC_EmptySleeves.pawnsPlural>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Monsters -->
+            <WMH_Monsters.label>monstros</WMH_Monsters.label>
+            <WMH_Monsters.pawnSingular>monstro</WMH_Monsters.pawnSingular>
+            <WMH_Monsters.pawnsPlural>monstros</WMH_Monsters.pawnsPlural>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Swarm -->
             <VFE_Mechanoid.label>enxame mecanóide</VFE_Mechanoid.label>

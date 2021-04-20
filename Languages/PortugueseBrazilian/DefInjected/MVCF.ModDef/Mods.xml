@@ -5,4 +5,8 @@
         <RttR_RaceToTheRim.label>Jornada do Herói</RttR_RaceToTheRim.label>
         <RttR_RaceToTheRim.description>Adicionando ataques de animais à distância para criaturas da Jornada do Herói</RttR_RaceToTheRim.description>
 
+    <!-- Witcher Monster Hunt -->
+        <WMH_Witcher.label>Caça aos Monstros</WMH_Witcher.label>
+        <WMH_Witcher.description>Adicionando ataques de animais à distância para criaturas da Caça aos Monstros</WMH_Witcher.description>
+
 </LanguageData>

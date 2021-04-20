@@ -154,6 +154,40 @@
             <RttR_NightmareGelToChemfuelManual.description>Faça um lote de combustível químico com gel de pesadelo. Este é um processo manual muito ineficiente.</RttR_NightmareGelToChemfuelManual.description>
             <RttR_NightmareGelToChemfuelManual.jobString>Extraindo combustível químico.</RttR_NightmareGelToChemfuelManual.jobString>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Rage of Nature Implant -->
+            <WMH_InstallRageOfNatureImplant.label>instalar implante de fúria da natureza</WMH_InstallRageOfNatureImplant.label>
+            <WMH_InstallRageOfNatureImplant.description>Instale um implante de fúria da natureza. Este implante permitirá que esta criatura use um ataque venenoso muito perigoso que causará acúmulo tóxico.</WMH_InstallRageOfNatureImplant.description>
+            <WMH_InstallRageOfNatureImplant.jobString>Instalando implante de fúria da natureza.</WMH_InstallRageOfNatureImplant.jobString>
+            <WMH_MakeRageOfNatureImplant.label>fazer implante de fúria da natureza</WMH_MakeRageOfNatureImplant.label>
+            <WMH_MakeRageOfNatureImplant.description>Fabrique um implante de fúria da natureza. Este implante permitirá que esta criatura use um ataque venenoso muito perigoso que causará acúmulo tóxico.</WMH_MakeRageOfNatureImplant.description>
+            <WMH_MakeRageOfNatureImplant.jobString>Fazendo implante de fúria da natureza.</WMH_MakeRageOfNatureImplant.jobString>
+            <WMH_RemoveRageOfNatureImplant.label>remover implante de fúria da natureza</WMH_RemoveRageOfNatureImplant.label>
+            <WMH_RemoveRageOfNatureImplant.description>Remova um implante de fúria da natureza.</WMH_RemoveRageOfNatureImplant.description>
+            <WMH_RemoveRageOfNatureImplant.jobString>Removendo implante de fúria da natureza.</WMH_RemoveRageOfNatureImplant.jobString>
+
+        <!-- Wyvern Acid Spitter Implant -->
+            <WMH_InstallWyvernAcidSpitterImplant.label>instalar implante de cuspe ácido</WMH_InstallWyvernAcidSpitterImplant.label>
+            <WMH_InstallWyvernAcidSpitterImplant.description>Instale um implante de cuspe ácido. Este implante permitirá que esta criatura use um ataque de cuspe ácido de longo alcance muito potente que causa danos ao longo do tempo.</WMH_InstallWyvernAcidSpitterImplant.description>
+            <WMH_InstallWyvernAcidSpitterImplant.jobString>Instalando implante de cuspe ácido.</WMH_InstallWyvernAcidSpitterImplant.jobString>
+            <WMH_MakeWyvernAcidSpitterImplant.label>fazer implante de cuspe ácido</WMH_MakeWyvernAcidSpitterImplant.label>
+            <WMH_MakeWyvernAcidSpitterImplant.description>Fabrique um implante de cuspe ácido. Este implante permitirá que esta criatura use um ataque de cuspe ácido de longo alcance muito potente que causa danos ao longo do tempo.</WMH_MakeWyvernAcidSpitterImplant.description>
+            <WMH_MakeWyvernAcidSpitterImplant.jobString>Fazendo implante de cuspe ácido.</WMH_MakeWyvernAcidSpitterImplant.jobString>
+            <WMH_RemoveWyvernAcidSpitterImplant.label>remover implante de cuspe ácido</WMH_RemoveWyvernAcidSpitterImplant.label>
+            <WMH_RemoveWyvernAcidSpitterImplant.description>Remova um implante de cuspe ácido.</WMH_RemoveWyvernAcidSpitterImplant.description>
+            <WMH_RemoveWyvernAcidSpitterImplant.jobString>Removendo implante de cuspe ácido.</WMH_RemoveWyvernAcidSpitterImplant.jobString>
+
+        <!-- Djinn Fire Implant -->
+            <WMH_InstallDjinnFireImplant.label>instalar implante de chamas</WMH_InstallDjinnFireImplant.label>
+            <WMH_InstallDjinnFireImplant.description>Instale um implante de chamas. Este implante permitirá que esta criatura use um ataque de fogo muito perigoso que colocará inimigos em chamas.</WMH_InstallDjinnFireImplant.description>
+            <WMH_InstallDjinnFireImplant.jobString>Instalando implante de chamas.</WMH_InstallDjinnFireImplant.jobString>
+            <WMH_MakeDjinnFireImplant.label>fazer implante de chamas</WMH_MakeDjinnFireImplant.label>
+            <WMH_MakeDjinnFireImplant.description>Fabrique um implante de chamas. Este implante permitirá que esta criatura use um ataque de fogo muito perigoso que colocará inimigos em chamas.</WMH_MakeDjinnFireImplant.description>
+            <WMH_MakeDjinnFireImplant.jobString>Fazendo implante de chamas</WMH_MakeDjinnFireImplant.jobString>
+            <WMH_RemoveDjinnFireImplant.label>remover implante de chamas</WMH_RemoveDjinnFireImplant.label>
+            <WMH_RemoveDjinnFireImplant.description>Remova um implante de chamas.</WMH_RemoveDjinnFireImplant.description>
+            <WMH_RemoveDjinnFireImplant.jobString>Removendo implante de chamas.</WMH_RemoveDjinnFireImplant.jobString>
+        
     <!-- Sauced Meals -->
         <!-- Simple Meal -->
             <SM_CookSaucedMealSimple.label>cozinhar refeição simples temperada</SM_CookSaucedMealSimple.label>

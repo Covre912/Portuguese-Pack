@@ -30,6 +30,51 @@
             <RttR_Dazing.label>picada alucinógena de ataque triplo</RttR_Dazing.label>
             <RttR_Dazing.deathMessage>{0} foi picado até a morte.</RttR_Dazing.deathMessage>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Virulent Toxic Bite -->
+            <WMH_VeryToxicBite.label>mordida tóxica virulenta</WMH_VeryToxicBite.label>
+            <WMH_VeryToxicBite.deathMessage>{0} foi picad{0_gender ? o : a} até a morte.</WMH_VeryToxicBite.deathMessage>
+
+        <!-- Werewold Bite -->
+            <WMH_WerewolfBite.label>mordida de lobisomem</WMH_WerewolfBite.label>
+            <WMH_WerewolfBite.deathMessage>{0} foi mort{0_gender ? o : a}.</WMH_WerewolfBite.deathMessage>
+
+        <!-- Ekimmara Bite -->
+            <WMH_EkimmaraBite.label>mordida de ekimmus</WMH_EkimmaraBite.label>
+            <WMH_EkimmaraBite.deathMessage>{0} foi mort{0_gender ? o : a}.</WMH_EkimmaraBite.deathMessage>
+
+        <!-- Fleder Bite -->
+            <WMH_FlederBite.label>mordida de fleder</WMH_FlederBite.label>
+            <WMH_FlederBite.deathMessage>{0} foi mort{0_gender ? o : a}.</WMH_FlederBite.deathMessage>
+
+        <!-- Berserk Wave -->
+            <WMH_Berserk.label>onda de fúria</WMH_Berserk.label>
+            <WMH_Berserk.deathMessage>{0} foi mort{0_gender ? o : a}.</WMH_Berserk.deathMessage>
+
+        <!-- Hym Claws -->
+            <WMH_HymPunch.label>garras de hym</WMH_HymPunch.label>
+            <WMH_HymPunch.deathMessage>{0} foi mort{0_gender ? o : a}.</WMH_HymPunch.deathMessage>
+
+        <!-- Infected Claws -->
+            <WMH_InfectedClaws.label>garras infectadas</WMH_InfectedClaws.label>
+            <WMH_InfectedClaws.deathMessage>{0} foi mort{0_gender ? o : a}.</WMH_InfectedClaws.deathMessage>
+
+        <!-- PAralysing Bite -->
+            <WMH_ParalysingBite.label>mordida paralisante</WMH_ParalysingBite.label>
+            <WMH_ParalysingBite.deathMessage>{0} foi mort{0_gender ? o : a}.</WMH_ParalysingBite.deathMessage>
+
+        <!-- Acid Spit -->
+            <WMH_AcidSpit.label>cuspe ácido</WMH_AcidSpit.label>
+            <WMH_AcidSpit.deathMessage>{0} foi corroíd{0_gender ? o : a} até a morte.</WMH_AcidSpit.deathMessage>
+
+        <!-- Acid Burn -->
+            <WMH_SecondaryAcidBurn.label>ácido</WMH_SecondaryAcidBurn.label>
+            <WMH_SecondaryAcidBurn.deathMessage>{0} foi corroíd{0_gender ? o : a} até a morte.</WMH_SecondaryAcidBurn.deathMessage>
+
+        <!-- Rock -->
+            <WMH_RockBomb.label>rocha</WMH_RockBomb.label>
+            <WMH_RockBomb.deathMessage>{0} morreu esmagad{0_gender ? o : a} por uma rocha enorme.</WMH_RockBomb.deathMessage>
+
     <!-- Vanilla Animals Expanded - Desert -->
         <!-- Venomous Bite -->
             <AEXP_GilaToxicBuildUp.label>mordida venenosa</AEXP_GilaToxicBuildUp.label>

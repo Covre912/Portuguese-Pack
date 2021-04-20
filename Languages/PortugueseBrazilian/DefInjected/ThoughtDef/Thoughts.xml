@@ -455,6 +455,15 @@
             <Sedentary.stages.1.label>confortavelmente acomodado</Sedentary.stages.1.label>
             <Sedentary.stages.1.description>Um lugar agradável e confortável para descansar um pouco. Bem do jeito que eu gosto.</Sedentary.stages.1.description>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Hym -->
+            <WMH_HymPunchEffect.stages.0.label>atormentado(a) pela culpa</WMH_HymPunchEffect.stages.0.label>
+            <WMH_HymPunchEffect.stages.0.description>Foi tudo minha culpa? Eu posso ver seus rostos gritando, a angústia em suas vozes...</WMH_HymPunchEffect.stages.0.description>
+
+        <!-- Wraith -->
+            <WMH_SpectreEffect.stages.0.label>medo</WMH_SpectreEffect.stages.0.label>
+            <WMH_SpectreEffect.stages.0.description>Não devo temer, o medo é o assassino da mente. Medo é a pequena morte que traz a obliteração total...</WMH_SpectreEffect.stages.0.description>
+
     <!-- Sauced Meals -->
         <!-- Lavish Meal -->
             <SM_AteSaucedLavishMeal.stages.0.label>comeu refeição luxuosa temperada</SM_AteSaucedLavishMeal.stages.0.label>

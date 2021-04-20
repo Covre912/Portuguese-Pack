@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- RimWorld - Witcher Monster Hunt -->
+        <!-- Mounster Encounter -->
+            <WMH_Basilisk_MonsterEncounterCore.label>encontro de monstro</WMH_Basilisk_MonsterEncounterCore.label>
+            <WMH_Basilisk_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_Basilisk_MonsterEncounterCore.description>
+            <WMH_Bearofleet_MonsterEncounterCore.label>encontro de monstro</WMH_Bearofleet_MonsterEncounterCore.label>
+            <WMH_Bearofleet_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_Bearofleet_MonsterEncounterCore.description>
+            <WMH_Chort_MonsterEncounterCore.label>encontro de monstro</WMH_Chort_MonsterEncounterCore.label>
+            <WMH_Chort_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_Chort_MonsterEncounterCore.description>
+            <WMH_Cyclops_MonsterEncounterCore.label>encontro de monstro</WMH_Cyclops_MonsterEncounterCore.label>
+            <WMH_Cyclops_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_Cyclops_MonsterEncounterCore.description>
+            <WMH_Djinn_MonsterEncounterCore.label>encontro de monstro</WMH_Djinn_MonsterEncounterCore.label>
+            <WMH_Djinn_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_Djinn_MonsterEncounterCore.description>
+            <WMH_Ekimmara_MonsterEncounterCore.label>encontro de monstro</WMH_Ekimmara_MonsterEncounterCore.label>
+            <WMH_Ekimmara_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_Ekimmara_MonsterEncounterCore.description>
+            <WMH_Fiend_MonsterEncounterCore.label>encontro de monstro</WMH_Fiend_MonsterEncounterCore.label>
+            <WMH_Fiend_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_Fiend_MonsterEncounterCore.description>
+            <WMH_Fleder_MonsterEncounterCore.label>encontro de monstro</WMH_Fleder_MonsterEncounterCore.label>
+            <WMH_Fleder_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_Fleder_MonsterEncounterCore.description>
+            <WMH_Fogler_MonsterEncounterCore.label>encontro de monstro</WMH_Fogler_MonsterEncounterCore.label>
+            <WMH_Fogler_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_Fogler_MonsterEncounterCore.description>
+            <WMH_Ghoul_MonsterEncounterCore.label>encontro de monstro</WMH_Ghoul_MonsterEncounterCore.label>
+            <WMH_Ghoul_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_Ghoul_MonsterEncounterCore.description>
+            <WMH_Golem_MonsterEncounterCore.label>encontro de monstro</WMH_Golem_MonsterEncounterCore.label>
+            <WMH_Golem_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_Golem_MonsterEncounterCore.description>
+            <WMH_Hym_MonsterEncounterCore.label>encontro de monstro</WMH_Hym_MonsterEncounterCore.label>
+            <WMH_Hym_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_Hym_MonsterEncounterCore.description>
+            <WMH_KikimoreQueen_MonsterEncounterCore.label>encontro de monstro</WMH_KikimoreQueen_MonsterEncounterCore.label>
+            <WMH_KikimoreQueen_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_KikimoreQueen_MonsterEncounterCore.description>
+            <WMH_Leshy_MonsterEncounterCore.label>encontro de monstro</WMH_Leshy_MonsterEncounterCore.label>
+            <WMH_Leshy_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_Leshy_MonsterEncounterCore.description>
+            <WMH_Nekker_MonsterEncounterCore.label>encontro de monstro</WMH_Nekker_MonsterEncounterCore.label>
+            <WMH_Nekker_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_Nekker_MonsterEncounterCore.description>
+            <WMH_Werewolf_MonsterEncounterCore.label>encontro de monstro</WMH_Werewolf_MonsterEncounterCore.label>
+            <WMH_Werewolf_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_Werewolf_MonsterEncounterCore.description>
+            <WMH_Wraith_MonsterEncounterCore.label>encontro de monstro</WMH_Wraith_MonsterEncounterCore.label>
+            <WMH_Wraith_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_Wraith_MonsterEncounterCore.description>
+            <WMH_Wyvern_MonsterEncounterCore.label>encontro de monstro</WMH_Wyvern_MonsterEncounterCore.label>
+            <WMH_Wyvern_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMH_Wyvern_MonsterEncounterCore.description>
+            <WMHAux_Uwutross_MonsterEncounterCore.label>encontro de monstro</WMHAux_Uwutross_MonsterEncounterCore.label>
+            <WMHAux_Uwutross_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMHAux_Uwutross_MonsterEncounterCore.description>
+
     <!-- Vanilla Expanded Framework -->
         <!-- Ennemies Presence -->
             <KCSG_EnnemiesPresence.label>presença de inimigos</KCSG_EnnemiesPresence.label>
