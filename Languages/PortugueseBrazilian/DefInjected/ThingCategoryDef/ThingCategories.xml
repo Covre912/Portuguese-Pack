@@ -13,6 +13,10 @@
         <!-- Medical Herbs -->
             <TM_MedicalHerbs.label>ervas medicinais</TM_MedicalHerbs.label>
 
+    <!-- Dye Vat -->
+        <!-- Dyed Cloth -->
+            <DV_DyedCloth.label>pano tingido</DV_DyedCloth.label>
+
     <!-- Expanded Materials - Metals -->
         <!-- Special Metals -->
             <VMEu_SpecialMetals.label>metais especiais</VMEu_SpecialMetals.label>

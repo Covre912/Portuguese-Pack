@@ -40,6 +40,12 @@
             <FinishOff.verb>finalizar</FinishOff.verb>
             <FinishOff.gerundLabel>finalizando</FinishOff.gerundLabel>
 
+    <!-- Dye Vat -->
+        <!-- Dye -->
+            <DoBillsDyeVat.label>usar tanque de tintura</DoBillsDyeVat.label>
+            <DoBillsDyeVat.verb>tingir</DoBillsDyeVat.verb>
+            <DoBillsDyeVat.gerund>tingindo</DoBillsDyeVat.gerund>
+
     <!-- Expanded Materials - Metals -->
         <!-- Alloy Metals -->
             <VMEu_DoBillsMetalSmelter.label>ligar metais</VMEu_DoBillsMetalSmelter.label>

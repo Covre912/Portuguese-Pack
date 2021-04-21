@@ -32,6 +32,68 @@
             <TM_MakeHungerTeasFour.description>Faça chá de rosas com pétalas vermelhas e couro.</TM_MakeHungerTeasFour.description>
             <TM_MakeHungerTeasFour.jobString>Fazendo chá de rosas.</TM_MakeHungerTeasFour.jobString>
 
+    <!-- Dye Vat -->
+        <!-- Bleach -->
+            <DV_BleachCloth.label>descolorir pano com alvejante</DV_BleachCloth.label>
+            <DV_BleachCloth.description>Pano descolorido com alvejante para pano padrão.</DV_BleachCloth.description>
+            <DV_BleachCloth.jobString>Descolorindo pano.</DV_BleachCloth.jobString>
+
+        <!-- Dye -->
+            <DV_DyeClothTo_Red.label>tingir pano vermelho</DV_DyeClothTo_Red.label>
+            <DV_DyeClothTo_Red.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_Red.description>
+            <DV_DyeClothTo_Red.jobString>Tingindo pano.</DV_DyeClothTo_Red.jobString>
+            <DV_DyeClothTo_Pink.label>tingir pano rosa</DV_DyeClothTo_Pink.label>
+            <DV_DyeClothTo_Pink.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_Pink.description>
+            <DV_DyeClothTo_Pink.jobString>Tingindo pano.</DV_DyeClothTo_Pink.jobString>
+            <DV_DyeClothTo_Magenta.label>tingir pano magenta</DV_DyeClothTo_Magenta.label>
+            <DV_DyeClothTo_Magenta.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_Magenta.description>
+            <DV_DyeClothTo_Magenta.jobString>Tingindo pano.</DV_DyeClothTo_Magenta.jobString>
+            <DV_DyeClothTo_Purple.label>tingir pano roxo</DV_DyeClothTo_Purple.label>
+            <DV_DyeClothTo_Purple.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_Purple.description>
+            <DV_DyeClothTo_Purple.jobString>Tingindo pano.</DV_DyeClothTo_Purple.jobString>
+            <DV_DyeClothTo_Violet.label>tingir pano violeta</DV_DyeClothTo_Violet.label>
+            <DV_DyeClothTo_Violet.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_Violet.description>
+            <DV_DyeClothTo_Violet.jobString>Tingindo pano.</DV_DyeClothTo_Violet.jobString>
+            <DV_DyeClothTo_Blue.label>tingir pano azul</DV_DyeClothTo_Blue.label>
+            <DV_DyeClothTo_Blue.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_Blue.description>
+            <DV_DyeClothTo_Blue.jobString>Tingindo pano.</DV_DyeClothTo_Blue.jobString>
+            <DV_DyeClothTo_LightBlue.label>tingir pano azul-claro</DV_DyeClothTo_LightBlue.label>
+            <DV_DyeClothTo_LightBlue.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_LightBlue.description>
+            <DV_DyeClothTo_LightBlue.jobString>Tingindo pano.</DV_DyeClothTo_LightBlue.jobString>
+            <DV_DyeClothTo_Cyan.label>tingir pano ciano</DV_DyeClothTo_Cyan.label>
+            <DV_DyeClothTo_Cyan.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_Cyan.description>
+            <DV_DyeClothTo_Cyan.jobString>Tingindo pano.</DV_DyeClothTo_Cyan.jobString>
+            <DV_DyeClothTo_Turquoise.label>tingir pano turquesa</DV_DyeClothTo_Turquoise.label>
+            <DV_DyeClothTo_Turquoise.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_Turquoise.description>
+            <DV_DyeClothTo_Turquoise.jobString>Tingindo pano.</DV_DyeClothTo_Turquoise.jobString>
+            <DV_DyeClothTo_Lime.label>tingir pano lima</DV_DyeClothTo_Lime.label>
+            <DV_DyeClothTo_Lime.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_Lime.description>
+            <DV_DyeClothTo_Lime.jobString>Tingindo pano.</DV_DyeClothTo_Lime.jobString>
+            <DV_DyeClothTo_Green.label>tingir pano verde</DV_DyeClothTo_Green.label>
+            <DV_DyeClothTo_Green.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_Green.description>
+            <DV_DyeClothTo_Green.jobString>Tingindo pano.</DV_DyeClothTo_Green.jobString>
+            <DV_DyeClothTo_Yellow.label>tingir pano amarelo</DV_DyeClothTo_Yellow.label>
+            <DV_DyeClothTo_Yellow.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_Yellow.description>
+            <DV_DyeClothTo_Yellow.jobString>Tingindo pano.</DV_DyeClothTo_Yellow.jobString>
+            <DV_DyeClothTo_Orange.label>tingir pano laranja</DV_DyeClothTo_Orange.label>
+            <DV_DyeClothTo_Orange.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_Orange.description>
+            <DV_DyeClothTo_Orange.jobString>Tingindo pano.</DV_DyeClothTo_Orange.jobString>
+            <DV_DyeClothTo_Maroon.label>tingir pano bordô</DV_DyeClothTo_Maroon.label>
+            <DV_DyeClothTo_Maroon.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_Maroon.description>
+            <DV_DyeClothTo_Maroon.jobString>Tingindo pano.</DV_DyeClothTo_Maroon.jobString>
+            <DV_DyeClothTo_NavyBlue.label>tingir pano azul-marinho </DV_DyeClothTo_NavyBlue.label>
+            <DV_DyeClothTo_NavyBlue.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_NavyBlue.description>
+            <DV_DyeClothTo_NavyBlue.jobString>Tingindo pano.</DV_DyeClothTo_NavyBlue.jobString>
+            <DV_DyeClothTo_Black.label>tingir pano preto</DV_DyeClothTo_Black.label>
+            <DV_DyeClothTo_Black.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_Black.description>
+            <DV_DyeClothTo_Black.jobString>Tingindo pano.</DV_DyeClothTo_Black.jobString>
+            <DV_DyeClothTo_Grey.label>tingir pano cinza</DV_DyeClothTo_Grey.label>
+            <DV_DyeClothTo_Grey.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_Grey.description>
+            <DV_DyeClothTo_Grey.jobString>Tingindo pano.</DV_DyeClothTo_Grey.jobString>
+            <DV_DyeClothTo_White.label>tingir pano branco</DV_DyeClothTo_White.label>
+            <DV_DyeClothTo_White.description>Use vários pós e líquidos para tingir tecidos.</DV_DyeClothTo_White.description>
+            <DV_DyeClothTo_White.jobString>Tingindo pano.</DV_DyeClothTo_White.jobString>
+
     <!-- Expanded Materials - Metals -->
         <!-- Charcoal -->
             <VMEu_MakeCharcoal.label>fazer carvão vegetal</VMEu_MakeCharcoal.label>

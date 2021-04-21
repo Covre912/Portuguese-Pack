@@ -78,6 +78,14 @@
             <TableAnimalProsthetics.label>mesa de próteses veterinárias</TableAnimalProsthetics.label>
             <TableAnimalProsthetics.description>Crie próteses/partes biônicas e órgãos para animais nesta bancada.</TableAnimalProsthetics.description>
 
+    <!-- Dye Vat -->
+        <!-- Dye Vat -->
+            <DyeVat.label>tanque de tintura</DyeVat.label>
+            <DyeVat.description>Uma estação de trabalho com um grande tanque usado para misturar tintura e colorir têxteis.</DyeVat.description>
+            <DyeVat_Blueprint.label>tanque de tintura (plano)</DyeVat_Blueprint.label>
+            <DyeVat_Frame.label>tanque de tintura (plano)</DyeVat_Frame.label>
+            <DyeVat_Frame.description>Uma estação de trabalho com um grande tanque usado para misturar tintura e colorir têxteis.</DyeVat_Frame.description>
+
     <!-- Expanded Materials - Metals -->
         <!-- Coal Ore -->
             <VMEu_MineableCoal.label>minério de carvão</VMEu_MineableCoal.label>

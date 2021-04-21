@@ -169,6 +169,72 @@
 			<TM_InsanityTea.label>ayahuasca</TM_InsanityTea.label>
 			<TM_InsanityTea.description>Um chá tribal feito de dálias concentradas e folhas-de-fumo, esses dois ingredientes produzem uma estranha reação química quando fervidos juntos.\n\nEste chá é usado por algumas tribos antigas como uma forma de "purificar a alma". O chá faz com que o usuário passe um ou dois dias em estado de total insanidade, mas após o efeito ser absorvido pelo organismo e o usuário voltar ao seu estado normal, muitas pessoas disseram que se sentiram muito mais felizes e que agora entenda o propósito da vida. De qualquer forma, algumas pessoas também disseram que agora vivem um pesadelo e se suicidaram.</TM_InsanityTea.description>
 
+	<!-- Dye Vat -->
+		<!-- Undyed Cloth -->
+			<DV_UndyedCloth.label>pano descolorido</DV_UndyedCloth.label>
+			<DV_UndyedCloth.description>Pano de fibras orgânicas.</DV_UndyedCloth.description>
+			<DV_UndyedCloth.stuffProps.stuffAdjective>pano descolorido</DV_UndyedCloth.stuffProps.stuffAdjective>
+
+		<!-- Cloth -->
+			<DV_RedCloth.label>pano vermelho</DV_RedCloth.label>
+			<DV_RedCloth.description>Pano de fibras orgânicas.</DV_RedCloth.description>
+			<DV_RedCloth.stuffProps.stuffAdjective>pano vermelho</DV_RedCloth.stuffProps.stuffAdjective>
+			<DV_PinkCloth.label>pano rosa</DV_PinkCloth.label>
+			<DV_PinkCloth.description>Pano de fibras orgânicas.</DV_PinkCloth.description>
+			<DV_PinkCloth.stuffProps.stuffAdjective>pano rosa</DV_PinkCloth.stuffProps.stuffAdjective>
+			<DV_MagentaCloth.label>pano magenta</DV_MagentaCloth.label>
+			<DV_MagentaCloth.description>Pano de fibras orgânicas.</DV_MagentaCloth.description>
+			<DV_MagentaCloth.stuffProps.stuffAdjective>pano magenta</DV_MagentaCloth.stuffProps.stuffAdjective>
+			<DV_PurpleCloth.label>pano roxo</DV_PurpleCloth.label>
+			<DV_PurpleCloth.description>Pano de fibras orgânicas.</DV_PurpleCloth.description>
+			<DV_PurpleCloth.stuffProps.stuffAdjective>pano roxo</DV_PurpleCloth.stuffProps.stuffAdjective>
+			<DV_VioletCloth.label>pano violeta</DV_VioletCloth.label>
+			<DV_VioletCloth.description>Pano de fibras orgânicas.</DV_VioletCloth.description>
+			<DV_VioletCloth.stuffProps.stuffAdjective>pano violeta</DV_VioletCloth.stuffProps.stuffAdjective>
+			<DV_BlueCloth.label>pano azul</DV_BlueCloth.label>
+			<DV_BlueCloth.description>Pano de fibras orgânicas.</DV_BlueCloth.description>
+			<DV_BlueCloth.stuffProps.stuffAdjective>pano azul</DV_BlueCloth.stuffProps.stuffAdjective>
+			<DV_LightBlueCloth.label>pano azul-claro</DV_LightBlueCloth.label>
+			<DV_LightBlueCloth.description>Pano de fibras orgânicas.</DV_LightBlueCloth.description>
+			<DV_LightBlueCloth.stuffProps.stuffAdjective>pano azul-claro</DV_LightBlueCloth.stuffProps.stuffAdjective>
+			<DV_CyanCloth.label>pano ciano</DV_CyanCloth.label>
+			<DV_CyanCloth.description>Pano de fibras orgânicas.</DV_CyanCloth.description>
+			<DV_CyanCloth.stuffProps.stuffAdjective>pano ciano</DV_CyanCloth.stuffProps.stuffAdjective>
+			<DV_TurquoiseCloth.label>pano turquesa</DV_TurquoiseCloth.label>
+			<DV_TurquoiseCloth.description>Pano de fibras orgânicas.</DV_TurquoiseCloth.description>
+			<DV_TurquoiseCloth.stuffProps.stuffAdjective>pano turquesa</DV_TurquoiseCloth.stuffProps.stuffAdjective>
+			<DV_LimeCloth.label>pano lima</DV_LimeCloth.label>
+			<DV_LimeCloth.description>Pano de fibras orgânicas.</DV_LimeCloth.description>
+			<DV_LimeCloth.stuffProps.stuffAdjective>pano lima</DV_LimeCloth.stuffProps.stuffAdjective>
+			<DV_GreenCloth.label>pano verde</DV_GreenCloth.label>
+			<DV_GreenCloth.description>Pano de fibras orgânicas.</DV_GreenCloth.description>
+			<DV_GreenCloth.stuffProps.stuffAdjective>pano verde</DV_GreenCloth.stuffProps.stuffAdjective>
+			<DV_YellowCloth.label>pano amarelo</DV_YellowCloth.label>
+			<DV_YellowCloth.description>Pano de fibras orgânicas.</DV_YellowCloth.description>
+			<DV_YellowCloth.stuffProps.stuffAdjective>pano amarelo</DV_YellowCloth.stuffProps.stuffAdjective>
+			<DV_OrangeCloth.label>pano laranja</DV_OrangeCloth.label>
+			<DV_OrangeCloth.description>Pano de fibras orgânicas.</DV_OrangeCloth.description>
+			<DV_OrangeCloth.stuffProps.stuffAdjective>pano laranja</DV_OrangeCloth.stuffProps.stuffAdjective>
+
+  		<!-- Special -->
+			<DV_MaroonCloth.label>pano bordô</DV_MaroonCloth.label>
+			<DV_MaroonCloth.description>Pano de fibras orgânicas.</DV_MaroonCloth.description>
+			<DV_MaroonCloth.stuffProps.stuffAdjective>pano bordô</DV_MaroonCloth.stuffProps.stuffAdjective>
+			<DV_NavyBlueCloth.label>pano azul-marinho</DV_NavyBlueCloth.label>
+			<DV_NavyBlueCloth.description>Pano de fibras orgânicas.</DV_NavyBlueCloth.description>
+			<DV_NavyBlueCloth.stuffProps.stuffAdjective>pano azul-marinho</DV_NavyBlueCloth.stuffProps.stuffAdjective>
+
+  		<!-- Hues -->
+			<DV_BlackCloth.label>pano preto</DV_BlackCloth.label>
+			<DV_BlackCloth.description>Pano de fibras orgânicas.</DV_BlackCloth.description>
+			<DV_BlackCloth.stuffProps.stuffAdjective>pano preto</DV_BlackCloth.stuffProps.stuffAdjective>
+			<DV_GreyCloth.label>pano cinza</DV_GreyCloth.label>
+			<DV_GreyCloth.description>Pano de fibras orgânicas.</DV_GreyCloth.description>
+			<DV_GreyCloth.stuffProps.stuffAdjective>pano cinza</DV_GreyCloth.stuffProps.stuffAdjective>
+			<DV_WhiteCloth.label>pano branco</DV_WhiteCloth.label>
+			<DV_WhiteCloth.description>Pano de fibras orgânicas.</DV_WhiteCloth.description>
+			<DV_WhiteCloth.stuffProps.stuffAdjective>pano branco</DV_WhiteCloth.stuffProps.stuffAdjective>
+
     <!-- Expanded Materials - Metals -->
         <!-- Fossil -->
             <VMEu_Fossil.label>fóssil</VMEu_Fossil.label>

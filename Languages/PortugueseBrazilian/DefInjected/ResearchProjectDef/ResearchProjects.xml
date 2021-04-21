@@ -29,6 +29,11 @@
             <TM_TribalMedicalHerbs.label>ervas medicinais tribais</TM_TribalMedicalHerbs.label>
             <TM_TribalMedicalHerbs.description>O conhecimento de antigas tribos que usavam plantas estranhas para fazer misturas e remédios médicos.</TM_TribalMedicalHerbs.description>
 
+    <!-- Dye Vat -->
+        <!-- Clothing Vat -->
+            <ClothingDye.label>tintura de pano</ClothingDye.label>
+            <ClothingDye.description>Aplique vários pós e líquidos derivados de plantas para coloração do pano.</ClothingDye.description>
+
     <!-- Expanded Materials - Metals -->
         <!-- Concrete Making -->
             <VMEu_ConcreteMaking.label>fabricação de concreto</VMEu_ConcreteMaking.label>
