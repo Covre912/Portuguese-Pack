@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+	    <mods>
+		    <li>Vanilla Furniture Expanded - Medical Module</li>
+	    </mods>
+        <match Class="PatchOperationSequence">
+            <operations>
+                
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[@Name = "SterileWallBase"]/description</xpath>
+                    <value>
+                        <description>Uma parede intransponível. Capaz de segurar um telhado. Equipada com propriedades especiais de melhoria de limpeza para criar um ambiente estéril.</description>
+                    </value>
+                </li>
+            
+            </operations>
+        </match>
+    </Operation>
+
+</Patch>

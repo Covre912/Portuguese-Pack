@@ -405,6 +405,11 @@
             <Computer_LearningBoost.stages.1.label>maior</Computer_LearningBoost.stages.1.label>
             <Computer_LearningBoost.stages.2.label>máximo</Computer_LearningBoost.stages.2.label>
 
+    <!-- Vanilla Furniture Expanded - Medical Module -->
+        <!-- Cryptosleep Sicness -->
+            <Minor_CryptoSickness.label>doença do criptosono (leve)</Minor_CryptoSickness.label>
+            <Minor_CryptoSickness.description>Doença do criptosono leve.</Minor_CryptoSickness.description>
+
     <!-- Vanilla Traits Expanded -->
         <!-- Rebelling -->
             <VTE_SlowWorkSpeed.label>Rebelando</VTE_SlowWorkSpeed.label>
