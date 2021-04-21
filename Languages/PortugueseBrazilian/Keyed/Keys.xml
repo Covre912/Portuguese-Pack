@@ -853,7 +853,7 @@
 
         <!-- Page -->
             <EdB.PC.Page.Button.LoadPreset>Carregar Predefinição</EdB.PC.Page.Button.LoadPreset>
-            <EdB.PC.Page.Button.PrepareCarefully>Prepare Carefully</EdB.PC.Page.Button.PrepareCarefully>
+            <EdB.PC.Page.Button.PrepareCarefully>Preparação</EdB.PC.Page.Button.PrepareCarefully>
             <EdB.PC.Page.Button.SavePreset>Salvar Predefinição</EdB.PC.Page.Button.SavePreset>
             <EdB.PC.Page.ConfirmExit>Tem certeza de que não deseja se preparar com cuidado? Todas as alterações feitas serão perdidas.</EdB.PC.Page.ConfirmExit>
             <EdB.PC.Page.ConfirmStart>Tem certeza de que concluiu suas personalizações? Confirme que você está pronto para começar!</EdB.PC.Page.ConfirmStart>
@@ -2245,6 +2245,20 @@
 	        <VCEF_Yes>Sim</VCEF_Yes>
 	        <VCEF_No>Não</VCEF_No>
 	        <VCEF_ZoneTooSmall>Esta área é muito pequena. Áreas de pesca precisam ter pelo menos {0} blocos para funcionarem.</VCEF_ZoneTooSmall>
+
+        <!-- Vanilla Hair Expanded -->
+            <!-- Settings -->
+                <VanillaHairExpanded.SettingsCategory>Vanilla Hair Expanded</VanillaHairExpanded.SettingsCategory>
+                <VanillaHairExpanded.Beards_ToolTip>Se as barbas são renderizadas ou não nos colonos.</VanillaHairExpanded.Beards_ToolTip>
+
+        <!-- Float Menu Options -->
+            <VanillaHairExpanded.ChangeHairstyle>Alterar penteado</VanillaHairExpanded.ChangeHairstyle>
+
+        <!-- GUI -->
+            <VanillaHairExpanded.Hairstyles>Penteados</VanillaHairExpanded.Hairstyles>
+            <VanillaHairExpanded.Beards>Barbas</VanillaHairExpanded.Beards>
+            <VanillaHairExpanded.CustomMode>Cores</VanillaHairExpanded.CustomMode>
+            <VanillaHairExpanded.ColoursTied>Cores</VanillaHairExpanded.ColoursTied>
 
         <!-- No Fish -->
 	        <VCEF_NoFish>Não há peixes para pescar neste bioma.</VCEF_NoFish>

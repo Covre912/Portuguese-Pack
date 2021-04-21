@@ -74,6 +74,10 @@
         <!-- Fish -->
             <VCEF_FishJob.reportString>pescando em TargetA.</VCEF_FishJob.reportString>
 
+    <!-- Vanilla Hair Expanded -->
+        <!-- Changing Hair -->
+            <VHE_ChangeHairstyle.reportString>cortando o cabelo em TargetA.</VHE_ChangeHairstyle.reportString>
+
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Vent To Friend -->
             <VSIE_VentToFriend.reportString>desabafando para TargetA.</VSIE_VentToFriend.reportString>

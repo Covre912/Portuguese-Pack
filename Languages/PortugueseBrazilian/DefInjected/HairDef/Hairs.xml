@@ -1,29 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Hairs Expanded -->
+        <!-- Beards -->
+            <VHE_BeardBoxed.label>encaixotado</VHE_BeardBoxed.label>
+            <VHE_BeardCircle.label>círculo</VHE_BeardCircle.label>
+            <VHE_BeardCleanShaven.label>barbeado</VHE_BeardCleanShaven.label>
+            <VHE_BeardUrist.label>punhal</VHE_BeardUrist.label>
+            <VHE_BeardMuttonChops.label>costeletas de carneiro</VHE_BeardMuttonChops.label>
+            <VHE_BeardStubble.label>por fazer</VHE_BeardStubble.label>
+            <VHE_BeardCurly.label>encaracolado</VHE_BeardCurly.label>
+            <VHE_BeardFork.label>garfo</VHE_BeardFork.label>
+            <VHE_BeardFrench.label>francês</VHE_BeardFrench.label>
+            <VHE_BeardGoatee.label>cavanhaque</VHE_BeardGoatee.label>
+            <VHE_BeardKhan.label>cã</VHE_BeardKhan.label>
+            <VHE_BeardLincoln.label>efêmero</VHE_BeardLincoln.label>
+            <VHE_BeardMoustache.label>bigode</VHE_BeardMoustache.label>
+            <VHE_BeardOldDutch.label>holandês</VHE_BeardOldDutch.label>
+            <VHE_BeardSeer.label>profeta</VHE_BeardSeer.label>
+            <VHE_BeardVanDyke.label>contramão</VHE_BeardVanDyke.label>
+
+        <!-- Hairs -->
+            <VHE_Gangster.label>criminoso</VHE_Gangster.label>
+            <VHE_Maniac.label>monomaníaco</VHE_Maniac.label>
+            <VHE_Midlife.label>meia idade</VHE_Midlife.label>
+            <VHE_Gentleman.label>cavalheiro</VHE_Gentleman.label>
+            <VHE_Willow.label>salgueiro</VHE_Willow.label>
+            <VHE_Strongman.label>musculoso</VHE_Strongman.label>
+            <VHE_Bereaved.label>desolado</VHE_Bereaved.label>
+            <VHE_Librarian.label>bibliotecária</VHE_Librarian.label>
+            <VHE_Buzzcut.label>amianto</VHE_Buzzcut.label>
+            <VHE_FauxHawk.label>falcão</VHE_FauxHawk.label>
+            <VHE_HighTop.label>alto</VHE_HighTop.label>
+            <VHE_ShortAfro.label>afro pequeno</VHE_ShortAfro.label>
+            <VHE_Slicked.label>lambido</VHE_Slicked.label>
+            <VHE_Vile.label>vil</VHE_Vile.label>
+            <VHE_Oskar.label>viking</VHE_Oskar.label>
+            <VHE_SlickedShort.label>curto liso</VHE_SlickedShort.label>
+            <VHE_Smith.label>ferreiro</VHE_Smith.label>
+            <VHE_Regal.label>real</VHE_Regal.label>
+            <VHE_Braid.label>trança</VHE_Braid.label>
+            <VHE_Messy.label>bagunçado</VHE_Messy.label>
+            <VHE_Part.label>papel</VHE_Part.label>
+            <VHE_Quaf.label>bêbado</VHE_Quaf.label>
+            <VHE_Slick.label>liso</VHE_Slick.label>
+            <VHE_Fox.label>kitsune</VHE_Fox.label>
+            <VHE_Long.label>comprido</VHE_Long.label>
+            <VHE_PinUp.label>popular</VHE_PinUp.label>
+            <VHE_SideBraid.label>real</VHE_SideBraid.label>
+            <VHE_TwoTails.label>surreal</VHE_TwoTails.label>
+            <VHE_Beautiful.label>caleidoscópio</VHE_Beautiful.label>
+            <VHE_Brave.label>bravo</VHE_Brave.label>
+            <VHE_Festive.label>festivo</VHE_Festive.label>
+            <VHE_Hideout.label>escondido</VHE_Hideout.label>
+            <VHE_LongAfro.label>afro longo</VHE_LongAfro.label>
+            <VHE_Dean.label>reitor</VHE_Dean.label>
+            <VHE_Sam.label>surrendo</VHE_Sam.label>
+            <VHE_Farmboy.label>caipira</VHE_Farmboy.label>
+            <VHE_Senator.label>senador</VHE_Senator.label>
+            <VHE_Smuggler.label>contrabandista</VHE_Smuggler.label>
+            <VHE_Celebrity.label>celebridade</VHE_Celebrity.label>
+            <VHE_FlatAfro.label>afro liso</VHE_FlatAfro.label>
+            <VHE_Karen.label>äcelumdisperilosiuoso</VHE_Karen.label>
+            <VHE_LongPonytail.label>terçao</VHE_LongPonytail.label>
+            <VHE_Sad.label>triste</VHE_Sad.label>
+            <VHE_Annointed.label>untado</VHE_Annointed.label>
+            <VHE_Chosen.label>escolhido</VHE_Chosen.label>
+            <VHE_Distinguished.label>distinto</VHE_Distinguished.label>
+            <VHE_Hardened.label>endurecido</VHE_Hardened.label>
+            <VHE_Monk.label>monge</VHE_Monk.label>
+            <VHE_Mother.label>mãe</VHE_Mother.label>
+            <VHE_Princess.label>estrela</VHE_Princess.label>
+            <VHE_Queen.label>rainha</VHE_Queen.label>
+            <VHE_Unkept.label>descuidado</VHE_Unkept.label>
+            <VHE_Widow.label>viúva</VHE_Widow.label>
+            <VHE_Sanchez.label>cientista</VHE_Sanchez.label>
+            <VHE_Mortimer.label>meretriz</VHE_Mortimer.label>
+            <VHE_Summer.label>verão</VHE_Summer.label>
+            <VHE_Jerry.label>classe</VHE_Jerry.label>
+            <VHE_Beth.label>social</VHE_Beth.label>
+            <VHE_Dapp.label>régua</VHE_Dapp.label>
+            <VHE_Connor.label>espinhoso</VHE_Connor.label>
+            <VHE_Flak.label>carvalho</VHE_Flak.label>
+            <VHE_Shelby.label>frio</VHE_Shelby.label>
+            <VHE_Blinder.label>calculista</VHE_Blinder.label>
+            <VHE_Mohawk.label>seca</VHE_Mohawk.label>
+            <VHE_Dusk.label>crepúsculo</VHE_Dusk.label>
+            <VHE_Faerie.label>fada</VHE_Faerie.label>
+            <VHE_Cyberpunk.label>corvo</VHE_Cyberpunk.label>
+            <VHE_Raider.label>invasor</VHE_Raider.label>
+            <VHE_Private.label>privado</VHE_Private.label>
+            <VHE_Sarge.label>sargento</VHE_Sarge.label>
+            <VHE_Corporal.label>corporal</VHE_Corporal.label>
+            <VHE_Major.label>grave</VHE_Major.label>
+            <VHE_General.label>general</VHE_General.label>
+            <VHE_Abigail.label>sagrado</VHE_Abigail.label>
+            <VHE_Bill.label>tarefa</VHE_Bill.label>
+            <VHE_Dutch.label>holandês</VHE_Dutch.label>
+            <VHE_Grimshaw.label>sombrio</VHE_Grimshaw.label>
+            <VHE_Marston.label>teórico</VHE_Marston.label>
+            <VHE_Micah.label>machado</VHE_Micah.label>
+            <VHE_Pearson.label>assis</VHE_Pearson.label>
+            <VHE_Dreadlock.label>temor</VHE_Dreadlock.label>
+            <VHE_Mystic.label>místico</VHE_Mystic.label>
+            <VHE_Straight.label>direto</VHE_Straight.label>
+            <VHE_Twisted.label>torcido</VHE_Twisted.label>
+            <VHE_Wrap.label>embrulho</VHE_Wrap.label>
+            <VHE_Barren.label>estéril</VHE_Barren.label>
+            <VHE_BattleBraids.label>buarque</VHE_BattleBraids.label>
+            <VHE_ScorpionKing.label>escorpião</VHE_ScorpionKing.label>
+            <VHE_TuftHawk.label>tailandês</VHE_TuftHawk.label>
+            <VHE_Wilderness.label>matagal</VHE_Wilderness.label>
+            <VHE_BraidedHawk.label>lana</VHE_BraidedHawk.label>
+            <VHE_FireKeeper.label>bombeiro</VHE_FireKeeper.label>
+            <VHE_Hunter.label>caçador</VHE_Hunter.label>
+            <VHE_Tribal.label>tribal</VHE_Tribal.label>
+            <VHE_Warrior.label>guerreiro</VHE_Warrior.label>
+            <VHE_BattleBraid.label>nó</VHE_BattleBraid.label>
+            <VHE_DoubleHawk.label>esquizofrênico</VHE_DoubleHawk.label>
+            <VHE_HalfShaved.label>meio-raspado</VHE_HalfShaved.label>
+            <VHE_Tower.label>torre</VHE_Tower.label>
+            <VHE_Spikey.label>pontudo</VHE_Spikey.label>
+
+    <!-- Vanilla Hair Expanded - Beards -->
+        <!-- Beards -->
+            <VHE_BeardFull.label>cheio</VHE_BeardFull.label>
+            <VHE_BeardDucktail.label>rabo de pato</VHE_BeardDucktail.label>
+            <VHE_BeardCurtain.label>cortina</VHE_BeardCurtain.label>
+            <VHE_BeardAnchor.label>âncora</VHE_BeardAnchor.label>
+            <VHE_BeardSoulPatch.label>alma</VHE_BeardSoulPatch.label>
+            <VHE_BeardSideWhiskers.label>suiço</VHE_BeardSideWhiskers.label>
+            <VHE_BeardImperial.label>imperial</VHE_BeardImperial.label>
+            <VHE_BeardLongDutch.label>alemão</VHE_BeardLongDutch.label>
+            <VHE_BeardMachete.label>facão</VHE_BeardMachete.label>
+            <VHE_BeardWizard.label>feiticeiro</VHE_BeardWizard.label>
+            <VHE_BeardDori.label>ilustre</VHE_BeardDori.label>
+            <VHE_BeardDwalin.label>desconhecido</VHE_BeardDwalin.label>
+            <VHE_BeardBifur.label>bifurcado</VHE_BeardBifur.label>
+            <VHE_BeardNori.label>maremoto</VHE_BeardNori.label>
+            <VHE_BeardBalin.label>bardo</VHE_BeardBalin.label>
+
     <!-- Xenohumans - Anthromorphs -->
-        <!-- Cute Pony Tail -->
+        <!-- Hairs -->
             <ATK_CutePonytail.label>rabo de cavalo fofo</ATK_CutePonytail.label>
-
-        <!-- Fluffy -->
             <ATK_Fluffy.label>fofo</ATK_Fluffy.label>
-
-        <!-- Low Ponytail -->
             <ATK_LowPonytail.label>rabo de cavalo curto</ATK_LowPonytail.label>
-
-        <!-- Kirbys Curls -->
             <ATK_KirbysCurls.label>cachos de kirby</ATK_KirbysCurls.label>
-
-        <!-- Raven -->
             <ATK_Raven.label>corvo</ATK_Raven.label>
-
-        <!-- Spikey Bun -->
             <ATK_SpikeyBun.label>coque espinhoso</ATK_SpikeyBun.label>
-
-        <!-- Swept -->
             <ATK_Swept.label>varrido</ATK_Swept.label>
-
-        <!-- Wild Ponytail-->
             <ATK_WildPonytail.label>rabo de cavalo selvagem</ATK_WildPonytail.label>
 
 </LanguageData>

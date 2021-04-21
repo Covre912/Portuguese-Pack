@@ -570,6 +570,11 @@
             <Windmill.label>moinho de vento</Windmill.label>
             <Windmill.description>Um gerador elétrico antigo movido a vento. Requer um grande espaço livre na frente e atrás para um fluxo de ar ideal.</Windmill.description>
 
+    <!-- Vanilla Hair Expanded -->
+        <!-- Barber's Table -->
+            <VHE_Filth_Hair.label>mesa de barbearia</VHE_Filth_Hair.label>
+            <VHE_Filth_Hair.description>Uma mesa equipada com diversos utensílios adequados para o corte de cabelos e barbas.</VHE_Filth_Hair.description>
+
     <!-- VFE - Mechanoids : Add-On -->
         <!-- Mender Charging Station -->
             <MAO_Mechanoids_MenderBase.Building_BedMachine.label>estação de médico automático</MAO_Mechanoids_MenderBase.Building_BedMachine.label>
