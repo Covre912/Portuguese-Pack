@@ -11,4 +11,9 @@
             <HugsLibShortcuts.label>HugsLib</HugsLibShortcuts.label>
             <HugsLibShortcuts.description>Atalhos para a biblioteca HugsLib.</HugsLibShortcuts.description>
 
+    <!-- Vanilla Furniture Expanded -->
+        <!-- Ext. Furniture -->
+            <Architect_AOMorefurniture.label>Atalhos para Mobília Ext.</Architect_AOMorefurniture.label>
+            <Architect_AOMorefurniture.description>Atalhos de teclado para a seção "Móveis ext." do menu do arquiteto</Architect_AOMorefurniture.description>
+
 </LanguageData>

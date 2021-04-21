@@ -115,6 +115,35 @@
             <VFEM_HeavyCrossbow.label>besta pesada</VFEM_HeavyCrossbow.label>
             <VFEM_HeavyCrossbow.description>Crie bestas pesadas, capazes de disparar um projétil que não pode ser detido pela maioria das armaduras.</VFEM_HeavyCrossbow.description>
 
+    <!-- Vanilla Furniture Expanded -->
+        <!-- Basic Furniture -->
+            <MF_BasicFurniture.label>móveis básicos</MF_BasicFurniture.label>
+            <MF_BasicFurniture.description>Construa móveis simples, como camas simples, mesas básicas, bancos e muito mais.</MF_BasicFurniture.description>
+
+        <!-- Complex Furniture -->
+            <ComplexFurniture.label>móveis complexos</ComplexFurniture.label>
+            <ComplexFurniture.description>Construa móveis complexos como camas, mesas de canto, cadeiras de jantar, poltronas, cômodas, armários de ferramentas, mesas de bilhar e mesas de pôquer, saídas de ventilação, sarcófagos e muito mais.</ComplexFurniture.description>
+
+        <!-- Royal Furniture -->
+            <MF_RoyalFurniture.label>móveis artesanais</MF_RoyalFurniture.label>
+            <MF_RoyalFurniture.description>Construa móveis de luxo dedicados a estética e beleza em detrimento da praticidade, normalmente vistos apenas nas casas de elite. Inclui camas com dossel, cadeiras, mesas e poltronas reais.</MF_RoyalFurniture.description>
+
+        <!-- Modern Furniture -->
+            <MF_ModernFurniture.label>móveis modernos</MF_ModernFurniture.label>
+            <MF_ModernFurniture.description>Learn to build furniture of the modern day that is focused on practicality over beauty, such as roulette tables, wardrobes, dart boards, punching bags and ergonomic beds.</MF_ModernFurniture.description>
+
+        <!-- Waste Disposal -->
+            <MF_WasteDisposal.label>depósito de lixo</MF_WasteDisposal.label>
+            <MF_WasteDisposal.description>Aprenda a construir lixeiras pequenas e grandes, objetos que limpam lentamente o ambiente em que estão.</MF_WasteDisposal.description>
+
+        <!-- Basic Eletronics -->
+            <TubeTelevision.label>eletrônicos básicos</TubeTelevision.label>
+            <TubeTelevision.description>Construa eletrônicos básicos, como televisores de tubo, rádios industriais, fliperamas e muito mais.</TubeTelevision.description>
+
+        <!-- Complex Eletronics -->
+            <FlatscreenTelevision.label>eletrônicos complexos</FlatscreenTelevision.label>
+            <FlatscreenTelevision.description>Construa eletrônicos complexos, como televisões de tela plana, rádios de ondas longas e muito mais.</FlatscreenTelevision.description>
+
     <!-- Vanilla Weapons Expanded -->
         <!-- Longbow -->
             <VWE_Longbow.label>arco longo</VWE_Longbow.label>

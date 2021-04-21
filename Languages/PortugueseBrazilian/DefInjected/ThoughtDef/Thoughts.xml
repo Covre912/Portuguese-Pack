@@ -487,6 +487,13 @@
             <VCEF_FishingThought.stages.relaxing_fishing_session.label>pescaria relaxante</VCEF_FishingThought.stages.relaxing_fishing_session.label>
 	        <VCEF_FishingThought.stages.relaxing_fishing_session.description>Não há nada melhor para relaxar do que uma bela pescaria.</VCEF_FishingThought.stages.relaxing_fishing_session.description>
 
+    <!-- Vanilla Furniture Expanded -->
+        <!-- Ambient Music -->
+            <Thought_EffectRadio.stages.0.label>música ambiente</Thought_EffectRadio.stages.0.label>
+            <Thought_EffectRadio.stages.0.description>Eu gosto da música que está tocando, embora o sinal seja terrível.</Thought_EffectRadio.stages.0.description>
+            <Thought_EffectRadio.stages.1.label>música ambiente</Thought_EffectRadio.stages.1.label>
+            <Thought_EffectRadio.stages.1.description>Eu gosto da música que está tocando, é bastante relaxante.</Thought_EffectRadio.stages.1.description>
+
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Inspiration Satisfied -->
             <VSIE_InspirationSatisfied.stages.0.label>Inspiração satisfeita</VSIE_InspirationSatisfied.stages.0.label>

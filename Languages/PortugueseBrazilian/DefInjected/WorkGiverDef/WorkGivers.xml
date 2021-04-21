@@ -92,6 +92,15 @@
 	        <VCEF_Fish.verb>pescar</VCEF_Fish.verb>
 	        <VCEF_Fish.gerund>pescando em</VCEF_Fish.gerund>
 
+    <!-- Vanilla Furniture Expanded -->
+        <!-- Stone Campfire -->
+            <DoBillsCookStone_Campfire.label>cozinhar refeições em fogueira de pedra</DoBillsCookStone_Campfire.label>
+            <DoBillsCookStone_Campfire.verb>cozinhar</DoBillsCookStone_Campfire.verb>
+            <DoBillsCookStone_Campfire.gerund>cozinhando em</DoBillsCookStone_Campfire.gerund>
+            <DoBillsHaulStone_Campfire.label>trabalhar em fogueira de pedra</DoBillsHaulStone_Campfire.label>
+            <DoBillsHaulStone_Campfire.verb>trabalhar em</DoBillsHaulStone_Campfire.verb>
+            <DoBillsHaulStone_Campfire.gerund>trabalhando em</DoBillsHaulStone_Campfire.gerund>
+
     <!-- Zombieland -->
         <!-- Extract Zombie Serum -->
             <ExtractZombieSerum.label>extrair soro de cadáveres de zumbis</ExtractZombieSerum.label>

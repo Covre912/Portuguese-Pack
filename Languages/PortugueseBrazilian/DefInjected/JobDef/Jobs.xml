@@ -74,6 +74,26 @@
         <!-- Fish -->
             <VCEF_FishJob.reportString>pescando em TargetA.</VCEF_FishJob.reportString>
 
+    <!-- Vanilla Furniture Expanded -->
+        <!-- Roulette -->
+            <Play_Roulette.reportString>jogando roleta.</Play_Roulette.reportString>
+
+        <!-- Arcade Game -->
+            <Play_Arcade.reportString>jogando fliperama.</Play_Arcade.reportString>
+
+        <!-- Piano -->
+            <Play_Piano.reportString>tocando piano.</Play_Piano.reportString>
+
+        <!-- Darts -->
+            <Play_DartsBoard.reportString>jogando dardos.</Play_DartsBoard.reportString>
+
+        <!-- Punching Bag -->
+            <Play_PunchingBag.reportString>usando saco de pancadas.</Play_PunchingBag.reportString>
+
+        <!-- Computer -->
+            <Play_ComputerIndustrial.reportString>usando computador.</Play_ComputerIndustrial.reportString>
+            <Play_ComputerModern.reportString>usando computador.</Play_ComputerModern.reportString>
+
     <!-- Vanilla Hair Expanded -->
         <!-- Changing Hair -->
             <VHE_ChangeHairstyle.reportString>cortando o cabelo em TargetA.</VHE_ChangeHairstyle.reportString>

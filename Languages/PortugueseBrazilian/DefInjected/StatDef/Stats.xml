@@ -11,4 +11,9 @@
             <ArrestPeacefullyChance.label>chance de prisão pacífica</ArrestPeacefullyChance.label>
             <ArrestPeacefullyChance.description>Chanche base de que essa pessoa possa convencer um preso a ir em silêncio.</ArrestPeacefullyChance.description>
 
+    <!-- Vanilla Furniture Expanded -->
+        <!-- Hearing Ability -->
+            <AO_MusicHearingAbility.label>habilidade auditiva</AO_MusicHearingAbility.label>
+            <AO_MusicHearingAbility.description>Quão eficazes são as fontes musicais de diversão, como rádios.</AO_MusicHearingAbility.description>
+
 </LanguageData>

@@ -578,6 +578,156 @@
             <Windmill.label>moinho de vento</Windmill.label>
             <Windmill.description>Um gerador elétrico antigo movido a vento. Requer um grande espaço livre na frente e atrás para um fluxo de ar ideal.</Windmill.description>
 
+    <!-- Vanilla Furniture Expanded -->
+        <!-- Slab Bed -->
+            <Bed_StoneSlab.label>cama de laje</Bed_StoneSlab.label>
+            <Bed_StoneSlab.description>Uma grande laje de pedra alisada, muito desconfortável e apenas um pouco melhor do que dormir no chão.</Bed_StoneSlab.description>
+
+        <!-- Simple Bed -->
+            <Bed_Simple.label>cama simples</Bed_Simple.label>
+            <Bed_Simple.description>Uma rede e um travesseiro um tanto confortáveis ​​repousados sobre uma estrutura robusta.</Bed_Simple.description>
+
+        <!-- Sitting Cushion -->
+            <Seat_Cushion.label>almofada</Seat_Cushion.label>
+            <Seat_Cushion.description>Uma almofada simples para sentar. Pode ser usado em mesas, estações de trabalho e em outros lugares.</Seat_Cushion.description>
+
+        <!-- Bench -->
+            <Seat_Bench.label>assento</Seat_Bench.label>
+            <Seat_Bench.description>Uma plataforma longa e simples na qual várias pessoas podem se sentar ao mesmo tempo, não muito confortável, mas muito melhor do que nada. Pode ser usado em mesas, estações de trabalho e em outros lugares.</Seat_Bench.description>
+
+        <!-- Square Chair -->
+            <Seat_SquareChair.label>cadeira quadrada</Seat_SquareChair.label>
+            <Seat_SquareChair.description>Uma cadeira confortável e atraente, não especificamente usada para jantar. Pode ser usada em mesas, estações de trabalho e em outros lugares.</Seat_SquareChair.description>
+    
+        <!-- Table -->
+            <Table_1x1c.label>mesa (1x1)</Table_1x1c.label>
+            <Table_1x1c.description>As pessoas comem nas mesas quando as cadeiras são colocadas de frente para elas.</Table_1x1c.description>
+
+        <!-- Countertop -->
+            <Table_Counter.label>bancada</Table_Counter.label>
+            <Table_Counter.description>Uma superfície lisa na altura da cintura para comer, comumente encontrada em cozinhas e bares.</Table_Counter.description>
+
+        <!-- Stone Campfire -->
+            <Stone_Campfire.label>fogueira de pedra</Stone_Campfire.label>
+            <Stone_Campfire.description>Produz menos calor, mais luz, e queima mais lentamente do que a fogueira padrão. Tal como acontece com todas as fontes de calor, deve ser colocada dentro de casa para que tenha um espaço fechado para aquecer. Reabastecível.</Stone_Campfire.description>
+
+        <!-- Lamp End Table -->
+            <Table_LightEndTable.label>mesa de canto com luminária</Table_LightEndTable.label>
+            <Table_LightEndTable.description>Uma pequena mesa de cabeceira que torna as camas próximos um pouco mais confortável. Deve ser colocado diretamente ao lado da cabeceira da cama. Colocar mais de uma mesa perto da mesma cama não tem efeito.</Table_LightEndTable.description>
+
+        <!-- Industrial Radio -->
+            <Radio_Industrial.label>rádio industrial</Radio_Industrial.label>
+            <Radio_Industrial.description>Um dispositivo antigo de uma época passada, é capaz de captar ondas de rádio e reproduzi-las. Mesmo nesse mundo, geralmente há um uma estação de rádio solitária transmitindo alguma coisa.</Radio_Industrial.description>
+
+        <!-- Longwave Radio -->
+            <Radio_Spacer.label>rádio de ondas longas</Radio_Spacer.label>
+            <Radio_Spacer.description>Um receptor de rádio de alta tecnologia que é capaz de captar sinais muito fracos e reproduzi-los com qualidade cristalina.</Radio_Spacer.description>
+
+        <!-- Arcade Machine -->
+            <Joy_Arcade.label>fliperama</Joy_Arcade.label>
+            <Joy_Arcade.description>Um gabinete alto que contém um pequeno display de raios catódicos e um painel de controle para jogar uma variedade de jogos pré-instalados.</Joy_Arcade.description>
+
+        <!-- Old Computer -->
+            <Joy_InudstrialComputer.label>computador antigo</Joy_InudstrialComputer.label>
+            <Joy_InudstrialComputer.description>Um computador baseado em um design antigo, muito ineficiente e sujeito a travamentos. Impulsiona o aprendizado após o uso.</Joy_InudstrialComputer.description>
+
+        <!-- Modern Computer -->
+            <Joy_ModernComputer.label>computador moderno</Joy_ModernComputer.label>
+            <Joy_ModernComputer.description>Um computador de alta tecnologia com o uso de um monitor LCD e peças de melhor desempenho que são menos propensas a travamentos. Impulsiona o aprendizado após o uso.</Joy_ModernComputer.description>
+
+        <!-- Piano -->
+            <Joy_Piano.label>piano</Joy_Piano.label>
+            <Joy_Piano.description>Um grande piano, bastante agradável e uma ótima maneira de desenvolver o talento artístico.</Joy_Piano.description>
+
+        <!-- Roulette Table -->
+            <Joy_RouletteTable.label>mesa de roleta</Joy_RouletteTable.label>
+            <Joy_RouletteTable.description>Uma mesa de tampo macio com uma roda para jogar roleta, uma boa maneira de treinar suas habilidades sociais.</Joy_RouletteTable.description>
+
+        <!-- Darts Board -->
+            <Joy_DartsBoard.label>tabuleiro de dardos</Joy_DartsBoard.label>
+            <Joy_DartsBoard.description>Um jogo popular envolvendo o lançamento de dardos em um alvo circular, é relaxante e treina habilidades de tiro.</Joy_DartsBoard.description>
+
+        <!-- Punching Bag -->
+            <Joy_PunchingBag.label>saco de pancadas</Joy_PunchingBag.label>
+            <Joy_PunchingBag.description>Um saco de pancadas cheio de tecido. Ajuda a treinar habilidades corpo-a-corpo.</Joy_PunchingBag.description>
+
+        <!-- Outdoor Lamp -->
+            <Light_Streetlamp.label>poste de luz</Light_Streetlamp.label>
+            <Light_Streetlamp.description>Uma lâmpada elétrica alta que ilumina uma área, podendo ser colocada ao ar livre, o que a torna ideal para a iluminação de estradas. Só ascende à noite.</Light_Streetlamp.description>
+            <Light_Streetlamp.comps.1.offMessage>Desligado durante o dia</Light_Streetlamp.comps.1.offMessage>
+
+        <!-- File Cabinet -->
+            <Misc_FileCabinet.label>armário de arquivos</Misc_FileCabinet.label>
+            <Misc_FileCabinet.description>Uma peça de mobiliário usada para organizar documentos e registros em formato de papel. Ajuda a realizar tarefas de pesquisa.</Misc_FileCabinet.description>
+
+        <!-- Shelf -->
+            <Shelf_1x1c.label>prateleira (1x1)</Shelf_1x1c.label>
+            <Shelf_1x1c.description>Uma pequena prateleira para armazenar itens diversos. Itens armazenados nisto não irão se deteriorar, mesmo se no lado de fora.</Shelf_1x1c.description>
+
+        <!-- Weapon Rack -->
+            <Shelf_WeaponRack.label>porta-armas</Shelf_WeaponRack.label>
+            <Shelf_WeaponRack.description>Uma prateleira resistente para armazenamento de armamento. Armas rmazenadas nisto não irão se deteriorar, mesmo se no lado de fora.</Shelf_WeaponRack.description>
+
+        <!-- Small Bin -->
+            <Bin_Small.label>lixeira pequena</Bin_Small.label>
+            <Bin_Small.description>Uma pequena lixeira para ajudar a manter a área ao seu redor limpa. Remove lentamente o lixo e a sujeira em um pequeno raio.</Bin_Small.description>
+
+        <!-- Large Bin -->
+            <Bin_Large.label>lixeira grande</Bin_Large.label>
+            <Bin_Large.description>Uma lixeira grande para ajudar a manter a área ao seu redor limpa. Remove lentamente o lixo e a sujeira em um grande raio.</Bin_Large.description>
+
+        <!-- Ergonomic Bed -->
+            <Bed_Ergonomic.label>cama ergonômica</Bed_Ergonomic.label>
+            <Bed_Ergonomic.description>Uma cama ergonomicamente projetada para apoiar a coluna, distribuir o peso corporal e melhorar a qualidade geral do sono.</Bed_Ergonomic.description>
+
+        <!-- Ergonomic Double Bed -->
+            <Bed_DoubleErgonomic.label>cama de casal ergonômica</Bed_DoubleErgonomic.label>
+            <Bed_DoubleErgonomic.description>Uma cama ergonomicamente projetada para apoiar a coluna, distribuir o peso corporal e melhorar a qualidade geral do sono. Suporta duas pessoas.</Bed_DoubleErgonomic.description>
+
+        <!-- Wardrobe -->
+            <Table_Wardrobe.label>guarda roupa</Table_Wardrobe.label>
+            <Table_Wardrobe.description>Um guarda-roupa alto para guardar roupas e outros itens. Dá um pequeno bônus de eficácia do descanso para todas as camas próximas. Colocar mais de um guarda roupa perto da mesma cama não tem efeito.</Table_Wardrobe.description>
+
+        <!-- Ergonomic Chair -->
+            <Seat_ModernChair.label>cadeira ergonômica</Seat_ModernChair.label>
+            <Seat_ModernChair.description>Uma cadeira ergonômica flexível projetada para se ajustar às curvas do corpo humano, melhorando o conforto.</Seat_ModernChair.description>
+
+        <!-- Modern Lamp -->
+            <Light_ModernLamp.label>luminária moderna</Light_ModernLamp.label>
+            <Light_ModernLamp.description>Uma lâmpada que converte eletricidade em luz de forma mais eficaz, útil para iluminar salas. Entra em curto-circuito na chuva.</Light_ModernLamp.description>
+
+        <!-- Royal Poster Bed -->
+            <Bed_Kingsize.label>cama com dossel real</Bed_Kingsize.label>
+            <Bed_Kingsize.description>Uma cama digna de um rei, decorada com pôsteres incrustados de ouro e um descanso de cabeça alto. Extremamente confortável e bonita, é um verdadeiro luxo. Suporta duas pessoas.</Bed_Kingsize.description>
+
+        <!-- Royal End Table -->
+            <Table_RoyalEndTable.label>mesa de canto real</Table_RoyalEndTable.label>
+            <Table_RoyalEndTable.description>Uma pequena mesa de cabeceira adornada com luxuosos acessórios dourados, tornando as camas próximas mais confortáveis. Deve ser colocada diretamente ao lado da cabeceira da cama. Colocar mais de uma mesa de canto perto da mesma cama não tem efeito.</Table_RoyalEndTable.description>
+
+        <!-- Royal Dresser -->
+            <Table_RoyalDresser.label>cômoda real</Table_RoyalDresser.label>
+            <Table_RoyalDresser.description>Uma cômoda luxuosa, adornada com ouro maciço e de design elegante, tornando as camas próximas mais confortáveis. Placing more than one end table near the same bed has no effect. Colocar mais de uma cômoda perto da mesma cama não tem efeito.</Table_RoyalDresser.description>
+
+        <!-- Royal Chair -->
+            <Seat_RoyalChair.label>cadeira real</Seat_RoyalChair.label>
+            <Seat_RoyalChair.description>Um assento confortável e acolchoado com um encosto alto apoiado em uma moldura dourada. Pode ser usada em mesas, estações de trabalho e em outros lugares.</Seat_RoyalChair.description>
+
+        <!-- Royal Armchair -->
+            <Seat_RoyalArmchair.label>poltrona real</Seat_RoyalArmchair.label>
+            <Seat_RoyalArmchair.description>Um assento grande, macio e luxuoso. Encaixado em uma moldura dourada apenas para as elites mais ricas. Pode ser usada em mesas, estações de trabalho e em outros lugares.</Seat_RoyalArmchair.description>
+
+        <!-- Royal Table -->
+            <Table_Royal1x1c.label>mesa real (1x1)</Table_Royal1x1c.label>
+            <Table_Royal1x1c.description>Uma mesa de aparência impressionante, completa com uma borda externa dourada e extremidades arredondadas, adequada para os ricos.</Table_Royal1x1c.description>
+            <Table_Royal2x2c.label>mesa real (2x2)</Table_Royal2x2c.label>
+            <Table_Royal2x2c.description>Uma mesa de aparência impressionante, completa com uma borda externa dourada e extremidades arredondadas, adequada para os ricos.</Table_Royal2x2c.description>
+            <Table_Royal1x2c.label>mesa real (1x2)</Table_Royal1x2c.label>
+            <Table_Royal1x2c.description>Uma mesa de aparência impressionante, completa com uma borda externa dourada e extremidades arredondadas, adequada para os ricos.</Table_Royal1x2c.description>
+            <Table_Royal3x3c.label>mesa real (3x3)</Table_Royal3x3c.label>
+            <Table_Royal3x3c.description>Uma mesa de aparência impressionante, completa com uma borda externa dourada e extremidades arredondadas, adequada para os ricos.</Table_Royal3x3c.description>
+            <Table_Royal2x4c.label>mesa real (2x4)</Table_Royal2x4c.label>
+            <Table_Royal2x4c.description>Uma mesa de aparência impressionante, completa com uma borda externa dourada e extremidades arredondadas, adequada para os ricos.</Table_Royal2x4c.description>
+
     <!-- Vanilla Hair Expanded -->
         <!-- Barber's Table -->
             <VHE_Filth_Hair.label>mesa de barbearia</VHE_Filth_Hair.label>

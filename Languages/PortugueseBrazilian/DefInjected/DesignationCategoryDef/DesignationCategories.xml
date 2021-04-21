@@ -10,4 +10,9 @@
         <!-- Factory -->
             <VFE_Factory.label>fábrica</VFE_Factory.label>
 
+    <!-- Vanilla Furniture Expanded -->
+        <!-- Ext. Furniture -->
+            <AOMorefurniture.label>mobília ext.</AOMorefurniture.label>
+            <AOMorefurniture.description>As novas peças de mobília adicionadas por "Vanilla Furniture Expanded".</AOMorefurniture.description>
+
 </LanguageData>
