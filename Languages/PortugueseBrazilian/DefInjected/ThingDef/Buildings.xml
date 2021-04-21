@@ -759,6 +759,57 @@
             <Wall_SterileTeal.label>parede estéril verde-azulada</Wall_SterileTeal.label>
             <Wall_SterileBrown.label>parede estéril marrom</Wall_SterileBrown.label>
 
+    <!-- Vanilla Furniture Expanded - Spacer Module -->
+        <!-- Advanced Bed -->
+            <Bed_AdvBed.label>cama avançada</Bed_AdvBed.label>
+            <Bed_AdvBed.description>Uma cama elétrica tecnológica que se reajusta automaticamente para se ajustar perfeitamente aos contornos do colono, com geração de ruído branco integrada. Pessoas que dormem frequentemente relatam que se sentem revigoradas e mais alertas na manhã seguinte.</Bed_AdvBed.description>
+
+        <!-- Advanced Double Bed -->
+            <Bed_AdvDoubleBed.label>cama de casal avançada</Bed_AdvDoubleBed.label>
+            <Bed_AdvDoubleBed.description>Uma cama elétrica tecnológica que se reajusta automaticamente para se ajustar perfeitamente aos contornos do colono, com geração de ruído branco integrada. Pessoas que dormem frequentemente relatam que se sentem revigoradas e mais alertas na manhã seguinte. Suporta duas pessoas.</Bed_AdvDoubleBed.description>
+
+        <!-- Illuminated End Table -->
+            <Table_IlluminatedEndTable.label>mesa de canto iluminada</Table_IlluminatedEndTable.label>
+            <Table_IlluminatedEndTable.description>Uma pequena mesa de cabeceira iluminada adornada com faixas de luz que torna as camas próximas um pouco mais confortáveis, ao mesmo tempo que ilumina o quarto. Deve ser colocada diretamente ao lado da cabeceira da cama. Colocar mais de uma mesa de canto perto da mesma cama não tem efeito.</Table_IlluminatedEndTable.description>
+
+        <!-- Illuminated Dresser -->
+            <Table_IlluminatedDresser.label>cômoda iluminada</Table_IlluminatedDresser.label>
+            <Table_IlluminatedDresser.description>Uma cômoda iluminada, adornada com faixas claras. Oferece um pequeno bônus de conforto para todas as camas próximas, enquanto ilumina o quarto. Colocar mais de uma cômoda perto da mesma cama não tem efeito.</Table_IlluminatedDresser.description>
+
+        <!-- Ultrascreen Television -->
+            <UltrascreenTV.label>televisão de ultra-tela</UltrascreenTV.label>
+            <UltrascreenTV.description>Uma televisão enorme, curva e ultra-tecnológica. Os espectadores se sentem como se eles próprios fizessem parte da ação.</UltrascreenTV.description>
+
+        <!-- Biolab Sun Lamp -->
+            <Spacer_SunLamp.label>lâmpada solar de biolaboratório</Spacer_SunLamp.label>
+            <Spacer_SunLamp.description>Uma grande lâmpada solar que ilumina uma extensa área com intensidade suficiente para o cultivo, além de fornecer calor, consumindo apenas uma quantidade moderada de energia. Não desliga à noite e não entra curto-circuito na chuva.</Spacer_SunLamp.description>
+
+        <!-- Spacer Lamp -->
+            <Light_SpacerLamp.label>lâmpada espacial</Light_SpacerLamp.label>
+            <Light_SpacerLamp.description>Uma lâmpada avançada e potente que ilumina de forma eficaz, utilizando um módulo de regulação de temperatura integrado para manter os quartos mais quentes a uma temperatura máxima de 15°C. Pode ser colocada no exterior com segurança.</Light_SpacerLamp.description>
+
+        <!-- Repair Shelf -->
+            <Shelf_RepairRack.label>prateleira de reparo</Shelf_RepairRack.label>
+            <Shelf_RepairRack.description>Uma prateleira tecnológica que utiliza mecanismos para curar lentamente qualquer dano em qualquer roupa, armadura ou armas colocadas nela.</Shelf_RepairRack.description>
+
+        <!-- Outdoor Solar Lamp -->
+            <Spacer_OutdoorLamp.label>lâmpada solar exterior</Spacer_OutdoorLamp.label>
+            <Spacer_OutdoorLamp.description>Uma lâmpada autossustentável para uso externo, mais fraca do que uma lâmpada industrial normal, mas não requer energia, armazenando energia durante o dia para se alimentar 24 horas por dia, 7 dias por semana. Pode ser colocada no exterior com segurança.</Spacer_OutdoorLamp.description>
+
+        <!-- Reinforced Wall -->
+            <Reinforced_WallAT.label>parede reforçada</Reinforced_WallAT.label>
+            <Reinforced_WallAT.description>Uma parede intransitável reforçada, criada por materiais em camadas uns sobre os outros. Capaz de segurar um telhado.</Reinforced_WallAT.description>
+
+        <!-- Advanced Chair -->
+            <Seat_AdvChair.label>cadeira avançada</Seat_AdvChair.label>
+            <Seat_AdvChair.description>Uma cadeira avançada que altera-se automaticamente de acordo com os contornos do acompanhante, oferecendo um ótimo suporte para as costas em todos os momentos e melhorando muito o conforto. O luxo.</Seat_AdvChair.description>
+
+        <!-- Interactive Table -->
+            <Table_interactive_1x1c.label>mesa interativa (1x1)</Table_interactive_1x1c.label>
+            <Table_interactive_1x1c.description>Uma mesa com display interativo para assistir shows, jogar ou fazer anotações enquanto se alimenta. Atende a necessidade de recreação quando um colono come nesta mesa.</Table_interactive_1x1c.description>
+            <Table_interactive_2x2c.label>mesa interativa (2x2)</Table_interactive_2x2c.label>
+            <Table_interactive_2x2c.description>Uma mesa com display interativo para assistir shows, jogar ou fazer anotações enquanto se alimenta. Atende a necessidade de recreação quando um colono come nesta mesa.</Table_interactive_2x2c.description>
+
     <!-- Vanilla Hair Expanded -->
         <!-- Barber's Table -->
             <VHE_Filth_Hair.label>mesa de barbearia</VHE_Filth_Hair.label>

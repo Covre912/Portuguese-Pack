@@ -144,6 +144,19 @@
             <FlatscreenTelevision.label>eletrônicos complexos</FlatscreenTelevision.label>
             <FlatscreenTelevision.description>Construa eletrônicos complexos, como televisões de tela plana, rádios de ondas longas e muito mais.</FlatscreenTelevision.description>
 
+    <!-- Vanilla Furniture Expanded - Spacer Module -->
+        <!-- Spaver Furniture -->
+            <SpacerFurniture.label>móveis espaciais</SpacerFurniture.label>
+            <SpacerFurniture.description>Construa móveis espaciais, normalmente vistos apenas em colônias avançadas e edifícios do mundo brilhante.</SpacerFurniture.description>
+
+        <!-- Spacer Eletronics -->
+            <SpacerElectronics.label>eletrônicos espaciais</SpacerElectronics.label>
+            <SpacerElectronics.description>Construa eletrônicos espaciais geralmente vistos apenas em colônias avançadas e edifícios do mundo brilhante.</SpacerElectronics.description>
+
+        <!-- Mechanite Restoration -->
+            <MechaniteRestoration.label>restauração de mecanita</MechaniteRestoration.label>
+            <MechaniteRestoration.description>Use mecanitas ultratecnológicas para auxiliar na restauração de objetos construindo uma prateleira de reparo.</MechaniteRestoration.description>
+
     <!-- Vanilla Weapons Expanded -->
         <!-- Longbow -->
             <VWE_Longbow.label>arco longo</VWE_Longbow.label>

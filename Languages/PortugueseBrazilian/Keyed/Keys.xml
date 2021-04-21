@@ -2259,6 +2259,24 @@
 	        <VCEF_No>Não</VCEF_No>
 	        <VCEF_ZoneTooSmall>Esta área é muito pequena. Áreas de pesca precisam ter pelo menos {0} blocos para funcionarem.</VCEF_ZoneTooSmall>
 
+        <!-- Vanilla Furniture Expanded - Spacer Module -->
+            <!-- Light -->
+                <TargetLightRadius>Raio de luz atual</TargetLightRadius>
+                <CurrentLightOpacity>Intensidade atual</CurrentLightOpacity>
+                <CommandRaiseLightRDesc>Aumente o raio atual.</CommandRaiseLightRDesc>
+                <CommandLowerLightRDesc>Diminua o raio atual.</CommandLowerLightRDesc>
+                <CommandRaiseLightIntDesc>Aumente a intensidade atual.</CommandRaiseLightIntDesc>
+                <CommandLowerLightIntDesc>Diminua a intensidade atual.</CommandLowerLightIntDesc>
+                <LightIntensityPercent>% de Intensidade.</LightIntensityPercent>
+                <LightRadiusCells> Raio.</LightRadiusCells>
+                
+            <!-- Colors -->
+                <SwitchedColourDesc>Mudar a cor da luz para </SwitchedColourDesc>
+                <LightColourRed>Vermelho</LightColourRed>
+                <LightColourGreen>Verde</LightColourGreen>
+                <LightColourBlue>Azul</LightColourBlue>
+                <LightColourWhite>Branco</LightColourWhite>
+
         <!-- Vanilla Hair Expanded -->
             <!-- Settings -->
                 <VanillaHairExpanded.SettingsCategory>Vanilla Hair Expanded</VanillaHairExpanded.SettingsCategory>
