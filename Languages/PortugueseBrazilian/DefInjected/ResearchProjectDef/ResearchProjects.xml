@@ -144,6 +144,19 @@
             <FlatscreenTelevision.label>eletrônicos complexos</FlatscreenTelevision.label>
             <FlatscreenTelevision.description>Construa eletrônicos complexos, como televisões de tela plana, rádios de ondas longas e muito mais.</FlatscreenTelevision.description>
 
+    <!-- Vanilla Furniture Expanded - Farming Module -->
+        <!-- Artificial Ecosystems -->
+            <VFE_Res_AdvancedHydroponics.label>ecossistemas artificiais</VFE_Res_AdvancedHydroponics.label>
+            <VFE_Res_AdvancedHydroponics.description>Aprenda a construir ecossistemas artificiais altamente avançados que melhoram amplamente a hidroponia.</VFE_Res_AdvancedHydroponics.description>
+
+        <!-- Sprinklers -->
+            <VFE_Res_Sprinkler.label>irrigadores</VFE_Res_Sprinkler.label>
+            <VFE_Res_Sprinkler.description>Construa um dispositivo que pode regar campos automaticamente, aumentando a velocidade de crescimento das safras.</VFE_Res_Sprinkler.description>
+
+        <!-- Farming Techniques -->
+            <VFE_Res_FarmingTechniques.label>técnicas de cultivo</VFE_Res_FarmingTechniques.label>
+            <VFE_Res_FarmingTechniques.description>Desenvolva uma base teórica para operações agrícolas em larga escala, incluindo alimentação centralizada e espantalhos dedicados para manter suas plantações intactas.</VFE_Res_FarmingTechniques.description>
+
     <!-- Vanilla Furniture Expanded - Spacer Module -->
         <!-- Spaver Furniture -->
             <SpacerFurniture.label>móveis espaciais</SpacerFurniture.label>

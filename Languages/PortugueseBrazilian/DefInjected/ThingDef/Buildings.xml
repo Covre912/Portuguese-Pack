@@ -728,6 +728,39 @@
             <Table_Royal2x4c.label>mesa real (2x4)</Table_Royal2x4c.label>
             <Table_Royal2x4c.description>Uma mesa de aparência impressionante, completa com uma borda externa dourada e extremidades arredondadas, adequada para os ricos.</Table_Royal2x4c.description>
 
+    <!-- Vanilla Furniture Expanded - Farming Module -->
+        <!-- Tilable Planter Box -->
+            <VFE_PlanterBox_Tilable.label>caixa de plantio modular</VFE_PlanterBox_Tilable.label>
+            <VFE_PlanterBox_Tilable.description>Cultiva plantas em uma caixa de plantio. Não requer energia para funcionar.\n\nEsta versão é modular e pode ser distribuída em qualquer formato necessário.</VFE_PlanterBox_Tilable.description>
+
+        <!-- Tilable Hydroponics Basic -->
+            <VFE_Hydroponics_Tilable.label>bacia de hidroponia modular</VFE_Hydroponics_Tilable.label>
+            <VFE_Hydroponics_Tilable.description>Cultiva plantas rapidamente em um banho de nutrientes artificial. Requer energia para funcionar; as plantas irão morrer se a energia for cortada.\n\nEsta versão é modular e pode ser distribuída em qualquer formato necessário.</VFE_Hydroponics_Tilable.description>
+
+        <!-- Tilable Artificial Ecosystem -->
+            <VFE_Ecosystem_Tilable.label>ecossistema artificial modular</VFE_Ecosystem_Tilable.label>
+            <VFE_Ecosystem_Tilable.description>Cultiva plantas rapidamente em um ecossistema artificial que pode ser configurado para cultivar com eficácia até mesmo plantas exigentes. Requer uma grande quantidade de energia para funcionar; as plantas irão morrer se a energia for cortada. Contém uma lâmpada solar embutida para fornecer luz para as plantas.\n\nEsta versão é modular e pode ser distribuída em qualquer formato necessário.</VFE_Ecosystem_Tilable.description>
+
+        <!-- Planter Box -->
+            <VFE_PlanterBox.label>caixa de plantio</VFE_PlanterBox.label>
+            <VFE_PlanterBox.description>Cultiva plantas em uma caixa de plantio. Não requer energia para funcionar.</VFE_PlanterBox.description>
+
+        <!-- Artificial Ecosystem -->
+            <VFE_Ecosystem.label>ecossistema artificial</VFE_Ecosystem.label>
+            <VFE_Ecosystem.description>Cultiva plantas rapidamente em um ecossistema artificial que pode ser configurado para cultivar com eficácia até mesmo plantas exigentes. Requer uma grande quantidade de energia para funcionar; as plantas irão morrer se a energia for cortada. Contém uma lâmpada solar embutida para fornecer luz para as plantas.</VFE_Ecosystem.description>
+
+        <!-- Scarecrow -->
+            <VFE_Scarecrow.label>espantalho</VFE_Scarecrow.label>
+            <VFE_Scarecrow.description>Uma figura humanóide feita de feno, vestida com roupas velhas para deter os animais em um grande raio. Os animais pequenos terão muito medo de se aproximar.</VFE_Scarecrow.description>
+
+        <!-- Animal Feeder -->
+            <VFE_AnimalFeeder.label>manjedoura</VFE_AnimalFeeder.label>
+            <VFE_AnimalFeeder.description>Uma manjedoura. Alimentos armazenados nisto não irão se deteriorar, mesmo se no lado de fora.</VFE_AnimalFeeder.description>
+
+        <!-- Sprinkler -->
+            <VFE_Sprinkler.label>irrigador</VFE_Sprinkler.label>
+            <VFE_Sprinkler.description>Um aspersor de água. Aumenta a velocidade de crescimento das plantas em seu redor.</VFE_Sprinkler.description>
+
     <!-- Vanilla Furniture Expanded - Medical Module -->
         <!-- Operating Table -->
             <Bed_OperatingTable.label>mesa cirúrgica</Bed_OperatingTable.label>
