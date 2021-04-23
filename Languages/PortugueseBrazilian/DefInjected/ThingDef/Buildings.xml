@@ -792,6 +792,67 @@
             <Wall_SterileTeal.label>parede estéril verde-azulada</Wall_SterileTeal.label>
             <Wall_SterileBrown.label>parede estéril marrom</Wall_SterileBrown.label>
 
+    <!-- Vanilla Furniture Expanded - Production Module -->
+        <!-- Drug Cabinet -->
+            <VFE_DrugCabinet.label>gabinete de drogas</VFE_DrugCabinet.label>
+            <VFE_DrugCabinet.description>Aumenta a velocidade do trabalho quando colocado perto de um laboratório de drogas. Uma bancada de trabalho pode usar até dois gabinetes de drogas.</VFE_DrugCabinet.description>
+
+        <!-- Machining Cabinet -->
+            <VFE_MachiningCabinet.label>armário de usinagem</VFE_MachiningCabinet.label>
+            <VFE_MachiningCabinet.description>Aumenta a velocidade do trabalho quando colocado perto de uma mesa de usinagem. Uma bancada de trabalho pode usar até dois armários de usinagem.</VFE_MachiningCabinet.description>
+
+        <!-- Smithing Cabinet -->
+            <VFE_SmithyCabinet.label>armário de metalurgia</VFE_SmithyCabinet.label>
+            <VFE_SmithyCabinet.description>Aumenta a velocidade do trabalho quando colocado perto de uma forja. Uma bancada de trabalho pode usar até dois armários de metalurgia.</VFE_SmithyCabinet.description>
+
+        <!-- Kitchen Sink Cabinet -->
+            <VFE_KitchenSinkCabinet.label>pia de cozinha</VFE_KitchenSinkCabinet.label>
+            <VFE_KitchenSinkCabinet.description>Aumenta a velocidade do trabalho quando colocado perto de um fogão. Uma bancada de trabalho pode usar até duas pias de cozinha.</VFE_KitchenSinkCabinet.description>
+
+        <!-- Tailor Cabinet -->
+            <VFE_TailorCabinet.label>gabinete de alfaiate</VFE_TailorCabinet.label>
+            <VFE_TailorCabinet.description>Aumenta a velocidade do trabalho quando colocado perto de uma bancada de alfaiate. Uma bancada de trabalho pode usar até dois gabinetes de alfaiate.</VFE_TailorCabinet.description>
+
+        <!-- Fabrication Cabinet -->
+            <VFE_FabricationCabinet.label>gabinete de fabricação</VFE_FabricationCabinet.label>
+            <VFE_FabricationCabinet.description>Aumenta a velocidade do trabalho quando colocado perto de uma bancada de fabricação. Uma bancada de trabalho pode usar até dois gabinetes de fabricação.</VFE_FabricationCabinet.description>
+
+        <!-- Assembly Bench -->
+            <VFE_ComponentFabricationBench.label>mesa de fabricação</VFE_ComponentFabricationBench.label>
+            <VFE_ComponentFabricationBench.description>Uma bancada de trabalho com ferramentas avançadas para a produção de componentes.</VFE_ComponentFabricationBench.description>
+
+        <!-- Eletric Butcher -->
+            <VFE_TableButcherElectric.label>mesa de açougueiro elétrica</VFE_TableButcherElectric.label>
+            <VFE_TableButcherElectric.description>Uma mesa motorizada com uma serra giratória para massacrar criaturas mortas mais rapidamente em fatias precisas de carne crua. Consome muita energia.</VFE_TableButcherElectric.description>
+            
+        <!-- Eletric Drug Lab -->
+            <VFE_TableDrugLabElectric.label>laboratório de drogas elétrico</VFE_TableDrugLabElectric.label>
+            <VFE_TableDrugLabElectric.description>Uma bancada de trabalho avançada equipada com vários recipientes, aquecedores e equipamentos de medição para produção de uma variedades de drogas com mais eficiência. Consome muita energia.</VFE_TableDrugLabElectric.description>
+
+        <!-- Fueled Smelter -->
+            <VFE_FueledSmelter.label>forno de fundição abastecido</VFE_FueledSmelter.label>
+            <VFE_FueledSmelter.description>Uma estação a lenha para fundição. Extrai metal utilizável a partir de pedaços de escórias e outros itens de metal misto.</VFE_FueledSmelter.description>
+
+        <!-- Electric Stonecutter's Table -->
+            <VFE_TableStonecutterElectric.label>mesa de canteiro elétrica</VFE_TableStonecutterElectric.label>
+            <VFE_TableStonecutterElectric.description>Uma mesa de trabalho avançada com serras elétricas e suportes para cortar pedaços de pedra em blocos utilizáveis em menor período de tempo. Consome muita energia.</VFE_TableStonecutterElectric.description>
+
+        <!-- Large Machining Table -->
+            <VFE_TableMachiningLarge.label>bancada de usinagem</VFE_TableMachiningLarge.label>
+            <VFE_TableMachiningLarge.description>Uma bancada equipada com ferramentas avançadas e espaço suficiente para produzir maravilhas tecnológicas a partir de materiais mais simples em menos tempo. Consome energia.</VFE_TableMachiningLarge.description>
+
+        <!-- Large Electric Smithy -->
+            <VFE_TableSmithyLarge.label>bancada de metalurgia</VFE_TableSmithyLarge.label>
+            <VFE_TableSmithyLarge.description>Uma bancada elétrica-alimentada equipada para fundir armas não-mecânicas e ferramentas. Consome muita energia.</VFE_TableSmithyLarge.description>
+
+        <!-- Large Stove -->
+            <VFE_TableStoveLarge.label>bancada de gastronomia</VFE_TableStoveLarge.label>
+            <VFE_TableStoveLarge.description>Um fogão de grande porte, com vários fornos para preparar refeições e cozinhar significativamente mais rápido.</VFE_TableStoveLarge.description>
+
+        <!-- Large Tailoring Table -->
+            <VFE_TableTailorLarge.label>bancada de alfaiate</VFE_TableTailorLarge.label>
+            <VFE_TableTailorLarge.description>Uma bancada de alfaiate com diversas ferramentas e uma máquina de costura para costura rápida de roupas. Pode funcionar sem eletricidade a 33% da velocidade normal.</VFE_TableTailorLarge.description>
+
     <!-- Vanilla Furniture Expanded - Security Module -->
         <!-- Deployable Barrier -->
             <VFES_DeployableBarrier.label>barreira submersível</VFES_DeployableBarrier.label>

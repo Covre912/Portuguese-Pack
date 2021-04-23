@@ -157,6 +157,11 @@
             <VFE_Res_FarmingTechniques.label>técnicas de cultivo</VFE_Res_FarmingTechniques.label>
             <VFE_Res_FarmingTechniques.description>Desenvolva uma base teórica para operações agrícolas em larga escala, incluindo alimentação centralizada e espantalhos dedicados para manter suas plantações intactas.</VFE_Res_FarmingTechniques.description>
 
+    <!-- Vanilla Furniture Expanded - Production Module -->
+        <!-- Manufacturing -->
+            <VFE_Manufacturing.label>manufatura</VFE_Manufacturing.label>
+            <VFE_Manufacturing.description>Construir bancadas de manufatura e centros de trabalho eficientes.</VFE_Manufacturing.description>
+
     <!-- Vanilla Furniture Expanded - Spacer Module -->
         <!-- Spaver Furniture -->
             <SpacerFurniture.label>móveis espaciais</SpacerFurniture.label>
