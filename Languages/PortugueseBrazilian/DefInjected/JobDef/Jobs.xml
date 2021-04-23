@@ -94,6 +94,10 @@
             <Play_ComputerIndustrial.reportString>usando computador.</Play_ComputerIndustrial.reportString>
             <Play_ComputerModern.reportString>usando computador.</Play_ComputerModern.reportString>
 
+    <!-- Vanilla Furniture Expanded - Security Module -->
+        <!-- Rearm -->
+            <VFES_RearmTrap.reportString>armando TargetA.</VFES_RearmTrap.reportString>
+
     <!-- Vanilla Hair Expanded -->
         <!-- Changing Hair -->
             <VHE_ChangeHairstyle.reportString>cortando o cabelo em TargetA.</VHE_ChangeHairstyle.reportString>

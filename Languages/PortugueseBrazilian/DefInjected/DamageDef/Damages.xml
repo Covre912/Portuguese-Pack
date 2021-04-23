@@ -90,7 +90,20 @@
     <!-- Vanilla Expanded Framework -->
         <!-- Acid Burn -->
             <VEF_SecondaryAcidBurn.label>ácido</VEF_SecondaryAcidBurn.label>
-            <VEF_SecondaryAcidBurn.deathMessage>{0} foi corroído até a morte.</VEF_SecondaryAcidBurn.deathMessage>
+            <VEF_SecondaryAcidBurn.deathMessage>{0} foi corroíd{0_gender ? o : a} até a morte.</VEF_SecondaryAcidBurn.deathMessage>
+
+    <!-- Vanilla Furniture Expanded - Security Module -->
+        <!-- Splinter -->
+            <VFES_SplinterArrow.label>flecha</VFES_SplinterArrow.label>
+            <VFES_SplinterArrow.deathMessage>{0} foi perfurad{0_gender ? o : a} até a morte por uma flecha gigante.</VFES_SplinterArrow.deathMessage>
+
+        <!-- Rock -->
+            <VFES_Rock.label>rocha</VFES_Rock.label>
+            <VFES_Rock.deathMessage>{0} morreu esmagad{0_gender ? o : a} por uma rocha enorme.</VFES_Rock.deathMessage>
+
+        <!-- Flame -->
+            <VFES_HauntingFlame.label>chama</VFES_HauntingFlame.label>
+            <VFES_HauntingFlame.deathMessage>{0} queimou até a morte .</VFES_HauntingFlame.deathMessage>
 
     <!-- Vanilla Weapons Expanded -->
         <!-- Extinguish -->

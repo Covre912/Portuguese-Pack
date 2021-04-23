@@ -16,4 +16,17 @@
             <AO_MusicHearingAbility.label>habilidade auditiva</AO_MusicHearingAbility.label>
             <AO_MusicHearingAbility.description>Quão eficazes são as fontes musicais de diversão, como rádios.</AO_MusicHearingAbility.description>
 
+    <!-- Vanilla Furniture Expanded - Security Expanded -->
+        <!-- Shield Max Energy -->
+            <VFES_EnergyShieldEnergyMax.label>energia máxima de escudo</VFES_EnergyShieldEnergyMax.label>
+            <VFES_EnergyShieldEnergyMax.description>A energia máxima que um gerador de escudo pode ter ao mesmo tempo. Mais energia absorve mais danos.</VFES_EnergyShieldEnergyMax.description>
+
+        <!-- Shield Recharge Rate -->
+            <VFES_EnergyShieldRechargeRate.label>taxa de recarga de escudo</VFES_EnergyShieldRechargeRate.label>
+            <VFES_EnergyShieldRechargeRate.description>A taxa na qual um escudo ganha energia, desde que não seja quebrado.</VFES_EnergyShieldRechargeRate.description>
+
+        <!-- Shield Radius -->
+            <VFES_EnergyShieldRadius.label>raio de escudo</VFES_EnergyShieldRadius.label>
+            <VFES_EnergyShieldRadius.description>A área coberta quando o escudo de energia está ativo.</VFES_EnergyShieldRadius.description>
+
 </LanguageData>

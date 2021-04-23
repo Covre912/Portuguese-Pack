@@ -13,4 +13,8 @@
         <!-- Stone Chunks -->
             <VFEM_StoneChunks.label>pedaços de pedra</VFEM_StoneChunks.label>
 
+    <!-- Vanilla Furniture Expanded - Security Module -->
+        <!-- Rocks -->
+            <Rocks.label>rochas</Rocks.label>
+
 </LanguageData>

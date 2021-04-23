@@ -157,6 +157,51 @@
             <MechaniteRestoration.label>restauração de mecanita</MechaniteRestoration.label>
             <MechaniteRestoration.description>Use mecanitas ultratecnológicas para auxiliar na restauração de objetos construindo uma prateleira de reparo.</MechaniteRestoration.description>
 
+    <!-- Vanilla Furniture Expanded - Security Module -->
+        <!-- Siege Equipment -->
+            <VFES_SiegeEquipment.label>equipamento de cerco</VFES_SiegeEquipment.label>
+            <VFES_SiegeEquipment.description>Construa equipamento de cerco medieval.</VFES_SiegeEquipment.description>
+
+        <!-- Trench Warfare -->
+            <VFES_TrenchWarfare.label>guerra de trincheiras</VFES_TrenchWarfare.label>
+            <VFES_TrenchWarfare.description>Adapte uma doutrina de guerra de trincheiras com uma seleção de armas para combate corpo a corpo.</VFES_TrenchWarfare.description>
+
+        <!-- Artillery -->
+            <VFES_Artillery.label>artilharia</VFES_Artillery.label>
+            <VFES_Artillery.description>Aprenda a construir artilharias capazes de bombardear alvos distantes no mundo.</VFES_Artillery.description>
+
+        <!-- Sentry Guns -->
+            <VFES_SentryGuns.label>sentinelas</VFES_SentryGuns.label>
+            <VFES_SentryGuns.description>Crie sentinelas confiáveis ​​para serem utilizados no campo de batalha.</VFES_SentryGuns.description>
+
+        <!-- Metal Alloy Barricades -->
+            <VFES_MetalAlloysBarricades.label>barricadas de ligas metálicas</VFES_MetalAlloysBarricades.label>
+            <VFES_MetalAlloysBarricades.description>Construa barricadas de metal reforçado.</VFES_MetalAlloysBarricades.description>
+
+        <!-- Concealed Defenses -->
+            <VFES_ConcealedDefenses.label>defesas submersíveis</VFES_ConcealedDefenses.label>
+            <VFES_ConcealedDefenses.description>Construa barreiras e torres submersíveis, perfeitas para defesas internas.</VFES_ConcealedDefenses.description>
+
+        <!-- Missile Turret -->
+            <VFES_MissileBarrage.label>torreta de mísseis</VFES_MissileBarrage.label>
+            <VFES_MissileBarrage.description>Adapte a tecnologia explosiva em um lançador de mísseis.</VFES_MissileBarrage.description>
+
+        <!-- Pulse-Charged Defenses -->
+            <VFES_PulseChargedDefenses.label>defesas de pulso de carga</VFES_PulseChargedDefenses.label>
+            <VFES_PulseChargedDefenses.description>Desenvolva canhões de carga avançados capazes de manter uma velocidade de tiro consistente.</VFES_PulseChargedDefenses.description>
+
+        <!-- Railgun -->
+            <VFES_Railgun.label>canhão elétrico</VFES_Railgun.label>
+            <VFES_Railgun.description>Adapte o armamento espacial como parte de seus sistemas defensivos.</VFES_Railgun.description>
+
+        <!-- EMP Cannon -->
+            <VFES_EMPCannon.label>canhão PEM</VFES_EMPCannon.label>
+            <VFES_EMPCannon.description>Desenvolva canhões PEM, úteis com sua capacidade de atordoar mecanóides.</VFES_EMPCannon.description>
+
+        <!-- Repulsor Technology -->
+            <VFES_RepulsorTechnology.label>tecnologia repulsora</VFES_RepulsorTechnology.label>
+            <VFES_RepulsorTechnology.description>Construa geradores de escudo que projetem campos de energia capazes de repelir projéteis.</VFES_RepulsorTechnology.description>
+
     <!-- Vanilla Weapons Expanded -->
         <!-- Longbow -->
             <VWE_Longbow.label>arco longo</VWE_Longbow.label>

@@ -101,6 +101,12 @@
             <DoBillsHaulStone_Campfire.verb>trabalhar em</DoBillsHaulStone_Campfire.verb>
             <DoBillsHaulStone_Campfire.gerund>trabalhando em</DoBillsHaulStone_Campfire.gerund>
 
+    <!-- Vanilla Furniture Expanded - Security Module -->
+        <!-- Traps -->
+            <VFES_ConstructRearmTrap.label>armar armadilhar</VFES_ConstructRearmTrap.label>
+            <VFES_ConstructRearmTrap.verb>armar</VFES_ConstructRearmTrap.verb>
+            <VFES_ConstructRearmTrap.gerund>armando</VFES_ConstructRearmTrap.gerund>
+
     <!-- Zombieland -->
         <!-- Extract Zombie Serum -->
             <ExtractZombieSerum.label>extrair soro de cadáveres de zumbis</ExtractZombieSerum.label>

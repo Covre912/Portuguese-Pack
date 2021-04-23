@@ -977,6 +977,10 @@
             <VFE_FactoryPath.label>caminho de fábrica</VFE_FactoryPath.label>
             <VFE_FactoryPath.description>Um caminho de fábrica designado e seguro. Aumenta a velocidade de movimento, mas precisa ser colocado no chão de fábrica.</VFE_FactoryPath.description>
 
+    <!-- Vanilla Furniture Expanded - Security Module -->
+        <!-- Trench Floor -->
+            <VFES_TrenchTerrain.label>trincheira</VFES_TrenchTerrain.label>
+
     <!-- VFE - Mechanoids : Unoffical Add-On -->
         <!-- Black Concrete -->
             <MAO_BlackConcrete.label>concreto preto</MAO_BlackConcrete.label>

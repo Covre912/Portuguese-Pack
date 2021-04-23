@@ -2259,28 +2259,74 @@
 	        <VCEF_No>Não</VCEF_No>
 	        <VCEF_ZoneTooSmall>Esta área é muito pequena. Áreas de pesca precisam ter pelo menos {0} blocos para funcionarem.</VCEF_ZoneTooSmall>
 
-        <!-- Vanilla Furniture Expanded - Spacer Module -->
-            <!-- Light -->
-                <TargetLightRadius>Raio de luz atual</TargetLightRadius>
-                <CurrentLightOpacity>Intensidade atual</CurrentLightOpacity>
-                <CommandRaiseLightRDesc>Aumente o raio atual.</CommandRaiseLightRDesc>
-                <CommandLowerLightRDesc>Diminua o raio atual.</CommandLowerLightRDesc>
-                <CommandRaiseLightIntDesc>Aumente a intensidade atual.</CommandRaiseLightIntDesc>
-                <CommandLowerLightIntDesc>Diminua a intensidade atual.</CommandLowerLightIntDesc>
-                <LightIntensityPercent>% de Intensidade.</LightIntensityPercent>
-                <LightRadiusCells> Raio.</LightRadiusCells>
-                
-            <!-- Colors -->
-                <SwitchedColourDesc>Mudar a cor da luz para </SwitchedColourDesc>
-                <LightColourRed>Vermelho</LightColourRed>
-                <LightColourGreen>Verde</LightColourGreen>
-                <LightColourBlue>Azul</LightColourBlue>
-                <LightColourWhite>Branco</LightColourWhite>
+    <!-- Vanilla Furniture Expanded - Security Module -->
+        <!-- Submersible -->
+            <VFESecurity.Submerged>submerso</VFESecurity.Submerged>
 
-        <!-- Vanilla Hair Expanded -->
-            <!-- Settings -->
-                <VanillaHairExpanded.SettingsCategory>Vanilla Hair Expanded</VanillaHairExpanded.SettingsCategory>
-                <VanillaHairExpanded.Beards_ToolTip>Se as barbas são renderizadas ou não nos colonos.</VanillaHairExpanded.Beards_ToolTip>
+        <!-- Long-Range Artillery -->
+            <VFESecurity.WorldTileRange>Alcance</VFESecurity.WorldTileRange>
+            <VFESecurity.TargetWorldTile>Selecionar ladrilho no mundo</VFESecurity.TargetWorldTile>
+            <VFESecurity.TargetWorldTile_Description>Selecione um ladrilho no mundo para essa {0} atirar.</VFESecurity.TargetWorldTile_Description>
+            <VFESecurity.TargetWorldTile_DescriptionShort>Selecione um ladrilho no mundo para atirar.</VFESecurity.TargetWorldTile_DescriptionShort>
+            <VFESecurity.CommandTargetTileFailNoArtillery>Essa {0} não tem nenhuma artilharia adequada.</VFESecurity.CommandTargetTileFailNoArtillery>
+            <VFESecurity.TargetWorldTileOutOfRange>Ladrilho fora do alcance.</VFESecurity.TargetWorldTileOutOfRange>
+            <VFESecurity.TargetMap>Selecionar mapa</VFESecurity.TargetMap>
+            <VFESecurity.TargetPeaceTalks>Selecionar conversa da paz</VFESecurity.TargetPeaceTalks>
+            <VFESecurity.TargetSettlement>Selecionar assentamento</VFESecurity.TargetSettlement>
+            <VFESecurity.TargetOutpost>Selecionar posto avançado</VFESecurity.TargetOutpost>
+            <VFESecurity.TargetWorldTileEmpty>Selecionar área (não terá efeito )</VFESecurity.TargetWorldTileEmpty>
+            <VFESecurity.TargetWorldFlyingObject>Não é possível selecionar objetos em voo.</VFESecurity.TargetWorldFlyingObject>
+            <VFESecurity.TargetWorldTileSameTile>Não é possível selecionar o mesmo ladrilho.</VFESecurity.TargetWorldTileSameTile>
+            <VFESecurity.MessageTargetWorldTileInvalid>A área alvo é inválida.</VFESecurity.MessageTargetWorldTileInvalid>
+            <VFESecurity.Settlement>assentamento</VFESecurity.Settlement>
+            <VFESecurity.MessageTargetWorldTileOutOfRange>A área selecionada está fora do alcance da {0}.</VFESecurity.MessageTargetWorldTileOutOfRange>
+
+        <!-- Messages -->
+            <VFESecurity.GoodwillChangedReason_ArtilleryStrike>atacado por artilharia</VFESecurity.GoodwillChangedReason_ArtilleryStrike>
+            <VFESecurity.Message_ArtilleryBombardmentEnded>{0} de {1} pararam de bombardear seus assentamentos.</VFESecurity.Message_ArtilleryBombardmentEnded>
+
+        <!-- Letters -->
+            <VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>Provocou {0}</VFESecurity.ArtilleryStrikeProvokedGeneric_Letter>
+            <VFESecurity.ArtilleryStrikePeaceTalks_LetterText>Ao enviar um ataque de artilharia na negociação de conversas de paz, as relações entre você e {0} azedaram. Eles podem enviar um grupo de invasão em retaliação.</VFESecurity.ArtilleryStrikePeaceTalks_LetterText>
+            <VFESecurity.ArtilleryStrikeSettlement_Letter>Retaliação de artilharia </VFESecurity.ArtilleryStrikeSettlement_Letter>
+            <VFESecurity.ArtilleryStrikeSettlement_LetterText>Devido à sua provocação via ataque de artilharia, os {0} em {1} decidiram responder ao fogo em seus assentamentos usando sua própria artilharia!\n\nEste bombardeio continuará por alguns dias ou até que você destrua o assentamento inimigo.</VFESecurity.ArtilleryStrikeSettlement_LetterText>
+            <VFESecurity.LetterFactionBaseDefeatedStrike>A base inimiga {0} foi destruída.</VFESecurity.LetterFactionBaseDefeatedStrike>
+
+        <!-- Psychic Pylon -->
+            <VFESecurity.PsychicPylonExposure>Exposição ao pilão psíquico</VFESecurity.PsychicPylonExposure>
+
+        <!-- Ammo Crate -->
+            <VFESecurity.AmmoCrate>Caixa de munição</VFESecurity.AmmoCrate>
+
+        <!-- Rearmable Traps -->
+            <VFESecurity.Armed>Armada</VFESecurity.Armed>
+            <VFESecurity.NeedsRearming>Precisa de armamento</VFESecurity.NeedsRearming>
+            <VFESecurity.DesignatorRearmTraps>Armar</VFESecurity.DesignatorRearmTraps>
+            <VFESecurity.DesignatorRearmTraps_Description>Marque armadilhas rearmáveis desarmadas para serem armadas por seus colonos.</VFESecurity.DesignatorRearmTraps_Description>
+            <VFESecurity.MessageMustDesignateRearmables>Deve designar armadilhas rearmáveis desarmadas.</VFESecurity.MessageMustDesignateRearmables>
+
+    <!-- Vanilla Furniture Expanded - Spacer Module -->
+        <!-- Light -->
+            <TargetLightRadius>Raio de luz atual</TargetLightRadius>
+            <CurrentLightOpacity>Intensidade atual</CurrentLightOpacity>
+            <CommandRaiseLightRDesc>Aumente o raio atual.</CommandRaiseLightRDesc>
+            <CommandLowerLightRDesc>Diminua o raio atual.</CommandLowerLightRDesc>
+            <CommandRaiseLightIntDesc>Aumente a intensidade atual.</CommandRaiseLightIntDesc>
+            <CommandLowerLightIntDesc>Diminua a intensidade atual.</CommandLowerLightIntDesc>
+            <LightIntensityPercent>% de Intensidade.</LightIntensityPercent>
+            <LightRadiusCells> Raio.</LightRadiusCells>
+                
+        <!-- Colors -->
+            <SwitchedColourDesc>Mudar a cor da luz para </SwitchedColourDesc>
+            <LightColourRed>Vermelho</LightColourRed>
+            <LightColourGreen>Verde</LightColourGreen>
+            <LightColourBlue>Azul</LightColourBlue>
+            <LightColourWhite>Branco</LightColourWhite>
+
+    <!-- Vanilla Hair Expanded -->
+        <!-- Settings -->
+            <VanillaHairExpanded.SettingsCategory>Vanilla Hair Expanded</VanillaHairExpanded.SettingsCategory>
+            <VanillaHairExpanded.Beards_ToolTip>Se as barbas são renderizadas ou não nos colonos.</VanillaHairExpanded.Beards_ToolTip>
 
         <!-- Float Menu Options -->
             <VanillaHairExpanded.ChangeHairstyle>Alterar penteado</VanillaHairExpanded.ChangeHairstyle>

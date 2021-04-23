@@ -52,6 +52,11 @@
             <VFEM_MedievalTournament.label>torneio medieval</VFEM_MedievalTournament.label>
             <VFEM_MedievalTournament.description>Um local designado para um torneio medieval.</VFEM_MedievalTournament.description>
 
+    <!-- Vanilla Furniture Expanded - Security Module -->
+        <!-- Artillery Strike -->
+            <VFES_TravellingArtilleryStrike.label>ataque de artilharia</VFES_TravellingArtilleryStrike.label>
+            <VFES_TravellingArtilleryStrike.description>Ataque de artilharia em vôo.</VFES_TravellingArtilleryStrike.description>
+
     <!-- [SYR] Set Up Camp -->
         <!-- Caravan Camp -->
             <CaravanCamp.label>Acampamento</CaravanCamp.label>
