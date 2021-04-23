@@ -636,127 +636,127 @@
         <!-- Anchovy -->
         	<VCEF_RawAnchovy.label>anchova</VCEF_RawAnchovy.label>
 		    <VCEF_RawAnchovy.description>Um pequeno peixe forrageiro comum da família Engraulidae. A maioria das espécies é encontrada em águas marinhas, mas várias entram em água salobra e algumas são restritas a água doce.</VCEF_RawAnchovy.description>
-		    <VCEF_RawAnchovy.tools.anchovy.label>anchova</VCEF_RawAnchovy.tools.anchovy.label>
+		    <VCEF_RawAnchovy.tools.0.label>anchova</VCEF_RawAnchovy.tools.0.label>
 
         <!-- Angelfish -->
 		    <VCEF_RawAngelfish.label>acará</VCEF_RawAngelfish.label>
 		    <VCEF_RawAngelfish.description>Acará refere-se a várias espécies de peixes, marinhos e de água doce, que geralmente ostentam cores vivas e corpos comprimidos lateralmente.</VCEF_RawAngelfish.description>
-		    <VCEF_RawAngelfish.tools.angelfish.label>acará</VCEF_RawAngelfish.tools.angelfish.label>
+		    <VCEF_RawAngelfish.tools.0.label>acará</VCEF_RawAngelfish.tools.0.label>
 		
         <!-- Anglerfish -->
 		    <VCEF_RawAnglerfish.label>tamboril</VCEF_RawAnglerfish.label>
 		    <VCEF_RawAnglerfish.description>O tamboril é um peixe ósseo que tem um modo característico de predação, no qual um crescimento carnoso da cabeça do peixe (a esca ou illicium) atua como uma isca para outros peixes.</VCEF_RawAnglerfish.description>
-		    <VCEF_RawAnglerfish.tools.anglerfish.label>tamboril</VCEF_RawAnglerfish.tools.anglerfish.label>
+		    <VCEF_RawAnglerfish.tools.0.label>tamboril</VCEF_RawAnglerfish.tools.0.label>
 		
         <!-- Bass -->
 		    <VCEF_RawBass.label>achigã</VCEF_RawBass.label>
 		    <VCEF_RawBass.description>Achigã é um nome compartilhado por muitas espécies de peixes. O termo abrange espécies de água doce e marinhas, todas pertencentes à grande ordem Perciformes.</VCEF_RawBass.description>
-		    <VCEF_RawBass.tools.bass.label>achigã</VCEF_RawBass.tools.bass.label>
+		    <VCEF_RawBass.tools.0.label>achigã</VCEF_RawBass.tools.0.label>
 		
         <!-- Catfish -->
 		    <VCEF_RawCatfish.label>bagre</VCEF_RawCatfish.label>
 		    <VCEF_RawCatfish.description>Bagres são um grupo diversificado de peixes com barbatanas raiadas. Também são chamados de peixe-gato por seus barbilhões proeminentes, que lembram os bigodes de um gato.</VCEF_RawCatfish.description>
-		    <VCEF_RawCatfish.tools.catfish.label>bagre</VCEF_RawCatfish.tools.catfish.label>
+		    <VCEF_RawCatfish.tools.0.label>bagre</VCEF_RawCatfish.tools.0.label>
 		
         <!-- Clownfish -->
 		    <VCEF_RawClownfish.label>peixe-palhaço</VCEF_RawClownfish.label>
 		    <VCEF_RawClownfish.description>Na natureza, os peixes-palhaço formam mutualismos simbióticos com as anêmonas-do-mar. Dependendo da espécie, o peixe-palhaço é geralmente amarelo, laranja ou avermelhado, e muitos tem listras ou manchas brancas.</VCEF_RawClownfish.description>
-		    <VCEF_RawClownfish.tools.clownfish.label>peixe-palhaço</VCEF_RawClownfish.tools.clownfish.label>
+		    <VCEF_RawClownfish.tools.0.label>peixe-palhaço</VCEF_RawClownfish.tools.0.label>
 		
         <!-- Cod -->
 		    <VCEF_RawCod.label>bacalhau</VCEF_RawCod.label>
 		    <VCEF_RawCod.description>Bacalhau refere-se a várias espécies grandes de peixes com apetite voraz, que se alimentam principalmente de outros peixes e vários invertebrados. O bacalhau tem sido considerado um peixe perfeito para consumo humano, com sua carne branca macia, alto teor de proteínas e baixo teor de gordura.</VCEF_RawCod.description>
-		    <VCEF_RawCod.tools.cod.label>bacalhau</VCEF_RawCod.tools.cod.label>
+		    <VCEF_RawCod.tools.0.label>bacalhau</VCEF_RawCod.tools.0.label>
 		
         <!-- Eel -->
 		    <VCEF_RawEel.label>enguia</VCEF_RawEel.label>
 		    <VCEF_RawEel.description>Enguia é qualquer peixe com barbatana raiada pertencente à ordem Anguilliforme. As enguias são peixes alongados, sem barbatanas pélvicas e muitas espécies também sem barbatanas peitorais. As enguias nadam gerando ondas corporais que percorrem o comprimento de seus corpos.</VCEF_RawEel.description>
-		    <VCEF_RawEel.tools.eel.label>enguia</VCEF_RawEel.tools.eel.label>
+		    <VCEF_RawEel.tools.0.label>enguia</VCEF_RawEel.tools.0.label>
 		
         <!-- Goldfish -->
 		    <VCEF_RawGoldfish.label>peixe-dourado</VCEF_RawGoldfish.label>
 		    <VCEF_RawGoldfish.description>O peixe-dourado (Carassius auratus) é um peixe de água doce da família Cyprinidae da ordem Cypriniformes. É um dos peixes de aquário mais comuns.</VCEF_RawGoldfish.description>
-		    <VCEF_RawGoldfish.tools.goldfish.label>peixe-dourado</VCEF_RawGoldfish.tools.goldfish.label>
+		    <VCEF_RawGoldfish.tools.0.label>peixe-dourado</VCEF_RawGoldfish.tools.0.label>
 		
         <!-- Guppy -->
 		    <VCEF_RawGuppy.label>barrigudinho</VCEF_RawGuppy.label>
 		    <VCEF_RawGuppy.description>O barrigudinho (Poecilia reticulata), também conhecido como guppy ou lebiste, é um dos peixes tropicais mais amplamente distribuídos no mundo e uma das espécies mais populares de peixes de aquário de água doce.</VCEF_RawGuppy.description>
-		    <VCEF_RawGuppy.tools.guppy.label>barrigudinho</VCEF_RawGuppy.tools.guppy.label>
+		    <VCEF_RawGuppy.tools.0.label>barrigudinho</VCEF_RawGuppy.tools.0.label>
 		
         <!-- Haddock -->
 		    <VCEF_RawHaddock.label>hadoque</VCEF_RawHaddock.label>
 		    <VCEF_RawHaddock.description>O hadoque (Melanogrammus aeglefinus) é um peixe de água salgada da família Gadidae, os verdadeiros bacalhaus. É um peixe importante para alimentação e tem sido tradicionalmente consumido fresco ou defumado.</VCEF_RawHaddock.description>
-		    <VCEF_RawHaddock.tools.haddock.label>hadoque</VCEF_RawHaddock.tools.haddock.label>
+		    <VCEF_RawHaddock.tools.0.label>hadoque</VCEF_RawHaddock.tools.0.label>
 		
         <!-- Halibut -->
 		    <VCEF_RawHalibut.label>halibute</VCEF_RawHalibut.label>
 		    <VCEF_RawHalibut.description>Halibute é um nome comum aplicado principalmente à dois peixes achatados da família dos linguados. Menos comumente, e apenas em algumas regiões, outras espécies de peixes achatados também são chamadas de halibutes.</VCEF_RawHalibut.description>
-		    <VCEF_RawHalibut.tools.halibut.label>halibute</VCEF_RawHalibut.tools.halibut.label>
+		    <VCEF_RawHalibut.tools.0.label>halibute</VCEF_RawHalibut.tools.0.label>
 		
         <!-- Herring -->
 		    <VCEF_RawHerring.label>arenque</VCEF_RawHerring.label>
 		    <VCEF_RawHerring.description>O arenque é um peixe forrageiro, pertencente principalmente à família Clupeidae. O arenque costuma se mover em grandes cardumes ao redor dos bancos de pesca e perto da costa.</VCEF_RawHerring.description>
-		    <VCEF_RawHerring.tools.herring.label>arenque</VCEF_RawHerring.tools.herring.label>
+		    <VCEF_RawHerring.tools.0.label>arenque</VCEF_RawHerring.tools.0.label>
 		
         <!-- Koi -->
 		    <VCEF_RawKoi.label>koi</VCEF_RawKoi.label>
 		    <VCEF_RawKoi.description>Koi são variedades coloridas da carpa Amur (Cyprinus rubrofuscus) que são mantidas para fins decorativos em lagoas de carpas ao ar livre ou em jardins aquáticos.</VCEF_RawKoi.description>
-		    <VCEF_RawKoi.tools.koi.label>koi</VCEF_RawKoi.tools.koi.label>
+		    <VCEF_RawKoi.tools.0.label>koi</VCEF_RawKoi.tools.0.label>
 		
         <!-- Lobster -->
 		    <VCEF_RawLobster.label>lagosta</VCEF_RawLobster.label>
 		    <VCEF_RawLobster.description>Lagostas são grandes crustáceos marinhos. Elas têm corpos longos com caudas musculares. Três de seus cinco pares de pernas têm garras, incluindo o primeiro par, que geralmente é muito maior que os outros.</VCEF_RawLobster.description>
-		    <VCEF_RawLobster.tools.lobster.label>lagosta</VCEF_RawLobster.tools.lobster.label>
+		    <VCEF_RawLobster.tools.0.label>lagosta</VCEF_RawLobster.tools.0.label>
 		
         <!-- Mackerel -->
 		    <VCEF_RawMackerel.label>cavalinha</VCEF_RawMackerel.label>
 		    <VCEF_RawMackerel.description>Cavalinha é um nome comum aplicado a várias espécies diferentes de peixes pelágicos, principalmente da família Scombridae. São encontradas em mares temperados e tropicais, vivendo principalmente na costa ou em alto-mar.</VCEF_RawMackerel.description>
-		    <VCEF_RawMackerel.tools.mackerel.label>cavalinha</VCEF_RawMackerel.tools.mackerel.label>
+		    <VCEF_RawMackerel.tools.0.label>cavalinha</VCEF_RawMackerel.tools.0.label>
 
         <!-- Minnow -->
 		    <VCEF_RawMinnow.label>vairão</VCEF_RawMinnow.label>
 		    <VCEF_RawMinnow.description>Vairão é o nome comum para várias espécies de pequenos peixes de água doce, pertencentes a vários gêneros da família Cyprinidae.</VCEF_RawMinnow.description>
-		    <VCEF_RawMinnow.tools.minnow.label>vairão</VCEF_RawMinnow.tools.minnow.label>
+		    <VCEF_RawMinnow.tools.0.label>vairão</VCEF_RawMinnow.tools.0.label>
 		
         <!-- Perch -->
 		    <VCEF_RawPerch.label>perca</VCEF_RawPerch.label>
 		    <VCEF_RawPerch.description>A perca empresta seu nome a uma grande ordem de vertebrados: os Perciformes. Muitas espécies de peixes de água doce se assemelham mais ou menos a percas, mas pertencem a diferentes gêneros.</VCEF_RawPerch.description>
-		    <VCEF_RawPerch.tools.perch.label>perca</VCEF_RawPerch.tools.perch.label>
+		    <VCEF_RawPerch.tools.0.label>perca</VCEF_RawPerch.tools.0.label>
 
         <!-- Piranha -->
 		    <VCEF_RawPiranha.label>piranha</VCEF_RawPiranha.label>
 		    <VCEF_RawPiranha.description>A piranha é um peixe de água doce que habita rios, várzeas, lagos e reservatórios. Embora muitas vezes descrita como extremamente predadora, seus hábitos alimentares variam muito, tendo a sua classificação como onívora.</VCEF_RawPiranha.description>
-		    <VCEF_RawPiranha.tools.piranha.label>piranha</VCEF_RawPiranha.tools.piranha.label>
+		    <VCEF_RawPiranha.tools.0.label>piranha</VCEF_RawPiranha.tools.0.label>
 
         <!-- Pufferfish -->
 		    <VCEF_RawPufferfish.label>baiacu</VCEF_RawPufferfish.label>
 		    <VCEF_RawPufferfish.description>Baiacus são uma família de peixes principalmente marinhos e estuarinos. A maioria das espécies de baiacu é tóxica e algumas estão entre os vertebrados mais venenosos do mundo. Em certas espécies, os órgãos internos, como o fígado e, às vezes, a pele, contêm tetrodotoxina e são altamente tóxicos para a maioria dos animais quando ingeridos; no entanto, a carne de algumas espécies é considerada uma iguaria quando preparada por chefs especialmente treinados.</VCEF_RawPufferfish.description>
-		    <VCEF_RawPufferfish.tools.pufferfish.label>baiacu</VCEF_RawPufferfish.tools.pufferfish.label>
+		    <VCEF_RawPufferfish.tools.0.label>baiacu</VCEF_RawPufferfish.tools.0.label>
 
         <!-- Salmon -->
 		    <VCEF_RawSalmon.label>salmão</VCEF_RawSalmon.label>
 		    <VCEF_RawSalmon.description>Salmão é o nome comum para várias espécies de peixes com barbatanas raiadas da família Salmonidae. Normalmente, os salmões são anádromos: eclodem em água doce, migram para o oceano e depois retornam à água doce para se reproduzir. No entanto, populações de várias espécies ficam restritas à água doce ao longo de suas vidas.</VCEF_RawSalmon.description>
-		    <VCEF_RawSalmon.tools.salmon.label>salmão</VCEF_RawSalmon.tools.salmon.label>
+		    <VCEF_RawSalmon.tools.0.label>salmão</VCEF_RawSalmon.tools.0.label>
 		
         <!-- Sprat -->
 		    <VCEF_RawSprat.label>espadilha</VCEF_RawSprat.label>
 		    <VCEF_RawSprat.description>Espadilha é o nome comum aplicado a um grupo de peixes forrageiros pertencentes ao gênero Sprattus da família Clupeidae. Como a maioria dos peixes forrageiros, a espadilha é altamente ativa, pequena e oleosa. Elas viajam em grandes cardumes com outros peixes e nadam continuamente ao longo do dia.</VCEF_RawSprat.description>
-		    <VCEF_RawSprat.tools.sprat.label>espadilha</VCEF_RawSprat.tools.sprat.label>
+		    <VCEF_RawSprat.tools.0.label>espadilha</VCEF_RawSprat.tools.0.label>
 		
         <!-- Swordfish -->
 		    <VCEF_RawSwordfish.label>peixe-espada</VCEF_RawSwordfish.label>
 		    <VCEF_RawSwordfish.description>O peixe-espada, também conhecido como guaravira, é um peixe grande, altamente migratório e predador, caracterizado por um bico longo, plano e pontiagudo.</VCEF_RawSwordfish.description>
-		    <VCEF_RawSwordfish.tools.swordfish.label>peixe-espada</VCEF_RawSwordfish.tools.swordfish.label>
+		    <VCEF_RawSwordfish.tools.0.label>peixe-espada</VCEF_RawSwordfish.tools.0.label>
 		
         <!-- Trout -->
 		    <VCEF_RawTrout.label>truta</VCEF_RawTrout.label>
 		    <VCEF_RawTrout.description>Truta é o nome comum para várias espécies de peixes de água doce. A maioria das espécies de trutas vive exclusivamente em lagos e rios de água doce, enquanto outras existem, como a truta-prateada, que pode passar dois ou três anos no mar antes de retornar à água doce para desovar (um hábito mais típico do salmão).</VCEF_RawTrout.description>
-		    <VCEF_RawTrout.tools.trout.label>truta</VCEF_RawTrout.tools.trout.label>
+		    <VCEF_RawTrout.tools.0.label>truta</VCEF_RawTrout.tools.0.label>
 
 		<!-- Tuna -->
 		    <VCEF_RawTuna.label>atum</VCEF_RawTuna.label>
 		    <VCEF_RawTuna.description>O atum é um peixe grande de água salgada. Um predador ativo e ágil, tem um corpo elegante e aerodinâmico e está entre os peixes pelágicos que nadam mais rapidamente. O atum tem sido muito apreciado como alimento. Além de seu valor comercial como produto alimentício, o grande tamanho, velocidade e poder que exibem como predadores atraíram a admiração de pescadores, escritores e cientistas.</VCEF_RawTuna.description>
-		    <VCEF_RawTuna.tools.tuna.label>atum</VCEF_RawTuna.tools.tuna.label>
+		    <VCEF_RawTuna.tools.0.label>atum</VCEF_RawTuna.tools.0.label>
 
 	<!-- Vanilla Plants Expanded -->
 		<!-- Apples -->
