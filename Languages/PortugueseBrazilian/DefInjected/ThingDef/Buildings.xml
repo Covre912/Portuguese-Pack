@@ -767,6 +767,9 @@
         <!-- Deployable Turret -->
             <VFES_Turret_FloorTurret.label>torreta submersível</VFES_Turret_FloorTurret.label>
             <VFES_Turret_FloorTurret.description>Uma torreta automática submersível militar, de cano duplo, que atua como um ladrilho normal quando não sem energia. Requer aço para substituir seus canos após muito uso. Pode explodir quando for danificada.\n\nSua IA não pode ser controlada diretamente, então tome cuidado!</VFES_Turret_FloorTurret.description>
+            <VFES_Turret_FloorTurret.comps.CompRefuelable.fuelLabel>Atirar até recarga</VFES_Turret_FloorTurret.comps.CompRefuelable.fuelLabel>
+            <VFES_Turret_FloorTurret.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</VFES_Turret_FloorTurret.comps.CompRefuelable.fuelGizmoLabel>
+            <VFES_Turret_FloorTurret.comps.CompRefuelable.outOfFuelMessage>Não é possível disparar: Precisa de um novo cano</VFES_Turret_FloorTurret.comps.CompRefuelable.outOfFuelMessage>
             <VFES_Gun_FloorTurret.label>torreta militar submersível</VFES_Gun_FloorTurret.label>
         
         <!-- HMG Complex -->

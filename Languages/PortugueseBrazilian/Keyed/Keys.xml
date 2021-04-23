@@ -2261,7 +2261,7 @@
 
     <!-- Vanilla Furniture Expanded - Security Module -->
         <!-- Submersible -->
-            <VFESecurity.Submerged>submerso</VFESecurity.Submerged>
+            <VFESecurity.Submerged>submersa</VFESecurity.Submerged>
 
         <!-- Long-Range Artillery -->
             <VFESecurity.WorldTileRange>Alcance</VFESecurity.WorldTileRange>
