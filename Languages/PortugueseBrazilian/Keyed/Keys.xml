@@ -678,6 +678,65 @@
 	        <KeyRightCommand>Cmd Dir.</KeyRightCommand>
 	        <KeyRightWindows>Win Dir.</KeyRightWindows>
 
+    <!-- Compact Hediffs -->
+        <!-- Settings -->
+            <CompactHediffs_ModTitle>Compact Hediffs</CompactHediffs_ModTitle>
+            <settings_selectExamplePawnIngame>Selecione um colono em jogo para ver uma prévia.</settings_selectExamplePawnIngame>
+            <settings_IsEnabled>Habilitado</settings_IsEnabled>
+            <settings_IsEnabled_tooltip>Habilitado</settings_IsEnabled_tooltip>
+            <settings_replacingPartInBodypart>Aumentos em linha</settings_replacingPartInBodypart>
+            <settings_replacingPartInBodypart_tooltip>Aumentos que substituem uma parte do corpo serão listados como parte de seu nome</settings_replacingPartInBodypart_tooltip>
+            <settings_italicizeMissing>Partes do corpo ausentes em itálico</settings_italicizeMissing>
+            <settings_italicizeMissing_tooltip>Partes do corpo ausentes em itálico</settings_italicizeMissing_tooltip>
+            <settings_evenOddHighlights>Destaque de linha</settings_evenOddHighlights>
+            <settings_evenOddHighlights_tooltip>Destaque as linhas uniformes</settings_evenOddHighlights_tooltip>
+            <settings_verticalSeparator>Separador (vertical)</settings_verticalSeparator>
+            <settings_verticalSeparator_tooltip>Insira um separador vertical entre os nomes das partes do corpo e suas condições relacionadas</settings_verticalSeparator_tooltip>
+            <settings_horizontalSeparator>Separador (horizontal)</settings_horizontalSeparator>
+            <settings_horizontalSeparator_tooltip>Insira um separador horizontal entre as entradas das partes do corpo</settings_horizontalSeparator_tooltip>
+            <settings_internalSeparator>Separador (interno)</settings_internalSeparator>
+            <settings_internalSeparator_tooltip>Insira um separador horizontal entre as condições individuais</settings_internalSeparator_tooltip>
+            <settings_separatorNightMode>Modo noturno do separador</settings_separatorNightMode>
+            <settings_separatorNightMode_tooltip>Os separadores são pretos em vez de cinza</settings_separatorNightMode_tooltip>
+            <settings_bodypartHealthbars>Barras de saúde</settings_bodypartHealthbars>
+            <settings_bodypartHealthbars_tooltip>Insita barras de saúde para partes do corpo</settings_bodypartHealthbars_tooltip>
+            <settings_healthBarPosition>Posição da barra de saúde</settings_healthBarPosition>
+            <settings_healthBarPosition_tooltip>Posicionamento das barras de saúde</settings_healthBarPosition_tooltip>
+            <settings_tendPrioritySort>Classificar por prioridade de tratamento</settings_tendPrioritySort>
+            <settings_tendPrioritySort_tooltip>Classifique localmente as condições de uma parte do corpo por prioridade de tratamento</settings_tendPrioritySort_tooltip>
+            <settings_bleedingIcons>Ícones de sangramento personalizados</settings_bleedingIcons>
+            <settings_bleedingIcons_tooltip>Ícones de sangramento personalizados, dependendo da gravidade do sangramento</settings_bleedingIcons_tooltip>
+            <settings_tendingIcons>Ícones de qualidade de tratamento personalizado</settings_tendingIcons>
+            <settings_tendingIcons_tooltip>Ícones personalizados, dependendo da qualidade do tratamento</settings_tendingIcons_tooltip>
+            <settings_extraTabWidth>Aumente a largura da guia de saúde em</settings_extraTabWidth>
+            <settings_extraTabHeight>Aumente a altura da guia de saúde em</settings_extraTabHeight>
+            <settings_severityBars>Barras de severidade/imunidade </settings_severityBars>
+            <settings_severityBars_tooltip>Insira uma barra de progresso para o progresso da severidade/imunidade da condição</settings_severityBars_tooltip>
+            <settings_severityBarPosition>Posição da barra de severidade</settings_severityBarPosition>
+            <settings_severityBarPosition_tooltip>Posicionamento da barra de severidade</settings_severityBarPosition_tooltip>
+            <settings_severityBarHighContrast>Barras de severidade de alto contraste</settings_severityBarHighContrast>
+            <settings_severityBarHighContrast_tooltip>A barra de severidade/imunidade usa um esquema de cores de alto contraste</settings_severityBarHighContrast_tooltip>
+            <settings_showHiddenProgressConditions>Mostrar barras de condição de progresso ocultas</settings_showHiddenProgressConditions>
+            <settings_showHiddenProgressConditions_tooltip>Mostrar barras de progresso para condições com progresso escondido</settings_showHiddenProgressConditions_tooltip>
+            
+        <!-- Severity Bar Mode -->
+            <SeverityBarMode_Off>Desligado</SeverityBarMode_Off>
+            <SeverityBarMode_LeftToRight>Esquerda para direita</SeverityBarMode_LeftToRight>
+            <SeverityBarMode_EdgeToMiddle>Borda para meio</SeverityBarMode_EdgeToMiddle>
+            <SeverityBarMode_MiddleToEdge>Meio para borda</SeverityBarMode_MiddleToEdge>
+            <SeverityBarMode_Off_tooltip>Desabilitado</SeverityBarMode_Off_tooltip>
+            <SeverityBarMode_LeftToRight_tooltip>Barra única que avança da esquerda para a direita</SeverityBarMode_LeftToRight_tooltip>
+            <SeverityBarMode_EdgeToMiddle_tooltip>Barras separadas começando nas bordas que alcançam o ponto médio em pleno andamento</SeverityBarMode_EdgeToMiddle_tooltip>
+            <SeverityBarMode_MiddleToEdge_tooltip>Barras separadas começando no meio que alcançam a borda em pleno andamento</SeverityBarMode_MiddleToEdge_tooltip>
+
+        <!-- Bar Position -->
+            <BarPosition_Above>Acima</BarPosition_Above>
+            <BarPosition_Behind>Atrás</BarPosition_Behind>
+            <BarPosition_Below>Abaixo</BarPosition_Below>
+            <BarPosition_Above_tooltip>A barra estará acima do texto</BarPosition_Above_tooltip>
+            <BarPosition_Behind_tooltip>A barra estará atrás do texto</BarPosition_Behind_tooltip>
+            <BarPosition_Below_tooltip>A barra estará abaixo do texto</BarPosition_Below_tooltip>
+
     <!-- Damage Indicators [1.2] -->
         <!-- UI -->
             <PERSONALSHIELD_BROKEN>QUEBRADO</PERSONALSHIELD_BROKEN>
