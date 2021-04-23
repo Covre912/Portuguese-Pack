@@ -494,6 +494,11 @@
             <Thought_EffectRadio.stages.1.label>música ambiente</Thought_EffectRadio.stages.1.label>
             <Thought_EffectRadio.stages.1.description>Eu gosto da música que está tocando, é bastante relaxante.</Thought_EffectRadio.stages.1.description>
 
+    <!-- Vanilla Furniture Expanded - Art -->
+        <!-- Imprited -->
+            <VFE_ArchotechSculptureImprint.stages.0.label>impressionado</VFE_ArchotechSculptureImprint.stages.0.label>
+            <VFE_ArchotechSculptureImprint.stages.0.description>A escultura arcotecnológica me faz ver constantemente uma bela obra de arte. Isso me deixa relaxado(a).</VFE_ArchotechSculptureImprint.stages.0.description>
+
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Inspiration Satisfied -->
             <VSIE_InspirationSatisfied.stages.0.label>Inspiração satisfeita</VSIE_InspirationSatisfied.stages.0.label>

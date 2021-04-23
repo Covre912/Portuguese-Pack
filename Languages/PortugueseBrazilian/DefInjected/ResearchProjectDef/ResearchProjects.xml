@@ -144,7 +144,44 @@
             <FlatscreenTelevision.label>eletrônicos complexos</FlatscreenTelevision.label>
             <FlatscreenTelevision.description>Construa eletrônicos complexos, como televisões de tela plana, rádios de ondas longas e muito mais.</FlatscreenTelevision.description>
 
-    <!-- Vanilla Furniture Expanded - Farming Module -->
+    <!-- Vanilla Furniture Expanded - Art -->
+        <!-- Obelisks -->
+            <VFE_Res_Obelisk.label>obeliscos</VFE_Res_Obelisk.label>
+            <VFE_Res_Obelisk.description>Aprenda a esculpir obeliscos altos e estreitos para comemorar eventos importantes.</VFE_Res_Obelisk.description>
+
+        <!-- Pottery -->
+            <VFE_Res_Pottery.label>cerâmica</VFE_Res_Pottery.label>
+            <VFE_Res_Pottery.description>Aprenda a criar lindos vasos de materiais simples.</VFE_Res_Pottery.description>
+
+        <!-- Carvings -->
+            <VFE_Res_WallCarvings.label>gravuras</VFE_Res_WallCarvings.label>
+            <VFE_Res_WallCarvings.description>Domine as técnicas de escultura de parede para criar belos pilares e relevos.</VFE_Res_WallCarvings.description>
+
+        <!-- Artful Display -->
+            <VFE_Res_ArtfulDisplay.label>exibição artística</VFE_Res_ArtfulDisplay.label>
+            <VFE_Res_ArtfulDisplay.description>Crie belas maneiras de exibir artefatos e bens importantes da colônia.</VFE_Res_ArtfulDisplay.description>
+
+        <!-- Statues -->
+            <VFE_Res_Statues.label>estátuas</VFE_Res_Statues.label>
+            <VFE_Res_Statues.description>Esculpa esculturas precisas em forma de personagens, inscritas com ilustrações artísticas.</VFE_Res_Statues.description>
+
+        <!-- Monuments -->
+            <VFE_Res_Monuments.label>monumentos</VFE_Res_Monuments.label>
+            <VFE_Res_Monuments.description>Crie monumentos massivos, peças centrais de sua colônia, para homenagear aqueles que morreram e inspirar aqueles que ainda lutam.</VFE_Res_Monuments.description>
+
+        <!-- Rugs -->
+            <VFE_Res_Rugs.label>tapetes</VFE_Res_Rugs.label>
+            <VFE_Res_Rugs.description>Aprenda a criar lindos tapetes para decorar sua colônia.</VFE_Res_Rugs.description>
+
+        <!-- Wallpapers -->
+            <VFE_Res_Wallpapers.label>papeis de parede</VFE_Res_Wallpapers.label>
+            <VFE_Res_Wallpapers.description>Construa lindas paredes forradas com papel de parede.</VFE_Res_Wallpapers.description>
+
+        <!-- Holograms -->
+            <VFE_Res_Holograms.label>hologramas</VFE_Res_Holograms.label>
+            <VFE_Res_Holograms.description>Adapte técnicas de exibição avançadas para mostrar modelos tridimensionais em sua colônia.</VFE_Res_Holograms.description>
+
+    <!-- Vanilla Furniture Expanded - Farming -->
         <!-- Artificial Ecosystems -->
             <VFE_Res_AdvancedHydroponics.label>ecossistemas artificiais</VFE_Res_AdvancedHydroponics.label>
             <VFE_Res_AdvancedHydroponics.description>Aprenda a construir ecossistemas artificiais altamente avançados que melhoram amplamente a hidroponia.</VFE_Res_AdvancedHydroponics.description>
@@ -157,7 +194,7 @@
             <VFE_Res_FarmingTechniques.label>técnicas de cultivo</VFE_Res_FarmingTechniques.label>
             <VFE_Res_FarmingTechniques.description>Desenvolva uma base teórica para operações agrícolas em larga escala, incluindo alimentação centralizada e espantalhos dedicados para manter suas plantações intactas.</VFE_Res_FarmingTechniques.description>
 
-    <!-- Vanilla Furniture Expanded - Production Module -->
+    <!-- Vanilla Furniture Expanded - Production -->
         <!-- Manufacturing -->
             <VFE_Manufacturing.label>manufatura</VFE_Manufacturing.label>
             <VFE_Manufacturing.description>Construir bancadas de manufatura e centros de trabalho eficientes.</VFE_Manufacturing.description>
@@ -175,7 +212,7 @@
             <MechaniteRestoration.label>restauração de mecanita</MechaniteRestoration.label>
             <MechaniteRestoration.description>Use mecanitas ultratecnológicas para auxiliar na restauração de objetos construindo uma prateleira de reparo.</MechaniteRestoration.description>
 
-    <!-- Vanilla Furniture Expanded - Security Module -->
+    <!-- Vanilla Furniture Expanded - Security -->
         <!-- Siege Equipment -->
             <VFES_SiegeEquipment.label>equipamento de cerco</VFES_SiegeEquipment.label>
             <VFES_SiegeEquipment.description>Construa equipamento de cerco medieval.</VFES_SiegeEquipment.description>

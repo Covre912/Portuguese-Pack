@@ -728,7 +728,79 @@
             <Table_Royal2x4c.label>mesa real (2x4)</Table_Royal2x4c.label>
             <Table_Royal2x4c.description>Uma mesa de aparência impressionante, completa com uma borda externa dourada e extremidades arredondadas, adequada para os ricos.</Table_Royal2x4c.description>
 
-    <!-- Vanilla Furniture Expanded - Farming Module -->
+    <!-- Vanilla Furniture Expanded - Art -->
+        <!-- Archotech Sculpture -->
+            <VFE_ArchotechSculpture.label>escultura archotech</VFE_ArchotechSculpture.label>
+            <VFE_ArchotechSculpture.description>Um dispositivo misterioso antigo. Cria imagens detalhadas nas mentes dos colonos ao redor. Funciona através de paredes.</VFE_ArchotechSculpture.description>
+
+        <!-- Pottery -->
+            <VFE_Pottery.label>pote de cerâmica</VFE_Pottery.label>
+            <VFE_Pottery.description>Uma pequena peça de cerâmica com gravuras artísticas. Pode ser feita em um local de fabricação.</VFE_Pottery.description>
+
+        <!-- Small Statue -->
+            <VFE_StatueSmall.label>estátua pequena</VFE_StatueSmall.label>
+            <VFE_StatueSmall.description>Um pequeno pedaço de material em um pedestal decorativo, esculpido em uma forma artística.</VFE_StatueSmall.description>
+
+        <!-- Large Statue -->
+            <VFE_StatueLarge.label>estátua média</VFE_StatueLarge.label>
+            <VFE_StatueLarge.description>Um pedaço de material do tamanho de uma pessoa em um pedestal decorativo, esculpido em uma forma artística.</VFE_StatueLarge.description>
+
+        <!-- Grand Statue -->
+            <VFE_StatueGrand.label>estátua grande</VFE_StatueGrand.label>
+            <VFE_StatueGrand.description>Um enorme pedaço de material em um pedestal decorativo, esculpido em uma forma artística.</VFE_StatueGrand.description>
+
+        <!-- Carving -->    
+            <VFE_Carving.label>gravura</VFE_Carving.label>
+            <VFE_Carving.description>Uma pequena escultura esculpida em uma parede da altura da cintura.</VFE_Carving.description>
+
+        <!-- Monument -->
+            <VFE_Monument.label>monumento</VFE_Monument.label>
+            <VFE_Monument.description>Um enorme monumento intransponível com um pedestal ornamentado e uma grande obra de arte.</VFE_Monument.description>
+
+        <!-- Relief -->
+            <VFE_Relief.label>relevo</VFE_Relief.label>
+            <VFE_Relief.description>Uma longa peça intransponível de parede com um relevo artístico esculpido.</VFE_Relief.description>
+
+        <!-- Pillar -->
+            <VFE_Pillar.label>pilar</VFE_Pillar.label>
+            <VFE_Pillar.description>Um pilar decorado intransponível capaz de suportar um telhado.</VFE_Pillar.description>
+
+        <!-- Obelisk -->
+            <VFE_Obelisk.label>obelisco</VFE_Obelisk.label>
+            <VFE_Obelisk.description>Uma peça alta de material em forma de obelisco com uma obra de arte esculpida nas laterais.</VFE_Obelisk.description>
+
+        <!-- Plinth -->
+            <VFE_Plinth.label>plinto</VFE_Plinth.label>
+            <VFE_Plinth.description>Um pequeno pedestal com imagens artísticas esculpidas nas laterais. Pode ser usado para armazenar itens diversos. Itens armazenados nisto não irão se deteriorar, mesmo se no lado de fora.</VFE_Plinth.description>
+
+        <!-- Decorative Plant Pot -->
+            <VFE_DecorativePlantPot.label>vaso de planta decorativo</VFE_DecorativePlantPot.label>
+            <VFE_DecorativePlantPot.description>Plante flores decorativas neste vaso ornamental para melhorar o humor das pessoas nas proximidades.</VFE_DecorativePlantPot.description>
+
+        <!-- Wallpaper -->
+            <VFE_Wallpaper.label>papel de parede</VFE_Wallpaper.label>
+            <VFE_Wallpaper.description>Uma parede intransponível com um lindo papel de parede. Capaz de suportar um telhado.</VFE_Wallpaper.description>
+
+        <!-- Hologram -->   
+            <UnfinishedHologram.label>holograma inacabado</UnfinishedHologram.label>
+            <HologramBase.label>base de holograma</HologramBase.label>
+            <HologramBase.description>Um dispositivo de projeção de luz, representando uma obra de arte feita em várias linguagens de programação. Consome energia.</HologramBase.description>
+            <VFE_HologramOn.label>holograma</VFE_HologramOn.label>
+            <VFE_HologramOn.description>Um dispositivo de projeção de luz, representando uma obra de arte feita em várias linguagens de programação. Consome energia.</VFE_HologramOn.description>
+
+        <!-- Small Rug -->
+            <VFE_RugSmall.label>tapete pequeno</VFE_RugSmall.label>
+            <VFE_RugSmall.description>Um tapete de pequena dimensão, decorado com bordados artísticos.</VFE_RugSmall.description>
+
+        <!-- Large Rug -->  
+            <VFE_RugLarge.label>tapete médio</VFE_RugLarge.label>
+            <VFE_RugLarge.description>Um tapete de média dimensão, decorado com bordados artísticos.</VFE_RugLarge.description>
+
+        <!-- Grand Rug -->  
+            <VFE_RugGrand.label>tapete grande</VFE_RugGrand.label>
+            <VFE_RugGrand.description>Um enorme tapete, decorado com bordados artísticos.</VFE_RugGrand.description>
+
+    <!-- Vanilla Furniture Expanded - Farming -->
         <!-- Tilable Planter Box -->
             <VFE_PlanterBox_Tilable.label>caixa de plantio modular</VFE_PlanterBox_Tilable.label>
             <VFE_PlanterBox_Tilable.description>Cultiva plantas em uma caixa de plantio. Não requer energia para funcionar.\n\nEsta versão é modular e pode ser distribuída em qualquer formato necessário.</VFE_PlanterBox_Tilable.description>
@@ -792,7 +864,7 @@
             <Wall_SterileTeal.label>parede estéril verde-azulada</Wall_SterileTeal.label>
             <Wall_SterileBrown.label>parede estéril marrom</Wall_SterileBrown.label>
 
-    <!-- Vanilla Furniture Expanded - Production Module -->
+    <!-- Vanilla Furniture Expanded - Production -->
         <!-- Drug Cabinet -->
             <VFE_DrugCabinet.label>gabinete de drogas</VFE_DrugCabinet.label>
             <VFE_DrugCabinet.description>Aumenta a velocidade do trabalho quando colocado perto de um laboratório de drogas. Uma bancada de trabalho pode usar até dois gabinetes de drogas.</VFE_DrugCabinet.description>

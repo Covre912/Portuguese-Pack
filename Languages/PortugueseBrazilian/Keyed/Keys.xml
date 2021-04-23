@@ -2259,7 +2259,12 @@
 	        <VCEF_No>Não</VCEF_No>
 	        <VCEF_ZoneTooSmall>Esta área é muito pequena. Áreas de pesca precisam ter pelo menos {0} blocos para funcionarem.</VCEF_ZoneTooSmall>
 
-    <!-- Vanilla Furniture Expanded - Farming Module -->
+    <!-- Vanilla Furniture Expanded - Art -->
+        <!-- Hologram -->
+            <VFEArt_SelectHologramText>Selecionar base</VFEArt_SelectHologramText>
+            <VFEArt_SelectHologramDesc>Clique para selecionar a base do holograma para desligá-la, desconstrui-la, move-la, etc.</VFEArt_SelectHologramDesc>
+
+    <!-- Vanilla Furniture Expanded - Farming -->
         <!-- Area -->
             <VFEF_CommandMakeCompAreaDesc>Designar automaticamente a área especificada em torno desta {0}.</VFEF_CommandMakeCompAreaDesc> <!-- {0} is the parent building's label -->
             <VFEF_CommandMakeCompAreaLabel>Designar área de alimentação</VFEF_CommandMakeCompAreaLabel> <!-- {0} is the parent building's label -->
@@ -2268,7 +2273,7 @@
             <VFEF_ScarecrowGizmo>Espantar animais da colônia</VFEF_ScarecrowGizmo>
             <VFEF_ScarecrowGizmoText>Escolha se este espantalho deve fazer animais da colônia fugirem</VFEF_ScarecrowGizmoText>
 
-    <!-- Vanilla Furniture Expanded - Security Module -->
+    <!-- Vanilla Furniture Expanded - Security -->
         <!-- Submersible -->
             <VFESecurity.Submerged>submersa</VFESecurity.Submerged>
 
