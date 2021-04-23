@@ -2273,6 +2273,82 @@
             <VFEF_ScarecrowGizmo>Espantar animais da colônia</VFEF_ScarecrowGizmo>
             <VFEF_ScarecrowGizmoText>Escolha se este espantalho deve fazer animais da colônia fugirem</VFEF_ScarecrowGizmoText>
 
+    <!-- Vanilla Furniture Expanded - Power -->
+	    <!-- Gas Pipe System -->
+            <VPE_PipesNotConnected>Dutos não conectados ao gerador ou tanques </VPE_PipesNotConnected>
+            <VPE_PipeConnectedRateStored>Armazenado: {0} ml / {1} ml-d</VPE_PipeConnectedRateStored>
+            <VPE_LiquidTankStored>Gás armazenado</VPE_LiquidTankStored>
+            <VPE_LiquidTankEfficiency>Eficiência do tanque</VPE_LiquidTankEfficiency>
+            <VPE_TankLeakage>Vazamento mínimo de selante</VPE_TankLeakage>
+            <VPE_NutrientNeeded>Gás necessário</VPE_NutrientNeeded>
+            <VPE_LiquidOutput>Saída de gás</VPE_LiquidOutput>
+            <VPE_MustPlaceOnGasGeyser>Este edifício deve ser colocado em cima de um gêiser de gás helixien</VPE_MustPlaceOnGasGeyser>
+            <VPE_PlugHole>Preencher buraco</VPE_PlugHole>
+            <VPE_PlugHoleDesc>Encha o buraco com sujeira. AVISO: isso irá destruir o gêiser ou poça.</VPE_PlugHoleDesc>
+            <VPE_CancelPlugHole>Cancelar preencher buraco</VPE_CancelPlugHole>
+            <VPE_CancelPlugHoleDesc>Cancela o trabalho de preenchimento do buraco.</VPE_CancelPlugHoleDesc>
+            <VPE_MustPlaceAdjacentToPipe>Edifícios movidos a gás devem ser colocados adjacentes aos tubos de gás, não no topo</VPE_MustPlaceAdjacentToPipe>
+            <VPE_DeconstructGasPipes>Desconstruir rede de gás</VPE_DeconstructGasPipes>
+            <VPE_DeconstructGasPipesDesc>Desconstrua apenas tubos de gás e tubos de gás subterrâneos.</VPE_DeconstructGasPipesDesc>
+            <Fluffy.GasNetwork.GasNetworkInspectString>Excesso de gás (armazenado) na rede: {0} ({1})</Fluffy.GasNetwork.GasNetworkInspectString>
+            <Fluffy.GasNetwork.Stored>Gás armazenado: {0}/{1}</Fluffy.GasNetwork.Stored>
+            <Fluffy.GasNetwork.Production>Gás produzido: {0}</Fluffy.GasNetwork.Production>
+            <Fluffy.GasNetwork.Consumption>Gás consumido: {0}</Fluffy.GasNetwork.Consumption>
+            <Fluffy.GasNetwork.GasOff>Gás desligado.</Fluffy.GasNetwork.GasOff>
+            <Fluffy.GasNetwork.NoNetwork>Não conectado à rede de gás.</Fluffy.GasNetwork.NoNetwork>
+            <Fluffy.GasNetwork.ValveOpen>Válvula está aberta.</Fluffy.GasNetwork.ValveOpen>
+            <Fluffy.GasNetwork.ValveClosed>Válvula está fechada.</Fluffy.GasNetwork.ValveClosed>
+            <Fluffy.GasNetwork.CommandToggleGas.Label>Alternar fluxo de gás</Fluffy.GasNetwork.CommandToggleGas.Label>
+            <Fluffy.GasNetwork.CommandToggleGas.Desc>Designe o fluxo de gás para ser ativado ou desativado. Um colono virá em breve para alternar o fluxo de gás.</Fluffy.GasNetwork.CommandToggleGas.Desc>
+            <Fluffy.GasNetwork.DesiredBuffer>Armazenamento de gás alvo: {0}/{1}</Fluffy.GasNetwork.DesiredBuffer>
+            <Fluffy.GasNetwork.BufferOff>Armazenamento de gás desligado.</Fluffy.GasNetwork.BufferOff>
+            <Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>Unidade preferida de velocidade do vento</Fluffy.GasNetwork.Settings.Wind.WindSpeedUnit>
+            <Fluffy.GasNetwork.Settings.Wind.Category>Simulação de Vento</Fluffy.GasNetwork.Settings.Wind.Category>
+
+	    <!-- Nucular Reactor -->
+            <VPE_RadiationProduced>Aviso: Reator produzindo radiação em um raio de {0}m</VPE_RadiationProduced>
+            <VPE_TempInReactorRoom>Temperatura na sala do reator: {0}ºC</VPE_TempInReactorRoom>
+            <VPE_TempInReactorRoomCritical>Aviso: Temperatura na sala do reator: {0}ºC</VPE_TempInReactorRoomCritical>
+            <VPE_Meltdown>Aviso: derretimento devido à alta temperatura. Até que seja reparado, o reator destruirá toda a vida em um raio de</VPE_Meltdown>
+            <VPE_MeltdownLetterLabel>Derretimento do Reator</VPE_MeltdownLetterLabel>
+            <VPE_MeltdownLetter>Ocorreu um derretimento parcial do reator devido à alta temperatura na sala do reator! Até que seja reparado, este reator será extremamente prejudicial à vida em um raio estendido.\n\nIgnorar isso não é uma boa ideia.</VPE_MeltdownLetter>
+            <VPE_NoReactorRoom>A sala do reator deve ser um espaço fechado e coberto</VPE_NoReactorRoom>
+
+	    <!-- Misc -->
+            <VPE_MustPlaceRoofed>Este edifício deve ser colocado em uma área fechada e coberta</VPE_MustPlaceRoofed>
+
+	    <!-- Violence Generator -->
+            <VPE_SoulsTime>Almas armazenadas para: </VPE_SoulsTime>
+            <VPE_Producing>Produzindo {0} W de eletricidade</VPE_Producing>
+            <VPE_NotProducing>Nenhuma alma absorvida. Os Deuses estão famintos por almas humanas.</VPE_NotProducing>
+            <VPE_ToggleViolenceGenerator>Alternar ferador</VPE_ToggleViolenceGenerator>
+            <VPE_ToggleViolenceGeneratorDesc>Alternar o gerador entre um estado funcional e um inativo.</VPE_ToggleViolenceGeneratorDesc>
+            <VPE_GeneratorIsOff>O gerador de violência está desligado e inativo</VPE_GeneratorIsOff>
+
+	    <!-- Lightning Generator -->
+            <VPE_LightningTime>Energia elétrica armazenada por: </VPE_LightningTime>
+            <VPE_Producing>Produzindo {0} W de eletricidade</VPE_Producing>
+            <VPE_NotLightningProducing>Eletricidade elétrica esgotada. Parece que você terá que esperar pela próxima tempestade.</VPE_NotLightningProducing>
+
+	    <!-- Gas Pipe Kaboom -->
+            <VPE_AGasPipe>um duto de gás</VPE_AGasPipe>
+            <VPE_GasExplosion>Uma falha em {0} causou uma explosão.</VPE_GasExplosion>
+            <VPE_GasExplosionStartedFire>Uma falha em {0} causou uma explosão de que iniciou um incêndio.</VPE_GasExplosionStartedFire>
+            <VPE_GasExplosionLostGas>Todo o {0} l-d de gás nos tanques de gás conectados foi descarregado em uma explosão violenta.</VPE_GasExplosionLostGas>
+            <VPE_GasExplosionLWasLarge>Uma grande quantidade de gás criou uma explosão de tamanho considerável.</VPE_GasExplosionLWasLarge>
+            <VPE_GasExplosionLWasHuge>Isso realmente é uma grande explosão. Uau.</VPE_GasExplosionLWasHuge>
+            <VPE_LetterLabelGasExplosion>Kaboom!</VPE_LetterLabelGasExplosion>
+
+	    <!-- Chemfuel Pond -->
+            <VPE_PondHasFuel>Esta poça de combustível químico tem {0} unidades restantes</VPE_PondHasFuel>
+            <VPE_PondNoFuel>Esta poça de combustível químico está esgotada</VPE_PondNoFuel>
+            <VPE_MustPlaceOnChemfuelPond>A bomba de combustível químico precisa ser construída no topo de uma poça de combustível químico</VPE_MustPlaceOnChemfuelPond>
+            <VPE_PumpProducing>A bomba irá produzir {0} unidades de combustível químico em {1}</VPE_PumpProducing>
+
+	    <!-- Tidal Power Plant -->
+            <VPE_NeedsWater>Esta usina deve ser construída sobre a água</VPE_NeedsWater>
+            <VPE_NeedsDistance>As usinas hidráulicas devem ser construídas com pelo menos 40 de espaço entre si</VPE_NeedsDistance>
+
     <!-- Vanilla Furniture Expanded - Security -->
         <!-- Submersible -->
             <VFESecurity.Submerged>submersa</VFESecurity.Submerged>

@@ -194,6 +194,31 @@
             <VFE_Res_FarmingTechniques.label>técnicas de cultivo</VFE_Res_FarmingTechniques.label>
             <VFE_Res_FarmingTechniques.description>Desenvolva uma base teórica para operações agrícolas em larga escala, incluindo alimentação centralizada e espantalhos dedicados para manter suas plantações intactas.</VFE_Res_FarmingTechniques.description>
 
+    <!-- Vanilla Furniture Expanded - Power -->
+        <!-- Industrial Generators -->
+            <VFE_IndustrialGenerators.label>geradores industriais</VFE_IndustrialGenerators.label>
+            <VFE_IndustrialGenerators.description>Construa geradores industriais, capazes de armazenar significativamente mais combustível e produzir mais energia.</VFE_IndustrialGenerators.description>
+
+        <!-- Advanced Battery -->
+            <VFE_AdvancedBatteries.label>baterias avançadas</VFE_AdvancedBatteries.label>
+            <VFE_AdvancedBatteries.description>Construa baterias espaciaus, capazes de armazenar com eficiência grandes quantidades de energia.</VFE_AdvancedBatteries.description>
+
+        <!-- Advanced Power Sources -->
+            <VFE_AdvancedPowerSources.label>fontes de energia avançadas</VFE_AdvancedPowerSources.label>
+            <VFE_AdvancedPowerSources.description>Construa geradores de energia verde, incluindo painéis solares avançados e turbinas eólicas.</VFE_AdvancedPowerSources.description>
+
+        <!-- Nuclear Energy -->
+            <VFE_NuclearPower.label>energia nuclear</VFE_NuclearPower.label>
+            <VFE_NuclearPower.description>O método de geração de energia final, a energia nuclear é tão suficiente quanto mortal.</VFE_NuclearPower.description>
+
+        <!-- Tidal Energy -->
+            <VFE_TidalPower.label>energia hidráulica</VFE_TidalPower.label>
+            <VFE_TidalPower.description>Construa geradores hidráulicos na água para produzir um grande volume de energia verde sustentável.</VFE_TidalPower.description>
+
+        <!-- Gas Extraction -->
+            <VFE_GasExtraction.label>extração de gás</VFE_GasExtraction.label>
+            <VFE_GasExtraction.description>Aprenda sobre o gás helixien e sua capacidade de agir como combustível.</VFE_GasExtraction.description>
+
     <!-- Vanilla Furniture Expanded - Production -->
         <!-- Manufacturing -->
             <VFE_Manufacturing.label>manufatura</VFE_Manufacturing.label>

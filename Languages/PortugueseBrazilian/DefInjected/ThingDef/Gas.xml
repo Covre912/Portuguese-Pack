@@ -2,21 +2,19 @@
 <LanguageData>
 
     <!-- Race to the Rim -->
-        <!-- Toxic Gas -->
-            <RttR_ToxicGas.label>gás tóxico</RttR_ToxicGas.label>
+        <RttR_ToxicGas.label>gás tóxico</RttR_ToxicGas.label>
+
+    <!-- Vanilla Furniture Expanded - Power -->
+        <!-- Helixien Gas -->
+            <Gas_Helixien.label>gás helixien</Gas_Helixien.label>
+            <Gas_Helixien.description>Altamente inflamável e altamente tóxico.</Gas_Helixien.description>
 
     <!-- Vanilla Weapons Expanded -->
-        <!-- Toxin Gas -->
-            <Gas_OPToxin.label>Gás Tóxico</Gas_OPToxin.label>
-
-        <!-- Toxic Gas -->
-            <VWE_ToxicGasCloud.label>gás tóxico</VWE_ToxicGasCloud.label>
-
-        <!-- Smoke Cloud -->
-            <VWE_SmokeCloud.label>cortina de fumaça</VWE_SmokeCloud.label>
+        <Gas_OPToxin.label>Gás Tóxico</Gas_OPToxin.label>
+        <VWE_ToxicGasCloud.label>gás tóxico</VWE_ToxicGasCloud.label>
+        <VWE_SmokeCloud.label>cortina de fumaça</VWE_SmokeCloud.label>
 
     <!-- Vanilla Weapons Expanded - Non-Lethal -->
-        <!-- Tear Gas -->
-            <VWENL_TearGasCloud.label>gás lacrimogêneo</VWENL_TearGasCloud.label>
+        <VWENL_TearGasCloud.label>gás lacrimogêneo</VWENL_TearGasCloud.label>
 
 </LanguageData>

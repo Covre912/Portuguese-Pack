@@ -101,7 +101,51 @@
             <DoBillsHaulStone_Campfire.verb>trabalhar em</DoBillsHaulStone_Campfire.verb>
             <DoBillsHaulStone_Campfire.gerund>trabalhando em</DoBillsHaulStone_Campfire.gerund>
 
-    <!-- Vanilla Furniture Expanded - Security Module -->
+    <!-- Vanilla Furniture Expanded - Power -->
+        <!-- Gas Powered Crematorium -->
+            <VPE_DoBillsGasCrematorium.label>trabalhar em crematório a gás</VPE_DoBillsGasCrematorium.label>
+            <VPE_DoBillsGasCrematorium.verb>trabalhar em crematório</VPE_DoBillsGasCrematorium.verb>
+            <VPE_DoBillsGasCrematorium.gerund>trabalhando em crematório</VPE_DoBillsGasCrematorium.gerund>
+            <VPE_BurnGasCrematorium.label>queimar em crematório a gás</VPE_BurnGasCrematorium.label>
+            <VPE_BurnGasCrematorium.verb>queimar em crematório</VPE_BurnGasCrematorium.verb>
+            <VPE_BurnGasCrematorium.gerund>queimando em crematório</VPE_BurnGasCrematorium.gerund>
+
+        <!-- Gas Smelter -->
+            <VPE_DoBillsGasSmelter.label>trabalhar em forno de fundição a gás</VPE_DoBillsGasSmelter.label>
+            <VPE_DoBillsGasSmelter.verb>trabalhar em forno de fundição</VPE_DoBillsGasSmelter.verb>
+            <VPE_DoBillsGasSmelter.gerund>trabalhando em forno de fundição</VPE_DoBillsGasSmelter.gerund>
+
+        <!-- Gas Stove -->
+            <VPE_DoBillsGasStove.label>cozinhar refeições em fogão</VPE_DoBillsGasStove.label>
+            <VPE_DoBillsGasStove.verb>cozinhar refeições em fogão</VPE_DoBillsGasStove.verb>
+            <VPE_DoBillsGasStove.gerund>cozinhando refeições em fogão</VPE_DoBillsGasStove.gerund>
+
+        <!-- Gas Smithy -->
+            <VPE_DoBillsGasSmithy.label>fazer armas</VPE_DoBillsGasSmithy.label>
+            <VPE_DoBillsGasSmithy.verb>forjar</VPE_DoBillsGasSmithy.verb>
+            <VPE_DoBillsGasSmithy.gerund>forjando em</VPE_DoBillsGasSmithy.gerund>
+
+        <!-- Gas Refinary -->
+            <VPE_DoBillsGasRefinery.label>trabalhar em refinaria</VPE_DoBillsGasRefinery.label>
+            <VPE_DoBillsGasRefinery.verb>refinar químicos</VPE_DoBillsGasRefinery.verb>
+            <VPE_DoBillsGasRefinery.gerund>refinando químicos</VPE_DoBillsGasRefinery.gerund>
+
+        <!-- Gas Excavator -->
+            <VPE_WorkAtGasExcavator.label>trabalhar em broca profunda a gás</VPE_WorkAtGasExcavator.label>
+            <VPE_WorkAtGasExcavator.verb>escavar em broca profunda</VPE_WorkAtGasExcavator.verb>
+            <VPE_WorkAtGasExcavator.gerundLabel>escavando em broca profunda</VPE_WorkAtGasExcavator.gerundLabel>
+
+        <!-- Gas Hole -->
+            <VPE_WorkGiverPluggingHole.label>preencher buraco</VPE_WorkGiverPluggingHole.label>
+            <VPE_WorkGiverPluggingHole.verb>preencher</VPE_WorkGiverPluggingHole.verb>
+            <VPE_WorkGiverPluggingHole.gerund>preenchendo</VPE_WorkGiverPluggingHole.gerund>
+
+        <!-- Chemfuel Pond -->
+            <VPE_WorkGiverPluggingPond.label>preencher poça</VPE_WorkGiverPluggingPond.label>
+            <VPE_WorkGiverPluggingPond.verb>preencher</VPE_WorkGiverPluggingPond.verb>
+            <VPE_WorkGiverPluggingPond.gerund>preenchendo</VPE_WorkGiverPluggingPond.gerund>
+
+    <!-- Vanilla Furniture Expanded - Security -->
         <!-- Traps -->
             <VFES_ConstructRearmTrap.label>armar armadilhar</VFES_ConstructRearmTrap.label>
             <VFES_ConstructRearmTrap.verb>armar</VFES_ConstructRearmTrap.verb>

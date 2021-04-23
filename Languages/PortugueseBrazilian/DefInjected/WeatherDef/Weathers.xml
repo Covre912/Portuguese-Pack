@@ -48,4 +48,9 @@
             <RG_SandStormHard.label>tempestade de areia forte</RG_SandStormHard.label>
             <RG_SandStormHard.description>Fortes tempestades reduzem a precisão das armas de longo alcance e diminuem a velocidade das pessoas.</RG_SandStormHard.description>
 
+    <!-- Vanilla Furniture Expanded - Power -->
+        <!-- Radioactive Fog -->
+            <VPE_RadioactiveFog.label>névoa radioativa</VPE_RadioactiveFog.label>
+            <VPE_RadioactiveFog.description>O derretimento de um reator nuclear liberou uma nuvem de material radioativo. Esta névoa impedirá ataques à distância até que se dissipe.</VPE_RadioactiveFog.description>
+
 </LanguageData>

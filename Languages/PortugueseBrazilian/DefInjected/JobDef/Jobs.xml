@@ -2,105 +2,63 @@
 <LanguageData>
 
     <!-- [HLX] Ultratech: Altered Carbon -->
-        <!-- Extract Stack -->
-            <AC_ExtractStack.reportString>extraindo cartucho cortical de TargetA.</AC_ExtractStack.reportString>
-
-        <!-- Wipe Stack -->
-            <AC_WipeStack.reportString>limpando cartucho cortical.</AC_WipeStack.reportString>
-
-        <!-- Destroy Stack -->
-            <AC_DestroyStack.reportString>destruindo cartucho cortical.</AC_DestroyStack.reportString>
-
-        <!-- Copy Stack -->
-            <AC_CopyStack.reportString>copiando cartucho cortical.</AC_CopyStack.reportString>
-
-        <!-- Release Sleeve -->
-            <AC_ReleaseSleeve.reportString>liberando corpo.</AC_ReleaseSleeve.reportString>
-
-        <!-- Insert Brain Template -->
-            <AC_InsertBrainTemplate.reportString>inserindo modelo cerebral.</AC_InsertBrainTemplate.reportString>
-
-        <!-- Extract Brain Template -->
-            <AC_ExtractActiveBrainTemplate.reportString>extraindo modelo cerebral de incubadora.</AC_ExtractActiveBrainTemplate.reportString>
+        <AC_ExtractStack.reportString>extraindo cartucho cortical de TargetA.</AC_ExtractStack.reportString>
+        <AC_WipeStack.reportString>limpando cartucho cortical.</AC_WipeStack.reportString>
+        <AC_DestroyStack.reportString>destruindo cartucho cortical.</AC_DestroyStack.reportString>
+        <AC_CopyStack.reportString>copiando cartucho cortical.</AC_CopyStack.reportString>
+        <AC_ReleaseSleeve.reportString>liberando corpo.</AC_ReleaseSleeve.reportString>
+        <AC_InsertBrainTemplate.reportString>inserindo modelo cerebral.</AC_InsertBrainTemplate.reportString>
+        <AC_ExtractActiveBrainTemplate.reportString>extraindo modelo cerebral de incubadora.</AC_ExtractActiveBrainTemplate.reportString>
 
     <!-- Allow Tool -->
-        <!-- Finish Off Creature -->
-            <FinishOffPawn.reportString>finalizando criatura.</FinishOffPawn.reportString>
+        <FinishOffPawn.reportString>finalizando criatura.</FinishOffPawn.reportString>
 
     <!-- Dress Patients -->
-        <!-- Dress Patient -->
-            <DressPatient.reportString>vestindo TargetA.</DressPatient.reportString>
+        <DressPatient.reportString>vestindo TargetA.</DressPatient.reportString>
 
     <!-- Race to the Rim -->
-        <!-- Consume -->
-            <RttR_IngestWeird.reportString>consumindo TargetA.</RttR_IngestWeird.reportString>
+        <RttR_IngestWeird.reportString>consumindo TargetA.</RttR_IngestWeird.reportString>
 
     <!-- Psychology (unofficial 1.1/1.2) -->
-        <!-- Abuse -->
-          <Abuse.reportString>abusando verbalmente TargetA.</Abuse.reportString>
-
-        <!-- Make Advance -->
-            <MakeAdvance.reportString>flertando com TargetA.</MakeAdvance.reportString>
-
-        <!-- Break Hunt -->
-            <BreakHunt.reportString>caçando TargetA.</BreakHunt.reportString>
+        <Abuse.reportString>abusando verbalmente TargetA.</Abuse.reportString>
+        <MakeAdvance.reportString>flertando com TargetA.</MakeAdvance.reportString>
+        <BreakHunt.reportString>caçando TargetA.</BreakHunt.reportString>
 
     <!-- Vanilla Animals Expanded - Endargered -->
-        <!-- Ingest Ants -->
-            <AEXP_IngestAnts.reportString>devorando formigas.</AEXP_IngestAnts.reportString>
-
-        <!-- Go To The Wild -->
-            <AEXP_GotoTheWild.reportString>indo para a naturza.</AEXP_GotoTheWild.reportString>
+        <AEXP_IngestAnts.reportString>devorando formigas.</AEXP_IngestAnts.reportString>
+        <AEXP_GotoTheWild.reportString>indo para a naturza.</AEXP_GotoTheWild.reportString>
 
     <!-- Vanilla Events Expanded -->
-        <!-- Hunt -->
-            <HuntAndLeave.reportString>caçando TargetA.</HuntAndLeave.reportString>
+        <HuntAndLeave.reportString>caçando TargetA.</HuntAndLeave.reportString>
 
     <!-- Vanilla Expanded Framework -->
-        <!-- Equip Shield -->
-            <VFEC_EquipShield.reportString>equipando TargetA.</VFEC_EquipShield.reportString>
+        <VFEC_EquipShield.reportString>equipando TargetA.</VFEC_EquipShield.reportString>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
-        <!-- Equip Shield -->
-            <VFEM_EquipShield.reportString>equipando TargetA.</VFEM_EquipShield.reportString>
-
-        <!-- Fill Wine Barrel -->
-            <VFEM_FillWineBarrel.reportString>preenchendo TargetA.</VFEM_FillWineBarrel.reportString>
-
-        <!-- Take Wine Out Of Wine Barrel -->
-            <VFEM_TakeWineOutOfWineBarrel.reportString>retirando vinho de TargetA.</VFEM_TakeWineOutOfWineBarrel.reportString>
+        <VFEM_EquipShield.reportString>equipando TargetA.</VFEM_EquipShield.reportString>
+        <VFEM_FillWineBarrel.reportString>preenchendo TargetA.</VFEM_FillWineBarrel.reportString>
+        <VFEM_TakeWineOutOfWineBarrel.reportString>retirando vinho de TargetA.</VFEM_TakeWineOutOfWineBarrel.reportString>
 
     <!-- Vanilla Fishing Expanded -->
-        <!-- Fish -->
-            <VCEF_FishJob.reportString>pescando em TargetA.</VCEF_FishJob.reportString>
+        <VCEF_FishJob.reportString>pescando em TargetA.</VCEF_FishJob.reportString>
 
     <!-- Vanilla Furniture Expanded -->
-        <!-- Roulette -->
-            <Play_Roulette.reportString>jogando roleta.</Play_Roulette.reportString>
+        <Play_Roulette.reportString>jogando roleta.</Play_Roulette.reportString>
+        <Play_Arcade.reportString>jogando fliperama.</Play_Arcade.reportString>
+        <Play_Piano.reportString>tocando piano.</Play_Piano.reportString>
+        <Play_DartsBoard.reportString>jogando dardos.</Play_DartsBoard.reportString>
+        <Play_PunchingBag.reportString>usando saco de pancadas.</Play_PunchingBag.reportString>
+        <Play_ComputerIndustrial.reportString>usando computador.</Play_ComputerIndustrial.reportString>
+        <Play_ComputerModern.reportString>usando computador.</Play_ComputerModern.reportString>
 
-        <!-- Arcade Game -->
-            <Play_Arcade.reportString>jogando fliperama.</Play_Arcade.reportString>
+    <!-- Vanilla Furniture Expanded - Power -->
+        <VPE_JobPlugHole.reportString>destruindo buraco.</VPE_JobPlugHole.reportString>
 
-        <!-- Piano -->
-            <Play_Piano.reportString>tocando piano.</Play_Piano.reportString>
-
-        <!-- Darts -->
-            <Play_DartsBoard.reportString>jogando dardos.</Play_DartsBoard.reportString>
-
-        <!-- Punching Bag -->
-            <Play_PunchingBag.reportString>usando saco de pancadas.</Play_PunchingBag.reportString>
-
-        <!-- Computer -->
-            <Play_ComputerIndustrial.reportString>usando computador.</Play_ComputerIndustrial.reportString>
-            <Play_ComputerModern.reportString>usando computador.</Play_ComputerModern.reportString>
-
-    <!-- Vanilla Furniture Expanded - Security Module -->
-        <!-- Rearm -->
-            <VFES_RearmTrap.reportString>armando TargetA.</VFES_RearmTrap.reportString>
+    <!-- Vanilla Furniture Expanded - Security -->
+        <VFES_RearmTrap.reportString>armando TargetA.</VFES_RearmTrap.reportString>
 
     <!-- Vanilla Hair Expanded -->
-        <!-- Changing Hair -->
-            <VHE_ChangeHairstyle.reportString>cortando o cabelo em TargetA.</VHE_ChangeHairstyle.reportString>
+        <VHE_ChangeHairstyle.reportString>cortando o cabelo em TargetA.</VHE_ChangeHairstyle.reportString>
 
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Vent To Friend -->

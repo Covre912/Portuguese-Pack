@@ -864,6 +864,175 @@
             <Wall_SterileTeal.label>parede estéril verde-azulada</Wall_SterileTeal.label>
             <Wall_SterileBrown.label>parede estéril marrom</Wall_SterileBrown.label>
 
+    <!-- Vanilla Furniture Expanded - Power -->
+        <!-- Advanced Wind Turbine -->
+            <VFE_AdvancedWindTurbine.label>turbina de vento avançada</VFE_AdvancedWindTurbine.label>
+            <VFE_AdvancedWindTurbine.description>Um gerador elétrico avançado movido a energia eólica com tecnologia espacial. Requer um grande espaço livre na frente e atrás para o fluxo de ar ideal.</VFE_AdvancedWindTurbine.description>
+
+        <!-- Advanced Solar Generator -->
+            <VFE_AdvancedSolarGenerator.label>gerador solar avançado</VFE_AdvancedSolarGenerator.label>
+            <VFE_AdvancedSolarGenerator.description>Este gerador solar espacial é capaz de extrair significativamente mais energia da luz solar. Não funciona no escuro.</VFE_AdvancedSolarGenerator.description>
+
+        <!-- Advanced Watermill Generator -->
+            <VFE_AdvancedWatermillGenerator.label>gerador de moinho avançado</VFE_AdvancedWatermillGenerator.label>
+            <VFE_AdvancedWatermillGenerator.description>Um edifício espacial que produz eletricidade através de um rio. Deve ser colocado com a roda na água corrente. Se os moinhos de água forem colocados muito próximos, a turbulência gerada interferirá e reduzirá a geração de energia.</VFE_AdvancedWatermillGenerator.description>
+
+        <!-- Advanced Geothermal Generator -->
+            <VPE_AdvancedGeothermalGenerator.label>gerador geotérmico avançado</VPE_AdvancedGeothermalGenerator.label>
+            <VPE_AdvancedGeothermalGenerator.description>Este avançado geradorespacial produz eletricidade a partir de gêiseres de vapor geotérmico. Precisa ser colocado em um gêiser.</VPE_AdvancedGeothermalGenerator.description>
+
+        <!-- Large Battery -->
+            <VFE_LargeBattery.label>bateria grande</VFE_LargeBattery.label>
+            <VFE_LargeBattery.description>Armazena eletricidade quando há energia em excesso e a produz quando não há. Aviso - baterias carregadas tendem a explodir quando expostas à chuva ou ao fogo.</VFE_LargeBattery.description>
+
+        <!-- Small Battery -->
+            <VFE_SmallBattery.label>bateria pequena</VFE_SmallBattery.label>
+            <VFE_SmallBattery.description>Armazena eletricidade quando há energia em excesso e a produz quando não há. Aviso - baterias carregadas tendem a explodir quando expostas à chuva ou ao fogo.</VFE_SmallBattery.description>
+
+        <!-- Advanced Battery -->
+            <VFE_AdvancedBattery.label>bateria avançada</VFE_AdvancedBattery.label>
+            <VFE_AdvancedBattery.description>Armazena eletricidade quando há energia em excesso e a produz quando não há. Devido aos avanços tecnológicos, esta unidade é significativamente mais eficiente. Baterias avançadas carregadas são à prova d'água e não explodem quando expostas à chuva.</VFE_AdvancedBattery.description>
+
+        <!-- Large Advanced Battery -->
+            <VFE_LargeAdvancedBattery.label>bateria avançada grande</VFE_LargeAdvancedBattery.label>
+            <VFE_LargeAdvancedBattery.description>Armazena eletricidade quando há energia em excesso e a produz quando não há. Devido aos avanços tecnológicos, esta unidade é significativamente mais eficiente. Baterias avançadas carregadas são à prova d'água e não explodem quando expostas à chuva.</VFE_LargeAdvancedBattery.description>
+
+        <!-- Chemfuel Pump -->
+            <VPE_ChemfuelPump.label>bomba de combustível químico</VPE_ChemfuelPump.label>
+            <VPE_ChemfuelPump.description>Uma bomba industrial capaz de extrair combustível químico de bolsões subterrâneos. Depois que o combustível químico é totalmente extraído, a bomba pode ser desconstruída com segurança.</VPE_ChemfuelPump.description>
+
+        <!-- Gas Pipe -->
+            <VPE_GasPipe.label>duto de gás</VPE_GasPipe.label>
+            <VPE_GasPipe.description>Um tubo que transmite gás helixien.</VPE_GasPipe.description>
+
+        <!-- Subterranean Gas Pipe -->
+            <VPE_GasPipeSub.label>duto de gás subterrâneo</VPE_GasPipeSub.label>
+            <VPE_GasPipeSub.description>Um tubo que transmite gás helixien. Este tubo está oculto e protegido de explosões de gás. Muito mais caro de construir do que tubos normais.</VPE_GasPipeSub.description>
+
+        <!-- Gas Pipe Valve -->
+            <VPE_GasPipeValve.label>válvula de duto de gás</VPE_GasPipeValve.label>
+            <VPE_GasPipeValve.description>Desliga/Liga o fluxo de gás.</VPE_GasPipeValve.description>
+
+        <!-- Gas Tank -->
+            <VPE_GasTank.label>tanque de gás</VPE_GasTank.label>
+            <VPE_GasTank.description>Um grande tanque de aço para armazenamento de gás. Explodirá se for danificado.</VPE_GasTank.description>
+
+        <!-- Helixien Pump -->
+            <VPE_HelixienPump.label>bomba de helixien</VPE_HelixienPump.label>
+            <VPE_HelixienPump.description>Uma máquina extratora construída em gêiser de gás helixien. Esta máquina bombeia um gás valioso e precisa ser conectada a outras concessionárias de gás usando a rede de dutos.</VPE_HelixienPump.description>
+
+        <!-- Helixien Gas Powered Generator -->
+            <VPE_HelixienGenerator.label>gerador a gás</VPE_HelixienGenerator.label>
+            <VPE_HelixienGenerator.description>Produz energia consumindo gás helixien. Deve ser conectado a uma rede de tubulação de gás.</VPE_HelixienGenerator.description>
+
+        <!-- Industrial Helixien Gas Powered Generator -->
+            <VPE_IndustrialHelixienGenerator.label>gerador industrial a gás</VPE_IndustrialHelixienGenerator.label>
+            <VPE_IndustrialHelixienGenerator.description>Produz uma grande quantidade de energia consumindo gás helixien. Deve ser conectado a uma rede de tubulação de gás.</VPE_IndustrialHelixienGenerator.description>
+
+        <!-- Helixien Gas Crematorium -->
+            <VPE_GasCrematorium.label>crematório a gás</VPE_GasCrematorium.label>
+            <VPE_GasCrematorium.description>Crema cadáveres. Opera com gás helixien</VPE_GasCrematorium.description>
+
+        <!-- Helixien Gas Smelter -->
+            <VPE_GasSmelter.label>forno de fundição a gás</VPE_GasSmelter.label>
+            <VPE_GasSmelter.description>Extrai metal utilizável a partir de pedaços de escórias e outros itens de metal misto. Opera com gás helixien.</VPE_GasSmelter.description>
+
+        <!-- Helixien Gas Stove -->
+            <VPE_GasStove.label>fogão a gás</VPE_GasStove.label>
+            <VPE_GasStove.description>Um fogão com uma bancada anexada para preparar as refeições. Opera com gás helixien.</VPE_GasStove.description>
+
+        <!-- Gas Powered Excavator -->
+            <VPE_GasDrill.label>broca profunda a gás</VPE_GasDrill.label>
+            <VPE_GasDrill.description>Um equipamento de perfuração profunda de crosta para extrair os minerais abaixo da superfície. Usa um scanner penetrador subterrâneo para detectar os recursos. Opera com gás helixien.</VPE_GasDrill.description>
+
+        <!-- Gas Cooler -->
+            <VPE_GasCooler.label>refrigerador a gás</VPE_GasCooler.label>
+            <VPE_GasCooler.description>Uma máquina de resfriamento de ar que libera ar resfriado ao seu redor. Pode ser usado para criar uma zona de transição de um freezer. Não pode ser ajustado e irá diminuir automaticamente a temperatura ligeiramente abaixo de zero. Opera com gás helixien.</VPE_GasCooler.description>
+
+        <!-- Gas Heater -->
+            <VPE_GasHeater.label>aquecedor a gás</VPE_GasHeater.label>
+            <VPE_GasHeater.description>Um dispositivo que converte o gás helixien em calor irradiado. Ele pode se ligar e desligar automaticamente para atingir uma temperatura específica. Opera com gás helixien.</VPE_GasHeater.description>
+
+        <!-- Gas Sun Lamp -->
+            <VPE_GasSunLamp.label>lâmpada solar a gás</VPE_GasSunLamp.label>
+            <VPE_GasSunLamp.description>Ilumina uma área o suficiente para o cultivo, mas consome uma enorme quantidade de energia. Se desliga automaticamente à noite. Opera com gás helixien.</VPE_GasSunLamp.description>
+
+        <!-- Helixien Gas Smithy -->
+            <VPE_GasSmithy.label>forja a gás</VPE_GasSmithy.label>
+            <VPE_GasSmithy.description>Uma estação equipada para fundir armas não-mecânicas e ferramentas. Opera com gás helixien.</VPE_GasSmithy.description>
+
+        <!-- Standing Gas Lamp -->
+            <VPE_GasLamp.label>luminária a gás</VPE_GasLamp.label>
+            <VPE_GasLamp.description>Uma lâmpada que ilumina uma área. Pode ser colocada com segurança no exterior. Opera com gás helixien.</VPE_GasLamp.description>
+
+        <!-- Gas Wall Light -->
+            <VPE_GasWallLight.label>lâmpada de parede a gás</VPE_GasWallLight.label>
+            <VPE_GasWallLight.description>Uma lâmpada que ilumina uma área. Pode ser colocada com segurança no exterior. Opera com gás helixien.</VPE_GasWallLight.description>
+
+        <!-- Gas Floodlight -->
+            <VPE_GasFloodlight.label>poste de luz a gás</VPE_GasFloodlight.label>
+            <VPE_GasFloodlight.description>Uma lâmpada que ilumina uma grande área. Pode ser colocada com segurança no exterior. Opera com gás helixien.</VPE_GasFloodlight.description>
+
+        <!-- Gas-Powered Refinary -->
+            <VPE_GasBiofuelRefinery.label>refinaria de combustível químico a gás</VPE_GasBiofuelRefinery.label>
+            <VPE_GasBiofuelRefinery.description>Refina matéria biológica como madeira ou matéria vegetal em combustível químico. Opera com gás helixien.</VPE_GasBiofuelRefinery.description>
+
+        <!-- Helixien Gas Vent -->
+            <VPE_GasVent.label>saída de ventilação de gás</VPE_GasVent.label>
+            <VPE_GasVent.description>Uma saída de ventilação montado na parede capaz de liberar compostos tóxicos de gás helixien na área-alvo. Necessita de uma válvula de gás instalada na mesma rede para limitar o fluxo de gás.</VPE_GasVent.description>
+
+        <!-- Gas Operated Pod Launcher -->
+            <VPE_GasPodLauncher.label>lançador de cápsula a gás</VPE_GasPodLauncher.label>
+            <VPE_GasPodLauncher.description>Uma porta de abastecimento para o lançamento de uma cápsula de transporte. Os lançadores de cápsulas podem iniciar como um grupo - mas os lançadores devem ser colocados um ao lado do outro. Opera com gás helixien.</VPE_GasPodLauncher.description>
+
+        <!-- Lightning Rod -->
+            <VPE_LightningRod.label>para-raios</VPE_LightningRod.label>
+            <VPE_LightningRod.description>Uma tecnologia avançada permite que este dispositivo aproveite o poder de um raio e transforme-o em energia.</VPE_LightningRod.description>
+
+        <!-- Helixien Gas Geyser -->
+            <VPE_HelixienGeyser.label>gêiser de gás helixien</VPE_HelixienGeyser.label>
+            <VPE_HelixienGeyser.description>Fonte de gás helixien natural.</VPE_HelixienGeyser.description>
+
+        <!-- Chemfuel Pond -->
+            <VPE_ChemfuelPond.label>poça de combustível químico</VPE_ChemfuelPond.label>
+            <VPE_ChemfuelPond.description>Fonte de combustível químico natural.</VPE_ChemfuelPond.description>
+
+        <!-- Nuclear Reactor -->
+            <VPE_NuclearGenerator.label>reator nuclear</VPE_NuclearGenerator.label>
+            <VPE_NuclearGenerator.description>Um grande reator nuclear reaproveitado a partir do núcleo de energia de uma nave. Consome urânio para produzir grandes quantidades de energia. Pode ser sobrecarregado, resultando em uma produção de energia ainda maior ao custo de radiação.\n\nO reator nuclear superaquece rapidamente e deve ser resfriado o tempo todo.\n\nNão pode ser colocado ao ar livre.</VPE_NuclearGenerator.description>
+
+        <!-- Portable Wood-Fired Generator -->
+            <VFE_PortableWoodFiredGenerator.label>gerador a lenha portátil</VFE_PortableWoodFiredGenerator.label>
+            <VFE_PortableWoodFiredGenerator.description>Produz uma pequena quantidade de energia consumindo madeira. Deve ser periodicamente abastecido.</VFE_PortableWoodFiredGenerator.description>
+
+        <!-- Portable Chemfuel Powered Generator -->
+            <VFE_PortableChemfuelPoweredGenerator.label>gerador à combustível químico portátil</VFE_PortableChemfuelPoweredGenerator.label>
+            <VFE_PortableChemfuelPoweredGenerator.description>Produz uma pequena quantidade de energia consumindo combustível químico. Deve ser abastecido manualmente.</VFE_PortableChemfuelPoweredGenerator.description>
+
+        <!-- Industrial Wood-Fired Generator -->
+            <VFE_IndustrialWoodFiredGenerator.label>gerador industrial a lenha </VFE_IndustrialWoodFiredGenerator.label>
+            <VFE_IndustrialWoodFiredGenerator.description>Produz uma grande quantidade de energia consumindo madeira. Deve ser periodicamente abastecido.</VFE_IndustrialWoodFiredGenerator.description>
+
+        <!-- Industrial Chemfuel Powered Generator -->
+            <VFE_IndustrialChemfuelPoweredGenerator.label>gerador industrial à combustível químico</VFE_IndustrialChemfuelPoweredGenerator.label>
+            <VFE_IndustrialChemfuelPoweredGenerator.description>Produz uma grande quantidade de energia consumindo combustível químico. Deve ser abastecido manualmente.</VFE_IndustrialChemfuelPoweredGenerator.description>
+
+        <!-- Tidal Generator -->
+            <VFE_TidalGenerator.label>gerador hidráulico</VFE_TidalGenerator.label>
+            <VFE_TidalGenerator.description>Produz eletricidade a partir de massas de água em movimento. Deve ser colocado na água.</VFE_TidalGenerator.description>
+
+        <!-- Small Vanometric Power Cell -->
+            <VFE_SmallVanometricPowerCell.label>célula de potência vanométrica pequena</VFE_SmallVanometricPowerCell.label>
+            <VFE_SmallVanometricPowerCell.description>Gera pouca energia livre, para sempre, sem usar combustível. Essa tecnologia é desenvolvida por IAs de alto gabarito e está além da maioria das sociedades do mundo. Enquanto ninguém sabe exatamente como funciona, os estudiosos acreditam que de alguma forma extrai energia diretamente de flutuações da espuma quântica.</VFE_SmallVanometricPowerCell.description>
+
+        <!-- Large Vanometric Power Cell -->
+            <VFE_LargeVanometricPowerCell.label>célula de potência vanométrica grande</VFE_LargeVanometricPowerCell.label>
+            <VFE_LargeVanometricPowerCell.description>Gera muita energia livre, para sempre, sem usar combustível. Essa tecnologia é desenvolvida por IAs de alto gabarito e está além da maioria das sociedades do mundo. Enquanto ninguém sabe exatamente como funciona, os estudiosos acreditam que de alguma forma extrai energia diretamente de flutuações da espuma quântica.</VFE_LargeVanometricPowerCell.description>
+
+        <!-- Archotech Violence Generator -->
+            <VPE_ArchotechViolenceGenerator.label>gerador de violência archotech</VPE_ArchotechViolenceGenerator.label>
+            <VPE_ArchotechViolenceGenerator.description>Este dispositivo aproveita a energia psíquica que deixam os corpos dos humanóides circundantes, transformando-a diretamente em energia utilizável. Essa tecnologia é desenvolvida por arquotecnológicos e está além da maioria das sociedades do mundo brilhante.</VPE_ArchotechViolenceGenerator.description>
+
     <!-- Vanilla Furniture Expanded - Production -->
         <!-- Drug Cabinet -->
             <VFE_DrugCabinet.label>gabinete de drogas</VFE_DrugCabinet.label>
