@@ -2532,6 +2532,13 @@
         <!-- Drop Fish -->
 	        <VCEF_dropFish>Pescadores deixam os peixes no chão ao invés de levá-los aos estoques</VCEF_dropFish>
 
+    <!-- Vanilla Plants Expanded -->
+        <!-- Various -->
+            <VCE_PlumsDrying>Ameixas secando</VCE_PlumsDrying>
+            <VCE_PlumsCurrentlyFrozen>Essas ameixas estão congeladas e virarão ameixas secas</VCE_PlumsCurrentlyFrozen>
+            <VCE_PlumsCurrentlyRefrigerated>Essas ameixas essão refrigeradas e não secarão tão rápido quanto poderiam (secam em {0})</VCE_PlumsCurrentlyRefrigerated>
+            <VCE_PlumsDryingCorrectly>Estas ameixas estão secando corretamente (secam em {0})</VCE_PlumsDryingCorrectly>
+
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Aspirations -->
             <VSIE.WorkFrenzyBeginLetterContinue>\n\n{PAWN_pronoun} gostaria de trabalhar.</VSIE.WorkFrenzyBeginLetterContinue>

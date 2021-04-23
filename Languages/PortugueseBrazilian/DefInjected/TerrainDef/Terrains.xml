@@ -981,6 +981,11 @@
         <!-- Trench Floor -->
             <VFES_TrenchTerrain.label>trincheira</VFES_TrenchTerrain.label>
 
+    <!-- Vanilla Plants Expanded -->
+        <!-- Tilled Soil -->
+            <VCE_TilledSoil.label>solo arado</VCE_TilledSoil.label>
+            <VCE_TilledSoil.description>O preparo do solo é o processo agrícola por agitação mecânica de vários tipos, aumentando a fertilidade do terreno. Quando uma planta é colhida em um solo arado, o solo se torna um solo normal novamente e precisa ser arado manualmente noavmente.</VCE_TilledSoil.description>
+
     <!-- VFE - Mechanoids : Unoffical Add-On -->
         <!-- Black Concrete -->
             <MAO_BlackConcrete.label>concreto preto</MAO_BlackConcrete.label>

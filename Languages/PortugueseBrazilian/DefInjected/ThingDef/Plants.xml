@@ -181,4 +181,85 @@
             <Plant_Chemroot.label>raiz química</Plant_Chemroot.label>
             <Plant_Chemroot.description>Esta raiz altamente volátil é cultivada pelo seu combustível químico. É difícil de colher e só cresce em solos extremamente férteis. Apesar do risco de uma grande explosão de cadeia, essas plantas são frequentemente cultivadas por fazendeiros desesperados e agroempresas imperiais.</Plant_Chemroot.description>
 
+    <!-- Vanilla Plants Expanded -->
+        <!-- Grass -->
+            <VCE_Grass.label>grama</VCE_Grass.label>
+            <VCE_Grass.description>Grama cultivada. Cresce em qualquer lugar onde haja pouca luz e solo minimamente fértil.</VCE_Grass.description>
+
+        <!-- Tall Grass -->
+            <VCE_TallGrass.label>grama alta</VCE_TallGrass.label>
+            <VCE_TallGrass.description>Grama alta cultivada. Cresce em qualquer lugar onde haja pouca luz e solo minimamente fértil. Retarda qualquer pessoa que se mova sobre ela.</VCE_TallGrass.description>
+
+        <!-- Agave -->
+            <VCE_Agave.label>agave</VCE_Agave.label>
+            <VCE_Agave.description>Uma planta do deserto de folhas grandes com flores e caules comestíveis.</VCE_Agave.description>
+
+        <!-- Onion -->
+            <VCE_Onion.label>cebola</VCE_Onion.label>
+            <VCE_Onion.description>Um bulbo comestível de sabor e cheiro picantes e saborosos com quase tantas variedades quanto as aplicações para cozinhar. Não sofre os efeitos da praga.</VCE_Onion.description>
+
+        <!-- Pumpkin -->
+            <VCE_Pumpkin.label>abóbora</VCE_Pumpkin.label>
+            <VCE_Pumpkin.description>Tecnicamente, uma baga gigante, as abóboras são conhecidas por serem triviais na colheita. No entanto, sua durabilidade significa mais peso e massa.</VCE_Pumpkin.description>
+
+        <!-- Pepper -->
+            <VCE_Pepper.label>pimenta</VCE_Pepper.label>
+            <VCE_Pepper.description>Vagens minúsculas, picantes e carmesins, geralmente usadas em molhos, condimentos ou pós. Embora o sabor em si seja suave, a capsaicina contida dentro dela significa que os humanos as consideram estranhamente viciantes, embora dolorosas quando consumidas em massa. Os animais evitam comê-las.</VCE_Pepper.description>
+
+        <!-- Pea -->
+            <VCE_Peas.label>ervilha</VCE_Peas.label>
+            <VCE_Peas.description>Sementes verdes esféricas guardadas com segurança em uma vagem carnuda. As plantas de ervilha são conhecidas por serem bastante sedentas e se beneficiarão muito com as chuvas.</VCE_Peas.description>
+
+        <!-- Eggplant -->
+            <VCE_Eggplant.label>berinjela</VCE_Eggplant.label>
+            <VCE_Eggplant.description>Uma fruta roxa bulbosa da família das beladuras. A berinjela raramente é servida como acompanhamento, geralmente desempenhando o papel de principal componente do prato. Floresce em clima quente.</VCE_Eggplant.description>
+
+        <!-- Cabbage -->
+            <VCE_Cabbage.label>repolho</VCE_Cabbage.label>
+            <VCE_Cabbage.description>Um vegetal de folhas verdes um tanto resistentes, geralmente picado e fermentado ou ensopado. Esta cepa particular parece altamente resistente a toxinas.</VCE_Cabbage.description>
+
+        <!-- Beet -->
+            <VCE_Beet.label>beterraba</VCE_Beet.label>
+            <VCE_Beet.description>Um vegetal semelhante a uma erva amplamente cultivado para humanos e animais, notavelmente nutritivo e historicamente usado na fabricação de tinturas. Embora a beterraba requeira solo rico, ela é bastante abundante e continuará a crescer muito lentamente mesmo durante o inverno.</VCE_Beet.description>
+
+        <!-- Tomato -->
+            <VCE_Tomato.label>tomate</VCE_Tomato.label>
+            <VCE_Tomato.description>Uma série de frutas vermelhas, suculentas e brilhantes anexadas pela videira, comumente usadas como vegetais. A guisada forte libera açúcares naturais e suaviza os ácidos contidos nela. Os tomates são facilmente removidos da videira sem a necessidade de arrancar a planta.</VCE_Tomato.description>
+
+        <!-- Apple -->
+            <VCE_AppleTree.label>macieira</VCE_AppleTree.label>
+            <VCE_AppleTree.description>Uma árvore com maçãs vermelhas brilhantes, embora existam inúmeras variedades diferentes, este tipo particular favorece verões quentes e invernos amenos. Maçãs têm sido usadas como petiscos, ingredientes de sobremesas e fermentadas em cidra desde o início da humanidade.</VCE_AppleTree.description>
+
+        <!-- Peach -->
+            <VCE_PeachTree.label>pessegueiro</VCE_PeachTree.label>
+            <VCE_PeachTree.description>Uma árvore caducifólia com frutos difusos e de caroço conhecidos como pêssegos, os pessegueiros geralmente requerem luz solar total e temperaturas amenas. Um pêssego maduro terá um aroma perfumado e será delicioso.</VCE_PeachTree.description>
+
+        <!-- Cherry -->
+            <VCE_CherryTree.label>cerejeira</VCE_CherryTree.label>
+            <VCE_CherryTree.description>Uma árvore com pequenas cerejas roxas vermelhas. As cerejas são notáveis por exigirem uma breve estação de congelamento, como tal, rapidamente se tornaram as favoritas entre as culturas ocidentais do norte.</VCE_CherryTree.description>
+
+        <!-- Plum -->
+            <VCE_PlumTree.label>ameixeira</VCE_PlumTree.label>
+            <VCE_PlumTree.description>Uma árvore espessa com uma fruta roxa de casca lisa. Muitas culturas secam ameixas para preservação a longo prazo. Em vez de apodrecer, passados os 15 dias, as ameixas secam, consideradas, então, alimentos em conserva.</VCE_PlumTree.description>
+
+        <!-- Pear -->
+            <VCE_PearTree.label>pereiro</VCE_PearTree.label>
+            <VCE_PearTree.description>Uma árvore robusta com peras verdes crocantes, as pereiras são notáveis por exigirem grandes quantidades de água e um clima frio, e também se dão muito bem na sombra. Embora no início sejam semelhantes às maçãs, as peras são ligeiramente mais fibrosas e menos doces.</VCE_PearTree.description>
+
+        <!-- Opuntia -->
+            <VCE_Opuntia.label>opúncia</VCE_Opuntia.label>
+            <VCE_Opuntia.description>Esta planta é conhecida por ser bastante abundante, mesmo em desertos quentes e secos. Frutas cor-de-rosa comestíveis, semelhantes ao melão, usadas historicamente tanto para lanches quanto remédios pelos nativos do deserto.</VCE_Opuntia.description>
+
+        <!-- Bearberry -->
+            <VCE_BearBerryBush.label>arbusto de uva-de-urso</VCE_BearBerryBush.label>
+            <VCE_BearBerryBush.description>Um arbusto baixo salpicado de bagas cor-de-rosa que prospera em solo pobre e uniforme. Embora uvas-de-urso crus possuam um sabor ácido e suave, após o cozimento surge uma doçura natural e os resultados podem ser muito mais palatáveis.</VCE_BearBerryBush.description>
+
+        <!-- Banana -->
+            <VCE_BananaTree.label>bananeira</VCE_BananaTree.label>
+            <VCE_BananaTree.description>Uma árvore tropical alta, de folhas largas, adornada com um cacho de bagas amarelas alongadas, sucintamente conhecidas como bananas. São as favoritos dos humanos e de outros primatas nos trópicos há milênios.</VCE_BananaTree.description>
+
+        <!-- Orange -->
+            <VCE_OrangeTree.label>laranjeira</VCE_OrangeTree.label>
+            <VCE_OrangeTree.description>Uma árvore espessa e semitropical pontilhada de laranjas, bem equipada para crescer em ambientes e solos úmidos. Esféricas e perfuradas, as laranjas são notoriamente incômodas de descascar e bastante carnudas, mas são conhecidas como uma das frutas mais suculentas, com um travo forte e amargo na boca.</VCE_OrangeTree.description>
+
 </LanguageData>

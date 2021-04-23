@@ -2,49 +2,38 @@
 <LanguageData>
 
     <!-- [HLX] Ultratech: Altered Carbon -->
-        <!-- Brain Templates -->
-            <AC_BrainTemplates.label>modelos cerebrais</AC_BrainTemplates.label>
+        <AC_BrainTemplates.label>modelos cerebrais</AC_BrainTemplates.label>
 
     <!-- A Dog Said... Animal Prosthetics -->
-        <!-- Animal Body Part-->
-            <BodyPartsAnimalArtificial.label>partes do corpo de animal</BodyPartsAnimalArtificial.label>
+        <BodyPartsAnimalArtificial.label>partes do corpo de animal</BodyPartsAnimalArtificial.label>
 
     <!-- Argón's Tribal Medicine -->
-        <!-- Medical Herbs -->
-            <TM_MedicalHerbs.label>ervas medicinais</TM_MedicalHerbs.label>
+        <TM_MedicalHerbs.label>ervas medicinais</TM_MedicalHerbs.label>
 
     <!-- Dye Vat -->
-        <!-- Dyed Cloth -->
-            <DV_DyedCloth.label>pano tingido</DV_DyedCloth.label>
+        <DV_DyedCloth.label>pano tingido</DV_DyedCloth.label>
 
     <!-- Expanded Materials - Metals -->
-        <!-- Special Metals -->
-            <VMEu_SpecialMetals.label>metais especiais</VMEu_SpecialMetals.label>
+        <VMEu_SpecialMetals.label>metais especiais</VMEu_SpecialMetals.label>
 
     <!-- Expanded Materials Add-on - Ammunition Module -->
-        <!-- Turret Ammunition -->
-            <VMEu_AmmunitionCategory.label>munições</VMEu_AmmunitionCategory.label>
+        <VMEu_AmmunitionCategory.label>munições</VMEu_AmmunitionCategory.label>
 
     <!-- RimWorld - Witcher Monster Hunt -->
-        <!-- Monster Corpses -->
-            <WMH_Flesh.label>cadáveres de monstros</WMH_Flesh.label>
-
-        <!-- Trophies -->
-            <WMH_BuildingsTrophies.label>troféus</WMH_BuildingsTrophies.label>
+        <WMH_Flesh.label>cadáveres de monstros</WMH_Flesh.label>
+        <WMH_BuildingsTrophies.label>troféus</WMH_BuildingsTrophies.label>
 
     <!-- Vanilla Expanded Framework -->
-        <!-- Shields -->
-            <VFEC_Shields.label>escudos</VFEC_Shields.label>
+        <VFEC_Shields.label>escudos</VFEC_Shields.label>
 
     <!-- Vanilla Fishing Expanded -->
-        <!-- Raw Fishes -->
-            <VCEF_RawFishCategory.label>peixes</VCEF_RawFishCategory.label>
+        <VCEF_RawFishCategory.label>peixes</VCEF_RawFishCategory.label>
+
+    <!-- Vanilla Plants Expanded -->
+        <VCE_Fruit.label>frutas</VCE_Fruit.label>
 
     <!-- Zombieland -->
-        <!-- Zombies -->
-            <Zombies.label>zumbis</Zombies.label>
-
-        <!-- Zombie Serum -->
-            <ZombieSerum.label>soro</ZombieSerum.label>
+        <Zombies.label>zumbis</Zombies.label>
+        <ZombieSerum.label>soro</ZombieSerum.label>
 
 </LanguageData>

@@ -758,6 +758,79 @@
 		    <VCEF_RawTuna.description>O atum é um peixe grande de água salgada. Um predador ativo e ágil, tem um corpo elegante e aerodinâmico e está entre os peixes pelágicos que nadam mais rapidamente. O atum tem sido muito apreciado como alimento. Além de seu valor comercial como produto alimentício, o grande tamanho, velocidade e poder que exibem como predadores atraíram a admiração de pescadores, escritores e cientistas.</VCEF_RawTuna.description>
 		    <VCEF_RawTuna.tools.tuna.label>atum</VCEF_RawTuna.tools.tuna.label>
 
+	<!-- Vanilla Plants Expanded -->
+		<!-- Apples -->
+			<VCE_RawApple.label>maçãs</VCE_RawApple.label>
+			<VCE_RawApple.description>Maçãs vermelhas e brilhantes. Maçãs têm sido usadas como petiscos, ingredientes de sobremesas e fermentadas em cidra desde o início da humanidade.</VCE_RawApple.description>
+
+		<!-- Peaches -->
+			<VCE_RawPeach.label>pêssegos</VCE_RawPeach.label>
+			<VCE_RawPeach.description>Uma fruta suculenta comestível chamada pêssego ou nectarina. Um pêssego maduro terá um aroma perfumado e será delicioso.</VCE_RawPeach.description>
+
+		<!-- Cherries -->
+			<VCE_RawCherry.label>cerejas</VCE_RawCherry.label>
+			<VCE_RawCherry.description>Pequenas cerejas doces vermelho-púrpura. As cerejas são notáveis por exigirem uma breve estação de congelamento, como tal, rapidamente se tornaram as favoritas entre as culturas ocidentais do norte.</VCE_RawCherry.description>
+
+		<!-- Plums -->
+			<VCE_RawPlum.label>ameixas</VCE_RawPlum.label>
+			<VCE_RawPlum.description>Uma fruta roxa de casca lisa. Muitas culturas secam ameixas para preservação a longo prazo. Em vez de apodrecer, passados os 15 dias, as ameixas secam, consideradas, então, alimentos em conserva.</VCE_RawPlum.description>
+
+		<!-- Prunes -->
+			<VCE_RawPrunes.label>ameixas secas</VCE_RawPrunes.label>
+			<VCE_RawPrunes.description>Ameixas secas. Demoram muito tempo para se deteriorar.</VCE_RawPrunes.description>
+
+		<!-- Pears -->
+			<VCE_RawPear.label>peras</VCE_RawPear.label>
+			<VCE_RawPear.description>Peras verdes crocantes. Embora no início sejam semelhantes às maçãs, as peras são ligeiramente mais fibrosas e menos doces.</VCE_RawPear.description>
+
+		<!-- Prickly Pears -->
+			<VCE_RawPricklyPear.label>opúncias</VCE_RawPricklyPear.label>
+			<VCE_RawPricklyPear.description>Frutas cor-de-rosa comestíveis, semelhantes ao melão, usadas historicamente tanto para lanches quanto remédios pelos nativos do deserto.</VCE_RawPricklyPear.description>
+
+		<!-- Bearberry -->
+			<VCE_Bearberry.label>uvas-de-urso</VCE_Bearberry.label>
+			<VCE_Bearberry.description>Estas são pequenas bagas cor-de-rosa conhecidas como uvas-de-urso. Embora uvas-de-urso crus possuam um sabor ácido e suave, após o cozimento surge uma doçura natural e os resultados podem ser muito mais palatáveis.</VCE_Bearberry.description>
+
+		<!-- Bananas -->
+			<VCE_RawBanana.label>bananas</VCE_RawBanana.label>
+			<VCE_RawBanana.description>Bagas amarelas e alongadas, facilmente descascadas para revelar uma polpa profundamente doce e quase pastosa por dentro. São as favoritos dos humanos e de outros primatas nos trópicos há milênios.</VCE_RawBanana.description>
+
+		<!-- Oranges -->
+			<VCE_RawOrange.label>laranjas</VCE_RawOrange.label>
+			<VCE_RawOrange.description>Esféricas e perfuradas, as laranjas são notoriamente incômodas de descascar e bastante carnudas, mas são conhecidas como uma das frutas mais suculentas, com um travo forte e amargo na boca.</VCE_RawOrange.description>
+
+		<!-- Onions -->
+			<VCE_RawOnion.label>cebolas</VCE_RawOnion.label>
+			<VCE_RawOnion.description>Um bulbo comestível de sabor e cheiro picantes e saborosos com quase tantas variedades quanto as aplicações para cozinhar.</VCE_RawOnion.description>
+
+		<!-- Pumpkins -->
+			<VCE_RawPumpkin.label>abóboras</VCE_RawPumpkin.label>
+			<VCE_RawPumpkin.description>Tecnicamente, uma baga gigante, as abóboras são conhecidas por serem triviais na colheita.</VCE_RawPumpkin.description>
+
+		<!-- Peppers -->
+			<VCE_RawPepper.label>pimentas</VCE_RawPepper.label>
+			<VCE_RawPepper.description>Vagens minúsculas, picantes e carmesins, geralmente usadas em molhos, condimentos ou pós. Embora o sabor em si seja suave, a capsaicina contida dentro dela significa que os humanos as consideram estranhamente viciantes, embora dolorosas quando consumidas em massa.</VCE_RawPepper.description>
+
+		<!-- Peas -->
+			<VCE_RawPeas.label>ervilhas</VCE_RawPeas.label>
+			<VCE_RawPeas.description>Sementes verdes esféricas guardadas com segurança em uma vagem carnuda.</VCE_RawPeas.description>
+
+		<!-- Eggplants -->
+			<VCE_RawEggplant.label>berinjelas</VCE_RawEggplant.label>
+			<VCE_RawEggplant.description>Uma fruta roxa bulbosa da família das beladuras. A berinjela raramente é servida como acompanhamento, geralmente desempenhando o papel de principal componente do prato.</VCE_RawEggplant.description>
+
+		<!-- Cabbages -->
+			<VCE_RawCabbage.label>repolhos</VCE_RawCabbage.label>
+			<VCE_RawCabbage.description>Um vegetal de folhas verdes um tanto resistentes, geralmente picado e fermentado ou ensopado.</VCE_RawCabbage.description>
+
+		<!-- Beets -->
+			<VCE_RawBeets.label>beterrabas</VCE_RawBeets.label>
+			<VCE_RawBeets.description>Um vegetal semelhante a uma erva amplamente cultivado para humanos e animais, notavelmente nutritivo e historicamente usado na fabricação de tinturas.</VCE_RawBeets.description>
+
+		<!-- Tomatoes -->
+			<VCE_RawTomatoes.label>tomates</VCE_RawTomatoes.label>
+			<VCE_RawTomatoes.description>Uma série de frutas vermelhas, suculentas e brilhantes anexadas pela videira, comumente usadas como vegetais. A guisada forte libera açúcares naturais e suaviza os ácidos contidos nela.</VCE_RawTomatoes.description>
+
     <!-- Vanilla Weapons Expanded - Laser -->
         <!-- Laser Random -->
             <LaserRandom.label>arma laser recuperada</LaserRandom.label>
