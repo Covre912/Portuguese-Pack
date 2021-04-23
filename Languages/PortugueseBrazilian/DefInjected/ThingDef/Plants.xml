@@ -262,4 +262,45 @@
             <VCE_OrangeTree.label>laranjeira</VCE_OrangeTree.label>
             <VCE_OrangeTree.description>Uma árvore espessa e semitropical pontilhada de laranjas, bem equipada para crescer em ambientes e solos úmidos. Esféricas e perfuradas, as laranjas são notoriamente incômodas de descascar e bastante carnudas, mas são conhecidas como uma das frutas mais suculentas, com um travo forte e amargo na boca.</VCE_OrangeTree.description>
 
+    <!-- Vanilla Plants Expanded - Succulents -->
+        <!-- Aloe Vera -->
+            <VCE_Plant_AloeVera.label>barbosa</VCE_Plant_AloeVera.label>
+            <VCE_Plant_AloeVera.description>Uma suculenta cultivada com folhas grossas, esverdeadas e carnudas que se espalham do caule curto.</VCE_Plant_AloeVera.description>
+            
+        <!-- Bunny Ears Cactus -->
+            <VCE_Plant_BunnyEarsCactus.label>orelha-de-coelho</VCE_Plant_BunnyEarsCactus.label>
+            <VCE_Plant_BunnyEarsCactus.description>Uma suculenta cultivada com almofadas que lembram orelhas de um coelho e espinhos que lembram pêlo felpudo.</VCE_Plant_BunnyEarsCactus.description>
+
+        <!-- Echeveria -->
+            <VCE_Plant_Echeveria.label>echeveria</VCE_Plant_Echeveria.label>
+            <VCE_Plant_Echeveria.description>Uma suculenta cultivada formando uma roseta, nativa de biomas áridos.</VCE_Plant_Echeveria.description>
+
+        <!-- Fairy Washboard -->
+            <VCE_Plant_FairyWashboard.label>pele-de-crocodilo</VCE_Plant_FairyWashboard.label>
+            <VCE_Plant_FairyWashboard.description>Uma suculenta cultivada com roseta formando longas folhas triangulares.</VCE_Plant_FairyWashboard.description>
+
+        <!-- Jade -->
+            <VCE_Plant_JadePlant.label>jade</VCE_Plant_JadePlant.label>
+            <VCE_Plant_JadePlant.description>Uma suculenta cultivada com caules grossos e lenhosos e folhas ovais.</VCE_Plant_JadePlant.description>
+
+        <!-- Peyote -->
+            <VCE_Plant_PeyotePlant.label>peiote</VCE_Plant_PeyotePlant.label>
+            <VCE_Plant_PeyotePlant.description>Uma suculenta cultivada que lembra botões grossos.</VCE_Plant_PeyotePlant.description>
+
+        <!-- Pincushion -->
+            <VCE_Plant_PincushionPlant.label>scabiosa</VCE_Plant_PincushionPlant.label>
+            <VCE_Plant_PincushionPlant.description>Uma suculenta cultivada da variedade de cactos, com pontas pontiagudas cobrindo seu exterior.</VCE_Plant_PincushionPlant.description>
+
+        <!-- Schlumbergera -->
+            <VCE_Plant_Schlumbergera.label>flor-de-maio</VCE_Plant_Schlumbergera.label>
+            <VCE_Plant_Schlumbergera.description>Uma suculenta cultivada com flores em forma de sino.</VCE_Plant_Schlumbergera.description>
+
+        <!-- Snake -->
+            <VCE_Plant_SnakePlant.label>espada-de-são-jorge</VCE_Plant_SnakePlant.label>
+            <VCE_Plant_SnakePlant.description>Uma suculenta cultivada com folhas verdes estriadas com uma borda amarela.</VCE_Plant_SnakePlant.description>
+
+        <!-- Sweethreart -->
+            <VCE_Plant_SweetheartPlant.label>caladium</VCE_Plant_SweetheartPlant.label>
+            <VCE_Plant_SweetheartPlant.description>Uma suculenta cultivada com folhas em forma de coração em uma haste alta.</VCE_Plant_SweetheartPlant.description>
+
 </LanguageData>
