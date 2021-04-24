@@ -485,6 +485,11 @@
 			<RttR_PatchedDragonScales.label>escamas misturadas</RttR_PatchedDragonScales.label>
 			<RttR_PatchedDragonScales.description>Um tecido de escama fraco criado cortando e costurando vários tipos de escamas de dragão.</RttR_PatchedDragonScales.description>
 
+	<!-- ReGrowth: Desert Expansion -->
+		<!-- Dragon Fruits -->
+			<RG-D_RawDragonFruits.label>pitaias</RG-D_RawDragonFruits.label>
+			<RG-D_RawDragonFruits.desconhecido>Os frutos de dragão.</RG-D_RawDragonFruits.desconhecido>
+
 	<!-- RimWorld - Witcher Monster Hunt -->
 		<!-- Rage of Nature Implant -->
 			<WMH_RageOfNatureImplant.label>implante de fúria da natureza</WMH_RageOfNatureImplant.label>

@@ -154,6 +154,23 @@
             <TM_DarkBerries.label>amora selvagem</TM_DarkBerries.label>
             <TM_DarkBerries.description>Um arbusto compacto e musgoso com uma pequena fruta preta. Amoras têm um sabor suave e salgado que fica na boca por muito tempo e impede as pessoas de sentir sabores, porém é ruim para o organismo.\n\nExistem mitos de que em grandes quantidades elas podem até mesmo curar asma ou doenças cardíacas.</TM_DarkBerries.description>
 
+    <!-- ReGrowth: Desert Expansion -->
+        <!-- Flower Cactus -->
+            <RG-D_Plant_FlowerCactus.label>cacto</RG-D_Plant_FlowerCactus.label>
+            <RG-D_Plant_FlowerCactus.description>Um minúsculo cacto com uma flor roxa crescendo nele.</RG-D_Plant_FlowerCactus.description>
+
+        <!-- Pitahaya -->
+            <RG-D_Plant_PitahayaCactus.label>pitaia</RG-D_Plant_PitahayaCactus.label>
+            <RG-D_Plant_PitahayaCactus.description>Um grande cacto nativo de ambientes áridos. Produz uma fruta avermelhada que pode ser cozida ou comida crua.</RG-D_Plant_PitahayaCactus.description>
+
+        <!-- Angel Wings Cactus -->
+            <RG-D_Plant_AngelWingsCactus.label>orelha-de-coelho</RG-D_Plant_AngelWingsCactus.label>
+            <RG-D_Plant_AngelWingsCactus.description>Um pequeno cacto nativo de ambientes áridos. Seu piel pode ser colhida para a alimentação.</RG-D_Plant_AngelWingsCactus.description>
+
+        <!-- Palm Tree -->
+            <RG-D_Plant_DesertPalmTree.label>palmeira</RG-D_Plant_DesertPalmTree.label>
+            <RG-D_Plant_DesertPalmTree.description>Uma árvore do deserto com um tronco alto e nu encimado por um cacho de folhas muito largas. Infelizmente, esta variedade não produz cocos comestíveis.</RG-D_Plant_DesertPalmTree.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Bluebell -->
             <VEE_Plant_Bluebell.label>campânula azul</VEE_Plant_Bluebell.label>

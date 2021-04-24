@@ -2405,7 +2405,6 @@
 
 	    <!-- Lightning Generator -->
             <VPE_LightningTime>Energia elétrica armazenada por: </VPE_LightningTime>
-            <VPE_Producing>Produzindo {0} W de eletricidade</VPE_Producing>
             <VPE_NotLightningProducing>Eletricidade elétrica esgotada. Parece que você terá que esperar pela próxima tempestade.</VPE_NotLightningProducing>
 
 	    <!-- Gas Pipe Kaboom -->
