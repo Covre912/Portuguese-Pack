@@ -2,23 +2,18 @@
 <LanguageData>
 
     <!-- Race to the Rim -->
-        <!-- Race to the Rim -->
-            <RttR_Achievements.label>Jornada do Herói</RttR_Achievements.label>
+        <RttR_Achievements.label>Jornada do Herói</RttR_Achievements.label>
 
     <!-- RimWorld - Witcher Monster Hunt -->
-        <!-- Witcher Monster Hunt -->
-            <WitcherMonsterHunt.label>Caça aos Monstros</WitcherMonsterHunt.label>
+        <WitcherMonsterHunt.label>Caça aos Monstros</WitcherMonsterHunt.label>
 
     <!-- Vanilla Achievement Expanded -->
-        <!-- Main -->
-            <Main.label>Principal</Main.label>
+        <Main.label>Principal</Main.label>
 
     <!-- Vanilla Fishing Expanded -->
-        <!-- Vanilla Cuisine -->
-            <VCE_Achievements.label>Vanilla Cuisine</VCE_Achievements.label>
+        <VCE_Achievements.label>Vanilla Cuisine</VCE_Achievements.label>
 
     <!-- Vanilla Weapons Expanded -->
-        <!-- Vanilla Expanded -->
-            <VanillaExpanded.label>Vanilla Expanded</VanillaExpanded.label>
+        <VanillaExpanded.label>Vanilla Expanded</VanillaExpanded.label>
 
 </LanguageData>

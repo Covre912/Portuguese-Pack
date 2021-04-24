@@ -132,4 +132,25 @@
             <WyvernContract.label>Contrato de Wyvern</WyvernContract.label>
             <WyvernContract.description>Mate um wyvern</WyvernContract.description>
 
+    <!-- Vanilla Armour Expanded -->
+        <!-- JUGGERNAUT! -->
+            <Juggernaut.label>COLOSSO!</Juggernaut.label>
+            <Juggernaut.description>Crie uma máscara de guerra de pedra de qualidade obra-prima</Juggernaut.description>
+
+        <!-- I Don't See Anyone! -->
+            <iDontSeeAnyone.label>Eu Não Vejo Ninguém!</iDontSeeAnyone.label>
+            <iDontSeeAnyone.description>Crie um traje ghillie</iDontSeeAnyone.description>
+
+        <!-- Not Great, Not Terrible -->
+            <notGreatNotTerrible.label>Não é bom, não é ruim</notGreatNotTerrible.label>
+            <notGreatNotTerrible.description>Crie 6 trajes anti-radiação</notGreatNotTerrible.description>
+
+        <!-- Leather? That's Kinky -->
+            <leatherThatsKinky.label>Couro? Isso é Estranho</leatherThatsKinky.label>
+            <leatherThatsKinky.description>Pesquise curtimento de couro</leatherThatsKinky.description>
+
+        <!-- Sierra 117 -->
+            <sierra117.label>John 177</sierra117.label>
+            <sierra117.description>Crie uma armadura de fusileiro pesada de qualidade obra-prima</sierra117.description>
+
 </LanguageData>

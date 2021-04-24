@@ -73,6 +73,31 @@
             <VEF_AdvancedAnimalImplants.label>implantes veterinários avançados</VEF_AdvancedAnimalImplants.label>
             <VEF_AdvancedAnimalImplants.description>Aprenda a extrair certas habilidades de animais e implantá-las em outros. Ataques de animais à distância também podem ser implantados em um animal diferente.</VEF_AdvancedAnimalImplants.description>
 
+    <!-- Vanilla Armour Expanded -->
+        <!-- Leather Tanning -->
+            <VAE_LeatherTanning.label>curtimento de couro</VAE_LeatherTanning.label>
+            <VAE_LeatherTanning.description>Aprenda o processo de curtimento para criar armaduras mais grossas e duráveis.</VAE_LeatherTanning.description>
+
+        <!-- Hazard Protection -->
+            <VAE_HazardProtection.label>proteção anti-radiação</VAE_HazardProtection.label>
+            <VAE_HazardProtection.description>Desenvolva trajes resistentes a alta toxicidade e radiação.</VAE_HazardProtection.description>
+
+        <!-- Military Camouflage -->
+            <VAE_MlitaryCamouflage.label>camuflagem militar</VAE_MlitaryCamouflage.label>
+            <VAE_MlitaryCamouflage.description>Crie roupas militares especiais, permitindo que os usuários se pareçam com o ambiente de fundo, como folhagens.</VAE_MlitaryCamouflage.description>
+
+        <!-- Siegebreaker Armor -->
+            <VAE_SiegebreakerArmor.label>armadura de fuzileiro pesada</VAE_SiegebreakerArmor.label>
+            <VAE_SiegebreakerArmor.description>Crie uma armadura de fuzileiro pesada que retarda significativamente o usuário, mas fornece proteção avançada.</VAE_SiegebreakerArmor.description>
+
+        <!-- Trooper Armor -->
+            <VAE_TrooperArmor.label>armadura de soldado</VAE_TrooperArmor.label>
+            <VAE_TrooperArmor.description>Crie uma armadura de soldado leve e barata.</VAE_TrooperArmor.description>
+
+        <!-- Military Clothing -->
+            <VAE_MilitaryClothing.label>vestuário militar</VAE_MilitaryClothing.label>
+            <VAE_MilitaryClothing.description>Crie roupas à prova de balas e intempéries para proteger seus soldados.</VAE_MilitaryClothing.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Factory Basics -->
             <VFE_FactoryBasics.label>fundamentos da fábrica</VFE_FactoryBasics.label>
