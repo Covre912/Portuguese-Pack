@@ -79,7 +79,7 @@
             <VAE_LeatherTanning.description>Aprenda o processo de curtimento para criar armaduras mais grossas e duráveis.</VAE_LeatherTanning.description>
 
         <!-- Hazard Protection -->
-            <VAE_HazardProtection.label>proteção anti-radiação</VAE_HazardProtection.label>
+            <VAE_HazardProtection.label>vestuário anti-radiação</VAE_HazardProtection.label>
             <VAE_HazardProtection.description>Desenvolva trajes resistentes a alta toxicidade e radiação.</VAE_HazardProtection.description>
 
         <!-- Military Camouflage -->
