@@ -636,6 +636,61 @@
         <!-- Grapes -->
             <VFEM_RawGrapes.label>uvas</VFEM_RawGrapes.label>
             <VFEM_RawGrapes.description>Uvas cruas. Agradável de comer, mesmo quando cru. As uvas também podem ser transformadas em mosto, que pode ser usado para fazer vinho.</VFEM_RawGrapes.description>
+		
+        <!-- Wine -->
+            <VFEM_Wine.label>vinho</VFEM_Wine.label>
+            <VFEM_Wine.description>Uma garrafa grande de uma bebida alcoólica forte feita de uvas fermentadas. O consumo excessivo pode levar a desmaios e, com o tempo, ao vício.</VFEM_Wine.description>
+            <VFEM_Wine.ingestible.ingestCommandString>Beber {0}</VFEM_Wine.ingestible.ingestCommandString>
+            <VFEM_Wine.ingestible.ingestReportString>Bebendo {0}.</VFEM_Wine.ingestible.ingestReportString>
+
+        <!-- Grape Must -->
+            <VFEM_Must.label>mosto de uva</VFEM_Must.label>
+            <VFEM_Must.description>Vinho não fermentado. Essa substância precisa fermentar em um barril antes de se tornar vinho potável.</VFEM_Must.description>
+
+	<!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Chemshine -->
+            <Chemshine.label>jägermeister</Chemshine.label>
+            <Chemshine.description>Um álcool perigoso geralmente consumido por bandidos e colonizadores industriais. Enquanto tira a tristeza e a dor, o jägermeister intoxica o sangue do bebedor com combustível químico, resultando em uma poderosa explosão após a morte.</Chemshine.description>
+            <Chemshine.ingestible.ingestCommandString>Beber {0}</Chemshine.ingestible.ingestCommandString>
+            <Chemshine.ingestible.ingestReportString>Bebendo {0}.</Chemshine.ingestible.ingestReportString>
+
+	<!-- Vanilla Factions Expanded - Vikings -->
+		<!-- Psychic Cornucopia -->
+			<VFEV_PlantGrowerArtifact.label>cornucópia psíquica</VFEV_PlantGrowerArtifact.label>
+			<VFEV_PlantGrowerArtifact.description>Um artefato misterioso de uso único que faz todas as plantas próximas crescerem até a maturidade quando ativado. Criado por uma IA superior, serviu como um presente para a humanidade há muito tempo.</VFEV_PlantGrowerArtifact.description>
+
+		<!-- Lothurr Antler -->
+			<VFEV_LothurrAntler.label>chifre de lodurr</VFEV_LothurrAntler.label>
+			<VFEV_LothurrAntler.description>Um chifre de um Lodurr. Incrivelmente pesado e inestimável na maioria dos mercados. Este é um verdadeiro troféu, bem como uma arma mortal.</VFEV_LothurrAntler.description>
+
+		<!-- Sweetroll -->
+			<VFEV_Sweetroll.label>pão doce</VFEV_Sweetroll.label>
+			<VFEV_Sweetroll.description>Um deleite assado feito de uma base de pão de ovo espesso e adocicado. Qualquer comerciante que os venda deve ficar imediatamente preocupado, pois os pães doces têm um talento especial para serem roubados.</VFEV_Sweetroll.description>
+
+		<!-- Raw Honey -->
+			<VFEV_Honey.label>mel</VFEV_Honey.label>
+			<VFEV_Honey.description>Mel não processado colhido de um apiário, muito açucarado, mas também extremamente duradouro, perfeito para viagens de caravana, fermentação em hidromel ou sobremesas.</VFEV_Honey.description>
+
+		<!-- Fenrirskin -->
+			<VFEV_Leather_Fenrir.label>pele de fenrir</VFEV_Leather_Fenrir.label>
+			<VFEV_Leather_Fenrir.description>Uma pele áspera e peluda colhida de um fenrir. É extremamente difícil de perfurar e é bastante duradoura, perfeita para armadura. Possui um preço alto no mercado.</VFEV_Leather_Fenrir.description>
+
+		<!-- Lothurr Leather -->
+			<VFEV_Leather_Lothurr.label>couro de lodurr</VFEV_Leather_Lothurr.label>
+			<VFEV_Leather_Lothurr.description>A pele brilhante de um lodurr. Luxuoso, suave e com um brilho cintilante. Usado em muitos artesanatos e móveis, principalmente para estética.</VFEV_Leather_Lothurr.description>
+
+		<!-- Njorunfur -->
+			<VFEV_Leather_Njorun.label>pele de njörun</VFEV_Leather_Njorun.label>
+			<VFEV_Leather_Njorun.description>A pele grossa de um njörun. Semelhante em cor à pele de um múfalo, é muito mais macio e raro. Extremamente eficiente na regulação da temperatura em climas frios.</VFEV_Leather_Njorun.description>
+
+		<!-- Mjollnir Strike Targeter -->
+			<VFEV_OrbitalTargeterMjollnir.label>alvo de ataque mjölnir</VFEV_OrbitalTargeterMjollnir.label>
+			<VFEV_OrbitalTargeterMjollnir.description>Um antigo aparelho de mira para o satélite Mjölnir há muito esquecido. Esta unidade designa um alvo e transmite as coordenadas para um relé de mira, que então gera descarga elétrica localizada ao redor do alvo. Esta unidade foi reprogramada para aceitar usuários não autorizados, mas assim que for usada, a rede detectará a incursão e cortará o link permanentemente.</VFEV_OrbitalTargeterMjollnir.description>
+			<VFEV_LightningStrike.label>relâmpago</VFEV_LightningStrike.label>
+
+		<!-- Cow Wool -->
+			<VFEV_WoolCow.label>lã de vaca</VFEV_WoolCow.label>
+			<VFEV_WoolCow.description>Lã de vaca. Fornece uma quantidade decente de isolamento.</VFEV_WoolCow.description>
 
     <!-- Vanilla Fishing Expanded -->
         <!-- Anchovy -->
@@ -837,6 +892,9 @@
 			<VCE_RawTomatoes.description>Uma série de frutas vermelhas, suculentas e brilhantes anexadas pela videira, comumente usadas como vegetais. A guisada forte libera açúcares naturais e suaviza os ácidos contidos nela.</VCE_RawTomatoes.description>
 
     <!-- Vanilla Weapons Expanded - Laser -->
+        <!-- Unfinished Salvaged Laser Gun -->
+            <UnfinishedSalvagedLaserGun.label>arma laser inacabada</UnfinishedSalvagedLaserGun.label>
+
         <!-- Laser Random -->
             <LaserRandom.label>arma laser recuperada</LaserRandom.label>
             <LaserRandom.description>Um monte de componentes que, quando montados, criam uma arma laser recuperada.</LaserRandom.description>

@@ -544,4 +544,172 @@
             <VFES_CaravanRaid.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFES_CaravanRaid.LetterLabelQuestFailed.slateRef>
             <VFES_CaravanRaid.LetterTextQuestFailed.slateRef>Depois de serem descobertos, os [siteFaction_pawnsPlural] saíram. A missão [resolvedQuestName] terminou.</VFES_CaravanRaid.LetterTextQuestFailed.slateRef>
 
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Ancient Ruin -->
+            <VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings>
+                <li>questName(priority=1)->[ruins] [ancient] de [asker_nameDef]</li>
+                <li>questName->[ruins] [ancient]</li>
+                <li>ruins->Ruínas</li>
+                <li>ruins->Agregação de Ruínas</li>
+                <li>ancient->Antigas</li>
+                <li>ancient->Lendárias</li>
+                <li>ancient->Esquecidas</li>
+            </VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings>
+            <VFEV_OpportunitySite_AncientRuin.questDescriptionRules.rulesStrings>
+                <li>questDescription(askerIsNull==true)->Interceptamos mensagens sobre a localização de um antigo complexo de ruínas próximo a [map_definite]. Essas ruínas podem conter qualquer coisa, desde sarcófagos de criptosono e artefatos arquotecnológicos até armas e armaduras raras.\n\nTenha cuidado, pois essas ruínas antigas certamente são defendidas. Devemos estar preparados para tudo.</li>
+                <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] nos informou sobre a localização de um antigo complexo de ruínas próximo a [map_definite]. Essas ruínas podem conter qualquer coisa, desde sarcófagos de criptosono e artefatos arquotecnológicos até armas e armaduras raras.\n\nTenha cuidado, pois essas ruínas antigas certamente são defendidas. Devemos estar preparados para tudo.</li>
+            </VFEV_OpportunitySite_AncientRuin.questDescriptionRules.rulesStrings>
+            <VFEV_OpportunitySite_AncientRuin.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFEV_OpportunitySite_AncientRuin.LetterLabelQuestExpired.slateRef>
+            <VFEV_OpportunitySite_AncientRuin.LetterTextQuestExpired.slateRef>As antigas ruínas foram encontradas por outros. A missão [resolvedQuestName] expirou.</VFEV_OpportunitySite_AncientRuin.LetterTextQuestExpired.slateRef>
+
+        <!-- Legendary Grave -->
+            <VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings>
+                <li>questName(priority=1)->[grave] [legendary] de [asker_nameDef]</li>
+                <li>questName->[grave] [legendary]</li>
+                <li>grave->Túmulo</li>
+                <li>grave->Sepulcro</li>
+                <li>grave->Mausoléu</li>
+                <li>legendary->Lendário</li>
+                <li>legendary->Mítico</li>
+                <li>legendary->Antigo</li>
+                <li>legendary->Perdido</li>
+                <li>legendary->Fabuloso</li>
+            </VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings>
+            <VFEV_OpportunitySite_LegendaryGrave.questDescriptionRules.rulesStrings>
+                <li>questDescription(askerIsNull==true)->Encontramos a localização de um lendário túmulo de vikings não muito longe daqui.\n\nVocê pode viajar até lá e derrotar os guardiões para obter recompensas valiosas e talvez recrutar um lendário herói.</li>
+                <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] tem relatórios que encontraram a localização de um túmulo de vikings lendário não muito longe daqio.\n\nVocê pode viajar até lá e derrotar os guardiões para obter recompensas valiosas e talvez recrutar um lendário herói.</li>
+            </VFEV_OpportunitySite_LegendaryGrave.questDescriptionRules.rulesStrings>
+            <VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestExpired.slateRef>
+            <VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestExpired.slateRef>O antigo túmulo foi encontrada por outros. A missão [resolvedQuestName] expirou.</VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestExpired.slateRef>
+            <VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestFailed.slateRef>
+            <VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestFailed.slateRef>Depois de serem descobertos, acordaram os heróis e os transferiram para outro lugar. A missão [resolvedQuestName] terminou.</VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestFailed.slateRef>
+            <VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.label.slateRef>A missão sucedeu: [resolvedQuestName]</VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.label.slateRef>
+            <VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.text.slateRef>Você lutou com sucesso contra os guardiões! A missão [resolvedQuestName] terminou.</VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.text.slateRef>
+
+        <!-- Fenrir Hunt -->
+            <VFEV_FenrirHunt.questNameRules.rulesStrings>
+                <li>questName(priority=1)->[hunt] de Fenrir de [asker_nameDef]</li>
+                <li>questName->[hunt] de Fenrir</li>
+                <li>hunt->Caça</li>
+                <li>hunt->Caçada</li>
+            </VFEV_FenrirHunt.questNameRules.rulesStrings>
+            <VFEV_FenrirHunt.questDescriptionRules.rulesStrings>
+                <li>questDescription(askerIsNull==true)->Interceptamos mensagens sobre a localização de um local de um Fenrir próximo a [map_definite]. Você pode usar este momento para caçar sua pele preciosa ou tentar domesticá-lo se tiver coragem.\n\nUm lobo gigante e mortal de origem desconhecida. O fenrir é agressivo por natureza e extremamente perigoso quando enfurecido. Seu pelo e sua pele são incrivelmente resistentes a danos e ao frio, enquanto seus dentes afiados podem perfurar até mesmo a melhor armadura.\n\nAs lendas dizem que os fenris foram bioengenharia em tempos antigos para a guerra e só seguem o líder mais corajoso para o combate.</li>
+                <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] tem relatórios que avistaram um Fenrir nas proximidades. Embora não planejem caçar a fera, estão desafiando você a caçá-la. Você pode usar este momento para caçar sua pele preciosa ou tentar domesticá-lo se tiver coragem.\n\nUm lobo gigante e mortal de origem desconhecida. O fenrir é agressivo por natureza e extremamente perigoso quando enfurecido. Seu pelo e sua pele são incrivelmente resistentes a danos e ao frio, enquanto seus dentes afiados podem perfurar até mesmo a melhor armadura.\n\nAs lendas dizem que os fenris foram bioengenharia em tempos antigos para a guerra e só seguem o líder mais corajoso para o combate.</li>
+            </VFEV_FenrirHunt.questDescriptionRules.rulesStrings>
+            <VFEV_FenrirHunt.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFEV_FenrirHunt.LetterLabelQuestExpired.slateRef>
+            <VFEV_FenrirHunt.LetterTextQuestExpired.slateRef>O Fenrir foi encontrado por outros. A missão [resolvedQuestName] expirou.</VFEV_FenrirHunt.LetterTextQuestExpired.slateRef>
+            <VFEV_FenrirHunt.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFEV_FenrirHunt.LetterLabelQuestFailed.slateRef>
+            <VFEV_FenrirHunt.LetterTextQuestFailed.slateRef>Depois de ser descoberto, o Fenrir fugiu. A missão [resolvedQuestName] terminou.</VFEV_FenrirHunt.LetterTextQuestFailed.slateRef>
+            <VFEV_FenrirHunt.LetterLabelPaymentArrived.slateRef>O pagamento chegou</VFEV_FenrirHunt.LetterLabelPaymentArrived.slateRef>
+            <VFEV_FenrirHunt.LetterTextPaymentArrived.slateRef>Você derrotou o Fenrir!\n\nO pagamento de [asker_faction_name] chegou.</VFEV_FenrirHunt.LetterTextPaymentArrived.slateRef>
+            <VFEV_FenrirHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_FenrirHunt.LetterLabelFavorReceiver.slateRef>
+            <VFEV_FenrirHunt.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</VFEV_FenrirHunt.LetterTextFavorReceiver.slateRef>
+
+        <!-- Lothurr Hunt -->
+            <VFEV_LothurrHunt.questNameRules.rulesStrings>
+                <li>questName(priority=1)->[hunt] de Lodurr de [asker_nameDef]</li>
+                <li>questName->[hunt] de Lodurr</li>
+                <li>hunt->Caça</li>
+                <li>hunt->Caçada</li>
+            </VFEV_LothurrHunt.questNameRules.rulesStrings>
+            <VFEV_LothurrHunt.questDescriptionRules.rulesStrings>
+                <li>questDescription(askerIsNull==true)->Interceptamos mensagens sobre a localização de um local de um Lodurr próximo a [map_definite]. Você pode usar este momento para caçá-lo por seus chifres majestosos ou tentar domesticá-lo se tiver coragem.\n\nUma criatura gigantesca, semelhante a um dragão, de origem desconhecida. O lodurr é pacífico por natureza, mas extremamente perigoso quando enfurecido. Sua pele e placas de armadura são incrivelmente resistentes a danos e ao frio, enquanto seus chifres majestosos custam um preço enorme.\n\nMuitas lendas cercam os lodurrs. Alguns dizem que é a manifestação dos antigos deuses nórdicos enquanto outros afirmam que são uma espécie verdadeiramente alienígena.</li>
+                <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] tem relatórios que avistaram um Lodurr nas proximidades. Embora não planejem caçar a fera, estão desafiando você a caçá-la. Você pode usar este momento para caçá-lo por seus chifres majestosos ou tentar domesticá-lo se tiver coragem.\n\nUma criatura gigantesca, semelhante a um dragão, de origem desconhecida. O lodurr é pacífico por natureza, mas extremamente perigoso quando enfurecido. Sua pele e placas de armadura são incrivelmente resistentes a danos e ao frio, enquanto seus chifres majestosos custam um preço enorme.\n\nMuitas lendas cercam os lodurrs. Alguns dizem que é a manifestação dos antigos deuses nórdicos enquanto outros afirmam que são uma espécie verdadeiramente alienígena.</li>
+            </VFEV_LothurrHunt.questDescriptionRules.rulesStrings>
+            <VFEV_LothurrHunt.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFEV_LothurrHunt.LetterLabelQuestExpired.slateRef>
+            <VFEV_LothurrHunt.LetterTextQuestExpired.slateRef>O Lodurr foi encontrado por outros. A missão [resolvedQuestName] expirou.</VFEV_LothurrHunt.LetterTextQuestExpired.slateRef>
+            <VFEV_LothurrHunt.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFEV_LothurrHunt.LetterLabelQuestFailed.slateRef>
+            <VFEV_LothurrHunt.LetterTextQuestFailed.slateRef>Depois de ser descoberto, o Lodurr fugiu. A missão [resolvedQuestName] terminou.</VFEV_LothurrHunt.LetterTextQuestFailed.slateRef>
+            <VFEV_LothurrHunt.LetterLabelPaymentArrived.slateRef>O pagamento chegou</VFEV_LothurrHunt.LetterLabelPaymentArrived.slateRef>
+            <VFEV_LothurrHunt.LetterTextPaymentArrived.slateRef>Você derrotou o Lodurr!\n\nO pagamento de [asker_faction_name] chegou.</VFEV_LothurrHunt.LetterTextPaymentArrived.slateRef>
+            <VFEV_LothurrHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_LothurrHunt.LetterLabelFavorReceiver.slateRef>
+            <VFEV_LothurrHunt.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</VFEV_LothurrHunt.LetterTextFavorReceiver.slateRef>
+
+        <!-- Njörun -->
+            <VFEV_NjorunHunt.questNameRules.rulesStrings>
+                <li>questName(priority=1)->[hunt] de Njörun de [asker_nameDef]</li>
+                <li>questName->[hunt] de Njörun</li>
+                <li>hunt->Caça</li>
+                <li>hunt->Caçada</li>
+            </VFEV_NjorunHunt.questNameRules.rulesStrings>
+            <VFEV_NjorunHunt.questDescriptionRules.rulesStrings>
+                <li>questDescription(askerIsNull==true)->Interceptamos mensagens sobre a localização de um local de um Njörun próximo a [map_definite]. Você pode usar este momento para caçar seu couro grosso e carne.\n\nUma criatura gigantesca, parecida com um boi, de origem desconhecida. O njörun é cauteloso por natureza, viajando pelo planeta em pequenos rebanhos e se escondendo de qualquer pessoa que possa desejar-lhe mal. Embora dócil, a fera é muito nervosa e provavelmente retaliará se for atacada.\n\nAs lendas dizem que os njöruns são o resultado da criação de corporações há muito desaparecidas na tentativa de criar o animal perfeito.</li>
+                <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] tem relatórios que avistaram um Njörun nas proximidades. Embora não planejem caçar a fera, estão desafiando você a caçá-la. Você pode usar este momento para caçar seu couro grosso e carne.\n\nUma criatura gigantesca, parecida com um boi, de origem desconhecida. O njörun é cauteloso por natureza, viajando pelo planeta em pequenos rebanhos e se escondendo de qualquer pessoa que possa desejar-lhe mal. Embora dócil, a fera é muito nervosa e provavelmente retaliará se for atacada.\n\nAs lendas dizem que os njöruns são o resultado da criação de corporações há muito desaparecidas na tentativa de criar o animal perfeito.</li>
+            </VFEV_NjorunHunt.questDescriptionRules.rulesStrings>
+            <VFEV_NjorunHunt.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFEV_NjorunHunt.LetterLabelQuestExpired.slateRef>
+            <VFEV_NjorunHunt.LetterTextQuestExpired.slateRef>O Njörun foi encontrado por outros. A missão [resolvedQuestName] expirou.</VFEV_NjorunHunt.LetterTextQuestExpired.slateRef>
+            <VFEV_NjorunHunt.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFEV_NjorunHunt.LetterLabelQuestFailed.slateRef>
+            <VFEV_NjorunHunt.LetterTextQuestFailed.slateRef>Depois de ser descoberto, o Njörun fugiu. A missão [resolvedQuestName] terminou.</VFEV_NjorunHunt.LetterTextQuestFailed.slateRef>
+            <VFEV_NjorunHunt.LetterLabelPaymentArrived.slateRef>O pagamento chegou</VFEV_NjorunHunt.LetterLabelPaymentArrived.slateRef>
+            <VFEV_NjorunHunt.LetterTextPaymentArrived.slateRef>Você derrotou o Njörun!\n\nO pagamento de [asker_faction_name] chegou.</VFEV_NjorunHunt.LetterTextPaymentArrived.slateRef>
+            <VFEV_NjorunHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_NjorunHunt.LetterLabelFavorReceiver.slateRef>
+            <VFEV_NjorunHunt.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</VFEV_NjorunHunt.LetterTextFavorReceiver.slateRef>
+
+        <!-- Thrumbo Hunt -->
+            <VFEV_ThrumboHunt.questNameRules.rulesStrings>
+                <li>questName(priority=1)->[hunt] de Thrumbo de [asker_nameDef]</li>
+                <li>questName->[hunt] de Thrumbo</li>
+                <li>hunt->Caça</li>
+                <li>hunt->Caçada</li>
+            </VFEV_ThrumboHunt.questNameRules.rulesStrings>
+            <VFEV_ThrumboHunt.questDescriptionRules.rulesStrings>
+                <li>questDescription(askerIsNull==true)->Interceptamos mensagens sobre a localização de um local de um Thrumbo próximo a [map_definite].\n\nUma criatura gigantesca de origem desconhecida. O thrumbo é gentil por natureza, mas extremamente perigoso quando enfurecido. Seu pêlo longo é excepcionalmente belo e valioso, e seu chifre de lâmina afiada são muito valiosos na maioria dos mercados. Lendas dizem que um thrumbo ancião é a criatura mais sábia do universo - ele simplesmente escolhe não falar.</li>
+                <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] tem relatórios que avistaram um Thrumbo nas proximidades. Embora não planejem caçar a fera, estão desafiando você a caçá-la.\n\nUma criatura gigantesca de origem desconhecida. O thrumbo é gentil por natureza, mas extremamente perigoso quando enfurecido. Seu pêlo longo é excepcionalmente belo e valioso, e seu chifre de lâmina afiada são muito valiosos na maioria dos mercados. Lendas dizem que um thrumbo ancião é a criatura mais sábia do universo - ele simplesmente escolhe não falar.</li>
+            </VFEV_ThrumboHunt.questDescriptionRules.rulesStrings>
+            <VFEV_ThrumboHunt.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFEV_ThrumboHunt.LetterLabelQuestExpired.slateRef>
+            <VFEV_ThrumboHunt.LetterTextQuestExpired.slateRef>O Thrumbo foi encontrado por outros. A missão [resolvedQuestName] expirou.</VFEV_ThrumboHunt.LetterTextQuestExpired.slateRef>
+            <VFEV_ThrumboHunt.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFEV_ThrumboHunt.LetterLabelQuestFailed.slateRef>
+            <VFEV_ThrumboHunt.LetterTextQuestFailed.slateRef>Depois de ser descoberto, o Thrumbo fugiu. A missão [resolvedQuestName] terminou.</VFEV_ThrumboHunt.LetterTextQuestFailed.slateRef>
+            <VFEV_ThrumboHunt.LetterLabelPaymentArrived.slateRef>O pagamento chegou</VFEV_ThrumboHunt.LetterLabelPaymentArrived.slateRef>
+            <VFEV_ThrumboHunt.LetterTextPaymentArrived.slateRef>Você derrotou o Thrumbo!\n\nO pagamento de [asker_faction_name] chegou.</VFEV_ThrumboHunt.LetterTextPaymentArrived.slateRef>
+            <VFEV_ThrumboHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_ThrumboHunt.LetterLabelFavorReceiver.slateRef>
+            <VFEV_ThrumboHunt.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</VFEV_ThrumboHunt.LetterTextFavorReceiver.slateRef>
+
+        <!-- Odin Hunt -->
+            <VFEV_OdinHunt.questNameRules.rulesStrings>
+                <li>questName(priority=1)->[hunt] de Odin de [asker_nameDef]</li>
+                <li>questName->[hunt] de Odin</li>
+                <li>hunt->Caça</li>
+                <li>hunt->Caçada</li>
+            </VFEV_OdinHunt.questNameRules.rulesStrings>
+            <VFEV_OdinHunt.questDescriptionRules.rulesStrings>
+                <li>questDescription(askerIsNull==true)->Interceptamos mensagens sobre a localização de um local de um Odin próximo a [map_definite].\n\nUm mecanoide monolótico fortificado teorizado por ter a capacidade de causar quedas de raios por meio de manipulação ambiental e descarga estática. Braços laminados serrilhados são emparelhados com ressonadores de pulso PEM capazes de desativar os eletrônicos próximos. Aqueles que são corajosos o suficiente para lutar contra este mecanóide à queima-roupa são rapidamente despachados por relâmpagos de alta voltagem.\n\nDurante as guerras mecanoide, o próprio avistamento de Odin é conhecido por gerar uma demanda por retirada. Muito poucos o encontraram e sobreviveram para relatar.</li>
+                <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] tem relatórios que avistaram um Odin nas proximidades. Embora não planejem caçar a fera, estão desafiando você a caçá-la.\n\nUm mecanoide monolótico fortificado teorizado por ter a capacidade de causar quedas de raios por meio de manipulação ambiental e descarga estática. Braços laminados serrilhados são emparelhados com ressonadores de pulso PEM capazes de desativar os eletrônicos próximos. Aqueles que são corajosos o suficiente para lutar contra este mecanóide à queima-roupa são rapidamente despachados por relâmpagos de alta voltagem.\n\nDurante as guerras mecanoide, o próprio avistamento de Odin é conhecido por gerar uma demanda por retirada. Muito poucos o encontraram e sobreviveram para relatar.</li>
+            </VFEV_OdinHunt.questDescriptionRules.rulesStrings>
+            <VFEV_OdinHunt.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFEV_OdinHunt.LetterLabelQuestExpired.slateRef>
+            <VFEV_OdinHunt.LetterTextQuestExpired.slateRef>O Odin foi encontrado por outros. A missão [resolvedQuestName] expirou.</VFEV_OdinHunt.LetterTextQuestExpired.slateRef>
+            <VFEV_OdinHunt.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFEV_OdinHunt.LetterLabelQuestFailed.slateRef>
+            <VFEV_OdinHunt.LetterTextQuestFailed.slateRef>Depois de ser descoberto, o Odin fugiu. A missão [resolvedQuestName] terminou.</VFEV_OdinHunt.LetterTextQuestFailed.slateRef>
+            <VFEV_OdinHunt.LetterLabelPaymentArrived.slateRef>O pagamento chegou</VFEV_OdinHunt.LetterLabelPaymentArrived.slateRef>
+            <VFEV_OdinHunt.LetterTextPaymentArrived.slateRef>Você derrotou o Odin!\n\nO pagamento de [asker_faction_name] chegou.</VFEV_OdinHunt.LetterTextPaymentArrived.slateRef>
+            <VFEV_OdinHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_OdinHunt.LetterLabelFavorReceiver.slateRef>
+            <VFEV_OdinHunt.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</VFEV_OdinHunt.LetterTextFavorReceiver.slateRef>
+
+        <!-- Slaves Walk In -->
+            <VFEV_Util_SlavesWalkIn.questDescriptionRules.rulesStrings>
+				<li>rewardDescription->a [joiner_age]-year-old [joiner_title] named [joiner_nameDef] will arrive and join you. [joiner_relationInfo]</li>
+            </VFEV_Util_SlavesWalkIn.questDescriptionRules.rulesStrings>
+
+        <!-- Slaves Joiner -->
+            <VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings>
+				<li>questName->Salvando [runnerIndef]</li>
+				<li>questName->A Salvação de [runnerIndef]</li>
+				<li>questName->Ajudando [runnerIndef]</li>
+				<li>questName->Aceitando [runnerIndef]</li>
+				<li>questName->[enemyFaction_pawnsPlural] caçando [runnerIndef]</li>
+				<li>questName->[runnerIndef] Fugindo</li>
+				<li>questName->[runnerIndef] Procura um Lar</li>
+				<li>questName->[runnerIndef] Perseguido(a) por [enemyFaction_pawnsPlural]</li>
+				<li>questName->[runnerIndef] e [enemyFaction_pawnsPlural]</li>
+				<li>runnerIndef->[joiner_titleIndef]</li>
+				<li>runnerIndef->[joiner_nameIndef]</li>
+				<li>runnerIndef->um Escravo</li>
+            </VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings>
+            <VFEV_ThreatReward_Raid_SlavesJoiner.questDescriptionRules.rulesStrings>
+				<li>questDescription->Um(a) [joiner_title] de [joiner_age] anos de idade, chamado(a) [joiner_nameDef] está chamando por perto. [joiner_pronoun] é um(a) escravo(a), perseguido(a) por [enemyFaction_pawnsPlural] de [enemyFaction_name]!\n\n[joiner_pronoun] implora por segurança e se oferece para se juntar a você em [map_definite].[joiner_relationInfo]\n\nSe você aceitar, terá que lutar contra os [enemyFaction_pawnsPluralDef] que estão perseguindo [joiner_pronoun]. O grupo dos [enemyFaction_pawnsPlural] é composto por:\n\n[raid/raidPawnKinds]\n\n[joiner_nameDef] está muito assustado(a) para oferecer mais informações.</li>
+            </VFEV_ThreatReward_Raid_SlavesJoiner.questDescriptionRules.rulesStrings>
+            <VFEV_ThreatReward_Raid_SlavesJoiner.LetterLabelCashing.slateRef>{BASELABEL} perseguindo [../joiner_nameDef]</VFEV_ThreatReward_Raid_SlavesJoiner.LetterLabelCashing.slateRef>
+            <VFEV_ThreatReward_Raid_SlavesJoiner.LetterTextCashing.slateRef>{BASETEXT}\n              \nOs [enemyFaction_pawnsPlural] vieram pegar [../joiner_nameDef].</VFEV_ThreatReward_Raid_SlavesJoiner.LetterTextCashing.slateRef>
+
 </LanguageData>

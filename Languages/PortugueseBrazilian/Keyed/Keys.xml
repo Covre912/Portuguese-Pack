@@ -2227,6 +2227,52 @@
             <VFEMechSetArea>Definir área</VFEMechSetArea>
             <VFEMechSetAreaDesc>Defina a área permitida para todas as máquinas associadas a esta plataforma.</VFEMechSetAreaDesc>
 
+        <!-- MVCF -->
+            <MVCF.Toggle>Alternar {0}</MVCF.Toggle>
+            <MVCF.ToggleUsing>Alternar usando {0} automaticamente</MVCF.ToggleUsing>
+            <MVCF.ToggleAuto>Alternar uso automático</MVCF.ToggleAuto>
+
+        <!-- Assexual -->
+            <VEF_AsexualHatched>{0} reproduziu-se assexuadamente.</VEF_AsexualHatched>
+            <VEF_AsexualCloning>{0} clonou-se.</VEF_AsexualCloning>
+            <VEF_AsexualHatchedEgg>{0} chocou.</VEF_AsexualHatchedEgg>
+
+        <!-- Not Tameable -->
+            <VEF_NotTameable>Esta criatura é indomável</VEF_NotTameable>
+        
+        <!-- Time To Metamorphosis -->
+            <VEF_TimeToMetamorphosis>Tempo para metamorfose: {0}</VEF_TimeToMetamorphosis>
+
+        <!-- Warning Egg Explodes -->
+            <VEF_WarningEggExplodes>Atenção, este ovo explode ao chocar!</VEF_WarningEggExplodes>
+
+        <!-- Allow Conditions -->
+            <VCE_AllowConditions>Permitir condições crônicas de saúde nos alimentos (diabetes, colesterol e pressão alta)</VCE_AllowConditions>
+
+        <!-- Must Be Installed -->
+            <VCE_MustBeInstalled>O Vanilla Cooking Expanded deve ser instalado para que essas opções tenham algum efeito</VCE_MustBeInstalled>
+
+        <!-- Auto Drill -->
+            <VFE_ChunkToMine>Perfurar por {0}</VFE_ChunkToMine>
+            <VFE_ChunkRandomMine>Perfurar por Pedaços de Pedra Aleatórios</VFE_ChunkRandomMine>
+            <VFE_ChooseMine>Escolha o tipo de pedra para perfurar</VFE_ChooseMine>
+            <VFE_ChooseMineDesc>Escolha o tipo de pedra para perfurar. Você pode escolher qualquer um dos tipos de rocha do mapa ou um tipo aleatório</VFE_ChooseMineDesc>
+            <VFE_RandomRock>Pedaço de pedra aleatório</VFE_RandomRock>
+
+        <!-- Output -->
+            <VFE_PleaseSelectOutput>Selecione o produto da máquina</VFE_PleaseSelectOutput>
+
+        <!-- Needs Water -->
+            <VFE_NeedsWater>Esta estrutura deve ser colocada na água</VFE_NeedsWater>
+
+        <!-- CSG -->
+            <CSGTitle>Geração de estrutura personalizada:</CSGTitle>
+            <CSGLog>Habilitar Debugging Log de geração de estrutura:</CSGLog>
+
+        <!-- Toggable Patches -->
+            <TPTitle>Patches alternáveis:</TPTitle>
+            <NeedRestart>&lt;b&gt;&lt;color=red&gt;Todas as configurações precisam ser reiniciadas para serem aplicadas&lt;/color&gt;&lt;/b&gt;</NeedRestart>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Long Range Missile -->
             <VFEM_SiloNoTarget>Atualmente sem alvo</VFEM_SiloNoTarget>
@@ -2312,6 +2358,40 @@
             <ContainsChemfuel>Contém {0} / {1} combustível químico.</ContainsChemfuel>
             <ContainsChemshine>Contém {0} / {1} combustível jägermeister.</ContainsChemshine>
             <NoChemfuel>precisa de combustível químico</NoChemfuel>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Apiary -->
+            <ANeedTend>O apiário precisa ser cuidado.</ANeedTend>
+            <AResting>O apiário está em repouso, pois a temperatura ambiente está abaixo de 10°C.</AResting>
+            <AReady>Mel pronto.</AReady>
+            <ANeedFlower>O apiário precisa de mais flores {0} ao redor para as abelhas se alimentarem.</ANeedFlower>
+            <ANeedTIn>O apiário precisará de cuidados em {0}.</ANeedTIn>
+            <APlaceWorker>O apiário precisa estar a um ladrilho de distância de qualquer outro apiário.</APlaceWorker>
+            <APlaceWorkerNoRoof>O apiário não pode ser construído sob um telhado.</APlaceWorkerNoRoof>
+
+        <!-- Settings -->
+            <VanillaFactionsExpandedVikings.SettingsCategory>Vanilla Factions Expanded - Vikings</VanillaFactionsExpandedVikings.SettingsCategory>
+            <VanillaFactionsExpandedVikings.Facepaint_ToolTip>Whether or not facepaintings are rendered on pawns.</VanillaFactionsExpandedVikings.Facepaint_ToolTip>
+
+        <!-- Facepainting -->
+            <VanillaFactionsExpandedVikings.ChangeFacepaint>Alterar pintura facial</VanillaFactionsExpandedVikings.ChangeFacepaint>
+            <VanillaFactionsExpandedVikings.Facepaint>Pintura Facial</VanillaFactionsExpandedVikings.Facepaint>
+            <VanillaFactionsExpandedVikings.CustomMode>Cores</VanillaFactionsExpandedVikings.CustomMode>
+            <VanillaFactionsExpandedVikings.ColoursTied>Cores</VanillaFactionsExpandedVikings.ColoursTied>
+
+        <!-- Various -->
+            <VFEV.SlaverRaidDesc>Um grupo de escravistas de {0} chegaram por perto.\n\nSendo escravistas, eles tentarão capturar seus colonos.\n\nPrepare uma defesa ou ataque-os de forma preventiva.</VFEV.SlaverRaidDesc>
+            <VFEV.PillageRaidDesc>Um grupo de vikings de {0} chegaram por perto.\n\nEles tentarão queimar sua colônia, roubando tudo o que puderem antes de partir.\n\nPrepare uma defesa ou ataque-os de forma preventiva.</VFEV.PillageRaidDesc>
+            <VFEV.CausedByDamage>Causado por: Ser machucado ao usar um cocar de urso.</VFEV.CausedByDamage>
+            <ScenPartSettlemntDesc>Você começará durante o ataque de uma base. O tesouro cobiçado é 150 de ouro e 300 de prata, localizados nas salas desta base.</ScenPartSettlemntDesc>
+
+        <!-- Mead Barrel -->
+            <VFEV_NoHoney>Sem mel</VFEV_NoHoney>
+            <VFEV_ContainsWort>Contém {0} / {1} mel.</VFEV_ContainsWort>
+            <VFEV_ContainsBeer>Contém {0} / {1} hidromel.</VFEV_ContainsBeer>
+            <VFEV_Fermented>Fermentado</VFEV_Fermented>
+            <VFEV_FermentationProgress>Progresso: {0} ({1} restante)</VFEV_FermentationProgress>
+            <VFEV_FermentationBarrelOutOfIdealTemperature>Temperatura não ideal. Velocidade de fermentação: {0}</VFEV_FermentationBarrelOutOfIdealTemperature>
 
     <!-- Vanilla Fishing Expanded -->
     	<!-- Fishing Growing Zone -->

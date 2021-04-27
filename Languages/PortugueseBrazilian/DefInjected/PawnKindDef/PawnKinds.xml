@@ -736,6 +736,63 @@
             <Bandit.label>bandido</Bandit.label>
             <Bandit.labelPlural>bandidos</Bandit.labelPlural>
 
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Human -->
+            <VFEV_Member.label>membro</VFEV_Member.label>
+            <VFEV_Slave.label>escravo</VFEV_Slave.label>
+            <VFEV_VikingHero.label>herói</VFEV_VikingHero.label>
+            <VFEV_VikingLegend.label>lenda</VFEV_VikingLegend.label>
+            <VFEV_Viking_Peasant.label>camponês</VFEV_Viking_Peasant.label>
+            <VFEV_Viking_Merchant.label>comerciante</VFEV_Viking_Merchant.label>
+            <VFEV_Viking_Slaver.label>escravista</VFEV_Viking_Slaver.label>
+            <VFEV_Raider.label>invasor</VFEV_Raider.label>
+            <VFEV_Guardian.label>guardião</VFEV_Guardian.label>
+            <VFEV_ShieldedGuardian.label>guardião</VFEV_ShieldedGuardian.label>
+            <VFEV_Ravager.label>devastador</VFEV_Ravager.label>
+            <VFEV_ShieldedRavager.label>devastador</VFEV_ShieldedRavager.label>
+            <VFEV_Berserker.label>berserker</VFEV_Berserker.label>
+            <VFEV_Archer.label>arqueiro</VFEV_Archer.label>
+            <VFEV_HousecarlMelee.label>caseiro</VFEV_HousecarlMelee.label>
+            <VFEV_HousecarlRanged.label>caseiro</VFEV_HousecarlRanged.label>
+
+        <!-- Wooly Cow -->
+            <VFEV_WoolyCow.label>vaca da montanha</VFEV_WoolyCow.label>
+            <VFEV_WoolyCow.labelMale>touro da montanha</VFEV_WoolyCow.labelMale>
+            <VFEV_WoolyCow.labelFemale>vaca da montanha</VFEV_WoolyCow.labelFemale>
+            <VFEV_WoolyCow.labelPlural>vacas da montanha</VFEV_WoolyCow.labelPlural>
+            <VFEV_WoolyCow.labelMalePlural>touros da montanha</VFEV_WoolyCow.labelMalePlural>
+            <VFEV_WoolyCow.labelFemalePlural>vacas da montanha</VFEV_WoolyCow.labelFemalePlural>
+            <VFEV_WoolyCow.lifeStages.0.label>bezerro da montanha</VFEV_WoolyCow.lifeStages.0.label>
+            <VFEV_WoolyCow.lifeStages.0.labelPlural>bezerros da montanha</VFEV_WoolyCow.lifeStages.0.labelPlural>
+
+        <!-- Fenrir -->
+            <VFEV_Fenrir.label>fenrir</VFEV_Fenrir.label>
+            <VFEV_Fenrir.labelPlural>fenris</VFEV_Fenrir.labelPlural>
+            <VFEV_Fenrir.lifeStages.0.label>fenrir filhote</VFEV_Fenrir.lifeStages.0.label>
+            <VFEV_Fenrir.lifeStages.0.labelPlural>fenris filhotes</VFEV_Fenrir.lifeStages.0.labelPlural>
+
+        <!-- Lothurr -->
+            <VFEV_Lothurr.label>lodurr</VFEV_Lothurr.label>
+            <VFEV_Lothurr.labelPlural>lodurrs</VFEV_Lothurr.labelPlural>
+            <VFEV_Lothurr.lifeStages.0.label>lodurr filhote</VFEV_Lothurr.lifeStages.0.label>
+            <VFEV_Lothurr.lifeStages.0.labelPlural>lodurrs filhotes</VFEV_Lothurr.lifeStages.0.labelPlural>
+
+        <!-- Njorun -->
+            <VFEV_Njorun.label>njörun</VFEV_Njorun.label>
+            <VFEV_Njorun.labelPlural>njöruns</VFEV_Njorun.labelPlural>
+            <VFEV_Njorun.lifeStages.0.label>njörun filhote</VFEV_Njorun.lifeStages.0.label>
+            <VFEV_Njorun.lifeStages.0.labelPlural>njöruns filhotes</VFEV_Njorun.lifeStages.0.labelPlural>
+
+        <!-- Wolfhound -->
+            <VFEV_Wolfhound.label>lebrél irlandês</VFEV_Wolfhound.label>
+            <VFEV_Wolfhound.labelPlural>lebréis irlandeses</VFEV_Wolfhound.labelPlural>
+            <VFEV_Wolfhound.lifeStages.0.label>lebrél irlandês filhote</VFEV_Wolfhound.lifeStages.0.label>
+            <VFEV_Wolfhound.lifeStages.0.labelPlural>labréis irlandeses filhotes</VFEV_Wolfhound.lifeStages.0.labelPlural>
+
+        <!-- Odin -->
+            <VFEV_Mech_Odin.label>odin</VFEV_Mech_Odin.label>
+            <VFEV_Mech_Odin.labelPlural>odins</VFEV_Mech_Odin.labelPlural>
+
     <!-- Vanilla Storytellers Expanded - Perry Persistent -->
         <!-- Man In The Coat -->    
             <VSE_ManInTheCoat.label>homem de casaco</VSE_ManInTheCoat.label>

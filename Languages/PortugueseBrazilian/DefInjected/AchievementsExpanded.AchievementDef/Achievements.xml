@@ -132,6 +132,303 @@
             <WyvernContract.label>Contrato de Wyvern</WyvernContract.label>
             <WyvernContract.description>Mate um wyvern</WyvernContract.description>
 
+    <!-- Vanilla Achievements Expanded -->
+        <!-- Comfier Than Usual -->
+            <comfierThanUsual.label>Mais Confortável que o Normal</comfierThanUsual.label>
+            <comfierThanUsual.description>Construa uma poltrona de pele humana</comfierThanUsual.description>
+
+        <!-- The Architect -->
+            <theArchitect.label>O Arquiteto</theArchitect.label>
+            <theArchitect.description>Construa 1000 paredes</theArchitect.description>
+
+        <!-- Building the Skynet -->
+            <buildingTheSkynet.label>Construindo a Skynet</buildingTheSkynet.label>
+            <buildingTheSkynet.description>Construa 30 mini-torretas</buildingTheSkynet.description>
+
+        <!-- It Ain't Rocket Science -->
+            <itAintRocketScience.label>Não é Ciência Espacial</itAintRocketScience.label>
+            <itAintRocketScience.description>Construa uma nave</itAintRocketScience.description>
+
+        <!-- I Will Survive -->
+            <iWillSurvive.label>Eu Sobreviverei</iWillSurvive.label>
+            <iWillSurvive.description>Possua 7 colonos</iWillSurvive.description>
+
+        <!-- I'm Still Standing -->
+            <imStillStanding.label>Ainda Estou de Pé</imStillStanding.label>
+            <imStillStanding.description>Possua 12 colonos</imStillStanding.description>
+
+        <!-- I'm a Survivor -->
+            <imASurvivor.label>Eu Sou um Sobrevivente</imASurvivor.label>
+            <imASurvivor.description>Possua 18 colonos</imASurvivor.description>
+
+        <!-- Ain't no Stopping us Now -->
+            <aintNoStoppingUsNow.label>Não Há Como Nos Parar Agora</aintNoStoppingUsNow.label>
+            <aintNoStoppingUsNow.description>Possua 33 colonos</aintNoStoppingUsNow.description>
+
+        <!-- Cheater, Cheater! -->
+            <cheaterCheater.label>Trapaceiro, Trapaceiro!</cheaterCheater.label>
+            <cheaterCheater.description>Habilite o modo desenvolvedor</cheaterCheater.description>
+
+        <!-- T-800 -->
+            <T-800.label>T-800</T-800.label>
+            <T-800.description>Possua um único colono com pernas, braços, coluna, orelhas e olhos biônicos</T-800.description>
+
+        <!-- I'm a Pirate! -->
+            <imAPirate.label>Eu Sou um Pirata!</imAPirate.label>
+            <imAPirate.description>Instale uma perna de pau em um colono</imAPirate.description>
+
+        <!-- On Edge -->
+            <onEdge.label>No Limite</onEdge.label>
+            <onEdge.description>Ganhe imunidade quando a infecção estiver em 99%</onEdge.description>
+
+        <!-- That'll Show Him -->
+            <thatllShowHim.label>Isso Irá Lhe Mostrar</thatllShowHim.label>
+            <thatllShowHim.description>Mate um colono de fome</thatllShowHim.description>
+
+        <!-- This is Where The Fun Begins -->
+            <thisIsWhereTheFunBegins.label>Quando a Diversão Começa</thisIsWhereTheFunBegins.label>
+            <thisIsWhereTheFunBegins.description>Seja invadido pela primeira vez</thisIsWhereTheFunBegins.description>
+
+        <!-- Show Must Go On -->
+            <showMustGoOn.label>O Show Tem que Continuar</showMustGoOn.label>
+            <showMustGoOn.description>Faça um estranho de preto se juntar à sua colônia</showMustGoOn.description>
+
+        <!-- Brrr -->
+            <brrr.label>Brrr</brrr.label>
+            <brrr.description>Faça uma onda de frio acontecer no inverno</brrr.description>
+
+        <!-- Phew -->
+            <phew.label>Phew</phew.label>
+            <phew.description>Faça uma onda de calor acontecer no verão</phew.description>
+
+        <!-- Out of The Frying Pan -->
+            <outOfTheFryingPan.label>Fora da Frigideira</outOfTheFryingPan.label>
+            <outOfTheFryingPan.description>Faça um colono desenvolver um vínculo com um porco</outOfTheFryingPan.description>
+        
+        <!-- Into The Fire -->
+            <intoTheFire.label>Dentro do Fogo</intoTheFire.label>
+            <intoTheFire.description>Faça um porco vinculado morrer em chamas</intoTheFire.description>
+
+        <!-- Blitzkrieg -->
+            <blitzkrieg.label>Blitzkrieg</blitzkrieg.label>
+            <blitzkrieg.description>Destrua 5 bases de facções</blitzkrieg.description>
+
+        <!-- One Step Closer -->
+            <oneStepCloser.label>Um Passo Mais Perto</oneStepCloser.label>
+            <oneStepCloser.description>Obtenha um Núcleo de Personalidade IA</oneStepCloser.description>
+
+        <!-- Human Leather Hat -->
+            <humanLeatherHat.label>Chapéu de Cowboy de Pele Humana</humanLeatherHat.label>
+            <humanLeatherHat.description>Crie um chapéu de cowboy de pele humana</humanLeatherHat.description>
+
+        <!-- Midas -->
+            <midas.label>Midas</midas.label>
+            <midas.description>Possua 5000 ouros</midas.description>
+
+        <!-- Silence of The Lambs -->
+            <silenceOfTheLambs.label>Silêncio dos Inocentes</silenceOfTheLambs.label>
+            <silenceOfTheLambs.description>Obtenha 100 carnes humana</silenceOfTheLambs.description>
+
+        <!-- The Stuff of Legends -->
+            <theStuffOfLegends.label>O Material das Lendas</theStuffOfLegends.label>
+            <theStuffOfLegends.description>Crie um item lendário</theStuffOfLegends.description>
+
+        <!-- Future Caveman -->
+            <futureCaveman.label>Homem das Cavernas do Futuro</futureCaveman.label>
+            <futureCaveman.description>Crie um porrete de plastiaço</futureCaveman.description>
+
+        <!-- First Blood -->
+            <firstBlood.label>First Blood</firstBlood.label>
+            <firstBlood.description>Mate outro humano</firstBlood.description>
+
+        <!-- Bloodlust -->
+            <bloodlust.label>Sede de Sangue</bloodlust.label>
+            <bloodlust.description>Mate 100 humanos no total</bloodlust.description>
+
+        <!-- Blood For The Blood God -->
+            <bloodForTheBloodGod.label>Sangue pelo Deus do Sangue</bloodForTheBloodGod.label>
+            <bloodForTheBloodGod.description>Mate 1000 humanos no total</bloodForTheBloodGod.description>
+
+        <!-- Big Game Hunter -->
+            <bigGameHunter.label>Caçador de Grandes Presas</bigGameHunter.label>
+            <bigGameHunter.description>Cace e mate 20 Thrumbos</bigGameHunter.description>
+
+        <!-- Exterminator -->
+            <exterminator.label>Exterminador</exterminator.label>
+            <exterminator.description>Mate 150 insectóides</exterminator.description>
+
+        <!-- Dragon Slayer -->
+            <dragonSlayer.label>Caçador de Dragões</dragonSlayer.label>
+            <dragonSlayer.description>Mate 50 iguanas</dragonSlayer.description>
+
+        <!-- Australian Revenge -->
+            <australianRevenge.label>Vingança Australiana</australianRevenge.label>
+            <australianRevenge.description>Mate 30 Emas</australianRevenge.description>
+
+        <!-- Three Little Pigs -->
+            <threeLittlePigs.label>Três Porquinhos</threeLittlePigs.label>
+            <threeLittlePigs.description>Possua 3 Porcos e 1 Lobo de Madeira</threeLittlePigs.description>
+
+        <!-- Look At Those Chickens -->
+            <lookAtAllThoseChickens.label>Veja Todas Aquelas Galinhas</lookAtAllThoseChickens.label>
+            <lookAtAllThoseChickens.description>Possua 20 Gansos</lookAtAllThoseChickens.description>
+
+        <!-- Sustainable Fuel Source -->
+            <sustainableFuelSource.label>Fonte de Combustível Sustentável</sustainableFuelSource.label>
+            <sustainableFuelSource.description>Possua 8 Boomalopes</sustainableFuelSource.description>
+
+        <!-- Muffalo Rancher -->
+            <muffaloRancher.label>Fazendeiro de Múfalos</muffaloRancher.label>
+            <muffaloRancher.description>Possua 12 Múfalos</muffaloRancher.description>
+
+        <!-- Ark Half Full -->
+            <arkHalfFull.label>Arca Meio Cheia</arkHalfFull.label>
+            <arkHalfFull.description>Possua 1 de cada animal vanilla ao mesmo tempo</arkHalfFull.description>
+
+        <!-- Gentle Giant -->
+            <gentleGiant.label>Gigante Gentil</gentleGiant.label>
+            <gentleGiant.description>Domestique um Thrumbo</gentleGiant.description>
+
+        <!-- A Formal Complaint -->
+            <aFormalComplaint.label>Uma Reclamação Formal</aFormalComplaint.label>
+            <aFormalComplaint.description>Faça um colono enfurecer-se</aFormalComplaint.description>
+
+        <!-- Call of The Wild -->
+            <callOfTheWild.label>Chamado da Natureza</callOfTheWild.label>
+            <callOfTheWild.description>Faça um colono se tornar selvagem</callOfTheWild.description>
+
+        <!-- Let's Start a Revolution -->
+            <letsStartARevolution.label>Vamos Começar uma Revolução</letsStartARevolution.label>
+            <letsStartARevolution.description>Tenha 5 colonos enfurecidos ao mesmo tempo</letsStartARevolution.description>
+
+        <!-- A Happy Ending -->
+            <aHappyEnding.label>Um Final Feliz</aHappyEnding.label>
+            <aHappyEnding.description>Tenha 90% de humor médio em sua colônia</aHappyEnding.description>
+
+        <!-- Are You Not Entertained? -->
+            <areYouNotEntertained.label>Você Não Está Se Divertindo?</areYouNotEntertained.label>
+            <areYouNotEntertained.description>Tenha 5% de humor médio em sua colônia</areYouNotEntertained.description>
+    
+        <!-- Mercenary -->
+            <mercenary.label>Mercenário</mercenary.label>
+            <mercenary.description>Complete 5 missões quaisquer</mercenary.description>
+
+        <!-- Ambassador Of Peace -->
+            <ambassadorOfPeace.label>Embaixador da Paz</ambassadorOfPeace.label>
+            <ambassadorOfPeace.description>Complete 3 missões de conversa de paz</ambassadorOfPeace.description>
+
+        <!-- One Shot One Kill -->
+            <OneShotOneKill.label>Um Tiro Uma Morte</OneShotOneKill.label>
+            <OneShotOneKill.description>Faça com que um único colono realize 100 tiros na cabeça</OneShotOneKill.description>
+
+        <!-- Trigger-Happy -->
+            <TriggerHappy.label>Gatilho Fácil</TriggerHappy.label>
+            <TriggerHappy.description>Faça um único colono disparar 2.000 tiros</TriggerHappy.description>
+
+        <!-- One Solid Gardner -->
+            <OneSolidGardner.label>Um Jardineiro Consistente</OneSolidGardner.label>
+            <OneSolidGardner.description>Faça com que um único colone semeie 10.000 plantas</OneSolidGardner.description>
+
+        <!-- Life Sentence -->
+            <LifeSentence.label>Sentença de Vida</LifeSentence.label>
+            <LifeSentence.description>Tenha um único prisioneiro por 2 anos</LifeSentence.description>
+
+        <!-- I Might Need a Shrink -->
+            <IMightNeedAShrink.label>Talvez Eu Precise de um Psiquiatra</IMightNeedAShrink.label>
+            <IMightNeedAShrink.description>Faça com que um único colono gaste 24 horas no total em esgotamento</IMightNeedAShrink.description>
+
+        <!-- Dr. Dolittle -->
+            <DrDolittle.label>Dr. Dolittle</DrDolittle.label>
+            <DrDolittle.description>Faça com que um único colono domestique 50 animais</DrDolittle.description>
+
+        <!-- Professional Stripper -->
+            <ProfessionalStripper.label>Stripper Profissional</ProfessionalStripper.label>
+            <ProfessionalStripper.description>Faça com que um único colono tire as roupas de 100 corpos</ProfessionalStripper.description>
+
+        <!-- Blade Runner -->
+            <BladeRunner.label>Blade Runner</BladeRunner.label>
+            <BladeRunner.description>Faça com que um único colono elimine 50 mecanóides</BladeRunner.description>
+
+        <!-- Scrub Up -->
+            <ScrubUp.label>Desinfecte-se</ScrubUp.label>
+            <ScrubUp.description>Execute um total de 50 operações</ScrubUp.description>
+
+        <!-- The Rim's Brightest -->
+            <TheRimsBrightest.label>O Mais Inteligente do Rim</TheRimsBrightest.label>
+            <TheRimsBrightest.description>Passe um total de 2 anos pesquisando</TheRimsBrightest.description>
+
+        <!-- I Wish This Was IKEA -->
+            <IWishThisWasIkea.label>Eu Queria Que Isso Fosse a IKEA</IWishThisWasIkea.label>
+            <IWishThisWasIkea.description>Construa e desmonte um total de 100 mobílias</IWishThisWasIkea.description>
+
+        <!-- I'm On Fire! -->
+            <ImOnFire.label>Estou em Chamas!</ImOnFire.label>
+            <ImOnFire.description>Faça com que um único colono passe um total de 3 dias em chamas</ImOnFire.description>
+
+        <!-- Sticks and Stones -->
+            <sticksAndStones.label>Paus e Pedras</sticksAndStones.label>
+            <sticksAndStones.description>Pesquise todas as tecnologias neolíticas</sticksAndStones.description>
+        
+        <!-- Out Of The Dark Ages -->
+            <outOfTheDarkAges.label>Fora da Idade das Trevas</outOfTheDarkAges.label>
+            <outOfTheDarkAges.description>Pesquise todas as tecnologias medievais</outOfTheDarkAges.description>
+
+        <!-- Industrial Revolution -->
+            <industrialRevolution.label>Revolução Industrial</industrialRevolution.label>
+            <industrialRevolution.description>Pesquise todas as tecnologias industriais</industrialRevolution.description>
+
+        <!-- Off To The Stars -->
+            <offToTheStars.label>Para as Estrelas</offToTheStars.label>
+            <offToTheStars.description>Pesquise todas as tecnoligias espaciais</offToTheStars.description>
+
+        <!-- Sharpshooter -->
+            <sharpshooter.label>Atirador Preciso</sharpshooter.label>
+            <sharpshooter.description>Faça com que um colono alcance o nível 20 em atirar</sharpshooter.description>
+
+        <!-- Mr. President -->
+            <mrPresident.label>Sr. Presidente</mrPresident.label>
+            <mrPresident.description>Faça com que um colono alcance o nível 20 em socializar</mrPresident.description>
+
+        <!-- Conan The Barbarian -->
+            <conanTheBarbarian.label>Conan O Bárbaro</conanTheBarbarian.label>
+            <conanTheBarbarian.description>Faça com que um colono alcance o nível 20 em corpo a corpo</conanTheBarbarian.description>
+
+        <!-- Could Be Worse -->
+            <couldBeWorse.label>Poderia Ser Pior</couldBeWorse.label>
+            <couldBeWorse.description>Sobreviva um mês</couldBeWorse.description>
+
+        <!-- It's All Downhill From Here -->
+            <itsAllDownhillFromHere.label>É Só Ladeira Abaixo a Partir Daqui</itsAllDownhillFromHere.label>
+            <itsAllDownhillFromHere.description>Sobreviva um ano</itsAllDownhillFromHere.description>
+        
+        <!-- 10 Hours? Woah! -->
+            <tenHoursWoah.label>10 Horas? Woah!</tenHoursWoah.label>
+            <tenHoursWoah.description>Passe 10 horas jogando a colônia atual</tenHoursWoah.description>
+
+        <!-- Wait a Minute -->
+            <waitAMinute.label>Espere Um Minuto!</waitAMinute.label>
+            <waitAMinute.description>Passe 100 horas jogando a colônia atual</waitAMinute.description>
+
+        <!-- Pablo Emilio Escobar Gaviria -->
+            <pabloEmilioEscobarGaviria.label>Pablo Emilio Escobar Gaviria</pabloEmilioEscobarGaviria.label>
+            <pabloEmilioEscobarGaviria.description>Venda 400 Brilhos para um único comerciante em uma única transação</pabloEmilioEscobarGaviria.description>
+
+        <!-- Wolf Of Wall Street -->
+            <wolfOfWallStreet.label>Lobo de Wall Street</wolfOfWallStreet.label>
+            <wolfOfWallStreet.description>Ganhe 3.000 Pratas em uma única transação</wolfOfWallStreet.description>
+
+        <!-- Slaver Scum -->
+            <slaverScum.label>Escória Escrava</slaverScum.label>
+            <slaverScum.description>Venda 5 Prisioneiros em uma única transação</slaverScum.description>
+
+        <!-- In For a Penny -->
+            <inForAPenny.label>Por Um Centavo</inForAPenny.label>
+            <inForAPenny.description>Alcance a riqueza de colônia de 100.000</inForAPenny.description>
+
+        <!-- In For a Pound -->
+            <inForAPound.label>Por Um Real</inForAPound.label>
+            <inForAPound.description>Alcance a riqueza de colônia de 1.000.000</inForAPound.description>
+
     <!-- Vanilla Armour Expanded -->
         <!-- JUGGERNAUT! -->
             <Juggernaut.label>COLOSSO!</Juggernaut.label>
@@ -152,5 +449,39 @@
         <!-- Sierra 117 -->
             <sierra117.label>John 177</sierra117.label>
             <sierra117.description>Crie uma armadura de fusileiro pesada de qualidade obra-prima</sierra117.description>
+
+    <!-- Vanilla Fishing Expanded -->
+        <!-- Feeling A Little Shellfish -->
+            <VCE_AchievementFeelingALittleShellfish.label>Sentindo-se Egoísta</VCE_AchievementFeelingALittleShellfish.label>
+            <VCE_AchievementFeelingALittleShellfish.description>Cozinhe uma refeição luxuosa com lagostas</VCE_AchievementFeelingALittleShellfish.description>
+
+        <!-- Fugu -->
+            <VCE_AchievementFugu.label>Baiagu</VCE_AchievementFugu.label>
+            <VCE_AchievementFugu.description>Coma um baiacu cru</VCE_AchievementFugu.description>
+
+        <!-- Something Special -->
+            <VCE_AchievementSomethingSpecial.label>Algo Especial</VCE_AchievementSomethingSpecial.label>
+            <VCE_AchievementSomethingSpecial.description>Pesque algo que não seja um peixe</VCE_AchievementSomethingSpecial.description>
+
+    <!-- Vanilla Weapons Expanded -->
+        <!-- Napoleon BonaPARTY -->
+            <napoleonBonaparty.label>Napoleão BomNaPARTY</napoleonBonaparty.label>
+            <napoleonBonaparty.description>Crie 10 mosquetes</napoleonBonaparty.description>
+
+        <!-- Posh Rock Lobber -->
+            <poshRockLobber.label>Pedra Arremessável Elegante</poshRockLobber.label>
+            <poshRockLobber.description>Crie uma pedra arremessável de jade</poshRockLobber.description>
+
+        <!-- Burn Them All! -->
+            <burnThemAll.label>Queimem todos!</burnThemAll.label>
+            <burnThemAll.description>Crie um lança-chamas</burnThemAll.description>
+
+        <!-- Supercharged! -->
+            <superCharged.label>Sobrecarregado!</superCharged.label>
+            <superCharged.description>Crie uma minigun de carga lendária</superCharged.description>
+
+        <!-- Guns Gallore -->
+            <gunsGallore.label>Loja de Armas</gunsGallore.label>
+            <gunsGallore.description>Pesquise armas de fogo especializadas</gunsGallore.description>
 
 </LanguageData>

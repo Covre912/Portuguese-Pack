@@ -1,5 +1,5 @@
 Castelo
-Forte
 Cidadela
-Palácio
 Fortaleza
+Forte
+Palácio

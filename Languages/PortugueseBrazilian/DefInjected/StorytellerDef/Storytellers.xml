@@ -16,6 +16,11 @@
             <VFES_DD.label>Diego Direto</VFES_DD.label>
             <VFES_DD.description>Diego Direto acredita que as melhores histórias são as violentas, enfrentando adversidades desfavoráveis e caindo em uma labareda de glória com múfalos bêbados explodindo.</VFES_DD.description>
 
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Freya Fierce -->
+            <VFEV-Freya.label>Freya Feroz</VFEV-Freya.label>
+            <VFEV-Freya.description>Freya acredita que as melhores histórias são as de incursões e glória. Todos os anos após o primeiro ano, no início de Abrimaio, seu assentamento ficará cada vez mais infeliz até que você envie seus colonos em uma aventura ou ataque e traga de volta os despojos de guerra.</VFEV-Freya.description>
+
     <!-- Vanilla Storytellers Expanded - Diego Industrial -->
         <!-- Diego Industrial -->
             <VSE_DiegoIndustrial.label>Diego Industrial</VSE_DiegoIndustrial.label>

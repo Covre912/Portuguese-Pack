@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Hairs -->
+            <VFEV_Aslaug.label>aslauga</VFEV_Aslaug.label>
+            <VFEV_Erik.label>érico</VFEV_Erik.label>
+            <VFEV_Bjorn.label>biorno</VFEV_Bjorn.label>
+            <VFEV_Egil.label>egil</VFEV_Egil.label>
+            <VFEV_Freydis.label>freydís</VFEV_Freydis.label>
+            <VFEV_Frida.label>frida</VFEV_Frida.label>
+            <VFEV_Gunnar.label>gunnar</VFEV_Gunnar.label>
+            <VFEV_Halfdan.label>haldano</VFEV_Halfdan.label>
+            <VFEV_Harald.label>haroldo</VFEV_Harald.label>
+            <VFEV_Helga.label>hela</VFEV_Helga.label>
+            <VFEV_Lagertha.label>lagertha</VFEV_Lagertha.label>
+            <VFEV_Ragnar.label>ragnar</VFEV_Ragnar.label>
+            <VFEV_Sigurd.label>sigurd</VFEV_Sigurd.label>
+            <VFEV_Ulfrik.label>ulfric</VFEV_Ulfrik.label>
+
     <!-- Vanilla Hairs Expanded -->
         <!-- Beards -->
             <VHE_BeardBoxed.label>encaixotado</VHE_BeardBoxed.label>

@@ -86,6 +86,27 @@
             <FillChemshineBarrel.verb>preencher</FillChemshineBarrel.verb>
             <FillChemshineBarrel.gerund>preenchendo</FillChemshineBarrel.gerund>
 
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Bring Honey -->
+            <VFEV_FillMeadBarrel.label>transporte de mel</VFEV_FillMeadBarrel.label>
+            <VFEV_FillMeadBarrel.verb>trazer mel para</VFEV_FillMeadBarrel.verb>
+            <VFEV_FillMeadBarrel.gerund>trazendo mel para</VFEV_FillMeadBarrel.gerund>
+
+        <!-- Take Mead -->
+            <VFEV_TakeMeadOutOfMeadBarrel.label>transporte de hidromel</VFEV_TakeMeadOutOfMeadBarrel.label>
+            <VFEV_TakeMeadOutOfMeadBarrel.verb>retirar hidromel de</VFEV_TakeMeadOutOfMeadBarrel.verb>
+            <VFEV_TakeMeadOutOfMeadBarrel.gerund>retirando hidromel de</VFEV_TakeMeadOutOfMeadBarrel.gerund>
+
+        <!-- Take Honey -->
+            <VFEV_TakeHoneyOutOfApiary.label>apicultura</VFEV_TakeHoneyOutOfApiary.label>
+            <VFEV_TakeHoneyOutOfApiary.verb>extrair mel</VFEV_TakeHoneyOutOfApiary.verb>
+            <VFEV_TakeHoneyOutOfApiary.gerund>extraindo mel de</VFEV_TakeHoneyOutOfApiary.gerund>
+
+        <!-- Tend Apiary -->
+            <VFEV_endToTheApiary.label>apicultura</VFEV_endToTheApiary.label>
+            <VFEV_endToTheApiary.verb>cuidar de apiário</VFEV_endToTheApiary.verb>
+            <VFEV_endToTheApiary.gerund>cuidando de</VFEV_endToTheApiary.gerund>
+
     <!-- Vanilla Fishing Expanded -->
         <!-- Fish -->
 	        <VCEF_Fish.label>pescar</VCEF_Fish.label>

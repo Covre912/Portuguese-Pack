@@ -458,6 +458,32 @@
             <AEXP_AntleredQuadruped.corePart.parts.12.customLabel>perna traseira direita</AEXP_AntleredQuadruped.corePart.parts.12.customLabel>
             <AEXP_AntleredQuadruped.corePart.parts.12.parts.0.customLabel>casco traseiro direito</AEXP_AntleredQuadruped.corePart.parts.12.parts.0.customLabel>
 
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Odin -->
+            <VFEV_Odin.label>odin</VFEV_Odin.label>
+            <VFEV_Odin.corePart.parts.0.parts.0.parts.1.customLabel>sensor de visão esquerdo</VFEV_Odin.corePart.parts.0.parts.0.parts.1.customLabel>
+            <VFEV_Odin.corePart.parts.0.parts.0.parts.2.customLabel>sensor de visão direito</VFEV_Odin.corePart.parts.0.parts.0.parts.2.customLabel>
+            <VFEV_Odin.corePart.parts.0.parts.0.parts.3.customLabel>sensor auditivo esquerdo</VFEV_Odin.corePart.parts.0.parts.0.parts.3.customLabel>
+            <VFEV_Odin.corePart.parts.0.parts.0.parts.4.customLabel>sensor auditivo direito</VFEV_Odin.corePart.parts.0.parts.0.parts.4.customLabel>
+            <VFEV_Odin.corePart.parts.1.customLabel>ombro esquerdo</VFEV_Odin.corePart.parts.1.customLabel>
+            <VFEV_Odin.corePart.parts.1.parts.0.customLabel>braço esquerdo</VFEV_Odin.corePart.parts.1.parts.0.customLabel>
+            <VFEV_Odin.corePart.parts.1.parts.0.parts.0.customLabel>mão esquerda</VFEV_Odin.corePart.parts.1.parts.0.parts.0.customLabel>
+            <VFEV_Odin.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>mindinho esquerdo</VFEV_Odin.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
+            <VFEV_Odin.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>dedo médio esquerdo</VFEV_Odin.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
+            <VFEV_Odin.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>dedo indicador esquerdo</VFEV_Odin.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
+            <VFEV_Odin.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>polegar esquerdo</VFEV_Odin.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
+            <VFEV_Odin.corePart.parts.2.customLabel>ombro mecânico direito</VFEV_Odin.corePart.parts.2.customLabel>
+            <VFEV_Odin.corePart.parts.2.parts.0.customLabel>braço direito</VFEV_Odin.corePart.parts.2.parts.0.customLabel>
+            <VFEV_Odin.corePart.parts.2.parts.0.parts.0.customLabel>mão direita</VFEV_Odin.corePart.parts.2.parts.0.parts.0.customLabel>
+            <VFEV_Odin.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>mindinho direito</VFEV_Odin.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+            <VFEV_Odin.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>dedo médio direito</VFEV_Odin.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+            <VFEV_Odin.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>dedo indicador direito</VFEV_Odin.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+            <VFEV_Odin.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>polegar direito</VFEV_Odin.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+            <VFEV_Odin.corePart.parts.3.customLabel>perna esquerda</VFEV_Odin.corePart.parts.3.customLabel>
+            <VFEV_Odin.corePart.parts.3.parts.0.customLabel>pé esquerdo</VFEV_Odin.corePart.parts.3.parts.0.customLabel>
+            <VFEV_Odin.corePart.parts.4.customLabel>perna direita</VFEV_Odin.corePart.parts.4.customLabel>
+            <VFEV_Odin.corePart.parts.4.parts.0.customLabel>pé esquerdo</VFEV_Odin.corePart.parts.4.parts.0.customLabel>
+
     <!-- Xenohumans - Anthromorphs -->
         <!-- Anthromorph -->
             <ATK_Anthromorph.label>antromorfo</ATK_Anthromorph.label>

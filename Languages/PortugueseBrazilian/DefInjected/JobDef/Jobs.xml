@@ -33,11 +33,34 @@
 
     <!-- Vanilla Expanded Framework -->
         <VFEC_EquipShield.reportString>equipando TargetA.</VFEC_EquipShield.reportString>
+        <VFE_Mechanoids_RepairMachine.reportString>reconstruindo máquina.</VFE_Mechanoids_RepairMachine.reportString>
+        <VFE_Mechanoids_AttachTurret.reportString>anexando torre.</VFE_Mechanoids_AttachTurret.reportString>
+        <VFE_Mechanoids_Recharge.reportString>recarregando.<VFE_Mechanoids_Recharge.reportString>
+        <IP_InsertFirstIngredient.reportString>inserindo ingrediente.</IP_InsertFirstIngredient.reportString>
+        <IP_InsertSecondIngredient.reportString>inserindo ingrediente.</IP_InsertSecondIngredient.reportString>
+        <IP_InsertThirdIngredient.reportString>inserindo ingrediente.</IP_InsertThirdIngredient.reportString>
+        <IP_RemoveProduct.reportString>removendo o produto finalizado.</IP_RemoveProduct.reportString>
+        <VEF_AnimalResource.reportString>coletando recursos animais de TargetA.</VEF_AnimalResource.reportString>
+        <VEF_DestroyItem.reportString>destruindo um item.</VEF_DestroyItem.reportString>
+        <VEF_LayExplodingEgg.reportString>botando ovos.</VEF_LayExplodingEgg.reportString>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <VFEM_EquipShield.reportString>equipando TargetA.</VFEM_EquipShield.reportString>
         <VFEM_FillWineBarrel.reportString>preenchendo TargetA.</VFEM_FillWineBarrel.reportString>
         <VFEM_TakeWineOutOfWineBarrel.reportString>retirando vinho de TargetA.</VFEM_TakeWineOutOfWineBarrel.reportString>
+        <VFEM_Disassemble.reportString>dissimulando TargetA.</VFEM_Disassemble.reportString>
+        <VFEM_RefuelSilo.reportString>reabastecendo TargetA.</VFEM_RefuelSilo.reportString>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <Play_Hnefatafl.reportString>jogando tafl.</Play_Hnefatafl.reportString>
+        <Play_TrainingDummy.reportString>treinando.</Play_TrainingDummy.reportString>
+        <VFEV_FillMeadBarrel.reportString>preenchendo TargetA.</VFEV_FillMeadBarrel.reportString>
+        <VFEV_TakeMeadOutOfMeadBarrel.reportString>retirando hidromel de TargetA.</VFEV_TakeMeadOutOfMeadBarrel.reportString>
+        <VFEV_TakeHoneyOutOfApiary.reportString>extraindo mel de TargetA.</VFEV_TakeHoneyOutOfApiary.reportString>
+        <VFEV_TendToApiary.reportString>cuidando de TargetA.</VFEV_TendToApiary.reportString>
+        <VFEV_ChangeFacepaint.reportString>pintando seu rosto em TargetA.</VFEV_ChangeFacepaint.reportString>
+        <VFEV_IgniteWithTorches.reportString>acendendo TargetA com tochas.</VFEV_IgniteWithTorches.reportString>
+        <VFEV_HypothermiaResponse.reportString>recuperando da hipotermia.</VFEV_HypothermiaResponse.reportString>
 
     <!-- Vanilla Fishing Expanded -->
         <VCEF_FishJob.reportString>pescando em TargetA.</VCEF_FishJob.reportString>

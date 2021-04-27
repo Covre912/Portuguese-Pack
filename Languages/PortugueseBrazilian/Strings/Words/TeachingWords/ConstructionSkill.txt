@@ -1,105 +1,105 @@
-monumentos
-maravilhas
-moradas
-estabelecimentos
-defesas
-aldeias
-construção de bunkers
-cidades
-municípios
-aldeias
-distritos
-cidades
-assentamentos
 acampamentos
 acampamentos
-arame farpado
-barricadas
-cercas defensivas
-sacos de areia
-armadilhas
-preparar armadilhas
-LEDs
-trincheiras
-saneamento de bunkers
-praças
-casas
-armadilhas
-fortes
-fortificações
-materiais
-martelos
-demolição
-ar condicionado
-paredes de acento
-andares de acesso
 acessibilidade
-portas automáticas
-camas
-mesas
+aldeias
+aldeias
+alojamentos
+andares de acesso
 aparadores
-assoalhos
-paredes
-arquitetura
-janelas
-fluxo de ar
-arquitetos
-mesas
-cadeiras
-arcos
-asfalto
-átrio
-sótão
-quartos
-cozinhas
-lares
-casas
 apartamentos
-casas geminadas
-quartéis
-bunkers
-estradas
-caminhos
-rodovias
+apartamentos
+apoio
+ar condicionado
+arame farpado
+arcos
+armadilhas
+armadilhas
+arquitetos
+arquitetura
 arranha-céus
-varandas
-varandas
-feixes
+asfalto
+assentamentos
+assoalhos
+átrio
+aço
 balaustradas
 bangalôs
-chalés
-celeiros
-apartamentos
-condomínios
-plastiaço
-prata
-aço
-urânio
-jade
-madeira
-ouro
+barricadas
 blocos de pedra
-telhados
-colunas
-fezes
-camas de animais
-lâmpadas
-lâmpadas solares
-prateleiras
-poltronas
-sofás
+bunkers
+cadeiras
 cadeiras de jantar
 caixas de dormir de animais
-móbilia reais
-camas reais
+camas
+camas de animais
 camas de hospital
-mobiliário
+camas reais
+caminhos
+carpintaria
+casas
+casas
+casas geminadas
+celeiros
+cercas defensivas
+chalés
+cidades
+cidades
+colunas
+condomínios
+construção de bunkers
+construções renascentistas
+cozinhas
+defesas
+demolição
+design gótico
 dispositivos elétricos
-apoio
+distritos
+entrincheiramento
+estabelecimentos
+estradas
+feixes
+fezes
+fluxo de ar
+fortes
+fortificações
 fundações
 geração de energia
-alojamentos
-design gótico
-construções renascentistas
-entrincheiramento
-carpintaria
+jade
+janelas
+lâmpadas
+lâmpadas solares
+lares
+LEDs
+madeira
+maravilhas
+martelos
+materiais
+mesas
+mesas
+móbilia reais
+mobiliário
+monumentos
+moradas
+municípios
+ouro
+paredes
+paredes de acento
+plastiaço
+poltronas
+portas automáticas
+prata
+prateleiras
+praças
+preparar armadilhas
+quartéis
+quartos
+rodovias
+sacos de areia
+saneamento de bunkers
+sofás
+sótão
+telhados
+trincheiras
+urânio
+varandas
+varandas

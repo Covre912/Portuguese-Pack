@@ -1,10 +1,10 @@
-jornal
-jornal
-jornal
-revista
-revista
-papel
-papel
-publicação da imprensa
-publicação
 impressão
+jornal
+jornal
+jornal
+papel
+papel
+publicação
+publicação da imprensa
+revista
+revista

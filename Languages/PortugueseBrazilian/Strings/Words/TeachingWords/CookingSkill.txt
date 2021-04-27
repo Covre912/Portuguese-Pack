@@ -1,116 +1,112 @@
-cozinha
-grelhados
-fermentação
-chefes
+adoçante
+alfinetar
+amaciando
+amassar
+aperitivos
+aroma
 artes culinárias
-cozimento
-fritar
-grelhar
-ebulição
-tempero
-marinar
-decoração de bolo
-rolo de macarrão
 açougue
+barras de chocolate
+batatas fritas
+batedura
+bater
+bebida
+bifes
+bolo
+bufês
+burritos
+café
+café da manhã
+calda de chocolate
+caramelizar
+cerveja
+chá
+chapeamento de alimentos
+charcutaria
+chefes
+churrasco
+churrasqueira
+cogumelos
+condimentos
+confecção de doces
+corte
 corte em cubos
 coservas
-fabricação de queijo
-envelhecimento do álcool
-chapeamento de alimentos
-confecção de doces
-microplanagem
-mistura
-batedura
+cozimento
+cozimento lento
+cozinha
 cozinheiros
-caramelizar
-ensopado
-ferver
-preservar
-churrasco
-fermentar
-filetagem
+creme
+cura
+curry
+decapagem
+decoração de bolo
 deglaçar
 descalcificante
-enfeite
-bater
-gradatar
-escaldar
-creme
-infundir
-julienne
-fermento
-parboilização
-calda de chocolate
-cozimento lento
-decapagem
-purê
-amassar
-refogar
-fumar
-vieira
-alfinetar
-fumegante
-maceração
-fatiamento
-corte
-adoçante
-amaciando
-mexer
-cura
-envelhencimento a seco
-aroma
-jantares finos
-
-fritar
-frutos do mar
 doces
-pizza
-bifes
-hambúrgueres
-bolo
-cerveja
-bebida
-salsicha
-peixe
-massa
-condimentos
-café da manhã
-ovos
-torrada
-lanches
-salgadinhos
-batatas fritas
-fritura
-refrigerante
-suco
-leite
-barras de chocolate
-expresso
-café
-chá
-sanduíches
-travessas
-bufês
-charcutaria
-sopas
+ebulição
+enfeite
+ensopado
 ensopados
-aperitivos
-churrasqueira
-rosquinhas
-curry
-roscas
-tacos
-burritos
-kebabs
-queijos
-cogumelos
-saladas
-sinos
-talheres
-açougue
-sobremesas
-gourmets
+envelhecimento do álcool
+envelhencimento a seco
+escaldar
+expresso
+fabricação de queijo
+fatiamento
+fermentar
+fermentação
+fermento
+ferver
+filetagem
+fritar
+fritura
+frutos do mar
+fumar
+fumegante
 gourmands
-coservas
+gourmets
+gradatar
+grelhados
+grelhar
+hambúrgueres
+infundir
+jantares finos
+julienne
+kebabs
+lanches
+leite
+maceração
+marinar
+massa
+mexer
+microplanagem
+mistura
+ovos
+parboilização
 pasta de nutrientes
+peixe
+pizza
+preservar
+purê
+queijos
+refogar
+refrigerante
+rolo de macarrão
+roscas
+rosquinhas
+saladas
+salgadinhos
+salsicha
+sanduíches
+sinos
+sobremesas
+sopas
+suco
+tacos
+talheres
+tempero
+torrada
+travessas
+vieira
 xaropes

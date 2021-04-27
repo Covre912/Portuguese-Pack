@@ -92,6 +92,23 @@
             <VEF_SecondaryAcidBurn.label>ácido</VEF_SecondaryAcidBurn.label>
             <VEF_SecondaryAcidBurn.deathMessage>{0} foi corroíd{0_gender ? o : a} até a morte.</VEF_SecondaryAcidBurn.deathMessage>
 
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Cut -->
+            <VFEV_Cut.label>corte</VFEV_Cut.label>
+            <VFEV_Cut.deathMessage>{0} foi cortad{0_gender ? o : a} até a morte.</VFEV_Cut.deathMessage>
+
+        <!-- Bullet -->
+            <VFEV_CryptoDamageBullet.label>tiro</VFEV_CryptoDamageBullet.label>
+            <VFEV_CryptoDamageBullet.deathMessage>{0} foi mort{0_gender ? o : a} a tiros.</VFEV_CryptoDamageBullet.deathMessage>
+
+        <!-- Bolt -->
+            <VFEV_CryptoDamageBolt.label>flecha</VFEV_CryptoDamageBolt.label>
+            <VFEV_CryptoDamageBolt.deathMessage>{0} foi mort{0_gender ? o : a} a tiros por uma flecha de besta.</VFEV_CryptoDamageBolt.deathMessage>
+
+        <!-- Sting -->
+            <VFEV_DamageSting.label>picada</VFEV_DamageSting.label>
+            <VFEV_DamageSting.description>{0} foi picad{0_gender ? o : a} até a morte.</VFEV_DamageSting.description>
+
     <!-- Vanilla Furniture Expanded - Security Module -->
         <!-- Splinter -->
             <VFES_SplinterArrow.label>flecha</VFES_SplinterArrow.label>

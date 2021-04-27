@@ -29,6 +29,10 @@
     <!-- Vanilla Expanded Framework -->
         <VFEC_Shields.label>escudos</VFEC_Shields.label>
 
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <WeaponsMeleeCrypto.label>cripto-armas</WeaponsMeleeCrypto.label>
+        <WeaponsRangedCrypto.label>cripto-armas</WeaponsRangedCrypto.label>
+
     <!-- Vanilla Fishing Expanded -->
         <VCEF_RawFishCategory.label>peixes</VCEF_RawFishCategory.label>
 

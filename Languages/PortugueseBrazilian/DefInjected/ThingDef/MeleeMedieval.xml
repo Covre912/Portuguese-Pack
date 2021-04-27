@@ -15,6 +15,26 @@
             <VFEM_MeleeWeapon_HeavyMace.tools.0.label>cabo</VFEM_MeleeWeapon_HeavyMace.tools.0.label>
             <VFEM_MeleeWeapon_HeavyMace.tools.1.label>cabeça</VFEM_MeleeWeapon_HeavyMace.tools.1.label>
 
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Seax -->
+            <VFE_MeleeWeapon_Seax.label>saxo</VFE_MeleeWeapon_Seax.label>
+            <VFE_MeleeWeapon_Seax.description>Uma arma de lâmina robusta adaptada para uso entre os clãs do norte. Por poder ser balançado com bastante rapidez e facilidade, é o favorito entre os primeiros a aprender a esgrima.</VFE_MeleeWeapon_Seax.description>
+            <VFE_MeleeWeapon_Seax.tools.0.label>cabo</VFE_MeleeWeapon_Seax.tools.0.label>
+            <VFE_MeleeWeapon_Seax.tools.1.label>ponta</VFE_MeleeWeapon_Seax.tools.1.label>
+            <VFE_MeleeWeapon_Seax.tools.2.label>lâmina</VFE_MeleeWeapon_Seax.tools.2.label>
+
+        <!-- Bearded Axe -->
+            <VFE_MeleeWeapon_BeardedAxe.label>machado barbado</VFE_MeleeWeapon_BeardedAxe.label>
+            <VFE_MeleeWeapon_BeardedAxe.description>Uma das armas mais antigas da humanidade. A "barba" do machado se estende para baixo, proporcionando uma lâmina de corte mais ampla.\n\nEsta arma tem uma chance de desferir um ataque crítico, atordoando o oponente.</VFE_MeleeWeapon_BeardedAxe.description>
+            <VFE_MeleeWeapon_BeardedAxe.tools.0.label>cabo</VFE_MeleeWeapon_BeardedAxe.tools.0.label>
+            <VFE_MeleeWeapon_BeardedAxe.tools.1.label>lâmina</VFE_MeleeWeapon_BeardedAxe.tools.1.label>
+
+        <!-- Dane Axe -->
+            <VFE_MeleeWeapon_DaneAxe.label>machado dinamarquês</VFE_MeleeWeapon_DaneAxe.label>
+            <VFE_MeleeWeapon_DaneAxe.description>Uma arma poderosa no campo de batalha nas mãos certas. A lâmina do machado se estende até o que é chamado de chifres, ideal para cortar armaduras leves e carne.\n\nEsta arma tem uma chance de desferir um ataque crítico, atordoando o oponente.</VFE_MeleeWeapon_DaneAxe.description>
+            <VFE_MeleeWeapon_DaneAxe.tools.0.label>cabo</VFE_MeleeWeapon_DaneAxe.tools.0.label>
+            <VFE_MeleeWeapon_DaneAxe.tools.1.label>lâmina</VFE_MeleeWeapon_DaneAxe.tools.1.label>
+
     <!-- Vanilla Weapons Expanded -->
         <!-- Pickaxe -->
             <VWE_MeleeWeapon_Pickaxe.label>picareta</VWE_MeleeWeapon_Pickaxe.label>

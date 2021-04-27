@@ -57,6 +57,33 @@
             <VFE_Gun_AdvancedChargeLance.description>Uma versão mais pesada da lança de carga. Frequentemente posta em campo por atiradores mecanóides, a lança de carga avançada é semelhante à sua predecessora, mas troca tamanho e tempo de mira por um aumento significativo no poder de fogo.</VFE_Gun_AdvancedChargeLance.description>
             <VFE_Gun_AdvancedChargeLance.tools.0.label>cano</VFE_Gun_AdvancedChargeLance.tools.0.label>
 
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Crypto Heavy Crossbow -->
+            <VFEV_CryptoHeavyCrossbow.label>criptobesta pesada</VFEV_CryptoHeavyCrossbow.label>
+            <VFEV_CryptoHeavyCrossbow.description>Menos uma besta e mais uma peça experimental de artilharia, dispara flechas com núcleo de metal envolto em criptotecnologia instável, mantida no lugar por um campo de energia. Os alvos são perfurados pelo parafuso e também congelados pelo revestimento criogênico. Extremamente rara e poderosa.</VFEV_CryptoHeavyCrossbow.description>
+            <VFEV_CryptoHeavyCrossbow.tools.0.label>coronha</VFEV_CryptoHeavyCrossbow.tools.0.label>
+            <VFEV_CryptoHeavyCrossbow.tools.1.label>cano</VFEV_CryptoHeavyCrossbow.tools.1.label>
+            <VFEV_HeavyCryptoBolt.label>criptoflecha</VFEV_HeavyCryptoBolt.label>
+
+        <!-- Crypto Crossbow -->
+            <VFEV_CryptoLightCrossbow.label>criptobesta</VFEV_CryptoLightCrossbow.label>
+            <VFEV_CryptoLightCrossbow.description>Uma pequena besta experimental com parafusos de núcleo de metal envolto em criptotecnologia instável, mantida no lugar por um campo de energia. Os alvos são perfurados pelo parafuso e também congelados pelo revestimento de criogênico. Extremamente rara e poderosa.</VFEV_CryptoLightCrossbow.description>
+            <VFEV_CryptoLightCrossbow.tools.0.label>coronha</VFEV_CryptoLightCrossbow.tools.0.label>
+            <VFEV_CryptoBolt.label>criptoflecha</VFEV_CryptoBolt.label>
+
+        <!-- Crypto Pistol -->
+            <VFEV_CryptoPistol.label>criptopistola</VFEV_CryptoPistol.label>
+            <VFEV_CryptoPistol.description>Uma micro pistola experimental com projéteis com núcleo de metal envoltos em criptotecnologia instável, mantida no lugar por um campo de energia. Os alvos são perfurados pelo núcleo de metal e também congelados pelo revestimento criogênico. Extremamente rara e poderosa.</VFEV_CryptoPistol.description>
+            <VFEV_CryptoPistol.tools.0.label>cabo</VFEV_CryptoPistol.tools.0.label>
+            <VFEV_CryptoPistolBullet.label>criptotiro</VFEV_CryptoPistolBullet.label>
+
+        <!-- Crypto Rifle -->
+            <VFEV_CryptoRifle.label>criptorifle</VFEV_CryptoRifle.label>
+            <VFEV_CryptoRifle.description>Um rifle experimental com projéteis de núcleo de metal envoltos em criptotecnologia instável, mantidos no lugar por um campo de energia. Os alvos são perfurados pelo núcleo de metal e também congelados pelo revestimento criogênico. Extremamente raro e poderoso.</VFEV_CryptoRifle.description>
+            <VFEV_CryptoRifle.tools.0.label>coronha</VFEV_CryptoRifle.tools.0.label>
+            <VFEV_CryptoRifle.tools.1.label>cano</VFEV_CryptoRifle.tools.1.label>
+            <VFEV_CryptoRifleBullet.label>criptotiro</VFEV_CryptoRifleBullet.label>
+
     <!-- Vanilla Weapons Expanded -->
         <!-- Charge Pistol -->
             <VWE_Gun_ChargePistol.label>pistola de carga</VWE_Gun_ChargePistol.label>

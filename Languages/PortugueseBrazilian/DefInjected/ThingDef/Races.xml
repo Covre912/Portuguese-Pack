@@ -890,6 +890,51 @@
             <VFE_Mech_Carpenter.tools.1.label>perna dianteira direita</VFE_Mech_Carpenter.tools.1.label>
             <VFE_Mech_Carpenter.tools.2.label>cabeça</VFE_Mech_Carpenter.tools.2.label>
 
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Wooly Cow -->
+            <VFEV_WoolyCow.label>vaca da montanha</VFEV_WoolyCow.label>
+            <VFEV_WoolyCow.description>Um grande ungulado domesticado, as vacas foram criadas por milênios para produzir grandes quantidades de leite, carne e couro. Esta raça se origina nas áreas acidentadas e pode ser diferenciada por longos chifres e pelagem desgrenhada. São criaturas excepcionalmente gentis e nunca buscarão vingança, não importa quantas vezes sejam feridas. A maioria delas está tão adaptada à vida na fazenda e não consegue sobreviver na selva.</VFEV_WoolyCow.description>
+            <VFEV_WoolyCow.tools.1.label>cabeça</VFEV_WoolyCow.tools.1.label>
+            <VFEV_WoolyCow.tools.2.label>casco esquerdo</VFEV_WoolyCow.tools.2.label>
+            <VFEV_WoolyCow.tools.3.label>casco direito</VFEV_WoolyCow.tools.3.label>
+
+        <!-- Fenrir -->
+            <VFEV_Fenrir.label>fenrir</VFEV_Fenrir.label>
+            <VFEV_Fenrir.description>Um lobo gigante e mortal de origem desconhecida. O fenrir é agressivo por natureza e extremamente perigoso quando enfurecido. Seu pelo e sua pele são incrivelmente resistentes a danos e ao frio, enquanto seus dentes afiados podem perfurar até mesmo a melhor armadura.\n\nAs lendas dizem que os fenris foram bioengenharia em tempos antigos para a guerra e só seguem o líder mais corajoso para o combate.</VFEV_Fenrir.description>
+            <VFEV_Fenrir.tools.0.label>garra esquerda</VFEV_Fenrir.tools.0.label>
+            <VFEV_Fenrir.tools.1.label>garra direita</VFEV_Fenrir.tools.1.label>
+            <VFEV_Fenrir.tools.3.label>cabeça</VFEV_Fenrir.tools.3.label>
+
+        <!-- Lothurr -->
+            <VFEV_Lothurr.label>lodurr</VFEV_Lothurr.label>
+            <VFEV_Lothurr.description>Uma criatura gigantesca, semelhante a um dragão, de origem desconhecida. O lodurr é pacífico por natureza, mas extremamente perigoso quando enfurecido. Sua pele e placas de armadura são incrivelmente resistentes a danos e ao frio, enquanto seus chifres majestosos custam um preço enorme.\n\nMuitas lendas cercam os lodurrs. Alguns dizem que é a manifestação dos antigos deuses nórdicos enquanto outros afirmam que são uma espécie verdadeiramente alienígena.</VFEV_Lothurr.description>
+            <VFEV_Lothurr.tools.0.label>chifres</VFEV_Lothurr.tools.0.label>
+            <VFEV_Lothurr.tools.2.label>pé esquerdo</VFEV_Lothurr.tools.2.label>
+            <VFEV_Lothurr.tools.3.label>pé direito</VFEV_Lothurr.tools.3.label>
+            <VFEV_Lothurr.tools.4.label>cabeça</VFEV_Lothurr.tools.4.label>
+
+        <!-- Njörun -->
+            <VFEV_Njorun.label>njörun</VFEV_Njorun.label>
+            <VFEV_Njorun.description>Uma criatura gigantesca, parecida com um boi, de origem desconhecida. O njörun é cauteloso por natureza, viajando pelo planeta em pequenos rebanhos e se escondendo de qualquer pessoa que possa desejar-lhe mal. Embora dócil, a fera é muito nervosa e provavelmente retaliará se for atacada.\n\nAs lendas dizem que os njöruns são o resultado da criação de corporações há muito desaparecidas na tentativa de criar o animal perfeito.</VFEV_Njorun.description>
+            <VFEV_Njorun.tools.0.label>chifres</VFEV_Njorun.tools.0.label>
+            <VFEV_Njorun.tools.2.label>pé esquerdo</VFEV_Njorun.tools.2.label>
+            <VFEV_Njorun.tools.3.label>pé direito</VFEV_Njorun.tools.3.label>
+            <VFEV_Njorun.tools.4.label>cabeça</VFEV_Njorun.tools.4.label>
+
+        <!-- Wolfhound -->
+            <VFEV_Wolfhound.label>lébrel irlandês</VFEV_Wolfhound.label>
+            <VFEV_Wolfhound.description>Um cão grande e enérgico com um casaco de pele marrom espesso para se manter confortável em ambientes árticos. Considerado um híbrido evolutivo de lobo e cão criado para a caça.</VFEV_Wolfhound.description>
+            <VFEV_Wolfhound.tools.0.label>garra esquerda</VFEV_Wolfhound.tools.0.label>
+            <VFEV_Wolfhound.tools.1.label>garra direita</VFEV_Wolfhound.tools.1.label>
+            <VFEV_Wolfhound.tools.3.label>cabeça</VFEV_Wolfhound.tools.3.label>
+
+        <!-- Odin -->
+            <VFEV_Mech_Odin.label>odin</VFEV_Mech_Odin.label>
+            <VFEV_Mech_Odin.description>Um mecanoide monolótico fortificado teorizado por ter a capacidade de causar quedas de raios por meio de manipulação ambiental e descarga estática. Braços laminados serrilhados são emparelhados com ressonadores de pulso PEM capazes de desativar os eletrônicos próximos. Aqueles que são corajosos o suficiente para lutar contra este mecanóide à queima-roupa são rapidamente despachados por relâmpagos de alta voltagem.\n\nDurante as guerras mecanoide, o próprio avistamento de Odin é conhecido por gerar uma demanda por retirada. Muito poucos o encontraram e sobreviveram para relatar.</VFEV_Mech_Odin.description>
+            <VFEV_Mech_Odin.tools.0.label>punho esquerdo</VFEV_Mech_Odin.tools.0.label>
+            <VFEV_Mech_Odin.tools.1.label>punho direito</VFEV_Mech_Odin.tools.1.label>
+            <VFEV_Mech_Odin.tools.2.label>cabeça</VFEV_Mech_Odin.tools.2.label>
+
     <!-- VFE - Mechanoids : Unnofical Add-On -->
         <!-- Mender -->
             <MAO_Mechanoids_Mender.label>médico automático</MAO_Mechanoids_Mender.label>

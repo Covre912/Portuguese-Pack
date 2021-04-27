@@ -1,67 +1,66 @@
-agricultura
-pomares
-celeiros
 agricultores
-lavradores
-cultivo do solo
-plantas
-árvores
-frutas
-flores desabrochando
-flores
-cultivo
-botânica
+agricultura
 agronomia
-lâmpadas
-arbustos
-cactos
-fertilizante
-plantio
-urtigas
 amoreiras
-treliça
-hera
-pólen
-polinização
-sementes
-talos
-rega
-compostagem
-vegetais
-frutas
-ervas daninhas
-lavrar o solo
-estufas
-florestas
-lenhadores
-musgo
-horticultura
-árvores perenes
-folhas
-cascas de árvore
-samambaias
-aveia
-leguminosas
-poda
-poda de árvores
-envasamento
-jardinagem
-luz solar
-exploração madeireira
-solo de turfa
-perenes
 anuários
-bienais
-murtas
 aquaponia
-hidroponia
-rotação de cultura
-luz solar artificial
-lâmpadas solares
-cercas
-próteses agrícolas
+arbustos
+árvores
+árvores perenes
+aveia
+bienais
+botânica
 cachos
+cactos
+cascas de árvore
+celeiros
+cercas
 coleta
 colheita
+compostagem
+cultivo
+cultivo do solo
 ecossistemas
+envasamento
+ervas daninhas
+estufas
+exploração madeireira
+fertilizante
+flores
+flores desabrochando
+florestas
+folhas
+frutas
+hera
+hidroponia
+horticultura
 irrigadores
+jardinagem
+lâmpadas
+lâmpadas solares
+lavradores
+lavrar o solo
+leguminosas
+lenhadores
+luz solar
+luz solar artificial
+murtas
+musgo
+perenes
+plantas
+plantio
+poda
+poda de árvores
+pólen
+polinização
+pomares
+próteses agrícolas
+rega
+rotação de cultura
+samambaias
+sementes
+solo de turfa
+talos
+treliça
+urtigas
+vegetais

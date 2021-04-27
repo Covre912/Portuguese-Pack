@@ -134,6 +134,43 @@
  			<NeedBeautyAesthete.stages.5.label>ambiente belo</NeedBeautyAesthete.stages.5.label>
             <NeedBeautyAesthete.stages.5.description>Este lugar é lindo. Eleva meu espírito e me faz amar a vida.</NeedBeautyAesthete.stages.5.description>
 
+    <!-- [SYR] Individuality -->
+        <!--Green Thumb-->
+            <Thought_SYR_GreenThumb.stages.0.label>dedo verde frustrado</Thought_SYR_GreenThumb.stages.0.label>
+            <Thought_SYR_GreenThumb.stages.0.description>Por que não tem plantas no meu quarto?</Thought_SYR_GreenThumb.stages.0.description>
+            <Thought_SYR_GreenThumb.stages.1.label>dedo verde infeliz</Thought_SYR_GreenThumb.stages.1.label>
+            <Thought_SYR_GreenThumb.stages.1.description>Posso ter mais algumas plantas no meu quarto? Só uma ou duas não bastam.</Thought_SYR_GreenThumb.stages.1.description>
+            <Thought_SYR_GreenThumb.stages.2.label>dedo verde satisfeito</Thought_SYR_GreenThumb.stages.2.label>
+            <Thought_SYR_GreenThumb.stages.2.description>Tem algumas belas plantas no meu quarto, mas eu adoraria se houvesse mais.</Thought_SYR_GreenThumb.stages.2.description>
+            <Thought_SYR_GreenThumb.stages.3.label>dedo verde feliz</Thought_SYR_GreenThumb.stages.3.label>
+            <Thought_SYR_GreenThumb.stages.3.description>Tem algumas belas plantas no meu quarto, mas eu adoraria se houvesse ainda mais.</Thought_SYR_GreenThumb.stages.3.description>
+            <Thought_SYR_GreenThumb.stages.4.label>dedo verde encantado</Thought_SYR_GreenThumb.stages.4.label>
+            <Thought_SYR_GreenThumb.stages.4.description>Tem várias belas plantas no meu quarto, mas poderia haver um pouquinho mais.</Thought_SYR_GreenThumb.stages.4.description>
+            <Thought_SYR_GreenThumb.stages.5.label>dedo verde maravilhado</Thought_SYR_GreenThumb.stages.5.label>
+            <Thought_SYR_GreenThumb.stages.5.description>Tem tantas plantas maravilhosas no meu quarto.</Thought_SYR_GreenThumb.stages.5.description>
+
+        <!--Prosthophobe-->
+            <ProsthophobeHappy.stages.0.label>purista do corpo feliz</ProsthophobeHappy.stages.0.label>
+            <ProsthophobeHappy.stages.0.description>Puro e imaculado, meu corpo é íntegro, sem qualquer parte artificial.</ProsthophobeHappy.stages.0.description>
+
+        <!--Feeling Random-->
+            <FeelingRandom.stages.0.label>Sentindo-se maníaco(a)</FeelingRandom.stages.0.label>
+            <FeelingRandom.stages.0.description>Sem motivo aparente, eu simplesmente me sinto fantástico(a) agora!</FeelingRandom.stages.0.description>
+            <FeelingRandom.stages.1.label>Sentindo-se ótimo(a)</FeelingRandom.stages.1.label>
+            <FeelingRandom.stages.1.description>Sem motivo aparente, eu simplesmente me sinto ótimo(a) agora.</FeelingRandom.stages.1.description>
+            <FeelingRandom.stages.2.label>Sentindo-se bem</FeelingRandom.stages.2.label>
+            <FeelingRandom.stages.2.description>Sem motivo aparente, eu simplesmente me sinto bem agora.</FeelingRandom.stages.2.description>
+            <FeelingRandom.stages.3.label>Sentindo-se mal</FeelingRandom.stages.3.label>
+            <FeelingRandom.stages.3.description>Sem motivo aparente, eu simplesmente me sinto mal agora.</FeelingRandom.stages.3.description>
+            <FeelingRandom.stages.4.label>Sentindo-se péssimo(a)</FeelingRandom.stages.4.label>
+            <FeelingRandom.stages.4.description>Sem motivo aparente, eu simplesmente me sinto péssimo(a) agora.</FeelingRandom.stages.4.description>
+            <FeelingRandom.stages.5.label>Sentindo-se depressivo(a)</FeelingRandom.stages.5.label>
+            <FeelingRandom.stages.5.description>Sem motivo aparente, eu simplesmente me sinto completamente arrasado(a) agora...</FeelingRandom.stages.5.description>
+
+        <!--Gun Nut-->
+            <SYR_GunNutUnhappy.stages.0.label>louco por armas possui arma corpo-a-corpo</SYR_GunNutUnhappy.stages.0.label>
+            <SYR_GunNutUnhappy.stages.0.description>O que é isso? Não quero usar essa ferramenta de homem das cavernas. Eu quero uma arma de fogo, ou pelo menos um arco!</SYR_GunNutUnhappy.stages.0.description>
+
     <!-- Argón's Tribal Medicine -->
         <!-- Disgusting Tea -->
             <TM_FluTeaEffectThought.stages.0.label>chá nojento</TM_FluTeaEffectThought.stages.0.label>
@@ -482,6 +519,56 @@
             <Aurora.stages.0.label>aurora linda</Aurora.stages.0.label>
             <Aurora.stages.0.description>A vista é incrível.</Aurora.stages.0.description>
 
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Wine -->
+            <VFEM_DrankWine.stages.0.label>bebi vinho horrível</VFEM_DrankWine.stages.0.label>
+            <VFEM_DrankWine.stages.0.description>Bebi um pouco de mosto que mal teve tempo de fermentar. Nojento.</VFEM_DrankWine.stages.0.description>
+            <VFEM_DrankWine.stages.1.label>bebi vinho pobre</VFEM_DrankWine.stages.1.label>
+            <VFEM_DrankWine.stages.1.description>Esse vinho poderia ter tido mais alguns dias para fermentar. Não era horrível, mas também não era bom.</VFEM_DrankWine.stages.1.description>
+            <VFEM_DrankWine.stages.2.label>bebi vinho</VFEM_DrankWine.stages.2.label>
+            <VFEM_DrankWine.stages.3.label>bebi vinho bom</VFEM_DrankWine.stages.3.label>
+            <VFEM_DrankWine.stages.3.description>Bebi um bom vinho.</VFEM_DrankWine.stages.3.description>
+            <VFEM_DrankWine.stages.4.label>bebi vinho excelente</VFEM_DrankWine.stages.4.label>
+            <VFEM_DrankWine.stages.4.description>Bebi um bom vinho. Você pode dizer que teve um bom tempo para fermentar.</VFEM_DrankWine.stages.4.description>
+            <VFEM_DrankWine.stages.5.label>bebi vinho obra-prima</VFEM_DrankWine.stages.5.label>
+            <VFEM_DrankWine.stages.5.description>Aquele vinho era simplesmente incrível! Não existe nada melhor do que isso.</VFEM_DrankWine.stages.5.description>
+            <VFEM_DrankWine.stages.6.label>bebi vinho lendário</VFEM_DrankWine.stages.6.label>
+            <VFEM_DrankWine.stages.6.description>Eu bebi um dos melhores vinhos que já provei!</VFEM_DrankWine.stages.6.description>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- Chemshined -->
+            <Chemshined.label>energizado</Chemshined.label>
+            <Chemshined.description>Sinto-me energizado, estou pegando fogo, veja!</Chemshined.description>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Successful Hunt! -->
+            <VFEI_BeastHunted.stages.0.label>caçada bem-sucedida!</VFEI_BeastHunted.stages.0.label>
+            <VFEI_BeastHunted.stages.0.description>Nós caçamos uma fera!</VFEI_BeastHunted.stages.0.description>
+            <VFEV_BeastHunted.stages.0.label>caçada bem-sucedida!</VFEV_BeastHunted.stages.0.label>
+            <VFEV_BeastHunted.stages.0.description>Nós caçamos uma fera!</VFEV_BeastHunted.stages.0.description>
+
+        <!-- Raid Restless -->
+            <VFEV_RaidRestlessness.stages.0.label>inquieto (x0)</VFEV_RaidRestlessness.stages.0.label>
+            <VFEV_RaidRestlessness.stages.0.description>Devemos começar a planejar nosso próximo ataque.</VFEV_RaidRestlessness.stages.0.description>
+            <VFEV_RaidRestlessness.stages.1.label>inquieto (x1)</VFEV_RaidRestlessness.stages.1.label>
+            <VFEV_RaidRestlessness.stages.1.description>Viajar deve ser fácil agora, podemos facilmente saquear aqueles fracos.</VFEV_RaidRestlessness.stages.1.description>
+            <VFEV_RaidRestlessness.stages.2.label>inquieto (x2)</VFEV_RaidRestlessness.stages.2.label>
+            <VFEV_RaidRestlessness.stages.2.description>Por que nosso bando de guerra está ficando tão dócil? Os fracos devem temer os fortes - Devemos atacar nossos inimigos logo.</VFEV_RaidRestlessness.stages.2.description>
+            <VFEV_RaidRestlessness.stages.3.label>inquieto (x3)</VFEV_RaidRestlessness.stages.3.label>
+            <VFEV_RaidRestlessness.stages.3.description>Tantos luxos ao nosso alcance, mas somos covardes demais para massacrar nossos inimigos e tirar suas riquezas?</VFEV_RaidRestlessness.stages.3.description>
+            <VFEV_RaidRestlessness.stages.4.label>inquieto (x4)</VFEV_RaidRestlessness.stages.4.label>
+            <VFEV_RaidRestlessness.stages.4.description>Eu perdi todas as esperanças - não há como continuarmos assim, temo que nosso povo e nossa história nunca serão lembrados.</VFEV_RaidRestlessness.stages.4.description>
+
+        <!-- Stung -->
+            <VFEV_StingMoodDebuff.stages.0.label>picado por abelhas</VFEV_StingMoodDebuff.stages.0.label>
+            <VFEV_StingMoodDebuff.stages.0.description>Eu fui picado(a), e isso dói!</VFEV_StingMoodDebuff.stages.0.description>
+
+        <!-- Feast -->
+            <VFEV_AttendedFeast.stages.0.label>participou de um banquete</VFEV_AttendedFeast.stages.0.label>
+            <VFEV_AttendedFeast.stages.0.description>Eu me diverti muito no banquete!</VFEV_AttendedFeast.stages.0.description>
+            <VFEV_TakingPartInFeast.stages.0.label>participando de um banquete</VFEV_TakingPartInFeast.stages.0.label>
+            <VFEV_TakingPartInFeast.stages.0.description>Estou me divertindo!</VFEV_TakingPartInFeast.stages.0.description>
+
     <!-- Vanilla Fishing Expanded -->
         <!-- Fishing -->
             <VCEF_FishingThought.stages.relaxing_fishing_session.label>pescaria relaxante</VCEF_FishingThought.stages.relaxing_fishing_session.label>
@@ -530,54 +617,111 @@
             <VSIE_HadBirthdayParty.stages.0.label>Teve uma festa de aniversário</VSIE_HadBirthdayParty.stages.0.label>
             <VSIE_HadBirthdayParty.stages.0.description>Eles me deram uma festa de aniversário!</VSIE_HadBirthdayParty.stages.0.description>
 
-    <!-- [SYR] Individuality -->
-        <!--Green Thumb-->
-            <Thought_SYR_GreenThumb.stages.0.label>dedo verde frustrado</Thought_SYR_GreenThumb.stages.0.label>
-            <Thought_SYR_GreenThumb.stages.0.description>Por que não tem plantas no meu quarto?</Thought_SYR_GreenThumb.stages.0.description>
-            <Thought_SYR_GreenThumb.stages.1.label>dedo verde infeliz</Thought_SYR_GreenThumb.stages.1.label>
-            <Thought_SYR_GreenThumb.stages.1.description>Posso ter mais algumas plantas no meu quarto? Só uma ou duas não bastam.</Thought_SYR_GreenThumb.stages.1.description>
-            <Thought_SYR_GreenThumb.stages.2.label>dedo verde satisfeito</Thought_SYR_GreenThumb.stages.2.label>
-            <Thought_SYR_GreenThumb.stages.2.description>Tem algumas belas plantas no meu quarto, mas eu adoraria se houvesse mais.</Thought_SYR_GreenThumb.stages.2.description>
-            <Thought_SYR_GreenThumb.stages.3.label>dedo verde feliz</Thought_SYR_GreenThumb.stages.3.label>
-            <Thought_SYR_GreenThumb.stages.3.description>Tem algumas belas plantas no meu quarto, mas eu adoraria se houvesse ainda mais.</Thought_SYR_GreenThumb.stages.3.description>
-            <Thought_SYR_GreenThumb.stages.4.label>dedo verde encantado</Thought_SYR_GreenThumb.stages.4.label>
-            <Thought_SYR_GreenThumb.stages.4.description>Tem várias belas plantas no meu quarto, mas poderia haver um pouquinho mais.</Thought_SYR_GreenThumb.stages.4.description>
-            <Thought_SYR_GreenThumb.stages.5.label>dedo verde maravilhado</Thought_SYR_GreenThumb.stages.5.label>
-            <Thought_SYR_GreenThumb.stages.5.description>Tem tantas plantas maravilhosas no meu quarto.</Thought_SYR_GreenThumb.stages.5.description>
+        <!-- Suffered A Loss -->
+            <VSIE_SufferedLossPositive.stages.0.label>Sofreu uma derrota</VSIE_SufferedLossPositive.stages.0.label>
+            <VSIE_SufferedLossPositive.stages.0.description>Perdemos, mas podemos perseverar!</VSIE_SufferedLossPositive.stages.0.description>
+            <VSIE_SufferedLossNegative.stages.0.label>Sofreu uma derrota</VSIE_SufferedLossNegative.stages.0.label>
+            <VSIE_SufferedLossNegative.stages.0.description>Uma derrota tão devastadora!</VSIE_SufferedLossNegative.stages.0.description>
+    
+        <!-- Venting -->
+            <VSIE_SharingBurden.stages.0.label>desabafou</VSIE_SharingBurden.stages.0.label>
+            <VSIE_SharingBurden.stages.0.description>Foi bom finalmente desabafar com um amigo.</VSIE_SharingBurden.stages.0.description>
+            <VSIE_VentedOnMe.stages.0.label>meu amigo desabafou para mim</VSIE_VentedOnMe.stages.0.label>
+            <VSIE_VentedOnMe.stages.0.description>Meu amigo desvendou seus sentimentos para mim.</VSIE_VentedOnMe.stages.0.description>
 
-        <!--Prosthophobe-->
-            <ProsthophobeHappy.stages.0.label>purista do corpo feliz</ProsthophobeHappy.stages.0.label>
-            <ProsthophobeHappy.stages.0.description>Puro e imaculado, meu corpo é íntegro, sem qualquer parte artificial.</ProsthophobeHappy.stages.0.description>
+        <!-- Jealously -->
+            <VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.label>Ciúmes</VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.label>
+            <VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.description>Estou com inveja. Meu(inha) {0} saiu com outra pessoa!</VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.description>
 
-        <!--Feeling Random-->
-            <FeelingRandom.stages.0.label>Sentindo-se maníaco(a)</FeelingRandom.stages.0.label>
-            <FeelingRandom.stages.0.description>Sem motivo aparente, eu simplesmente me sinto fantástico(a) agora!</FeelingRandom.stages.0.description>
-            <FeelingRandom.stages.1.label>Sentindo-se ótimo(a)</FeelingRandom.stages.1.label>
-            <FeelingRandom.stages.1.description>Sem motivo aparente, eu simplesmente me sinto ótimo(a) agora.</FeelingRandom.stages.1.description>
-            <FeelingRandom.stages.2.label>Sentindo-se bem</FeelingRandom.stages.2.label>
-            <FeelingRandom.stages.2.description>Sem motivo aparente, eu simplesmente me sinto bem agora.</FeelingRandom.stages.2.description>
-            <FeelingRandom.stages.3.label>Sentindo-se mal</FeelingRandom.stages.3.label>
-            <FeelingRandom.stages.3.description>Sem motivo aparente, eu simplesmente me sinto mal agora.</FeelingRandom.stages.3.description>
-            <FeelingRandom.stages.4.label>Sentindo-se péssimo(a)</FeelingRandom.stages.4.label>
-            <FeelingRandom.stages.4.description>Sem motivo aparente, eu simplesmente me sinto péssimo(a) agora.</FeelingRandom.stages.4.description>
-            <FeelingRandom.stages.5.label>Sentindo-se depressivo(a)</FeelingRandom.stages.5.label>
-            <FeelingRandom.stages.5.description>Sem motivo aparente, eu simplesmente me sinto completamente arrasado(a) agora...</FeelingRandom.stages.5.description>
+        <!-- Social Environment -->
+            <VSIE_SocialEnvironment.stages.0.label>Boa reputação</VSIE_SocialEnvironment.stages.0.label>
+            <VSIE_SocialEnvironment.stages.0.description>Eu sou querido e respeitado aqui. Essas pessoas precisam de mim.</VSIE_SocialEnvironment.stages.0.description>
+            <VSIE_SocialEnvironment.stages.1.label>Má reputação</VSIE_SocialEnvironment.stages.1.label>
+            <VSIE_SocialEnvironment.stages.1.description>Não estou me divertindo aqui. Ninguém parece me respeitar!</VSIE_SocialEnvironment.stages.1.description>
 
-        <!--Gun Nut-->
-            <SYR_GunNutUnhappy.stages.0.label>louco por armas possui arma corpo-a-corpo</SYR_GunNutUnhappy.stages.0.label>
-            <SYR_GunNutUnhappy.stages.0.description>O que é isso? Não quero usar essa ferramenta de homem das cavernas. Eu quero uma arma de fogo, ou pelo menos um arco!</SYR_GunNutUnhappy.stages.0.description>
+        <!-- Best Friend -->
+            <VSIE_OpinionOfMyBestFriend.stages.0.label>opinião do(a) meu(inha) {0} {1}</VSIE_OpinionOfMyBestFriend.stages.0.label>
+            <VSIE_OpinionOfMyBestFriend.stages.0.description>Estar com meu melhor amigo me faz sentir assim.</VSIE_OpinionOfMyBestFriend.stages.0.description>
+
+        <!-- Bonded Pet Butchered -->
+            <VSIE_BondedPetButcheredOpinion.stages.0.label>{BUTCHER_nameDef} massacrou meu animal de estimação vinculado {VICTIM_nameDef}, eu nunca vou lhe perdoar</VSIE_BondedPetButcheredOpinion.stages.0.label>
+            
+        <!-- Friend Exposed Corpse -->
+            <VSIE_ExposedCorpseOfMyFriendOpinion.stages.0.label>{OTHERPAWN_nameDef} desenterrou e expôs o cadáver de meu {0} {VICTIM_nameDef}, o(a) desprezarei por isso</VSIE_ExposedCorpseOfMyFriendOpinion.stages.0.label>
+
+        <!-- Ingested Human Flesh -->
+            <VSIE_IngestedHumanFlesh.stages.0.label>{OTHERPAWN_nameDef} comeu carne humana, sempre terei medo dele(a)</VSIE_IngestedHumanFlesh.stages.0.label>
+
+        <!-- Binged -->
+            <VSIE_BingedFood.stages.0.label>{OTHERPAWN_nameDef} se empanturrou de comida. Que desperdício</VSIE_BingedFood.stages.0.label>
+            <VSIE_BingedDrug.stages.0.label>{OTHERPAWN_nameDef} se empanturrou de drogas. Eu não preciso de um(a) drogado(a) na minha vida</VSIE_BingedDrug.stages.0.label>
+
+        <!-- Mental Breaks -->
+            <VSIE_HideInRoom.stages.0.label>{OTHERPAWN_nameDef} estava escondendo-se em seu quarto. Esquisito(a)</VSIE_HideInRoom.stages.0.label>
+            <VSIE_WanderedInSaddness.stages.0.label>{OTHERPAWN_nameDef} vagou com a tristeza. Tenho pena de dele(a)</VSIE_WanderedInSaddness.stages.0.label>
+            <VSIE_WentIntoSadisticRage.stages.0.label>{OTHERPAWN_nameDef} entrou em fúria sádica. Absolutamente repugnante</VSIE_WentIntoSadisticRage.stages.0.label>
+            <VSIE_ThrewTantrum.stages.0.label>{OTHERPAWN_nameDef} fez birra. {OTHERPAWN_pronoun} precisa aprender um pouco sobre autocontrole</VSIE_ThrewTantrum.stages.0.label>
+            <VSIE_WentBerserk.stages.0.label>{OTHERPAWN_nameDef} enlouqueceu. Nunca me sinto seguro(a) perto dele(a)</VSIE_WentBerserk.stages.0.label>
+            <VSIE_WentOnFireStartingSpree.stages.0.label>{OTHERPAWN_nameDef} começou uma queimada. Estava tão perto de tudo o que conhecemos fôsse transformado em cinzas. Como posso perdoar isso?</VSIE_WentOnFireStartingSpree.stages.0.label>
+            <VSIE_WentOnMurderousRage.stages.0.label>{OTHERPAWN_nameDef} teve uma fúria assassina. E se eu for o próximo alvo?</VSIE_WentOnMurderousRage.stages.0.label>
+            <VSIE_RanWild.stages.0.label>{OTHERPAWN_nameDef} se tornou selvagem. Esquisito(a)</VSIE_RanWild.stages.0.label>
+            <VSIE_SlaughteredAnimalInRage.stages.0.label>{OTHERPAWN_nameDef} massacrou nosso animal em uma fúria cega. Eu o(a) desprezo</VSIE_SlaughteredAnimalInRage.stages.0.label>
+            <VSIE_InducedPrisonerToEscape.stages.0.label>{OTHERPAWN_nameDef} libertou nossos prisioneiros. Poderia ter terminado muito mal!</VSIE_InducedPrisonerToEscape.stages.0.label>
+
+        <!-- Taming -->
+            <VSIE_TamedThrumbo.stages.0.label>{OTHERPAWN_nameDef} domesticou um thrumbo. Que façanha lendária!</VSIE_TamedThrumbo.stages.0.label>
+            <VSIE_TamedMe.stages.0.label>{OTHERPAWN_nameDef} me domesticou, sempre ficarei feliz com as maravilhas que {OTHERPAWN_pronoun} me mostrou</VSIE_TamedMe.stages.0.label>
+
+        <!-- Past -->
+            <VSIE_WasPreviouslyOurEnemy.stages.0.label>{OTHERPAWN_nameDef} era anteriormente nosso inimigo. Não confio nele(a)</VSIE_WasPreviouslyOurEnemy.stages.0.label>
+            <VSIE_WasBadlyInjured.stages.0.label>{OTHERPAWN_nameDef} ficou gravemente ferido(a) em batalha. Admiro sua coragem</VSIE_WasBadlyInjured.stages.0.label>
+
+        <!-- Dating -->
+            <VSIE_DidNotAttendWedding.stages.0.label>{OTHERPAWN_nameDef} não compareceu à nossa cerimônia de casamento! Era tão difícil vir e passar um tempo comigo naquele dia?</VSIE_DidNotAttendWedding.stages.0.label>
+            <VSIE_AttendedMyWedding.stages.0.label>{OTHERPAWN_nameDef} compareceu ao meu casamento</VSIE_AttendedMyWedding.stages.0.label>
+            <VSIE_RebuffedMe.stages.0.label>{OTHERPAWN_nameDef} me rejeitou. Achei {OTHERPAWN_pronoun} era especial</VSIE_RebuffedMe.stages.0.label>
+            <VSIE_BrokeUpWithMe.stages.0.label>{OTHERPAWN_nameDef} terminou comigo. Será que irei encontrar outra pessoa?</VSIE_BrokeUpWithMe.stages.0.label>
+            <VSIE_StoleMyLover.stages.0.label>{SECONDPAWN_nameDef} roubou meu(inha) {0} {THIRDPAWN_nameDef} de mim. O que torna {SECONDPAWN_pronoun} tão melhor?</VSIE_StoleMyLover.stages.0.label>
+            <VSIE_GotSomeLovin.stages.0.label>recebeu um pouco de amor</VSIE_GotSomeLovin.stages.0.label>
+            <VSIE_GotSomeLovin.stages.0.description>Nada como uma brincadeira entre os lençóis para melhorar o clima.</VSIE_GotSomeLovin.stages.0.description>
+
+        <!-- Medicine -->
+            <VSIE_RemovedPrisonersOrgans.stages.0.label>{OTHERPAWN_nameDef} removeu os órgãos de um prisioneiro! Como pode uma pessoa ser capaz de tais coisas?</VSIE_RemovedPrisonersOrgans.stages.0.label>
+            <VSIE_FailedMedicalOperationAndKilled.stages.0.label>{OTHERPAWN_nameDef} falhou em uma operação médica e matou um de nós</VSIE_FailedMedicalOperationAndKilled.stages.0.label>
+            <VSIE_SavedMeFromMyWounds.stages.0.label>{OTHERPAWN_nameDef} salvou-me das minhas feridas. Sempre estarei em dívida com {OTHERPAWN_pronoun}</VSIE_SavedMeFromMyWounds.stages.0.label>
+            <VSIE_CuredMyFriend.stages.0.label>{SECONDPAWN_nameDef} curou meu(inha) {0} {THIRDPAWN_nameDef}, sempre serei grato(a) a {SECONDPAWN_pronoun}</VSIE_CuredMyFriend.stages.0.label>
+            <VSIE_SavedMeFromRaiders.stages.0.label>{SECONDPAWN_nameDef} me salvou de {THIRDPAWN_kindDef}, sempre estarei em dívida com {SECONDPAWN_pronoun}</VSIE_SavedMeFromRaiders.stages.0.label>
+
+        <!-- Arrested Me -->
+            <VSIE_ArrestedMe.stages.0.label>{OTHERPAWN_nameDef} me prendeu</VSIE_ArrestedMe.stages.0.label>
+
+        <!-- Resurrected Me -->
+            <VSIE_ResurrectedMe.stages.0.label>{OTHERPAWN_nameDef} me ressuscitou</VSIE_ResurrectedMe.stages.0.label>
+
+        <!-- Nice Chat -->
+            <VSIE_WeHadNiceChat.stages.0.label>{OTHERPAWN_nameDef} e eu tivemos uma boa conversa. Parece que podemos falar sobre qualquer coisa</VSIE_WeHadNiceChat.stages.0.label>
+
+        <!-- Social Fight -->
+            <VSIE_InsultedMe.stages.0.label>{OTHERPAWN_nameDef} me insultou. Palavras cortam mais fundo do que punhais</VSIE_InsultedMe.stages.0.label>
+            <VSIE_WeHadSocialFight.stages.0.label>{OTHERPAWN_nameDef} e eu tivemos uma briga social</VSIE_WeHadSocialFight.stages.0.label>
+
+        <!-- Friend Since Childhood -->
+            <VSIE_HasBeenMyFriendSinceChildhood.stages.0.label>{OTHERPAWN_nameDef} é meu(inha) amigo(a) desde a infância, temos tanto em comum que ninguém consegue nos separar</VSIE_HasBeenMyFriendSinceChildhood.stages.0.label>
+
+        <!-- Royalty -->
+            <VSIE_IsRoyalty.stages.0.label>{OTHERPAWN_nameDef} é uma realeza. Estou impressionado(a)</VSIE_IsRoyalty.stages.0.label>
 
     <!-- Vanilla Storytellers Expanded - Freya Fierce -->
         <!-- Raid Restless -->
-            <VFEV_RaidRestlessness.stages.0.label>Inquieto (x0)</VFEV_RaidRestlessness.stages.0.label>
+            <VFEV_RaidRestlessness.stages.0.label>inquieto (x0)</VFEV_RaidRestlessness.stages.0.label>
             <VFEV_RaidRestlessness.stages.0.description>Devemos começar a planejar nosso próximo ataque.</VFEV_RaidRestlessness.stages.0.description>
-            <VFEV_RaidRestlessness.stages.1.label>Inquieto (x1)</VFEV_RaidRestlessness.stages.1.label>
+            <VFEV_RaidRestlessness.stages.1.label>inquieto (x1)</VFEV_RaidRestlessness.stages.1.label>
             <VFEV_RaidRestlessness.stages.1.description>Viajar deve ser fácil agora, podemos facilmente saquear aqueles fracos.</VFEV_RaidRestlessness.stages.1.description>
-            <VFEV_RaidRestlessness.stages.2.label>Inquieto (x2)</VFEV_RaidRestlessness.stages.2.label>
+            <VFEV_RaidRestlessness.stages.2.label>inquieto (x2)</VFEV_RaidRestlessness.stages.2.label>
             <VFEV_RaidRestlessness.stages.2.description>Por que nosso bando de guerra está ficando tão dócil? Os fracos devem temer os fortes - Devemos atacar nossos inimigos logo.</VFEV_RaidRestlessness.stages.2.description>
-            <VFEV_RaidRestlessness.stages.3.label>Inquieto (x3)</VFEV_RaidRestlessness.stages.3.label>
+            <VFEV_RaidRestlessness.stages.3.label>inquieto (x3)</VFEV_RaidRestlessness.stages.3.label>
             <VFEV_RaidRestlessness.stages.3.description>Tantos luxos ao nosso alcance, mas somos covardes demais para massacrar nossos inimigos e tirar suas riquezas?</VFEV_RaidRestlessness.stages.3.description>
-            <VFEV_RaidRestlessness.stages.4.label>Inquieto (x4)</VFEV_RaidRestlessness.stages.4.label>
+            <VFEV_RaidRestlessness.stages.4.label>inquieto (x4)</VFEV_RaidRestlessness.stages.4.label>
             <VFEV_RaidRestlessness.stages.4.description>Eu perdi todas as esperanças - não há como continuarmos assim, temo que nosso povo e nossa história nunca serão lembrados.</VFEV_RaidRestlessness.stages.4.description>
 
     <!-- Vanilla Traits Expanded -->
@@ -670,6 +814,32 @@
         <!-- Dunce -->
             <VTE_Dunce.stages.0.label>burro</VTE_Dunce.stages.0.label>
             <VTE_Dunce.stages.0.description>Eu realmente não entendo por que todo mundo está tão chateado o tempo todo.</VTE_Dunce.stages.0.description>
+
+        <!-- Animal Hater -->
+            <VTE_BondedAnimalDiedHater.stages.0.label>animal vinculado {0} morreu</VTE_BondedAnimalDiedHater.stages.0.label>
+            <VTE_BondedAnimalDiedHater.stages.0.description>Um animal tão nojento e irritante. Estou feliz que tenha ido embora!</VTE_BondedAnimalDiedHater.stages.0.description>
+            <VTE_BondedAnimalLostHater.stages.0.label>animal vinculado {0} perdido</VTE_BondedAnimalLostHater.stages.0.label>
+            <VTE_BondedAnimalLostHater.stages.0.description>Um animal tão nojento e irritante. Estou feliz que tenha ido embora!</VTE_BondedAnimalLostHater.stages.0.description>
+            <VTE_BondedAnimalBanishedHater.stages.0.label>animal vinculado {0} banido</VTE_BondedAnimalBanishedHater.stages.0.label>
+            <VTE_BondedAnimalBanishedHater.stages.0.description>Meu animal vinculado foi banido, finalmente.</VTE_BondedAnimalBanishedHater.stages.0.description>
+            <VTE_NuzzledHater.stages.0.label>acariciado</VTE_NuzzledHater.stages.0.label>
+            <VTE_NuzzledHater.stages.0.description>Um animal nojento me acariciou.</VTE_NuzzledHater.stages.0.description>
+            <VTE_KilledMyBondedAnimalHater.stages.0.label>matou meu animal vinculado</VTE_KilledMyBondedAnimalHater.stages.0.label>
+            <VTE_SoldMyBondedAnimalHater.stages.0.label>animal vinculado doado.</VTE_SoldMyBondedAnimalHater.stages.0.label>
+            <VTE_SoldMyBondedAnimalHater.stages.0.labelSocial>doou meu animal vinculado.</VTE_SoldMyBondedAnimalHater.stages.0.labelSocial>
+            <VTE_SoldMyBondedAnimalHater.stages.0.description>Meu desagradável animal vinculado foi doado, já estava na hora!</VTE_SoldMyBondedAnimalHater.stages.0.description>
+            <VTE_SoldMyBondedAnimalMoodHater.stages.0.label>animal vinculado doado.</VTE_SoldMyBondedAnimalMoodHater.stages.0.label>
+            <VTE_SoldMyBondedAnimalMoodHater.stages.0.labelSocial>doou meu animal vinculado.</VTE_SoldMyBondedAnimalMoodHater.stages.0.labelSocial>
+            <VTE_SoldMyBondedAnimalMoodHater.stages.0.description>Meu desagradável animal vinculado foi doado, já estava na hora!</VTE_SoldMyBondedAnimalMoodHater.stages.0.description>
+            <VTE_KilledColonyAnimalHater.stages.0.label>matou um animal da colônia</VTE_KilledColonyAnimalHater.stages.0.label>
+            <VTE_BondedAnimalMasterHater.stages.0.label>mestre de {0}</VTE_BondedAnimalMasterHater.stages.0.label>
+            <VTE_BondedAnimalMasterHater.stages.0.description>Estar perto daquela coisa desagradável me faz odiar a própria vida.</VTE_BondedAnimalMasterHater.stages.0.description>
+            <VTE_BondedAnimalMasterHater.stages.1.label>mestre de {0}</VTE_BondedAnimalMasterHater.stages.1.label>
+            <VTE_BondedAnimalMasterHater.stages.1.description>Estar perto daquela coisa desagradável me faz odiar a própria vida.</VTE_BondedAnimalMasterHater.stages.1.description>
+            <VTE_NotBondedAnimalMasterHater.stages.0.label>não é mestre de {0}</VTE_NotBondedAnimalMasterHater.stages.0.label>
+            <VTE_NotBondedAnimalMasterHater.stages.0.description>Essa coisa pode gostar de mim, mas eu certamente não gosto dela de volta - estou feliz que outra pessoa a tenha pego.</VTE_NotBondedAnimalMasterHater.stages.0.description>
+            <VTE_NotBondedAnimalMasterHater.stages.1.label>não é mestre de {0}</VTE_NotBondedAnimalMasterHater.stages.1.label>
+            <VTE_NotBondedAnimalMasterHater.stages.1.description>Essa coisa pode gostar de mim, mas eu certamente não gosto dela de volta - estou feliz que outra pessoa a tenha pego.</VTE_NotBondedAnimalMasterHater.stages.1.description>
 
     <!-- Xenohumans - Anthromorphs -->
         <!-- Designer Mate -->

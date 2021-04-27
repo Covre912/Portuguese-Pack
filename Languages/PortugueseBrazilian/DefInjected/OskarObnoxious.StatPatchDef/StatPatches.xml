@@ -2,7 +2,28 @@
 <LanguageData>
 
     <!-- Vanilla Storytellers Expanded - Oskar Obnoxious -->
-        <!-- General-->
+        <!-- Building Special -->
+            <StatPatch_WorkToBuild.patch.label>Trabalho para construir</StatPatch_WorkToBuild.patch.label>
+            <StatPatch_DoorOpenSpeed.patch.label>Velocidade de abertura da porta</StatPatch_DoorOpenSpeed.patch.label>
+            <StatPatch_BedRestEffectiveness.patch.label>Eficácia de descanso</StatPatch_BedRestEffectiveness.patch.label>
+            <StatPatch_TrapMeleeDamage.patch.label>Dano de armadilha</StatPatch_TrapMeleeDamage.patch.label>
+            <StatPatch_TrapSpringChance.patch.label>Chance de armadilha falhar</StatPatch_TrapSpringChance.patch.label>
+            <StatPatch_ResearchSpeedFactor.patch.label>Fator de velocidade de pesquisa</StatPatch_ResearchSpeedFactor.patch.label>
+            <StatPatch_MedicalTendQualityOffset.patch.label>Fator de qualidade de tratamento</StatPatch_MedicalTendQualityOffset.patch.label>
+            <StatPatch_ImmunityGainSpeedFactor.patch.label>Fator de ganho de imunidade</StatPatch_ImmunityGainSpeedFactor.patch.label>
+            <StatPatch_WorkTableWorkSpeedFactor.patch.label>Fator de velocidade de trabalho</StatPatch_WorkTableWorkSpeedFactor.patch.label>
+            <StatPatch_WorkTableEfficiencyFactor.patch.label>Fator de eficiência do trabalho</StatPatch_WorkTableEfficiencyFactor.patch.label>
+            <StatPatch_JoyGainFactor.patch.label>Poder de recreação</StatPatch_JoyGainFactor.patch.label>
+            <StatPatch_SurgerySuccessChanceFactor.patch.label>Fator de chance de sucesso</StatPatch_SurgerySuccessChanceFactor.patch.label>
+
+        <!-- General -->
+            <StatPatch_MaxHitPoints.patch.label>Pontos de vida</StatPatch_MaxHitPoints.patch.label>
+            <StatPatch_MarketValue.patch.label>Valor de mercado</StatPatch_MarketValue.patch.label>
+            <StatPatch_SellPriceFactor.patch.label>Multiplicador de preço de venda</StatPatch_SellPriceFactor.patch.label>
+            <StatPatch_WorkToMake.patch.label>Trabalho para fazer</StatPatch_WorkToMake.patch.label>
+            <StatPatch_Beauty.patch.label>Beleza</StatPatch_Beauty.patch.label>
+            <StatPatch_Nutrition.patch.label>Nutrição</StatPatch_Nutrition.patch.label>
+            <StatPatch_ShootingAccuracyTurret.patch.label>Precisão de tiro</StatPatch_ShootingAccuracyTurret.patch.label>
             <StatPatch_MoveSpeed.patch.label>Velocidade de movimento</StatPatch_MoveSpeed.patch.label>
             <StatPatch_MentalBreakThreshold.patch.label>Limite de colapso mental</StatPatch_MentalBreakThreshold.patch.label>
             <StatPatch_GlobalLearningFactor.patch.label>Fator de aprendizagem global</StatPatch_GlobalLearningFactor.patch.label>
@@ -62,5 +83,23 @@
             <StatPatch_ButcheryMechanoidSpeed.patch.label>Eficiência de destruição mecanoide</StatPatch_ButcheryMechanoidSpeed.patch.label>
             <StatPatch_ButcheryFleshEfficiency.patch.label>Eficiência de esquartejamento</StatPatch_ButcheryFleshEfficiency.patch.label>
             <StatPatch_ButcheryMechanoidEfficiency.patch.label>Eficiência de destruição mecanoide</StatPatch_ButcheryMechanoidEfficiency.patch.label>
+
+        <!-- Stuff -->
+            <StatPatch_StuffPower_Armor_Sharp.patch.label>Armadura - Cortante</StatPatch_StuffPower_Armor_Sharp.patch.label>
+            <StatPatch_StuffPower_Armor_Blunt.patch.label>Armadura - Contundente</StatPatch_StuffPower_Armor_Blunt.patch.label>
+            <StatPatch_StuffPower_Armor_Heat.patch.label>Armadura - Calor</StatPatch_StuffPower_Armor_Heat.patch.label>
+            <StatPatch_StuffPower_Insulation_Cold.patch.label>Isolamento - Frio</StatPatch_StuffPower_Insulation_Cold.patch.label>
+            <StatPatch_StuffPower_Insulation_Heat.patch.label>Isolamento - Calor</StatPatch_StuffPower_Insulation_Heat.patch.label>
+
+        <!-- Melee -->
+            <StatPatch_MeleeWeapon_DamageMultiplier.patch.label>Multiplicador de dano corpo a corpo</StatPatch_MeleeWeapon_DamageMultiplier.patch.label>
+
+        <!-- Ranged -->
+            <StatPatch_AccuracyTouch.patch.label>Precisão (queima roupa)</StatPatch_AccuracyTouch.patch.label>
+            <StatPatch_AccuracyShort.patch.label>Precisão (pequeno)</StatPatch_AccuracyShort.patch.label>
+            <StatPatch_AccuracyMedium.patch.label>Precisão (médio)</StatPatch_AccuracyMedium.patch.label>
+            <StatPatch_AccuracyLong.patch.label>Precisão (longo)</StatPatch_AccuracyLong.patch.label>
+            <StatPatch_RangedWeapon_Cooldown.patch.label>Tempo de recarga a distância</StatPatch_RangedWeapon_Cooldown.patch.label>
+            <StatPatch_RangedWeapon_DamageMultiplier.patch.label>Multiplicador de dano</StatPatch_RangedWeapon_DamageMultiplier.patch.label>
 
 </LanguageData>

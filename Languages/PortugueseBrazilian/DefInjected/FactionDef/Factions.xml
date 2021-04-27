@@ -38,6 +38,12 @@
             <VFEM_KingdomSavage.label>reino selvagem</VFEM_KingdomSavage.label>
             <VFEM_KingdomSavage.description>Essas pessoas estão aqui há menos tempo do que seus irmãos neolíticos. Acredita-se que alguns povos tribais e estrangeiros abraçaram os modos de vida medieval e decidiram se unir.\n\nApesar de ainda serem tecnologicamente inferiores a muitas outras facções, os súditos deste reino são conhecidos por usarem fortificações imponentes para proteger seus ativos, bem como adotando o uso de escudos em combate e luta de uma maneira particularmente ordenada.\n\nEste reino em particular é impulsionado por uma cultura de guerra; você não será capaz de se aliar a eles!</VFEM_KingdomSavage.description>
 
+        <!-- New Kingdom -->
+            <VFEM_PlayerKingdom.label>Novo Reino</VFEM_PlayerKingdom.label>
+            <VFEM_PlayerKingdom.description>Um pequeno reino.</VFEM_PlayerKingdom.description>
+            <VFEM_PlayerKingdom.pawnSingular>subordinado</VFEM_PlayerKingdom.pawnSingular>
+            <VFEM_PlayerKingdom.pawnsPlural>subordinados</VFEM_PlayerKingdom.pawnsPlural>
+
     <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Civil -->
             <SettlerCivil.label>colonizadores civis</SettlerCivil.label>
@@ -57,6 +63,27 @@
             <SettlerSavage.description>Essas pessoas viveram aqui por décadas ou séculos e perderam a maior parte da tecnologia que os trouxe a este mundo. Eles são uma confederação de gangues de bandidos que concordaram em lutar contra estranhos em vez de lutar entre si.\n\nBandidos não semeiam, não constroem e raramente comercializam. Impulsionados por uma cultura de sangue e honra que valoriza a força pessoal e a crueldade, eles se enriquecem atacando e roubando seus vizinhos mais produtivos.</SettlerSavage.description>
             <SettlerSavage.pawnSingular>bandido</SettlerSavage.pawnSingular>
             <SettlerSavage.pawnsPlural>bandidos</SettlerSavage.pawnsPlural>
+
+        <!-- New Hideout -->
+            <VFES_PlayerSettlement.label>Novo Esconderijo</VFES_PlayerSettlement.label>
+            <VFES_PlayerSettlement.description>Um pequeno esconderijo de membros de gangues e criminosos.</VFES_PlayerSettlement.description>
+            <VFES_PlayerSettlement.pawnSingular>bandido</VFES_PlayerSettlement.pawnSingular>
+            <VFES_PlayerSettlement.pawnsPlural>bandidos</VFES_PlayerSettlement.pawnsPlural>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Rough -->
+            <VFEV_VikingsClan.label>clã feroz</VFEV_VikingsClan.label>
+            <VFEV_VikingsClan.description>Esses membros do clã estão aqui há muito tempo. Talvez seus ancestrais tenham caído aqui há mil anos, como sugerem suas lendas. Em qualquer caso, os nórdicos são pessoas ferozes que vivem do trabalho de outros e não têm medo de usar a força para pegar o que não é deles.\n\nEmbora não sejam tão avançados tecnologicamente como outras facções, os nórdicos podem ser valiosos aliados e um inimigo terrível devido à sua resistência e modos selvagens.\n\nEste clã em particular valoriza o domínio guerreiro; pode ser difícil transformá-los em aliados.</VFEV_VikingsClan.description>
+
+        <!-- Savage -->
+            <VFEV_VikingsSlaver.label>clã selvagem</VFEV_VikingsSlaver.label>
+            <VFEV_VikingsSlaver.description>Esses membros do clã estão aqui há muito tempo. Talvez seus ancestrais tenham caído aqui há mil anos, como sugerem suas lendas. Em qualquer caso, os nórdicos são pessoas ferozes que vivem do trabalho de outros e não têm medo de usar a força para pegar o que não é deles.\n\nEmbora não sejam tão avançados tecnologicamente como outras facções, os nórdicos podem ser valiosos aliados e um inimigo terrível devido à sua resistência e modos selvagens.\n\nEste clã em particular causa estragos nos assentamentos circundantes e leva todos os sobreviventes à escravidão - será muito difícil se tornar seu aliado!</VFEV_VikingsSlaver.description>
+
+        <!-- New Clan -->
+            <VFEV_PlayerClan.label>Novo Clã</VFEV_PlayerClan.label>
+            <VFEV_PlayerClan.description>Um pequeno clã.</VFEV_PlayerClan.description>
+            <VFEV_PlayerClan.pawnSingular>membro</VFEV_PlayerClan.pawnSingular>
+            <VFEV_PlayerClan.pawnsPlural>membros</VFEV_PlayerClan.pawnsPlural>
 
     <!-- Zombieland -->
         <!-- Zombies -->

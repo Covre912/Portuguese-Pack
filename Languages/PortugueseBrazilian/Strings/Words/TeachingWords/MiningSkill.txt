@@ -1,98 +1,93 @@
-prospecção
-garimpeiros
-mineração
-mineiros
-escavação
-minerais
-pedras
-picaretas
-pedreiras
-calcário
-ardósia
-basalto
-granito
-mármore
-arenito
-metais básicos
-explosões
-explosões violentas
-mineração usando dinamites
-mineração de pilares
-mineração de grade
-cominuição
-túneis
-depósitos de minério
-treinos
-deriva
-picaretas
-perfuração
-minérios de primeira classe
-paredes
-flutuadores
-moedores
-minério de ferro
-mineração de paredes
-metalurgia
-mineração
-minas
 afloramentos
-minérios
-metais preciosos
-processamento
-produção
-quartzo
-refinação
-telhados
-veios
-poços de minas
-rejeitos
-veias
-veios de minério
-desperdício
-mineração de urânio
-mineração de plastiaço
-mineração de aço
-mineração de componentes
-mineração de pedras
-mineração de jade
-jade
-rubi
-safira
-diamantes
-obsidiana
-minecraft
-desperdício
-mineração a céu aberto
-geologia
-mineração de meteoros
-meteoros
-mineração profunda
-brocas profundas
-localização de minérios
-próteses de mineração
-desmoronamentos
-doenças subterrâneas
-infestações
-técnicas de mineração
-capacetes de mineração
-segurança de mineração
-depósitos de combustível químico
-depósitos de gás helixien
+ardósia
+arenito
 atividade sísmica
-mineração de jade
-mineração de ouro
-mineração transversal
-destroços
-cogumelos da caverna
-subterrâneo
-iluminação
-túneis
-iluminação de túneis
+basalto
+brocas profundas
+calcário
+capacetes de mineração
 cascalho
 cavernas naturais
-estruturas antigas
+cogumelos da caverna
+cominuição
 defesa contra insetos
-geodes
+depósitos de combustível químico
+depósitos de gás helixien
+depósitos de minério
+deriva
+desmoronamentos
+desperdício
+destroços
+diamantes
+doenças subterrâneas
+escavação
+estruturas antigas
+explosões
+explosões violentas
+flutuadores
 formações montanhosas
-vida subterrânea
+garimpeiros
+geodes
+geologia
+granito
+iluminação
+iluminação de túneis
+infestações
+jade
+localização de minérios
+mármore
+metais básicos
+metais preciosos
+metalurgia
+meteoros
+minas
+minecraft
+mineiros
+minerais
+mineração
+mineração a céu aberto
+mineração de aço
+mineração de componentes
+mineração de grade
+mineração de jade
+mineração de meteoros
+mineração de ouro
+mineração de paredes
+mineração de pedras
+mineração de pilares
+mineração de plastiaço
+mineração de urânio
+mineração profunda
+mineração transversal
+mineração usando dinamites
+minério de ferro
+minérios
+minérios de primeira classe
+moedores
+obsidiana
+paredes
+pedras
+pedreiras
+perfuração
+picaretas
+poços de minas
+processamento
+produção
+prospecção
+próteses de mineração
+quartzo
+refinação
+rejeitos
+rubi
+safira
+segurança de mineração
 sobrevivência
+subterrâneo
+técnicas de mineração
+telhados
+treinos
+túneis
+veias
+veios
+veios de minério
+vida subterrânea

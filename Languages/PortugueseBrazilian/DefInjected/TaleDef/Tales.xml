@@ -315,7 +315,7 @@
                 <li>tale_noun->[PAWN_nameDef] descontando sua raiva em um [OBJECT_label]</li>
                 <li>tale_noun->[PAWN_nameDef] olhando com raiva para um [OBJECT_label]</li>
                 <li>tale_noun->[PAWN_nameDef] divertindo-se com um [OBJECT_label]</li>
-                <li>image->[PAWN_nameFull] equilibrad{PAWN_gender ? o : a} sobre o [OBJECT_label], [circumstance_group]</li>
+                <li>image->[PAWN_nameFull] equilibrado(a) sobre o [OBJECT_label], [circumstance_group]</li>
                 <li>image->[PAWN_nameFull] socando o [OBJECT_label], [circumstance_group]</li>
                 <li>circumstance_phrase->tenso com energia</li>
                 <li>circumstance_phrase->com corpo solto e relaxado</li>
@@ -335,15 +335,15 @@
                 <li>tale_noun->[PAWN_nameDef] focando fortemente no [OBJECT_label] em sua frente</li>
                 <li>tale_noun->[PAWN_nameDef] olhando com raiva para um [OBJECT_label]</li>
                 <li>tale_noun->[PAWN_nameDef] divertindo-se com um [OBJECT_label]</li>
-                <li>image->[PAWN_nameFull] equilibrad{PAWN_gender ? o : a} sobre o [OBJECT_label], [circumstance_group]</li>
+                <li>image->[PAWN_nameFull] equilibrado(a) sobre o [OBJECT_label], [circumstance_group]</li>
                 <li>image->[PAWN_nameFull] digitando pesadamente no [OBJECT_label], [circumstance_group]</li>
-                <li>circumstance_phrase->concrentrad{PAWN_gender ? o : a}</li>
+                <li>circumstance_phrase->concrentrad(a)</li>
                 <li>circumstance_phrase->com corpo solto e relaxado</li>
                 <li>circumstance_phrase->recostado em sua cadeira</li>
                 <li>desc_sentence->Uma aurora [Color] brilha no fundo.</li>
                 <li>desc_sentence->À distância, uma [Community] é visível.</li>
-                <li>desc_sentence->À distância, uma [TerrainFeature] é visível.</li>
-                <li>desc_sentence->[PAWN_nameDef] focad{PAWN_gender ? o : a} na tela.</li>
+                <li>desc_sentence->À distância, um(a) [TerrainFeature] é visível.</li>
+                <li>desc_sentence->[PAWN_nameDef] focado(a) na tela.</li>
                 <li>desc_sentence->[PAWN_nameDef] eleva-se acima da cena.</li>
             </Tale_UsedComputer.rulePack.rulesStrings>
 

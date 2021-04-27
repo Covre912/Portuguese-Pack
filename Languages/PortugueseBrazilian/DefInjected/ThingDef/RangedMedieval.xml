@@ -15,6 +15,21 @@
             <VFES_Tomahawk.tools.1.label>lâmina</VFES_Tomahawk.tools.1.label>
             <VFES_Tomahawk_Thrown.label>tomahawk</VFES_Tomahawk_Thrown.label>
 
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Throwing Axe -->
+            <VFE_ThrowingAxe.label>machado arremessável</VFE_ThrowingAxe.label>
+            <VFE_ThrowingAxe.description>Um machado feito para ser arremesado. Leve o suficiente para ser lançado com precisão em um alcance médio, também é uma ótima arma corpo a corpo.</VFE_ThrowingAxe.description>
+            <VFE_ThrowingAxe.tools.0.label>cabo</VFE_ThrowingAxe.tools.0.label>
+            <VFE_ThrowingAxe.tools.1.label>lâmina</VFE_ThrowingAxe.tools.1.label>
+            <VFEV_ThrowingAxe_Thrown.label>machado</VFEV_ThrowingAxe_Thrown.label>
+
+        <!-- Harpoon -->
+            <VFE_Harpoon.label>arpão</VFE_Harpoon.label>
+            <VFE_Harpoon.description>Uma arma em forma de lança longa, geralmente usada na pesca e na caça. Pode ser arremessada a uma distância muito longa e tem um poder de parada significativo.</VFE_Harpoon.description>
+            <VFE_Harpoon.tools.0.label>cabo</VFE_Harpoon.tools.0.label>
+            <VFE_Harpoon.tools.1.label>ponta</VFE_Harpoon.tools.1.label>
+            <VFEV_Harpoon_Thrown.label>arpão</VFEV_Harpoon_Thrown.label>
+
     <!-- Vanilla Weapons Expanded -->
         <!-- Crossbow -->
             <VWE_Bow_Crossbow.label>besta</VWE_Bow_Crossbow.label>

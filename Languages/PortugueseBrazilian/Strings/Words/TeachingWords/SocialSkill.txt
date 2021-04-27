@@ -1,157 +1,141 @@
-infância
-traumas de infância
-amores de infância
-experiências de infância
-vida
-desafios da vida
-recompensas da vida
-memórias de vida
-objetivos de vida
-arrependimentos da vida
-estresses da vida
-a decepção da vida
-a inutilidade da vida
 a aleatoriedade da vida
-esperança
-maturidade
-idade adulta
-crianças
-medos
-pesadelos
-sucesso
-a moralidade da pobreza
-a moralidade da riqueza
-
-morte
-inevitabilidade da morte
-liberação da morte
-vida após a morte
-entes queridos mortos
-amigos ausentes
-
-caridade
-filantropia
-ajuda aos oprimidos
-ajuda aos enfermos
-ajuda aos pobres
-
-alienígenas
-contato alienígena
-conspirações alienígenas
 a ausência de alienígenas
-conspirações do governo
-conspirações religiosas
-
-as estrelas
-outros planetas
-este planetas
+a decepção da vida
 a escala do universo
 a idade do universo
-o destino do universo
-o homem no universo
-
-primitivismo
-ludismo
-tecnlogia
-inteligência da máquina
-inteligência artificial
-tecnlogia computacional
-tecnlogia bélica
-
-sociedade
-moralidade
-liberdade
-leis
-governo
-direitos
-história
-terror
-terrorismo
-política
-honra
-problemas sociais
-o mercado
-liberdade
-autoritarismo
-anarquia
-injustiça
-verdade
-tribalismo
-preferências
-
-filosodia
-realidade
-cultura
-diferenças culturais
-choque cultural
-natureza humana
-humanidade
-religião
-o significado da vida
-identidade
-eternidade
-monismo
-dualismo
-epistemologia
-honestidade
-liberdade de expressão
-etnias
-liberalismo
 a inevitabilidade do sofrimento
-a natureza do conhecimento
+a inutilidade da vida
+a moralidade da pobreza
+a moralidade da riqueza
 a natureza da emoção
-
+a natureza do conhecimento
+a Ordo História
+a unidade Johnson-Tanka
+ajuda aos enfermos
+ajuda aos oprimidos
+ajuda aos pobres
+alfas
+alienígenas
+ambição artística
+amigos ausentes
+amor
+amores de infância
+anarquia
+archotechs
+arquotecnologia
+arrependimentos da vida
+arte
+as estrelas
+autoritarismo
+barganha
+canibalismo
+caravanas
+caridade
+choque cultural
+conspirações alienígenas
+conspirações do governo
+conspirações religiosas
+contato alienígena
+conversa fiada
+corporações
+crianças
+criptossono
+cultura
+desafios da vida
 destino
+diferenças culturais
+direitos
+dualismo
+entes queridos mortos
+epistemologia
+esperança
+este planetas
+estética humana
+estresses da vida
+eternidade
+ética
+etnias
+experiências de infância
+feminilidade
+filantropia
+filosodia
+fios de alegria
+geração de chips
+gestão de prisão
+governo
+guarda
+história
+história da arte
+honestidade
+honra
+humanidade
+idade adulta
+identidade
+inevitabilidade da morte
+infância
+injustiça
+instintos artísticos
+inteligência artificial
+inteligência da máquina
+justiça criminal
+leis
+liberalismo
+liberação da morte
+liberdade
+liberdade de expressão
+lucro
+ludismo
+máquinas auto-replicantes
+masculinidade
+maturidade
+mecanóides
+medos
+memórias de vida
+modificação genética
+monismo
+moralidade
+moralidade sexual
+morte
+movimentos artísticos
+mundos centrais
+mundos mortos
+mundos urbanos
+natureza humana
+negociação
 o destino da humanidade
 o destino do universo
-
-arte
-movimentos artísticos
-ambição artística
-estética humana
-instintos artísticos
-história da arte
-
-amor
+o homem no universo
+o mercado
+o significado da vida
+objetivos de vida
+outros planetas
+personas da máquina
+pesadelos
+política
+preferências
+primitivismo
+prisioneiros
+problemas sociais
+psicologia
+realidade
+recompensas da vida
+religião
+rimworld
 romance
 sexualidade
-moralidade sexual
-masculinidade
-feminilidade
-
-máquinas auto-replicantes
-geração de chips
+sociedade
 sondas von neumann
-
-arquotecnologia
-archotechs
-personas da máquina
-a unidade Johnson-Tanka
-a Ordo História
-velha Terra
-rimworld
-mundos centrais
-criptossono
-tumbas de criptossono
-mecanóides
-canibalismo
-modificação genética
-alfas
-mundos urbanos
-mundos mortos
 steam
-fios de alegria
-
-negociação
-conversa fiada
-barganha
-política
-lucro
-justiça criminal
-corporações
-guarda
-gestão de prisão
-prisioneiros
-caravanas
-psicologia
-ética
+sucesso
+tecnlogia
+tecnlogia bélica
+tecnlogia computacional
+terror
+terrorismo
+traumas de infância
+tribalismo
+tumbas de criptossono
+velha Terra
+verdade
+vida
+vida após a morte

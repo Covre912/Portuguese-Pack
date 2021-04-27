@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Feast -->
+            <VFEV_Feast.label>banquete</VFEV_Feast.label>
+            <VFEV_Feast.letterTitle>Banquete</VFEV_Feast.letterTitle>
+            <VFEV_Feast.letterText>{ORGANIZER_labelShort} sugere um banquete após a última verificação de estoque para elevar a moral. Esteja avisado - As festas podem durar até 48h. Os colonos se empanturrarão de comida e drogas até que tudo acabe. Simplesmente aliste seus colonos para impedi-los de participarem.</VFEV_Feast.letterText>
+            <VFEV_Feast.calledOffMessage>O banquete foi cancelado.</VFEV_Feast.calledOffMessage>
+            <VFEV_Feast.finishedMessage>O banquete terminou.</VFEV_Feast.finishedMessage>
+
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Meal Together -->
             <VSIE_MealTogether.label>jantar romântico</VSIE_MealTogether.label>

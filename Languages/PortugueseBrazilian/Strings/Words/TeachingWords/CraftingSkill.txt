@@ -1,60 +1,58 @@
-metalurgia
-ferreiros
-artesãos
-habilidade manual
-artesãos
-comerciantes
-ligas
-temperos
-esculturas
-dobradura de metal
-laminação de metal
-forjas
-montagem
-alfaiataria
-manufatura
-mecânica
-armeiros
-tecelagem
-costura
-fundição de materiais
-fabricação de barricadas
-limpeza de explosões
-manuntenção da forja
-cunhagem
-forjamento cruzado
-carpentaria
-fabricação de pranchas
-marteladas
-fole
-vidro soprado
-estresse térmico
-moagem
-serras de fita
-polimento
-alfaiataria sob medida
-tricô
-tear
-pesponto
-envernizamento
-crochê
-carretéis
-linha de agulha
 acolchoados
-armeiros
-engraxate
-couro
-bronzeamento
-fabricação de soda cáustica
-modelagem de tijolos
+alfaiataria
+alfaiataria sob medida
 alisamento de pedra
-rebitagem
+armeiros
+arremesso de argila
+artesãos
+bronzeamento
+carpentaria
+carretéis
+cerâmica em espiral
+comerciantes
+costura
+couro
+crochê
+cuidado com ferramentas
+cunhagem
+cura
+dobradura de metal
+endurecimento de couro
+engraxate
+envernizamento
+esculturas
 estamparia de metal
+estresse térmico
+fabricação de barricadas
+fabricação de pranchas
+fabricação de soda cáustica
+ferreiros
+fole
+forjamento cruzado
+forjas
+fundição de materiais
+habilidade manual
+laminação de metal
+ligas
+limpeza de explosões
+linha de agulha
+manufatura
+manuntenção da forja
+marteladas
+mecânica
+metalurgia
+moagem
+modelagem de tijolos
+montagem
+pesponto
+polimento
+rebitagem
 remendos
 roupas modernas
 roupas práticas
-endurecimento de couro
-cura
-arremesso de argila
-cerâmica em espiral
-cuidado com ferramentas
+serras de fita
+tear
+tecelagem
+temperos
+tricô
+vidro soprado

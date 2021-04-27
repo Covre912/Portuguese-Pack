@@ -223,6 +223,27 @@
             <DrunkMuffalos.label>Múfalos bêbados</DrunkMuffalos.label>
             <DrunkMuffalosLTS.label>Múfalos bêbados</DrunkMuffalosLTS.label>
 
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Raid (Slavers) -->
+            <VFEV_SlaverRaid.label>invasão (escravistas)</VFEV_SlaverRaid.label>
+            <VFEV_SlaverRaid.letterLabel>Invasão (Escravistas)</VFEV_SlaverRaid.letterLabel>
+            <VFEV_SlaverRaid.letterText>Um grupo de escravistas chegou por perto. Eles usarão lébreis irlandeses para caçar seus colonos e sequestrá-los assim que puderem. Eles não estão interessados ​​em causar dano e destruir sua base.</VFEV_SlaverRaid.letterText>
+
+        <!-- Raid (Pillage) -->
+            <VFEV_PillageRaid.label>invasão (saqueadores)</VFEV_PillageRaid.label>
+            <VFEV_PillageRaid.letterLabel>Invasão (Saqueadores)</VFEV_PillageRaid.letterLabel>
+            <VFEV_PillageRaid.letterText>Um grupo de saqueadores chegou por perto. Eles usarão tochas para incendiar sua base e não estão interessados ​​em lutar e só querem roubar sua propriedade.</VFEV_PillageRaid.letterText>
+
+        <!-- Mysterious Wanderer -->
+            <VFE_MysteriousHeroJoins.label>viajante misterioso</VFE_MysteriousHeroJoins.label>
+            <VFE_MysteriousHeroJoins.letterLabel>Viajante misterioso</VFE_MysteriousHeroJoins.letterLabel>
+            <VFE_MysteriousHeroJoins.letterText>Sentindo problemas, ou talvez pressagiando uma época de turbulência, um misterioso [PAWN_kind] chegou.\n\nSerá que [PAWN_pronoun] capaz de ajudar a colônia nestes tempos sombrios?</VFE_MysteriousHeroJoins.letterText>
+
+        <!-- Mysterious Legend -->
+            <VFE_MysteriousLegendJoins.label>lenda misteriosa</VFE_MysteriousLegendJoins.label>
+            <VFE_MysteriousLegendJoins.letterLabel>Lenda misteiosa</VFE_MysteriousLegendJoins.letterLabel>
+            <VFE_MysteriousLegendJoins.letterText>Percebendo a tragédia que atingiu sua colônia, ua misteriosa [PAWN_kind] chegou.\n\nSerá que [PAWN_pronoun] é capz de consertar as coisas?</VFE_MysteriousLegendJoins.letterText>
+
     <!-- Vanilla Social Interactions Expanded -->
         <!-- One Night Stand -->
             <VSIE_OneNightStand.label>Encontro casual</VSIE_OneNightStand.label>

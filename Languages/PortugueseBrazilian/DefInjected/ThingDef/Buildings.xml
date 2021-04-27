@@ -571,12 +571,60 @@
             <TableFiveFingerFilet.description>Uma mesa de madeira para jogar filete de cinco dedos. É possível perder um dedo ou dois.\n\nEmbora esta atividade cause cortes nos dedos dos jogadores, ela também treina lentamente a habilidade corpo a corpo.</TableFiveFingerFilet.description>
 
         <!-- Gatiling Gun -->
+            <Turret_GatlingGun.label>metralhadora</Turret_GatlingGun.label>
+            <Turret_GatlingGun.description>Uma metralhadora portátil antiga. Precisa ser tripulada para ser operada. Requer aço para substituir seus canos após muito uso. Pode explodir quando for danificada.</Turret_GatlingGun.description>
             <Gun_GatlingGun.label>metralhadora</Gun_GatlingGun.label>
             <Gun_GatlingGun.description>Uma metralhadora automática simples feita para ser montada.</Gun_GatlingGun.description>
+            <Bullet_GatlingGun.label>tiro de metralhadora</Bullet_GatlingGun.label>
 
         <!-- Windmill -->
             <Windmill.label>moinho de vento</Windmill.label>
             <Windmill.description>Um gerador elétrico antigo movido a vento. Requer um grande espaço livre na frente e atrás para um fluxo de ar ideal.</Windmill.description>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Fur Bed -->
+            <VFEV_FurBed.label>cama forrada</VFEV_FurBed.label>
+            <VFEV_FurBed.description>Uma cama com estrutura de madeira estofada com grama seca e coberta com uma variedade de peles e couros para fornecer isolamento extra durante as noites frias. O calor desta cama neutraliza a hipotermia.</VFEV_FurBed.description>
+
+        <!-- Double Fur Bed -->
+            <VFEV_DoubleFurBed.label>cama de casal forrada</VFEV_DoubleFurBed.label>
+            <VFEV_DoubleFurBed.description>Uma cama com estrutura de madeira estofada com grama seca e coberta com uma variedade de peles e couros para fornecer isolamento extra durante as noites frias. O calor desta cama neutraliza a hipotermia. Suporta duas pessoas.</VFEV_DoubleFurBed.description>
+
+        <!-- Hnefatafl Table -->
+            <VFEV_Hnefatafl.label>mesa de tafl</VFEV_Hnefatafl.label>
+            <VFEV_Hnefatafl.description>Um antigo jogo de tabuleiro. Ao contrário do Xadrez, este jogo é assimétrico, um jogador deve retirar seu Guerreiro com segurança para a borda do tabuleiro e o outro jogador deve capturar o Guerreiro inimigo antes que ele escape. Notavelmente, mais lutas parecem acontecer por causa do Tafl em comparação com outros jogos.</VFEV_Hnefatafl.description>
+
+        <!-- Training Dummy -->
+            <VFEV_TrainingDummy.label>manequim de treinamento</VFEV_TrainingDummy.label>
+            <VFEV_TrainingDummy.description>Um manequim de alvo feito de madeira, solo e matéria vegetal seca. Surpreendentemente durável, permite-se treinar sua habilidade com a espadasem correr nenhum risco.</VFEV_TrainingDummy.description>
+
+        <!-- Mead Fermenting Barrel -->
+            <VFEV_MeadFermentingBarrel.label>barril de hidromel</VFEV_MeadFermentingBarrel.label>
+            <VFEV_MeadFermentingBarrel.description>Um barril muito simples, unido por uma série de encaixes.</VFEV_MeadFermentingBarrel.description>
+
+        <!-- Apiary -->
+            <VFEV_Apiary.label>apiário</VFEV_Apiary.label>
+            <VFEV_Apiary.description>Uma estrutura semelhante a uma caixa de madeira com uma série de prateleiras, treliças e câmaras. Quando colocada perto de flores, o apiário naturalmente atrairá abelhas selvagens que farão dele seu novo lar. Com o tempo, essas abelhas produzirão mel que pode ser colhido e comido diretamente ou, posteriormente, fermentado em hidromel.</VFEV_Apiary.description>
+
+        <!-- Face Painting Table -->
+            <VFE_TableFacePaints.label>mesa de pintura facial</VFE_TableFacePaints.label>
+            <VFE_TableFacePaints.description>Uma mesa com um vasto sortido de pigmentos e pincéis para pintura facial.</VFE_TableFacePaints.description>
+
+        <!-- Rune Stone -->
+            <VFEV_RuneStone.label>pedra rúnica</VFEV_RuneStone.label>
+            <VFEV_RuneStone.description>Uma estrutura vagamente entalhada e suavizada atribuída a um texto antigo e padrões ornamentados. Antigas tribos do norte eram conhecidas por orar nesses santuários, bem como mantê-los em seus corredores como decoro estético.</VFEV_RuneStone.description>
+
+        <!-- Runed Column -->
+            <VFEV_RunedColumn.label>coluna rúnica</VFEV_RunedColumn.label>
+            <VFEV_RunedColumn.description>Uma coluna com gravuras ornamentadas em uma linguagem supostamente misteriosa apenas legível por poucos. Muito agradável de se ver, ao mesmo tempo que é um suporte prático para o telhado.</VFEV_RunedColumn.description>
+
+        <!-- Hearth -->
+            <VFEV_Hearth.label>lareira</VFEV_Hearth.label>
+            <VFEV_Hearth.description>Uma grande fogueira fechada, capaz de conter grandes quantidades de madeira de uma só vez. Fornece calor e luz para salões e atua como um ponto de encontro para colonos ociosos.</VFEV_Hearth.description>
+
+        <!-- Funeral Pyre -->
+            <VFEV_FuneralPyre.label>pira funerária</VFEV_FuneralPyre.label>
+            <VFEV_FuneralPyre.description>Uma pilha cerimonial de madeira, erguida temporariamente para a realização de funerais honrosos.</VFEV_FuneralPyre.description>
 
     <!-- Vanilla Furniture Expanded -->
         <!-- Slab Bed -->
@@ -1094,7 +1142,7 @@
             <VFE_TableTailorLarge.label>bancada de alfaiate</VFE_TableTailorLarge.label>
             <VFE_TableTailorLarge.description>Uma bancada de alfaiate com diversas ferramentas e uma máquina de costura para costura rápida de roupas. Pode funcionar sem eletricidade a 33% da velocidade normal.</VFE_TableTailorLarge.description>
 
-    <!-- Vanilla Furniture Expanded - Security Module -->
+    <!-- Vanilla Furniture Expanded - Security -->
         <!-- Deployable Barrier -->
             <VFES_DeployableBarrier.label>barreira submersível</VFES_DeployableBarrier.label>
             <VFES_DeployableBarrier.description>Uma barreira submersível que atua como um ladrilho normal quando sem energia. Fornece excelente cobertura de ataques à distância.</VFES_DeployableBarrier.description>

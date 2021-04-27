@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+	    <mods>
+		    <li>Vanilla Factions Expanded - Vikings</li>
+	    </mods>
+        <match Class="PatchOperationSequence">
+            <operations>
+
+                <!-- Crypto Bleed -->
+                    <li Class="PatchOperationReplace">
+                        <xpath>Defs/HediffDef[@Name = "VFEV_CryptoBleedBase"]/label</xpath>
+                        <value>
+                            <label>criptosangramento</label>
+                        </value>
+                    </li>
+
+                    <li Class="PatchOperationReplace">
+                        <xpath>Defs/HediffDef[@Name = "VFEV_CryptoBleedBase"]/description</xpath>
+                        <value>
+                            <description>A criptotecnologia experimental de uma armadura que retarda o sangramento.</description>
+                        </value>
+                    </li>
+
+                <!-- Faction -->
+                    <li Class="PatchOperationReplace">
+                        <xpath>Defs/FactionDef[@Name = "VFEV_VikingBase"]/pawnSingular</xpath>
+                        <value>
+                            <pawnSingular>nórdico</pawnSingular>
+                        </value>
+                    </li>
+
+                    <li Class="PatchOperationReplace">
+                        <xpath>Defs/FactionDef[@Name = "VFEV_VikingBase"]/pawnsPlural</xpath>
+                        <value>
+                            <pawnsPlural>nórdicos</pawnsPlural>
+                        </value>
+                    </li>
+
+                <!-- Base Shield -->
+                    <li Class="PatchOperationReplace">
+                        <xpath>Defs/ThingDef[@Name = "VFEV_BaseShield"]/tools</xpath>
+                        <value>
+                            <tools>
+                                <li>
+                                    <label>base</label>
+                                    <capacities>
+                                        <li>Poke</li>
+                                    </capacities>
+                                    <power>9</power>
+                                    <cooldownTime>2</cooldownTime>
+                                </li>
+                                <li>
+                                    <label>centro</label>
+                                    <labelUsedInLogging>false</labelUsedInLogging>
+                                    <capacities>
+                                        <li>Blunt</li>
+                                    </capacities>
+                                    <power>9</power>
+                                    <cooldownTime>2</cooldownTime>
+                                </li>
+                            </tools>
+                        </value>
+                    </li>
+
+                <!-- Base Crypto Shield -->
+                    <li Class="PatchOperationReplace">
+                        <xpath>Defs/ThingDef[@Name = "VFEV_BaseShieldCrypto"]/tools</xpath>
+                        <value>
+                            <tools>
+                                <li>
+                                    <label>base</label>
+                                    <capacities>
+                                        <li>Poke</li>
+                                    </capacities>
+                                    <power>9</power>
+                                    <cooldownTime>2</cooldownTime>
+                                </li>
+                                <li>
+                                    <label>centro</label>
+                                    <labelUsedInLogging>false</labelUsedInLogging>
+                                    <capacities>
+                                        <li>Blunt</li>
+                                    </capacities>
+                                    <power>9</power>
+                                    <cooldownTime>2</cooldownTime>
+                                </li>
+                            </tools>
+                        </value>
+                    </li>
+            
+            </operations>
+        </match>
+    </Operation>
+
+</Patch>

@@ -10,4 +10,15 @@
             <VFEM_Shield_Heater.label>escudo</VFEM_Shield_Heater.label>
             <VFEM_Shield_Heater.description>Um escudo de aço pesado de tamanho médio, com a frente decorativamente coberta por couro. Oferece uma quantidade significativa de proteção contra ataques corpo a corpo e à distância.</VFEM_Shield_Heater.description>
 
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Round Shield -->
+            <VFEV_Shield_Round.label>escudo circular</VFEV_Shield_Round.label>
+            <VFEV_Shield_Round.description>Um escudo de madeira unido por uma faixa de metal, finalizado com uma inserção de couro. Uma pulseira de couro e alça de metal também estão presentes na parte traseira para permitir manobras fáceis durante o combate.</VFEV_Shield_Round.description>
+
+        <!-- Crypto Shield -->
+            <VFEV_Shield_Crypto.label>cripto-escudo</VFEV_Shield_Crypto.label>
+            <VFEV_Shield_Crypto.description>Um campo criptotecnológico estabilizado enrolado em um quadro avançado, capaz de diminuir a velocidade dos átomos dos projéteis que chegam. Não protege contra o calor e ataques contundentes.</VFEV_Shield_Crypto.description>
+            <VFEV_Shield_Crypto.tools.0.label>base</VFEV_Shield_Crypto.tools.0.label>
+            <VFEV_Shield_Crypto.tools.1.label>centro</VFEV_Shield_Crypto.tools.1.label>
+
 </LanguageData>

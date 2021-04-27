@@ -2,25 +2,16 @@
 <LanguageData>
 
     <!-- Vanilla Factions Expanded - Medieval -->
-        <!-- Animal Herder -->
-            <VFEM_Caravan_Medieval_Farmer.label>pastores de animais</VFEM_Caravan_Medieval_Farmer.label>
+        <VFEM_Caravan_Medieval_Farmer.label>pastores de animais</VFEM_Caravan_Medieval_Farmer.label>
+        <VFEM_Caravan_Medieval_WineMerchant.label>comerciantes de vinho</VFEM_Caravan_Medieval_WineMerchant.label>
+        <VFEM_Caravan_Medieval_ArtPatron.label>patronos da arte</VFEM_Caravan_Medieval_ArtPatron.label>
+        <VFEM_Caravan_Medieval_Armourer.label>armeiros</VFEM_Caravan_Medieval_Armourer.label>
+        <VFEM_Caravan_Medieval_Weaponsmith.label>armeiros</VFEM_Caravan_Medieval_Weaponsmith.label>
+        <VFEM_Caravan_Medieval_Sellswords.label>mercenários</VFEM_Caravan_Medieval_Sellswords.label>
+        <VFEM_Visitor_Medieval_Standard.label>comerciantes</VFEM_Visitor_Medieval_Standard.label>
 
-        <!-- Wine Merchant -->
-            <VFEM_Caravan_Medieval_WineMerchant.label>comerciantes de vinho</VFEM_Caravan_Medieval_WineMerchant.label>
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <VFEV_Caravan_Looter.label>comerciante de pilhagem</VFEV_Caravan_Looter.label>
 
-        <!-- Art Patron -->
-            <VFEM_Caravan_Medieval_ArtPatron.label>patronos da arte</VFEM_Caravan_Medieval_ArtPatron.label>
-
-        <!-- Armorsmith -->
-            <VFEM_Caravan_Medieval_Armourer.label>armeiros</VFEM_Caravan_Medieval_Armourer.label>
-
-        <!-- Weaponsmith -->
-            <VFEM_Caravan_Medieval_Weaponsmith.label>armeiros</VFEM_Caravan_Medieval_Weaponsmith.label>
-
-        <!-- Sellswords -->
-            <VFEM_Caravan_Medieval_Sellswords.label>mercenários</VFEM_Caravan_Medieval_Sellswords.label>
-
-        <!-- Trader -->
-            <VFEM_Visitor_Medieval_Standard.label>comerciantes</VFEM_Visitor_Medieval_Standard.label>
 
 </LanguageData>

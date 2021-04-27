@@ -1,61 +1,59 @@
-espadas
-punhais
-clubes
-lanças de Yor
-ponta de lanças
-combate corpo a corpo
-fúria
-baionetas
-combate direto
-facas de defesa
-armaduras
-lanças
-cavaleiros
-lanceiros
-animais de batalha
-defesa pessoal
-artes marciais
-escudos
-táticas de escudo
-soldados
 afiação
-cuidado com armas
-facas
-machados
-controle emocional
-lanças
-cavalaria
+animais de batalha
 aparação
-contra-ataques
-improvisação
-baionetas
-esfaqueamento
-espeto
-barras
+armaduras
 armamento
-quedas
+armas de impulso
+artes marciais
+baionetas
+barras
 bloqueios
-formações
-marcha
 boxe
 briga
-óleos de lâmina
-réplica
-parceiros de luta
-posicionamento ofensivo
-furadores
-manuseio de alabardas
-lâminas de duelo
+cavalaria
+cavaleiros
+clube da luta
+clubes
+combate corpo a corpo
+combate direto
+contra-ataques
+controle emocional
+cuidado com armas
+cuidado com escudos
+cuidado com lâminas
 cuidados com porrete
+defesa pessoal
+escudos
+esfaqueamento
+espadas
+espeto
+facas
+facas de defesa
+formações
+fuga
+furadores
+fúria
 golpes esmagadores
 golpes famosos
-cuidado com lâminas
+honra
+improvisação
+lâminas de duelo
+lanceiros
+lanças
+lanças de Yor
 luta de escudo
-cuidado com escudos
-clube da luta
+machados
+manuseio de alabardas
+marcha
+nocaute
+óleos de lâmina
+parceiros de luta
+ponta de lanças
+posicionamento ofensivo
+punhais
+quedas
 regras de lutas
 render-se
-nocaute
-fuga
-honra
-armas de impulso
+réplica
+soldados
+táticas de escudo

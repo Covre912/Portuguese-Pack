@@ -2,36 +2,22 @@
 <LanguageData>
 
     <!-- RimCities - Citadel Update -->
-        <!-- Start City -->
-            <StartCity.label>iniciar em uma cidade (RimCities)</StartCity.label>
-
-        <!-- Start Citadel -->
-            <StartCitadel.label>iniciar próximo a uma cidadela (RimCities)</StartCitadel.label>
-
-        <!-- Start Equipment -->
-            <StartEquipment.label>dar a cada colono</StartEquipment.label>
-
-        <!-- Start Elite -->
-            <StartElite.label>colonos de elite</StartElite.label>
-
-        <!-- Start Allies -->
-            <StartAllies.label>iniciar com aliados</StartAllies.label>
-
-        <!-- Rescue Prisoners -->
-            <RescuePrisoners.label>resgatar prisioneiros</RescuePrisoners.label>
+        <StartCity.label>iniciar em uma cidade</StartCity.label>
+        <StartCitadel.label>iniciar próximo a uma cidadela</StartCitadel.label>
+        <StartEquipment.label>dar a cada colono</StartEquipment.label>
+        <StartElite.label>colonos de elite</StartElite.label>
+        <StartAllies.label>iniciar com aliados</StartAllies.label>
+        <RescuePrisoners.label>resgatar prisioneiros</RescuePrisoners.label>
 
     <!-- Vanilla Expanded Framework -->
-        <!-- Forced Factions Relations -->
-            <VFEC_ForcedFactionGoodwill.label>relações forçadas de facção</VFEC_ForcedFactionGoodwill.label>
-
-        <!-- Pawn Arrive Method -->
-            <VFEC_PlayerPawnsArriveMethodEdge.label>método de chegada do colono</VFEC_PlayerPawnsArriveMethodEdge.label>
-
-        <!-- Structure To Starting Map -->
-            <VFEC_AddStartingStructure.label>adicionar estrutura personalizada ao mapa inicial</VFEC_AddStartingStructure.label>
+        <VFEC_ForcedFactionGoodwill.label>relações forçadas de facção</VFEC_ForcedFactionGoodwill.label>
+        <VFEC_PlayerPawnsArriveMethodEdge.label>método de chegada do colono</VFEC_PlayerPawnsArriveMethodEdge.label>
+        <VFEC_AddStartingStructure.label>adicionar estrutura personalizada ao mapa inicial</VFEC_AddStartingStructure.label>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
-        <!-- Start With Pack Animal -->
-            <VFEM_StartingPackAnimal.label>começar com animal(is) de carga</VFEM_StartingPackAnimal.label>
+        <VFEM_StartingPackAnimal.label>começar com animal(is) de carga</VFEM_StartingPackAnimal.label>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <ScenPart_Settlement.label>gerar assentamento</ScenPart_Settlement.label>
 
 </LanguageData>

@@ -140,6 +140,11 @@
             <VFEM_HeavyCrossbow.label>besta pesada</VFEM_HeavyCrossbow.label>
             <VFEM_HeavyCrossbow.description>Crie bestas pesadas, capazes de disparar um projétil que não pode ser detido pela maioria das armaduras.</VFEM_HeavyCrossbow.description>
 
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Bee Keeping -->
+            <VFEV_Beekeeping.label>apicultura</VFEV_Beekeeping.label>
+            <VFEV_Beekeeping.description>Aprenda como manter as abelhas para produzir mel.</VFEV_Beekeeping.description>
+
     <!-- Vanilla Furniture Expanded -->
         <!-- Basic Furniture -->
             <MF_BasicFurniture.label>móveis básicos</MF_BasicFurniture.label>

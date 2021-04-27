@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- Crypto Heavy Axe -->
+            <VFEV_CryptoHeavyAxe.label>criptomachado pesado</VFEV_CryptoHeavyAxe.label>
+            <VFEV_CryptoHeavyAxe.description>Um machado de duas mãos de origem desconhecida com uma ponta de liga fria como gelo.\n\nAs cripto-armas são atadas com o que parece ser um revestimento criogênico ao longo de sua lâmina, os alvos atingidos por elas sem o isolamento adequado podem se sentir mutilados pela hipotermia.</VFEV_CryptoHeavyAxe.description>
+            <VFEV_CryptoHeavyAxe.tools.0.label>cabo</VFEV_CryptoHeavyAxe.tools.0.label>
+            <VFEV_CryptoHeavyAxe.tools.1.label>lâmina</VFEV_CryptoHeavyAxe.tools.1.label>
+
+        <!-- Crypto Hatchet -->
+            <VFEV_CryptoLightAxe.label>criptomachadinha</VFEV_CryptoLightAxe.label>
+            <VFEV_CryptoLightAxe.description>Uma machadinha de origem desconhecida, facilmente girável, com uma borda de liga fria como gelo.\n\nAs cripto-armas são atadas com o que parece ser um revestimento criogênico ao longo de sua lâmina, os alvos atingidos por elas sem o isolamento adequado podem se sentir mutilados pela hipotermia.</VFEV_CryptoLightAxe.description>
+            <VFEV_CryptoLightAxe.tools.0.label>cabo</VFEV_CryptoLightAxe.tools.0.label>
+            <VFEV_CryptoLightAxe.tools.1.label>lâmina</VFEV_CryptoLightAxe.tools.1.label>
+
     <!-- Vanilla Weapons Expanded - Laser -->
         <!-- Laser Sword -->
             <VWEL_LaserSword.label>espada laser</VWEL_LaserSword.label>
