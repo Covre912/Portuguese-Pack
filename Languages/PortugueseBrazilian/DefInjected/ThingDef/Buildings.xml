@@ -154,10 +154,15 @@
 
         <!-- Plastic Bricks Wall -->
             <VMEu_Wall_BricksBlue.label>parede de tijolos de plástico (azul)</VMEu_Wall_BricksBlue.label>
+            <VMEu_Wall_BricksBlue.description>Uma parede instransponível. Capaz de sustentar um telhado.</VMEu_Wall_BricksBlue.description>
             <VMEu_Wall_BricksRed.label>parede de tijolos de plástico (vermelho)</VMEu_Wall_BricksRed.label>
+            <VMEu_Wall_BricksRed.description>Uma parede instransponível. Capaz de sustentar um telhado.</VMEu_Wall_BricksRed.description>
             <VMEu_Wall_BricksWhite.label>parede de tijolos de plástico (branco)</VMEu_Wall_BricksWhite.label>
+            <VMEu_Wall_BricksWhite.description>Uma parede instransponível. Capaz de sustentar um telhado.</VMEu_Wall_BricksWhite.description>
             <VMEu_Wall_BricksBlack.label>parede de tijolos de plástico (preto)</VMEu_Wall_BricksBlack.label>
+            <VMEu_Wall_BricksBlack.description>Uma parede instransponível. Capaz de sustentar um telhado.</VMEu_Wall_BricksBlack.description>
             <VMEu_Wall_BricksBrown.label>parede de tijolos de plástico (marrom)</VMEu_Wall_BricksBrown.label>
+            <VMEu_Wall_BricksBrown.description>Uma parede instransponível. Capaz de sustentar um telhado.</VMEu_Wall_BricksBrown.description>
 
     <!-- Jewelry -->
         <!-- Diamond Ore -->

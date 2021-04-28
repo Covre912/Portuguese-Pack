@@ -978,10 +978,15 @@
 
         <!-- Plastic Bricks Tile -->
             <VMEu_TilePlastickBricks_Blue.label>ladrilho de tijolos de plástico (azul)</VMEu_TilePlastickBricks_Blue.label>
+            <VMEu_TilePlastickBricks_Blue.description>Tijolos de plástico colocados em um esquema de aparência fina.</VMEu_TilePlastickBricks_Blue.description>
             <VMEu_TilePlastickBricks_Red.label>ladrilho de tijolos de plástico (vermelho)</VMEu_TilePlastickBricks_Red.label>
+            <VMEu_TilePlastickBricks_Red.description>Tijolos de plástico colocados em um esquema de aparência fina.</VMEu_TilePlastickBricks_Red.description>
             <VMEu_TilePlastickBricks_White.label>ladrilho de tijolos de plástico (branco)</VMEu_TilePlastickBricks_White.label>
+            <VMEu_TilePlastickBricks_White.description>Tijolos de plástico colocados em um esquema de aparência fina.</VMEu_TilePlastickBricks_White.description>
             <VMEu_TilePlastickBricks_Black.label>ladrilho de tijolos de plástico (preto)</VMEu_TilePlastickBricks_Black.label>
+            <VMEu_TilePlastickBricks_Black.description>Tijolos de plástico colocados em um esquema de aparência fina.</VMEu_TilePlastickBricks_Black.description>
             <VMEu_TilePlastickBricks_Brown.label>ladrilho de tijolos de plástico (marrom)</VMEu_TilePlastickBricks_Brown.label>
+            <VMEu_TilePlastickBricks_Brown.description>Tijolos de plástico colocados em um esquema de aparência fina.</VMEu_TilePlastickBricks_Brown.description>
 
     <!-- Jewelry -->
         <!-- Diamond Tile -->
