@@ -26,4 +26,33 @@
             <AC_DeadPawnWithStack.label>Extração de Cartuchos</AC_DeadPawnWithStack.label>
             <AC_DeadPawnWithStack.helpText>Parece que você tem cadáveres com CARTUCHOS CORTICAIS em seu mapa!\n\n\nVocê pode EXTRAIR o cartucho de um cadáver por meio da ordem EXTRAIR CARTUCHOS ou simplesmente clicando com o botão direito em um cadáver com um colono selecionado. Da mesma forma como funciona a remoção de roupas.\n\n\nOs cartuchos são raros e poderosos, então certifique-se de colhê-los!</AC_DeadPawnWithStack.helpText>
 
+    <!-- Simple sidearms -->    
+        <!-- Sidearms -->
+            <Concept_SimpleSidearmsBasic.label>Armas Secundárias</Concept_SimpleSidearmsBasic.label>
+            <Concept_SimpleSidearmsBasic.helpText>Para equipar armas como secundárias, clique com o botão direito e selecione a opção equipar como arma secundária.</Concept_SimpleSidearmsBasic.helpText>
+
+        <!-- Carried Sidearms -->
+            <Concept_SidearmsInInventory.label>Armas no Inventário</Concept_SidearmsInInventory.label>
+            <Concept_SidearmsInInventory.helpText>Armas com fundo cinza estão atualmente em um inventário de um colono e qualificadas.</Concept_SidearmsInInventory.helpText>
+
+        <!-- Inactive Primary Weapons -->
+            <Concept_SidearmsPrimary.label>Colonos Sem Suas Armas Primárias</Concept_SidearmsPrimary.label>
+            <Concept_SidearmsPrimary.helpText>Armas com fundo dourado são designadas como arma primária dos colonos, mas atualmente não são usadas como tal. Eles tentarão substituí-las na primeira oportunidade.</Concept_SidearmsPrimary.helpText>
+
+        <!-- Missing Sidearms -->
+            <Concept_SidearmsMissing.label>Colonos Sem Suas Armas Secundárias</Concept_SidearmsMissing.label>
+            <Concept_SidearmsMissing.helpText>Armas com fundo roxo escuro estão faltando no inventário de colonos, que tentarão substituí-las na primeira oportunidade.</Concept_SidearmsMissing.helpText>
+
+        <!-- Advanced Controls -->  
+            <Concept_SimpleSidearmsAdvanced.label>Controles Avançados</Concept_SimpleSidearmsAdvanced.label>
+            <Concept_SimpleSidearmsAdvanced.helpText>Os colonos podem ter o uso da arma secundária configurado individualmente. Mudar o bloqueio superior para vermelho força o colono a continuar usando sua arma primária, mesmo se outra arma de longo alcance fornecer mais dano. Mudar manualmente para uma arma desativa automaticamente a alternância automática - este comportamento pode ser desabilitado usando o bloqueio inferior.</Concept_SimpleSidearmsAdvanced.helpText>
+
+        <!-- Dropping Weapons -->
+            <Concept_SimpleSidearmsDropping.label>Largando Armas</Concept_SimpleSidearmsDropping.label>
+            <Concept_SimpleSidearmsDropping.helpText>Os colonos podem largar suas armas em uma variedade de situações! Não se preocupe - seus colonos irão recuperar suas armas após a luta.</Concept_SimpleSidearmsDropping.helpText>
+
+        <!-- CE Patch -->
+            <Concept_CEOverride.label>Combat Extended</Concept_CEOverride.label>
+            <Concept_CEOverride.helpText>Combat Extended está carregado. A funcionalidade de gerenciamento de inventário do SimpleSidearms está desabilitada.</Concept_CEOverride.helpText>
+
 </LanguageData>

@@ -2,7 +2,6 @@
 <LanguageData>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
-        <!-- Mech Ship Arrival -->
-            <VFEM_MechShipArrival.textEnemy>Uma nave mecanóide de {0} pousou nas proximidades.</VFEM_MechShipArrival.textEnemy>
+        <VFEM_MechShipArrival.textEnemy>Uma nave mecanóide de {0} pousou nas proximidades.</VFEM_MechShipArrival.textEnemy>
 
 </LanguageData>

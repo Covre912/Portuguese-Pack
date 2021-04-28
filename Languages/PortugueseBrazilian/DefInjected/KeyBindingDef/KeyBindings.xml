@@ -2,51 +2,24 @@
 <LanguageData>
 
     <!-- Allow Tool -->
-        <!-- Allow -->
-            <DesignatorAllow.label>Designador: Permitir</DesignatorAllow.label>
-
-        <!-- Forbid -->
-            <DesignatorForbid.label>Designador: Proibir</DesignatorForbid.label>
-
-        <!-- Allow All -->
-            <DesignatorAllowAll.label>Designador: Permitir tudo</DesignatorAllowAll.label>
-
-        <!-- Select Similar -->
-            <DesignatorSelectSimilar.label>Designador: Selecionar similares</DesignatorSelectSimilar.label>
-        
-        <!-- Haul Urgently -->
-            <DesignatorHaulUrgently.label>Designador: Transportar urgentemente</DesignatorHaulUrgently.label>
-
-        <!-- Finish Off -->
-            <DesignatorFinishOff.label>Designador: Finalizar</DesignatorFinishOff.label>
-
-        <!-- Harvest Fully Grown -->
-            <DesignatorHarvestFullyGrown.label>Designador: Colher (Maduro)</DesignatorHarvestFullyGrown.label>
-
-        <!-- Strip Mine -->
-            <DesignatorStripMine.label>Designador: Mineração Cruzada</DesignatorStripMine.label>
-
-        <!-- Context Menu Action -->
-            <ToolContextMenuAction.label>Ação de Contexto</ToolContextMenuAction.label>
+        <DesignatorAllow.label>Designador: Permitir</DesignatorAllow.label>
+        <DesignatorForbid.label>Designador: Proibir</DesignatorForbid.label>
+        <DesignatorAllowAll.label>Designador: Permitir tudo</DesignatorAllowAll.label>
+        <DesignatorSelectSimilar.label>Designador: Selecionar similares</DesignatorSelectSimilar.label>
+        <DesignatorHaulUrgently.label>Designador: Transportar urgentemente</DesignatorHaulUrgently.label>
+        <DesignatorFinishOff.label>Designador: Finalizar</DesignatorFinishOff.label>
+        <DesignatorHarvestFullyGrown.label>Designador: Colher (Maduro)</DesignatorHarvestFullyGrown.label>
+        <DesignatorStripMine.label>Designador: Mineração Cruzada</DesignatorStripMine.label>
+        <ToolContextMenuAction.label>Ação de Contexto</ToolContextMenuAction.label>
 
     <!-- HugsLib -->
-        <!-- Publish Log File -->
-            <PublishLogs.label>Publicar arquivo de registro (segure Ctrl) </PublishLogs.label>
-
-        <!-- Open Log File -->
-            <OpenLogFile.label>Abrir aquivo de registro</OpenLogFile.label>
-
-        <!-- Restart RimWorld -->
-            <RestartRimworld.label>Reiniciar RimWorld</RestartRimworld.label>
-
-        <!-- Open Mod Settings -->
-            <HLOpenModSettings.label>Abrir configurações de mods</HLOpenModSettings.label>
-
-        <!-- Open Mod Update News -->
-            <HLOpenUpdateNews.label>Abrir atualizações de mods</HLOpenUpdateNews.label>
+        <PublishLogs.label>Publicar arquivo de registro (segure Ctrl) </PublishLogs.label>
+        <OpenLogFile.label>Abrir aquivo de registro</OpenLogFile.label>
+        <RestartRimworld.label>Reiniciar RimWorld</RestartRimworld.label>
+        <HLOpenModSettings.label>Abrir configurações de mods</HLOpenModSettings.label>
+        <HLOpenUpdateNews.label>Abrir atualizações de mods</HLOpenUpdateNews.label>
 
     <!-- RandomPlus -->
-        <!-- Go To Config Pawn Page -->
-            <Dev_QuickGoToConfigPawnPage.label>Ir para a página de configuração de colono</Dev_QuickGoToConfigPawnPage.label>
+        <Dev_QuickGoToConfigPawnPage.label>Ir para a página de configuração de colono</Dev_QuickGoToConfigPawnPage.label>
 
 </LanguageData>

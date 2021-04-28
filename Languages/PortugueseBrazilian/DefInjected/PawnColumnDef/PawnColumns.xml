@@ -2,13 +2,8 @@
 <LanguageData>
 
     <!-- Work Tab -->
-        <!-- Mood -->
             <Mood.headerTip>Humor</Mood.headerTip>
-
-        <!-- Job -->
             <Job.headerTip>Atividade</Job.headerTip>
-
-        <!-- Favourite -->
             <Favourite.headerTip>Favorito</Favourite.headerTip>
 
 </LanguageData>

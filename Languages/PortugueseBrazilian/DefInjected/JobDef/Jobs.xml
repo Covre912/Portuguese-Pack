@@ -24,6 +24,10 @@
         <MakeAdvance.reportString>flertando com TargetA.</MakeAdvance.reportString>
         <BreakHunt.reportString>caçando TargetA.</BreakHunt.reportString>
 
+    <!-- Simple sidearms -->
+        <EquipSecondary.reportString>equipando TargetA.</EquipSecondary.reportString>
+        <EquipSecondaryComba.reportString>equipando TargetA.</EquipSecondaryComba.reportString>
+
     <!-- Vanilla Animals Expanded - Endargered -->
         <AEXP_IngestAnts.reportString>devorando formigas.</AEXP_IngestAnts.reportString>
         <AEXP_GotoTheWild.reportString>indo para a naturza.</AEXP_GotoTheWild.reportString>
@@ -84,60 +88,27 @@
         <VHE_ChangeHairstyle.reportString>cortando o cabelo em TargetA.</VHE_ChangeHairstyle.reportString>
 
     <!-- Vanilla Social Interactions Expanded -->
-        <!-- Vent To Friend -->
-            <VSIE_VentToFriend.reportString>desabafando para TargetA.</VSIE_VentToFriend.reportString>
-
-        <!-- Stand And Hear Venting -->
-            <VSIE_StandAndHearVenting.reportString>ouvindo desabafos de TargetA.</VSIE_StandAndHearVenting.reportString>
-
-        <!-- Take Beer -->
-            <VSIE_TakingBeer.reportString>pegando TargetA.</VSIE_TakingBeer.reportString>
-
-        <!-- Talk To Second Pawn -->
-            <VSIE_TalkToSecondPawn.reportString>conversando com TargetA.</VSIE_TalkToSecondPawn.reportString>
-
-        <!-- Honor Pawn -->
-            <VSIE_HonorPawn.reportString>homenageando TargetA.</VSIE_HonorPawn.reportString>
-
-        <!-- Skygaze -->
-            <VSIE_Skygaze.reportString>observando o céu com TargetB.</VSIE_Skygaze.reportString>
-
-        <!-- View Art Together -->
-            <VSIE_ViewArtTogether.reportString>apreciando arte com TargetB.</VSIE_ViewArtTogether.reportString>
-
-        <!-- Build Snowmen Together -->
-            <VSIE_BuildSnowmanTogether.reportString>construindo bonecos de neve com TargetB.</VSIE_BuildSnowmanTogether.reportString>
-
-        <!-- Go To With -->
-            <VSIE_GotoWith.reportString>caminhando com TargetB.</VSIE_GotoWith.reportString>
-
-        <!-- Go To Talk To Second Pawn -->
-            <VSIE_GotoTalkToSecondPawn.reportString>conversando com Target.</VSIE_GotoTalkToSecondPawn.reportString>
-
-        <!-- Follow -->
-            <VSIE_Follow.reportString>caminhando com TargetA.</VSIE_Follow.reportString>
-
-        <!-- One Night Stand -->
-            <VSIE_OneStandLovin.reportString>amando.</VSIE_OneStandLovin.reportString>
-
-        <!-- Whatch Television Together -->
-            <VSIE_WatchTelevisionTogether.reportString>assistindo televisão.</VSIE_WatchTelevisionTogether.reportString>
-
-        <!-- Have Meal Together -->
-            <VSIE_HaveMealTogether.reportString>namorando.</VSIE_HaveMealTogether.reportString>
+        <VSIE_VentToFriend.reportString>desabafando para TargetA.</VSIE_VentToFriend.reportString>
+        <VSIE_StandAndHearVenting.reportString>ouvindo desabafos de TargetA.</VSIE_StandAndHearVenting.reportString>
+        <VSIE_TakingBeer.reportString>pegando TargetA.</VSIE_TakingBeer.reportString>
+        <VSIE_TalkToSecondPawn.reportString>conversando com TargetA.</VSIE_TalkToSecondPawn.reportString>
+        <VSIE_HonorPawn.reportString>homenageando TargetA.</VSIE_HonorPawn.reportString>
+        <VSIE_Skygaze.reportString>observando o céu com TargetB.</VSIE_Skygaze.reportString>
+        <VSIE_ViewArtTogether.reportString>apreciando arte com TargetB.</VSIE_ViewArtTogether.reportString>
+        <VSIE_BuildSnowmanTogether.reportString>construindo bonecos de neve com TargetB.</VSIE_BuildSnowmanTogether.reportString>
+        <VSIE_GotoWith.reportString>caminhando com TargetB.</VSIE_GotoWith.reportString>
+        <VSIE_GotoTalkToSecondPawn.reportString>conversando com Target.</VSIE_GotoTalkToSecondPawn.reportString>
+        <VSIE_Follow.reportString>caminhando com TargetA.</VSIE_Follow.reportString>
+        <VSIE_OneStandLovin.reportString>amando.</VSIE_OneStandLovin.reportString>
+        <VSIE_WatchTelevisionTogether.reportString>assistindo televisão.</VSIE_WatchTelevisionTogether.reportString>
+        <VSIE_HaveMealTogether.reportString>namorando.</VSIE_HaveMealTogether.reportString>
 
     <!-- Vanilla Traits Expanded -->
-        <!-- Steal Items -->
-            <VTE_StealItems.reportString>roubando itens do TargetA.</VTE_StealItems.reportString>
+        <VTE_StealItems.reportString>roubando itens do TargetA.</VTE_StealItems.reportString>
 
     <!-- Zombieland -->
-        <!-- Stumble -->
-            <Stumble.reportString>tropeçando.</Stumble.reportString>
-
-        <!-- Sabotage -->
-            <Sabotage.reportString>sabotando.</Sabotage.reportString>
-
-        <!-- Extract Zombie Serum -->
-            <ExtractZombieSerum.reportString>extraindo soro de zumbi do TargetA.</ExtractZombieSerum.reportString>
+        <Stumble.reportString>tropeçando.</Stumble.reportString>
+        <Sabotage.reportString>sabotando.</Sabotage.reportString>
+        <ExtractZombieSerum.reportString>extraindo soro de zumbi do TargetA.</ExtractZombieSerum.reportString>
 
 </LanguageData>
