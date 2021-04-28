@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+	    <mods>
+		    <li>Expanded Materials - Plastics</li>
+	    </mods>
+        <match Class="PatchOperationSequence">
+            <operations>
+                
+                <!-- Plastic Mosaic -->
+                    <li Class="PatchOperationReplace">
+                        <xpath>Defs/TerrainDef[@Name = "PlasticMosaicBase"]/description</xpath>
+                        <value>
+                            <description>Tábuas de plástico cortadas em pequenos mosaicos.</description>
+                        </value>
+                    </li>
+
+                <!-- Plastic Tile -->
+                    <li Class="PatchOperationReplace">
+                        <xpath>Defs/TerrainDef[@Name = "PlasticTileBase"]/description</xpath>
+                        <value>
+                            <description>Tábuas de plástico cortadas em grandes quadrados.</description>
+                        </value>
+                    </li>
+            
+            </operations>
+        </match>
+    </Operation>
+
+	<Operation Class="PatchOperationFindMod">
+	    <mods>
+		    <li>Expanded Materials - Plastics</li>
+	    </mods>
+        <match Class="PatchOperationFindMod">
+            <mods>
+                <li>Expanded Materials - Metals [LITE]</li>
+            </mods>
+            <match Class="PatchOperationSequence">
+                <operations>
+
+                    <!-- Plastic Bricks Wall -->
+                        <li Class="PatchOperationReplace">
+                            <xpath>Defs/ThingDef[@Name = "PlasticBricksWallBase"]/description</xpath>
+                            <value>
+                                <description>Uma parede instransponível. Capaz de sustentar um telhado.</description>
+                            </value>
+                        </li>
+
+                </operations>
+            </match>
+        </match>
+    </Operation>
+
+	<Operation Class="PatchOperationFindMod">
+	    <mods>
+		    <li>Expanded Materials - Plastics</li>
+	    </mods>
+        <match Class="PatchOperationFindMod">
+            <mods>
+                <li>Expanded Materials - Metals</li>
+            </mods>
+            <match Class="PatchOperationSequence">
+                <operations>
+
+                    <!-- Plastic Bricks Wall -->
+                        <li Class="PatchOperationReplace">
+                            <xpath>Defs/ThingDef[@Name = "PlasticBricksWallBase"]/description</xpath>
+                            <value>
+                                <description>Uma parede instransponível. Capaz de sustentar um telhado.</description>
+                            </value>
+                        </li>
+
+                    <!-- Plastic Bricks Tile -->
+                        <li Class="PatchOperationReplace">
+                            <xpath>Defs/TerrainDef[@Name = "TilePlasticBrickBase"]/description</xpath>
+                            <value>
+                                <description>Corte tijolos de plástico colocados em uma estrada de aparência fina, não tão impressionante quanto ladrilhos de pedra, mas é mais rápido de construir.</description>
+                            </value>
+                        </li>
+
+                </operations>
+            </match>
+        </match>
+    </Operation>
+
+</Patch>

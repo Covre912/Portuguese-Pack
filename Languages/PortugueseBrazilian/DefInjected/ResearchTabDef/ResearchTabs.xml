@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Expanded Materials - Plastics -->
+        <VMEu_PlasticsResearchTab.label>plásticos</VMEu_PlasticsResearchTab.label>
+
     <!-- Jewelry -->
-        <!-- Jewelry -->
-            <Jewelery.label>Joalheria</Jewelery.label>
+        <Jewelery.label>Joalheria</Jewelery.label>
 
 </LanguageData>

@@ -325,6 +325,95 @@
 			<VMEu_EMPAmmo.label>munição PEM</VMEu_EMPAmmo.label>
 			<VMEu_EMPAmmo.description>Balas pesadas PEM carregadas para uso particular, as munições PEM são capazes de desativar máquinas durante um curto período de tempo.</VMEu_EMPAmmo.description>
 
+	<!-- Expanded Materials - Plastics -->
+		<!-- Plastic Foil -->
+			<VMEu_NylonRoll.label>película plástica</VMEu_NylonRoll.label>
+			<VMEu_NylonRoll.description>Uma película fina feita de plástico barato, muito útil no acondicionamento de diversos produtos, principalmente alimentos.</VMEu_NylonRoll.description>
+
+		<!-- Synthetic Medicine -->
+			<VMEu_SynthMedicine.label>medicina sintética</VMEu_SynthMedicine.label>
+			<VMEu_SynthMedicine.description>Um kit de equipamento médico sintético industrial. Contém diferentes suprimentos e pequenos implantes corporais.\n\nEmbora este medicamento não seja tão bom quanto a medicina comum, é fácil de produzir e rápida de usar.</VMEu_SynthMedicine.description>
+
+		<!-- Pronitamine -->
+			<VMEu_Pronitamine.label>pronitamina</VMEu_Pronitamine.label>
+			<VMEu_Pronitamine.description>Uma versão sintética da neutroamina com maior resistência molecular.</VMEu_Pronitamine.description>
+
+		<!-- Xenotamine -->
+			<VMEu_Xenotamine.label>xenotamina</VMEu_Xenotamine.label>
+			<VMEu_Xenotamine.description>Uma versão sintética da neutroamina combinada com matéria animal destilada e metais reativos.</VMEu_Xenotamine.description>
+
+		<!-- Antigrain Mix -->
+			<VMEu_AntigrainMix.label>mistura antigrão</VMEu_AntigrainMix.label>
+			<VMEu_AntigrainMix.description>Uma mistura química sintética instável contida em uma cápsula. Este produto é perigoso, mas serve ao propósito de fabricar ogivas antigrãos.</VMEu_AntigrainMix.description>
+
+		<!-- Asphalt Mix -->
+			<VMEu_AsphaltMix.label>mistura de asfalto</VMEu_AsphaltMix.label>
+			<VMEu_AsphaltMix.description>Rocha aterrada misturada em altas temperaturas com óleo escuro altamente danificado, que é espesso e inflamável. O asfalto é perfeito para grandes estradas e não é tão feio quanto o concreto.</VMEu_AsphaltMix.description>
+
+		<!-- Polyester Cloth -->
+			<VMEu_PolyesterCloth.label>poliéster</VMEu_PolyesterCloth.label>
+			<VMEu_PolyesterCloth.description>Pano de poliéster tecido de fibras sintéticas.</VMEu_PolyesterCloth.description>
+
+		<!-- Liquid Plastic -->
+			<VMEu_LiquidPlastic_TierOne.label>plástico líquido</VMEu_LiquidPlastic_TierOne.label>
+			<VMEu_LiquidPlastic_TierOne.description>Base de plástico líquido quente feita de óleo escuro e neutroamina. O mais simples e mais barato de todos os materiais à base de óleo.\n\nDeve ser processado para se tornar um material utilizável.</VMEu_LiquidPlastic_TierOne.description>
+
+		<!-- Cheap Plastic Pellets -->
+			<VMEu_PlasticPellets_TierOne.label>granulados de plástico</VMEu_PlasticPellets_TierOne.label>
+			<VMEu_PlasticPellets_TierOne.description>Plástico, usado para móveis baratos e implementações industriais.</VMEu_PlasticPellets_TierOne.description>
+
+		<!-- Cheap Plastic Planks -->
+			<VMEu_PlasticPlanks_TierOne.label>tábuas de plástico</VMEu_PlasticPlanks_TierOne.label>
+			<VMEu_PlasticPlanks_TierOne.description>Plástico de classe industrial moldado em tábuas, comumente usado para construir paredes decorativas, pisos e outras estruturas cujo objetivo principal é ter uma boa aparência.</VMEu_PlasticPlanks_TierOne.description>
+
+		<!-- Liquid Polymer Plastic -->
+			<VMEu_LiquidPlastic_TierTwo.label>plástico de polímero líquido</VMEu_LiquidPlastic_TierTwo.label>
+			<VMEu_LiquidPlastic_TierTwo.description>Base de plástico líquido quente feita de óleo escuro e pronitamina. Um material de polímero avançado amplamente utilizado em grandes indústrias.\n\nDeve ser processado para se tornar um material utilizável.</VMEu_LiquidPlastic_TierTwo.description>
+
+		<!-- Polymer Plastic Pellets -->
+			<VMEu_PlasticPellets_TierTwo.label>granulados de plástico de polímero</VMEu_PlasticPellets_TierTwo.label>
+			<VMEu_PlasticPellets_TierTwo.description>Plástico de polímero industrial avançado. Devido às propriedades químicas da pronitamina, este material se destaca na substituição de outros materiais de classe industrial, principalmente aço.</VMEu_PlasticPellets_TierTwo.description>
+
+		<!-- Plasteel Base -->
+			<VMEu_PlasteelBase.label>base de plastiaço</VMEu_PlasteelBase.label>
+			<VMEu_PlasteelBase.description>Uma base sintética sólida e forte que serve ao único propósito de permitir a liga do plastiaço, misturando esta base sintética com o aço a temperaturas muito altas.</VMEu_PlasteelBase.description>
+
+		<!-- Plastic Bricks -->
+			<VMEu_PlasticBricks.label>tijolos de plástico</VMEu_PlasticBricks.label>
+			<VMEu_PlasticBricks.description>Tijolos feitos com pó de pedra e plástico, um material muito particular para a construção de estruturas fortes e duradouras.</VMEu_PlasticBricks.description>
+
+		<!-- Carbon Fiber -->
+			<VMEu_CarbonFiber.label>fibra de carbono</VMEu_CarbonFiber.label>
+			<VMEu_CarbonFiber.description>Uma fibra sintética estrutural avançada feita principalmente de carbono, amplamente utilizada na indústria para substituir materiais caros devido à sua flexibilidade.</VMEu_CarbonFiber.description>
+
+		<!-- Boraetamine -->
+			<VMEu_Boraetamine.label>boraetamina</VMEu_Boraetamine.label>
+			<VMEu_Boraetamine.description>Uma versão instável, inflamável e poderosa da neutroamina. Este produto é conhecido por ter sido descoberto por um cientista nórdico anos atrás, na velha terra.</VMEu_Boraetamine.description>
+
+		<!-- Actinamine -->
+			<VMEu_Actinamine.label>actinamina</VMEu_Actinamine.label>
+			<VMEu_Actinamine.description>Uma versão sintética da neutroamina com o terceiro isótopo quimicamente ativado com carga positiva instável.</VMEu_Actinamine.description>
+
+		<!-- Therminamine -->
+			<VMEu_Therminamine.label>terminamina</VMEu_Therminamine.label>
+			<VMEu_Therminamine.description>Uma versão sintética altamente concentrada, eletricamente positiva e alcalina.</VMEu_Therminamine.description>
+
+		<!-- Wrapped Snacks -->
+			<VMEu_Snacks.label>salgadinhos</VMEu_Snacks.label>
+			<VMEu_Snacks.description>Barato e saboroso, feito de milho tufado com sabor artificial. Embora não seja muito nutritivo, suprime um pouco a fome um pouco após o consumo.</VMEu_Snacks.description>
+
+		<!-- Packaged Survival Fine Meal -->
+			<VMEu_WrappedMeal_Fine.label>refeição de sobrevivência embalada boa</VMEu_WrappedMeal_Fine.label>
+			<VMEu_WrappedMeal_Fine.description>Uma refeição embalada de alta qualidade, fabricada para uso em situações de sobrevivência.</VMEu_WrappedMeal_Fine.description>
+
+		<!-- Packaged Survival Lavish Meal -->
+			<VMEu_WrappedMeal_Lavish.label>refeição de sobrevivência embalada luxuosa</VMEu_WrappedMeal_Lavish.label>
+			<VMEu_WrappedMeal_Lavish.description>Uma refeição embalada de alta qualidade, fabricada para uso em situações de sobrevivência.</VMEu_WrappedMeal_Lavish.description>
+
+		<!-- Packaged Survival Gourmet Meal -->
+			<VMEu_WrappedMeal_Gourmet.label>refeição de sobrevivência embalada gourmet</VMEu_WrappedMeal_Gourmet.label>
+			<VMEu_WrappedMeal_Gourmet.description>Uma refeição embalada de alta qualidade, fabricada para uso em situações de sobrevivência.</VMEu_WrappedMeal_Gourmet.description>
+
 	<!-- Jewelry -->
 		<!-- Diamond -->
   			<Diamond.label>diamante</Diamond.label>

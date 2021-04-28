@@ -235,6 +235,11 @@
             <PrisonDormitory.stages.9.label>dormitório de prisão maravilhosamente impressionante</PrisonDormitory.stages.9.label>
             <PrisonDormitory.stages.9.description>Meu dormitório de prisão é o melhor lugar do mundo. Dá quase para ficar aqui para sempre!</PrisonDormitory.stages.9.description>
 
+    <!-- Expanded Materials - Plastics -->
+        <!-- Snacks -->
+            <VMEu_ConsumedSnacks.stages.0.label>comeu salgadinhos</VMEu_ConsumedSnacks.stages.0.label>
+            <VMEu_ConsumedSnacks.stages.0.description>Esses foram alguns bons salgadinhos.</VMEu_ConsumedSnacks.stages.0.description>
+
     <!-- Fallout Traits (Continued) -->
         <!-- Gun Nut -->
             <GunNutHappy.stages.0.label>entusiasta por armas de fogo tem arma de longo alcande</GunNutHappy.stages.0.label>
@@ -521,18 +526,18 @@
 
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Wine -->
-            <VFEM_DrankWine.stages.0.label>bebi vinho horrível</VFEM_DrankWine.stages.0.label>
+            <VFEM_DrankWine.stages.0.label>bebeu vinho horrível</VFEM_DrankWine.stages.0.label>
             <VFEM_DrankWine.stages.0.description>Bebi um pouco de mosto que mal teve tempo de fermentar. Nojento.</VFEM_DrankWine.stages.0.description>
-            <VFEM_DrankWine.stages.1.label>bebi vinho pobre</VFEM_DrankWine.stages.1.label>
+            <VFEM_DrankWine.stages.1.label>bebeu vinho pobre</VFEM_DrankWine.stages.1.label>
             <VFEM_DrankWine.stages.1.description>Esse vinho poderia ter tido mais alguns dias para fermentar. Não era horrível, mas também não era bom.</VFEM_DrankWine.stages.1.description>
-            <VFEM_DrankWine.stages.2.label>bebi vinho</VFEM_DrankWine.stages.2.label>
-            <VFEM_DrankWine.stages.3.label>bebi vinho bom</VFEM_DrankWine.stages.3.label>
+            <VFEM_DrankWine.stages.2.label>bebeu vinho</VFEM_DrankWine.stages.2.label>
+            <VFEM_DrankWine.stages.3.label>bebeu vinho bom</VFEM_DrankWine.stages.3.label>
             <VFEM_DrankWine.stages.3.description>Bebi um bom vinho.</VFEM_DrankWine.stages.3.description>
-            <VFEM_DrankWine.stages.4.label>bebi vinho excelente</VFEM_DrankWine.stages.4.label>
+            <VFEM_DrankWine.stages.4.label>bebeu vinho excelente</VFEM_DrankWine.stages.4.label>
             <VFEM_DrankWine.stages.4.description>Bebi um bom vinho. Você pode dizer que teve um bom tempo para fermentar.</VFEM_DrankWine.stages.4.description>
-            <VFEM_DrankWine.stages.5.label>bebi vinho obra-prima</VFEM_DrankWine.stages.5.label>
+            <VFEM_DrankWine.stages.5.label>bebeu vinho obra-prima</VFEM_DrankWine.stages.5.label>
             <VFEM_DrankWine.stages.5.description>Aquele vinho era simplesmente incrível! Não existe nada melhor do que isso.</VFEM_DrankWine.stages.5.description>
-            <VFEM_DrankWine.stages.6.label>bebi vinho lendário</VFEM_DrankWine.stages.6.label>
+            <VFEM_DrankWine.stages.6.label>bebeu vinho lendário</VFEM_DrankWine.stages.6.label>
             <VFEM_DrankWine.stages.6.description>Eu bebi um dos melhores vinhos que já provei!</VFEM_DrankWine.stages.6.description>
 
     <!-- Vanilla Factions Expanded - Settlers -->

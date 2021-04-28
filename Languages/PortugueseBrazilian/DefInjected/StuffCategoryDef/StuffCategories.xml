@@ -2,19 +2,19 @@
 <LanguageData>
 
     <!-- Expanded Materials - Metals -->
-        <!-- Concrete -->
-            <VMEu_ConcreteStuffCategory.label>concreto</VMEu_ConcreteStuffCategory.label>
+        <VMEu_ConcreteStuffCategory.label>concreto</VMEu_ConcreteStuffCategory.label>
+
+    <!-- Expanded Materials - Plastics -->
+        <VMEu_PlasticStuffCategory.label>plásticos</VMEu_PlasticStuffCategory.label>
+        <VMEu_PlasticPlanksStuffCategory.label>tábuas de plástico</VMEu_PlasticPlanksStuffCategory.label>
 
     <!-- Jewelry -->
-        <!-- Gemstones -->
-            <Gemstones.label>gemas</Gemstones.label>
+        <Gemstones.label>gemas</Gemstones.label>
 
     <!-- Vanilla Factions Expanded - Medieval -->
-        <!-- Stone Chunks -->
-            <VFEM_StoneChunks.label>pedaços de pedra</VFEM_StoneChunks.label>
+        <VFEM_StoneChunks.label>pedaços de pedra</VFEM_StoneChunks.label>
 
     <!-- Vanilla Furniture Expanded - Security Module -->
-        <!-- Rocks -->
-            <Rocks.label>rochas</Rocks.label>
+        <Rocks.label>rochas</Rocks.label>
 
 </LanguageData>

@@ -135,6 +135,30 @@
             <VMEu_AdvancedSmelter.label>fundição avançada</VMEu_AdvancedSmelter.label>
             <VMEu_AdvancedSmelter.description>Uma enorme fundição de pedra, equipada com tecnologia suficiente para calcular os materiais e calor necessários para fazer os metais mais complexos.\n\nRequer uma grande quantidade de eletricidade para funcionar, além de um uso extra de combustível.</VMEu_AdvancedSmelter.description>
 
+    <!-- Expanded Materials - Plastics -->
+        <!-- Plastic Sculpture -->
+            <VMEu_PlasticSculpture.label>escultura de plástico</VMEu_PlasticSculpture.label>
+            <VMEu_PlasticSculpture.description>Uma pequena obra de arte feita de plástico.\n\nApesar de serem muito bonitas, essas esculturas de plástico são baratas de fazer, então seu valor de mercado é inferior ao de uma escultura clássica.</VMEu_PlasticSculpture.description>
+
+        <!-- Simple Plastic Weaver -->
+            <VMEu_PlasticProcessor.label>tear simples</VMEu_PlasticProcessor.label>
+            <VMEu_PlasticProcessor.description>Uma pequena máquina usada para tecer e injetar plásticos simples em diferentes formas. O processo é rápido e produz grande quantidade de plástico.</VMEu_PlasticProcessor.description>
+
+        <!-- Synthweaver -->
+            <VMEu_SynthWeaver.label>tear sintético</VMEu_SynthWeaver.label>
+            <VMEu_SynthWeaver.description>Uma grande instalação equipada com ferramentas automáticas de alta tecnologia como cilindros de tecelagem, injetores químicos e fornos que podem ser usados ​​para sintetizar diferentes tipos de materiais à base de óleo escuro.</VMEu_SynthWeaver.description>
+
+        <!-- Dark Oil Distiller -->
+            <VMEu_OilDistiller.label>destilador de óleo escuro</VMEu_OilDistiller.label>
+            <VMEu_OilDistiller.description>Uma pequena máquina tecnológica usada para destilar e manipular óleo escuro durante longos processos para obter diferentes produtos químicos.</VMEu_OilDistiller.description>
+
+        <!-- Plastic Bricks Wall -->
+            <VMEu_Wall_BricksBlue.label>parede de tijolos de plástico (azul)</VMEu_Wall_BricksBlue.label>
+            <VMEu_Wall_BricksRed.label>parede de tijolos de plástico (vermelho)</VMEu_Wall_BricksRed.label>
+            <VMEu_Wall_BricksWhite.label>parede de tijolos de plástico (branco)</VMEu_Wall_BricksWhite.label>
+            <VMEu_Wall_BricksBlack.label>parede de tijolos de plástico (preto)</VMEu_Wall_BricksBlack.label>
+            <VMEu_Wall_BricksBrown.label>parede de tijolos de plástico (marrom)</VMEu_Wall_BricksBrown.label>
+
     <!-- Jewelry -->
         <!-- Diamond Ore -->
             <MineableDiamond.label>minério de diamante</MineableDiamond.label>

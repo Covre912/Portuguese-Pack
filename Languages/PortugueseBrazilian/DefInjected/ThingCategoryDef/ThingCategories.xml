@@ -19,6 +19,11 @@
     <!-- Expanded Materials Add-on - Ammunition Module -->
         <VMEu_AmmunitionCategory.label>munições</VMEu_AmmunitionCategory.label>
 
+    <!-- Expanded Matertials - Plastics -->
+        <VMEu_PlasticThingCategory.label>plásticos</VMEu_PlasticThingCategory.label>
+        <VMEu_LiquidPlasticThingCategory.label>plásticos líquidos</VMEu_LiquidPlasticThingCategory.label>
+        <VMEu_ChemicalsThingCategory.label>químicos</VMEu_ChemicalsThingCategory.label>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <WMH_Flesh.label>cadáveres de monstros</WMH_Flesh.label>
         <WMH_BuildingsTrophies.label>troféus</WMH_BuildingsTrophies.label>

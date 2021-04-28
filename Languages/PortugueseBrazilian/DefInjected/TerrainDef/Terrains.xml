@@ -955,6 +955,34 @@
             <VMEu_BronzeTile.label>ladrilho de bronze</VMEu_BronzeTile.label>
             <VMEu_BronzeTile.description>Para uma aparência medieval e elegante, os ladrilhos de bronze são perfeitos para castelos ou salas de jantar, a sensação de realeza e riqueza.\n\nTêm um pequeno bônus de limpeza.</VMEu_BronzeTile.description>
 
+    <!-- Expanded Materials - Plastics -->
+        <!-- Plastic Mosaics -->    
+            <VMEu_PlasticMosaic_Beige.label>mosaico de plástico (bege)</VMEu_PlasticMosaic_Beige.label>
+            <VMEu_PlasticMosaic_Crimson.label>mosaico de plástico (carmim)</VMEu_PlasticMosaic_Crimson.label>
+            <VMEu_PlasticMosaic_Blue.label>mosaico de plástico (azul)</VMEu_PlasticMosaic_Blue.label>
+            <VMEu_PlasticMosaic_Green.label>mosaico de plástico (verde)</VMEu_PlasticMosaic_Green.label>
+            <VMEu_PlasticMosaic_Gray.label>mosaico de plástico (cinza)</VMEu_PlasticMosaic_Gray.label>
+            <VMEu_PlasticMosaic_Black.label>mosaico de plástico (preto)</VMEu_PlasticMosaic_Black.label>
+            <VMEu_PlasticMosaic_Golden.label>mosaico de plástico (dourado)</VMEu_PlasticMosaic_Golden.label>
+            <VMEu_PlasticMosaic_Pink.label>mosaico de plástico (rosa)</VMEu_PlasticMosaic_Pink.label>
+            <VMEu_PlasticMosaic_Brown.label>mosaico de plástico (marrom)</VMEu_PlasticMosaic_Brown.label>
+
+        <!-- Plastic Tiles -->
+            <VMEu_PlasticTiles_Rose.label>ladrilho de plástico (rosé)</VMEu_PlasticTiles_Rose.label>
+            <VMEu_PlasticTiles_Silver.label>ladrilho de plástico (prata)</VMEu_PlasticTiles_Silver.label>
+            <VMEu_PlasticTiles_Aqua.label>ladrilho de plástico (água)</VMEu_PlasticTiles_Aqua.label>
+        
+        <!-- Asphalt -->
+            <VMEu_AsphaltRoad.label>asfalto</VMEu_AsphaltRoad.label>
+            <VMEu_AsphaltRoad.description>Estrada de asfalto acidentado. Muito rápido de construir e de percorrer.</VMEu_AsphaltRoad.description>
+
+        <!-- Plastic Bricks Tile -->
+            <VMEu_TilePlastickBricks_Blue.label>ladrilho de tijolos de plástico (azul)</VMEu_TilePlastickBricks_Blue.label>
+            <VMEu_TilePlastickBricks_Red.label>ladrilho de tijolos de plástico (vermelho)</VMEu_TilePlastickBricks_Red.label>
+            <VMEu_TilePlastickBricks_White.label>ladrilho de tijolos de plástico (branco)</VMEu_TilePlastickBricks_White.label>
+            <VMEu_TilePlastickBricks_Black.label>ladrilho de tijolos de plástico (preto)</VMEu_TilePlastickBricks_Black.label>
+            <VMEu_TilePlastickBricks_Brown.label>ladrilho de tijolos de plástico (marrom)</VMEu_TilePlastickBricks_Brown.label>
+
     <!-- Jewelry -->
         <!-- Diamond Tile -->
             <DiamondTile.label>ladrilho de diamente</DiamondTile.label>

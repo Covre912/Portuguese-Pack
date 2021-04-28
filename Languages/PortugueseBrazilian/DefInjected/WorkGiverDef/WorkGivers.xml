@@ -58,6 +58,20 @@
             <VMEu_DoBillsAdvancedSmelter.verb>ligar</VMEu_DoBillsAdvancedSmelter.verb>
             <VMEu_DoBillsAdvancedSmelter.gerund>ligando em</VMEu_DoBillsAdvancedSmelter.gerund>
 
+    <!-- Expanded Materials - Plastics -->
+        <!-- Weave Materials -->    
+            <VMEu_DoBillsSimpleWeaver.label>tecendo materiais</VMEu_DoBillsSimpleWeaver.label>
+            <VMEu_DoBillsSimpleWeaver.verb>trabalhar</VMEu_DoBillsSimpleWeaver.verb>
+            <VMEu_DoBillsSimpleWeaver.gerund>trabalhando em</VMEu_DoBillsSimpleWeaver.gerund>
+            <VMEu_DoBillsSynthWeaver.label>tecendo materiais</VMEu_DoBillsSynthWeaver.label>
+            <VMEu_DoBillsSynthWeaver.verb>trabalhar</VMEu_DoBillsSynthWeaver.verb>
+            <VMEu_DoBillsSynthWeaver.gerund>trabalhando em</VMEu_DoBillsSynthWeaver.gerund>
+
+        <!-- Distill Dark Oil -->
+            <VMEu_DoBillsOilDistiller.label>destilando óleo escuro</VMEu_DoBillsOilDistiller.label>
+            <VMEu_DoBillsOilDistiller.verb>destilar</VMEu_DoBillsOilDistiller.verb>
+            <VMEu_DoBillsOilDistiller.gerund>destilando em</VMEu_DoBillsOilDistiller.gerund>
+
     <!-- RimWorld - Wicther Monster Hunt -->
         <!-- Advanced Animals Implants -->
             <VEF_DoBillsAdvancedAnimalImplantsTable.label>fazer implantes veterinários avançados</VEF_DoBillsAdvancedAnimalImplantsTable.label>

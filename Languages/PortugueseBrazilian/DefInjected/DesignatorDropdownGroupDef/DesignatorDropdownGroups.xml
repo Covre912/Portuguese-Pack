@@ -2,10 +2,13 @@
 <LanguageData>
 
     <!-- Expanded Materials - Metals -->
-        <!-- Concrete -->
-            <VMEu_RoughConcreteDropDownMenu.label>concreto</VMEu_RoughConcreteDropDownMenu.label>
+        <VMEu_RoughConcreteDropDownMenu.label>concreto</VMEu_RoughConcreteDropDownMenu.label>
+        <VMEu_PavedDropDownMenu.label>ladrilho pavimentado</VMEu_PavedDropDownMenu.label>
 
-        <!-- Paved Tile -->
-            <VMEu_PavedDropDownMenu.label>ladrilho pavimentado</VMEu_PavedDropDownMenu.label>
+    <!-- Expanded Materials - Plastics -->
+        <VMEu_PlasticMosaicDropdownMenu.label>mosaico de plástico</VMEu_PlasticMosaicDropdownMenu.label>
+        <VMEu_PlasticTileDropdownMenu.label>ladrilho de plástico</VMEu_PlasticTileDropdownMenu.label>
+        <VMEu_PlasticBrickWallDropdownMenu.label>parede de tijolos de plástico</VMEu_PlasticBrickWallDropdownMenu.label>
+        <VMEu_PlasticBrickTileDropdownMenu.label>ladrilho de tijolos de plástico</VMEu_PlasticBrickTileDropdownMenu.label>
 
 </LanguageData>

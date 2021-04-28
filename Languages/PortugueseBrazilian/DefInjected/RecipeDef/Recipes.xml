@@ -388,6 +388,198 @@
             <VMEu_MakeEMPAmmo.description>Fabrique muinições PEM avançadas para torretas tecnológicas.</VMEu_MakeEMPAmmo.description>
             <VMEu_MakeEMPAmmo.jobString>Fabricando munição.</VMEu_MakeEMPAmmo.jobString>
 
+    <!-- Expanded Materials - Plastics -->
+        <!-- Chemfuel -->
+            <VMEu_MakeChemfuelFromDarkOil.label>refinar combustível químico</VMEu_MakeChemfuelFromDarkOil.label>
+            <VMEu_MakeChemfuelFromDarkOil.description>Um processo um tanto longo que extrai grandes quantidades de combustível químico do óleo escuro.</VMEu_MakeChemfuelFromDarkOil.description>
+            <VMEu_MakeChemfuelFromDarkOil.jobString>Refinando combustível químico de óleo escuro.</VMEu_MakeChemfuelFromDarkOil.jobString>
+
+        <!-- Asphalt Mix -->
+            <VMEu_MakeAsphaltMix.label>fazer mistura de asfalto</VMEu_MakeAsphaltMix.label>
+            <VMEu_MakeAsphaltMix.description>Faça uma mistura escura e espessa com o resto do óleo escuro já usado.</VMEu_MakeAsphaltMix.description>
+            <VMEu_MakeAsphaltMix.jobString>Fazendo mistura de asfalto.</VMEu_MakeAsphaltMix.jobString>
+
+        <!-- Polyester Cloth -->
+            <VMEu_WeavePolyesterCloth.label>tecer poliéster</VMEu_WeavePolyesterCloth.label>
+            <VMEu_WeavePolyesterCloth.description>Teça poliéster, uma versão sintética de tecido mais fácil de produzir e um pouco melhor.</VMEu_WeavePolyesterCloth.description>
+            <VMEu_WeavePolyesterCloth.jobString>Tecendo poliéster.</VMEu_WeavePolyesterCloth.jobString>
+            <VMEu_WeavePolyesterCloth_Bulk.label>tecer poliéster x4</VMEu_WeavePolyesterCloth_Bulk.label>
+            <VMEu_WeavePolyesterCloth_Bulk.description>Teça poliéster, uma versão sintética de tecido mais fácil de produzir e um pouco melhor.</VMEu_WeavePolyesterCloth_Bulk.description>
+            <VMEu_WeavePolyesterCloth_Bulk.jobString>Tecendo poliéster.</VMEu_WeavePolyesterCloth_Bulk.jobString>
+
+        <!-- Synthread -->
+            <VMEu_WeaveSynthread.label>tecer fibra sintética</VMEu_WeaveSynthread.label>
+            <VMEu_WeaveSynthread.description>Teça fibra sintética, um tecido polimérico feito de pequenas nanofibras de material pseudo-plasteel, permitindo a criação de roupas duráveis ​​e de alta qualidade</VMEu_WeaveSynthread.description>
+            <VMEu_WeaveSynthread.jobString>Tecendo fibra sintética.</VMEu_WeaveSynthread.jobString>
+
+        <!-- Hyperweave -->
+            <VMEu_WeaveHyperWeave.label>tecer hiper tecido</VMEu_WeaveHyperWeave.label>
+            <VMEu_WeaveHyperWeave.description>Teça um tecido de polímero feito de nanofibras avançadas combinadas com materiais de isolamento.</VMEu_WeaveHyperWeave.description>
+            <VMEu_WeaveHyperWeave.jobString>Tecendo hiper tecido.</VMEu_WeaveHyperWeave.jobString>
+
+        <!-- Cheap Plastic -->
+            <VMEu_MakeLiquidPlastic_TierOne.label>sintetizar plástico</VMEu_MakeLiquidPlastic_TierOne.label>
+            <VMEu_MakeLiquidPlastic_TierOne.description>Destile óleo escuro e incorpore quimicamente a neutroamina para obter a base líquida de um tipo de plástico simples e barato, que tem aplicações industriais e é usado principalmente em móveis e decorações.</VMEu_MakeLiquidPlastic_TierOne.description>
+            <VMEu_MakeLiquidPlastic_TierOne.jobString>Sintetizando plástico.</VMEu_MakeLiquidPlastic_TierOne.jobString>
+
+        <!-- Cheap Plastic Pellets -->
+            <VMEu_MakePlasticPellets_TierOne.label>sintetizar granulados de plástico</VMEu_MakePlasticPellets_TierOne.label>
+            <VMEu_MakePlasticPellets_TierOne.description>Injete plástico em pequenos grânulos que podem ser usados ​​para fabricar diferentes coisas.</VMEu_MakePlasticPellets_TierOne.description>
+            <VMEu_MakePlasticPellets_TierOne.jobString>Sintetizando granulados de plástico.</VMEu_MakePlasticPellets_TierOne.jobString>
+
+        <!-- Plastic Foil -->
+            <VMEu_MakeNylonRoll_TierOne.label>tecer película de plástico</VMEu_MakeNylonRoll_TierOne.label>
+            <VMEu_MakeNylonRoll_TierOne.description>Transforme o plástico em uma folha fina. Este material é freqüentemente usado para embrulhar alimentos com vácuo, a fim de conservá-los.</VMEu_MakeNylonRoll_TierOne.description>
+            <VMEu_MakeNylonRoll_TierOne.jobString>Tecendo película de plástico.</VMEu_MakeNylonRoll_TierOne.jobString>
+
+        <!-- Plastic Planks -->
+            <VMEu_MakePlasticPlanks_TierOne.label>tecer tábuas de plástico</VMEu_MakePlasticPlanks_TierOne.label>
+            <VMEu_MakePlasticPlanks_TierOne.description>Transforme o plástico em tábuas que são amplamente utilizadas para construção decorativa.</VMEu_MakePlasticPlanks_TierOne.description>
+            <VMEu_MakePlasticPlanks_TierOne.jobString>Tecendo tábuas de plástico.</VMEu_MakePlasticPlanks_TierOne.jobString>
+
+        <!-- Polymer Plastic -->
+            <VMEu_MakeLiquidPlastic_TierTwo.label>sintetizar plástico de polímero</VMEu_MakeLiquidPlastic_TierTwo.label>
+            <VMEu_MakeLiquidPlastic_TierTwo.description>Destile óleo escuro e incorpore quimicamente pronitamina para obter a base líquida para um tipo de plástico mais resistente e durável.</VMEu_MakeLiquidPlastic_TierTwo.description>
+            <VMEu_MakeLiquidPlastic_TierTwo.jobString>Sintetizando plástico.</VMEu_MakeLiquidPlastic_TierTwo.jobString>
+
+        <!-- Polymer Plastic Pellets -->
+            <VMEu_MakePlasticPellets_TierTwo.label>sintetizar granulados de plástico de polímero</VMEu_MakePlasticPellets_TierTwo.label>
+            <VMEu_MakePlasticPellets_TierTwo.description>Injete o plástico polimérico em pequenos grânulos que podem ser usados ​​na fabricação de qualquer tipo de item.</VMEu_MakePlasticPellets_TierTwo.description>
+            <VMEu_MakePlasticPellets_TierTwo.jobString>Sintetizando granulados de plástico.</VMEu_MakePlasticPellets_TierTwo.jobString>
+
+        <!-- Neutroamine -->
+            <VMEu_MakeNeutroamine.label>sintetizar neutroamina</VMEu_MakeNeutroamine.label>
+            <VMEu_MakeNeutroamine.description>Destile finamente o óleo escuro para eliminar impurezas.</VMEu_MakeNeutroamine.description>
+            <VMEu_MakeNeutroamine.jobString>Refinando neutroamina.</VMEu_MakeNeutroamine.jobString>
+
+        <!-- Pronitamine -->
+            <VMEu_MakePronitamine.label>sintetizar pronitamina</VMEu_MakePronitamine.label>
+            <VMEu_MakePronitamine.description>Sobrecarregue os prótons da neutroamina usando o processo de calor e frio para obter uma variante da neutroamina chamada pronitamina, que oferece uma maior resistência molecular que permite a síntese de materiais fortes.</VMEu_MakePronitamine.description>
+            <VMEu_MakePronitamine.jobString>Sintetizando pronitamina.</VMEu_MakePronitamine.jobString>
+
+        <!-- Xenotamine -->
+            <VMEu_MakeXenotamine.label>sintetizar xenotamina</VMEu_MakeXenotamine.label>
+            <VMEu_MakeXenotamine.description>Combine a neutroamina com matéria animal e produtos químicos reativos, tornando sua estrutura molecular mais densa.</VMEu_MakeXenotamine.description>
+            <VMEu_MakeXenotamine.jobString>Sintetizando xenotamina.</VMEu_MakeXenotamine.jobString>
+
+        <!-- Polymer Component -->
+            <VMEu_MakePolymerComponents.label>fazer componente</VMEu_MakePolymerComponents.label>
+            <VMEu_MakePolymerComponents.description>Faça um componente com materiais poliméricos.</VMEu_MakePolymerComponents.description>
+            <VMEu_MakePolymerComponents.jobString>Fazendo componente.</VMEu_MakePolymerComponents.jobString>
+
+        <!-- Polymer Advanced Component -->
+            <VMEu_MakePolymerAdvancedComponents.label>fazer componente avançado</VMEu_MakePolymerAdvancedComponents.label>
+            <VMEu_MakePolymerAdvancedComponents.description>Faça um componente avançado com materiais poliméricos.</VMEu_MakePolymerAdvancedComponents.description>
+            <VMEu_MakePolymerAdvancedComponents.jobString>Fazendo componente avançado.</VMEu_MakePolymerAdvancedComponents.jobString>
+
+        <!-- Polymer High-Explosive Shell -->
+            <VMEu_MakePolymerShell_HighExplosive.label>fazer projétil de explosão grande</VMEu_MakePolymerShell_HighExplosive.label>
+            <VMEu_MakePolymerShell_HighExplosive.description>Faça um projétil de explosão grande de materiais poliméricos, que são perfeitamente capazes de substituir o aço.</VMEu_MakePolymerShell_HighExplosive.description>
+            <VMEu_MakePolymerShell_HighExplosive.jobString>Fazendo projétil de explosão grande.</VMEu_MakePolymerShell_HighExplosive.jobString>
+
+        <!-- Polymer Incendiary Shell -->
+            <VMEu_MakePolymerShell_Incendiary.label>fazer projétil incendiário</VMEu_MakePolymerShell_Incendiary.label>
+            <VMEu_MakePolymerShell_Incendiary.description>Faça um projétil incendiário de materiais poliméricos, que são perfeitamente capazes de substituir o aço.</VMEu_MakePolymerShell_Incendiary.description>
+            <VMEu_MakePolymerShell_Incendiary.jobString>Fazendo projétil incendiário.</VMEu_MakePolymerShell_Incendiary.jobString>
+
+        <!-- Polymer EMP Shell -->
+            <VMEu_MakePolymerShell_EMP.label>fazer projétil PEM</VMEu_MakePolymerShell_EMP.label>
+            <VMEu_MakePolymerShell_EMP.description>Faça um projétil PEM de materiais poliméricos, que são perfeitamente capazes de substituir o aço.</VMEu_MakePolymerShell_EMP.description>
+            <VMEu_MakePolymerShell_EMP.jobString>Fazendo projétil PEM.</VMEu_MakePolymerShell_EMP.jobString>
+
+        <!-- Polymer Smoke Shell -->
+            <VMEu_MakePolymerShell_Smoke.label>fazer projétil de fumaça</VMEu_MakePolymerShell_Smoke.label>
+            <VMEu_MakePolymerShell_Smoke.description>Faça um projétil de fumaça de materiais poliméricos, que são perfeitamente capazes de substituir o aço.</VMEu_MakePolymerShell_Smoke.description>
+            <VMEu_MakePolymerShell_Smoke.jobString>Fazendo projétil de fumaça.</VMEu_MakePolymerShell_Smoke.jobString>
+
+        <!-- Polymer Firefoam Shell -->
+            <VMEu_MakePolymerShell_Firefoam.label>fazer projétil de espuma contra fogo</VMEu_MakePolymerShell_Firefoam.label>
+            <VMEu_MakePolymerShell_Firefoam.description>Faça um projétil de espuma contra fogo de materiais poliméricos, que são perfeitamente capazes de substituir o aço.</VMEu_MakePolymerShell_Firefoam.description>
+            <VMEu_MakePolymerShell_Firefoam.jobString>Fazendo projétil de espuma contra fogo.</VMEu_MakePolymerShell_Firefoam.jobString>
+
+        <!-- Antigrain Warhead -->
+            <VMEu_MakeAntigrainWarhead.label>fazer ogiva antigrão</VMEu_MakeAntigrainWarhead.label>
+            <VMEu_MakeAntigrainWarhead.description>Faça uma ogiva antigrão ultratecnológica usada apenas em máquinas de guerra do mundo brilhante.</VMEu_MakeAntigrainWarhead.description>
+            <VMEu_MakeAntigrainWarhead.jobString>Fazendo ogiva antigrão.</VMEu_MakeAntigrainWarhead.jobString>
+
+        <!-- Antigrain Mix -->
+            <VMEu_MakeAntigrainMix.label>sintetizar mistura antigrão</VMEu_MakeAntigrainMix.label>
+            <VMEu_MakeAntigrainMix.description>Faça uma mistura química instável contida em uma cápsula forte.</VMEu_MakeAntigrainMix.description>
+            <VMEu_MakeAntigrainMix.jobString>Sintetizando mistura antigrão.</VMEu_MakeAntigrainMix.jobString>
+
+        <!-- Plasteel Base -->
+            <VMEu_WeavePlasteelBase.label>sintetizar base de plastiaço</VMEu_WeavePlasteelBase.label>
+            <VMEu_WeavePlasteelBase.description>Sintetize um forte material escuro à base de óleo que serve ao propósito de formar uma liga de plastiaço.</VMEu_WeavePlasteelBase.description>
+            <VMEu_WeavePlasteelBase.jobString>Sintetizando plastiaço.</VMEu_WeavePlasteelBase.jobString>
+
+        <!-- Plasteel -->
+            <VMEu_AlloyPlasteel.label>aliar plastiaço</VMEu_AlloyPlasteel.label>
+            <VMEu_AlloyPlasteel.description>Alie plastiaço, um material de polímero composto ultratecnológico usado principalmente para as implementações mais refinadas e de alta qualidade em todo o mundo.</VMEu_AlloyPlasteel.description>
+            <VMEu_AlloyPlasteel.jobString>Aliando plastiaço.</VMEu_AlloyPlasteel.jobString>
+
+        <!-- Plastic Bricks -->
+            <VMEu_MakePlasticBricks.label>fazer tijolos de plástico</VMEu_MakePlasticBricks.label>
+            <VMEu_MakePlasticBricks.description>Funda plástico e rocha aterrada em altas temperaturas para obter tijolos de plástico duros.</VMEu_MakePlasticBricks.description>
+            <VMEu_MakePlasticBricks.jobString>Fazendo tijolos de plástico.</VMEu_MakePlasticBricks.jobString>
+            <VMEu_MakePlasticBricks_Bulk.label>fazer tijolos de plástico x4</VMEu_MakePlasticBricks_Bulk.label>
+            <VMEu_MakePlasticBricks_Bulk.description>Funda plástico e rocha aterrada em altas temperaturas para obter tijolos de plástico duros.</VMEu_MakePlasticBricks_Bulk.description>
+            <VMEu_MakePlasticBricks_Bulk.jobString>Fazendo tijolos de plástico.</VMEu_MakePlasticBricks_Bulk.jobString>
+
+        <!-- Carbon Fiber -->
+            <VMEu_MakeCarbonFiber.label>tecer fibra de carbono</VMEu_MakeCarbonFiber.label>
+            <VMEu_MakeCarbonFiber.description>Transforme fibras finas de polímero à base de carbono em um material resistente e versátil.</VMEu_MakeCarbonFiber.description>
+            <VMEu_MakeCarbonFiber.jobString>Tecendo fibra de carbono.</VMEu_MakeCarbonFiber.jobString>
+
+        <!-- Boraetamine -->
+            <VMEu_MakeBoraetamine.label>sintetizar boraetamina</VMEu_MakeBoraetamine.label>
+            <VMEu_MakeBoraetamine.description>Combine a neutroamina com átomos de metal resistente unidos por meio de uma cadeia química genérica obtida do ouro.</VMEu_MakeBoraetamine.description>
+            <VMEu_MakeBoraetamine.jobString>Sintetizando boraetamina.</VMEu_MakeBoraetamine.jobString>
+
+        <!-- Actinamine -->
+            <VMEu_MakeActinamine.label>sintetizar actinamina</VMEu_MakeActinamine.label>
+            <VMEu_MakeActinamine.description>Ative o terceiro isótopo dos átomos da neutroamina secando-o por rotação e fazendo-o reagir a altas temperaturas com o germânio.</VMEu_MakeActinamine.description>
+            <VMEu_MakeActinamine.jobString>Sintetizando actinamina.</VMEu_MakeActinamine.jobString>
+
+        <!-- Therminamine -->
+            <VMEu_MakeTherminamine.label>sintetizar terminamina</VMEu_MakeTherminamine.label>
+            <VMEu_MakeTherminamine.description>Carregue a neutroamina altamente concentrada e forneça-a carga elétrica usando lítio.</VMEu_MakeTherminamine.description>
+            <VMEu_MakeTherminamine.jobString>Sintetizando terminamina.</VMEu_MakeTherminamine.jobString>
+
+        <!-- Industrial Ammo -->
+            <VMEu_MakeIndustrialAmmo_Plastic.label>fazer munição industrial</VMEu_MakeIndustrialAmmo_Plastic.label>
+            <VMEu_MakeIndustrialAmmo_Plastic.description>Fabrique munições industriais para torretas militares usando materiais poliméricos, que são perfeitamente capazes de substituir o chumbo.</VMEu_MakeIndustrialAmmo_Plastic.description>
+            <VMEu_MakeIndustrialAmmo_Plastic.jobString>Fabricando munição industrial.</VMEu_MakeIndustrialAmmo_Plastic.jobString>
+
+        <!-- Heavy Ammo -->
+            <VMEu_MakeHeavyAmmo_Plastic.label>fazer munição pesada</VMEu_MakeHeavyAmmo_Plastic.label>
+            <VMEu_MakeHeavyAmmo_Plastic.description>Fabrique munições pesadas para torretas militares avançadas usando materiais poliméricos, que são perfeitamente capazes de substituir o chumbo.</VMEu_MakeHeavyAmmo_Plastic.description>
+            <VMEu_MakeHeavyAmmo_Plastic.jobString>Fabricando munição pesada.</VMEu_MakeHeavyAmmo_Plastic.jobString>
+
+        <!-- Snacks -->
+            <VMEu_WrapSnacks.label>embrulhar salgadinhos</VMEu_WrapSnacks.label>
+            <VMEu_WrapSnacks.description>Embrulhe salgadinhos de milho tufado ou frutas secas em um saco plástico.</VMEu_WrapSnacks.description>
+            <VMEu_WrapSnacks.jobString>Embrulhando salgadinhos.</VMEu_WrapSnacks.jobString>
+
+        <!-- Packaged Survival Simple Meal -->
+            <VMEu_CookWrappedMeal_Simple.label>cozinhar refeição de sobrevivência embalada</VMEu_CookWrappedMeal_Simple.label>
+            <VMEu_CookWrappedMeal_Simple.description>Cozinhe uma refeição de sobrevivência embalada.</VMEu_CookWrappedMeal_Simple.description>
+            <VMEu_CookWrappedMeal_Simple.jobString>Cozinhando refeição de sobrevivência embalada.</VMEu_CookWrappedMeal_Simple.jobString>
+
+        <!-- Packaged Survival Fine Meal -->
+            <VMEu_CookWrappedMeal_Fine.label>cozinhar refeição de sobrevivência embalada boa</VMEu_CookWrappedMeal_Fine.label>
+            <VMEu_CookWrappedMeal_Fine.description>Cozinhe uma refeição de sobrevivência embalada boa.</VMEu_CookWrappedMeal_Fine.description>
+            <VMEu_CookWrappedMeal_Fine.jobString>Cozinhando refeição de sobrevivência embalada.</VMEu_CookWrappedMeal_Fine.jobString>
+
+        <!-- Packaged Survival Lavish Meal -->
+            <VMEu_CookWrappedMeal_Lavish.label>cozinhar refeição de sobrevivência embalada luxuosa</VMEu_CookWrappedMeal_Lavish.label>
+            <VMEu_CookWrappedMeal_Lavish.description>Cozinhe uma refeição de sobrevivência embalada luxuosa.</VMEu_CookWrappedMeal_Lavish.description>
+            <VMEu_CookWrappedMeal_Lavish.jobString>Cozinhando refeição de sobrevivência embalada.</VMEu_CookWrappedMeal_Lavish.jobString>
+
+        <!-- Packaged Survival Gourmet Meal -->
+            <VMEu_CookWrappedMeal_Gourmet.label>cozinhar refeição de sobrevivência embalada gourmet</VMEu_CookWrappedMeal_Gourmet.label>
+            <VMEu_CookWrappedMeal_Gourmet.description>Cozinhe uma refeição de sobrevivência embalada gourmet.</VMEu_CookWrappedMeal_Gourmet.description>
+            <VMEu_CookWrappedMeal_Gourmet.jobString>Cozinhando refeição de sobrevivência embalada.</VMEu_CookWrappedMeal_Gourmet.jobString>
+
 	<!-- Psychology (unofficial 1.1/1.2) -->
 		<!-- Pyromania -->
 	  		<TreatPyromania.label>tratar piromania</TreatPyromania.label>

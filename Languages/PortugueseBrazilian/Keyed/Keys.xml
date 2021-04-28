@@ -633,13 +633,7 @@
 	        <PartyHuntToggle_label>Caça alistada</PartyHuntToggle_label>
 	        <PartyHuntToggle_desc>Quando habilitado, os colonos alistados irão atirar automaticamente em animais selvagens passivos.</PartyHuntToggle_desc>
 
-    <!-- Argón's Tribal Medicine -->
-        <!-- Item Processor -->
-        	<VMEu_InsertPlasticDesc>Inserir plástico líquido.</VMEu_InsertPlasticDesc>
-	        <VMEu_StartInsertionPlastic>Inserir Plástico Líquido</VMEu_StartInsertionPlastic>
-	        <VMEu_StartInsertionPlasticDesc>Insira um plástico líquido para o processador para iniciar o processamento.</VMEu_StartInsertionPlasticDesc>
-	        <VMEu_CancelBringingPlastic>Cancelar Inserir Plástico Líquido</VMEu_CancelBringingPlastic>
-	        <VMEu_CancelBringingPlasticDesc>Cancela inserir plástico líquido para o processador.</VMEu_CancelBringingPlasticDesc>
+
 
     <!-- Camera+ -->
         <!-- Settings -->
@@ -1020,6 +1014,14 @@
 
         <!-- Panel World Pawn List -->
             <EdB.PC.Panel.WorldPawnList.Title>Mundo</EdB.PC.Panel.WorldPawnList.Title>
+
+    <!-- Expanded Materials - Plastics -->
+        <!-- Item Processor -->
+        	<VMEu_InsertPlasticDesc>Inserir plástico líquido.</VMEu_InsertPlasticDesc>
+	        <VMEu_StartInsertionPlastic>Inserir Plástico Líquido</VMEu_StartInsertionPlastic>
+	        <VMEu_StartInsertionPlasticDesc>Insira um plástico líquido para o processador para iniciar o processamento.</VMEu_StartInsertionPlasticDesc>
+	        <VMEu_CancelBringingPlastic>Cancelar Inserir Plástico Líquido</VMEu_CancelBringingPlastic>
+	        <VMEu_CancelBringingPlasticDesc>Cancela inserir plástico líquido para o processador.</VMEu_CancelBringingPlasticDesc>
 
     <!-- HugsLib -->
         <!-- Settings -->

@@ -51,6 +51,39 @@
             <VMEu_PlasteelAlloying.label>liga de plastiaço</VMEu_PlasteelAlloying.label>
             <VMEu_PlasteelAlloying.description>Descubra como sintetizar plastiaço a partir de vários produtos químicos.</VMEu_PlasteelAlloying.description>
 
+    <!-- Expanded Materials - Plastics -->
+        <!-- Plastic Manufacture -->
+            <VMEu_PlasticManufacture.label>fabricação de plástico</VMEu_PlasticManufacture.label>
+            <VMEu_PlasticManufacture.description>Permite a fabricação de diversos materiais elaborados a partir de óleo escuro. Esses materiais variam de baratos e fracos, usados ​​para móveis de qualidade média, a materiais duros e duráveis, usados ​​para construir estruturas resistentes.</VMEu_PlasticManufacture.description>
+
+        <!-- Polymer Materials -->
+            <VMEu_PolymerMaterials.label>materiais poliméricos</VMEu_PolymerMaterials.label>
+            <VMEu_PolymerMaterials.description>Pesquise a sintetização de materiais industriais avançados criados a partir de óleo escuro. Esses materiais são altamente flexíveis e têm diversos usos, também são necessários na maioria das estruturas e máquinas avançadas.</VMEu_PolymerMaterials.description>
+
+        <!-- Plastic Industry -->
+            <VMEu_PlasticIndustry.label>indústria de plástico</VMEu_PlasticIndustry.label>
+            <VMEu_PlasticIndustry.description>Pesquise a maneira correta de implementar materiais à base de óleo escuro para substituir uma ampla gama de insumos.</VMEu_PlasticIndustry.description>
+
+        <!-- Advanced Chemistry -->
+            <VMEu_AdvancedChemistry.label>química avançada</VMEu_AdvancedChemistry.label>
+            <VMEu_AdvancedChemistry.description>Pesquise como sintetizar produtos químicos poderosos a partir do óleo escuro, o que permitirá agilizar suas cadeias de produção e criar novos produtos.</VMEu_AdvancedChemistry.description>
+
+        <!-- Synthetic Fiber Weaving -->
+            <VMEu_SynthWeaving.label>tecelagem de fribra sintética</VMEu_SynthWeaving.label>
+            <VMEu_SynthWeaving.description>Aprenda a sintetizar nanofibras para criar tecidos fortes, como fibra sintética e hiper tecido.</VMEu_SynthWeaving.description>
+
+        <!-- Plasteel Formula -->
+            <VMEu_PlasteelWeaving.label>fórmula do plastiaço</VMEu_PlasteelWeaving.label>
+            <VMEu_PlasteelWeaving.description>Pesquise os segredos do plastiaço, um material ultratecnológico quase perfeito usado apenas por quem descobriu sua fórmula secreta.</VMEu_PlasteelWeaving.description>
+
+        <!-- Antigrain Polymers -->
+            <VMEu_AntigrainPolymers.label>polímeros antigrãos</VMEu_AntigrainPolymers.label>
+            <VMEu_AntigrainPolymers.description>Aprenda a sintetizar poderosos produtos químicos antigrãos destrutivos usados ​​apenas nos mundos brilhantes mais avançados.</VMEu_AntigrainPolymers.description>
+
+        <!-- Glitterworld Medicine -->
+            <VMEu_GlitterworldMedicine.label>medicina glitterworld</VMEu_GlitterworldMedicine.label>
+            <VMEu_GlitterworldMedicine.description>Pesquise como implementar drogas poderosas combinadas com produtos químicos sintéticos para criar o medicamento mais valioso entre os mundos.</VMEu_GlitterworldMedicine.description>
+
     <!-- Jewelry -->
         <!-- Laser Sculpting -->
             <LaserSculpting.label>mesa de escultura a laser</LaserSculpting.label>
