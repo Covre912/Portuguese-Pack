@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Follow Me -->
+        <!-- Ambulance Chaser -->
+            <Camera_AmbulanceChaser.label>ambulância</Camera_AmbulanceChaser.label>
+            <Camera_AmbulanceChaser.description>Sangue, quanto mais perturbador, melhor.</Camera_AmbulanceChaser.description>
+
+        <!-- Attenborough -->
+            <Camera_Attenborough.label>naturalista</Camera_Attenborough.label>
+            <Camera_Attenborough.description>O círculo da vida, a vida selvagem.</Camera_Attenborough.description>
+
+        <!-- Flog It -->
+            <Camera_FlogIt.label>leilão</Camera_FlogIt.label>
+            <Camera_FlogIt.description>Antiguidades e boutiques. Demonstra aquelas joias empoeiradas escondidas em seu estoque.</Camera_FlogIt.description>
+
+</LanguageData>

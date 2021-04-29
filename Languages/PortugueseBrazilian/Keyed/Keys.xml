@@ -1023,6 +1023,41 @@
 	        <VMEu_CancelBringingPlastic>Cancelar Inserir Plástico Líquido</VMEu_CancelBringingPlastic>
 	        <VMEu_CancelBringingPlasticDesc>Cancela inserir plástico líquido para o processador.</VMEu_CancelBringingPlasticDesc>
 
+    <!-- Follow Me -->
+        <!-- Follow Me -->
+            <FollowMe.Cancel>Não mais seguindo {0}.</FollowMe.Cancel>
+            <FollowMe.Follow>Seguinda {0}.</FollowMe.Follow>
+            <Fluffy.FollowMe>Follow Me!</Fluffy.FollowMe>
+
+        <!-- Reject -->
+            <FollowMe.RejectMultiple>Não pode seguir, múltiplas seleções.</FollowMe.RejectMultiple>
+            <FollowMe.RejectNoSelection>Não pode seguir, nada selecionado.</FollowMe.RejectNoSelection>
+            <FollowMe.RejectNotAThing>Não pode seguir.</FollowMe.RejectNotAThing>
+
+        <!-- Notifications -->
+            <FollowMe.Notifications>Mostrar notificações</FollowMe.Notifications>
+            <FollowMe.Notifications.Tooltip>Notificações devem ser mostradas quando o alvo seguido muda?</FollowMe.Notifications.Tooltip>
+
+        <!-- Sounds -->
+            <FollowMe.Sounds>Tocar sons</FollowMe.Sounds>
+            <FollowMe.Sounds.Tooltip>Um som deve ser reproduzido quando o alvo seguido muda?</FollowMe.Sounds.Tooltip>
+
+        <!-- Edge Detection -->
+            <FollowMe.EdgeDetection>Detecção de borda</FollowMe.EdgeDetection>
+            <FollowMe.EdgeDetection.Tooltip>Deve parar de seguir quando o mouse está perto da borda da tela?</FollowMe.EdgeDetection.Tooltip>
+
+        <!-- Key Binds -->
+            <Fluffy.FollowMe.KeyBinds>Atalhos</Fluffy.FollowMe.KeyBinds>
+            <Fluffy.FollowMe.KeyBinds.FollowMe>Alternar o selecionado</Fluffy.FollowMe.KeyBinds.FollowMe>
+            <Fluffy.FollowMe.KeyBinds.CinematicCamera>Alternar câmera cinematográfica</Fluffy.FollowMe.KeyBinds.CinematicCamera>
+
+        <!-- Cinematic Camera -->
+            <Fluffy.FollowMe.CinematicCamera>Câmera Cinematográfica</Fluffy.FollowMe.CinematicCamera>
+            <Fluffy.FollowMe.CinematicCamera.Off>Desligado</Fluffy.FollowMe.CinematicCamera.Off>
+            <Fluffy.FollowMe.CameraStart>Inciando câmera "{0}"</Fluffy.FollowMe.CameraStart>
+            <Fluffy.FollowMe.CameraStop>Interrompendo câmera "{0}"</Fluffy.FollowMe.CameraStop>
+            <Fluffy.FollowMe.Cinematics.NoValidTargets>Interrompendo a câmera cinematográfica: Sem alvos válidos.</Fluffy.FollowMe.Cinematics.NoValidTargets>
+
     <!-- HugsLib -->
         <!-- Settings -->
 	        <HugsLib_settings_btn>Configurações de Mods</HugsLib_settings_btn>
@@ -1678,7 +1713,7 @@
             <WeaponSwitchAutolockOff>Desligado</WeaponSwitchAutolockOff>
 
         <!-- Draw -->
-            <DrawSidearm_gizmoTitle>Armas secundárias</DrawSidearm_gizmoTitle>
+            <DrawSidearm_gizmoTitle></DrawSidearm_gizmoTitle>
             <SidearmPreference_Ranged>Usar armas de alnce.</SidearmPreference_Ranged>
             <SidearmPreference_Skill>Usar armas de acordo com sua habilidade ou paixão.</SidearmPreference_Skill>
             <SidearmPreference_Melee>Usar armas corpo-a-corpo.</SidearmPreference_Melee>
