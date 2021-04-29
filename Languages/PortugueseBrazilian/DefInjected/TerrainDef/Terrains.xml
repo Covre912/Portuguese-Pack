@@ -29,6 +29,9 @@
             <RG_DepletedGravel.label>cascalho empobrecido</RG_DepletedGravel.label>
             <RG_DepletedGravel.tools.0.label>cascalho</RG_DepletedGravel.tools.0.label>
 
+        <!-- Toxic Waste -->
+            <RG_ToxicWaste.label>lixo tóxico</RG_ToxicWaste.label>
+
     <!-- [HLX] ReGrowth - Wasteland --> 
         <!-- Depleted Soil -->
             <RG-W_DepletedSoil.label>solo empobrecido</RG-W_DepletedSoil.label>
