@@ -29,6 +29,25 @@
             <RG_DepletedGravel.label>cascalho empobrecido</RG_DepletedGravel.label>
             <RG_DepletedGravel.tools.0.label>cascalho</RG_DepletedGravel.tools.0.label>
 
+    <!-- [HLX] ReGrowth - Wasteland --> 
+        <!-- Depleted Soil -->
+            <RG-W_DepletedSoil.label>solo empobrecido</RG-W_DepletedSoil.label>
+            <RG-W_DepletedSoil.tools.0.label>terra</RG-W_DepletedSoil.tools.0.label>
+
+        <!-- Rubble -->
+            <RG-W_RubbleSoil.label>pedregulho</RG-W_RubbleSoil.label>
+            <RG-W_RubbleSoil.tools.0.label>pedregulho</RG-W_RubbleSoil.tools.0.label>
+
+        <!-- Lichen-Covered Depleted Soil -->
+            <RG-W_DepletedMossy.label>solo empobrecido coberto de líquen</RG-W_DepletedMossy.label>
+
+        <!-- Depleted Gravel -->
+            <RG-W_DepletedGravel.label>cascalho empobrecido</RG-W_DepletedGravel.label>
+            <RG-W_DepletedGravel.tools.0.label>cascalho</RG-W_DepletedGravel.tools.0.label>
+
+        <!-- Toxic Waste -->
+            <RG-W_ToxicWaste.label>lixo tóxico</RG-W_ToxicWaste.label>
+
     <!-- [T] MoreFloors -->
 		<!-- Orange Carpet -->
 			<CarpetOrange.label>carpete laranja</CarpetOrange.label>

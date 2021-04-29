@@ -18,6 +18,11 @@
             <RG.SandDevilLeftTheMap>Os redemoinhos de poeira deixaram o mapa.</RG.SandDevilLeftTheMap>
             <RG.SandDevilDissipated>O redemoinho de poeira se dissipou.</RG.SandDevilDissipated>
 
+    <!-- [HLX] ReGrowth - Wasteland --> 
+        <!-- Wasteland -->
+            <coverEntireWorldMapWithWasteland>Cubrir o mapa do mundo inteiro com áreas devastadas</coverEntireWorldMapWithWasteland>
+            <coverEntireWorldMapWithWastelandHint>Se você habilitou essa opção antes e deseja desabilitá-la, será necessário reiniciar o jogo para que as alterações tenham efeito.</coverEntireWorldMapWithWastelandHint>
+
     <!-- [HLX] Ultratech: Altered Carbon -->
         <!-- Incubator -->
             <AlteredCarbon.Name>Nome</AlteredCarbon.Name>

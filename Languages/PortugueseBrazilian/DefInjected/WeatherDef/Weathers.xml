@@ -48,6 +48,15 @@
             <RG_SandStormHard.label>tempestade de areia forte</RG_SandStormHard.label>
             <RG_SandStormHard.description>Fortes tempestades reduzem a precisão das armas de longo alcance e diminuem a velocidade das pessoas.</RG_SandStormHard.description>
 
+    <!-- [HLX] ReGrowth - Wasteland -->
+        <!-- Toxic Rain -->
+            <RG-W_ToxicRain.label>chuva tóxica</RG-W_ToxicRain.label>
+            <RG-W_ToxicRain.description>Venenoso para pessoas e animais. Reduz a precisão das armas de longo alcance, apaga o fogo, e retarda o movimento das pessoas.</RG-W_ToxicRain.description>
+
+        <!-- Toxic Rainy Thunderstorm -->   
+            <RG-W_ToxicRainyThunderstorm.label>tempestade tóxica</RG-W_ToxicRainyThunderstorm.label>
+            <RG-W_ToxicRainyThunderstorm.description>Os raios irão iniciar incêndios, mas a chuva irá apagá-los. Venenoso para pessoas e animais. A chuva também reduz a precisão das armas de longo alcance, apaga o fogo, e retarda o movimento das pessoas.</RG-W_ToxicRainyThunderstorm.description>
+
     <!-- Vanilla Furniture Expanded - Power -->
         <!-- Radioactive Fog -->
             <VPE_RadioactiveFog.label>névoa radioativa</VPE_RadioactiveFog.label>

@@ -137,6 +137,41 @@
             <RG-T_Plant_YellowTreePine.label>pinheiro</RG-T_Plant_YellowTreePine.label>
             <RG-T_Plant_YellowTreePine.description>Uma rara conífera amarela. Por ser muito resistente às geadas, cresce apenas em regiões de tundra e pântanos frios.</RG-T_Plant_YellowTreePine.description>
 
+    <!-- [HLX] ReGrowth - Wasteland -->
+        <!-- Grass -->
+            <RG-W_Plant_DryGrass.label>grama</RG-W_Plant_DryGrass.label>
+            <RG-W_Plant_DryGrass.description>Grama selvagem. Cresce em qualquer lugar onde haja pouca luz e solo minimamente fértil.</RG-W_Plant_DryGrass.description>
+
+        <!-- Tall Grass -->
+            <RG-W_Plant_DryTallGrass.label>grama alta</RG-W_Plant_DryTallGrass.label>
+            <RG-W_Plant_DryTallGrass.description>Grama alta selvagem. Retarda qualquer pessoa que se mova sobre ela.</RG-W_Plant_DryTallGrass.description>
+
+        <!-- Mutated Fungus -->
+            <RG-W_Plant_MutatedFungus.label>fungos mutados</RG-W_Plant_MutatedFungus.label>
+            <RG-W_Plant_MutatedFungus.description>Um fungo mutante crescendo em pares. Não tem valor nutritivo.</RG-W_Plant_MutatedFungus.description>
+
+        <!-- Glow Bloom -->
+            <RG-W_Plant_GlowBloom.label>fioritura luminosa</RG-W_Plant_GlowBloom.label>
+            <RG-W_Plant_GlowBloom.description>Uma flor fortemente mutada que brilha no escuro.</RG-W_Plant_GlowBloom.description>
+
+        <!-- Glow Weed -->
+            <RG-W_Plant_GlowWeed.label>erva luminosa</RG-W_Plant_GlowWeed.label>
+            <RG-W_Plant_GlowWeed.description>Uma flor mutante com hastes longas que brilha no escuro.</RG-W_Plant_GlowWeed.description>
+
+        <!-- Glow Leaf -->
+            <RG-W_Plant_GlowLeaf.label>samambaia luminosa</RG-W_Plant_GlowLeaf.label>
+            <RG-W_Plant_GlowLeaf.description>Uma samambaia mutante que brilha no escuro.</RG-W_Plant_GlowLeaf.description>
+
+        <!-- Tripaloski -->
+            <RG-W_Tripaloski.label>agário</RG-W_Tripaloski.label>
+            <RG-W_Tripaloski.description>Um cogumelo vermelho brilhante e venenoso. Sendo o resultado de mutação, só cresce em terrenos devastados e não pode ser cultivado.</RG-W_Tripaloski.description>
+
+        <!-- Pine Tree -->
+            <RG-W_Plant_DryTreePine.label>pinheiro</RG-W_Plant_DryTreePine.label>
+            <RG-W_Plant_DryTreePine.description>Uma grande conífera meio morta sofrendo de envenenamento tóxico. Sua cor é meio desbotada para marrom.</RG-W_Plant_DryTreePine.description>
+            <RG-W_Plant_TreeMutatedDryPine.label>pinheiro</RG-W_Plant_TreeMutatedDryPine.label>
+            <RG-W_Plant_TreeMutatedDryPine.description>Uma grande conífera meio morta sofrendo de envenenamento tóxico. Sua cor é meio desbotada para marrom.</RG-W_Plant_TreeMutatedDryPine.description>
+
     <!-- Argón's Tribal Medicine -->
         <!-- Wild White Broots -->
             <TM_Broots.label>dália selvagem</TM_Broots.label>
