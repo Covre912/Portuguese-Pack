@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX ReGrowth - Mutated Animals Pack -->
+        <!-- Rimstag -->
+            <RG-WF_WastelandDeer.label>veado mutante</RG-WF_WastelandDeer.label>
+            <RG-WF_WastelandDeer.description>Um herbívoro de pastoreio de tamanho médio que sofreu mutação por gerações para resíduos tóxico que prefere viver em florestas e planícies mistas. Os veados mutados são muito rápidos e têm duas cabeças.</RG-WF_WastelandDeer.description>
+            <RG-WF_WastelandDeer.tools.0.label>casco esquerdo</RG-WF_WastelandDeer.tools.0.label>
+            <RG-WF_WastelandDeer.tools.1.label>casco direito</RG-WF_WastelandDeer.tools.1.label>
+            <RG-WF_WastelandDeer.tools.2.label>dentes</RG-WF_WastelandDeer.tools.2.label>
+            <RG-WF_WastelandDeer.tools.3.label>cabeça esquerda</RG-WF_WastelandDeer.tools.3.label>
+            <RG-WF_WastelandDeer.tools.4.label>cabeça direita</RG-WF_WastelandDeer.tools.4.label>
+
+        <!-- Mutated Squirrel -->
+            <RG-WF_WastelandSquirrel.label>esquilo mutante</RG-WF_WastelandSquirrel.label>
+            <RG-WF_WastelandSquirrel.description>Alterado devido à longa exposição a resíduos tóxicos, os esquilos mutantes perderam a pele. Esquilos mutantes se distinguem por seus corpos sem pelo e dentes grandes.</RG-WF_WastelandSquirrel.description>
+            <RG-WF_WastelandSquirrel.tools.0.label>garra esquerda</RG-WF_WastelandSquirrel.tools.0.label>
+            <RG-WF_WastelandSquirrel.tools.1.label>garra direita</RG-WF_WastelandSquirrel.tools.1.label>
+            <RG-WF_WastelandSquirrel.tools.3.label>cabeça</RG-WF_WastelandSquirrel.tools.3.label>
+
+        <!-- Mutated Beaver -->
+            <RG-WF_WastelandBeaver.label>castor mutante</RG-WF_WastelandBeaver.label>
+            <RG-WF_WastelandBeaver.description>Uma grande criatura semelhante a um castor coberta de espinhos. A longa exposição a resíduos tóxicos mudou seu corpo e dieta, fazendo-o caçar carne, em vez de comer plantas.</RG-WF_WastelandBeaver.description>
+            <RG-WF_WastelandBeaver.tools.0.label>garra esquerda</RG-WF_WastelandBeaver.tools.0.label>
+            <RG-WF_WastelandBeaver.tools.1.label>garra direita</RG-WF_WastelandBeaver.tools.1.label>
+            <RG-WF_WastelandBeaver.tools.2.label>espinho</RG-WF_WastelandBeaver.tools.2.label>
+            <RG-WF_WastelandBeaver.tools.4.label>cabeça</RG-WF_WastelandBeaver.tools.4.label>
+
+        <!-- Mutated Bear -->
+            <RG-WF_WastelandBear.label>urso mutante</RG-WF_WastelandBear.label>
+            <RG-WF_WastelandBear.description>Um enorme mamífero onívoro transformado por resíduo tóxico. Tendo perdido grande parte de sua pele, não pode mais viver em biomas frios.</RG-WF_WastelandBear.description>
+
+        <!-- Deathclaw -->
+            <RG-WF_WastelandDeathclaw.label>garramortal</RG-WF_WastelandDeathclaw.label>
+            <RG-WF_WastelandDeathclaw.description>Garramortais são predadores gigantes do vértice mutados de iguana, constantemente vagando por ambientes desertos em busca de presas. Garramortais são incrivelmente rápidos, poderosos e inteligentes.</RG-WF_WastelandDeathclaw.description>
+            <RG-WF_WastelandDeathclaw.tools.0.label>chifre</RG-WF_WastelandDeathclaw.tools.0.label>
+            <RG-WF_WastelandDeathclaw.tools.1.label>garra esquerda</RG-WF_WastelandDeathclaw.tools.1.label>
+            <RG-WF_WastelandDeathclaw.tools.2.label>garra direita</RG-WF_WastelandDeathclaw.tools.2.label>
+            <RG-WF_WastelandDeathclaw.tools.4.label>cabeça</RG-WF_WastelandDeathclaw.tools.4.label>
+
     <!-- Race to the Rim -->
         <!-- Fligthmare -->
             <RttR_Flightmare.label>pesadelo voador</RttR_Flightmare.label>

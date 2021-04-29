@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] ReGrowth - Mutated Animals Pack -->
+        <!-- Rimstag -->
+            <RG-WF_WastelandDeer.label>veado mutante</RG-WF_WastelandDeer.label>
+            <RG-WF_WastelandDeer.labelPlural>veados mutantes</RG-WF_WastelandDeer.labelPlural>
+
+        <!-- Mutated Squirrel -->
+            <RG-WF_WastelandSquirrel.label>esquilo mutante</RG-WF_WastelandSquirrel.label>
+            <RG-WF_WastelandSquirrel.labelPlural>esquilos mutantes</RG-WF_WastelandSquirrel.labelPlural>
+
+        <!-- Mutated Beaver -->
+            <RG-WF_WastelandBeaver.label>castor mutante</RG-WF_WastelandBeaver.label>
+            <RG-WF_WastelandBeaver.labelPlural>castores mutantes</RG-WF_WastelandBeaver.labelPlural>
+
+        <!-- Mutated Bear -->
+            <RG-WF_WastelandBear.label>urso mutante</RG-WF_WastelandBear.label>
+            <RG-WF_WastelandBear.labelPlural>ursos mutantes</RG-WF_WastelandBear.labelPlural>
+
+        <!-- Deathclaw -->
+            <RG-WF_WastelandDeathclaw.label>garramortal</RG-WF_WastelandDeathclaw.label>
+            <RG-WF_WastelandDeathclaw.labelPlural>garramortais</RG-WF_WastelandDeathclaw.labelPlural>
+
     <!-- [HLX] Ultratech: Altered Carbon -->
         <!-- Colonist -->
             <AC_ColonistWithStack.label>colono</AC_ColonistWithStack.label>

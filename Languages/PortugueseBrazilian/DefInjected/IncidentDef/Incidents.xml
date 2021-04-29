@@ -7,6 +7,10 @@
             <RG_DevilDusts.letterLabel>Redemoinhos de Poeira</RG_DevilDusts.letterLabel>
             <RG_DevilDusts.letterText>Um grupo de redemoinhos fortes, bem formados e de vida relativamente curta se formou ao redor do mapa. Eles vão danificar qualquer animal e pessoa que entrar nele.</RG_DevilDusts.letterText>
 
+    <!-- [HLX] ReGrowth - Mutated Animals Pack -->
+        <!-- Rimhcla Pass -->
+            <RG-WF_Rimclaw_DeathclawsPasses.label>passagem de garramortais</RG-WF_Rimclaw_DeathclawsPasses.label>
+
     <!-- [HLX] ReGrowth - Temperate Forest Expansion -->
         <!-- Alastairus Sprout -->
             <RG-TF_AlastairusSprout.label>broto de agárino</RG-TF_AlastairusSprout.label>

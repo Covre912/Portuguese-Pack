@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] ReGrowth - Mutated Animals Pack -->
+        <!-- Heads -->
+            <RG-WF_LeftHeadAttackTool.label>cabeça esquerda</RG-WF_LeftHeadAttackTool.label>
+            <RG-WF_RightHeadAttackTool.label>cabeça direita</RG-WF_RightHeadAttackTool.label>
+
     <!-- Jewelry -->
         <!-- Ears -->
             <Ears.label>orelhas</Ears.label>

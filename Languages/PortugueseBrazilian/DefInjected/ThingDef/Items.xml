@@ -11,6 +11,11 @@
 			<RG_RawDevilsHole.description>Buracos do diabo crus. Um pequeno peixe roxo pertencente à família Cyprinodontidae. Só pode ser encontrado em águas termais e é extremamente raro.</RG_RawDevilsHole.description>
 			<RG_RawDevilsHole.tools.0.label>buraco do diabo</RG_RawDevilsHole.tools.0.label>
 
+	<!-- [HLX] ReGrowth - Mutated Animals Pack -->
+		<!-- Deathclaw Egg -->
+			<RG-WF_DeathclawEggFertilized.label>ovo de garramortal (fert.)</RG-WF_DeathclawEggFertilized.label>
+			<RG-WF_DeathclawEggFertilized.description>Ovo de garramortal fertilizado. Se tudo ocorrer bem, ele deve eclodir um garramortal bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</RG-WF_DeathclawEggFertilized.description>
+
 	<!-- [HLX] ReGrowth - Temperate Forest Expansion -->
 		<!-- Alastair -->
 			<RG-TF_Alastair.label>agárino</RG-TF_Alastair.label>

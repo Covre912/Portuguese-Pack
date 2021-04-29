@@ -1,6 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [HLX] ReGrowth - Mutated Animals Pack -->
+        <!-- Quadruped Animal With Two Heads -->
+            <RG-WF_QuadrupedAnimalWithHooves.label>animal quadrúpede com duas cabeças</RG-WF_QuadrupedAnimalWithHooves.label>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.3.customLabel>pulmão esquerdo</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.3.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.4.customLabel>pulmão direito</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.4.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.5.customLabel>rim esquerdo</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.5.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.6.customLabel>rim direito</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.6.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.1.customLabel>olho esquerdo</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.1.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.2.customLabel>olho direito</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.2.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.3.customLabel>orelha esquerda</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.3.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.4.customLabel>orelha direita</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.8.parts.0.parts.4.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.parts.1.customLabel>olho esquerdo</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.parts.1.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.parts.2.customLabel>olho direito</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.parts.2.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.parts.3.customLabel>orelha esquerda</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.parts.3.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.parts.4.customLabel>orelha direita</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.9.parts.0.parts.4.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.10.customLabel>perna dianteira esquerda</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.10.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.10.parts.0.customLabel>casco dianteiro esquerdo</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.10.parts.0.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.11.customLabel>perna dianteira direita</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.11.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.11.parts.0.customLabel>casco dianteiro direito</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.11.parts.0.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.12.customLabel>perna traseira esquerda</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.12.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.12.parts.0.customLabel>casco traseiro esquerdo</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.12.parts.0.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.13.customLabel>perna traseira direita</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.13.customLabel>
+            <RG-WF_QuadrupedAnimalWithHooves.corePart.parts.13.parts.0.customLabel>casco traseiro direito</RG-WF_QuadrupedAnimalWithHooves.corePart.parts.13.parts.0.customLabel>
+
+        <!-- Humanoid Animal With Horns Claws And Tail -->
+            <RG-WF_HumanoidWithHornsAndClaws.label>animal humanóide com garras chifres e cauda</RG-WF_HumanoidWithHornsAndClaws.label>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.4.customLabel>pulmão esquerdo</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.4.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.5.customLabel>pulmão direito</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.5.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.6.customLabel>rim esquerdo</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.6.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.7.customLabel>rim direito</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.7.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.1.customLabel>olho esquerdo</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.1.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.2.customLabel>olho direito</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.2.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.3.customLabel>orelha esquerda</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.3.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.4.customLabel>orelha direita</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.4.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.5.customLabel>chifre direito</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.5.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.6.customLabel>chifre esquerdo</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.9.parts.0.parts.6.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.customLabel>braço esquerdo</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.parts.0.customLabel>primeira garra esquerda</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.parts.0.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.parts.1.customLabel>segunda garra esquerda</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.parts.1.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.parts.2.customLabel>terceira garra esquerda</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.parts.2.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.parts.3.customLabel>quarta garra esquerda</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.10.parts.3.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.customLabel>braço direito</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.parts.0.customLabel>primeira garra direita</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.parts.0.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.parts.1.customLabel>segunda garra direita</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.parts.1.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.parts.2.customLabel>terceira garra direita</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.parts.2.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.parts.3.customLabel>quarta garra direita</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.11.parts.3.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.12.customLabel>perna esquerda</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.12.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.12.parts.0.customLabel>pata esquerda</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.12.parts.0.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.13.customLabel>perna direita</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.13.customLabel>
+            <RG-WF_HumanoidWithHornsAndClaws.corePart.parts.13.parts.0.customLabel>pata direita</RG-WF_HumanoidWithHornsAndClaws.corePart.parts.13.parts.0.customLabel>
+
     <!-- Race to the Rim -->
         <!-- Winged Quadruped Animal -->
             <RttR_WingedQuadrupedAnimalWithPawsAndTail.label>animal quadrúpede alado</RttR_WingedQuadrupedAnimalWithPawsAndTail.label>

@@ -18,6 +18,11 @@
             <RG.SandDevilLeftTheMap>Os redemoinhos de poeira deixaram o mapa.</RG.SandDevilLeftTheMap>
             <RG.SandDevilDissipated>O redemoinho de poeira se dissipou.</RG.SandDevilDissipated>
 
+    <!-- [HLX] ReGrowth - Mutated Animals Pack -->
+        <!-- Deathclaw -->
+            <LetterLabelDeathclawsPasses>Garramortal</LetterLabelDeathclawsPasses>
+            <LetterDeathclawsPasses>Uma garramortal apareceu pela área.\n\nEssas criaturas raras são extremamente perigosas em combate e difíceis de domar. Alguns comerciantes estão dispostos a pagar muito dinheiro por seus ovos.\n\nO garramortal deixará a área em alguns dias.</LetterDeathclawsPasses>
+
     <!-- [HLX] ReGrowth - Wasteland --> 
         <!-- Wasteland -->
             <coverEntireWorldMapWithWasteland>Cubrir o mapa do mundo inteiro com áreas devastadas</coverEntireWorldMapWithWasteland>
