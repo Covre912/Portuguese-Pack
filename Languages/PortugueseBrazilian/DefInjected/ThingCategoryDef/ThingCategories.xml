@@ -34,6 +34,11 @@
     <!-- Vanilla Books Expanded -->
         <VBE_Books.label>livros</VBE_Books.label>
 
+    <!-- Vanilla Cooking Expanded -->
+        <VCE_Condiments.label>condimentos</VCE_Condiments.label>
+        <VCE_Cheese.label>queijos</VCE_Cheese.label>
+        <VCE_UncookedSoups.label>sopas cruas</VCE_UncookedSoups.label>
+
     <!-- Vanilla Expanded Framework -->
         <VFEC_Shields.label>escudos</VFEC_Shields.label>
 

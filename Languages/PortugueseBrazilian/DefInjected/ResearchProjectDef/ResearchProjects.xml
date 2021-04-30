@@ -140,6 +140,31 @@
             <VBE_Printing.label>impressão</VBE_Printing.label>
             <VBE_Printing.description>Construa uma máquina de escrever, o que permite que seus colonos escrevam livros significativamente mais rápido, bem como criem jornais para um impulso temporário de alegria.</VBE_Printing.description>
 
+    <!-- Vanilla Cooking Expanded -->
+        <!-- Food Condiments -->
+            <VCE_CondimentsResearch.label>condimentos alimentares</VCE_CondimentsResearch.label>
+            <VCE_CondimentsResearch.description>Um condimento é um tempero, molho ou preparação que é adicionado à comida, após ou durante o cozimento, para conferir um sabor específico, para realçar o sabor ou para complementar o prato.</VCE_CondimentsResearch.description>
+
+        <!-- Soup Cooking -->
+            <VCE_SoupCooking.label>sopas</VCE_SoupCooking.label>
+            <VCE_SoupCooking.description>A sopa é um alimento basicamente líquido, geralmente servido quente, feito pela combinação de ingredientes de carne ou vegetais com caldo ou água. As sopas são caracterizadas adicionalmente por ferver ingredientes sólidos em líquidos em uma panela até que os sabores sejam extraídos.</VCE_SoupCooking.description>
+
+        <!-- Grilling -->
+            <VCE_Grilling.label>grelhados</VCE_Grilling.label>
+            <VCE_Grilling.description>Grelhar é uma forma de cozinhar que envolve calor seco aplicado à superfície dos alimentos. Grelhar geralmente envolve uma quantidade significativa de calor direto e radiante e tende a ser usado para cozinhar carne e vegetais rapidamente.</VCE_Grilling.description>
+
+        <!-- Deep Frying -->
+            <VCE_DeepFrying.label>fritura</VCE_DeepFrying.label>
+            <VCE_DeepFrying.description>A fritura é um método de cozimento no qual o alimento é submerso em gordura quente, mais comumente óleo.</VCE_DeepFrying.description>
+
+        <!-- Canning -->
+            <VCE_Canning.label>enlatamento</VCE_Canning.label>
+            <VCE_Canning.description>Enlatamento é um método de conservação de alimentos no qual o conteúdo é processado e selado em um recipiente hermético. Um produto enlatado liofilizado, como lentilhas secas enlatadas, pode durar até 30 anos em estado comestível.</VCE_Canning.description>
+
+        <!-- Cheese Making -->
+            <VCE_CheeseMaking.label>queijaria</VCE_CheeseMaking.label>
+            <VCE_CheeseMaking.description>Queijaria (ou caseicultura) é a arte de fazer queijo. A produção de queijo, como muitos outros processos de conservação de alimentos, permite que o valor nutricional e econômico do leite seja preservado na forma concentrada. A queijaria permite a produção do queijo com diversos sabores e consistências.</VCE_CheeseMaking.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Factory Basics -->
             <VFE_FactoryBasics.label>fundamentos da fábrica</VFE_FactoryBasics.label>

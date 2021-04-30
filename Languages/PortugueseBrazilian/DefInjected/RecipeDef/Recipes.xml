@@ -699,6 +699,217 @@
             <SM_CookSaucedMealLavishBulk.description>Cozinhe refeições complexas a partir da combinação de carne e ingredientes vegetais, além de um condimento. Muitos dos ingredientes serão despediçados.</SM_CookSaucedMealLavishBulk.description>
             <SM_CookSaucedMealLavishBulk.jobString>Cozinhando refeições luxosas temperadas.</SM_CookSaucedMealLavishBulk.jobString>
 
+    <!-- Vanilla Cooking Expanded -->
+        <!-- Simple Bake -->
+            <VCE_CookBakeSimple.label>cozinhar assado simples x2</VCE_CookBakeSimple.label>
+            <VCE_CookBakeSimple.description>Cozinhe assados simples, cozinhados rapidamente com farinha.</VCE_CookBakeSimple.description>
+            <VCE_CookBakeSimple.jobString>Cozinhando assado simples.</VCE_CookBakeSimple.jobString>
+            <VCE_CookBakeSimpleBulk.label>cozinhar assado simples x8</VCE_CookBakeSimpleBulk.label>
+            <VCE_CookBakeSimpleBulk.description>Cozinhe assados simples, cozinhados rapidamente com farinha.</VCE_CookBakeSimpleBulk.description>
+            <VCE_CookBakeSimpleBulk.jobString>Cozinhando assado simples.</VCE_CookBakeSimpleBulk.jobString>
+
+        <!-- Fine Bake -->
+            <VCE_CookBakeFine.label>cozinhar assado bom x2</VCE_CookBakeFine.label>
+            <VCE_CookBakeFine.description>Cozinhe assados complexos montados com cuidado a partir de uma ampla seleção de ingredientes e farinha.</VCE_CookBakeFine.description>
+            <VCE_CookBakeFine.jobString>Cozinhando assado bom.</VCE_CookBakeFine.jobString>
+            <VCE_CookBakeFineBulk.label>cozinhar assado bom x8</VCE_CookBakeFineBulk.label>
+            <VCE_CookBakeFineBulk.description>Cozinhe assados complexos montados com cuidado a partir de uma ampla seleção de ingredientes e farinha.</VCE_CookBakeFineBulk.description>
+            <VCE_CookBakeFineBulk.jobString>Cozinhando assado bom.</VCE_CookBakeFineBulk.jobString>
+
+        <!-- Lavish Bake -->
+            <VCE_CookBakeLavish.label>cozinhar assado luxuoso x2</VCE_CookBakeLavish.label>
+            <VCE_CookBakeLavish.description>Cozinhe obras-primas da arte culinária, esses assados ​​nutrem o corpo, a mente e a alma.</VCE_CookBakeLavish.description>
+            <VCE_CookBakeLavish.jobString>Cozinhando assado luxuoso.</VCE_CookBakeLavish.jobString>
+            <VCE_CookBakeLavishBulk.label>cozinhar assado luxuoso x8</VCE_CookBakeLavishBulk.label>
+            <VCE_CookBakeLavishBulk.description>Cozinhe obras-primas da arte culinária, esses assados ​​nutrem o corpo, a mente e a alma.</VCE_CookBakeLavishBulk.description>
+            <VCE_CookBakeLavishBulk.jobString>Cozinhando assado luxuoso.</VCE_CookBakeLavishBulk.jobString>
+
+        <!-- Gourmet Bake -->
+            <VCE_CookBakeGourmet.label>cozinhar assado gourmet x2</VCE_CookBakeGourmet.label>
+            <VCE_CookBakeGourmet.description>Cozinhe obras de arte culinárias, caracterizadas pela preparação e apresentação requintada e até elaborada de um cozimento esteticamente equilibrado, embora em pequena quantidade.</VCE_CookBakeGourmet.description>
+            <VCE_CookBakeGourmet.jobString>Cozinhando assado gourmet.</VCE_CookBakeGourmet.jobString>
+
+        <!-- Canned Meat -->
+            <VCE_CanMeats.label>enlatar carne x20</VCE_CanMeats.label>
+            <VCE_CanMeats.description>Armazene com segurança carne em uma lata de aço.</VCE_CanMeats.description>
+            <VCE_CanMeats.jobString>Enlatando carne.</VCE_CanMeats.jobString>
+
+        <!-- Canned Produce -->
+            <VCE_CanProduce.label>enlatar vegetais x20</VCE_CanProduce.label>
+            <VCE_CanProduce.description>Armazene com segurança vegetais em uma lata de aço.</VCE_CanProduce.description>
+            <VCE_CanProduce.jobString>Enlatando vegetais.</VCE_CanProduce.jobString>
+
+        <!-- Canned Fruit -->
+            <VCE_CanFruit.label>enlatar frutas x20</VCE_CanFruit.label>
+            <VCE_CanFruit.description>Armazene com segurança frutas em uma lata de aço.</VCE_CanFruit.description>
+            <VCE_CanFruit.jobString>Enlatando vegetais.</VCE_CanFruit.jobString>
+
+        <!-- Canned Eggs -->
+            <VCE_CanEggs.label>enlatar ovos x20</VCE_CanEggs.label>
+            <VCE_CanEggs.description>Armazene com segurança peixe em uma lata de aço.</VCE_CanEggs.description>
+            <VCE_CanEggs.jobString>Enlatando ovos.</VCE_CanEggs.jobString>
+
+        <!-- Kibble -->
+            <VCE_ChopCondiments.label>misturar condimentos em uma ração</VCE_ChopCondiments.label>
+            <VCE_ChopCondiments.description>Misture um lote de condimentos diferentes em uma massa orgânica quase comestível que pode ser dada aos animais.</VCE_ChopCondiments.description>
+            <VCE_ChopCondiments.jobString>Misturando condimentos em uma ração.</VCE_ChopCondiments.jobString>
+
+        <!-- Salt -->
+            <VCE_MakeSalt.label>fazer sal</VCE_MakeSalt.label>
+            <VCE_MakeSalt.description>Moa e processe pedra natural para extrair sais comestíveis de dentro dos pedaços de pedra.</VCE_MakeSalt.description>
+            <VCE_MakeSalt.jobString>Fazendo sal.</VCE_MakeSalt.jobString>
+            <VCE_MakeSaltfromBlocks.label>fazer sal (blocos)</VCE_MakeSaltfromBlocks.label>
+            <VCE_MakeSaltfromBlocks.description>Moa e processe a pedra natural para extrair sais comestíveis de dentro dos blocos de pedra.</VCE_MakeSaltfromBlocks.description>
+            <VCE_MakeSaltfromBlocks.jobString>Fazendo sal.</VCE_MakeSaltfromBlocks.jobString>
+
+        <!-- Agave Nectar -->
+            <VCE_AgaveNectar.label>fazer néctar de agave</VCE_AgaveNectar.label>
+            <VCE_AgaveNectar.description>Crie néctar de agave fino e semidoce, conhecido por suas propriedades cicatrizantes e antiinflamatórias, a partir de agave.</VCE_AgaveNectar.description>
+            <VCE_AgaveNectar.jobString>Fazendo néctar de agave.</VCE_AgaveNectar.jobString>
+
+        <!-- Insect Jelly Preserves -->
+            <VCE_InsectJellyPreserves.label>fazer conserva de geleia de inseto</VCE_InsectJellyPreserves.label>
+            <VCE_InsectJellyPreserves.description>Crie conservas de geléia de inseto a partir de geléia de inseto. Muito doce, embora seja surpreendentemente saudável.</VCE_InsectJellyPreserves.description>
+            <VCE_InsectJellyPreserves.jobString>Fazendo conserva de geleia de inseto.</VCE_InsectJellyPreserves.jobString>
+
+        <!-- Mayo -->
+            <VCE_Mayo.label>fazer maionese</VCE_Mayo.label>
+            <VCE_Mayo.description>Crie maionese de ovos. A maionese adiciona um sabor agradável e é muito calórica.</VCE_Mayo.description>
+            <VCE_Mayo.jobString>Fazendo maionese.</VCE_Mayo.jobString>
+
+        <!-- Smokeleaf Butter -->
+            <VCE_SmokeleafButter.label>fazer manteiga de folha-de-fumo</VCE_SmokeleafButter.label>
+            <VCE_SmokeleafButter.description>Crie manteiga de folha-de-fumo a partir de folha-de-fumo e leite. Muito prejudicial à saúde e um pouco mais forte do que uma folha-de-fumo convencional.</VCE_SmokeleafButter.description>
+            <VCE_SmokeleafButter.jobString>Fazendo manteiga de folha-de-fumo.</VCE_SmokeleafButter.jobString>
+
+        <!-- Chocolate Syrup -->
+            <VCE_ChocolateSyrup.label>fazer xarope de chocolate</VCE_ChocolateSyrup.label>
+            <VCE_ChocolateSyrup.description>Crie xarope de chocolate a partir de chocolate geneticamente modificado. Embora ainda não seja saudável, o xarope de chocolate não é tão ruim quanto o açúcar puro.</VCE_ChocolateSyrup.description>
+            <VCE_ChocolateSyrup.jobString>Fazendo xarope de chocolate.</VCE_ChocolateSyrup.jobString>
+
+        <!-- Simple Dessert -->
+            <VCE_CookDessertSimple.label>cozinhar sobremesa simples</VCE_CookDessertSimple.label>
+            <VCE_CookDessertSimple.description>Cozinhe uma sobremesa simples rapidamente feita com algumas frutas e outros ingredientes.</VCE_CookDessertSimple.description>
+            <VCE_CookDessertSimple.jobString>Cozinhando sobremesa simples.</VCE_CookDessertSimple.jobString>
+            <VCE_CookDessertSimpleBulk.label>cozinhar sobremesa simples x4</VCE_CookDessertSimpleBulk.label>
+            <VCE_CookDessertSimpleBulk.description>Cook 4 simple desserts quickly made from a few fruits and other ingredients.</VCE_CookDessertSimpleBulk.description>
+            <VCE_CookDessertSimpleBulk.jobString>Cozinhando sobremesa simples.</VCE_CookDessertSimpleBulk.jobString>
+
+        <!-- Fine Dessert -->
+            <VCE_CookDessertFine.label>cozinhar sobremesa boa</VCE_CookDessertFine.label>
+            <VCE_CookDessertFine.description>Cozinhe uma sobremesa complexa montada com cuidado a partir de uma ampla seleção de ingredientes.\n\nObserve que, como o Chocolate tem 0,10 de nutrição por unidade, parte dela será desperdiçada durante o preparo desta receita. Considere usar a versão em massa (x4) desta receita para evitar desperdício.</VCE_CookDessertFine.description>
+            <VCE_CookDessertFine.jobString>Cozinhando sobremesa boa.</VCE_CookDessertFine.jobString>
+            <VCE_CookDessertFineBulk.label>cozinhar sobremesa boa x4</VCE_CookDessertFineBulk.label>
+            <VCE_CookDessertFineBulk.description>Cozinhe uma sobremesa complexa montada com cuidado a partir de uma ampla seleção de ingredientes.</VCE_CookDessertFineBulk.description>
+            <VCE_CookDessertFineBulk.jobString>Cozinhando sobremesa boa.</VCE_CookDessertFineBulk.jobString>
+
+        <!-- Lavish Dessert -->
+            <VCE_CookDessertLavish.label>cozinhar sobremesa luxuosa</VCE_CookDessertLavish.label>
+            <VCE_CookDessertLavish.description>Cozinhe uma obra-prima das artes culinárias, esta sobremesa nutre o corpo, a mente e a alma.\n\nObserve que, como o Chocolate tem 0,10 de nutrição por unidade, parte dela será desperdiçada durante o preparo desta receita. Considere usar a versão em massa (x4) desta receita para evitar desperdício.</VCE_CookDessertLavish.description>
+            <VCE_CookDessertLavish.jobString>Cozinhando sobremesa luxuosa.</VCE_CookDessertLavish.jobString>
+            <VCE_CookDessertLavishBulk.label>cozinhar sobremesa luxuosa x4</VCE_CookDessertLavishBulk.label>
+            <VCE_CookDessertLavishBulk.description>Cozinhe uma obra-prima das artes culinárias, esta sobremesa nutre o corpo, a mente e a alma.</VCE_CookDessertLavishBulk.description>
+            <VCE_CookDessertLavishBulk.jobString>Cozinhando sobremesa luxuosa.</VCE_CookDessertLavishBulk.jobString>
+
+        <!-- Gourmet Dessert -->
+            <VCE_CookDessertGourmet.label>cozinhar sobremesa gourmet</VCE_CookDessertGourmet.label>
+            <VCE_CookDessertGourmet.description>Cozinhe uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, até elaborada, de uma sobremesa esteticamente equilibrada, embora em pequena quantidade.</VCE_CookDessertGourmet.description>
+            <VCE_CookDessertGourmet.jobString>Cozinhando sobremesa gourmet.</VCE_CookDessertGourmet.jobString>
+
+        <!-- Deep Fried Meat -->
+            <VCE_DeepFryMeats.label>fritar carne x20</VCE_DeepFryMeats.label>
+            <VCE_DeepFryMeats.description>Frite grandes pedaços de carne. A comida frita é muito saborosa, mas não é muito boa para a saúde.</VCE_DeepFryMeats.description>
+            <VCE_DeepFryMeats.jobString>Fritando carne.</VCE_DeepFryMeats.jobString>
+
+        <!-- Deep Fried Vegetables -->
+            <VCE_DeepFryVegetables.label>fritar vegetais x20</VCE_DeepFryVegetables.label>
+            <VCE_DeepFryVegetables.description>Frite vegetais. A comida frita é muito saborosa, mas não é muito boa para a saúde.</VCE_DeepFryVegetables.description>
+            <VCE_DeepFryVegetables.jobString>Fritando vegetais.</VCE_DeepFryVegetables.jobString>
+
+        <!-- Simple Grill -->
+            <VCE_CookGrillSimple.label>cozinhar grelhado simples</VCE_CookGrillSimple.label>
+            <VCE_CookGrillSimple.description>Cozinhe um grelhado simples, cozinhado rapidamente com alguns ingredientes de carne.</VCE_CookGrillSimple.description>
+            <VCE_CookGrillSimple.jobString>Cozinhando grelhado simples.</VCE_CookGrillSimple.jobString>
+            <VCE_CookGrillSimpleBulk.label>cozinhar grelhado simples x4</VCE_CookGrillSimpleBulk.label>
+            <VCE_CookGrillSimpleBulk.description>Cozinhe grelhados simples, cozinhados rapidamente com alguns ingredientes de carne..</VCE_CookGrillSimpleBulk.description>
+            <VCE_CookGrillSimpleBulk.jobString>Cozinhando grelhado simples.</VCE_CookGrillSimpleBulk.jobString>
+
+        <!-- Fine Grill -->
+            <VCE_CookGrillFine.label>cozinhar grelhado bom</VCE_CookGrillFine.label>
+            <VCE_CookGrillFine.description>Cozinhe um grelhado complexo montado com cuidado a partir de uma ampla seleção de ingredientes.</VCE_CookGrillFine.description>
+            <VCE_CookGrillFine.jobString>Cozinhando grelhado bom.</VCE_CookGrillFine.jobString>
+            <VCE_CookGrillFineBulk.label>cozinhar grelhado bom x4</VCE_CookGrillFineBulk.label>
+            <VCE_CookGrillFineBulk.description>Cozinhe grelhados complexos montados com cuidado a partir de uma ampla seleção de ingredientes.</VCE_CookGrillFineBulk.description>
+            <VCE_CookGrillFineBulk.jobString>Cozinhando grelhado bom x4.</VCE_CookGrillFineBulk.jobString>
+
+        <!-- Lavish Grill -->
+            <VCE_CookGrillLavish.label>cozinhar grelhado luxuoso</VCE_CookGrillLavish.label>
+            <VCE_CookGrillLavish.description>Cozinhe uma obra-prima das artes culinárias, este grelhado nutre o corpo, a mente e a alma.</VCE_CookGrillLavish.description>
+            <VCE_CookGrillLavish.jobString>Cozinhando grelhado luxuoso.</VCE_CookGrillLavish.jobString>
+            <VCE_CookGrillLavishhBulk.label>cozinhar grelhado luxuoso x4</VCE_CookGrillLavishhBulk.label>
+            <VCE_CookGrillLavishhBulk.description>Cozinhe obras-primas das artes culinárias, estes grelhados nutrem o corpo, a mente e a alma.</VCE_CookGrillLavishhBulk.description>
+            <VCE_CookGrillLavishhBulk.jobString>Cozinhando grelhado luxuoso.</VCE_CookGrillLavishhBulk.jobString>
+
+        <!-- Gourmet Grill -->
+            <VCE_CookGrillGourmet.label>cozinhar grelhado gourmet</VCE_CookGrillGourmet.label>
+            <VCE_CookGrillGourmet.description>Cozinhe uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, mesmo elaborada, de um grelhador esteticamente equilibrado, embora em pequena quantidade.</VCE_CookGrillGourmet.description>
+            <VCE_CookGrillGourmet.jobString>Cooking gourmet grill.</VCE_CookGrillGourmet.jobString>
+
+        <!-- Gourmet Meal -->
+            <VCE_CookMealGourmet.label>cozinhar refeição gourmet</VCE_CookMealGourmet.label>
+            <VCE_CookMealGourmet.description>Cozinhe uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, até elaborada, de uma refeição esteticamente equilibrada, embora em pequena quantidade.</VCE_CookMealGourmet.description>
+            <VCE_CookMealGourmet.jobString>Cozinhando refeição gourmet.</VCE_CookMealGourmet.jobString>
+
+        <!-- Simple Soup -->
+            <VCE_CookSoupSimple.label>preparar sopa simples</VCE_CookSoupSimple.label>
+            <VCE_CookSoupSimple.description>Prepare uma sopa crua simples feita rapidamente com alguns ingredientes.</VCE_CookSoupSimple.description>
+            <VCE_CookSoupSimple.jobString>Preparando sopa simples.</VCE_CookSoupSimple.jobString>
+
+        <!-- Fine Soup -->
+            <VCE_CookSoupFine.label>preparar sopa simples</VCE_CookSoupFine.label>
+            <VCE_CookSoupFine.description>Prepare uma sopa crua boa, cuidadosamente preparada com uma vasta seleção de ingredientes.</VCE_CookSoupFine.description>
+            <VCE_CookSoupFine.jobString>Preparando sopa boa.</VCE_CookSoupFine.jobString>
+
+        <!-- Lavish Soup -->
+            <VCE_CookSoupLavish.label>preparar sopa luxuosa</VCE_CookSoupLavish.label>
+            <VCE_CookSoupLavish.description>Prepare uma sopa crua luxuosa. Uma obra-prima das artes culinárias, esta sopa nutre o corpo, a mente e a alma.</VCE_CookSoupLavish.description>
+            <VCE_CookSoupLavish.jobString>Preparando sopa luxuosa.</VCE_CookSoupLavish.jobString>
+
+        <!-- Gourmet Soup -->
+            <VCE_CookSoupGourmet.label>preparar sopa gourmet</VCE_CookSoupGourmet.label>
+            <VCE_CookSoupGourmet.description>Prepare uma sopa gourmet crua. Uma obra de arte culinária, caracterizada pela preparação e apresentação refinada e até elaborada de uma sopa esteticamente equilibrada, embora em pequena quantidade.</VCE_CookSoupGourmet.description>
+            <VCE_CookSoupGourmet.jobString>Preparando sopa gourmet.</VCE_CookSoupGourmet.jobString>
+
+        <!-- Deep Fried Alien Fish -->
+            <VCE_DeepFryAlienFish.label>fritar peixe alienígena x20</VCE_DeepFryAlienFish.label>
+            <VCE_DeepFryAlienFish.description>Frite peixes alienígenas. A comida frita é muito saborosa, mas não é muito boa para a saúde.</VCE_DeepFryAlienFish.description>
+            <VCE_DeepFryAlienFish.jobString>Fritando peixe alienígena.</VCE_DeepFryAlienFish.jobString>
+
+        <!-- Canned Alien Fish -->
+            <VCE_CanAlienFish.label>enlatar peixe alienígena x20</VCE_CanAlienFish.label>
+            <VCE_CanAlienFish.description>Armazene com segurança peixe alienígena em uma lata de aço.</VCE_CanAlienFish.description>
+            <VCE_CanAlienFish.jobString>Enlatando peixe alienígena.</VCE_CanAlienFish.jobString>
+
+        <!-- Deep Fried  Fish -->
+            <VCE_DeepFryFish.label>fritar peixe x20</VCE_DeepFryFish.label>
+            <VCE_DeepFryFish.description>Frite peixes. A comida frita é muito saborosa, mas não é muito boa para a saúde.</VCE_DeepFryFish.description>
+            <VCE_DeepFryFish.jobString>Fritando peixe.</VCE_DeepFryFish.jobString>
+
+        <!-- Canned Fish -->
+            <VCE_CanFish.label>enlatar peixe x20</VCE_CanFish.label>
+            <VCE_CanFish.description>Armazene com segurança peixe em uma lata de aço.</VCE_CanFish.description>
+            <VCE_CanFish.jobString>Enlatando peixe.</VCE_CanFish.jobString>
+
+        <!-- Ketchup -->
+            <VCE_Ketchup.label>fazer ketchup</VCE_Ketchup.label>
+            <VCE_Ketchup.description>Crie ketchup de tomates. Um molho espesso feito de tomates cozidos, tanto salgados quanto picantes, em conjunto com um gosto residual doce. Perfeito para refeições com carne ou alimentos fritos.</VCE_Ketchup.description>
+            <VCE_Ketchup.jobString>Fazendo ketchup.</VCE_Ketchup.jobString>
+
+        <!-- Hot Sauce -->  
+            <VCE_HotSauce.label>fazer molho de pimenta</VCE_HotSauce.label>
+            <VCE_HotSauce.description>Crie molho picante com pimentas. Embora molhos picantes particularmente fortes machuquem no início, são conhecidos por amortecer a dor e causar um suor quente logo após o consumo.</VCE_HotSauce.description>
+            <VCE_HotSauce.jobString>Fazendo molho de pimenta.</VCE_HotSauce.jobString>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Grape Must -->
             <VFEM_Make_Must.label>fazer mosto de uva</VFEM_Make_Must.label>

@@ -747,7 +747,264 @@
 		<!-- Unfinished -->
 			<VBE_UnfinishedBook.label>livro inacabado</VBE_UnfinishedBook.label>
 			<VBE_UnfinishedNewspaper.label>jornal inacabado</VBE_UnfinishedNewspaper.label>
+
+	<!-- Vanilla Cooking Expanded -->
+		<!-- Simple Bake -->
+			<VCE_SimpleBake.label>assado simples</VCE_SimpleBake.label>
+			<VCE_SimpleBake.description>Um simples assado rapidamente cozido com alguns ingredientes e farinha.</VCE_SimpleBake.description>
+
+		<!-- Fine Bake -->
+			<VCE_FineBake.label>assado bom</VCE_FineBake.label>
+			<VCE_FineBake.description>Um assado complexo montado com cuidado a partir de uma ampla seleção de ingredientes e farinha.</VCE_FineBake.description>
+
+		<!-- Lavish Bake -->
+			<VCE_LavishBake.label>assado luxuoso</VCE_LavishBake.label>
+			<VCE_LavishBake.description>Uma obra-prima das artes culinárias, este cozimento nutre o corpo, a mente e a alma.</VCE_LavishBake.description>
+
+		<!-- Gourmet Bake -->
+			<VCE_GourmetBake.label>assado gourmet</VCE_GourmetBake.label>
+			<VCE_GourmetBake.description>Uma obra de arte culinária, caracterizada por preparação e apresentação requintada, até elaborada, de uma cozedura esteticamente equilibrada, embora em pequena quantidade.</VCE_GourmetBake.description>
+
+		<!-- Canned Meat -->
+			<VCE_CannedMeat.label>carne enlatada</VCE_CannedMeat.label>
+			<VCE_CannedMeat.description>Carne selada a vácuo com vida útil prolongada indefinidamente. Embora seja comestível, é muito mais nutritivo misturado à refeição e aquecido. Consumir muitos alimentos enlatados pode causar um aumento na pressão arterial.</VCE_CannedMeat.description>
+
+		<!-- Canned Produce -->
+			<VCE_CannedProduce.label>vegetais enlatados</VCE_CannedProduce.label>
+			<VCE_CannedProduce.description>Vegetais selados a vácuo com vida útil prolongada indefinidamente. Embora seja comestível, é muito mais nutritivo misturado à refeição e aquecido. Consumir muitos alimentos enlatados pode causar um aumento na pressão arterial.</VCE_CannedProduce.description>
+
+		<!-- Canned Fruit -->
+			<VCE_CannedFruit.label>frutas enlatadas</VCE_CannedFruit.label>
+			<VCE_CannedFruit.description>Frutas seladas a vácuo com vida útil prolongada indefinidamente. Embora seja comestível, é muito mais nutritivo misturado à refeição e aquecido. Consumir muitos alimentos enlatados pode causar um aumento na pressão arterial.</VCE_CannedFruit.description>
+
+		<!-- Canned Eggs -->
+			<VCE_CannedAP.label>ovos enlatados</VCE_CannedAP.label>
+			<VCE_CannedAP.description>Ovos selados a vácuo com vida útil prolongada indefinidamente. Embora seja comestível, é muito mais nutritivo misturado à refeição e aquecido. Consumir muitos alimentos enlatados pode causar um aumento na pressão arterial.</VCE_CannedAP.description>
+
+		<!-- Canned Fish -->
+			<VCE_CannedFish.label>peixe enlatado</VCE_CannedFish.label>
+			<VCE_CannedFish.description>Peixe selado a vácuo com vida útil prolongada indefinidamente. Embora seja comestível, é muito mais nutritivo misturado à refeição e aquecido. Consumir muitos alimentos enlatados pode causar um aumento na pressão arterial.</VCE_CannedFish.description>
+
+		<!-- Cheese -->
+			<VCE_Cheese.label>queijo</VCE_Cheese.label>
+			<VCE_Cheese.description>O queijo é um produto lácteo, derivado do leite e produzido em uma ampla gama de sabores, texturas e formas por coagulação da proteína caseína do leite. O queijo é valorizado por sua portabilidade, longa vida e alto teor de gordura, proteína, cálcio e fósforo. É mais compacto e tem uma vida útil mais longa do que o leite.</VCE_Cheese.description>
+
+		<!-- Agave Nectar -->
+			<VCE_AgaveNectar.label>néctar de agave</VCE_AgaveNectar.label>
+			<VCE_AgaveNectar.description>Néctar fino e meio adocicado, conhecido por suas propriedades cicatrizantes e antiinflamatórias. Embora mais saudável que o açúcar, seu alto teor de frutose pode ser prejudicial se ingerido constantemente.</VCE_AgaveNectar.description>
+
+		<!-- Sugar -->
+			<VCE_RawSugar.label>açúcar</VCE_RawSugar.label>
+			<VCE_RawSugar.description>Açúcar cristalino simples, adiciona uma doçura muito desejada. Embora o açúcar seja bem palatável, não é tão bom para os rins e pode causar diabetes rapidamente quando ingerido em massa. O açúcar é facilmente convertido em energia pelo corpo, o que pode resultar em uma explosão de energia.</VCE_RawSugar.description>
+
+		<!-- Spices -->
+			<VCE_RawSpices.label>especiarias</VCE_RawSpices.label>
+			<VCE_RawSpices.description>Uma variedade de especiarias aromáticas e picantes, adiciona várias notas agudas na língua e dá um toque de vitalidade.</VCE_RawSpices.description>
+
+		<!-- Salt -->
+			<VCE_Salt.label>sal</VCE_Salt.label>
+			<VCE_Salt.description>O sal-gema, assim como o sal comum, realça o perfil de sabor de outros ingredientes com os quais é cozido. A ingestão constante tende a causar um aumento da pressão arterial.</VCE_Salt.description>
+
+		<!-- Mayo -->
+			<VCE_Mayo.label>maionese</VCE_Mayo.label>
+			<VCE_Mayo.description>Uma espessa emulsão de ovo, óleo e outras ervas. A maionese adiciona um sabor agradável e é muito calórica densa.</VCE_Mayo.description>
+
+		<!-- Insect Jelly Preserves -->
+			<VCE_InsectJellyPreserves.label>conserva de geleia de inseto</VCE_InsectJellyPreserves.label>
+			<VCE_InsectJellyPreserves.description>Geleia de inseto cortada com adoçante e selada como uma conserva. Muito doce, ao mesmo tempo que é surpreendentemente saudável.</VCE_InsectJellyPreserves.description>
+
+		<!-- Smokeleaf Butter -->
+			<VCE_SmokeleafButter.label>manteiga de folha-de-fumo</VCE_SmokeleafButter.label>
+			<VCE_SmokeleafButter.description>Uma substância gordurosa e espessa, feita ao bater o leite em um creme bem espesso, combinando-se com o óleo de folha-de-fumo e permitindo que se solidifique. Muito prejudicial à saúde e um pouco mais forte do que uma folha-de-fumo convencional.</VCE_SmokeleafButter.description>
+
+		<!-- Chocolate Syrup -->
+			<VCE_ChocolateSyrup.label>xarope de chocolate</VCE_ChocolateSyrup.label>
+			<VCE_ChocolateSyrup.description>Uma mistura de cacau, água e açúcar, formando um xarope agridoce, escoável, perfeito para o revestimento de sobremesas. Embora não seja tão saudável, o xarope de chocolate não é tão ruim quanto o açúcar puro.</VCE_ChocolateSyrup.description>
+
+		<!-- Digestible Resurrectot Nanites -->
+			<VCE_DigestibleResurrectorNanites.label>nanites ressuscitadores digestíveis</VCE_DigestibleResurrectorNanites.label>
+			<VCE_DigestibleResurrectorNanites.description>Uma mistura  ultratecnológica, imprópria para beber diretamente devido ao gosto amargo e um caso leve de hemorragia intraventricular. No entanto, quando cozido adequadamente na comida, esses efeitos parecem inexplicavelmente anulados. Quaisquer colonos com este presente serão imediatamente revividos na morte como se por milagre.</VCE_DigestibleResurrectorNanites.description>
+
+		<!-- Deep Fried Meat -->
+			<VCE_DeepFriedBigMeat.label>carne frita</VCE_DeepFriedBigMeat.label>
+			<VCE_DeepFriedBigMeat.description>A carne amaciada e filetada, depois enrolada em uma massa espessa antes de ser submersa em óleo quente e frita. O resultado final é um alimento crocante para a alma, insalubre, mas saboroso - não tão satisfatório quanto uma refeição, mas muito agradável de comer.</VCE_DeepFriedBigMeat.description>
+
+		<!-- Deep Fried Vegetables -->
+			<VCE_DeepFriedVegetables.label>vegetais fritos</VCE_DeepFriedVegetables.label>
+			<VCE_DeepFriedVegetables.description>Vegetais cortados e depois secos antes de serem mergulhados em óleo quente até dourar. Por mais crocantes e agradáveis ​​que sejam, essas guloseimas fritas não são tão satisfatórias quanto uma refeição normal, nem tão saudáveis.</VCE_DeepFriedVegetables.description>
+
+		<!-- Deep Fried Fish -->
+			<VCE_DeepFriedFish.label>peixe frito</VCE_DeepFriedFish.label>
+			<VCE_DeepFriedFish.description>O peixe amaciado e filetado, depois enrolado em uma massa espessa antes de ser submerso em óleo quente e frito. O resultado final é um alimento crocante para a alma, insalubre, mas saboroso - não tão satisfatório quanto uma refeição, mas muito agradável de comer.</VCE_DeepFriedFish.description>
+
+		<!-- Simple Dessert -->
+			<VCE_SimpleDessert.label>sobremesa simples</VCE_SimpleDessert.label>
+			<VCE_SimpleDessert.description>Uma sobremesa simples feita rapidamente com algumas frutas e outros ingredientes.</VCE_SimpleDessert.description>
+
+		<!-- Fine Dessert -->
+			<VCE_FineDessert.label>sobremesa boa</VCE_FineDessert.label>
+			<VCE_FineDessert.description>Uma sobremesa complexa montada com cuidado a partir de uma ampla seleção de ingredientes.</VCE_FineDessert.description>
+
+		<!-- Lavish Dessert -->
+			<VCE_LavishDessert.label>sobremesa luxuosa</VCE_LavishDessert.label>
+			<VCE_LavishDessert.description>Uma obra-prima das artes culinárias, esta sobremesa nutre o corpo, a mente e a alma.</VCE_LavishDessert.description>
+
+		<!-- Gourmet Dessert -->
+			<VCE_GourmetDessert.label>sobremesa gourmet</VCE_GourmetDessert.label>
+			<VCE_GourmetDessert.description>Uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, até elaborada, de uma sobremesa esteticamente equilibrada, embora em pequena quantidade.</VCE_GourmetDessert.description>
+
+		<!-- Gourmet Meal -->
+			<VCE_MealGourmet.label>refeição gourmet</VCE_MealGourmet.label>
+			<VCE_MealGourmet.description>Uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, até elaborada, de uma refeição esteticamente equilibrada, embora em pequena quantidade.</VCE_MealGourmet.description>
+
+		<!-- Simple Grill -->
+			<VCE_SimpleGrill.label>grelhado simples</VCE_SimpleGrill.label>
+			<VCE_SimpleGrill.description>Um grelhado simples cozido com alguns ingredientes. Grelhados permitem que as pessoas não sintam fome por muito tempo após o consumo. Congelá-los estraga esse efeito.</VCE_SimpleGrill.description>
+
+		<!-- Ruined Simple Grill -->
+			<VCE_RuinedSimpleGrill.label>grelhado simples arruinado</VCE_RuinedSimpleGrill.label>
+			<VCE_RuinedSimpleGrill.description>Um grelhado simples cozido com alguns ingredientes. Este grelhado foi congelado e, como tal, ainda é comestível, mas muito menos satisfatório. Não fornecerá o bônus "bem alimentado".</VCE_RuinedSimpleGrill.description>
+
+		<!-- Fine Grill -->
+			<VCE_FineGrill.label>grelhado bom</VCE_FineGrill.label>
+			<VCE_FineGrill.description>Um complexo grelhado montado com esmero a partir de uma ampla seleção de ingredientes. Grelhados permitem que as pessoas não sintam fome por muito tempo após o consumo. Congelá-los estraga esse efeito.</VCE_FineGrill.description>
+
+		<!-- Ruined Fine Grill -->
+			<VCE_RuinedFineGrill.label>grelhado bom arruinado</VCE_RuinedFineGrill.label>
+			<VCE_RuinedFineGrill.description>Um complexo grelhado montado com esmero a partir de uma ampla seleção de ingredientes. Este grelhado foi congelado e, como tal, ainda é comestível, mas muito menos satisfatório. Não fornecerá o bônus "bem alimentado".</VCE_RuinedFineGrill.description>
+
+		<!-- Lavish Grill -->
+			<VCE_LavishGrill.label>grelhado luxuoso</VCE_LavishGrill.label>
+			<VCE_LavishGrill.description>Uma obra-prima das artes culinárias, este grelhado nutre o corpo, a mente e a alma. Grelhados permitem que as pessoas não sintam fome por muito tempo após o consumo. Congelá-los estraga esse efeito.</VCE_LavishGrill.description>
+
+		<!-- Ruined Lavish Grill -->
+			<VCE_RuinedLavishGrill.label>grelhado luxuoso arruinado</VCE_RuinedLavishGrill.label>
+			<VCE_RuinedLavishGrill.description>Uma obra-prima das artes culinárias, este grelhado nutre o corpo, a mente e a alma. Este grelhado foi congelado e, como tal, ainda é comestível, mas muito menos satisfatório. Não fornecerá o bônus "bem alimentado".</VCE_RuinedLavishGrill.description>
+
+		<!-- Gourmet Grill -->
+			<VCE_GourmetGrill.label>grelhado gourmet</VCE_GourmetGrill.label>
+			<VCE_GourmetGrill.description>Uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, até elaborada, de uma carne grelhada esteticamente equilibrada, embora em pequena quantidade. Grelhados permitem que as pessoas não sintam fome por muito tempo após o consumo. Congelá-los estraga esse efeito.</VCE_GourmetGrill.description>
+
+		<!-- Ruined Gourmet Grill -->
+			<VCE_RuinedGourmetGrill.label>grelhado gourmet arruinado</VCE_RuinedGourmetGrill.label>
+			<VCE_RuinedGourmetGrill.description>Uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, até elaborada, de uma carne grelhada esteticamente equilibrada, embora em pequena quantidade. Este grelhado foi congelado e, como tal, ainda é comestível, mas muito menos satisfatório. Não fornecerá o bônus "bem alimentado".</VCE_RuinedGourmetGrill.description>
+
+		<!-- Flour -->
+			<VCE_Flour.label>farinha</VCE_Flour.label>
+			<VCE_Flour.description>Farinha de trigo, usada na panificação. A farinha de trigo demora muito para estragar, se armazenada em um ambiente seco.</VCE_Flour.description>
+
+		<!-- Uncooked Simple Soup -->
+			<VCE_UncookedSoupSimple.label>sopa simples crua</VCE_UncookedSoupSimple.label>
+			<VCE_UncookedSoupSimple.description>Uma sopa simples crua. Precisa ser cozida em uma panela elétrica para ser comestível.</VCE_UncookedSoupSimple.description>
+
+		<!-- Simple Soup -->
+			<VCE_CookedSoupSimple.label>sopa simples</VCE_CookedSoupSimple.label>
+			<VCE_CookedSoupSimple.description>Uma sopa simples cozida lentamente com alguns ingredientes.</VCE_CookedSoupSimple.description>
+
+		<!-- Uncooked Fine Soup -->
+			<VCE_UncookedSoupFine.label>sopa boa crua</VCE_UncookedSoupFine.label>
+			<VCE_UncookedSoupFine.description>Uma sopa boa crua. Precisa ser cozida em uma panela elétrica para ser comestível.</VCE_UncookedSoupFine.description>
+
+		<!-- Fine Soup -->
+			<VCE_CookedSoupFine.label>sopa boa</VCE_CookedSoupFine.label>
+			<VCE_CookedSoupFine.description>Uma sopa complexa montada com cuidado a partir de uma ampla seleção de ingredientes.</VCE_CookedSoupFine.description>
+
+		<!-- Uncooked Lavish Soup -->
+			<VCE_UncookedSoupLavish.label>sopa luxuosa crua</VCE_UncookedSoupLavish.label>
+			<VCE_UncookedSoupLavish.description>Uma sopa luxuosa crua. Precisa ser cozida em uma panela elétrica para ser comestível.</VCE_UncookedSoupLavish.description>
+
+		<!-- Lavish Soup -->
+			<VCE_CookedSoupLavish.label>sopa luxuosa</VCE_CookedSoupLavish.label>
+			<VCE_CookedSoupLavish.description>Uma obra-prima das artes culinárias, esta sopa nutre o corpo, a mente e a alma.</VCE_CookedSoupLavish.description>
+
+		<!-- Uncooked Gourmet Soup -->
+			<VCE_UncookedSoupGourmet.label>sopa gourmet crua</VCE_UncookedSoupGourmet.label>
+			<VCE_UncookedSoupGourmet.description>Uma sopa gourmet crua. Precisa ser cozida em uma panela elétrica para ser comestível.</VCE_UncookedSoupGourmet.description>
+
+		<!-- Gourmet Soup -->
+			<VCE_CookedSoupGourmet.label>sopa gourmet</VCE_CookedSoupGourmet.label>
+			<VCE_CookedSoupGourmet.description>Uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, até elaborada, de uma sopa esteticamente equilibrada, embora em pequena quantidade.</VCE_CookedSoupGourmet.description>
+
+		<!-- Blue Cheese -->
+			<VCE_BlueCheese.label>queijo azul</VCE_BlueCheese.label>
+			<VCE_BlueCheese.description>O queijo azul é o queijo feito com culturas do fungo, dando-lhe manchas ou veios azuis. Carrega um cheiro "distinto".</VCE_BlueCheese.description>
+
+		<!-- Gow Cheese -->
+			<VCE_GowCheese.label>queijo gorgonzola</VCE_GowCheese.label>
+			<VCE_GowCheese.description>O queijo gorgonzola é muito apreciado por sua textura macia e derretível e seu sabor muito macio.</VCE_GowCheese.description>
+
+		<!-- Night Cheese -->
+			<VCE_NightCheese.label>queijo da noite</VCE_NightCheese.label>
+			<VCE_NightCheese.description>A casca preta como breu deste queijo macio confere-lhe um contraste marcante com a sua pasta clara. Muito nutritivo.</VCE_NightCheese.description>
+
+		<!-- Eldritch Cheese -->
+			<VCE_EldritchCheese.label>queijo horripilante</VCE_EldritchCheese.label>
+			<VCE_EldritchCheese.description>Ph'nglui mglw'nafh Queijo R'lyeh wgah'nagl fhtagn. A única marca de queijo que agradaria aos próprios Anciões.</VCE_EldritchCheese.description>
+
+		<!-- Dino Cheese -->
+			<VCE_DinoCheese.label>dino-queijo</VCE_DinoCheese.label>
+			<VCE_DinoCheese.description>Um queijo falso, de um leite falso. Melhor não pensar de onde veio isso.</VCE_DinoCheese.description>
+
+		<!-- Pataceramuffalo Brie -->
+			<VCE_ParaceramuffaloBrie.label>queijo brie</VCE_ParaceramuffaloBrie.label>
+			<VCE_ParaceramuffaloBrie.description>Um queijo delicioso que demora MUITO a amadurecer. O queijo brie certamente faz valer a pena a espera, sendo um dos queijos mais nutritivos.</VCE_ParaceramuffaloBrie.description>
+
+		<!-- Green Cheese -->
+			<VCE_GreenCheese.label>queijo verde</VCE_GreenCheese.label>
+			<VCE_GreenCheese.description>Um queijo de cor verde que, na verdade, não é nada apetitoso.</VCE_GreenCheese.description>
 		
+		<!-- Weird Cheese -->
+			<VCE_WeirdCheese.label>queijo estranho</VCE_WeirdCheese.label>
+			<VCE_WeirdCheese.description>Um queijo malcheiroso pingando constantemente uma película oleosa. Tem um sabor químico ácido, que pode ser considerado repugnante.</VCE_WeirdCheese.description>
+
+		<!-- Mecha Cheese -->
+			<VCE_MechaCheese.label>meca-queijo</VCE_MechaCheese.label>
+			<VCE_MechaCheese.description>Um queijo mecanoide criado pela prensagem de leite mecanoide. Não é comestível, mas se consumido, agirá como uma droga incrivelmente poderosa, semelhante ao Lucifério, mas sem dependência.</VCE_MechaCheese.description>
+
+		<!-- Bearffalo Cheese -->
+			<VCE_BearffaloCheese.label>queijo de ursofalo</VCE_BearffaloCheese.label>
+			<VCE_BearffaloCheese.description>Um estranho queijo azul criado com leite de ursofalo. Muito nutritivo, mas muito rico em gorduras saturadas.</VCE_BearffaloCheese.description>
+
+		<!-- Thrumffalo Gouda -->
+			<VCE_ThrumffaloGouda.label>queijo gouda</VCE_ThrumffaloGouda.label>
+			<VCE_ThrumffaloGouda.description>O queijo gouda é considerado uma iguaria requintada. Demora muito a amadurecer, mas depois de pronto é um dos queijos mais nutritivos do mundo.</VCE_ThrumffaloGouda.description>
+
+		<!-- Lumpy Cheese -->
+			<VCE_LumpyCheese.label>queijo grumoso</VCE_LumpyCheese.label>
+			<VCE_LumpyCheese.description>Este queijo irregular parece ter pedaços concentrados de proteína, com gosto de nuggets de frango. Os colonos parecem gostar.</VCE_LumpyCheese.description>
+
+		<!-- Chickenffalo Cheese -->
+			<VCE_ChickenffaloCheese.label>queijo de galinhafalo</VCE_ChickenffaloCheese.label>
+			<VCE_ChickenffaloCheese.description>Um queijo muito brando, quase sem gosto. A única coisa boa é que amadurece muito mais rápido do que outros.</VCE_ChickenffaloCheese.description>
+
+		<!-- Brown Cheese -->
+			<VCE_BrownCheese.label>queijo marrom</VCE_BrownCheese.label>
+			<VCE_BrownCheese.description>Um queijo de cor marrom, semelhante em sabor ao Cheddar, mas com nuances de nozes torradas. Não é muito nutritivo, mas é muito agradável de comer.</VCE_BrownCheese.description>
+
+		<!-- Hairy Cheese -->
+			<VCE_HairyCheese.label>queijo peludo</VCE_HairyCheese.label>
+			<VCE_HairyCheese.description>Por quê? Por que, por que, por que, POR QUÊ? Queijo. Com cabelo. POR QUÊ???</VCE_HairyCheese.description>
+
+		<!-- Rat Cheese -->
+			<VCE_RatCheese.label>queijo de rato</VCE_RatCheese.label>
+			<VCE_RatCheese.description>Depois de superar a ideia de que este queijo foi feito com leite de rato gigante, não fica tão ruim assim!</VCE_RatCheese.description>
+
+		<!-- Bee Cheese -->
+			<VCE_BeeCheese.label>queijo de abelha</VCE_BeeCheese.label>
+			<VCE_BeeCheese.description>Um delicioso queijo extraído do leite criado pelas abelhas lácticas. Sim, é melhor não pensar nisso.</VCE_BeeCheese.description>
+
+		<!-- Insect Cheese -->
+			<VCE_InsectCheese.label>queijo de inseto</VCE_InsectCheese.label>
+			<VCE_InsectCheese.description>Um queijo de cheiro forte que lembra o Roquefort. O queijo de inseto é branco, picante, quebradiço e ligeiramente úmido.</VCE_InsectCheese.description>
+
+		<!-- Ketchup -->
+			<VCE_Ketchup.label>ketchup</VCE_Ketchup.label>
+			<VCE_Ketchup.description>Um molho espesso feito de tomates cozidos, tanto salgados quanto picantes, em conjunto com um gosto residual doce. Perfeito para refeições com carne ou alimentos fritos.</VCE_Ketchup.description>
+
+		<!-- Hot Sauce -->
+			<VCE_HotSauce.label>molho de pimenta</VCE_HotSauce.label>
+			<VCE_HotSauce.description>Um molho picante potente feito de pimenta e outras especiarias. Embora molhos picantes particularmente fortes machuquem no início, são conhecidos por amortecer a dor e causar um suor quente logo após o consumo.</VCE_HotSauce.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Component -->
             <VFE_ComponentMechanoid.label>componente mecanóide</VFE_ComponentMechanoid.label>

@@ -284,6 +284,31 @@
             <VBE_TypewritersTable.label>mesa de máquina de escrever</VBE_TypewritersTable.label>
             <VBE_TypewritersTable.description>Uma estação de trabalho com todo o equipamento necessário para escrever livros. Esta estação está equipada com uma máquina de escrever que acelera significativamente o trabalho, mas requer de energia.</VBE_TypewritersTable.description>
 
+    <!-- Vanilla Cooking Expanded -->
+        <!-- Eletric Pot -->
+            <VCE_ElectricPot.label>panela elétrica</VCE_ElectricPot.label>
+            <VCE_ElectricPot.description>Uma panela elétrica, também chamada de panela térmica, é um pequeno eletrodoméstico usado para ferver água e mantê-la em temperatura constante. Normalmente é usada para cozinhar sopas. Os ingredientes são submersos em água e deixados para cozinhar por um longo período, permitindo que os sabores dos ingredientes se aprofundem gradualmente e se misturem com o tempo.\n\nA sopa em uma panela elétrica sem energia estraga muito rapidamente.</VCE_ElectricPot.description>
+
+        <!-- Grill -->
+            <VCE_Grill.label>grelha</VCE_Grill.label>
+            <VCE_Grill.description>Uma grelha é um dispositivo que cozinha os alimentos aplicando calor. Este é uma grelha a lena que necessita de madeira como combustível para funcionar.</VCE_Grill.description>
+
+        <!-- Deep Fryer -->
+            <VCE_DeepFrier.label>fritadeira</VCE_DeepFrier.label>
+            <VCE_DeepFrier.description>Uma fritadeira é um aparelho de cozinha usado para frituras. A fritura é um método de cozinhar submergindo os alimentos em óleo em fogo alto, normalmente entre as temperaturas de 175°C a 190°C.</VCE_DeepFrier.description>
+
+        <!-- Canning Machine -->
+            <VCE_CanningMachine.label>máquina de enlatamento</VCE_CanningMachine.label>
+            <VCE_CanningMachine.description>A máquina de enlatamento é um aparelho para armazenar alimentos em conserva dentro de latas metálicas. Cada operação de enlatamento precisa de uma certa quantidade de aço.</VCE_CanningMachine.description>
+
+        <!-- Condiment Prep Table -->
+            <VCE_CondimentPrepTable.label>mesa de prep. de condimentos</VCE_CondimentPrepTable.label>
+            <VCE_CondimentPrepTable.description>Uma mesa de trabalho para cortar, fatiar e preparar condimentos usados ​​em receitas gourmet.</VCE_CondimentPrepTable.description>
+
+        <!-- Cheese Press -->   
+            <VCE_CheesePress.label>prensa de queijo</VCE_CheesePress.label>
+            <VCE_CheesePress.description>Uma prensa de queijo é um dispositivo para prensar o soro da coalhada. A prensagem influencia a dureza e a textura do queijo e também determina a forma do bloco ou da roda do queijo. Esta prensa também funciona como câmara de maturação, por isso, quanto mais tempo o queijo ficar a maturar, melhor será a sua qualidade.</VCE_CheesePress.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Ship Chunk -->
             <VEE_ShipChunkHuman.label>pedaço de nave</VEE_ShipChunkHuman.label>

@@ -536,6 +536,103 @@
             <VBE_JoyActivityInImpressiveLibraryRoom.stages.9.label>livraria maravilhosamente impressionante</VBE_JoyActivityInImpressiveLibraryRoom.stages.9.label>
             <VBE_JoyActivityInImpressiveLibraryRoom.stages.9.description>Eu me diverti muito em uma livraria maravilhosa. Eu poderia ficar lá para sempre.</VBE_JoyActivityInImpressiveLibraryRoom.stages.9.description>
 
+    <!-- Vanilla Cooking Expanded -->
+        <!-- Sugar -->
+            <VCE_ConsumedSugar.stages.0.label>consumiu açúcar</VCE_ConsumedSugar.stages.0.label>
+            <VCE_ConsumedSugar.stages.0.description>Açúcar não é amor. Mas pode parecer.</VCE_ConsumedSugar.stages.0.description>
+
+        <!-- Chocolate Syrup -->
+            <VCE_ConsumedChocolateSyrup.stages.0.label>consumiu xarope de chocolate</VCE_ConsumedChocolateSyrup.stages.0.label>
+            <VCE_ConsumedChocolateSyrup.stages.0.description>Chocolate É amor.</VCE_ConsumedChocolateSyrup.stages.0.description>
+
+        <!-- Insect Jelly Preserves -->
+            <VCE_ConsumedInsectJelly.stages.0.label>consumiu conserva de geleia de inseto</VCE_ConsumedInsectJelly.stages.0.label>
+            <VCE_ConsumedInsectJelly.stages.0.description>Que sabor incrivelmente doce!</VCE_ConsumedInsectJelly.stages.0.description>
+
+        <!-- Smokeleaf Butter -->
+            <VCE_SmokeleafButterHigh.stages.0.label>viajando na manteiga de folha-de-fumo</VCE_SmokeleafButterHigh.stages.0.label>
+            <VCE_SmokeleafButterHigh.stages.0.description>Estou, tipo, chapado, cara.</VCE_SmokeleafButterHigh.stages.0.description>
+
+        <!-- Salt -->
+            <VCE_ConsumedSalt.stages.0.label>consumiu sal</VCE_ConsumedSalt.stages.0.label>
+            <VCE_ConsumedSalt.stages.0.description>Uma pitada de sal realmente realça os sabores de uma refeição.</VCE_ConsumedSalt.stages.0.description>
+
+        <!-- Mayo -->
+            <VCE_ConsumedMayo.stages.0.label>consumiu maionese</VCE_ConsumedMayo.stages.0.label>
+            <VCE_ConsumedMayo.stages.0.description>Eu comi um pouco de maionese deliciosa. Estou satisfeito(a)!</VCE_ConsumedMayo.stages.0.description>
+
+        <!-- Agave -->
+            <VCE_ConsumedAgave.stages.0.label>consumiu agave</VCE_ConsumedAgave.stages.0.label>
+            <VCE_ConsumedAgave.stages.0.description>Comi um delicioso néctar de agave.</VCE_ConsumedAgave.stages.0.description>
+
+        <!-- Spices -->
+            <VCE_ConsumedSpices.stages.0.label>consumiu especiarias</VCE_ConsumedSpices.stages.0.label>
+            <VCE_ConsumedSpices.stages.0.description>Aquela refeição estava apimentada!</VCE_ConsumedSpices.stages.0.description>
+
+        <!-- Resurrector Nanites -->
+            <VCE_ConsumedDigestibleResurrectorNanites.stages.0.label>nanites ressuscitadores</VCE_ConsumedDigestibleResurrectorNanites.stages.0.label>
+            <VCE_ConsumedDigestibleResurrectorNanites.stages.0.description>Me sinto invencível!</VCE_ConsumedDigestibleResurrectorNanites.stages.0.description>
+
+        <!-- Gourmet Meal -->
+            <VCE_AteGourmetMeal.stages.0.label>comeu refeição gourmet</VCE_AteGourmetMeal.stages.0.label>
+            <VCE_AteGourmetMeal.stages.0.description>Uma experiência culinária alucinante. Meu paladar foi dotado de sensações que vão além deste mundo.</VCE_AteGourmetMeal.stages.0.description>
+
+        <!-- Simple Dessert -->
+            <VCE_AteSimpleDessert.stages.0.label>comeu sobremesa simples</VCE_AteSimpleDessert.stages.0.label>
+            <VCE_AteSimpleDessert.stages.0.description>Aquela sobremesa era muito simples, mas certamente saborosa.</VCE_AteSimpleDessert.stages.0.description>
+
+        <!-- Fine Dessert -->
+            <VCE_AteFineDessert.stages.0.label>comeu sobremesa boa</VCE_AteFineDessert.stages.0.label>
+            <VCE_AteFineDessert.stages.0.description>Aquela sobremesa estava muito boa! Eu quero mais!</VCE_AteFineDessert.stages.0.description>
+
+        <!-- Lavish Dessert -->
+            <VCE_AteLavishDessert.stages.0.label>comeu sobremesa luxuosa</VCE_AteLavishDessert.stages.0.label>
+            <VCE_AteLavishDessert.stages.0.description>Aquela sobremesa estava incrivelmente boa, estou tão ansioso(a) para comer mais!</VCE_AteLavishDessert.stages.0.description>
+
+        <!-- Gourmet Dessert -->
+            <VCE_AteGourmetDessert.stages.0.label>comeu sobremesa gourmet</VCE_AteGourmetDessert.stages.0.label>
+            <VCE_AteGourmetDessert.stages.0.description>Meu Deus! Meu paladar nunca experimentou tamanha explosão de sabores orgásticos. Isso foi puro pornô alimentar. Eu preciso de mais!</VCE_AteGourmetDessert.stages.0.description>
+
+        <!-- Simple Grill -->
+            <VCE_AteSimpleGrill.stages.0.label>comeu grelhado simples</VCE_AteSimpleGrill.stages.0.label>
+            <VCE_AteSimpleGrill.stages.0.description>Um grelhado simples. Meh.</VCE_AteSimpleGrill.stages.0.description>
+
+        <!-- Fine Grill -->
+            <VCE_AteFineGrill.stages.0.label>comeu grelhado bom</VCE_AteFineGrill.stages.0.label>
+            <VCE_AteFineGrill.stages.0.description>Comi um grelhado muito bom com alguns vegetais. Super saboroso.</VCE_AteFineGrill.stages.0.description>
+
+        <!-- Lavish Grill -->
+            <VCE_AteLavishGrill.stages.0.label>comeu grelhado luxuoso</VCE_AteLavishGrill.stages.0.label>
+            <VCE_AteLavishGrill.stages.0.description>Comi um prato incrível com carne grelhada habilmente cozida com alguns vegetais. Delicioso!</VCE_AteLavishGrill.stages.0.description>
+
+        <!-- Gourmet Grill -->
+            <VCE_AteGourmetGrill.stages.0.label>comeu grelhado gourmet</VCE_AteGourmetGrill.stages.0.label>
+            <VCE_AteGourmetGrill.stages.0.description>Aquilo... aquilo estava fora deste mundo. A carne derreteu na minha boca. Simplesmente incrível.</VCE_AteGourmetGrill.stages.0.description>
+
+        <!-- Deep Fried Food -->
+            <VCE_AteFriedGoods.stages.0.label>comeu fritura</VCE_AteFriedGoods.stages.0.label>
+            <VCE_AteFriedGoods.stages.0.description>Comida gordurosa. Delicioso.</VCE_AteFriedGoods.stages.0.description>
+
+        <!-- Canned Food -->
+            <VCE_ConsumedCannedGoods.stages.0.label>comeu comida enlatada</VCE_ConsumedCannedGoods.stages.0.label>
+            <VCE_ConsumedCannedGoods.stages.0.description>Comer diretamente de uma lata é como comer sem uma mesa.</VCE_ConsumedCannedGoods.stages.0.description>
+
+        <!-- Mecha Cheese -->
+            <VCE_AteMechaCheese.stages.0.label>comeu meca-queijo</VCE_AteMechaCheese.stages.0.label>
+            <VCE_AteMechaCheese.stages.0.description>Isso... foi... huh... meu corpo inteiro está formigando.</VCE_AteMechaCheese.stages.0.description>
+
+        <!-- Bearffalo Cheese -->
+            <VCE_AteBearffaloCheese.stages.0.label>comeu queijo de ursofalo</VCE_AteBearffaloCheese.stages.0.label>
+            <VCE_AteBearffaloCheese.stages.0.description>Aquilo estava gostoso. Gorduroso, mas saboroso.</VCE_AteBearffaloCheese.stages.0.description>
+
+        <!-- Ketchup -->
+            <VCE_ConsumedKetchup.stages.0.label>consumiu ketchup</VCE_ConsumedKetchup.stages.0.label>
+            <VCE_ConsumedKetchup.stages.0.description>Bondade deliciosa e pegajosa.</VCE_ConsumedKetchup.stages.0.description>
+
+        <!-- Hot Sauce -->
+            <VCE_ConsumedHotSauce.stages.0.label>fogo que arde sem se ver</VCE_ConsumedHotSauce.stages.0.label>
+            <VCE_ConsumedHotSauce.stages.0.description>Eu absolutamente odeio aquele molho quente super forte! Por favor, me dê mais.</VCE_ConsumedHotSauce.stages.0.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Aurora -->
             <Aurora.stages.0.label>aurora linda</Aurora.stages.0.label>

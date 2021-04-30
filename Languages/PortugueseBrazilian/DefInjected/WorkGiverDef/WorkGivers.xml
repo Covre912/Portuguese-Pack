@@ -84,6 +84,27 @@
             <VBE_DoBillsWrite.verb>escrever</VBE_DoBillsWrite.verb>
             <VBE_DoBillsWrite.gerund>escrevendo em</VBE_DoBillsWrite.gerund>
 
+    <!-- Vanilla Cooking Expanded -->
+        <!-- Grill -->
+            <VCE_DoBillsGrill.label>cozinhar em grelha</VCE_DoBillsGrill.label>
+            <VCE_DoBillsGrill.verb>grelha</VCE_DoBillsGrill.verb>
+            <VCE_DoBillsGrill.gerund>grelhando em</VCE_DoBillsGrill.gerund>
+
+        <!-- Fry -->
+            <VCE_DoBillsFryer.label>cozinhar em fritadeira</VCE_DoBillsFryer.label>
+            <VCE_DoBillsFryer.verb>fritar</VCE_DoBillsFryer.verb>
+            <VCE_DoBillsFryer.gerund>fritando em</VCE_DoBillsFryer.gerund>
+
+        <!-- Can -->
+            <VCE_DoBillsCanning.label>trabalhar em máquina de enlatamento</VCE_DoBillsCanning.label>
+            <VCE_DoBillsCanning.verb>enlatar alimentos</VCE_DoBillsCanning.verb>
+            <VCE_DoBillsCanning.gerund>enlatando alimentos em</VCE_DoBillsCanning.gerund>
+
+        <!-- Prep -->
+            <VCE_DoBillsPrep.label>trabalhar em mesa de prep. de condimentos</VCE_DoBillsPrep.label>
+            <VCE_DoBillsPrep.verb>preparar condimentos</VCE_DoBillsPrep.verb>
+            <VCE_DoBillsPrep.gerund>preparando condimentos em</VCE_DoBillsPrep.gerund>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Take Wine -->
             <VFEM_TakeBeerOutOfWineBarrel.label>retirar vinho dos barris</VFEM_TakeBeerOutOfWineBarrel.label>

@@ -206,6 +206,19 @@
             <RG-D_Plant_DesertPalmTree.label>palmeira</RG-D_Plant_DesertPalmTree.label>
             <RG-D_Plant_DesertPalmTree.description>Uma árvore do deserto com um tronco alto e nu encimado por um cacho de folhas muito largas. Infelizmente, esta variedade não produz cocos comestíveis.</RG-D_Plant_DesertPalmTree.description>
 
+    <!-- Vanilla Cooking Expanded -->
+        <!-- Sugarcane Plant -->
+            <VCE_Sugarcane.label>cana-de-açúcar</VCE_Sugarcane.label>
+            <VCE_Sugarcane.description>Uma grama tropical espessa e alta com hastes articuladas. Embora não seja exatamente a coisa mais nutritiva de se comer sozinha, esta cana-de-açúcar geneticamente modificada é facilmente transformada em açúcar e usada para uma variedade de criações culinárias - especialmente sobremesas.</VCE_Sugarcane.description>
+
+        <!-- Allspice Plant -->
+            <VCE_Allspice.label>pimenta dioica</VCE_Allspice.label>
+            <VCE_Allspice.description>Uma videira folhosa e anômala com pequenos frutos verdes intragáveis. Quando finamente moídas durante o cozimento, as frutas liberam um sabor complexo e apimentado, perfeito para temperar pratos.</VCE_Allspice.description>
+
+        <!-- Wheat Plant -->
+            <VCE_Wheat.label>trigo</VCE_Wheat.label>
+            <VCE_Wheat.description>Uma planta de cereal âmbar que leva quase uma estação de crescimento inteira para chegar à fruição. Embora frágil e demorado, este trigo foi geneticamente modificado para se quebrar suavemente em farinha com um simples toque.</VCE_Wheat.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Bluebell -->
             <VEE_Plant_Bluebell.label>campânula azul</VEE_Plant_Bluebell.label>

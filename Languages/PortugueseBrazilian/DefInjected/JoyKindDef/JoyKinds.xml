@@ -4,6 +4,9 @@
     <!-- Vanilla Books Expanded -->
         <VBE_Reading.label>leitura</VBE_Reading.label>
 
+    <!-- Vanilla Cooking Expanded -->
+        <VCE_Confectionery.label>consumo de sobremesas</VCE_Confectionery.label>
+
     <!-- Vanilla Furniture Expanded -->
         <Gaming_Electronic.label>jogos eletrônicos</Gaming_Electronic.label>
 

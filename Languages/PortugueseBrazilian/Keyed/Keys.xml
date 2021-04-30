@@ -2464,6 +2464,62 @@
             <VBE.CantReadMapUsed>Não é possível ler: Este mapa já foi usado.</VBE.CantReadMapUsed>
             <VBE.LocationsOpened>Novo local encontrado</VBE.LocationsOpened>
             <VBE.LocationsOpenedDesc>Ler o mapa desbloqueou um novo local.</VBE.LocationsOpenedDesc>
+
+    <!-- Vanilla Cooking Expanded -->
+        <!-- Soup -->
+            <VCE_InsertSoup>inserir sopa</VCE_InsertSoup>
+            <VCE_InsertSoupDesc>Sopa para Cozinhar</VCE_InsertSoupDesc>
+            <VCE_NoSoupsFound>Nenhuma sopa desse tipo encontrada neste mapa.</VCE_NoSoupsFound>
+            <VCE_UncookedSoupSimple>sopa simples</VCE_UncookedSoupSimple>
+            <VCE_UncookedSoupFine>sopa boa</VCE_UncookedSoupFine>
+            <VCE_UncookedSoupLavish>sopa luxuosa</VCE_UncookedSoupLavish>
+            <VCE_UncookedSoupGourmet>sopa gourmet</VCE_UncookedSoupGourmet>
+            <VCE_UncookedSoupSimple_InsertSoup>inserir sopa simples</VCE_UncookedSoupSimple_InsertSoup>
+            <VCE_UncookedSoupFine_InsertSoup>inserir sopa boa</VCE_UncookedSoupFine_InsertSoup>
+            <VCE_UncookedSoupLavish_InsertSoup>inserir sopa luxuosa</VCE_UncookedSoupLavish_InsertSoup>
+            <VCE_UncookedSoupGourmet_InsertSoup>inserir sopa gourmet</VCE_UncookedSoupGourmet_InsertSoup>
+            <VCE_SelectSoup>Selecione um tipo de sopa para cozinhar</VCE_SelectSoup>
+            <VCE_StartInsertion>Traga Sopa</VCE_StartInsertion>
+            <VCE_StartInsertionDesc>Traga uma sopa para a panela elétrica para começar a cozinhar</VCE_StartInsertionDesc>
+            <VCE_RemoveSoup>Remover Sopa</VCE_RemoveSoup>
+            <VCE_RemoveSoupDesc>Retire a sopa da panela. Isso só pode ser feito antes de você começar a cozinhá-la.</VCE_RemoveSoupDesc>
+            <VCE_CancelBringingSoup>Cancelar trazendo sopa</VCE_CancelBringingSoup>
+            <VCE_CancelBringingSoupDesc>Cancele a colocação de sopa na panela elétrica.</VCE_CancelBringingSoupDesc>
+            <VCE_WaitTillJobsEnd>Espere até que a sopa seja levada para a panela elétrica ou cancele o trabalho.</VCE_WaitTillJobsEnd>
+            <VCE_NotPowered>A panela elétrica não está conectada à energia</VCE_NotPowered>
+            <VCE_Engage>Cozinhar Sopa</VCE_Engage>
+            <VCE_EngageDesc>Comece a cozinhar a sopa. Este processo leva 3 dias e não pode ser interrompido, ou a sopa será destruída.</VCE_EngageDesc>
+            <VCE_SoupFailurePower>A sopa estragou devido a uma falha de energia na panela elétrica</VCE_SoupFailurePower>
+            <VCE_SoupFailurePowerWarning>A sopa está estragando rapidamente devido à falta de combustível na panela elétrica</VCE_SoupFailurePowerWarning>
+            <VCE_SoupFinished>Uma sopa terminou de cozinhar na panela elétrica</VCE_SoupFinished>
+            <VCE_SoupInProgress>Uma {0} está cozinhando. Estará pronta em {1}</VCE_SoupInProgress>
+            <VCE_SoupReady>Uma sopa terminou de cozinhar e está esperando para ser retirada</VCE_SoupReady>
+
+        <!-- Cheese -->
+            <VCE_InsertMilkDesc>Selecione o Leite para prensar na prensa de queijo. Leites diferentes podem produzir diferentes tipos de queijo.</VCE_InsertMilkDesc>
+            <VCE_InsertMilk>Selecionar Leite</VCE_InsertMilk>
+            <VCE_InsertMilkVariable>Inserir {0}</VCE_InsertMilkVariable>
+            <VCE_NoMilksFound>Nenhum leite desse tipo encontrado neste mapa.</VCE_NoMilksFound>
+            <VCE_SelectMilk>Selecione um tipo de leite a ser prensado</VCE_SelectMilk>
+            <VCE_StartInsertionMilk>Trazer Leite</VCE_StartInsertionMilk>
+            <VCE_StartInsertionMilkDesc>Leve o leite para a prensa de queijo para começar a prensar</VCE_StartInsertionMilkDesc>
+            <VCE_RemoveMilk>Remover Leite</VCE_RemoveMilk>
+            <VCE_RemoveMilkDesc>Retire o leite da prensa. Isso só pode ser feito antes de você começar a pressioná-lo.</VCE_RemoveMilkDesc>
+            <VCE_CancelBringingMilk>Cancelar trazendo leite</VCE_CancelBringingMilk>
+            <VCE_CancelBringingMilkDesc>Cancele o transporte do leite para a prensa de queijo</VCE_CancelBringingMilkDesc>
+            <VCE_WaitTillJobsEndMilk>Espere até que o leite seja levado para a prensa de queijo ou cancele o trabalho.</VCE_WaitTillJobsEndMilk>
+            <VCE_EngageMilk>Pressionar</VCE_EngageMilk>
+            <VCE_EngageMilkDesc>Comece pressionando o leite. Este processo leva um tempo variável e o queijo aumentará de qualidade com o amadurecimento. Você pode removê-lo a qualquer momento após o período inicial.</VCE_EngageMilkDesc>
+            <VCE_CheeseFinished>Um queijo terminou de amadurecer na prensa de queijo</VCE_CheeseFinished>
+            <VCE_CheeseInProgress>A prensa de queijo está pressionando {0}. Estará pronto com qualidade {1} em {2}</VCE_CheeseInProgress>
+            <VCE_CheeseReady>Este queijo atingiu o grau de maturação desejado e aguarda a retirada.</VCE_CheeseReady>
+            <VCE_MilkImproperlyDefined>Este leite foi definido incorretamente para funcionar com a prensa de queijo, entre em contato com o autor do mod do leite</VCE_MilkImproperlyDefined>
+            <VCE_RemoveCheese>Remover Queijo ({0})</VCE_RemoveCheese>
+            <VCE_RemoveCheeseDesc>Retire o queijo da prensa para queijo. O queijo estará pronto no nível de qualidade atual ({0})</VCE_RemoveCheeseDesc>
+            <VCE_CheesePressEmpty>Prensa de queijo vazia</VCE_CheesePressEmpty>
+            <VCE_CheesePressFilled>Prensa de queijo preenchida de {0}</VCE_CheesePressFilled>
+            <VCE_CheesePressWorking>Prensa de queijo funcionando:</VCE_CheesePressWorking>
+            <VCE_ResourcePercentage> (preenchida com {0} de {1})</VCE_ResourcePercentage>
         
     <!-- Vanilla Events Expanded -->
         <!-- Animal Transport Pod Crash -->
@@ -2475,8 +2531,8 @@
             <ADJLetter>O animal que você resgatou não se juntou à colônia</ADJLetter>
 
         <!-- Traitor -->
-        <TraitorLabel>Traidor!</TraitorLabel>
-        <Traitor>Um(a) colono(a) chamado(a) {PAWN_nameDef}, que você aceitou em sua colônia, acaba por ser um agente inimigo de {PAWN_factionName}.\n\nVocê pode capturar ele(a) para fins de recrutamento ou escravidão.</Traitor>
+            <TraitorLabel>Traidor!</TraitorLabel>
+            <Traitor>Um(a) colono(a) chamado(a) {PAWN_nameDef}, que você aceitou em sua colônia, acaba por ser um agente inimigo de {PAWN_factionName}.\n\nVocê pode capturar ele(a) para fins de recrutamento ou escravidão.</Traitor>
 
         <!-- Space Battle -->
             <SpaceBattleLabel>Batalha espacial</SpaceBattleLabel>
@@ -2665,6 +2721,120 @@
         <!-- Toggable Patches -->
             <TPTitle>Patches alternáveis:</TPTitle>
             <NeedRestart>&lt;b&gt;&lt;color=red&gt;Todas as configurações precisam ser reiniciadas para serem aplicadas&lt;/color&gt;&lt;/b&gt;</NeedRestart>
+
+        <!-- Insert -->
+            <IP_InsertFirstItemDesc>Inserir</IP_InsertFirstItemDesc>
+            <IP_InsertSecondItemDesc>Inserir</IP_InsertSecondItemDesc>
+            <IP_InsertThirdItemDesc>Inserir</IP_InsertThirdItemDesc>
+            <IP_InsertFourthItemDesc>Inserir</IP_InsertFourthItemDesc>
+            <IP_InsertVariable>Inserir {0}</IP_InsertVariable>
+            <IP_InsertVariableSecond>Inserir {0} no segundo espaço</IP_InsertVariableSecond>
+            <IP_InsertVariableThird>Inserir {0} no terceiro espaço</IP_InsertVariableThird>
+
+        <!-- Output -->
+            <IP_Output>Produto {0}</IP_Output>
+            <IP_OutputVariable>{0} de {1}</IP_OutputVariable>
+            <IP_OutputDesc>O processador produzirá {0}. Precisa ser alimentado {1}</IP_OutputDesc>
+
+        <!-- Can't Find Thing -->
+            <IP_CantFindThing>Nenhum item desse tipo ({0}) encontrado neste mapa</IP_CantFindThing>
+
+        <!-- Bring -->
+            <IP_BringIngredients>Traga Ingredientes</IP_BringIngredients>
+            <IP_BringIngredientsDesc>Traga os Ingredientes para iniciar o processo</IP_BringIngredientsDesc>
+
+        <!-- Cancel -->
+            <IP_CancelIngredients>Cancelar trazendo Ingredientes</IP_CancelIngredients>
+            <IP_CancelIngredientsDesc>Cancele trazer ingrediente para este processador</IP_CancelIngredientsDesc>
+
+        <!-- No Ingredient Found -->
+            <IP_NoIngredientFound>Nenhum ingrediente encontrado no mapa</IP_NoIngredientFound>
+
+        <!-- Choose -->
+            <IP_ChooseIngredient>Escolha o Ingrediente</IP_ChooseIngredient>
+            <IP_ChooseIngredientSecond>Escolha o Segundo Ingrediente</IP_ChooseIngredientSecond>
+            <IP_ChooseIngredientThird>Escolha o Terceiro Ingrediente</IP_ChooseIngredientThird>
+            <IP_ChooseIngredientFourth>Escolha o Quarto Ingrediente</IP_ChooseIngredientFourth>
+            <IP_ChooseOutput>Escolha o Produto</IP_ChooseOutput>
+
+        <!-- Ingredient Improperly Defined -->
+            <IP_IngredientImproperlyDefined>Um dos ingredientes foi definido incorretamente para funcionar com o processador do item, entre em contato com o autor do mod</IP_IngredientImproperlyDefined>
+
+        <!-- Destroys -->
+            <IP_NoPowerDestroysWarning>{0} precisa de energia para começar a funcionar</IP_NoPowerDestroysWarning>
+            <IP_NoFuelDestroysWarning>{0} precisa ser abastecido para começar a funcionar</IP_NoFuelDestroysWarning>
+            <IP_LightDestroysWarning>{0} precisa ter um nível de luz adequado para começar a funcionar</IP_LightDestroysWarning>
+            <IP_RainDestroysWarning>{0} precisa que não esteja chovendo para começar a funcionar</IP_RainDestroysWarning>
+            <IP_TemperatureDestroysWarning>{0} precisa de uma temperatura adequada ({1} - {2}) para começar a funcionar</IP_TemperatureDestroysWarning>
+            <IP_NoPowerDestroysInitialWarning>O produto está estragando devido a uma falha de energia no processador de itens</IP_NoPowerDestroysInitialWarning>
+            <IP_NoPowerDestroysMessage>O produto estragou devido a uma falha de energia no processador de itens</IP_NoPowerDestroysMessage>
+
+        <!-- Product Finished -->
+            <IP_GenericProductFinished>Um produto concluiu o processamento e está aguardando para ser retirado</IP_GenericProductFinished>
+
+        <!-- Empty / Filled -->
+            <IP_IsEmpty>{0} está vazio(a)</IP_IsEmpty>
+            <IP_FilledWith>{0} está preenchido(a) com {1}</IP_FilledWith>
+            <IP_FilledWithSecond>O segundo espaço de {0} está preenchido com {1}</IP_FilledWithSecond>
+            <IP_FilledWithThird>O teceiro espaço de {0} está preenchido com {1}</IP_FilledWithThird>
+            <IP_FilledWithFourth>O quarto espaço de {0} está preenchido com {1}</IP_FilledWithFourth>
+            <IP_IngredientPercentage> (preenchido(a) em {0} de {1})</IP_IngredientPercentage>
+
+        <!-- Processor -->
+            <IP_ProcessorWorking>{0} está funcionando: </IP_ProcessorWorking>
+            <IP_ProcessorPaused>{0} está pausado(a): </IP_ProcessorPaused>
+            <IP_ProcessingInProgress>{0} está processando {1}. {2} estará pronto com qualidade {3} em {4}</IP_ProcessingInProgress>
+            <IP_ProcessingInProgressNoQuality>{0} está processando {1}. {2} estará pronto em {3}</IP_ProcessingInProgressNoQuality>
+
+        <!-- Remove Product -->
+            <IP_RemoveProduct>Remover {0} ({1})</IP_RemoveProduct>
+            <IP_RemoveProductDesc>Remova {0} de {1}. O produto estará pronto no nível de qualidade atual ({2})</IP_RemoveProductDesc>
+
+        <!-- Reset Semiautomatic -->
+            <IP_ResetSemiautomatic>Redefinir Receitas</IP_ResetSemiautomatic>
+            <IP_ResetSemiautomaticDesc>Isso redefinirá o processador depois que o produto atual for concluído, então um novo ingrediente de entrada pode ser escolhido</IP_ResetSemiautomaticDesc>
+
+        <!-- No Combination -->
+            <IP_NoCombination>Nenhuma combinação encontrada para esses ingredientes</IP_NoCombination>
+
+        <!-- Auto Quality -->
+            <IP_SetAutoQuality>Defina a qualidade para a extração do produto. Quando o produto atingir essa qualidade, um colono irá extraí-lo automaticamente e levá-lo para uma pilha de estoque, se disponível. Se não for definido, os produtos serão extraídos manualmente ou com qualidade lendária.</IP_SetAutoQuality>
+            <IP_ChooseQualityAuto>Escolha a qualidade automática</IP_ChooseQualityAuto>
+            <IP_QualityAutoIs>Qualidade Automática: {0}</IP_QualityAutoIs>
+            <IP_QualityAutoNot>Desativar Qualidade Automática</IP_QualityAutoNot>
+            <IP_QualityAutoEstablished>Qualidade Automática, o produto será extraído no nível de qualidade: {0}</IP_QualityAutoEstablished>
+
+        <!-- Auto Toggle -->
+            <IP_ToggleAuto>Aquisição de Ingredientes Automática</IP_ToggleAuto>
+            <IP_ToggleAutoDesc>Se definido como ativo, este processador irá automaticamente pegar os ingredientes de funis adjacentes e começará a funcionar automaticamente assim que o produto for removido. Caso contrário, os colonos transportarão os ingredientes para a estrutura, e ela precisará ser ativada manualmente após ser recarregada</IP_ToggleAutoDesc>
+            <IP_ResetFullAuto>Reinicializar a Máquina</IP_ResetFullAuto>
+            <IP_ResetFullAutoDesc>Reinicializa totalmente a máquina e a faz parar. Aviso, isso irá destruir o processo e os itens de entrada</IP_ResetFullAutoDesc>
+
+        <!-- Product Waiting -->
+            <IP_ProductWaiting>Esperando pela retirada</IP_ProductWaiting>
+
+        <!-- Light -->
+            <IP_OutsideLightRange>O processo neste processador está sendo interrompido devido a um nível inadequado de luz e estragará em breve</IP_OutsideLightRange>
+            <IP_SpoiledDueToLight>O produto neste processador estragou devido a um nível inadequado de luz</IP_SpoiledDueToLight>
+
+        <!-- Rain -->
+            <IP_ItRains>O processo neste processador está sendo interrompido devido ao clima e estragará em breve</IP_ItRains>
+            <IP_SpoiledDueToRain>O produto neste processador estragou devido ao clima</IP_SpoiledDueToRain>
+
+        <!-- Temperature -->
+            <IP_WrongTemp>O processo neste processador está sendo interrompido devido a uma temperatura inadequada e estragará em breve</IP_WrongTemp>
+            <IP_SpoiledDueToWrongTemp>O produto neste processador estragou devido a uma temperatura inadequada</IP_SpoiledDueToWrongTemp>
+            <IP_TempRangeInThisMachine>. Este fermentador precisa de uma temperatura entre {0} e {1} ºC</IP_TempRangeInThisMachine>
+
+        <!-- Pause -->
+            <IP_TogglePause>Pausar / Reiniciar</IP_TogglePause>
+            <IP_TogglePauseDesc>Pausar / Reiniciar o processamento desta máquina</IP_TogglePauseDesc>
+
+        <!-- Over Threshold -->
+            <IP_OverThreshold> Esperando que a saída fique vazia. O limite de saída é {0}</IP_OverThreshold>
+
+        <!-- No Recipes Here -->
+            <IP_NoRecipesHere>Nenhuma receita encontrada para esta máquina</IP_NoRecipesHere>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Long Range Missile -->

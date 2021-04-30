@@ -50,6 +50,7 @@
         <VEF_AnimalResource.reportString>coletando recursos animais de TargetA.</VEF_AnimalResource.reportString>
         <VEF_DestroyItem.reportString>destruindo um item.</VEF_DestroyItem.reportString>
         <VEF_LayExplodingEgg.reportString>botando ovos.</VEF_LayExplodingEgg.reportString>
+        <VEF_IngestWeird.reportString>consumindo TargetA.</VEF_IngestWeird.reportString>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <VFEM_EquipShield.reportString>equipando TargetA.</VFEM_EquipShield.reportString>
