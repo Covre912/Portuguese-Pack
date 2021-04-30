@@ -1025,6 +1025,10 @@
         <!-- Panel World Pawn List -->
             <EdB.PC.Panel.WorldPawnList.Title>Mundo</EdB.PC.Panel.WorldPawnList.Title>
 
+    <!-- Everybody Gets One -->
+        <!-- Surplus -->
+            <TD.RecipeCannotHaveSurplus>(Esta receita não pode ter uma contagem excedente porque tem vários ingredientes.)</TD.RecipeCannotHaveSurplus>
+
     <!-- Expanded Materials - Plastics -->
         <!-- Item Processor -->
         	<VMEu_InsertPlasticDesc>Inserir plástico líquido.</VMEu_InsertPlasticDesc>
@@ -2317,6 +2321,63 @@
             <WMH_MonsterClass_Relict_Description>Relictos são ameaças de nível Gallatross, mas geram recompensas significativamente maiores.</WMH_MonsterClass_Relict_Description>
             <WMH_MonsterClass_Spectre>Espectro</WMH_MonsterClass_Spectre>
             <WMH_MonsterClass_Spectre_Description>A presença de uma aparição instila medo, que afeta diretamente o humor de seus colonos. Prepare-se para colapsos mentais no meio da batalha.</WMH_MonsterClass_Spectre_Description>
+
+    <!-- RunAndGun -->
+        <!-- Tabs -->
+            <RG_tab1>Definir pesado/leve...</RG_tab1>
+            <RG_tab2>Proibir armas...</RG_tab2>
+            <RG_Tabs_Title>Opções avançadas</RG_Tabs_Title>
+
+        <!-- Forbidder -->
+            <RG_WeaponForbidder_Title>Proibir Correr e Atirar para armas</RG_WeaponForbidder_Title>
+            <RG_WeaponForbidder_Description>Selecione as armas para as quais você gostaria de proibir de Correr e Atirar</RG_WeaponForbidder_Description>
+
+        <!-- Forbid / Allow -->
+            <RG_Forbid>Proibir</RG_Forbid>
+            <RG_Allow>Permitir</RG_Allow>
+
+        <!-- Accuracy Penalty -->
+            <RG_AccuracyPenalty_Title>Penalidade de Precisão (%)</RG_AccuracyPenalty_Title>
+            <RG_AccuracyPenalty_Description>A penalidade de precisão quando a correr e atirar estão ativadas</RG_AccuracyPenalty_Description>
+
+        <!-- Movement Penalty -->
+            <RG_MovementPenaltyHeavy_Title>Penalidade de Movimento para Armas Pesadas (%)</RG_MovementPenaltyHeavy_Title>
+            <RG_MovementPenaltyHeavy_Description>A penalidade de movimento enquanto atira com armas pesadas</RG_MovementPenaltyHeavy_Description>
+            <RG_MovementPenaltyLight_Title>Penalidade de Movimento para Armas Leves (%)</RG_MovementPenaltyLight_Title>
+            <RG_MovementPenaltyLight_Description>A penalidade de movimento enquanto atira com armas leves</RG_MovementPenaltyLight_Description>
+
+        <!-- Enable RG -->
+            <RG_EnableRGForAI_Title>Habilitar Correr e Atirar para IA</RG_EnableRGForAI_Title>
+            <RG_EnableRGForAI_Description>Habilita Correr e Atirar para todos as IA. Cuidado, isso os torna incrivelmente mortais.</RG_EnableRGForAI_Description>
+            <RG_EnableRGForFleeChance_Title>Fuga com Armas(%)</RG_EnableRGForFleeChance_Title>
+            <RG_EnableRGForFleeChance_Description>Chance de que os colonos inimigos em fuga usem Correr e Atirar durante a fuga</RG_EnableRGForFleeChance_Description>
+
+        <!-- Weight Limit Filter -->
+            <RG_WeightLimitFilter_Title>Filtro Pesado/Leve por Limite de Peso</RG_WeightLimitFilter_Title>
+            <RG_WeightLimitFilter_Description>Use o controle deslizante para definir o limite de peso que é usado para o filtro. Quando aplicar é clicado, as armas são categorizadas como pesadas ou leves com base neste limite de peso. Armas pesadas têm uma penalidade de movimento diferente das armas leves.</RG_WeightLimitFilter_Description>
+
+        <!-- Weapon Selection -->
+            <RG_WeaponSelection_Title>Quais armas são leves/pesadas?\n(usado para penalidade de movimento)</RG_WeaponSelection_Title>
+            <RG_WeaponSelection_Description>Clique para configurar se as armas devem ser consideradas armas pesadas ou leves para que a penalidade de movimento seja aplicada</RG_WeaponSelection_Description>
+
+        <!-- Button -->
+            <RG_Button_Apply>Aplicar</RG_Button_Apply>
+
+        <!-- Consider -->
+            <RG_ConsideredLight>Armas leves</RG_ConsideredLight>
+            <RG_ConsideredHeavy>Armas pesadas</RG_ConsideredHeavy>
+
+        <!-- Action -->
+            <RG_Action_Enable_Label>Correr a atirar</RG_Action_Enable_Label>
+            <RG_Action_Disable_Label>Desabilitar correr e atirar</RG_Action_Disable_Label>
+            <RG_Action_Disable_Description>Desabilita modo correr e atirar.</RG_Action_Disable_Description>
+            <RG_Action_Enable_Description>Habilita o modo correr e atirar, um modo no qual os colonis podem atirar enquanto correm. Atirar enquanto corre causa uma penalidade de precisão e movimento.</RG_Action_Enable_Description>
+
+        <!-- Dialog CE -->
+            <RG_Dialog_CE_Title>Prepare RunAndGun para Combat Extended</RG_Dialog_CE_Title>
+            <RG_Dialog_CE_Description>Parece que você está usando a versão mais recente Run and Gun e Combat Extended juntos pela primeira vez. Combat Extended funciona muito bem com Run and Gun, mas não para todas as armas.\nPara obter a melhor experiência, permita que o Combat Extended defina para quais armas o disparo são proibidos. Se você configurou armas proibidas para Run e Gun antes, sua configuração será substituída.</RG_Dialog_CE_Description>
+            <RG_Dialog_CE_ConfirmButton>Permitir</RG_Dialog_CE_ConfirmButton>
+            <RG_Dialog_CE_DisallowButton>Proibir</RG_Dialog_CE_DisallowButton>
     
     <!-- Vanilla Achievements Expanded -->
         <!-- VAE -->
@@ -2381,6 +2442,29 @@
         <!-- Settings -->
             <VAEE.AddBanishGizmoToAllAnimals>Adicione o botão "Libertar" para todos os animais</VAEE.AddBanishGizmoToAllAnimals>
 
+    <!-- Vanilla Books Expanded -->
+        <!-- Book -->
+            <VBE.Book>Livro</VBE.Book>
+            <VBE.ReadBook>Ler livro</VBE.ReadBook>
+            <VBE.CantReadSkillBookTooSimple>Não é possível ler: este livro de habilidades não é suficiente. </VBE.CantReadSkillBookTooSimple>
+
+        <!-- Newspaper -->
+            <VBE.ReadNewsPaper>Ler jornal</VBE.ReadNewsPaper>
+            <VBE.NewspaperRelevantUntil>Relevante até: </VBE.NewspaperRelevantUntil>
+            <VBE.CantReadNewsPaperExpired>Não é possível ler: este jornal esté desatualizado.</VBE.CantReadNewsPaperExpired>
+
+        <!-- Blueprint -->
+            <VBE.ReadBlueprint>Ler desenho técnico</VBE.ReadBlueprint>
+            <VBE.CantReadBlueprintAlreadyResearched>Não é possível ler: Essa tecnologia já é conhecida.</VBE.CantReadBlueprintAlreadyResearched>
+            <VBE.CantReadBlueprintTooAdvanced>Não é possível ler: Esta tecnologia é muito avançada.</VBE.CantReadBlueprintTooAdvanced>
+            <VBE.CantReadBlueprintUsed>Não é possível ler: Este desenho técnico já foi usado.</VBE.CantReadBlueprintUsed>
+
+        <!-- Map -->
+            <VBE.ReadMap>Ler mapa</VBE.ReadMap>
+            <VBE.CantReadMapUsed>Não é possível ler: Este mapa já foi usado.</VBE.CantReadMapUsed>
+            <VBE.LocationsOpened>Novo local encontrado</VBE.LocationsOpened>
+            <VBE.LocationsOpenedDesc>Ler o mapa desbloqueou um novo local.</VBE.LocationsOpenedDesc>
+        
     <!-- Vanilla Events Expanded -->
         <!-- Animal Transport Pod Crash -->
             <LetterLabelAnimalPodCrash>Queda de cápsula de transporte de animal</LetterLabelAnimalPodCrash>

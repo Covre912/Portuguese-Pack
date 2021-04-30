@@ -78,6 +78,12 @@
             <VEF_DoBillsAdvancedAnimalImplantsTable.verb>fazer implantes veterinários avançados</VEF_DoBillsAdvancedAnimalImplantsTable.verb>
             <VEF_DoBillsAdvancedAnimalImplantsTable.gerund>fazendo implantes veterinários avançados em</VEF_DoBillsAdvancedAnimalImplantsTable.gerund>
 
+    <!-- Vanilla Books Expanded -->
+        <!-- Write -->
+            <VBE_DoBillsWrite.label>escrever livros</VBE_DoBillsWrite.label>
+            <VBE_DoBillsWrite.verb>escrever</VBE_DoBillsWrite.verb>
+            <VBE_DoBillsWrite.gerund>escrevendo em</VBE_DoBillsWrite.gerund>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Take Wine -->
             <VFEM_TakeBeerOutOfWineBarrel.label>retirar vinho dos barris</VFEM_TakeBeerOutOfWineBarrel.label>

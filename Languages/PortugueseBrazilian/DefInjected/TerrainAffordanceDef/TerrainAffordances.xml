@@ -2,7 +2,6 @@
 <LanguageData>
 
     <!-- [HLX] ReGrowth - Core -->
-        <!-- Lava -->
-            <RG_Lava.label>lava</RG_Lava.label>
+        <RG_Lava.label>lava</RG_Lava.label>
 
 </LanguageData>

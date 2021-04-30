@@ -717,6 +717,37 @@
 			<AEXP_MuskOxWool.label>lã de boi-almiscarado</AEXP_MuskOxWool.label>
 			<AEXP_MuskOxWool.description>A lã interna do boi-almiscarado. Mais forte e mais quente que a lã de ovelha e mais macia que a lã de casimira.</AEXP_MuskOxWool.description>
 
+	<!-- Vanilla Books Expanded -->
+		<!-- Blueprint -->
+			<VBE_Blueprint.label>desenho técnico</VBE_Blueprint.label>
+			<VBE_Blueprint.description>Um projeto contendo segredos tecnológicos. Estudá-lo proporcionará à sua colônia um entendimento completo de um determinado projeto de pesquisa.\n\nOs desenhos técnicos contendo conhecimento muito avançado não podem ser lidos até que mais projetos de pesquisa sejam concluídos.</VBE_Blueprint.description>
+
+		<!-- Book -->
+			<VBE_BookShooting.label>livro de atirarador</VBE_BookShooting.label>
+			<VBE_BookAnimals.label>livro de animais</VBE_BookAnimals.label>
+			<VBE_BookArt.label>livro de artes</VBE_BookArt.label>
+			<VBE_BookConstruction.label>livro de construção</VBE_BookConstruction.label>
+			<VBE_BookCooking.label>livro de cozinha</VBE_BookCooking.label>
+			<VBE_BookCrafting.label>livro de fabricação</VBE_BookCrafting.label>
+			<VBE_BookIntellectual.label>livro de intelectual</VBE_BookIntellectual.label>
+			<VBE_BookMedical.label>livro de medicina</VBE_BookMedical.label>
+			<VBE_BookMelee.label>livro de corpo-a-corpo</VBE_BookMelee.label>
+			<VBE_BookMining.label>livro de mineração</VBE_BookMining.label>
+			<VBE_BookGrowing.label>livro de cultivo</VBE_BookGrowing.label>
+			<VBE_BookSocial.label>livro de social</VBE_BookSocial.label>
+
+		<!-- Map -->
+			<VBE_Map.label>mapa</VBE_Map.label>
+			<VBE_Map.description>Um mapa de papel contendo informações sobre um ponto de interesse. Estudá-lo irá desbloquear um local no mapa mundial.</VBE_Map.description>
+
+		<!-- Newspaper -->
+			<VBE_Newspaper.label>jornal</VBE_Newspaper.label>
+			<VBE_Newspaper.description>Um jornal perecível. Lê-lo proporcionará diversão aos colonos.\n\nO jornal fora da data não pode ser lido.</VBE_Newspaper.description>
+
+		<!-- Unfinished -->
+			<VBE_UnfinishedBook.label>livro inacabado</VBE_UnfinishedBook.label>
+			<VBE_UnfinishedNewspaper.label>jornal inacabado</VBE_UnfinishedNewspaper.label>
+		
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Component -->
             <VFE_ComponentMechanoid.label>componente mecanóide</VFE_ComponentMechanoid.label>

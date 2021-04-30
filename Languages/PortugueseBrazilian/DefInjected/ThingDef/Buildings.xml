@@ -275,6 +275,15 @@
             <AEXP_BeaverDam.label>barragem de castor</AEXP_BeaverDam.label>
             <AEXP_BeaverDam.description>As barragens de castores ou represas de castores são construídas por castores para fornecer lagos como proteção contra predadores, como coiotes, lobos e ursos, e para facilitar o acesso a alimentos durante o inverno.</AEXP_BeaverDam.description>
 
+    <!-- Vanilla Books Expanded -->
+        <!-- Writers Table -->
+            <VBE_WritersTable.label>mesa de escrita</VBE_WritersTable.label>
+            <VBE_WritersTable.description>Uma estação de trabalho com todo o equipamento necessário para escrever livros.</VBE_WritersTable.description>
+
+        <!-- Typewriter Table -->
+            <VBE_TypewritersTable.label>mesa de máquina de escrever</VBE_TypewritersTable.label>
+            <VBE_TypewritersTable.description>Uma estação de trabalho com todo o equipamento necessário para escrever livros. Esta estação está equipada com uma máquina de escrever que acelera significativamente o trabalho, mas requer de energia.</VBE_TypewritersTable.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Ship Chunk -->
             <VEE_ShipChunkHuman.label>pedaço de nave</VEE_ShipChunkHuman.label>

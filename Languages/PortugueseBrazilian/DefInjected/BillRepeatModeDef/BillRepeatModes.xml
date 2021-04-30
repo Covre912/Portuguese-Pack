@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Everybody Gets One -->
+        <TD_ColonistCount.label>Um por colono + X</TD_ColonistCount.label>
+        <TD_XPerColonist.label>X por colono</TD_XPerColonist.label>
+        <TD_WithSurplusIng.label>Com excedente</TD_WithSurplusIng.label>
+
+</LanguageData>

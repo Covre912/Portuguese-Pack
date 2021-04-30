@@ -10,7 +10,883 @@
                 <li>sent->Suas diferenças aumentaram até [RECIPIENT_nameDef] começar uma luta!</li>
             </Sentence_SocialFightConvoRecipientStarted.rulePack.rulesStrings>
 
+    <!-- Vanilla Books Expanded -->
+        <!-- Book Description -->
+            <ArtDescription_BookShooting.rulePack.rulesStrings>
+                <li>physical_description_root->[ShootingSkill][maybe_cont]. [middle_book] [ShootingSkill][maybe_cont]. [ending] [ShootingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+            </ArtDescription_BookShooting.rulePack.rulesStrings>
+            <VBE_BookDescription_Animals.rulePack.rulesStrings>
+                <li>r_animalsbook_desc->[cover] [first_chapters] [AnimalsSkill][maybe_cont]. [middle_book] [AnimalsSkill][maybe_cont]. [ending] [AnimalsSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de animais.</li>
+            </VBE_BookDescription_Animals.rulePack.rulesStrings>
+            <VBE_BookDescription_Art.rulePack.rulesStrings>
+                <li>r_artbook_desc->[cover] [first_chapters] [ArtSkill][maybe_cont]. [middle_book] [ArtSkill][maybe_cont]. [ending] [ArtSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade artística.</li>
+            </VBE_BookDescription_Art.rulePack.rulesStrings>
+            <VBE_BookDescription_Construction.rulePack.rulesStrings>
+                <li>r_constructionbook_desc->[cover] [first_chapters] [ConstructionSkill][maybe_cont]. [middle_book] [ConstructionSkill][maybe_cont]. [ending] [ConstructionSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de construção.</li>
+            </VBE_BookDescription_Construction.rulePack.rulesStrings>
+            <VBE_BookDescription_Cooking.rulePack.rulesStrings>
+                <li>r_cookingbook_desc->[cover] [first_chapters] [CookingSkill][maybe_cont]. [middle_book] [CookingSkill][maybe_cont]. [ending] [CookingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade gastronômica.</li>
+            </VBE_BookDescription_Cooking.rulePack.rulesStrings>
+            <VBE_BookDescription_Crafting.rulePack.rulesStrings>
+                <li>r_craftingbook_desc->[cover] [first_chapters] [CraftingSkill][maybe_cont]. [middle_book] [CraftingSkill][maybe_cont]. [ending] [CraftingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de fabricação.</li>
+            </VBE_BookDescription_Crafting.rulePack.rulesStrings>
+            <VBE_BookDescription_Growing.rulePack.rulesStrings>
+                <li>r_growingbook_desc->[cover] [first_chapters] [GrowingSkill][maybe_cont]. [middle_book] [GrowingSkill][maybe_cont]. [ending] [GrowingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade agrícola.</li>
+            </VBE_BookDescription_Growing.rulePack.rulesStrings>
+            <VBE_BookDescription_Intellectual.rulePack.rulesStrings>
+                <li>r_intellectualbook_desc->[cover] [first_chapters] [IntellectualSkill][maybe_cont]. [middle_book] [IntellectualSkill][maybe_cont]. [ending] [IntellectualSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade intelectual.</li>
+            </VBE_BookDescription_Intellectual.rulePack.rulesStrings>
+            <VBE_BookDescription_Medical.rulePack.rulesStrings>
+                <li>r_medicalbook_desc->[cover] [first_chapters] [MedicalSkill][maybe_cont]. [middle_book] [MedicalSkill][maybe_cont]. [ending] [MedicalSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade medicinal.</li>
+            </VBE_BookDescription_Medical.rulePack.rulesStrings>
+            <VBE_BookDescription_Melee.rulePack.rulesStrings>
+                <li>r_meleebook_desc->[cover] [first_chapters] [MeleeSkill][maybe_cont]. [middle_book] [MeleeSkill][maybe_cont]. [ending] [MeleeSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de combate corpo-a-corpo.</li>
+            </VBE_BookDescription_Melee.rulePack.rulesStrings>
+            <VBE_BookDescription_Mining.rulePack.rulesStrings>
+                <li>r_miningbook_desc->[cover] [first_chapters] [MiningSkill][maybe_cont]. [middle_book] [MiningSkill][maybe_cont]. [ending] [MiningSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de mineração.</li>
+            </VBE_BookDescription_Mining.rulePack.rulesStrings>
+            <VBE_BookDescription_Social.rulePack.rulesStrings>
+                <li>r_socialbook_desc->[cover] [first_chapters] [SocialSkill][maybe_cont]. [middle_book] [SocialSkill][maybe_cont]. [ending] [SocialSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade social.</li>
+            </VBE_BookDescription_Social.rulePack.rulesStrings>
+
+        <!-- Global Book -->
+            <VBE_BookUtility.rulePack.rulesStrings>
+                <li>maybe_adjective-></li>
+                <li>maybe_adjective->[Color]</li>
+                <li>maybe_adjective->[AdjectiveBadass]</li>
+                <li>maybe_adjective->[AdjectiveAngsty]</li>
+                <li>Adjective->[Color]</li>
+                <li>Adjective->[AdjectiveBadass]</li>
+                <li>Adjective->[AdjectiveAngsty]</li>
+                <li>cover->a capa deste livro [depicts] [image]</li>
+                <li>cover->a capa deste livro traz um(a) [depiction] de [image]</li>
+                <li>cover->na capa deste livro está um(a) [depiction] de [image]</li>
+                <li>first_chapters->os primeiros capítulos deste livro descrevem o uso de </li>
+                <li>first_chapters->a primeira parte do livro detalha </li>
+                <li>first_chapters->primeiras páginas descrevem o uso de </li>
+                <li>first_chapters->o início do livro gira em torno </li>
+                <li>first_chapters->o livro começa com </li>
+                <li>first_chapters->o começo é sobre </li>
+                <li>maybe_cont(p=2)-></li>
+                <li>maybe_cont-> dentro do contexto de [ConceptAny]</li>
+                <li>maybe_cont-> em um tom [AdjectiveBadass]</li>
+                <li>maybe_cont-> e a importância de [ConceptAny]</li>
+                <li>maybe_cont-> com ênfase no uso de [TerrainFeature]</li>
+                <li>maybe_cont-> e como [Vegetable]s podem ser usados para melhorá-lo</li>
+                <li>maybe_cont-> durante o jogo de [Game]</li>
+                <li>maybe_cont-> dentro do mundo de [Animal]s</li>
+                <li>maybe_cont-> e a beleza de [Gore]</li>
+                <li>maybe_cont-> e o compara a um(a) [NaturalObject]</li>
+                <li>maybe_cont-> da perspectiva de [Enemy]</li>
+                <li>maybe_cont-> com base na experiência do meio de um(a) [Community]</li>
+                <li>maybe_cont->, com percepções pessoais de um(a) [Character]</li>
+                <li>maybe_cont->, baseado na entrevista com a celebridade menor [NamePerson]</li>
+                <li>maybe_cont->, e como a cor [Color] sempre foi associada a isso</li>
+                <li>maybe_cont->, e como o(a) [Animal] pode ser usado para melhorá-lo</li>
+                <li>maybe_cont->, descrevendo várias aplicações de [Weapon] dentro desse campo</li>
+                <li>maybe_cont->, com base nas várias pesquisas realizadas com [PersonJob] [AdjectiveFriendly]</li>
+                <li>maybe_cont-> e a importância de [Apparel]</li>
+                <li>maybe_cont-> e como [ConceptPositive] e [ConceptPositive] melhoram-o</li>
+                <li>maybe_cont-> escrito em um estilo [bookstyle_adj]</li>
+                <li>middle_book->O autor então passa a descrever</li>
+                <li>middle_book->Os capítulos a seguir permitem ao leitor contemplar</li>
+                <li>middle_book->Os próximos capítulos discutem</li>
+                <li>middle_book->Depois disso, o autor não mediu esforços para explicar</li>
+                <li>middle_book->O meio do livro fala sobre</li>
+                <li>middle_book->A próxima parte é sobre</li>
+                <li>ending->Perto do final, o autor resume</li>
+                <li>ending->No final do livro, a ênfase é colocada em</li>
+                <li>ending->Os últimos capítulos mencionam</li>
+                <li>ending->O final do livro é sobre</li>
+                <li>ending->O capítulo final gira em torno</li>
+                <li>ending->A última página menciona</li>
+                <li>ending->A última parte do livro é sobre</li>
+                <li>ending->O autor decidiu dedicar a última parte do livro a</li>
+                <li>book_context->infundido com a ideia de [ConceptAny] e é feito em um estilo [bookstyle_adj]</li>
+                <li>book_context->escrito em um estilo [bookstyle_adj]</li>
+                <li>book_context->executado com um estilo [bookstyle_adj]</li>
+                <li>book_context->com elementos [bookstyle_adj] e [bookstyle_adj]</li>
+                <li>book_context->[bookstyle_adj]</li>
+                <li>book_context->[bookstyle_adj] e ainda [bookstyle_adj]</li>   
+                <li>maybe_writingstyles(p=3)-></li>
+                <li>maybe_writingstyles->, usando uma grande quantidade de [bookstyle]</li>
+                <li>maybe_writingstyles->, crivado de [bookstyle]</li>
+                <li>maybe_writingstyles->, sem utilizar [bookstyle] uma vez sequer</li>
+                <li>maybe_writingstyles->, escrito apenas usando [bookstyle]</li>
+                <li>maybe_writingstyles->, com uma grande quantidade de [bookstyle] e absolutamente sem [bookstyle]</li>
+                <li>maybe_writingstyles->. O autor usou uma série de [bookstyle], misturado com [bookstyle] e [bookstyle]</li>
+                <li>maybe_writingstyles-> com um número de [bookstyle] [bookstyle_adj]</li>
+                <li>book->livro</li>
+                <li>book->trabalho</li>
+                <li>book->pedaço de redação</li>
+                <li>book->trabalho de redação</li>
+                <li>book->texto</li>
+                <li>book_general->O propósito deste [book] é explicar em profundidade </li>
+                <li>book_general->Este [book] fornece ao leitor uma visão sobre</li>
+                <li>book_general->Ler este [book] dá informações valiosas sobre</li>
+                <li>book_general->Este [book] é sobre</li>
+                <li>book_general->O autor ao escrever este [book] queria que os leitores se concentrassem em</li>
+                <li>maybe_ShootingSkill-></li>
+                <li>maybe_ShootingSkill-> e [ShootingSkill]</li>
+                <li>maybe_ShootingSkill-> assim como [ShootingSkill]</li>
+                <li>maybe_AnimalsSkill-></li>
+                <li>maybe_AnimalsSkill-> e [AnimalsSkill]</li>
+                <li>maybe_AnimalsSkill-> assim como [AnimalsSkill]</li>
+                <li>maybe_ArtSkill-></li>
+                <li>maybe_ArtSkill-> e [ArtSkill]</li>
+                <li>maybe_ArtSkill-> assim como [ArtSkill]</li>
+                <li>maybe_ConstructionSkill-></li>
+                <li>maybe_ConstructionSkill-> e [ConstructionSkill]</li>
+                <li>maybe_ConstructionSkill-> assim como [ConstructionSkill]</li>
+                <li>maybe_CookingSkill-></li>
+                <li>maybe_CookingSkill-> e [CookingSkill]</li>
+                <li>maybe_CookingSkill-> assim como [CookingSkill]</li>
+                <li>maybe_CraftingSkill-></li>
+                <li>maybe_CraftingSkill-> e [CraftingSkill]</li>
+                <li>maybe_CraftingSkill-> assim como [CraftingSkill]</li>
+                <li>maybe_GrowingSkill-></li>
+                <li>maybe_GrowingSkill-> e [GrowingSkill]</li>
+                <li>maybe_GrowingSkill-> assim como [GrowingSkill]</li>		
+                <li>maybe_IntellectualSkill-></li>
+                <li>maybe_IntellectualSkill-> e [IntellectualSkill]</li>
+                <li>maybe_IntellectualSkill-> assim como [IntellectualSkill]</li>
+                <li>maybe_MedicalSkill-></li>
+                <li>maybe_MedicalSkill-> e [MedicalSkill]</li>
+                <li>maybe_MedicalSkill-> assim como [MedicalSkill]</li>
+                <li>maybe_MeleeSkill-></li>
+                <li>maybe_MeleeSkill-> e [MeleeSkill]</li>
+                <li>maybe_MeleeSkill-> assim como [MeleeSkill]</li>
+                <li>maybe_MiningSkill-></li>
+                <li>maybe_MiningSkill-> e [MiningSkill]</li>
+                <li>maybe_MiningSkill-> assim como [MiningSkill]</li>
+                <li>maybe_SocialSkill-></li>
+                <li>maybe_SocialSkill-> e [SocialSkill]</li>
+                <li>maybe_SocialSkill->assim como [SocialSkill]</li>
+                <li>inspired->Inspirado no livro best-seller intitulado</li>
+                <li>inspired->Uma prequela do livro popular chamado</li>
+                <li>inspired->Muito baseado no livro intitulado</li>
+                <li>inspired->A fim de contradizer a afirmação em</li>
+                <li>context_newspaper->Este [newspaper] vai em profundidade sobre [tale_noun] em [DATE].</li>
+                <li>context_newspaper->Este [newspaper] refere-se à [tale_noun] em [DATE].</li>
+                <li>context_newspaper->Este [newspaper] tells the story of [tale_noun] em [DATE].</li>
+                <li>context_newspaper->Este [newspaper] é sobre [tale_noun] em [DATE].</li>
+                <li>context_newspaper->Este [newspaper] informa o leitor sobre [tale_noun] em [DATE].</li>
+                <li>newspaper->jornal</li>
+                <li>newspaper->papel</li>
+                <li>newspaper->artigo</li>
+                <li>ShootingBook->[Books] de [ShootingSkill] [maybe_adjective]</li>	
+                <li>ShootingBook->[Books] [AdjectiveBadass] de [ShootingSkill]</li>	
+                <li>ShootingBook->[Books] [AdjectiveLarge] de [ShootingSkill]</li>	
+                <li>ShootingBook->[Books] de [PeopleBadass] de [ShootingSkill]</li>
+                <li>ShootingBook->[Books] de [ShootingSkill] [maybe_adjective]</li>	
+                <li>ShootingBook->[Noun] [Adjective]: História de [ShootingSkill]</li>	
+                <li>ShootingBook->[ShootingSkill] [Digit]</li>
+                <li>ShootingBook->[maybe_letter][Digit][maybe_letter]: [ShootingSkill]</li>
+                <li>ShootingBook->[maybe_letter][Digit][Digit][maybe_letter]: [ShootingSkill]</li>
+                <li>ShootingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ShootingSkill]</li>
+                <li>ShootingBook->[maybe_letter][RomanNumeral][maybe_letter]: [ShootingSkill]</li>
+                <li>ShootingBook->[Books] de [ANYPAWN_nameIndef] sobre [ShootingSkill]</li>
+                <li>ShootingBook->[ShootingSkill] de [ANYPAWN_nameIndef]</li>
+                <li>ShootingBook->[Books] de [ANYPAWN_nameIndef]: [ShootingSkill]</li>
+                <li>ShootingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ShootingSkill]</li>
+                <li>ShootingBook->[Noun] e [ShootingSkill]</li>
+                <li>ShootingBook->[ConceptAny] e [ShootingSkill]</li>
+                <li>AnimalsBook->[Books] de [AnimalsSkill] [maybe_adjective]</li>	
+                <li>AnimalsBook->[Books] [AdjectiveBadass] de [AnimalsSkill]</li>	
+                <li>AnimalsBook->[Books] [AdjectiveLarge] de [AnimalsSkill]</li>	
+                <li>AnimalsBook->[Books] de [PeopleBadass] de [AnimalsSkill]</li>
+                <li>AnimalsBook->[Books] de [AnimalsSkill] [maybe_adjective]</li>	
+                <li>AnimalsBook->[Noun] [Adjective]: História de [AnimalsSkill]</li>	
+                <li>AnimalsBook->[AnimalsSkill] [Digit]</li>
+                <li>AnimalsBook->[maybe_letter][Digit][maybe_letter]: [AnimalsSkill]</li>
+                <li>AnimalsBook->[maybe_letter][Digit][Digit][maybe_letter]: [AnimalsSkill]</li>
+                <li>AnimalsBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [AnimalsSkill]</li>
+                <li>AnimalsBook->[maybe_letter][RomanNumeral][maybe_letter]: [AnimalsSkill]</li>
+                <li>AnimalsBook->[Books] de [ANYPAWN_nameIndef] sobre [AnimalsSkill]</li>
+                <li>AnimalsBook->[AnimalsSkill] de [ANYPAWN_nameIndef]</li>
+                <li>AnimalsBook->[Books] de [ANYPAWN_nameIndef]: [AnimalsSkill]</li>
+                <li>AnimalsBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [AnimalsSkill]</li>
+                <li>AnimalsBook->[Noun] e [AnimalsSkill]</li>
+                <li>AnimalsBook->[ConceptAny] e [AnimalsSkill]</li>
+                <li>ArtBook->[Books] de [ArtSkill] [maybe_adjective]</li>	
+                <li>ArtBook->[Books] [AdjectiveBadass] de [ArtSkill]</li>	
+                <li>ArtBook->[Books] [AdjectiveLarge] de [ArtSkill]</li>	
+                <li>ArtBook->[Books] de [PeopleBadass] de [ArtSkill]</li>
+                <li>ArtBook->[Books] de [ArtSkill] [maybe_adjective]</li>	
+                <li>ArtBook->[Noun] [Adjective]: História de [ArtSkill]</li>	
+                <li>ArtBook->[ArtSkill] [Digit]</li>
+                <li>ArtBook->[maybe_letter][Digit][maybe_letter]: [ArtSkill]</li>
+                <li>ArtBook->[maybe_letter][Digit][Digit][maybe_letter]: [ArtSkill]</li>
+                <li>ArtBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ArtSkill]</li>
+                <li>ArtBook->[maybe_letter][RomanNumeral][maybe_letter]: [ArtSkill]</li>
+                <li>ArtBook->[Books] de [ANYPAWN_nameIndef] sobre [ArtSkill]</li>
+                <li>ArtBook->[ArtSkill] de [ANYPAWN_nameIndef]</li>
+                <li>ArtBook->[Books] de [ANYPAWN_nameIndef]: [ArtSkill]</li>
+                <li>ArtBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ArtSkill]</li>
+                <li>ArtBook->[Noun] e [ArtSkill]</li>
+                <li>ArtBook->[ConceptAny] e [ArtSkill]</li>
+                <li>ConstructionBook->[Books] de [ConstructionSkill] [maybe_adjective]</li>	
+                <li>ConstructionBook->[Books] [AdjectiveBadass] de [ConstructionSkill]</li>	
+                <li>ConstructionBook->[Books] [AdjectiveLarge] de [ConstructionSkill]</li>	
+                <li>ConstructionBook->[Books] de [PeopleBadass] de [ConstructionSkill]</li>
+                <li>ConstructionBook->[Books] de [ConstructionSkill] [maybe_adjective]</li>	
+                <li>ConstructionBook->[Noun] [Adjective]: História de [ConstructionSkill]</li>	
+                <li>ConstructionBook->[ConstructionSkill] [Digit]</li>
+                <li>ConstructionBook->[maybe_letter][Digit][maybe_letter]: [ConstructionSkill]</li>
+                <li>ConstructionBook->[maybe_letter][Digit][Digit][maybe_letter]: [ConstructionSkill]</li>
+                <li>ConstructionBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ConstructionSkill]</li>
+                <li>ConstructionBook->[maybe_letter][RomanNumeral][maybe_letter]: [ConstructionSkill]</li>
+                <li>ConstructionBook->[Books] de [ANYPAWN_nameIndef] sobre [ConstructionSkill]</li>
+                <li>ConstructionBook->[ConstructionSkill] de [ANYPAWN_nameIndef]</li>
+                <li>ConstructionBook->[Books] de [ANYPAWN_nameIndef]: [ConstructionSkill]</li>
+                <li>ConstructionBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ConstructionSkill]</li>
+                <li>ConstructionBook->[Noun] e [ConstructionSkill]</li>
+                <li>ConstructionBook->[ConceptAny] e [ConstructionSkill]</li>
+                <li>CookingBook->[Books] de [CookingSkill] [maybe_adjective]</li>	
+                <li>CookingBook->[Books] [AdjectiveBadass] de [CookingSkill]</li>	
+                <li>CookingBook->[Books] [AdjectiveLarge] de [CookingSkill]</li>	
+                <li>CookingBook->[Books] de [PeopleBadass] de [CookingSkill]</li>
+                <li>CookingBook->[Books] de [CookingSkill] [maybe_adjective]</li>	
+                <li>CookingBook->[Noun] [Adjective]: História de [CookingSkill]</li>	
+                <li>CookingBook->[CookingSkill] [Digit]</li>
+                <li>CookingBook->[maybe_letter][Digit][maybe_letter]: [CookingSkill]</li>
+                <li>CookingBook->[maybe_letter][Digit][Digit][maybe_letter]: [CookingSkill]</li>
+                <li>CookingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [CookingSkill]</li>
+                <li>CookingBook->[maybe_letter][RomanNumeral][maybe_letter]: [CookingSkill]</li>
+                <li>CookingBook->[Books] de [ANYPAWN_nameIndef] sobre [CookingSkill]</li>
+                <li>CookingBook->[CookingSkill] de [ANYPAWN_nameIndef]</li>
+                <li>CookingBook->[Books] de [ANYPAWN_nameIndef]: [CookingSkill]</li>
+                <li>CookingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [CookingSkill]</li>
+                <li>CookingBook->[Noun] e [CookingSkill]</li>
+                <li>CookingBook->[ConceptAny] e [CookingSkill]</li>
+                <li>CraftingBook->[Books] de [CraftingSkill] [maybe_adjective]</li>	
+                <li>CraftingBook->[Books] [AdjectiveBadass] de [CraftingSkill]</li>	
+                <li>CraftingBook->[Books] [AdjectiveLarge] de [CraftingSkill]</li>	
+                <li>CraftingBook->[Books] de [PeopleBadass] de [CraftingSkill]</li>
+                <li>CraftingBook->[Books] de [CraftingSkill] [maybe_adjective]</li>	
+                <li>CraftingBook->[Noun] [Adjective]: História de [CraftingSkill]</li>	
+                <li>CraftingBook->[CraftingSkill] [Digit]</li>
+                <li>CraftingBook->[maybe_letter][Digit][maybe_letter]: [CraftingSkill]</li>
+                <li>CraftingBook->[maybe_letter][Digit][Digit][maybe_letter]: [CraftingSkill]</li>
+                <li>CraftingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [CraftingSkill]</li>
+                <li>CraftingBook->[maybe_letter][RomanNumeral][maybe_letter]: [CraftingSkill]</li>
+                <li>CraftingBook->[Books] de [ANYPAWN_nameIndef] sobre [CraftingSkill]</li>
+                <li>CraftingBook->[CraftingSkill] de [ANYPAWN_nameIndef]</li>
+                <li>CraftingBook->[Books] de [ANYPAWN_nameIndef]: [CraftingSkill]</li>
+                <li>CraftingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [CraftingSkill]</li>
+                <li>CraftingBook->[Noun] e [CraftingSkill]</li>
+                <li>CraftingBook->[ConceptAny] e [CraftingSkill]</li>
+                <li>GrowingBook->[Books] de [GrowingSkill] [maybe_adjective]</li>	
+                <li>GrowingBook->[Books] [AdjectiveBadass] de [GrowingSkill]</li>	
+                <li>GrowingBook->[Books] [AdjectiveLarge] de [GrowingSkill]</li>	
+                <li>GrowingBook->[Books] de [PeopleBadass] de [GrowingSkill]</li>
+                <li>GrowingBook->[Books] de [GrowingSkill] [maybe_adjective]</li>	
+                <li>GrowingBook->[Noun] [Adjective]: História de [GrowingSkill]</li>	
+                <li>GrowingBook->[GrowingSkill] [Digit]</li>
+                <li>GrowingBook->[maybe_letter][Digit][maybe_letter]: [GrowingSkill]</li>
+                <li>GrowingBook->[maybe_letter][Digit][Digit][maybe_letter]: [GrowingSkill]</li>
+                <li>GrowingBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [GrowingSkill]</li>
+                <li>GrowingBook->[maybe_letter][RomanNumeral][maybe_letter]: [GrowingSkill]</li>
+                <li>GrowingBook->[Books] de [ANYPAWN_nameIndef] sobre [GrowingSkill]</li>
+                <li>GrowingBook->[GrowingSkill] de [ANYPAWN_nameIndef]</li>
+                <li>GrowingBook->[Books] de [ANYPAWN_nameIndef]: [GrowingSkill]</li>
+                <li>GrowingBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [GrowingSkill]</li>
+                <li>GrowingBook->[Noun] e [GrowingSkill]</li>
+                <li>GrowingBook->[ConceptAny] e [GrowingSkill]</li>
+                <li>IntellectualBook->[Books] de [IntellectualSkill] [maybe_adjective]</li>	
+                <li>IntellectualBook->[Books] [AdjectiveBadass] de [IntellectualSkill]</li>	
+                <li>IntellectualBook->[Books] [AdjectiveLarge] de [IntellectualSkill]</li>	
+                <li>IntellectualBook->[Books] de [PeopleBadass] de [IntellectualSkill]</li>
+                <li>IntellectualBook->[Books] de [IntellectualSkill] [maybe_adjective]</li>	
+                <li>IntellectualBook->[Noun] [Adjective]: História de [IntellectualSkill]</li>	
+                <li>IntellectualBook->[IntellectualSkill] [Digit]</li>
+                <li>IntellectualBook->[maybe_letter][Digit][maybe_letter]: [IntellectualSkill]</li>
+                <li>IntellectualBook->[maybe_letter][Digit][Digit][maybe_letter]: [IntellectualSkill]</li>
+                <li>IntellectualBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [IntellectualSkill]</li>
+                <li>IntellectualBook->[maybe_letter][RomanNumeral][maybe_letter]: [IntellectualSkill]</li>
+                <li>IntellectualBook->[Books] de [ANYPAWN_nameIndef] sobre [IntellectualSkill]</li>
+                <li>IntellectualBook->[IntellectualSkill] de [ANYPAWN_nameIndef]</li>
+                <li>IntellectualBook->[Books] de [ANYPAWN_nameIndef]: [IntellectualSkill]</li>
+                <li>IntellectualBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [IntellectualSkill]</li>
+                <li>IntellectualBook->[Noun] e [IntellectualSkill]</li>
+                <li>IntellectualBook->[ConceptAny] e [IntellectualSkill]</li>
+                <li>MedicalBook->[Books] de [MedicalSkill] [maybe_adjective]</li>	
+                <li>MedicalBook->[Books] [AdjectiveBadass] de [MedicalSkill]</li>	
+                <li>MedicalBook->[Books] [AdjectiveLarge] de [MedicalSkill]</li>	
+                <li>MedicalBook->[Books] de [PeopleBadass] de [MedicalSkill]</li>
+                <li>MedicalBook->[Books] de [MedicalSkill] [maybe_adjective]</li>	
+                <li>MedicalBook->[Noun] [Adjective]: História de [MedicalSkill]</li>	
+                <li>MedicalBook->[MedicalSkill] [Digit]</li>
+                <li>MedicalBook->[maybe_letter][Digit][maybe_letter]: [MedicalSkill]</li>
+                <li>MedicalBook->[maybe_letter][Digit][Digit][maybe_letter]: [MedicalSkill]</li>
+                <li>MedicalBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MedicalSkill]</li>
+                <li>MedicalBook->[maybe_letter][RomanNumeral][maybe_letter]: [MedicalSkill]</li>
+                <li>MedicalBook->[Books] de [ANYPAWN_nameIndef] sobre [MedicalSkill]</li>
+                <li>MedicalBook->[MedicalSkill] de [ANYPAWN_nameIndef]</li>
+                <li>MedicalBook->[Books] de [ANYPAWN_nameIndef]: [MedicalSkill]</li>
+                <li>MedicalBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MedicalSkill]</li>
+                <li>MedicalBook->[Noun] e [MedicalSkill]</li>
+                <li>MedicalBook->[ConceptAny] e [MedicalSkill]</li>
+                <li>MeleeBook->[Books] de [MeleeSkill] [maybe_adjective]</li>	
+                <li>MeleeBook->[Books] [AdjectiveBadass] de [MeleeSkill]</li>	
+                <li>MeleeBook->[Books] [AdjectiveLarge] de [MeleeSkill]</li>	
+                <li>MeleeBook->[Books] de [PeopleBadass] de [MeleeSkill]</li>
+                <li>MeleeBook->[Books] de [MeleeSkill] [maybe_adjective]</li>	
+                <li>MeleeBook->[Noun] [Adjective]: História de [MeleeSkill]</li>	
+                <li>MeleeBook->[MeleeSkill] [Digit]</li>
+                <li>MeleeBook->[maybe_letter][Digit][maybe_letter]: [MeleeSkill]</li>
+                <li>MeleeBook->[maybe_letter][Digit][Digit][maybe_letter]: [MeleeSkill]</li>
+                <li>MeleeBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MeleeSkill]</li>
+                <li>MeleeBook->[maybe_letter][RomanNumeral][maybe_letter]: [MeleeSkill]</li>
+                <li>MeleeBook->[Books] de [ANYPAWN_nameIndef] sobre [MeleeSkill]</li>
+                <li>MeleeBook->[MeleeSkill] de [ANYPAWN_nameIndef]</li>
+                <li>MeleeBook->[Books] de [ANYPAWN_nameIndef]: [MeleeSkill]</li>
+                <li>MeleeBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MeleeSkill]</li>
+                <li>MeleeBook->[Noun] e [MeleeSkill]</li>
+                <li>MeleeBook->[ConceptAny] e [MeleeSkill]</li>
+                <li>MiningBook->[Books] de [MiningSkill] [maybe_adjective]</li>	
+                <li>MiningBook->[Books] [AdjectiveBadass] de [MiningSkill]</li>	
+                <li>MiningBook->[Books] [AdjectiveLarge] de [MiningSkill]</li>	
+                <li>MiningBook->[Books] de [PeopleBadass] de [MiningSkill]</li>
+                <li>MiningBook->[Books] de [MiningSkill] [maybe_adjective]</li>	
+                <li>MiningBook->[Noun] [Adjective]: História de [MiningSkill]</li>	
+                <li>MiningBook->[MiningSkill] [Digit]</li>
+                <li>MiningBook->[maybe_letter][Digit][maybe_letter]: [MiningSkill]</li>
+                <li>MiningBook->[maybe_letter][Digit][Digit][maybe_letter]: [MiningSkill]</li>
+                <li>MiningBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MiningSkill]</li>
+                <li>MiningBook->[maybe_letter][RomanNumeral][maybe_letter]: [MiningSkill]</li>
+                <li>MiningBook->[Books] de [ANYPAWN_nameIndef] sobre [MiningSkill]</li>
+                <li>MiningBook->[MiningSkill] de [ANYPAWN_nameIndef]</li>
+                <li>MiningBook->[Books] de [ANYPAWN_nameIndef]: [MiningSkill]</li>
+                <li>MiningBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MiningSkill]</li>
+                <li>MiningBook->[Noun] e [MiningSkill]</li>
+                <li>MiningBook->[ConceptAny] e [MiningSkill]</li>
+                <li>SocialBook->[Books] de [SocialSkill] [maybe_adjective]</li>	
+                <li>SocialBook->[Books] [AdjectiveBadass] de [SocialSkill]</li>	
+                <li>SocialBook->[Books] [AdjectiveLarge] de [SocialSkill]</li>	
+                <li>SocialBook->[Books] de [PeopleBadass] de [SocialSkill]</li>
+                <li>SocialBook->[Books] de [SocialSkill] [maybe_adjective]</li>	
+                <li>SocialBook->[Noun] [Adjective]: História de [SocialSkill]</li>	
+                <li>SocialBook->[SocialSkill] [Digit]</li>
+                <li>SocialBook->[maybe_letter][Digit][maybe_letter]: [SocialSkill]</li>
+                <li>SocialBook->[maybe_letter][Digit][Digit][maybe_letter]: [SocialSkill]</li>
+                <li>SocialBook->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [SocialSkill]</li>
+                <li>SocialBook->[maybe_letter][RomanNumeral][maybe_letter]: [SocialSkill]</li>
+                <li>SocialBook->[Books] de [ANYPAWN_nameIndef] sobre [SocialSkill]</li>
+                <li>SocialBook->[SocialSkill] de [ANYPAWN_nameIndef]</li>
+                <li>SocialBook->[Books] de [ANYPAWN_nameIndef]: [SocialSkill]</li>
+                <li>SocialBook->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [SocialSkill]</li>
+                <li>SocialBook->[Noun] e [SocialSkill]</li>
+                <li>SocialBook->[ConceptAny] e [SocialSkill]</li>
+            </VBE_BookUtility.rulePack.rulesStrings>
+            <VBE_BookUtility.rulePack.rulesFiles>
+                <li>bookstyle->Words/BookWords/BookStyles</li>
+                <li>bookstyle_adj->Words/BookWords/BookStylesAdjectives</li>
+                <li>ShootingSkill->Words/BookWords/ShootingSkill</li>
+                <li>AnimalsSkill->Words/BookWords/AnimalsSkill</li>
+                <li>ArtSkill->Words/BookWords/ArtSkill</li>
+                <li>ConstructionSkill->Words/BookWords/ConstructionSkill</li>
+                <li>CookingSkill->Words/BookWords/CookingSkill</li>
+                <li>CraftingSkill->Words/BookWords/CraftingSkill</li>
+                <li>GrowingSkill->Words/BookWords/GrowingSkill</li>
+                <li>IntellectualSkill->Words/BookWords/IntellectualSkill</li>
+                <li>MedicalSkill->Words/BookWords/MedicalSkill</li>
+                <li>MeleeSkill->Words/BookWords/MeleeSkill</li>
+                <li>MiningSkill->Words/BookWords/MiningSkill</li>
+                <li>SocialSkill->Words/BookWords/SocialSkill</li>
+                <li>Books->Words/BookWords/Books</li>
+                <li>Newspapers->Words/BookWords/Newspapers</li>
+            </VBE_BookUtility.rulePack.rulesFiles>
+
+        <!-- Newspaper -->
+            <ArtDescription_Newspaper.rulePack.rulesStrings>
+                <li>r_art_name->[Newspapers] de [nearnameinitial] [political_union_outlander]</li>	
+                <li>r_art_name->[Newspapers] de [nearnameinitial] [political_union_outlander] [political_adjective]</li>	
+                <li>r_art_name->[Newspapers] de [political_union_outlander] de [nearnameinitial]</li>	
+                <li>r_art_name->[Newspapers] de [PeopleBadass]</li>
+                <li>r_art_name->[Newspapers] de [PlaceOutlander]</li>	
+                <li>r_art_name->[Newspapers] de [PlaceOutlander] do [Direction]</li>		
+                <li>r_art_name->[Newspapers] [Digit]</li>
+                <li>r_art_name->[Newspapers] [maybe_letter][Digit][maybe_letter]</li>
+                <li>r_art_name->[Newspapers] [maybe_letter][Digit][Digit][maybe_letter]</li>
+                <li>r_art_name->[Newspapers] [maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+                <li>r_art_name->[Newspapers] [maybe_letter][RomanNumeral][maybe_letter]</li>
+                <li>r_art_name->[Newspapers] de [ANYPAWN_nameIndef]</li>
+            </ArtDescription_Newspaper.rulePack.rulesStrings>
+            <ArtDescription_NewspaperDesc.rulePack.rulesStrings>
+                <li>r_art_name->Este jornal conta em detalhes sobre os acontecimentos dos últimos dias.</li>
+            </ArtDescription_NewspaperDesc.rulePack.rulesStrings>
+
+        <!-- Shooting Book-->
+            <ArtDescription_BookShootingName.rulePack.rulesStrings>
+                <li>r_art_name->[Books] de [ShootingSkill] [maybe_adjective]</li>	
+                <li>r_art_name->[Books] [AdjectiveBadass] de [ShootingSkill]</li>	
+                <li>r_art_name->[Books] [AdjectiveLarge] de [ShootingSkill]</li>	
+                <li>r_art_name->[Books] de [PeopleBadass] de [ShootingSkill]</li>
+                <li>r_art_name->[Noun] [Adjective]: História de [ShootingSkill]</li>	
+                <li>r_art_name->[ShootingSkill] [Digit]</li>
+                <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [ShootingSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [ShootingSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ShootingSkill]</li>
+                <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [ShootingSkill]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef] de [ShootingSkill]</li>
+                <li>r_art_name->[ShootingSkill] de [ANYPAWN_nameIndef]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef]: [ShootingSkill]</li>
+                <li>r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ShootingSkill]</li>
+                <li>r_art_name->[Noun] e [ShootingSkill]</li>
+                <li>r_art_name->[ConceptAny] e [ShootingSkill]</li>
+            </ArtDescription_BookShootingName.rulePack.rulesStrings>
+            <ArtDescription_BookShootingDesc.rulePack.rulesStrings>
+                <li>r_art_name->[first_chapters] [ShootingSkill][maybe_cont]. [middle_book] [ShootingSkill][maybe_cont]. [ending] [ShootingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>	
+                <li>r_art_name->[first_chapters] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. [middle_book] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. [ending] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[cover]. [first_chapters] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. [middle_book] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. [ending] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[inspired] "[ShootingBook]", [first_chapters] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. [middle_book] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. [ending] [ShootingSkill][maybe_ShootingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[book_general] [ShootingSkill] e [ShootingSkill][maybe_cont], mas também vai em profundidade sobre [ShootingSkill]. É [book_context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+            </ArtDescription_BookShootingDesc.rulePack.rulesStrings>
+
+        <!-- Animals Book -->
+            <ArtDescription_BookAnimalsName.rulePack.rulesStrings>
+                <li>r_art_name->[Books] de [AnimalsSkill] [maybe_adjective]</li>	
+                <li>r_art_name->[Books] [AdjectiveBadass] de [AnimalsSkill]</li>	
+                <li>r_art_name->[Books] [AdjectiveLarge] de [AnimalsSkill]</li>	
+                <li>r_art_name->[Books] de [PeopleBadass] de [AnimalsSkill]</li>
+                <li>r_art_name->[Noun] [Adjective]: História de [AnimalsSkill]</li>	
+                <li>r_art_name->[AnimalsSkill] [Digit]</li>
+                <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [AnimalsSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [AnimalsSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [AnimalsSkill]</li>
+                <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [AnimalsSkill]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef] de [AnimalsSkill]</li>
+                <li>r_art_name->[AnimalsSkill] de [ANYPAWN_nameIndef]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef]: [AnimalsSkill]</li>
+                <li>r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [AnimalsSkill]</li>
+                <li>r_art_name->[Noun] e [AnimalsSkill]</li>
+                <li>r_art_name->[ConceptAny] e [AnimalsSkill]</li>
+            </ArtDescription_BookAnimalsName.rulePack.rulesStrings>
+            <ArtDescription_BookAnimalsDesc.rulePack.rulesStrings>
+                <li>r_art_name->[first_chapters] [AnimalsSkill][maybe_cont]. [middle_book] [AnimalsSkill][maybe_cont]. [ending] [AnimalsSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>	
+                <li>r_art_name->[first_chapters] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. [middle_book] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. [ending] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[cover]. [first_chapters] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. [middle_book] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. [ending] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[inspired] "[ShootingBook]", [first_chapters] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. [middle_book] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. [ending] [AnimalsSkill][maybe_AnimalsSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[book_general] [AnimalsSkill] e [AnimalsSkill][maybe_cont], mas também vai em profundidade sobre [AnimalsSkill]. É [book_context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+            </ArtDescription_BookAnimalsDesc.rulePack.rulesStrings>
+
+        <!-- Art Book -->
+            <ArtDescription_BookArtName.rulePack.rulesStrings>
+                <li>r_art_name->[Books] de [ArtSkill] [maybe_adjective]</li>	
+                <li>r_art_name->[Books] [AdjectiveBadass] de [ArtSkill]</li>	
+                <li>r_art_name->[Books] [AdjectiveLarge] de [ArtSkill]</li>	
+                <li>r_art_name->[Books] de [PeopleBadass] de [ArtSkill]</li>
+                <li>r_art_name->[Noun] [Adjective]: História de [ArtSkill]</li>	
+                <li>r_art_name->[ArtSkill] [Digit]</li>
+                <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [ArtSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [ArtSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ArtSkill]</li>
+                <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [ArtSkill]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef] de [ArtSkill]</li>
+                <li>r_art_name->[ArtSkill] de [ANYPAWN_nameIndef]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef]: [ArtSkill]</li>
+                <li>r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ArtSkill]</li>
+                <li>r_art_name->[Noun] e [ArtSkill]</li>
+                <li>r_art_name->[ConceptAny] e [ArtSkill]</li>
+            </ArtDescription_BookArtName.rulePack.rulesStrings>
+            <ArtDescription_BookArtDesc.rulePack.rulesStrings>
+                <li>r_art_name->[first_chapters] [ArtSkill][maybe_cont]. [middle_book] [ArtSkill][maybe_cont]. [ending] [ArtSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>	
+                <li>r_art_name->[first_chapters] [ArtSkill][maybe_ArtSkill][maybe_cont]. [middle_book] [ArtSkill][maybe_ArtSkill][maybe_cont]. [ending] [ArtSkill][maybe_ArtSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[cover]. [first_chapters] [ArtSkill][maybe_ArtSkill][maybe_cont]. [middle_book] [ArtSkill][maybe_ArtSkill][maybe_cont]. [ending] [ArtSkill][maybe_ArtSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[inspired] "[ShootingBook]", [first_chapters] [ArtSkill][maybe_ArtSkill][maybe_cont]. [middle_book] [ArtSkill][maybe_ArtSkill][maybe_cont]. [ending] [ArtSkill][maybe_ArtSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[book_general] [ArtSkill] e [ArtSkill][maybe_cont], mas também vai em profundidade sobre [ArtSkill]. É [book_context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+            </ArtDescription_BookArtDesc.rulePack.rulesStrings>
+
+        <!-- Construction Book -->
+            <ArtDescription_BookConstructionName.rulePack.rulesStrings>
+                <li>r_art_name->[Books] de [ConstructionSkill] [maybe_adjective]</li>	
+                <li>r_art_name->[Books] [AdjectiveBadass] de [ConstructionSkill]</li>	
+                <li>r_art_name->[Books] [AdjectiveLarge] de [ConstructionSkill]</li>	
+                <li>r_art_name->[Books] de [PeopleBadass] de [ConstructionSkill]</li>
+                <li>r_art_name->[Noun] [Adjective]: História de [ConstructionSkill]</li>	
+                <li>r_art_name->[ConstructionSkill] [Digit]</li>
+                <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [ConstructionSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [ConstructionSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [ConstructionSkill]</li>
+                <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [ConstructionSkill]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef] de [ConstructionSkill]</li>
+                <li>r_art_name->[ConstructionSkill] de [ANYPAWN_nameIndef]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef]: [ConstructionSkill]</li>
+                <li>r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [ConstructionSkill]</li>
+                <li>r_art_name->[Noun] e [ConstructionSkill]</li>
+                <li>r_art_name->[ConceptAny] e [ConstructionSkill]</li>
+            </ArtDescription_BookConstructionName.rulePack.rulesStrings>
+            <ArtDescription_BookConstructionDesc.rulePack.rulesStrings>
+                <li>r_art_name->[first_chapters] [ConstructionSkill][maybe_cont]. [middle_book] [ConstructionSkill][maybe_cont]. [ending] [ConstructionSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>	
+                <li>r_art_name->[first_chapters] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. [middle_book] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. [ending] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[cover]. [first_chapters] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. [middle_book] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. [ending] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[inspired] "[ShootingBook]", [first_chapters] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. [middle_book] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. [ending] [ConstructionSkill][maybe_ConstructionSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[book_general] [ConstructionSkill] e [ConstructionSkill][maybe_cont], mas também vai em profundidade sobre [ConstructionSkill]. É [book_context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+            </ArtDescription_BookConstructionDesc.rulePack.rulesStrings>
+
+        <!-- Cooking Book -->
+            <ArtDescription_BookCookingName.rulePack.rulesStrings>
+                <li>r_art_name->[Books] de [CookingSkill] [maybe_adjective]</li>	
+                <li>r_art_name->[Books] [AdjectiveBadass] de [CookingSkill]</li>	
+                <li>r_art_name->[Books] [AdjectiveLarge] de [CookingSkill]</li>	
+                <li>r_art_name->[Books] de [PeopleBadass] de [CookingSkill]</li>
+                <li>r_art_name->[Noun] [Adjective]: História de [CookingSkill]</li>	
+                <li>r_art_name->[CookingSkill] [Digit]</li>
+                <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [CookingSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [CookingSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [CookingSkill]</li>
+                <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [CookingSkill]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef] de [CookingSkill]</li>
+                <li>r_art_name->[CookingSkill] de [ANYPAWN_nameIndef]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef]: [CookingSkill]</li>
+                <li>r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [CookingSkill]</li>
+                <li>r_art_name->[Noun] e [CookingSkill]</li>
+                <li>r_art_name->[ConceptAny] e [CookingSkill]</li>
+            </ArtDescription_BookCookingName.rulePack.rulesStrings>
+            <ArtDescription_BookCookingDesc.rulePack.rulesStrings>
+                <li>r_art_name->[first_chapters] [CookingSkill][maybe_cont]. [middle_book] [CookingSkill][maybe_cont]. [ending] [CookingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>	
+                <li>r_art_name->[first_chapters] [CookingSkill][maybe_CookingSkill][maybe_cont]. [middle_book] [CookingSkill][maybe_CookingSkill][maybe_cont]. [ending] [CookingSkill][maybe_CookingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[cover]. [first_chapters] [CookingSkill][maybe_CookingSkill][maybe_cont]. [middle_book] [CookingSkill][maybe_CookingSkill][maybe_cont]. [ending] [CookingSkill][maybe_CookingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[inspired] "[ShootingBook]", [first_chapters] [CookingSkill][maybe_CookingSkill][maybe_cont]. [middle_book] [CookingSkill][maybe_CookingSkill][maybe_cont]. [ending] [CookingSkill][maybe_CookingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[book_general] [CookingSkill] e [CookingSkill][maybe_cont], mas também vai em profundidade sobre [CookingSkill]. É [book_context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+            </ArtDescription_BookCookingDesc.rulePack.rulesStrings>
+
+        <!-- Crafting Book -->
+            <ArtDescription_BookCraftingName.rulePack.rulesStrings>
+                <li>r_art_name->[Books] de [CraftingSkill] [maybe_adjective]</li>	
+                <li>r_art_name->[Books] [AdjectiveBadass] de [CraftingSkill]</li>	
+                <li>r_art_name->[Books] [AdjectiveLarge] de [CraftingSkill]</li>	
+                <li>r_art_name->[Books] de [PeopleBadass] de [CraftingSkill]</li>
+                <li>r_art_name->[Noun] [Adjective]: História de [CraftingSkill]</li>	
+                <li>r_art_name->[CraftingSkill] [Digit]</li>
+                <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [CraftingSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [CraftingSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [CraftingSkill]</li>
+                <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [CraftingSkill]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef] de [CraftingSkill]</li>
+                <li>r_art_name->[CraftingSkill] de [ANYPAWN_nameIndef]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef]: [CraftingSkill]</li>
+                <li>r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [CraftingSkill]</li>
+                <li>r_art_name->[Noun] e [CraftingSkill]</li>
+                <li>r_art_name->[ConceptAny] e [CraftingSkill]</li>
+            </ArtDescription_BookCraftingName.rulePack.rulesStrings>
+            <ArtDescription_BookCraftingDesc.rulePack.rulesStrings>
+                <li>r_art_name->[first_chapters] [CraftingSkill][maybe_cont]. [middle_book] [CraftingSkill][maybe_cont]. [ending] [CraftingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>	
+                <li>r_art_name->[first_chapters] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. [middle_book] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. [ending] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[cover]. [first_chapters] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. [middle_book] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. [ending] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[inspired] "[ShootingBook]", [first_chapters] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. [middle_book] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. [ending] [CraftingSkill][maybe_CraftingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[book_general] [CraftingSkill] e [CraftingSkill][maybe_cont], mas também vai em profundidade sobre [CraftingSkill]. É [book_context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+            </ArtDescription_BookCraftingDesc.rulePack.rulesStrings>
+
+        <!-- Growing Book -->
+            <ArtDescription_BookGrowingName.rulePack.rulesStrings>
+                <li>r_art_name->[Books] de [GrowingSkill] [maybe_adjective]</li>	
+                <li>r_art_name->[Books] [AdjectiveBadass] de [GrowingSkill]</li>	
+                <li>r_art_name->[Books] [AdjectiveLarge] de [GrowingSkill]</li>	
+                <li>r_art_name->[Books] de [PeopleBadass] de [GrowingSkill]</li>
+                <li>r_art_name->[Noun] [Adjective]: História de [GrowingSkill]</li>	
+                <li>r_art_name->[GrowingSkill] [Digit]</li>
+                <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [GrowingSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [GrowingSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [GrowingSkill]</li>
+                <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [GrowingSkill]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef] de [GrowingSkill]</li>
+                <li>r_art_name->[GrowingSkill] de [ANYPAWN_nameIndef]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef]: [GrowingSkill]</li>
+                <li>r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [GrowingSkill]</li>
+                <li>r_art_name->[Noun] e [GrowingSkill]</li>
+                <li>r_art_name->[ConceptAny] e [GrowingSkill]</li>
+            </ArtDescription_BookGrowingName.rulePack.rulesStrings>
+            <ArtDescription_BookGrowingDesc.rulePack.rulesStrings>
+                <li>r_art_name->[first_chapters] [GrowingSkill][maybe_cont]. [middle_book] [GrowingSkill][maybe_cont]. [ending] [GrowingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>	
+                <li>r_art_name->[first_chapters] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. [middle_book] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. [ending] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[cover]. [first_chapters] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. [middle_book] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. [ending] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[inspired] "[ShootingBook]", [first_chapters] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. [middle_book] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. [ending] [GrowingSkill][maybe_GrowingSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[book_general] [GrowingSkill] e [GrowingSkill][maybe_cont], mas também vai em profundidade sobre [GrowingSkill]. É [book_context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+            </ArtDescription_BookGrowingDesc.rulePack.rulesStrings>
+
+        <!-- Intellectual Book -->
+            <ArtDescription_BookIntellectualName.rulePack.rulesStrings>
+                <li>r_art_name->[Books] de [IntellectualSkill] [maybe_adjective]</li>	
+                <li>r_art_name->[Books] [AdjectiveBadass] de [IntellectualSkill]</li>	
+                <li>r_art_name->[Books] [AdjectiveLarge] de [IntellectualSkill]</li>	
+                <li>r_art_name->[Books] de [PeopleBadass] de [IntellectualSkill]</li>
+                <li>r_art_name->[Noun] [Adjective]: História de [IntellectualSkill]</li>	
+                <li>r_art_name->[IntellectualSkill] [Digit]</li>
+                <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [IntellectualSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [IntellectualSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [IntellectualSkill]</li>
+                <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [IntellectualSkill]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef] de [IntellectualSkill]</li>
+                <li>r_art_name->[IntellectualSkill] de [ANYPAWN_nameIndef]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef]: [IntellectualSkill]</li>
+                <li>r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [IntellectualSkill]</li>
+                <li>r_art_name->[Noun] e [IntellectualSkill]</li>
+                <li>r_art_name->[ConceptAny] e [IntellectualSkill]</li>
+            </ArtDescription_BookIntellectualName.rulePack.rulesStrings>
+            <ArtDescription_BookIntellectualDesc.rulePack.rulesStrings>
+                <li>r_art_name->[first_chapters] [IntellectualSkill][maybe_cont]. [middle_book] [IntellectualSkill][maybe_cont]. [ending] [IntellectualSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>	
+                <li>r_art_name->[first_chapters] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. [middle_book] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. [ending] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[cover]. [first_chapters] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. [middle_book] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. [ending] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[inspired] "[ShootingBook]", [first_chapters] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. [middle_book] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. [ending] [IntellectualSkill][maybe_IntellectualSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[book_general] [IntellectualSkill] e [IntellectualSkill][maybe_cont], mas também vai em profundidade sobre [IntellectualSkill]. É [book_context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+            </ArtDescription_BookIntellectualDesc.rulePack.rulesStrings>
+
+        <!-- Medical Book -->
+            <ArtDescription_BookMedicalName.rulePack.rulesStrings>
+                <li>r_art_name->[Books] de [MedicalSkill] [maybe_adjective]</li>	
+                <li>r_art_name->[Books] [AdjectiveBadass] de [MedicalSkill]</li>	
+                <li>r_art_name->[Books] [AdjectiveLarge] de [MedicalSkill]</li>	
+                <li>r_art_name->[Books] de [PeopleBadass] de [MedicalSkill]</li>
+                <li>r_art_name->[Noun] [Adjective]: História de [MedicalSkill]</li>	
+                <li>r_art_name->[MedicalSkill] [Digit]</li>
+                <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [MedicalSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [MedicalSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MedicalSkill]</li>
+                <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [MedicalSkill]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef] de [MedicalSkill]</li>
+                <li>r_art_name->[MedicalSkill] de [ANYPAWN_nameIndef]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef]: [MedicalSkill]</li>
+                <li>r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MedicalSkill]</li>
+                <li>r_art_name->[Noun] e [MedicalSkill]</li>
+                <li>r_art_name->[ConceptAny] e [MedicalSkill]</li>
+            </ArtDescription_BookMedicalName.rulePack.rulesStrings>
+            <ArtDescription_BookMedicalDesc.rulePack.rulesStrings>
+                <li>r_art_name->[first_chapters] [MedicalSkill][maybe_cont]. [middle_book] [MedicalSkill][maybe_cont]. [ending] [MedicalSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>	
+                <li>r_art_name->[first_chapters] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. [middle_book] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. [ending] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[cover]. [first_chapters] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. [middle_book] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. [ending] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[inspired] "[ShootingBook]", [first_chapters] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. [middle_book] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. [ending] [MedicalSkill][maybe_MedicalSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[book_general] [MedicalSkill] e [MedicalSkill][maybe_cont], mas também vai em profundidade sobre [MedicalSkill]. É [book_context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+            </ArtDescription_BookMedicalDesc.rulePack.rulesStrings>
+
+        <!-- Melee Book -->
+            <ArtDescription_BookMeleeName.rulePack.rulesStrings>
+                <li>r_art_name->[Books] de [MeleeSkill] [maybe_adjective]</li>	
+                <li>r_art_name->[Books] [AdjectiveBadass] de [MeleeSkill]</li>	
+                <li>r_art_name->[Books] [AdjectiveLarge] de [MeleeSkill]</li>	
+                <li>r_art_name->[Books] de [PeopleBadass] de [MeleeSkill]</li>
+                <li>r_art_name->[Noun] [Adjective]: História de [MeleeSkill]</li>	
+                <li>r_art_name->[MeleeSkill] [Digit]</li>
+                <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [MeleeSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [MeleeSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MeleeSkill]</li>
+                <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [MeleeSkill]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef] de [MeleeSkill]</li>
+                <li>r_art_name->[MeleeSkill] de [ANYPAWN_nameIndef]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef]: [MeleeSkill]</li>
+                <li>r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MeleeSkill]</li>
+                <li>r_art_name->[Noun] e [MeleeSkill]</li>
+                <li>r_art_name->[ConceptAny] e [MeleeSkill]</li>
+            </ArtDescription_BookMeleeName.rulePack.rulesStrings>
+            <ArtDescription_BookMeleeDesc.rulePack.rulesStrings>
+                <li>r_art_name->[first_chapters] [MeleeSkill][maybe_cont]. [middle_book] [MeleeSkill][maybe_cont]. [ending] [MeleeSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>	
+                <li>r_art_name->[first_chapters] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. [middle_book] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. [ending] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[cover]. [first_chapters] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. [middle_book] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. [ending] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[inspired] "[ShootingBook]", [first_chapters] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. [middle_book] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. [ending] [MeleeSkill][maybe_MeleeSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[book_general] [MeleeSkill] e [MeleeSkill][maybe_cont], mas também vai em profundidade sobre [MeleeSkill]. É [book_context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+            </ArtDescription_BookMeleeDesc.rulePack.rulesStrings>
+
+        <!-- Mining Book -->
+            <ArtDescription_BookMiningName.rulePack.rulesStrings>
+                <li>r_art_name->[Books] de [MiningSkill] [maybe_adjective]</li>	
+                <li>r_art_name->[Books] [AdjectiveBadass] de [MiningSkill]</li>	
+                <li>r_art_name->[Books] [AdjectiveLarge] de [MiningSkill]</li>	
+                <li>r_art_name->[Books] de [PeopleBadass] de [MiningSkill]</li>
+                <li>r_art_name->[Noun] [Adjective]: História de [MiningSkill]</li>	
+                <li>r_art_name->[MiningSkill] [Digit]</li>
+                <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [MiningSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [MiningSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [MiningSkill]</li>
+                <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [MiningSkill]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef] de [MiningSkill]</li>
+                <li>r_art_name->[MiningSkill] de [ANYPAWN_nameIndef]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef]: [MiningSkill]</li>
+                <li>r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [MiningSkill]</li>
+                <li>r_art_name->[Noun] e [MiningSkill]</li>
+                <li>r_art_name->[ConceptAny] e [MiningSkill]</li>
+            </ArtDescription_BookMiningName.rulePack.rulesStrings>
+            <ArtDescription_BookMiningDesc.rulePack.rulesStrings>
+                <li>r_art_name->[first_chapters] [MiningSkill][maybe_cont]. [middle_book] [MiningSkill][maybe_cont]. [ending] [MiningSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>	
+                <li>r_art_name->[first_chapters] [MiningSkill][maybe_MiningSkill][maybe_cont]. [middle_book] [MiningSkill][maybe_MiningSkill][maybe_cont]. [ending] [MiningSkill][maybe_MiningSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[cover]. [first_chapters] [MiningSkill][maybe_MiningSkill][maybe_cont]. [middle_book] [MiningSkill][maybe_MiningSkill][maybe_cont]. [ending] [MiningSkill][maybe_MiningSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[inspired] "[ShootingBook]", [first_chapters] [MiningSkill][maybe_MiningSkill][maybe_cont]. [middle_book] [MiningSkill][maybe_MiningSkill][maybe_cont]. [ending] [MiningSkill][maybe_MiningSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[book_general] [MiningSkill] e [MiningSkill][maybe_cont], mas também vai em profundidade sobre [MiningSkill]. É [book_context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+            </ArtDescription_BookMiningDesc.rulePack.rulesStrings>
+
+        <!-- Social Book -->
+            <ArtDescription_BookSocialName.rulePack.rulesStrings>
+                <li>r_art_name->[Books] de [SocialSkill] [maybe_adjective]</li>	
+                <li>r_art_name->[Books] [AdjectiveBadass] de [SocialSkill]</li>	
+                <li>r_art_name->[Books] [AdjectiveLarge] de [SocialSkill]</li>	
+                <li>r_art_name->[Books] de [PeopleBadass] de [SocialSkill]</li>
+                <li>r_art_name->[Noun] [Adjective]: História de [SocialSkill]</li>	
+                <li>r_art_name->[SocialSkill] [Digit]</li>
+                <li>r_art_name->[maybe_letter][Digit][maybe_letter]: [SocialSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][maybe_letter]: [SocialSkill]</li>
+                <li>r_art_name->[maybe_letter][Digit][Digit][Digit][maybe_letter]: [SocialSkill]</li>
+                <li>r_art_name->[maybe_letter][RomanNumeral][maybe_letter]: [SocialSkill]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef] de [SocialSkill]</li>
+                <li>r_art_name->[SocialSkill] de [ANYPAWN_nameIndef]</li>
+                <li>r_art_name->[Books] de [ANYPAWN_nameIndef]: [SocialSkill]</li>
+                <li>r_art_name->[maybe_a] [ANYPAWN_nameIndef] [Trans] [Color]: [SocialSkill]</li>
+                <li>r_art_name->[Noun] e [SocialSkill]</li>
+                <li>r_art_name->[ConceptAny] e [SocialSkill]</li>
+            </ArtDescription_BookSocialName.rulePack.rulesStrings>
+            <ArtDescription_BookSocialDesc.rulePack.rulesStrings>
+                <li>r_art_name->[first_chapters] [SocialSkill][maybe_cont]. [middle_book] [SocialSkill][maybe_cont]. [ending] [SocialSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>	
+                <li>r_art_name->[first_chapters] [SocialSkill][maybe_SocialSkill][maybe_cont]. [middle_book] [SocialSkill][maybe_SocialSkill][maybe_cont]. [ending] [SocialSkill][maybe_SocialSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[cover]. [first_chapters] [SocialSkill][maybe_SocialSkill][maybe_cont]. [middle_book] [SocialSkill][maybe_SocialSkill][maybe_cont]. [ending] [SocialSkill][maybe_SocialSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[inspired] "[ShootingBook]", [first_chapters] [SocialSkill][maybe_SocialSkill][maybe_cont]. [middle_book] [SocialSkill][maybe_SocialSkill][maybe_cont]. [ending] [SocialSkill][maybe_SocialSkill][maybe_cont]. Este [book] é [book-context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+                <li>r_art_name->[book_general] [SocialSkill] e [SocialSkill][maybe_cont], mas também vai em profundidade sobre [SocialSkill]. É [book_context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
+            </ArtDescription_BookSocialDesc.rulePack.rulesStrings>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- Mechanoid Hive -->
+            <VFE_NamerFactionMechanoid.rulePack.rulesStrings>
+                <li>r_name->[fmechpart] [smechpart] [mechhive] [natoalphabet]</li>
+                <li>mechhive->mecanóide</li>
+                <li>fmechpart->universal</li>
+                <li>fmechpart->poderoso(a)</li>
+                <li>fmechpart->reativo(a)</li>
+                <li>fmechpart->cibernético(a)</li>
+                <li>fmechpart->autossuficiente</li>
+                <li>fmechpart->cibernético(a)</li>
+                <li>fmechpart->auto-regulado(a)</li>
+                <li>fmechpart->solar</li>
+                <li>fmechpart->digital</li>
+                <li>fmechpart->neo-humano(a)</li>
+                <li>fmechpart->poderoso(a)</li>
+                <li>fmechpart->automatizado(a)</li>
+                <li>fmechpart->integrado(a)</li>
+                <li>fmechpart->compacto(a)</li>
+                <li>fmechpart->final</li>
+                <li>fmechpart->super</li>
+                <li>fmechpart->estratégico(a)</li>
+                <li>fmechpart->unificado(a)</li>
+                <li>fmechpart->independente</li>
+                <li>fmechpart->temporário(a)</li>
+                <li>fmechpart->emergencial</li>
+                <li>fmechpart->mecânico(a)</li>
+                <li>fmechpart->programado(a)</li>
+                <li>fmechpart->estratégico(a)</li>
+                <li>fmechpart->nuclear</li>
+                <li>smechpart->operação</li>
+		        <li>smechpart->anulação</li>
+                <li>smechpart->terraformação</li>
+                <li>smechpart->invasão</li>
+                <li>smechpart->segurança</li>
+                <li>smechpart->navigação</li>
+                <li>smechpart->terminação</li>
+                <li>smechpart->ceifa</li>
+                <li>smechpart->reposta</li>
+                <li>smechpart->disposição</li>
+		        <li>smechpart->gerenciamento</li>
+                <li>smechpart->controle</li>
+                <li>smechpart->simulação</li>
+                <li>smechpart->algoritimo</li>
+                <li>smechpart->guarda</li>
+                <li>smechpart->guerra</li>
+                <li>smechpart->colecção</li>
+                <li>smechpart->aplicação</li>
+                <li>natoalphabet->alpha</li>
+		        <li>natoalphabet->bravo</li>
+                <li>natoalphabet->charlie</li>
+                <li>natoalphabet->delta</li>
+                <li>natoalphabet->echo</li>
+                <li>natoalphabet->foxtrot</li>
+		        <li>natoalphabet->golf</li>
+                <li>natoalphabet->hotel</li>
+                <li>natoalphabet->india</li>
+                <li>natoalphabet->juliett</li>
+                <li>natoalphabet->kilo</li>
+		        <li>natoalphabet->lima</li>
+                <li>natoalphabet->mike</li>
+                <li>natoalphabet->november</li>
+                <li>natoalphabet->oscar</li>
+                <li>natoalphabet->papa</li>
+		        <li>natoalphabet->quebec</li>
+                <li>natoalphabet->romeo</li>
+                <li>natoalphabet->sierra</li>
+                <li>natoalphabet->tango</li>
+                <li>natoalphabet->uniform</li>
+		        <li>natoalphabet->victor</li>
+                <li>natoalphabet->whiskey</li>
+                <li>natoalphabet->x-ray</li>
+                <li>natoalphabet->yankee</li>
+                <li>natoalphabet->zulu</li>
+            </VFE_NamerFactionMechanoid.rulePack.rulesStrings>
+
+        <!-- Mechanoid Frigate -->
+            <VFE_NamerShipFrigate.rulePack.rulesStrings>
+                <li>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</li>
+                <li>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+                <li>shiptype->fragata</li>
+                <li>maybe_letter(p=3)-></li>
+                <li>maybe_letter->[Letter]</li>
+                <li>maybe_letter->[Letter][Letter]</li>
+            </VFE_NamerShipFrigate.rulePack.rulesStrings>
+
+        <!-- Mechanoid Destroyer -->
+            <VFE_NamerShipDestroyer.rulePack.rulesStrings>
+                <li>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</li>
+                <li>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+                <li>shiptype->contratorpedeiro</li>
+                <li>maybe_letter(p=3)-></li>
+                <li>maybe_letter->[Letter]</li>
+                <li>maybe_letter->[Letter][Letter]</li>
+            </VFE_NamerShipDestroyer.rulePack.rulesStrings>
+
+        <!-- Mechanoid Cruiser -->
+            <VFE_NamerShipCruiser.rulePack.rulesStrings>
+                <li>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</li>
+                <li>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+                <li>shiptype->cruzador</li>
+                <li>maybe_letter(p=3)-></li>
+                <li>maybe_letter->[Letter]</li>
+                <li>maybe_letter->[Letter][Letter]</li>
+            </VFE_NamerShipCruiser.rulePack.rulesStrings>
+
+        <!-- Mechanoid Troopship -->
+            <VFE_NamerShipTroopship.rulePack.rulesStrings>
+                <li>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</li>
+                <li>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+                <li>shiptype->transportador</li>
+                <li>maybe_letter(p=3)-></li>
+                <li>maybe_letter->[Letter]</li>
+                <li>maybe_letter->[Letter][Letter]</li>
+            </VFE_NamerShipTroopship.rulePack.rulesStrings>
+
+        <!-- Mechanoid Carrier -->
+            <VFE_NamerShipCarrier.rulePack.rulesStrings>
+                <li>r_name->[shiptype] [maybe_letter][Digit][Digit][maybe_letter]</li>
+                <li>r_name->[shiptype] [maybe_letter][Digit][Digit][Digit][maybe_letter]</li>
+                <li>shiptype->carregador</li>
+                <li>maybe_letter(p=3)-></li>
+                <li>maybe_letter->[Letter]</li>
+                <li>maybe_letter->[Letter][Letter]</li>
+            </VFE_NamerShipCarrier.rulePack.rulesStrings>
+
     <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Faction Medieval -->
+            <VFEM_NamerFactionMedieval.rulePack.rulesStrings>
+                <li>r_name(p=0.35)->[PlaceOutlander]</li>
+                <li>r_name->O [political_union_medieval] de [PlaceOutlander]</li>
+                <li>r_name->[political_union_medieval] [PlaceOutlander]</li>
+            </VFEM_NamerFactionMedieval.rulePack.rulesStrings>
+            <VFEM_NamerFactionMedieval.rulePack.rulesFiles>
+                <li>political_union_medieval->Words/Nouns/PoliticalUnions_Medieval</li>
+            </VFEM_NamerFactionMedieval.rulePack.rulesFiles>
+
+        <!-- Settlement Medieval -->
+            <VFEM_NamerSettlementMedieval.rulePack.rulesStrings>
+                <li>r_name(p=4)->[medievalSettlementEnd] [PlaceOutlander]</li>
+                <li>r_name->[medievalSettlementEnd] [TerrainFeature] de [AnimalBadass]</li>
+            </VFEM_NamerSettlementMedieval.rulePack.rulesStrings>
+            <VFEM_NamerSettlementMedieval.rulePack.rulesFiles>
+                <li>medievalSettlementEnd->Words/Nouns/PlaceEnd_Medieval</li>
+            </VFEM_NamerSettlementMedieval.rulePack.rulesFiles>
+
         <!-- Melee -->
             <VFEM_Event_MeleeRound.rulePack.rulesStrings>
                 <li>r_logentry->[INITIATOR_definite] [surpassed] [skillfully] [SUBJECT_definite] com sua espada.</li>

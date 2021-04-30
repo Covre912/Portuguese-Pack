@@ -31,6 +31,9 @@
     <!-- Vanilla Armour Expanded -->
         <VAE_BootsAndGloves.label>calçados</VAE_BootsAndGloves.label>
 
+    <!-- Vanilla Books Expanded -->
+        <VBE_Books.label>livros</VBE_Books.label>
+
     <!-- Vanilla Expanded Framework -->
         <VFEC_Shields.label>escudos</VFEC_Shields.label>
 

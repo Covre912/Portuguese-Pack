@@ -8,6 +8,9 @@
     <!-- Psychology (unofficial 1.1/1.2) -->
         <Office.label>escritório</Office.label>
 
+    <!-- Vanilla Books Expanded -->
+        <VBE_Library.label>livraria</VBE_Library.label>
+
     <!-- Vanilla Furniture Expanded - Power -->
         <VPE_ReactorRoom.label>sala do reator</VPE_ReactorRoom.label>
 

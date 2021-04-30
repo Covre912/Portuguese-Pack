@@ -131,6 +131,15 @@
             <VAE_MilitaryClothing.label>vestuário militar</VAE_MilitaryClothing.label>
             <VAE_MilitaryClothing.description>Crie roupas à prova de balas e intempéries para proteger seus soldados.</VAE_MilitaryClothing.description>
 
+    <!-- Vanilla Books Expanded -->
+        <!-- Writing -->
+            <VBE_Writing.label>escrita</VBE_Writing.label>
+            <VBE_Writing.description>Construa uma escrivaninha e faça com que seus colonos escrevam livros que transmitam seus conhecimentos a outros membros de sua sociedade.</VBE_Writing.description>
+
+        <!-- Printing -->
+            <VBE_Printing.label>impressão</VBE_Printing.label>
+            <VBE_Printing.description>Construa uma máquina de escrever, o que permite que seus colonos escrevam livros significativamente mais rápido, bem como criem jornais para um impulso temporário de alegria.</VBE_Printing.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Factory Basics -->
             <VFE_FactoryBasics.label>fundamentos da fábrica</VFE_FactoryBasics.label>

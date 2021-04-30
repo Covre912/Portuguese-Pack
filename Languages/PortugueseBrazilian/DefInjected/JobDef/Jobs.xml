@@ -32,6 +32,9 @@
         <AEXP_IngestAnts.reportString>devorando formigas.</AEXP_IngestAnts.reportString>
         <AEXP_GotoTheWild.reportString>indo para a naturza.</AEXP_GotoTheWild.reportString>
 
+    <!-- Vanilla Books Expanded -->
+        <VBE_ReadBook.reportString>lendo.</VBE_ReadBook.reportString>
+
     <!-- Vanilla Events Expanded -->
         <HuntAndLeave.reportString>caçando TargetA.</HuntAndLeave.reportString>
 

@@ -519,6 +519,23 @@
             <SM_AteSaucedSimpleMeal.stages.0.label>comeu refeição simples temperada</SM_AteSaucedSimpleMeal.stages.0.label>
             <SM_AteSaucedSimpleMeal.stages.0.description>Eu comi uma refeição simples. Não foi surpreendente, mas a cobertura foi boa.</SM_AteSaucedSimpleMeal.stages.0.description>
 
+    <!-- Vanilla Books Expanded -->
+        <!-- Library Room -->
+            <VBE_JoyActivityInImpressiveLibraryRoom.stages.3.label>livraria decente</VBE_JoyActivityInImpressiveLibraryRoom.stages.3.label>
+            <VBE_JoyActivityInImpressiveLibraryRoom.stages.3.description>Eu me diverti em uma livraria decente.</VBE_JoyActivityInImpressiveLibraryRoom.stages.3.description>
+            <VBE_JoyActivityInImpressiveLibraryRoom.stages.4.label>livraria ligeiramente impressionando</VBE_JoyActivityInImpressiveLibraryRoom.stages.4.label>
+            <VBE_JoyActivityInImpressiveLibraryRoom.stages.4.description>Eu me diverti em uma boa livraria.</VBE_JoyActivityInImpressiveLibraryRoom.stages.4.description>
+            <VBE_JoyActivityInImpressiveLibraryRoom.stages.5.label>livraria um pouco impressionante</VBE_JoyActivityInImpressiveLibraryRoom.stages.5.label>
+            <VBE_JoyActivityInImpressiveLibraryRoom.stages.5.description>Eu me diverti muito em uma livraria impressionante.</VBE_JoyActivityInImpressiveLibraryRoom.stages.5.description>
+            <VBE_JoyActivityInImpressiveLibraryRoom.stages.6.label>livraria muito impressionante</VBE_JoyActivityInImpressiveLibraryRoom.stages.6.label>
+            <VBE_JoyActivityInImpressiveLibraryRoom.stages.6.description>Eu me diverti muito em uma livraria muito impressionante.</VBE_JoyActivityInImpressiveLibraryRoom.stages.6.description>
+            <VBE_JoyActivityInImpressiveLibraryRoom.stages.7.label>livraria extremamente impressionante</VBE_JoyActivityInImpressiveLibraryRoom.stages.7.label>
+            <VBE_JoyActivityInImpressiveLibraryRoom.stages.7.description>Eu me diverti muito em uma livraria extremamente impressionante. Eu poderia ficar lá para sempre.</VBE_JoyActivityInImpressiveLibraryRoom.stages.7.description>
+            <VBE_JoyActivityInImpressiveLibraryRoom.stages.8.label>livraria incrivelmente impressionante</VBE_JoyActivityInImpressiveLibraryRoom.stages.8.label>
+            <VBE_JoyActivityInImpressiveLibraryRoom.stages.8.description>Eu me diverti muito em uma livraria impossivelmente impressionante. Eu poderia ficar lá para sempre.</VBE_JoyActivityInImpressiveLibraryRoom.stages.8.description>
+            <VBE_JoyActivityInImpressiveLibraryRoom.stages.9.label>livraria maravilhosamente impressionante</VBE_JoyActivityInImpressiveLibraryRoom.stages.9.label>
+            <VBE_JoyActivityInImpressiveLibraryRoom.stages.9.description>Eu me diverti muito em uma livraria maravilhosa. Eu poderia ficar lá para sempre.</VBE_JoyActivityInImpressiveLibraryRoom.stages.9.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Aurora -->
             <Aurora.stages.0.label>aurora linda</Aurora.stages.0.label>

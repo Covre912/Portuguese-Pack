@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Vanilla Books Expanded -->
+        <VBE_Reading.label>leitura</VBE_Reading.label>
+
     <!-- Vanilla Furniture Expanded -->
         <Gaming_Electronic.label>jogos eletrônicos</Gaming_Electronic.label>
 

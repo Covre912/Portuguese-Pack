@@ -2,11 +2,9 @@
 <LanguageData>
 
     <!-- Jewelry -->
-        <!-- Accesories -->
-            <Accessories.label>accessórios</Accessories.label>
+        <Accessories.label>accessórios</Accessories.label>
 
     <!-- Vanilla Expanded Framework -->
-        <!-- On Top -->
-            <VFEC_OuterShell.label>em cima</VFEC_OuterShell.label>
+        <VFEC_OuterShell.label>em cima</VFEC_OuterShell.label>
 
 </LanguageData>
