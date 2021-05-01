@@ -309,6 +309,15 @@
             <VCE_CheesePress.label>prensa de queijo</VCE_CheesePress.label>
             <VCE_CheesePress.description>Uma prensa de queijo é um dispositivo para prensar o soro da coalhada. A prensagem influencia a dureza e a textura do queijo e também determina a forma do bloco ou da roda do queijo. Esta prensa também funciona como câmara de maturação, por isso, quanto mais tempo o queijo ficar a maturar, melhor será a sua qualidade.</VCE_CheesePress.description>
 
+    <!-- Vanilla Cooking Expanded - Sushi -->
+        <!-- Sushi Prep Table -->
+            <VCE_SushiPrepTable.label>mesa de prep. de sushi</VCE_SushiPrepTable.label>
+            <VCE_SushiPrepTable.description>Uma mesa de trabalho para cortar, fatiar e preparar todos os tipos de sushi.</VCE_SushiPrepTable.description>
+
+        <!-- Soy Sauce Fermenter -->
+            <VCE_SoyFermenter.label>fermentador de molho de soja</VCE_SoyFermenter.label>
+            <VCE_SoyFermenter.description>Um fermentador de soja é um tambor cilíndrico e metálico onde a soja é prensada, misturada com bactérias e grãos e envelhecida por longos períodos de tempo. O resultado é o molho de soja de qualidade cada vez maior, que pode ser usado como condimento alimentar.</VCE_SoyFermenter.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Ship Chunk -->
             <VEE_ShipChunkHuman.label>pedaço de nave</VEE_ShipChunkHuman.label>

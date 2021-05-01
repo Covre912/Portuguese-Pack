@@ -414,6 +414,31 @@
             <VCE_ConsumedHotSauce.label>consumiu molho de pimenta (de refeição)</VCE_ConsumedHotSauce.label>
             <VCE_ConsumedHotSauce.description>Consumido um molho picante potente feito de pimenta e outras especiarias. Embora molhos picantes particularmente fortes machuquem no início, são conhecidos por amortecer a dor e causar um suor quente logo após o consumo. Aumenta a resistência à dor e à temperatura fria por 24 horas.</VCE_ConsumedHotSauce.description>
 
+    <!-- Vanilla Cooking Expanded - Sushi -->
+        <!-- Soy Sauce -->
+            <VCE_ConsumedSoySauce.label>consumiu molho shoyu (de refeição)</VCE_ConsumedSoySauce.label>
+            <VCE_ConsumedSoySauce.description>Uma pasta fermentada de soja. O molho shoyu pode ser adicionado diretamente à comida e é usado como sabor de sal na culinária, além de fornecer um sabor umami rico. O molho de soja contém 10 vezes mais antioxidantes do que o vinho tinto e pode ajudar a prevenir doenças cardiovasculares.</VCE_ConsumedSoySauce.description>
+
+        <!-- Wasabi -->
+            <VCE_ConsumedWasabi.label>consumiu wasabi (de refeição)</VCE_ConsumedWasabi.label>
+            <VCE_ConsumedWasabi.description>Uma pasta feita de rizomas de wasabi moídos e usada como condimento picante para sushi e outros alimentos. Tem um sabor semelhante ao da mostarda picante, e não à pimenta, pois estimula mais o nariz do que a língua.</VCE_ConsumedWasabi.description>
+
+        <!-- Simple Sushi -->
+            <VCE_AteSimpleSushi.label>consumiu sushi simples (de refeição)</VCE_AteSimpleSushi.label>
+            <VCE_AteSimpleSushi.description>Comi um sushi delicioso.</VCE_AteSimpleSushi.description>
+
+        <!-- Fine Sushi -->
+            <VCE_AteFineSushi.label>consumiu sushi bom (de refeição)</VCE_AteFineSushi.label>
+            <VCE_AteFineSushi.description>Comi uma refeição de sushi deliciosa.</VCE_AteFineSushi.description>
+
+        <!-- Lavish Sushi -->
+            <VCE_AteLavishSushi.label>consumiu sushi luxuoso (de refeição)</VCE_AteLavishSushi.label>
+            <VCE_AteLavishSushi.description>Comi uma refeição de sushi deliciosa.</VCE_AteLavishSushi.description>
+
+        <!-- Gourmet Sushi -->
+            <VCE_AteGourmetSushi.label>consumiu sushi gourmet (de refeição)</VCE_AteGourmetSushi.label>
+            <VCE_AteGourmetSushi.description>Comi uma refeição de sushi deliciosa.</VCE_AteGourmetSushi.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Taritor -->
             <Traitor.label>traidor</Traitor.label>

@@ -633,6 +633,35 @@
             <VCE_ConsumedHotSauce.stages.0.label>fogo que arde sem se ver</VCE_ConsumedHotSauce.stages.0.label>
             <VCE_ConsumedHotSauce.stages.0.description>Eu absolutamente odeio aquele molho quente super forte! Por favor, me dê mais.</VCE_ConsumedHotSauce.stages.0.description>
 
+    <!-- Vanilla Cooking Expanded - Sushi -->
+        <!-- Soy Sauce -->
+            <VCE_ConsumedSoySauce.stages.0.label>consumiu molho shoyu</VCE_ConsumedSoySauce.stages.0.label>
+            <VCE_ConsumedSoySauce.stages.0.description>Salgado, umami, doce e amargor muito leve. Perfeição.</VCE_ConsumedSoySauce.stages.0.description>
+
+        <!-- Wasabi -->
+            <VCE_ConsumedWasabi.stages.0.label>sopro de dragão</VCE_ConsumedWasabi.stages.0.label>
+            <VCE_ConsumedWasabi.stages.0.description>Meu nariz inteiro queima! Por favor, me dê mais.</VCE_ConsumedWasabi.stages.0.description>
+
+        <!-- Simple Sushi -->
+            <VCE_AteSimpleSushi.stages.0.label>comeu sushi simples</VCE_AteSimpleSushi.stages.0.label>
+            <VCE_AteSimpleSushi.stages.0.description>Até o sushi mais básico é uma iguaria.</VCE_AteSimpleSushi.stages.0.description>
+
+        <!-- Fine Sushi -->
+            <VCE_AteFineSushi.stages.0.label>comeu sushi bom</VCE_AteFineSushi.stages.0.label>
+            <VCE_AteFineSushi.stages.0.description>Comi um sushi muito bom com alguns vegetais. Muito gostoso.</VCE_AteFineSushi.stages.0.description>
+
+        <!-- Lavish Sushi -->
+            <VCE_AteLavishSushi.stages.0.label>comeu sushi luxuoso</VCE_AteLavishSushi.stages.0.label>
+            <VCE_AteLavishSushi.stages.0.description>Comi um prato de sushi incrível. Delicioso!</VCE_AteLavishSushi.stages.0.description>
+
+        <!-- Gourmet Sushi -->
+            <VCE_AteGourmetSushi.stages.0.label>comeu sushi gourmet</VCE_AteGourmetSushi.stages.0.label>
+            <VCE_AteGourmetSushi.stages.0.description>Aquilo... aquilo estava fora deste mundo. As fatias de peixe derreteram na minha boca. Simplesmente incrível.</VCE_AteGourmetSushi.stages.0.description>
+
+        <!-- Deep Fried Sushi -->
+            <VCE_AteFriedSushi.stages.0.label>comeu sushi frito</VCE_AteFriedSushi.stages.0.label>
+            <VCE_AteFriedSushi.stages.0.description>Comida gordurosa. Delicioso.</VCE_AteFriedSushi.stages.0.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Aurora -->
             <Aurora.stages.0.label>aurora linda</Aurora.stages.0.label>

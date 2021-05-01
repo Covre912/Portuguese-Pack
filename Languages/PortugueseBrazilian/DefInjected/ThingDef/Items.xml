@@ -1005,6 +1005,63 @@
 			<VCE_HotSauce.label>molho de pimenta</VCE_HotSauce.label>
 			<VCE_HotSauce.description>Um molho picante potente feito de pimenta e outras especiarias. Embora molhos picantes particularmente fortes machuquem no início, são conhecidos por amortecer a dor e causar um suor quente logo após o consumo.</VCE_HotSauce.description>
 
+	<!-- Vanilla Cooking Expanded - Sushi -->
+		<!-- Soy Sauce -->
+			<VCE_SoySauce.label>molho shoyu</VCE_SoySauce.label>
+			<VCE_SoySauce.description>Uma pasta fermentada de soja. O molho de soja pode ser adicionado diretamente à comida e é usado como um molho na culinária, além de fornecer um sabor umami rico.</VCE_SoySauce.description>
+
+		<!-- Wasabi Paste -->
+			<VCE_WasabiPaste.label>pasta de wasabi</VCE_WasabiPaste.label>
+			<VCE_WasabiPaste.description>Uma pasta feita de rizomas de wasabi moídos e usada como condimento picante para sushi e outros alimentos. Tem um sabor semelhante ao da mostarda picante, e não à pimenta, pois estimula mais o nariz do que a língua. Perde o sabor e se deteriora extremamente rápido.</VCE_WasabiPaste.description>
+
+		<!-- Deep Fried Sushi -->
+			<VCE_DeepFriedSushi.label>sushi frito</VCE_DeepFriedSushi.label>
+			<VCE_DeepFriedSushi.description>O sushi é um dos alimentos mais saudáveis ​​que existe. Então, mais cedo ou mais tarde, alguém iria fritá-lo e torná-lo o oposto. O resultado final é um alimento crocante para a alma, insalubre, mas saboroso - não tão satisfatório quanto uma refeição, mas muito agradável de comer.</VCE_DeepFriedSushi.description>
+
+		<!-- Human Surimi -->
+			<VCE_HumanSurimi.label>surimi humano</VCE_HumanSurimi.label>
+			<VCE_HumanSurimi.description>Uma pasta indistinta que imita a textura de lagosta, caranguejo ou outro marisco. Apenas, este... é feito com carne humana. Uma iguaria para tribos canibais e uma experiência culinária profundamente nojenta e tabu para qualquer outra pessoa.</VCE_HumanSurimi.description>
+
+		<!-- Soybeans -->
+			<VCE_RawSoybean.label>soja</VCE_RawSoybean.label>
+			<VCE_RawSoybean.description>Um feijão comestível que pode ser usado como vegetal em uma infinidade de receitas, e mais conhecido como o ingrediente principal de um delicioso molho de soja.</VCE_RawSoybean.description>
+
+		<!-- Wasabi -->
+			<VCE_RawWasabi.label>wasabi</VCE_RawWasabi.label>
+			<VCE_RawWasabi.description>Uma planta da família do rábano. Tem um sabor semelhante ao da mostarda picante, e não à pimenta, pois estimula mais o nariz do que a língua.</VCE_RawWasabi.description>
+
+		<!-- Chirashizushi Bowl (Simple) -->
+			<chirashizushi.label>chirashizushi (simples)</chirashizushi.label>
+			<chirashizushi.description>Uma tigela de chirashizushi simples feita com alguns ingredientes. Em Chirashizushi, o arroz é servido em uma tigela e coberto com uma variedade de peixes crus e vegetais. É comumente consumido porque é satisfatório, além de rápido e fácil de fazer.</chirashizushi.description>
+
+		<!-- Norimaki (Simple) -->
+			<VCE_Norimaki.label>norimaki (simples)</VCE_Norimaki.label>
+			<VCE_Norimaki.description>Sushi norimaki simples feito de alguns ingredientes. Norimaki é um tipo de sushi embrulhado com algas marinhas.</VCE_Norimaki.description>
+
+		<!-- Uramaki (Fine) -->
+			<VCE_Uramaki.label>uramaki (bom)</VCE_Uramaki.label>
+			<VCE_Uramaki.description>Sushi uramaki complexo montado com cuidado a partir de uma ampla seleção de ingredientes. O uramaki é uma peça cilíndrica de tamanho médio com dois ou mais recheios, e difere dos outros maki porque o arroz fica por fora e a alga nori por dentro.</VCE_Uramaki.description>
+
+		<!-- Nigiri (Fine) -->
+			<VCE_Nigiri.label>nigiri (bom)</VCE_Nigiri.label>
+			<VCE_Nigiri.description>Sushi nigiri complexo montado com cuidado a partir de uma ampla seleção de ingredientes. Nigirizushi consiste em um monte oblongo de arroz japonês que o chef pressiona entre as palmas das mãos para formar uma bola oval, e uma cobertura colocada sobre o bolinho.</VCE_Nigiri.description>
+
+		<!-- Temaki (Lavish) -->
+			<VCE_Temaki.label>temaki (luxuoso)</VCE_Temaki.label>
+			<VCE_Temaki.description>Uma obra-prima das artes culinárias, este sushi nutre o corpo, a mente e a alma. Temaki é um grande pedaço de nori em forma de cone com ingredientes pela extremidade. Um temaki típico tem cerca de 10 centímetros de comprimento e é comido com as mãos.</VCE_Temaki.description>
+
+		<!-- Futomaki (Lavish) -->
+			<VCE_Futomaki.label>futomaki (luxuoso)</VCE_Futomaki.label>
+			<VCE_Futomaki.description>Uma obra-prima das artes culinárias, este sushi nutre o corpo, a mente e a alma. Futomaki é uma grande peça cilíndrica, geralmente com nori do lado de fora. Um futomaki típico tem de cinco a seis centímetros de diâmetro e geralmente são feitos com dois, três ou mais recheios, escolhidos por seus sabores e cores complementares.</VCE_Futomaki.description>
+
+		<!-- Gunkanmaki (Gourmet) -->
+			<VCE_Gunkanmaki.label>gunkanmaki (gourmet)</VCE_Gunkanmaki.label>
+			<VCE_Gunkanmaki.description>Uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, até elaborada, de um sushi esteticamente equilibrado, embora em pequena quantidade. Gunkanmaki é um tipo especial de nigirizushi que tem uma tira de nori enrolada em seu perímetro para formar um recipiente que é preenchido com algum ingrediente macio, solto ou picado que requer o confinamento nori.</VCE_Gunkanmaki.description>
+
+		<!-- Oshizushi (Gourmet) -->
+			<VCE_Oshizushi.label>oshizushi (gourmet)</VCE_Oshizushi.label>
+			<VCE_Oshizushi.description>Uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, até elaborada, de um sushi esteticamente equilibrado, embora em pequena quantidade. Em oshizushi, uma peça em forma de bloco é formada usando um molde de madeira. O chef forra o fundo do molde com as coberturas, cobre-os com arroz japonês e, em seguida, pressiona a tampa do molde para baixo para criar um bloco retilíneo compacto. O bloco é removido do molde e então cortado em pedaços pequenos.</VCE_Oshizushi.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Component -->
             <VFE_ComponentMechanoid.label>componente mecanóide</VFE_ComponentMechanoid.label>

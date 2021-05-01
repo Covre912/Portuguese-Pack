@@ -750,9 +750,9 @@
             <VCE_CanEggs.jobString>Enlatando ovos.</VCE_CanEggs.jobString>
 
         <!-- Kibble -->
-            <VCE_ChopCondiments.label>misturar condimentos em uma ração</VCE_ChopCondiments.label>
+            <VCE_ChopCondiments.label>misturar condimentos a uma ração</VCE_ChopCondiments.label>
             <VCE_ChopCondiments.description>Misture um lote de condimentos diferentes em uma massa orgânica quase comestível que pode ser dada aos animais.</VCE_ChopCondiments.description>
-            <VCE_ChopCondiments.jobString>Misturando condimentos em uma ração.</VCE_ChopCondiments.jobString>
+            <VCE_ChopCondiments.jobString>Misturando condimentos a uma ração.</VCE_ChopCondiments.jobString>
 
         <!-- Salt -->
             <VCE_MakeSalt.label>fazer sal</VCE_MakeSalt.label>
@@ -909,6 +909,80 @@
             <VCE_HotSauce.label>fazer molho de pimenta</VCE_HotSauce.label>
             <VCE_HotSauce.description>Crie molho picante com pimentas. Embora molhos picantes particularmente fortes machuquem no início, são conhecidos por amortecer a dor e causar um suor quente logo após o consumo.</VCE_HotSauce.description>
             <VCE_HotSauce.jobString>Fazendo molho de pimenta.</VCE_HotSauce.jobString>
+
+    <!-- Vanilla Cooking Expanded - Sushi -->
+        <!-- Wasabi Paste -->
+            <VCE_WasabiPaste.label>fazer pasta de wasabi</VCE_WasabiPaste.label>
+            <VCE_WasabiPaste.description>Crie uma pasta de wasabi a partir do mesmo cru. Usado como condimento picante para sushi e outros alimentos, tem um sabor semelhante ao da mostarda picante, e não à pimenta, pois estimula mais o nariz do que a língua.</VCE_WasabiPaste.description>
+            <VCE_WasabiPaste.jobString>Fazendo pasta de wasabi.</VCE_WasabiPaste.jobString>
+
+        <!-- Deep Fried Sushi -->
+            <VCE_DeepFrySushi.label>fritar sushi x20</VCE_DeepFrySushi.label>
+            <VCE_DeepFrySushi.description>Frite sushi. A comida frita é muito saborosa, mas não é muito boa para a saúde.</VCE_DeepFrySushi.description>
+            <VCE_DeepFrySushi.jobString>Fritando sushi.</VCE_DeepFrySushi.jobString>
+        
+        <!-- Chirashizushi Bowl (Simple) -->
+            <VCE_CookChirashizushiSimple.label>fazer chirashizushi (simples)</VCE_CookChirashizushiSimple.label>
+            <VCE_CookChirashizushiSimple.description>Faça uma tigela de chirashizushi preparada rapidamente com alguns ingredientes.</VCE_CookChirashizushiSimple.description>
+            <VCE_CookChirashizushiSimple.jobString>Fazendo chirashizushi.</VCE_CookChirashizushiSimple.jobString>
+            <VCE_CookChirashizushiSimpleBulk.label>fazer chirashizushi (simples) x4</VCE_CookChirashizushiSimpleBulk.label>
+            <VCE_CookChirashizushiSimpleBulk.description>Faça tigelas de chirashizushi preparadas rapidamente com alguns ingredientes.</VCE_CookChirashizushiSimpleBulk.description>
+            <VCE_CookChirashizushiSimpleBulk.jobString>Fazendo chirashizushi.</VCE_CookChirashizushiSimpleBulk.jobString>
+
+        <!-- Norimaki (Simple) -->
+            <VCE_CookNorimakiSimple.label>fazer norimaki (simples)</VCE_CookNorimakiSimple.label>
+            <VCE_CookNorimakiSimple.description>Faça um norimaki preparado rapidamente com alguns ingredientes.</VCE_CookNorimakiSimple.description>
+            <VCE_CookNorimakiSimple.jobString>Fazendo norimaki.</VCE_CookNorimakiSimple.jobString>
+            <VCE_CookNorimakiSimpleBulk.label>fazer norimaki (simples) x4</VCE_CookNorimakiSimpleBulk.label>
+            <VCE_CookNorimakiSimpleBulk.description>Faça norimakis preparados rapidamente com alguns ingredientes.</VCE_CookNorimakiSimpleBulk.description>
+            <VCE_CookNorimakiSimpleBulk.jobString>Fazendo norimaki.</VCE_CookNorimakiSimpleBulk.jobString>
+
+        <!-- Uramaki (Fine) -->
+            <VCE_CookUramakiFine.label>fazer uramaki (bom)</VCE_CookUramakiFine.label>
+            <VCE_CookUramakiFine.description>Faça um uramaki montado com cuidado a partir de uma ampla seleção de ingredientes.</VCE_CookUramakiFine.description>
+            <VCE_CookUramakiFine.jobString>Fazendo uramaki.</VCE_CookUramakiFine.jobString>
+            <VCE_CookUramakiFineBulk.label>fazer uramaki (bom) x4</VCE_CookUramakiFineBulk.label>
+            <VCE_CookUramakiFineBulk.description>Faça uramakis montados com cuidado a partir de uma ampla seleção de ingredientes.</VCE_CookUramakiFineBulk.description>
+            <VCE_CookUramakiFineBulk.jobString>Fazendo uramaki.</VCE_CookUramakiFineBulk.jobString>
+
+        <!-- Nigiri (Fine) -->
+            <VCE_CookNigiriFine.label>fazer nigiri (bom)</VCE_CookNigiriFine.label>
+            <VCE_CookNigiriFine.description>Faça um nigiri preparado com cuidado a partir de uma ampla seleção de ingredientes.</VCE_CookNigiriFine.description>
+            <VCE_CookNigiriFine.jobString>Fazendo nigiri.</VCE_CookNigiriFine.jobString>
+            <VCE_CookNigiriFineBulk.label>fazer nigiri (bom) x4</VCE_CookNigiriFineBulk.label>
+            <VCE_CookNigiriFineBulk.description>Faça nigiris preparados com cuidado a partir de uma ampla seleção de ingredientes.</VCE_CookNigiriFineBulk.description>
+            <VCE_CookNigiriFineBulk.jobString>Fazendo nigiri.</VCE_CookNigiriFineBulk.jobString>
+
+        <!-- Temaki (Lavish) -->
+            <VCE_CookTemakiLavish.label>fazer temaki (luxuoso)</VCE_CookTemakiLavish.label>
+            <VCE_CookTemakiLavish.description>Faça uma obra-prima da arte culinária, este temaki nutre o corpo, a mente e a alma.</VCE_CookTemakiLavish.description>
+            <VCE_CookTemakiLavish.jobString>Fazendo temaki.</VCE_CookTemakiLavish.jobString>
+            <VCE_CookTemakiLavishBulk.label>fazer temaki (luxuoso) x4</VCE_CookTemakiLavishBulk.label>
+            <VCE_CookTemakiLavishBulk.description>Faça obras-primas da arte culinária, estes temakis nutrem o corpo, a mente e a alma.</VCE_CookTemakiLavishBulk.description>
+            <VCE_CookTemakiLavishBulk.jobString>Fazendo temaki.</VCE_CookTemakiLavishBulk.jobString>
+
+        <!-- Futomaki (Lavish) -->
+            <VCE_CookFutomakiLavish.label>fazer futomaki (luxuoso)</VCE_CookFutomakiLavish.label>
+            <VCE_CookFutomakiLavish.description>Faça uma obra-prima da arte culinária, este futomaki nutre o corpo, a mente e a alma.</VCE_CookFutomakiLavish.description>
+            <VCE_CookFutomakiLavish.jobString>Fazendo futomaki.</VCE_CookFutomakiLavish.jobString>
+            <VCE_CookFutomakiLavishBulk.label>fazer futomaki (luxuoso) x4</VCE_CookFutomakiLavishBulk.label>
+            <VCE_CookFutomakiLavishBulk.description>Faça obras-primas da arte culinária, estes futomakis nutrem o corpo, a mente e a alma.</VCE_CookFutomakiLavishBulk.description>
+            <VCE_CookFutomakiLavishBulk.jobString>Fazendo futomaki.</VCE_CookFutomakiLavishBulk.jobString>
+
+        <!-- Gunkanmaki (Gourmet) -->
+            <VCE_CookGunkanmakiGourmet.label>fazer gunkanmaki (gourmet)</VCE_CookGunkanmakiGourmet.label>
+            <VCE_CookGunkanmakiGourmet.description>Faça uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, até elaborada, de um gunkanmaki esteticamente equilibrado, embora em pequena quantidade.</VCE_CookGunkanmakiGourmet.description>
+            <VCE_CookGunkanmakiGourmet.jobString>Fazendo gunkanmaki.</VCE_CookGunkanmakiGourmet.jobString>
+
+        <!-- Oshizushi (Gourmet) -->
+            <VCE_CookOshizushiiGourmet.label>fazer oshizushi (gourmet)</VCE_CookOshizushiiGourmet.label>
+            <VCE_CookOshizushiiGourmet.description>Faça uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, até elaborada, de um oshizushi esteticamente equilibrado, embora em pequena quantidade.</VCE_CookOshizushiiGourmet.description>
+            <VCE_CookOshizushiiGourmet.jobString>Fazendo oshizushi.</VCE_CookOshizushiiGourmet.jobString>
+
+        <!-- Human Surimi -->
+            <VCE_MakeHumanSurimi.label>fazer surimi humano</VCE_MakeHumanSurimi.label>
+            <VCE_MakeHumanSurimi.description>Transforme a carne humana em uma pasta indistinta que imita a textura de lagosta, caranguejo ou outro marisco. O gosto é outra história...</VCE_MakeHumanSurimi.description>
+            <VCE_MakeHumanSurimi.jobString>Fazendo surimi humano.</VCE_MakeHumanSurimi.jobString>
 
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Grape Must -->

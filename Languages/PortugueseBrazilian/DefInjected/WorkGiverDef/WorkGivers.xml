@@ -105,6 +105,12 @@
             <VCE_DoBillsPrep.verb>preparar condimentos</VCE_DoBillsPrep.verb>
             <VCE_DoBillsPrep.gerund>preparando condimentos em</VCE_DoBillsPrep.gerund>
 
+    <!-- Vanilla Cooking Expanded - Sushi -->
+        <!-- Cook -->
+            <VCE_DoBillsSushi.label>cozinhar em mesa de sushi</VCE_DoBillsSushi.label>
+            <VCE_DoBillsSushi.verb>cozinhar</VCE_DoBillsSushi.verb>
+            <VCE_DoBillsSushi.gerund>cozinhando em</VCE_DoBillsSushi.gerund>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Take Wine -->
             <VFEM_TakeBeerOutOfWineBarrel.label>retirar vinho dos barris</VFEM_TakeBeerOutOfWineBarrel.label>

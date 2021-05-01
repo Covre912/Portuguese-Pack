@@ -165,6 +165,11 @@
             <VCE_CheeseMaking.label>queijaria</VCE_CheeseMaking.label>
             <VCE_CheeseMaking.description>Queijaria (ou caseicultura) é a arte de fazer queijo. A produção de queijo, como muitos outros processos de conservação de alimentos, permite que o valor nutricional e econômico do leite seja preservado na forma concentrada. A queijaria permite a produção do queijo com diversos sabores e consistências.</VCE_CheeseMaking.description>
 
+    <!-- Vanilla Cooking Expanded - Sushi -->
+        <!-- Soybean Fermentation -->
+            <VCE_SoyFermentation.label>fermentação de soja</VCE_SoyFermentation.label>
+            <VCE_SoyFermentation.description>A fermentação da soja é o processo pelo qual a mesma é submetida a uma degradação química por bactérias, leveduras ou outros microrganismos, transformando-se em novos produtos.</VCE_SoyFermentation.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Factory Basics -->
             <VFE_FactoryBasics.label>fundamentos da fábrica</VFE_FactoryBasics.label>

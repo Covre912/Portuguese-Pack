@@ -219,6 +219,15 @@
             <VCE_Wheat.label>trigo</VCE_Wheat.label>
             <VCE_Wheat.description>Uma planta de cereal âmbar que leva quase uma estação de crescimento inteira para chegar à fruição. Embora frágil e demorado, este trigo foi geneticamente modificado para se quebrar suavemente em farinha com um simples toque.</VCE_Wheat.description>
 
+    <!-- Vanilla Cooking Expanded - Sushi -->
+        <!-- Soybean Plant -->  
+            <VCE_Soybean.label>soja</VCE_Soybean.label>
+            <VCE_Soybean.description>Espécie de leguminosa amplamente cultivada por seu feijão comestível, que tem vários usos. As plantas de soja crescem muito rápido, mas são muito sensíveis à temperatura, com ótimas condições de crescimento em temperaturas médias de 20 a 30°C. Temperaturas fora dessa faixa atrapalham o crescimento significativamente.</VCE_Soybean.description>
+
+        <!-- Wasabi -->
+            <VCE_Wasabi.label>wasabi</VCE_Wasabi.label>
+            <VCE_Wasabi.description>Uma planta da família do rábano. Uma pasta feita de rizomas moídos é usada como condimento picante para sushi e outros alimentos. Tem um sabor semelhante ao da mostarda picante, e não à pimenta, pois estimula mais o nariz do que a língua. O wasabi é amplamente considerada uma das plantas mais difíceis de cultivar, pois precisa de um ambiente temperado e extremamente úmido. Receberá uma penalidade de crescimento se menos de 20 ladrilhos de água forem encontrados em um raio de 6 ladrilhos.</VCE_Wasabi.description>
+
     <!-- Vanilla Events Expanded -->
         <!-- Bluebell -->
             <VEE_Plant_Bluebell.label>campânula azul</VEE_Plant_Bluebell.label>

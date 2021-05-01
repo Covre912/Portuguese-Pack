@@ -2479,7 +2479,7 @@
             <VCE_UncookedSoupLavish_InsertSoup>inserir sopa luxuosa</VCE_UncookedSoupLavish_InsertSoup>
             <VCE_UncookedSoupGourmet_InsertSoup>inserir sopa gourmet</VCE_UncookedSoupGourmet_InsertSoup>
             <VCE_SelectSoup>Selecione um tipo de sopa para cozinhar</VCE_SelectSoup>
-            <VCE_StartInsertion>Traga Sopa</VCE_StartInsertion>
+            <VCE_StartInsertion>Trazer Sopa</VCE_StartInsertion>
             <VCE_StartInsertionDesc>Traga uma sopa para a panela elétrica para começar a cozinhar</VCE_StartInsertionDesc>
             <VCE_RemoveSoup>Remover Sopa</VCE_RemoveSoup>
             <VCE_RemoveSoupDesc>Retire a sopa da panela. Isso só pode ser feito antes de você começar a cozinhá-la.</VCE_RemoveSoupDesc>
@@ -2520,6 +2520,16 @@
             <VCE_CheesePressFilled>Prensa de queijo preenchida de {0}</VCE_CheesePressFilled>
             <VCE_CheesePressWorking>Prensa de queijo funcionando:</VCE_CheesePressWorking>
             <VCE_ResourcePercentage> (preenchida com {0} de {1})</VCE_ResourcePercentage>
+
+    <!-- Vanilla Cooking Expanded - Sushi -->
+        <!-- IP -->
+            <VCE_InsertSoybeansDesc>Fermaentando item</VCE_InsertSoybeansDesc>
+            <VCE_StartSoybeanInsertion>Trazer soja</VCE_StartSoybeanInsertion>
+            <VCE_StartSoybeanInsertionDesc>Traga a soja para o fermentador para iniciar o processo de fermentação</VCE_StartSoybeanInsertionDesc>
+            <VCE_CancelBringingSoybeans>Cancelar trazendo soja</VCE_CancelBringingSoybeans>
+            <VCE_CancelBringingSoybeansDesc>Cancele o transporte da soja para o fermentador.</VCE_CancelBringingSoybeansDesc>
+            <VCE_RemoveSoySauce>Remover molho de soja ({0})</VCE_RemoveSoySauce>
+            <VCE_RemoveSoySauceDesc>Remova o molho de soja do fermentador. O molho estará pronto com o nível de qualidade atual ({0})</VCE_RemoveSoySauceDesc>
         
     <!-- Vanilla Events Expanded -->
         <!-- Animal Transport Pod Crash -->
@@ -2740,12 +2750,12 @@
             <IP_CantFindThing>Nenhum item desse tipo ({0}) encontrado neste mapa</IP_CantFindThing>
 
         <!-- Bring -->
-            <IP_BringIngredients>Traga Ingredientes</IP_BringIngredients>
-            <IP_BringIngredientsDesc>Traga os Ingredientes para iniciar o processo</IP_BringIngredientsDesc>
+            <IP_BringIngredients>Trazer Ingredientes</IP_BringIngredients>
+            <IP_BringIngredientsDesc>Traga os ingredientes para iniciar o processo</IP_BringIngredientsDesc>
 
         <!-- Cancel -->
-            <IP_CancelIngredients>Cancelar trazendo Ingredientes</IP_CancelIngredients>
-            <IP_CancelIngredientsDesc>Cancele trazer ingrediente para este processador</IP_CancelIngredientsDesc>
+            <IP_CancelIngredients>Cancelar trazendo ingredientes</IP_CancelIngredients>
+            <IP_CancelIngredientsDesc>Cancele o transporte de ingredientes para este processador</IP_CancelIngredientsDesc>
 
         <!-- No Ingredient Found -->
             <IP_NoIngredientFound>Nenhum ingrediente encontrado no mapa</IP_NoIngredientFound>
