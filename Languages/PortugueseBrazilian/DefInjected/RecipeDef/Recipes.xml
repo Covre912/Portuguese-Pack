@@ -910,6 +910,22 @@
             <VCE_HotSauce.description>Crie molho picante com pimentas. Embora molhos picantes particularmente fortes machuquem no início, são conhecidos por amortecer a dor e causar um suor quente logo após o consumo.</VCE_HotSauce.description>
             <VCE_HotSauce.jobString>Fazendo molho de pimenta.</VCE_HotSauce.jobString>
 
+    <!-- Vanilla Cooking Expanded - Stews -->
+        <!-- Simple Stew -->
+            <VCE_CookStewSimple.label>preparar ensopado simples</VCE_CookStewSimple.label>
+            <VCE_CookStewSimple.description>Prepare um ensopado simples feito rapidamente com alguns ingredientes.</VCE_CookStewSimple.description>
+            <VCE_CookStewSimple.jobString>Preparando ensopado simples.</VCE_CookStewSimple.jobString>
+
+        <!-- Fine Stew -->
+            <VCE_CookStewFine.label>preparar ensopado bom</VCE_CookStewFine.label>
+            <VCE_CookStewFine.description>Prepare um ensopado bom, montado com cuidado com uma ampla seleção de ingredientes.</VCE_CookStewFine.description>
+            <VCE_CookStewFine.jobString>Preparando ensopado bom.</VCE_CookStewFine.jobString>
+
+        <!-- Lavish Stew -->
+            <VCE_CookStewLavish.label>preparar ensopado luxuoso</VCE_CookStewLavish.label>
+            <VCE_CookStewLavish.description>Prepare um ensopado luxuoso. Uma obra-prima das artes culinárias, esteensopado nutre o corpo, a mente e a alma.</VCE_CookStewLavish.description>
+            <VCE_CookStewLavish.jobString>Preparando ensopado luxuoso.</VCE_CookStewLavish.jobString>
+
     <!-- Vanilla Cooking Expanded - Sushi -->
         <!-- Wasabi Paste -->
             <VCE_WasabiPaste.label>fazer pasta de wasabi</VCE_WasabiPaste.label>

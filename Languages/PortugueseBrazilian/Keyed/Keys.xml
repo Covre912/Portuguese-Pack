@@ -2479,9 +2479,9 @@
             <VCE_UncookedSoupLavish_InsertSoup>inserir sopa luxuosa</VCE_UncookedSoupLavish_InsertSoup>
             <VCE_UncookedSoupGourmet_InsertSoup>inserir sopa gourmet</VCE_UncookedSoupGourmet_InsertSoup>
             <VCE_SelectSoup>Selecione um tipo de sopa para cozinhar</VCE_SelectSoup>
-            <VCE_StartInsertion>Trazer Sopa</VCE_StartInsertion>
-            <VCE_StartInsertionDesc>Traga uma sopa para a panela elétrica para começar a cozinhar</VCE_StartInsertionDesc>
-            <VCE_RemoveSoup>Remover Sopa</VCE_RemoveSoup>
+            <VCE_StartInsertion>Trazer sopa</VCE_StartInsertion>
+            <VCE_StartInsertionDesc>Traga uma sopa para a panela elétrica para começar a cozinhar.</VCE_StartInsertionDesc>
+            <VCE_RemoveSoup>Remover sopa</VCE_RemoveSoup>
             <VCE_RemoveSoupDesc>Retire a sopa da panela. Isso só pode ser feito antes de você começar a cozinhá-la.</VCE_RemoveSoupDesc>
             <VCE_CancelBringingSoup>Cancelar trazendo sopa</VCE_CancelBringingSoup>
             <VCE_CancelBringingSoupDesc>Cancele a colocação de sopa na panela elétrica.</VCE_CancelBringingSoupDesc>
@@ -2520,6 +2520,19 @@
             <VCE_CheesePressFilled>Prensa de queijo preenchida de {0}</VCE_CheesePressFilled>
             <VCE_CheesePressWorking>Prensa de queijo funcionando:</VCE_CheesePressWorking>
             <VCE_ResourcePercentage> (preenchida com {0} de {1})</VCE_ResourcePercentage>
+
+    <!-- Vanilla Cooking Expanded - Stews -->
+        <!-- Stew Pot -->
+            <VCE_InsertStewDesc>Ensopado para Cozinhar</VCE_InsertStewDesc>
+            <VCE_StartStewInsertion>Trazer ensopado</VCE_StartStewInsertion>
+            <VCE_StartStewInsertionDesc>Traga um ensopado para a panela a lenha para começar a cozinhar.</VCE_StartStewInsertionDesc>
+            <VCE_CancelBringingStew>Cancelar trazendo ensopado</VCE_CancelBringingStew>
+            <VCE_CancelBringingStewDesc>Cancele o transporte do ensopado para a panela.</VCE_CancelBringingStewDesc>
+            <VCE_StewFailurePower>O ensopado estragou devido à falta de combustível na panela</VCE_StewFailurePower>
+            <VCE_StewFailurePowerWarning>O ensopado está estragando rapidamente devido à falta de combustível na panela</VCE_StewFailurePowerWarning>
+            <VCE_FinishedSimpleStew>Um ensopado simples está pronto e esperando para ser retirado</VCE_FinishedSimpleStew>
+            <VCE_FinishedFineStew>Um ensopado bom está pronto e esperando para ser retirado</VCE_FinishedFineStew>
+            <VCE_FinishedLavishStew>Um ensopado luxuoso está pronto e esperando para ser retirado</VCE_FinishedLavishStew>
 
     <!-- Vanilla Cooking Expanded - Sushi -->
         <!-- IP -->

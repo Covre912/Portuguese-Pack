@@ -1005,6 +1005,31 @@
 			<VCE_HotSauce.label>molho de pimenta</VCE_HotSauce.label>
 			<VCE_HotSauce.description>Um molho picante potente feito de pimenta e outras especiarias. Embora molhos picantes particularmente fortes machuquem no início, são conhecidos por amortecer a dor e causar um suor quente logo após o consumo.</VCE_HotSauce.description>
 
+	<!-- Vanilla Cooking Expanded - Stews -->
+		<!-- Uncooked Simple Stew -->
+			<VCE_UncookedStewSimple.label>ensopado simples cru</VCE_UncookedStewSimple.label>
+			<VCE_UncookedStewSimple.description>Um ensopado simples cru. Precisa ser cozido em uma panela a lenha para ser comestível.</VCE_UncookedStewSimple.description>
+
+		<!-- Simple Stew -->
+			<VCE_CookedStewSimple.label>ensopado simples</VCE_CookedStewSimple.label>
+			<VCE_CookedStewSimple.description>Um ensopado simples cozido lentamente com alguns ingredientes.</VCE_CookedStewSimple.description>
+
+		<!-- Uncooked Fine Stew -->
+			<VCE_UncookedStewFine.label>ensopado bom cru</VCE_UncookedStewFine.label>
+			<VCE_UncookedStewFine.description>Um ensopado bom cru. Precisa ser cozido em uma panela a lenha para ser comestível.</VCE_UncookedStewFine.description>
+
+		<!-- Fine Stew -->	
+			<VCE_CookedStewFine.label>ensopado bom</VCE_CookedStewFine.label>
+			<VCE_CookedStewFine.description>Um ensopado complexo montado com cuidado a partir de uma ampla seleção de ingredientes.</VCE_CookedStewFine.description>
+
+		<!-- Uncooked Lavish Stew -->	
+			<VCE_UncookedStewLavish.label>ensopado luxuoso cru</VCE_UncookedStewLavish.label>
+			<VCE_UncookedStewLavish.description>Um ensopado luxuoso cru. Precisa ser cozido em uma panela a lenha para ser comestível.</VCE_UncookedStewLavish.description>
+
+		<!-- Lavish Stew -->
+			<VCE_CookedStewLavish.label>ensopado luxuoso</VCE_CookedStewLavish.label>
+			<VCE_CookedStewLavish.description>Uma obra-prima das artes culinárias, este ensopado nutre o corpo, a mente e a alma.</VCE_CookedStewLavish.description>
+
 	<!-- Vanilla Cooking Expanded - Sushi -->
 		<!-- Soy Sauce -->
 			<VCE_SoySauce.label>molho shoyu</VCE_SoySauce.label>

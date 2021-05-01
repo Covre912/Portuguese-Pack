@@ -309,6 +309,11 @@
             <VCE_CheesePress.label>prensa de queijo</VCE_CheesePress.label>
             <VCE_CheesePress.description>Uma prensa de queijo é um dispositivo para prensar o soro da coalhada. A prensagem influencia a dureza e a textura do queijo e também determina a forma do bloco ou da roda do queijo. Esta prensa também funciona como câmara de maturação, por isso, quanto mais tempo o queijo ficar a maturar, melhor será a sua qualidade.</VCE_CheesePress.description>
 
+    <!-- Vanilla Cooking Expanded - Stews -->
+        <!-- Stew Pot -->
+            <VCE_StewPot.label>panela a lenha</VCE_StewPot.label>
+            <VCE_StewPot.description>Um fogão a lenha com uma parte superior perfeitamente recortada para uma panela grande. Os ensopados são mais fáceis e rápidos de cozinhar do que as sopas convencionais. Além disso, costumam se fundir em um sabor único, perfeitos para carne humana ou de insetos.\n\nEsta mobília emite uma quantidade significativa de calor.</VCE_StewPot.description>
+
     <!-- Vanilla Cooking Expanded - Sushi -->
         <!-- Sushi Prep Table -->
             <VCE_SushiPrepTable.label>mesa de prep. de sushi</VCE_SushiPrepTable.label>

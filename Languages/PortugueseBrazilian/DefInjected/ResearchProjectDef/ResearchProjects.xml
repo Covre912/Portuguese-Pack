@@ -146,7 +146,7 @@
             <VCE_CondimentsResearch.description>Um condimento é um tempero, molho ou preparação que é adicionado à comida, após ou durante o cozimento, para conferir um sabor específico, para realçar o sabor ou para complementar o prato.</VCE_CondimentsResearch.description>
 
         <!-- Soup Cooking -->
-            <VCE_SoupCooking.label>sopas</VCE_SoupCooking.label>
+            <VCE_SoupCooking.label>cozimento de sopas</VCE_SoupCooking.label>
             <VCE_SoupCooking.description>A sopa é um alimento basicamente líquido, geralmente servido quente, feito pela combinação de ingredientes de carne ou vegetais com caldo ou água. As sopas são caracterizadas adicionalmente por ferver ingredientes sólidos em líquidos em uma panela até que os sabores sejam extraídos.</VCE_SoupCooking.description>
 
         <!-- Grilling -->
@@ -165,11 +165,15 @@
             <VCE_CheeseMaking.label>queijaria</VCE_CheeseMaking.label>
             <VCE_CheeseMaking.description>Queijaria (ou caseicultura) é a arte de fazer queijo. A produção de queijo, como muitos outros processos de conservação de alimentos, permite que o valor nutricional e econômico do leite seja preservado na forma concentrada. A queijaria permite a produção do queijo com diversos sabores e consistências.</VCE_CheeseMaking.description>
 
+    <!-- Vanilla Cooking Expanded - Stews -->
+        <!-- Stew Cooking -->
+            <VCE_StewCooking.label>cozimento de ensopados</VCE_StewCooking.label>
+            <VCE_StewCooking.description>O ensopado é uma forma de refeição muito nutritiva.</VCE_StewCooking.description>
+
     <!-- Vanilla Cooking Expanded - Sushi -->
         <!-- Soybean Fermentation -->
             <VCE_SoyFermentation.label>fermentação de soja</VCE_SoyFermentation.label>
             <VCE_SoyFermentation.description>A fermentação da soja é o processo pelo qual a mesma é submetida a uma degradação química por bactérias, leveduras ou outros microrganismos, transformando-se em novos produtos.</VCE_SoyFermentation.description>
-
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Factory Basics -->
             <VFE_FactoryBasics.label>fundamentos da fábrica</VFE_FactoryBasics.label>
