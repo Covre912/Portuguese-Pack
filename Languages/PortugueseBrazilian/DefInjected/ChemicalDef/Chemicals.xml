@@ -4,5 +4,8 @@
     <!-- Psychology (unofficial 1.1/1.2) -->
         <Methadone.label>metadona</Methadone.label>
 
+    <!-- Vanilla Brewing Expanded -->
+        <VBE_Caffeine.label>cafeína</VBE_Caffeine.label>
+        <VBE_Tobacco.label>tabaco</VBE_Tobacco.label>
 
 </LanguageData>

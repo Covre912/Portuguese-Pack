@@ -1320,7 +1320,7 @@
             <OgreStack.SectionHeader.SingleThingDefTargeting><![CDATA[<color=#ffa500ff>(Avançado)</color> Segmentação de Item Individual]]></OgreStack.SectionHeader.SingleThingDefTargeting>
             <OgreStack.Settings.DefName>defName</OgreStack.Settings.DefName>
             <OgreStack.Settings.StackLimit>stackLimit</OgreStack.Settings.StackLimit>
-            <OgreStack.Settings.SingleThingDefTargeting.Desc><![CDATA[Esta seção é apenas para pessoas que se sentem confortáveis ​​com a edição de um arquivo XML e que desejam definir stackLimits de <color=#ffa500ff>ThingDef Individuais</color> que substituem os limites de pilha gerais configurados acima. O arquivo Overrides.xml está localizado aqui: <color=#ffa500ff><size=13>{0}</size></color>]]></OgreStack.Settings.SingleThingDefTargeting.Desc>
+            <OgreStack.Settings.SingleThingDefTargeting.Desc><![CDATA[Esta seção é apenas para pessoas que se sentem confortáveis ​​com a edição de um arquivo XML e que desejam definir stackLimits de <color=#ffa500ff>ThingDef Individuais</color> que substituem os limites de pilha gerais configurados acima.]]></OgreStack.Settings.SingleThingDefTargeting.Desc>
 
         <!-- Debug -->
             <OgreStack.SectionHeader.Debug>Depuração</OgreStack.SectionHeader.Debug>
@@ -2551,6 +2551,63 @@
             <VBE.LocationsOpened>Novo local encontrado</VBE.LocationsOpened>
             <VBE.LocationsOpenedDesc>Ler o mapa desbloqueou um novo local.</VBE.LocationsOpenedDesc>
 
+    <!-- Vanilla Brewing Expanded -->
+        <!-- Soda -->
+            <VBE_InsertSyrupDesc>Xarope para Inserir</VBE_InsertSyrupDesc>
+            <VBE_StartInsertion>Trazer xarope</VBE_StartInsertion>
+            <VBE_StartInsertionDesc>Traga xarope para a fonte de refrigerante para começar a fermentar.</VBE_StartInsertionDesc>
+            <VBE_CancelBringingSyrup>Cancelar traz de xarope</VBE_CancelBringingSyrup>
+            <VBE_CancelBringingSyrupDesc>Cancele o transporte de xarope para a fonte de refrigerante.</VBE_CancelBringingSyrupDesc>
+            <VBE_SyrupFailurePower>O refrigerante estragou devido a uma falha de energia na fonte</VBE_SyrupFailurePower>
+
+        <!-- Ambrandy -->
+            <VBE_InsertAmbMustDesc>Mosto para Inserir</VBE_InsertAmbMustDesc>
+            <VBE_StartInsertionAmbMust>Trazer mosto</VBE_StartInsertionAmbMust>
+            <VBE_StartInsertionAmbMustDesc>Traga mosto de ambrandia para a destilaria para começar a fermentar.</VBE_StartInsertionAmbMustDesc>
+            <VBE_CancelBringingAmbMust>Cancelar traz de mosto</VBE_CancelBringingAmbMust>
+            <VBE_CancelBringingAmbMustDesc>Cancele o transporte de mosto de ambrandia para a destilaria.</VBE_CancelBringingAmbMustDesc>
+            <VBE_AmbrandyFailurePower>A ambrandia estragou devido a uma falha de energia na destilaria</VBE_AmbrandyFailurePower>
+            <VBE_RemoveAmbrandy>Remover ambrandia ({0})</VBE_RemoveAmbrandy>
+            <VBE_RemoveAmbrandyDesc>Retire a ambrandia da destilaria. A ambrandia será adquirida no nível de qualidade atual ({0})</VBE_RemoveAmbrandyDesc>
+            <VBE_MushRipening>Polpa amadurecendo</VBE_MushRipening>
+            <VBE_MushCurrentlyFrozen>Esta polpa está congelada e não vai se transformar em mosto de ambrandia</VBE_MushCurrentlyFrozen>
+            <VBE_MushCurrentlyRefrigerated>Esta polpa está refrigerada e não vai se transformar em ambrandia tão rápido quanto poderia (amadurece em {0})</VBE_MushCurrentlyRefrigerated>
+            <VBE_MushDryingCorrectly>Esta polpa está se transformando em ambrandia corretamente (amadurece em {0})</VBE_MushDryingCorrectly>
+
+        <!-- Whiskey -->
+            <VBE_InsertMustOrWhiskeyDesc>Mistura ou Uísque para Inserir</VBE_InsertMustOrWhiskeyDesc>
+            <VBE_StartInsertionMustOrWhiskey>Trazer mistura ou uísque</VBE_StartInsertionMustOrWhiskey>
+            <VBE_StartInsertionMustOrWhiskeyDesc>Traga mistura de uísque para o barril para começar a fermentar ou traga uísque para começar o processo de envelhecimento.</VBE_StartInsertionMustOrWhiskeyDesc>
+            <VBE_CancelBringingMustOrWhiskey>Cancelar traz de mistura ou uísque</VBE_CancelBringingMustOrWhiskey>
+            <VBE_CancelBringingAmbMustDesc>Cancele o transporte de mistura ou uísque para o barril.</VBE_CancelBringingAmbMustDesc>
+
+        <!-- Tequila -->
+            <VBE_InsertTequilaMustDesc>Mosto para Inserir</VBE_InsertTequilaMustDesc>
+            <VBE_StartInsertionTequilaMust>Trazer mosto</VBE_StartInsertionTequilaMust>
+            <VBE_StartInsertionTequilaMustDesc>Traga mosto de tequila para o barril para começar a fermentar.</VBE_StartInsertionTequilaMustDesc>
+            <VBE_CancelBringingTequilaMust>Cancelar traz de mosto</VBE_CancelBringingTequilaMust>
+            <VBE_CancelBringingTequilaMustDesc>Cancele o transporte de mosto de tequila para a destilaria.</VBE_CancelBringingTequilaMustDesc>
+
+        <!-- Vodka -->
+            <VBE_InsertVodkaMustDesc>Misutra para Inserir</VBE_InsertVodkaMustDesc>
+            <VBE_StartInsertionVodkaMust>Trazer mistura</VBE_StartInsertionVodkaMust>
+            <VBE_StartInsertionVodkaMustDesc>Traga mistura de vodca para o barril para começar a fermentar.</VBE_StartInsertionVodkaMustDesc>
+            <VBE_CancelBringingVodkaMust>Cancelar traz de mistura</VBE_CancelBringingVodkaMust>
+            <VBE_CancelBringingVodkaMustDesc>Cancele o transporte de mistura de vodca para o barril.</VBE_CancelBringingVodkaMustDesc>
+
+        <!-- Gin -->
+            <VBE_InsertGinMushDesc>Polpa para Inserir</VBE_InsertGinMushDesc>
+            <VBE_StartInsertionGinMush>Trazer polpa</VBE_StartInsertionGinMush>
+            <VBE_StartInsertionGinMushDesc>Traga mistura de gim para a destilaria para começar a fermentar.</VBE_StartInsertionGinMushDesc>
+            <VBE_CancelBringingGinMush>Cancelar traz de polpa</VBE_CancelBringingGinMush>
+            <VBE_CancelBringingGinMushDesc>Cancele o transporte de polpa de gim para a destilaria.</VBE_CancelBringingGinMushDesc>
+
+        <!-- Cider -->
+            <VBE_CiderMaturing>Sidra amadurecendo</VBE_CiderMaturing>
+            <VBE_CiderCurrentlyFrozen>Esta sidra não fermentada está congelada e não amadurecerá</VBE_CiderCurrentlyFrozen>
+            <VBE_CiderCurrentlyRefrigerated>Esta sidra não fermentada está refrigerada e não amadurecerá tão rápido quanto poderia (amadurece em {0})</VBE_CiderCurrentlyRefrigerated>
+            <VBE_CiderMaturingCorrectly>Esta sidra não fermentada está amadurecendo corretamente (amadurece em {0})</VBE_CiderMaturingCorrectly>
+
     <!-- Vanilla Cooking Expanded -->
         <!-- Soup -->
             <VCE_InsertSoup>inserir sopa</VCE_InsertSoup>
@@ -2569,7 +2626,7 @@
             <VCE_StartInsertionDesc>Traga uma sopa para a panela elétrica para começar a cozinhar.</VCE_StartInsertionDesc>
             <VCE_RemoveSoup>Remover sopa</VCE_RemoveSoup>
             <VCE_RemoveSoupDesc>Retire a sopa da panela. Isso só pode ser feito antes de você começar a cozinhá-la.</VCE_RemoveSoupDesc>
-            <VCE_CancelBringingSoup>Cancelar trazendo sopa</VCE_CancelBringingSoup>
+            <VCE_CancelBringingSoup>Cancelar traz de sopa</VCE_CancelBringingSoup>
             <VCE_CancelBringingSoupDesc>Cancele a colocação de sopa na panela elétrica.</VCE_CancelBringingSoupDesc>
             <VCE_WaitTillJobsEnd>Espere até que a sopa seja levada para a panela elétrica ou cancele o trabalho.</VCE_WaitTillJobsEnd>
             <VCE_NotPowered>A panela elétrica não está conectada à energia</VCE_NotPowered>
@@ -2591,7 +2648,7 @@
             <VCE_StartInsertionMilkDesc>Leve o leite para a prensa de queijo para começar a prensar</VCE_StartInsertionMilkDesc>
             <VCE_RemoveMilk>Remover Leite</VCE_RemoveMilk>
             <VCE_RemoveMilkDesc>Retire o leite da prensa. Isso só pode ser feito antes de você começar a pressioná-lo.</VCE_RemoveMilkDesc>
-            <VCE_CancelBringingMilk>Cancelar trazendo leite</VCE_CancelBringingMilk>
+            <VCE_CancelBringingMilk>Cancelar traz de leite</VCE_CancelBringingMilk>
             <VCE_CancelBringingMilkDesc>Cancele o transporte do leite para a prensa de queijo</VCE_CancelBringingMilkDesc>
             <VCE_WaitTillJobsEndMilk>Espere até que o leite seja levado para a prensa de queijo ou cancele o trabalho.</VCE_WaitTillJobsEndMilk>
             <VCE_EngageMilk>Pressionar</VCE_EngageMilk>
@@ -2612,7 +2669,7 @@
             <VCE_InsertStewDesc>Ensopado para Cozinhar</VCE_InsertStewDesc>
             <VCE_StartStewInsertion>Trazer ensopado</VCE_StartStewInsertion>
             <VCE_StartStewInsertionDesc>Traga um ensopado para a panela a lenha para começar a cozinhar.</VCE_StartStewInsertionDesc>
-            <VCE_CancelBringingStew>Cancelar trazendo ensopado</VCE_CancelBringingStew>
+            <VCE_CancelBringingStew>Cancelar traz de ensopado</VCE_CancelBringingStew>
             <VCE_CancelBringingStewDesc>Cancele o transporte do ensopado para a panela.</VCE_CancelBringingStewDesc>
             <VCE_StewFailurePower>O ensopado estragou devido à falta de combustível na panela</VCE_StewFailurePower>
             <VCE_StewFailurePowerWarning>O ensopado está estragando rapidamente devido à falta de combustível na panela</VCE_StewFailurePowerWarning>
@@ -2625,7 +2682,7 @@
             <VCE_InsertSoybeansDesc>Fermaentando item</VCE_InsertSoybeansDesc>
             <VCE_StartSoybeanInsertion>Trazer soja</VCE_StartSoybeanInsertion>
             <VCE_StartSoybeanInsertionDesc>Traga a soja para o fermentador para iniciar o processo de fermentação</VCE_StartSoybeanInsertionDesc>
-            <VCE_CancelBringingSoybeans>Cancelar trazendo soja</VCE_CancelBringingSoybeans>
+            <VCE_CancelBringingSoybeans>Cancelar traz de soja</VCE_CancelBringingSoybeans>
             <VCE_CancelBringingSoybeansDesc>Cancele o transporte da soja para o fermentador.</VCE_CancelBringingSoybeansDesc>
             <VCE_RemoveSoySauce>Remover molho de soja ({0})</VCE_RemoveSoySauce>
             <VCE_RemoveSoySauceDesc>Remova o molho de soja do fermentador. O molho estará pronto com o nível de qualidade atual ({0})</VCE_RemoveSoySauceDesc>
@@ -2853,7 +2910,7 @@
             <IP_BringIngredientsDesc>Traga os ingredientes para iniciar o processo</IP_BringIngredientsDesc>
 
         <!-- Cancel -->
-            <IP_CancelIngredients>Cancelar trazendo ingredientes</IP_CancelIngredients>
+            <IP_CancelIngredients>Cancelar traz de ingredientes</IP_CancelIngredients>
             <IP_CancelIngredientsDesc>Cancele o transporte de ingredientes para este processador</IP_CancelIngredientsDesc>
 
         <!-- No Ingredient Found -->

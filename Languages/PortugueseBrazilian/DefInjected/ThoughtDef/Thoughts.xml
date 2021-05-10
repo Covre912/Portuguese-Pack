@@ -523,7 +523,7 @@
         <!-- Library Room -->
             <VBE_JoyActivityInImpressiveLibraryRoom.stages.3.label>livraria decente</VBE_JoyActivityInImpressiveLibraryRoom.stages.3.label>
             <VBE_JoyActivityInImpressiveLibraryRoom.stages.3.description>Eu me diverti em uma livraria decente.</VBE_JoyActivityInImpressiveLibraryRoom.stages.3.description>
-            <VBE_JoyActivityInImpressiveLibraryRoom.stages.4.label>livraria ligeiramente impressionando</VBE_JoyActivityInImpressiveLibraryRoom.stages.4.label>
+            <VBE_JoyActivityInImpressiveLibraryRoom.stages.4.label>livraria ligeiramente impressionante</VBE_JoyActivityInImpressiveLibraryRoom.stages.4.label>
             <VBE_JoyActivityInImpressiveLibraryRoom.stages.4.description>Eu me diverti em uma boa livraria.</VBE_JoyActivityInImpressiveLibraryRoom.stages.4.description>
             <VBE_JoyActivityInImpressiveLibraryRoom.stages.5.label>livraria um pouco impressionante</VBE_JoyActivityInImpressiveLibraryRoom.stages.5.label>
             <VBE_JoyActivityInImpressiveLibraryRoom.stages.5.description>Eu me diverti muito em uma livraria impressionante.</VBE_JoyActivityInImpressiveLibraryRoom.stages.5.description>
@@ -536,6 +536,79 @@
             <VBE_JoyActivityInImpressiveLibraryRoom.stages.9.label>livraria maravilhosamente impressionante</VBE_JoyActivityInImpressiveLibraryRoom.stages.9.label>
             <VBE_JoyActivityInImpressiveLibraryRoom.stages.9.description>Eu me diverti muito em uma livraria maravilhosa. Eu poderia ficar lá para sempre.</VBE_JoyActivityInImpressiveLibraryRoom.stages.9.description>
 
+    <!-- Vanilla Brewing Expanded -->
+        <!-- Coffee -->
+            <VBE_HotCoffeeHigh.stages.0.label>despertar cafeinado</VBE_HotCoffeeHigh.stages.0.label>
+            <VBE_HotCoffeeHigh.stages.0.description>Aquele café atingiu o ponto, agora vamos trabalhar um pouco.</VBE_HotCoffeeHigh.stages.0.description>
+
+        <!-- Iced Coffee -->
+            <VBE_IcedCoffeeHigh.stages.0.label>despertar crio-cafeinado</VBE_IcedCoffeeHigh.stages.0.label>
+            <VBE_IcedCoffeeHigh.stages.0.description>Nada melhor do que café gelado para refrescar-se.</VBE_IcedCoffeeHigh.stages.0.description>
+
+        <!-- Caffeine Addiction -->
+            <VBE_CaffeineWithdrawal.stages.1.label>abstinência cafeínica</VBE_CaffeineWithdrawal.stages.1.label>
+            <VBE_CaffeineWithdrawal.stages.1.description>Deus, estou cansado. Tudo é tão irritante, minhas mãos estão tremendo e minha cabeça está latejando.</VBE_CaffeineWithdrawal.stages.1.description>
+
+        <!-- Energy Drink -->
+            <VBE_EnergyDrinkHigh.stages.0.label>frenético</VBE_EnergyDrinkHigh.stages.0.label>
+            <VBE_EnergyDrinkHigh.stages.0.description>Ufa, aquele energético me fez ricochetear nas paredes!</VBE_EnergyDrinkHigh.stages.0.description>
+
+        <!-- Cigarettes -->
+            <VBE_TobaccoHigh.stages.0.label>suave</VBE_TobaccoHigh.stages.0.label>
+            <VBE_TobaccoHigh.stages.0.description>Esse cigarro era exatamente o que eu precisava, um sabor tão suave.</VBE_TobaccoHigh.stages.0.description>
+
+        <!-- Cigars -->
+            <VBE_DeluxeTobaccoHigh.stages.0.label>bufando no luxo</VBE_DeluxeTobaccoHigh.stages.0.label>
+            <VBE_DeluxeTobaccoHigh.stages.0.description>Um charuto me faz sentir como se tivesse ganhado na vida.</VBE_DeluxeTobaccoHigh.stages.0.description>
+
+        <!-- Tobacco Addiction -->
+            <VBE_TobaccoWithdrawal.stages.1.label>abstinência tabaca</VBE_TobaccoWithdrawal.stages.1.label>
+            <VBE_TobaccoWithdrawal.stages.1.description>Eu realmente gostaria de fumar. Eu mataria alguém por um cigarro.</VBE_TobaccoWithdrawal.stages.1.description>
+
+        <!-- Soda -->
+            <VBE_DrankSoda.stages.0.label>açucarado</VBE_DrankSoda.stages.0.label>
+            <VBE_DrankSoda.stages.0.description>Bebi um refrigerante doce e gasoso, um luxo pequeno, mas bem-vindo.</VBE_DrankSoda.stages.0.description>
+
+        <!-- Tea -->
+            <VBE_DrankTea.stages.0.label>tasse de thé</VBE_DrankTea.stages.0.label>
+            <VBE_DrankTea.stages.0.description>Uma xícara de chá deliciosamente simples realmente ilumina o dia.</VBE_DrankTea.stages.0.description>
+
+        <!-- Cocktail -->
+            <VBE_TequilaAsIngredient.stages.0.label>bebeu coquetel com tequila</VBE_TequilaAsIngredient.stages.0.label>
+            <VBE_TequilaAsIngredient.stages.0.description>Delicioso.</VBE_TequilaAsIngredient.stages.0.description>
+            <VBE_WhiskeyAsIngredient.stages.0.label>bebeu coquetel com uísque</VBE_WhiskeyAsIngredient.stages.0.label>
+            <VBE_WhiskeyAsIngredient.stages.0.description>Delicioso.</VBE_WhiskeyAsIngredient.stages.0.description>
+            <VBE_VodkaAsIngredient.stages.0.label>bebeu coquetel com vodca</VBE_VodkaAsIngredient.stages.0.label>
+            <VBE_VodkaAsIngredient.stages.0.description>Delicioso.</VBE_VodkaAsIngredient.stages.0.description>
+            <VBE_GinAsIngredient.stages.0.label>bebeu coquetel com gim</VBE_GinAsIngredient.stages.0.label>
+            <VBE_GinAsIngredient.stages.0.description>Delicioso.</VBE_GinAsIngredient.stages.0.description>
+            <VBE_AmbrandyAsIngredient.stages.0.label>bebeu coquetel com ambrandia</VBE_AmbrandyAsIngredient.stages.0.label>
+            <VBE_AmbrandyAsIngredient.stages.0.description>Delicioso.</VBE_AmbrandyAsIngredient.stages.0.description>
+            <VBE_RBMeadAsIngredient.stages.0.label>bebeu coquetel com hidromel</VBE_RBMeadAsIngredient.stages.0.label>
+            <VBE_RBMeadAsIngredient.stages.0.description>Delicioso.</VBE_RBMeadAsIngredient.stages.0.description>
+            <VBE_WineAsIngredient.stages.0.label>bebeu coquetel com vinho</VBE_WineAsIngredient.stages.0.label>
+            <VBE_WineAsIngredient.stages.0.description>Delicioso.</VBE_WineAsIngredient.stages.0.description>
+            <VBE_ChemshineAsIngredient.stages.0.label>bebeu coquetel com jägermeister</VBE_ChemshineAsIngredient.stages.0.label>
+            <VBE_ChemshineAsIngredient.stages.0.description>Delicioso.</VBE_ChemshineAsIngredient.stages.0.description>
+            <VBE_CiderAsIngredient.stages.0.label>bebeu coquetel com sidra</VBE_CiderAsIngredient.stages.0.label>
+            <VBE_CiderAsIngredient.stages.0.description>>Delicioso.</VBE_CiderAsIngredient.stages.0.description>
+
+        <!-- Luciferium Powder  -->
+            <VBE_ConsumedLuciferiumPowder.stages.0.label>consumiu pó de lucifério</VBE_ConsumedLuciferiumPowder.stages.0.label>
+            <VBE_ConsumedLuciferiumPowder.stages.0.description>Delicioso.</VBE_ConsumedLuciferiumPowder.stages.0.description>
+
+        <!-- Go-Juice Stock-->
+            <VBE_ConsumedGoStock.stages.0.label>consumiu gelatina de suco-tirbo</VBE_ConsumedGoStock.stages.0.label>
+            <VBE_ConsumedGoStock.stages.0.description>Delicioso.</VBE_ConsumedGoStock.stages.0.description>
+
+        <!-- Wake-Up Powder -->
+            <VBE_ConsumedWakeupPowder.stages.0.label>consumiu pó de despertar</VBE_ConsumedWakeupPowder.stages.0.label>
+            <VBE_ConsumedWakeupPowder.stages.0.description>Delicioso.</VBE_ConsumedWakeupPowder.stages.0.description>
+
+        <!-- Cider -->
+            <VBE_CiderHigh.stages.0.label>calor sidônio</VBE_CiderHigh.stages.0.label>
+            <VBE_CiderHigh.stages.0.description>Só me sinto um pouco mais relaxado depois daquela bebida. Isso é bom.</VBE_CiderHigh.stages.0.description>
+    
     <!-- Vanilla Cooking Expanded -->
         <!-- Sugar -->
             <VCE_ConsumedSugar.stages.0.label>consumiu açúcar</VCE_ConsumedSugar.stages.0.label>

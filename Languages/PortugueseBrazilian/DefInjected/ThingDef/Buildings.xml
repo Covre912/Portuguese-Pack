@@ -284,6 +284,35 @@
             <VBE_TypewritersTable.label>mesa de máquina de escrever</VBE_TypewritersTable.label>
             <VBE_TypewritersTable.description>Uma estação de trabalho com todo o equipamento necessário para escrever livros. Esta estação está equipada com uma máquina de escrever que acelera significativamente o trabalho, mas requer de energia.</VBE_TypewritersTable.description>
 
+    <!-- Vanilla Brewing Expanded -->
+        <!-- Bar -->
+            <VBE_Bar.label>bar</VBE_Bar.label>
+            <VBE_Bar.description>Uma bancada ornamentada com diferentes recipientes e dispositivos para fazer uma variedade de bebidas. Uma caixa de gelo, uma série de torneiras, mangueiras e carbonatadores estão dispostos para qualquer pessoa que cuide dela possa preparar uma cerveja muito mais rápido do que em uma cervejaria rudimentar.</VBE_Bar.description>
+
+        <!-- Soda Fountain -->
+            <VBE_SodaFountain.label>fonte de refrigerante</VBE_SodaFountain.label>
+            <VBE_SodaFountain.description>Uma unidade de fabricação de refrigerante. O xarope é misturado com água, gaseificado e, em seguida, profundamente resfriado antes de ser dispensado em garrafas esterilizadas.</VBE_SodaFountain.description>
+
+        <!-- Ambrandy Distillery -->
+            <VBE_AmbrandyDistillery.label>destilaria de ambrandia</VBE_AmbrandyDistillery.label>
+            <VBE_AmbrandyDistillery.description>Uma destilaria dourada de artesanato muito delicado, destinada ao envelhecimento da ambrosia.</VBE_AmbrandyDistillery.description>
+
+        <!-- Whiskey Cask -->
+            <VBE_WhiskeyCask.label>barril de uísque</VBE_WhiskeyCask.label>
+            <VBE_WhiskeyCask.description>Um enorme barril destinado a envelhecer um grande volume de uísque de uma só vez. Sabores amadeirados naturais são transmitidos à mistura à medida que o próprio barril absorve uma parte do líquido durante o processo de fermentação. Qualquer luz solar que atinge o barril pode retardar o processo de fermentação ou até mesmo arruinar todo o lote.</VBE_WhiskeyCask.description>
+
+        <!-- Tequila Barrel -->
+            <VBE_TequilaBarrel.label>barril de tequila</VBE_TequilaBarrel.label>
+            <VBE_TequilaBarrel.description>Uma pequena unidade combinada de destilaria e fermentador.</VBE_TequilaBarrel.description>
+
+        <!-- Vodka Drum -->
+            <VBE_VodkaDrum.label>barril de vodca</VBE_VodkaDrum.label>
+            <VBE_VodkaDrum.description>Um recipiente barato feito para armazenar água adaptada para ser hermética para fermentação de curto prazo.</VBE_VodkaDrum.description>
+
+        <!-- Gin Still -->
+            <VBE_GinStill.label>destilaria de gim</VBE_GinStill.label>
+            <VBE_GinStill.description>Um dispositivo de destilação industrial totalmente metálico, destinado a purificar e fermentar o gim em uma forma potável. O design metálico transmite o envelhecimento em uma ampla gama de temperaturas e condições.</VBE_GinStill.description>
+
     <!-- Vanilla Cooking Expanded -->
         <!-- Eletric Pot -->
             <VCE_ElectricPot.label>panela elétrica</VCE_ElectricPot.label>

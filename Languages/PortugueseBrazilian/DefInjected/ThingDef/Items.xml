@@ -748,6 +748,201 @@
 			<VBE_UnfinishedBook.label>livro inacabado</VBE_UnfinishedBook.label>
 			<VBE_UnfinishedNewspaper.label>jornal inacabado</VBE_UnfinishedNewspaper.label>
 
+	<!-- Vanilla Brewing Expanded -->
+		<!-- Ambrandy -->
+			<VBE_AmbrandyAwful.label>ambrandia (horrível)</VBE_AmbrandyAwful.label>
+			<VBE_AmbrandyAwful.description>Também conhecida como “sol líquido”, a ambrandia é um licor destilado fermentado do mais alto calibre. Aristocratas do mundo brilhante são conhecidos por enviar milícias privadas inteiras para ajudar no envio de garrafas singulares.\n\nAlém de ser saboroso o suficiente para levar as pessoas às lágrimas, estudos descobriram que este licor, quando profundamente envelhecido, causa maior estimulação na seção do cérebro humano conhecida pela criatividade e expressão ao mesmo tempo em que amortece o controle das emoções.\n\nAté mesmo a garrafa em si é uma beleza de se ver, manchas douradas são vistas dançando no líquido dentro, como brasas saindo de uma fogueira.</VBE_AmbrandyAwful.description>
+			<VBE_AmbrandyAwful.ingestible.ingestCommandString>Beber {0}</VBE_AmbrandyAwful.ingestible.ingestCommandString>
+			<VBE_AmbrandyAwful.ingestible.ingestReportString>Bebendo {0}.</VBE_AmbrandyAwful.ingestible.ingestReportString>
+			<VBE_AmbrandyPoor.label>ambrandia (pobre)</VBE_AmbrandyPoor.label>
+			<VBE_AmbrandyPoor.description>Também conhecida como “sol líquido”, a ambrandia é um licor destilado fermentado do mais alto calibre. Aristocratas do mundo brilhante são conhecidos por enviar milícias privadas inteiras para ajudar no envio de garrafas singulares.\n\nAlém de ser saboroso o suficiente para levar as pessoas às lágrimas, estudos descobriram que este licor, quando profundamente envelhecido, causa maior estimulação na seção do cérebro humano conhecida pela criatividade e expressão ao mesmo tempo em que amortece o controle das emoções.\n\nAté mesmo a garrafa em si é uma beleza de se ver, manchas douradas são vistas dançando no líquido dentro, como brasas saindo de uma fogueira.</VBE_AmbrandyPoor.description>
+			<VBE_AmbrandyPoor.ingestible.ingestCommandString>Beber {0}</VBE_AmbrandyPoor.ingestible.ingestCommandString>
+			<VBE_AmbrandyPoor.ingestible.ingestReportString>Bebendo {0}.</VBE_AmbrandyPoor.ingestible.ingestReportString>
+			<VBE_AmbrandyNormal.label>ambrandia (normal)</VBE_AmbrandyNormal.label>
+			<VBE_AmbrandyNormal.description>Também conhecida como “sol líquido”, a ambrandia é um licor destilado fermentado do mais alto calibre. Aristocratas do mundo brilhante são conhecidos por enviar milícias privadas inteiras para ajudar no envio de garrafas singulares.\n\nAlém de ser saboroso o suficiente para levar as pessoas às lágrimas, estudos descobriram que este licor, quando profundamente envelhecido, causa maior estimulação na seção do cérebro humano conhecida pela criatividade e expressão ao mesmo tempo em que amortece o controle das emoções.\n\nAté mesmo a garrafa em si é uma beleza de se ver, manchas douradas são vistas dançando no líquido dentro, como brasas saindo de uma fogueira.</VBE_AmbrandyNormal.description>
+			<VBE_AmbrandyNormal.ingestible.ingestCommandString>Beber {0}</VBE_AmbrandyNormal.ingestible.ingestCommandString>
+			<VBE_AmbrandyNormal.ingestible.ingestReportString>Bebendo {0}.</VBE_AmbrandyNormal.ingestible.ingestReportString>
+			<VBE_AmbrandyGood.label>ambrandia (bom)</VBE_AmbrandyGood.label>
+			<VBE_AmbrandyGood.description>Também conhecida como “sol líquido”, a ambrandia é um licor destilado fermentado do mais alto calibre. Aristocratas do mundo brilhante são conhecidos por enviar milícias privadas inteiras para ajudar no envio de garrafas singulares.\n\nAlém de ser saboroso o suficiente para levar as pessoas às lágrimas, estudos descobriram que este licor, quando profundamente envelhecido, causa maior estimulação na seção do cérebro humano conhecida pela criatividade e expressão ao mesmo tempo em que amortece o controle das emoções.\n\nAté mesmo a garrafa em si é uma beleza de se ver, manchas douradas são vistas dançando no líquido dentro, como brasas saindo de uma fogueira.</VBE_AmbrandyGood.description>
+			<VBE_AmbrandyGood.ingestible.ingestCommandString>Beber {0}</VBE_AmbrandyGood.ingestible.ingestCommandString>
+			<VBE_AmbrandyGood.ingestible.ingestReportString>Bebendo {0}.</VBE_AmbrandyGood.ingestible.ingestReportString>
+			<VBE_AmbrandyExcellent.label>ambrandia (excelente)</VBE_AmbrandyExcellent.label>
+			<VBE_AmbrandyExcellent.description>Também conhecida como “sol líquido”, a ambrandia é um licor destilado fermentado do mais alto calibre. Aristocratas do mundo brilhante são conhecidos por enviar milícias privadas inteiras para ajudar no envio de garrafas singulares.\n\nAlém de ser saboroso o suficiente para levar as pessoas às lágrimas, estudos descobriram que este licor, quando profundamente envelhecido, causa maior estimulação na seção do cérebro humano conhecida pela criatividade e expressão ao mesmo tempo em que amortece o controle das emoções.\n\nAté mesmo a garrafa em si é uma beleza de se ver, manchas douradas são vistas dançando no líquido dentro, como brasas saindo de uma fogueira.</VBE_AmbrandyExcellent.description>
+			<VBE_AmbrandyExcellent.ingestible.ingestCommandString>Beber {0}</VBE_AmbrandyExcellent.ingestible.ingestCommandString>
+			<VBE_AmbrandyExcellent.ingestible.ingestReportString>Bebendo {0}.</VBE_AmbrandyExcellent.ingestible.ingestReportString>
+			<VBE_AmbrandyMasterwork.label>ambrandia (obra-prima)</VBE_AmbrandyMasterwork.label>
+			<VBE_AmbrandyMasterwork.description>Também conhecida como “sol líquido”, a ambrandia é um licor destilado fermentado do mais alto calibre. Aristocratas do mundo brilhante são conhecidos por enviar milícias privadas inteiras para ajudar no envio de garrafas singulares.\n\nAlém de ser saboroso o suficiente para levar as pessoas às lágrimas, estudos descobriram que este licor, quando profundamente envelhecido, causa maior estimulação na seção do cérebro humano conhecida pela criatividade e expressão ao mesmo tempo em que amortece o controle das emoções.\n\nAté mesmo a garrafa em si é uma beleza de se ver, manchas douradas são vistas dançando no líquido dentro, como brasas saindo de uma fogueira.</VBE_AmbrandyMasterwork.description>
+			<VBE_AmbrandyMasterwork.ingestible.ingestCommandString>Beber {0}</VBE_AmbrandyMasterwork.ingestible.ingestCommandString>
+			<VBE_AmbrandyMasterwork.ingestible.ingestReportString>Bebendo {0}.</VBE_AmbrandyMasterwork.ingestible.ingestReportString>
+			<VBE_AmbrandyLegendary.label>ambrandia (lendário)</VBE_AmbrandyLegendary.label>
+			<VBE_AmbrandyLegendary.description>Também conhecida como “sol líquido”, a ambrandia é um licor destilado fermentado do mais alto calibre. Aristocratas do mundo brilhante são conhecidos por enviar milícias privadas inteiras para ajudar no envio de garrafas singulares.\n\nAlém de ser saboroso o suficiente para levar as pessoas às lágrimas, estudos descobriram que este licor, quando profundamente envelhecido, causa maior estimulação na seção do cérebro humano conhecida pela criatividade e expressão ao mesmo tempo em que amortece o controle das emoções.\n\nAté mesmo a garrafa em si é uma beleza de se ver, manchas douradas são vistas dançando no líquido dentro, como brasas saindo de uma fogueira.</VBE_AmbrandyLegendary.description>
+			<VBE_AmbrandyLegendary.ingestible.ingestCommandString>Beber {0}</VBE_AmbrandyLegendary.ingestible.ingestCommandString>
+			<VBE_AmbrandyLegendary.ingestible.ingestReportString>Bebendo {0}.</VBE_AmbrandyLegendary.ingestible.ingestReportString>
+
+		<!-- Gin -->
+			<VBE_Gin.label>gim</VBE_Gin.label>
+			<VBE_Gin.description>Um licor particularmente suave e incolor, aromaticamente, este frasco tem um perfume de pinheiro e notas frutadas sutis. Este licor tem fama de ser divertido de beber e de provocar o que é conhecido como “embriaguez”, durante o qual se sente um aumento da empatia e compreensão.</VBE_Gin.description>
+			<VBE_Gin.tools.0.label>frasco</VBE_Gin.tools.0.label>
+			<VBE_Gin.tools.1.label>gargalo</VBE_Gin.tools.1.label>
+			<VBE_Gin.ingestible.ingestCommandString>Beber {0}</VBE_Gin.ingestible.ingestCommandString>
+			<VBE_Gin.ingestible.ingestReportString>Bebendo {0}.</VBE_Gin.ingestible.ingestReportString>
+
+		<!-- Tequila -->
+			<VBE_Tequila.label>tequila</VBE_Tequila.label>
+			<VBE_Tequila.description>Um licor fermentado feito de seiva de agave, um favorito de banditos e caubóis selvagens. Os bêbados são conhecidos por se destacarem em combates.</VBE_Tequila.description>
+			<VBE_Tequila.tools.0.label>frasco</VBE_Tequila.tools.0.label>
+			<VBE_Tequila.tools.1.label>gargalo</VBE_Tequila.tools.1.label>
+			<VBE_Tequila.ingestible.ingestCommandString>Beber {0}</VBE_Tequila.ingestible.ingestCommandString>
+			<VBE_Tequila.ingestible.ingestReportString>Bebendo {0}.</VBE_Tequila.ingestible.ingestReportString>
+
+		<!-- Vodka -->
+			<VBE_Vodka.label>vodca</VBE_Vodka.label>
+			<VBE_Vodka.description>Um álcool límpido e quase sem sabor feito de batatas fermentadas. Embora a vodca seja potável sozinha, é mais conhecida por ser um agente de mistura perfeito e por causar níveis absurdamente altos de ousadia naqueles que optam por bebê-la.</VBE_Vodka.description>
+			<VBE_Vodka.tools.0.label>frasco</VBE_Vodka.tools.0.label>
+			<VBE_Vodka.tools.1.label>gargalo</VBE_Vodka.tools.1.label>
+			<VBE_Vodka.ingestible.ingestCommandString>Beber {0}</VBE_Vodka.ingestible.ingestCommandString>
+			<VBE_Vodka.ingestible.ingestReportString>Bebendo {0}.</VBE_Vodka.ingestible.ingestReportString>
+
+		<!-- Whiskey -->
+			<VBE_Whiskey.label>uísque</VBE_Whiskey.label>
+			<VBE_Whiskey.description>Um licor potente destilado de grãos fermentados. Os sabores do barril de envelhecimento tendem a permear esta bebida mais do que outras. Um sabor amadeirado, quase defumado, é pronunciado por toda parte.</VBE_Whiskey.description>
+			<VBE_Whiskey.tools.0.label>frasco</VBE_Whiskey.tools.0.label>
+			<VBE_Whiskey.tools.1.label>gargalo</VBE_Whiskey.tools.1.label>
+			<VBE_Whiskey.ingestible.ingestCommandString>Beber {0}</VBE_Whiskey.ingestible.ingestCommandString>
+			<VBE_Whiskey.ingestible.ingestReportString>Bebendo {0}.</VBE_Whiskey.ingestible.ingestReportString>
+
+		<!-- Double-Aged Whiskey -->
+			<VBE_DoubleWhiskey.label>uísque envelhecido</VBE_DoubleWhiskey.label>
+			<VBE_DoubleWhiskey.description>O resultado do uísque sendo envelhecido mais uma vez em um barril. Os perfis de sabor são mais fortes e a queimadura na garganta é notavelmente reduzida. O aumento do tempo de envelhecimento do uísque fino geralmente retrata um senso de mercantilismo e classe entre seus consumidores.</VBE_DoubleWhiskey.description>
+			<VBE_DoubleWhiskey.tools.0.label>frasco</VBE_DoubleWhiskey.tools.0.label>
+			<VBE_DoubleWhiskey.tools.1.label>gargalo</VBE_DoubleWhiskey.tools.1.label>
+			<VBE_DoubleWhiskey.ingestible.ingestCommandString>Beber {0}</VBE_DoubleWhiskey.ingestible.ingestCommandString>
+			<VBE_DoubleWhiskey.ingestible.ingestReportString>Bebendo {0}.</VBE_DoubleWhiskey.ingestible.ingestReportString>
+
+		<!-- Coffee -->
+			<VBE_HotCoffee.label>café</VBE_HotCoffee.label>
+			<VBE_HotCoffee.description>Uma bebida quente e amarga geralmente complementada com leite e açúcar. Um favorito entre estudantes e funcionários de escritório em toda a galáxia devido ao alto teor de cafeína e aroma agradável.</VBE_HotCoffee.description>
+			<VBE_HotCoffee.ingestible.ingestCommandString>Beber {0}</VBE_HotCoffee.ingestible.ingestCommandString>
+			<VBE_HotCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_HotCoffee.ingestible.ingestReportString>
+
+		<!-- Iced Coffee -->
+			<VBE_IceCoffee.label>café gelado</VBE_IceCoffee.label>
+			<VBE_IceCoffee.description>Um café gelado. O café frio é preferido por muitos em climas quentes; anedoticamente, também suaviza os sabores amargos e traz à tona um sabor de noz perceptível, embora sutil. Assim como sua contraparte calorosa, é onipresente entre estudantes e profissionais.</VBE_IceCoffee.description>
+			<VBE_IceCoffee.ingestible.ingestCommandString>Beber {0}</VBE_IceCoffee.ingestible.ingestCommandString>
+			<VBE_IceCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_IceCoffee.ingestible.ingestReportString>
+
+		<!-- Energy Drink -->
+			<VBE_EnergyDrink.label>energético</VBE_EnergyDrink.label>
+			<VBE_EnergyDrink.description>Uma bebida azeda e gasosa que acaba com um toque de amargura. A combinação de açúcar e cafeína transmite uma explosão de energia! Sabor residual notável de radiação.</VBE_EnergyDrink.description>
+			<VBE_EnergyDrink.ingestible.ingestCommandString>Beber {0}</VBE_EnergyDrink.ingestible.ingestCommandString>
+			<VBE_EnergyDrink.ingestible.ingestReportString>Bebendo {0}.</VBE_EnergyDrink.ingestible.ingestReportString>
+
+		<!-- Juice -->
+			<VBE_Juice.label>suco</VBE_Juice.label>
+			<VBE_Juice.description>Suco de frutas, podem ser feitas de uma única fruta ou de uma variedade mista. Muitas bebidas podem ser preparadas ou misturadas usando sucos como base. Embora não seja muito nutritivo, é muito fácil de armazenar e transportar.</VBE_Juice.description>
+
+		<!-- Soda -->
+			<VBE_Soda.label>refrigerante</VBE_Soda.label>
+			<VBE_Soda.description>Uma bebida muito doce e semicítrica, apreciada gelada. Embora não seja exatamente nutritiva, o aumento do açúcar é bem-vindo e a efervescência é bastante refrescante.</VBE_Soda.description>
+			<VBE_Soda.tools.0.label>frasco</VBE_Soda.tools.0.label>
+			<VBE_Soda.tools.1.label>gargalo</VBE_Soda.tools.1.label>
+			<VBE_Soda.ingestible.ingestCommandString>Beber {0}</VBE_Soda.ingestible.ingestCommandString>
+			<VBE_Soda.ingestible.ingestReportString>Bebendo {0}.</VBE_Soda.ingestible.ingestReportString>
+
+		<!-- Tea -->
+			<VBE_Tea.label>chá</VBE_Tea.label>
+			<VBE_Tea.description>Uma bebida agradável e aromática preparada pela imersão de um saquinho de folhas de chá em água fervente. Pode variar de perfis de sabor cítrico a amargo ou picante. O chá tem sido uma das bebidas favoritas da humanidade desde os tempos antigos e acredita-se que possua muitas propriedades curativas naturais.</VBE_Tea.description>
+			<VBE_Tea.ingestible.ingestCommandString>Beber {0}</VBE_Tea.ingestible.ingestCommandString>
+			<VBE_Tea.ingestible.ingestReportString>Bebendo {0}.</VBE_Tea.ingestible.ingestReportString>
+
+		<!-- Simple Cocktail -->
+			<VBE_SimpleCocktail.label>coquetel simples</VBE_SimpleCocktail.label>
+			<VBE_SimpleCocktail.description>Um coquetel simples rapidamente misturado a partir de uma dupla de ingredientes.</VBE_SimpleCocktail.description>
+
+		<!-- Fine Cocktail -->
+			<VBE_FineCocktail.label>coquetel bom</VBE_FineCocktail.label>
+			<VBE_FineCocktail.description>Um coquetel fino e complexo, misturado com precisão de vários ingredientes.</VBE_FineCocktail.description>
+
+		<!-- Lavish Cocktail -->
+			<VBE_LavishCocktail.label>coquetel luxuoso</VBE_LavishCocktail.label>
+			<VBE_LavishCocktail.description>Uma obra-prima da encarnação do bartender, este coquetel foi misturado com uma grande variedade de ingredientes e refrigerado à perfeição antes de meticulosamente agitado e servido.</VBE_LavishCocktail.description>
+
+		<!-- Gourmet Cocktail -->
+			<VBE_GourmetCocktail.label>coquetel gourmet</VBE_GourmetCocktail.label>
+			<VBE_GourmetCocktail.description>Um verdadeiro milagre da mixologia. Todos os fatores de temperatura do vidro, escolha do instrumento de agitação e tipo de enfeite desse coquetel foram calculados com precisão para o máximo de sabor e corpo possível.</VBE_GourmetCocktail.description>
+
+		<!-- Soda Syrup -->
+			<VBE_SodaSyrup.label>xarope de refrigerante</VBE_SodaSyrup.label>
+			<VBE_SodaSyrup.description>Uma mistura espessa e repugnantemente doce feita fervendo ácido cítrico e açúcares naturais juntos - geralmente derivado direto da cana-de-açúcar ou xarope de milho. Deve ser cortado com água e deixado para carbonatar brevemente em um ambiente vedado antes do consumo.</VBE_SodaSyrup.description>
+
+		<!-- Ambrosia Mush -->
+			<VBE_AmbrandyMush.label>polpa de ambrosia</VBE_AmbrandyMush.label>
+			<VBE_AmbrandyMush.description>Ambrosia fatiada e prensada, pode ser deixada sozinha para amadurecer em mosto para ser posteriormente destilada em um licor extremamente fino.</VBE_AmbrandyMush.description>
+
+		<!-- Ambrandy Must -->
+			<VBE_AmbrandyMust.label>mosto de ambrandia</VBE_AmbrandyMust.label>
+			<VBE_AmbrandyMust.description>Ambrosia totalmente amadurecida liquidificada em essencialmente um suco espesso e deixada sozinha para fermentação.</VBE_AmbrandyMust.description>
+
+		<!-- Whiskey Mash -->
+			<VBE_WhiskeyMash.label>mistura de uísque</VBE_WhiskeyMash.label>
+			<VBE_WhiskeyMash.description>Uma mistura amilácea e principalmente líquida com pedaços polposos espalhados por toda parte.</VBE_WhiskeyMash.description>
+
+		<!-- Tequila Must -->
+			<VBE_TequilaMust.label>mosto de tequila</VBE_TequilaMust.label>
+			<VBE_TequilaMust.description>Uma mistura fina de agave ou opúncia e de carne de inseto.</VBE_TequilaMust.description>
+
+		<!-- Vodka Mash -->
+			<VBE_VodkaMash.label>mistura de vodca</VBE_VodkaMash.label>
+			<VBE_VodkaMash.description>Uma mistura espessa e amilácea de batata crua.</VBE_VodkaMash.description>
+
+		<!-- Gin Mush -->
+			<VBE_GinMush.label>polpa de gim</VBE_GinMush.label>
+			<VBE_GinMush.description>Uma mistura límpida, mas turva de frutos silvestres e grãos diversos.</VBE_GinMush.description>
+
+		<!-- Coffee Beans -->
+			<VBE_RawCoffee.label>grãos de café</VBE_RawCoffee.label>
+			<VBE_RawCoffee.description>Os caroços dos frutos das plantas de café, conhecidos sucintamente como “grãos de café”.</VBE_RawCoffee.description>
+
+		<!-- Tea Leves -->
+			<VBE_RawTea.label>folhas de chá</VBE_RawTea.label>
+			<VBE_RawTea.description>As folhas da planta de chá. Podem ser fervidos em uma variedade de bebidas terrosas e calmantes.</VBE_RawTea.description>
+
+		<!-- Tobacco Leaves -->
+			<VBE_RawTobacco.label>folhas de tabaco</VBE_RawTobacco.label>
+			<VBE_RawTobacco.description>As folhas da planta do tabaco. Essas folhas podem ser secas com bastante facilidade para depois serem enroladas e defumadas, proporcionando um leve efeito estimulante.</VBE_RawTobacco.description>
+
+		<!-- Cigarettes -->
+			<VBE_Cigarettes.label>cigarros</VBE_Cigarettes.label>
+			<VBE_Cigarettes.description>Um pequeno tubo de papel enrolado recheado com folhas de tabaco. Oferece uma breve euforia, bem como estimulação mental, e é muito viciante. O odor pungente geralmente é desagradável no início, mas se torna muito mais prazeroso à medida que o fumante fica mais viciado.</VBE_Cigarettes.description>
+			<VBE_Cigarettes.ingestible.ingestCommandString>Fumar {0}</VBE_Cigarettes.ingestible.ingestCommandString>
+			<VBE_Cigarettes.ingestible.ingestReportString>Fumando {0}.</VBE_Cigarettes.ingestible.ingestReportString>
+
+		<!-- Cigars -->
+			<VBE_Cigars.label>charutos</VBE_Cigars.label>
+			<VBE_Cigars.description>Uma folha larga e seca de tabaco recheada até a borda e com um envoltório de ouro ao redor. Os charutos têm uma apresentação historicamente chique e normalmente só são acessíveis para aqueles que se misturam com a elite do mundo brilhante regularmente. Os charutos costumam ser aromatizados com frutas cítricas ou baunilha para tornar seu sabor e odor menos acre.</VBE_Cigars.description>
+			<VBE_Cigars.ingestible.ingestCommandString>Fumar {0}</VBE_Cigars.ingestible.ingestCommandString>
+			<VBE_Cigars.ingestible.ingestReportString>Fumando {0}.</VBE_Cigars.ingestible.ingestReportString>
+
+		<!-- Luciferium Powder -->
+			<VBE_LuciferiumPowder.label>pó de lucifério</VBE_LuciferiumPowder.label>
+			<VBE_LuciferiumPowder.description>Um pó finamente misturado feito de lucifério. Costuma-se colocar rodelas de bebidas alcoólicas em bares frequentados por ricos e poderosos. Fornece uma versão muito diluída da droga sem risco de vícios.</VBE_LuciferiumPowder.description>
+
+		<!-- Wake-Up Powder -->
+			<VBE_WakeUpPowder.label>pó de despertar</VBE_WakeUpPowder.label>
+			<VBE_WakeUpPowder.description>Uma forma de despertar triturada em pó, surpreendentemente doce e às vezes usada como substituto do açúcar em sobremesas ou dissolvida em um expresso matinal. Fornece uma versão muito diluída da droga sem risco de vícios.</VBE_WakeUpPowder.description>
+
+		<!-- Go-Juice Stock -->
+			<VBE_GoJuiceStock.label>gelatina de suco-turbo</VBE_GoJuiceStock.label>
+			<VBE_GoJuiceStock.description>Um cubo gelatinizado de suco-turbo, capaz de ser digerido em vez de injetado. Embora possa ser usado em qualquer refeição, geralmente é derretido em sopas ou usado como um agente espessante em coquetéis. Fornece uma versão muito diluída da droga sem risco de vícios.</VBE_GoJuiceStock.description>
+
+		<!-- Cider -->
+			<VBE_UnfermentedCider.label>sidra (não ferm.)</VBE_UnfermentedCider.label>
+			<VBE_UnfermentedCider.description>Sidra não fermentada em uma garrafa hermética. Se deixado sozinho para desenvolver as bactérias adequadas, o resultado final será uma bebida alcoólica fraca.</VBE_UnfermentedCider.description>
+			<VBE_Cider.label>sidra</VBE_Cider.label>
+			<VBE_Cider.description>Uma bebida quase sem álcool que pretende ser refrescante e frutada. Por mais que tente, é inútil tentar ficar inebriado apenas de sidra, por isso é popular entre aqueles que já foram viciados. Curiosamente, muitos o elogiam por suas supostas propriedades antioxidantes.</VBE_Cider.description>
+			<VBE_Cider.ingestible.ingestCommandString>Beber {0}</VBE_Cider.ingestible.ingestCommandString>
+			<VBE_Cider.ingestible.ingestReportString>Bebendo {0}.</VBE_Cider.ingestible.ingestReportString>
+
 	<!-- Vanilla Cooking Expanded -->
 		<!-- Simple Bake -->
 			<VCE_SimpleBake.label>assado simples</VCE_SimpleBake.label>

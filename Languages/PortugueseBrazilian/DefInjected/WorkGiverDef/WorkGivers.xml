@@ -84,6 +84,12 @@
             <VBE_DoBillsWrite.verb>escrever</VBE_DoBillsWrite.verb>
             <VBE_DoBillsWrite.gerund>escrevendo em</VBE_DoBillsWrite.gerund>
 
+    <!-- Vanilla Brewing Expanded -->
+        <!-- Mix -->
+            <VBE_DoBillsBar.label>misturar bebidas no bar</VBE_DoBillsBar.label>
+            <VBE_DoBillsBar.verb>misturar bebidas</VBE_DoBillsBar.verb>
+            <VBE_DoBillsBar.gerund>misturando bebidas em</VBE_DoBillsBar.gerund>
+
     <!-- Vanilla Cooking Expanded -->
         <!-- Grill -->
             <VCE_DoBillsGrill.label>cozinhar em grelha</VCE_DoBillsGrill.label>

@@ -206,6 +206,19 @@
             <RG-D_Plant_DesertPalmTree.label>palmeira</RG-D_Plant_DesertPalmTree.label>
             <RG-D_Plant_DesertPalmTree.description>Uma árvore do deserto com um tronco alto e nu encimado por um cacho de folhas muito largas. Infelizmente, esta variedade não produz cocos comestíveis.</RG-D_Plant_DesertPalmTree.description>
 
+    <!-- Vanilla Brewing Expanded -->
+        <!--- Coffee Plant -->
+            <VBE_Plant_Coffee.label>cafeeiro</VBE_Plant_Coffee.label>
+            <VBE_Plant_Coffee.description>Um arbusto baixo de origem tropical, pontilhado por pequenas bagas avermelhadas quando totalmente crescido. Os caroços dessas frutas são conhecidos sucintamente como “grãos de café” e podem ser torrados para dar um sabor robusto e amargo, assim como cafeína natural. Este gênero particular foi criado seletivamente para um rápido amadurecimento em comparação com sua contraparte antiga.</VBE_Plant_Coffee.description>
+
+        <!-- Tea Grass -->
+            <VBE_Plant_Tea.label>capim</VBE_Plant_Tea.label>
+            <VBE_Plant_Tea.description>Um arbusto muito frondoso e particularmente fácil de cultivar. Desde o início da humanidade, foi descoberto que as folhas dessas plantas podem ser fervidas em uma variedade de chás terrosos e calmantes. Este gênero particular foi criado seletivamente para um rápido amadurecimento em comparação com sua contraparte antiga.</VBE_Plant_Tea.description>
+
+        <!-- Tobacco Plant -->
+            <VBE_Plant_Tobacco.label>nicotiana</VBE_Plant_Tobacco.label>
+            <VBE_Plant_Tobacco.description>Uma planta baixa e de folhas largas que se desenvolve em climas quentes. As folhas do tabaco podem ser secas com bastante facilidade para serem enroladas e fumadas, proporcionando um leve efeito estimulante.</VBE_Plant_Tobacco.description>
+
     <!-- Vanilla Cooking Expanded -->
         <!-- Sugarcane Plant -->
             <VCE_Sugarcane.label>cana-de-açúcar</VCE_Sugarcane.label>

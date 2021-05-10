@@ -140,6 +140,15 @@
             <VBE_Printing.label>impressão</VBE_Printing.label>
             <VBE_Printing.description>Construa uma máquina de escrever, o que permite que seus colonos escrevam livros significativamente mais rápido, bem como criem jornais para um impulso temporário de alegria.</VBE_Printing.description>
 
+    <!-- Vanilla Brewing Expanded -->
+        <!-- Mixology -->
+            <VBE_MixologyResearch.label>mixologia</VBE_MixologyResearch.label>
+            <VBE_MixologyResearch.description>Permite a construção de máquinas avançadas que utilizam eletricidade para fermentação, engarrafamento e mistura de coquetéis na bancada de bar.</VBE_MixologyResearch.description>
+
+        <!-- Liquor Brewing -->
+            <VBE_LiquorBrewing.label>fermentação de licores</VBE_LiquorBrewing.label>
+            <VBE_LiquorBrewing.description>Utilize técnicas avançadas de fermentação que permitem a destilação e levedação de destilados mais fortes com efeitos únicos.</VBE_LiquorBrewing.description>
+
     <!-- Vanilla Cooking Expanded -->
         <!-- Food Condiments -->
             <VCE_CondimentsResearch.label>condimentos alimentares</VCE_CondimentsResearch.label>
