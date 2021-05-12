@@ -3002,6 +3002,9 @@
         <!-- No Recipes Here -->
             <IP_NoRecipesHere>Nenhuma receita encontrada para esta máquina</IP_NoRecipesHere>
 
+        <!-- Weapon Requires Powered Armor -->
+            <VWE.CannotEquipHeavy>Arma requer armação de exoesqueleto</VWE.CannotEquipHeavy>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Long Range Missile -->
             <VFEM_SiloNoTarget>Atualmente sem alvo</VFEM_SiloNoTarget>
@@ -3010,6 +3013,38 @@
             <VFEM_SiloConditionsUnsatisfied>Faltam algumas condições</VFEM_SiloConditionsUnsatisfied>
             <VFEM_SiloCountEntry>{0}: {1}/{2}</VFEM_SiloCountEntry>
             <VFEM_SiloAimAtQuestSite>A localização não contém objetos grandes o suficiente para serem direcionados</VFEM_SiloAimAtQuestSite>
+
+        <!-- Bring Ingredients -->
+            <VFEM_BringIngredients>Extrair ingredientes</VFEM_BringIngredients>
+            <VFEM_BringIngredientsDesc>Extraia ingredientes de funis adjacentes para iniciar o processo.</VFEM_BringIngredientsDesc>
+
+        <!-- Must Place On -->
+            <VFEMech.MustPlaceOnFactoryFloor>Deve ser colocado diretamente em um chão de fábrica.</VFEMech.MustPlaceOnFactoryFloor>
+            <VFEMech.MustPlaceOnPowerConduit>Deve ser colocado diretamente em um interruptor de energia.</VFEMech.MustPlaceOnPowerConduit>
+
+        <!-- Letter Join Offer -->
+            <VFEMech.LetterJoinOfferTitle>{PAWN_nameDef} desejaria juntar-se.</VFEMech.LetterJoinOfferTitle>
+            <VFEMech.LetterJoinOfferLabel>Oferta de entrada: {PAWN_nameDef}</VFEMech.LetterJoinOfferLabel>
+            <VFEMech.LetterJoinOfferText>Como um sinal de confiança e gratidão, {PAWN_nameDef} acredita que {PAWN_pronoun} pode ser uma ajuda valiosa em sua colônia. {PAWN_pronoun} deseja se juntar a você permanentemente. </VFEMech.LetterJoinOfferText>
+
+        <!-- Raid Warning -->
+            <VFEMech.RaidWarningTitle>Invasão iminente: {FACTION_name} </VFEMech.RaidWarningTitle>
+            <VFEMech.RaidWarningText>{FACTION_name} irá invadi-lo nas próximas 12 horas. {1}</VFEMech.RaidWarningText>
+
+        <!-- Settings -->
+            <VFEMech.DisableTotalWarMechanic>Desativar guerra total</VFEMech.DisableTotalWarMechanic>
+            <VFEMech.AdjustIncidentTimeInterval>Ajustar o intervalo de desembarque das naves:</VFEMech.AdjustIncidentTimeInterval>
+            <VFEMech.AdjustIncidentChanceLabel>Ajustar a chance de incidentes de desembarque de naves:</VFEMech.AdjustIncidentChanceLabel>
+            <VFEMech.AdjustMechPresenceLabel>Ajustar a presença mecanóide gerada por naves:</VFEMech.AdjustMechPresenceLabel>
+            <VFEMech.AdjustMinimunColonistCountLabel>Ajuste a contagem mínima de colonos necessária para incidentes de desembarque de naves:</VFEMech.AdjustMinimunColonistCountLabel>
+            <VFEMech.AdjustMaximumDistanceForShipsLabel>Ajuste a distância máxima para locais de desembarque de naves:</VFEMech.AdjustMaximumDistanceForShipsLabel>
+            <VFEM_factorySpeedMultiplier>Multiplicador de velocidade de fábrica</VFEM_factorySpeedMultiplier>
+            <VFEM_factorySpeedMultiplierTooltip>Multiplicador de velocidade de fábrica. O padrão é 1. Números mais baixos aceleram a velocidade dos módulos de fábrica, enquanto números mais altos fazem com que funcionem mais devagar.</VFEM_factorySpeedMultiplierTooltip>
+            <VFEM_SuperComputerResearchPointYield>Valor do rendimento do ponto de pesquisa do supercomputador. O padrão é 1.</VFEM_SuperComputerResearchPointYield>
+
+        <!-- Faction Destroyed Ship -->
+            <VFEMech.FactionDestroyedShip>{FACTION_name} destruiu {1}</VFEMech.FactionDestroyedShip>
+            <VFEMech.FactionDestroyedShipDesc>Por meio de estratégias inteligentes, com grande número de baixas e incrível perseverança, {FACTION_name} conseguiu destruir {1}.</VFEMech.FactionDestroyedShipDesc>
 
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Wine Barrel -->
@@ -3389,6 +3424,33 @@
             <VSIE.EnableUnitedWeStand>Habilitar unidos nós sobreviveremos</VSIE.EnableUnitedWeStand>
             <VSIE.EnableSocialEnvironmentThoughts>Habilitar ambientes hostis</VSIE.EnableSocialEnvironmentThoughts>
             <VSIE.EnableOneNightStand>Habilitar encontros casuais</VSIE.EnableOneNightStand>
+
+    <!-- Vanilla Storytellers Expanded - Oskar Obnoxious -->
+        <!-- Labels -->
+            <PatchTitle>RimWorld {0} "{1}"</PatchTitle>
+	        <PatchTitleNoName>RimWorld {0}</PatchTitleNoName>
+	        <OskarObnoxious>Oskar Obnóxio</OskarObnoxious>
+	        <PatchNotes>Nova Atualização</PatchNotes>
+
+	    <!-- Patch Window -->
+	        <ValueChanged>{0} alterado de {1} para {2}</ValueChanged>
+	        <ValueUnchanged>{0} vai continuar o mesmo. O valor atual é {1}</ValueUnchanged>
+	        <ValueChangedDefault>O valor padrão {0} foi alterado de {1} para {2}</ValueChangedDefault>
+	        <ValueUnchangedDefault>O valor padrão {0} continuará o mesmo. O valor atual é {1}</ValueUnchangedDefault>
+
+	    <!-- Settings -->
+	        <TicksBetweenPatchNotes>Ticks Entre Atualizações</TicksBetweenPatchNotes>
+	        <TicksBetweenPatchNotesTooltip>Ticks até que a próxima atualização seja lançada.</TicksBetweenPatchNotesTooltip>
+	        <DefsChangedPerPatch>Defs</DefsChangedPerPatch>
+	        <DefsChangedPerPatchTooltip>Número de Defs alterados por atualização</DefsChangedPerPatchTooltip>
+	        <FieldsChangedPerDef>Campos</FieldsChangedPerDef>
+	        <FieldsChangedPerDefTooltip>Número de Campos alterados por Def</FieldsChangedPerDefTooltip>
+	        <PatchNotesStored>Atualizações Arquivadas</PatchNotesStored>
+	        <PatchNotesStoredTooltip>Número máximo de Atualizações que serão arquivadas e visualizadas na janela de notas da atualização. Ele mostrará apenas as atuaçizações mais recentes até essa quantidade, mas todas as atualizações anteriores ainda aplicarão suas alterações.</PatchNotesStoredTooltip>
+	        <ShowAllPatchNotes>Abrir Notas de Atualização</ShowAllPatchNotes>
+	        <ResetPatchNotesToDefault>Redefinir Configurações</ResetPatchNotesToDefault>
+	        <DebugShowPatchGeneration>Gerar Logs de Atualizações</DebugShowPatchGeneration>
+	        <DebugShowPatchGenerationTooltip>Envie todas as etapas de geração de atualizações para os logs de mensagens. (Apenas para depuração)</DebugShowPatchGenerationTooltip>
         
     <!-- Vanilla Traits Expanded -->
         <!-- Perfectionist -->

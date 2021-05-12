@@ -151,7 +151,7 @@
 			<TM_FluTea.description>Um chá tribal feito de rosas e ervas medicinais, leva muito tempo para preparar e perde seus efeitos relativamente rápido se não for consumido.\n\nEste chá especial é frequentemente usado para prevenir o adoecimento por gripe, os efeitos duram muito, mas os efeitos imediatos podem ser irritantes.</TM_FluTea.description>
 
 		<!-- Immunity Tea -->
-			<TM_ImmunityTea.label>chá preto</TM_ImmunityTea.label>
+			<TM_ImmunityTea.label>chá sinistro</TM_ImmunityTea.label>
 			<TM_ImmunityTea.description>Um chá tribal feito de amoras e dálias, tem um gosto ruim e pode até causar tontura e vômito, mas concede um grande aumento na velocidade de ganho de imunidade.</TM_ImmunityTea.description>
 
 		<!-- Curative Tea -->
@@ -942,6 +942,117 @@
 			<VBE_Cider.description>Uma bebida quase sem álcool que pretende ser refrescante e frutada. Por mais que tente, é inútil tentar ficar inebriado apenas de sidra, por isso é popular entre aqueles que já foram viciados. Curiosamente, muitos o elogiam por suas supostas propriedades antioxidantes.</VBE_Cider.description>
 			<VBE_Cider.ingestible.ingestCommandString>Beber {0}</VBE_Cider.ingestible.ingestCommandString>
 			<VBE_Cider.ingestible.ingestReportString>Bebendo {0}.</VBE_Cider.ingestible.ingestReportString>
+
+	<!-- Vanilla Brewing Expanded - Coffees and Teas -->
+		<!-- Black Tea -->
+			<VBE_BlackTea.label>chá preto</VBE_BlackTea.label>
+			<VBE_BlackTea.description>Um chá particularmente amargo cortado com leite cremoso, desperta e ajuda a curar doenças.</VBE_BlackTea.description>
+			<VBE_BlackTea.ingestible.ingestCommandString>Beber {0}</VBE_BlackTea.ingestible.ingestCommandString>
+			<VBE_BlackTea.ingestible.ingestReportString>Bebendo {0}.</VBE_BlackTea.ingestible.ingestReportString>
+
+		<!-- Cannibal Coffee -->
+			<VBE_CannibalCoffee.label>café canibal</VBE_CannibalCoffee.label>
+			<VBE_CannibalCoffee.description>Para um consumidor de café muito especial… refinado.</VBE_CannibalCoffee.description>
+			<VBE_CannibalCoffee.ingestible.ingestCommandString>Beber {0}</VBE_CannibalCoffee.ingestible.ingestCommandString>
+			<VBE_CannibalCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_CannibalCoffee.ingestible.ingestReportString>
+
+		<!-- Irish Coffee -->
+			<VBE_IrishCoffee.label>café irlandês</VBE_IrishCoffee.label>
+			<VBE_IrishCoffee.description>O uísque e o café misturam-se bem. Perfeito para quem acabou de sair da cama e já está com vontade de voltar para ela.</VBE_IrishCoffee.description>
+			<VBE_IrishCoffee.ingestible.ingestCommandString>Beber {0}</VBE_IrishCoffee.ingestible.ingestCommandString>
+			<VBE_IrishCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_IrishCoffee.ingestible.ingestReportString>
+
+		<!-- Kombucha Tea -->
+			<VBE_Kombucha.label>kombuchá</VBE_Kombucha.label>
+			<VBE_Kombucha.description>Um chá açucarado deixado para fermentar, uma bebida doce e azeda, às vezes até naturalmente gasosa, conhecida como kombuchá. Elogiado pelos benefícios à saúde, embora alguns continuem céticos.</VBE_Kombucha.description>
+			<VBE_Kombucha.ingestible.ingestCommandString>Beber {0}</VBE_Kombucha.ingestible.ingestCommandString>
+			<VBE_Kombucha.ingestible.ingestReportString>Bebendo {0}.</VBE_Kombucha.ingestible.ingestReportString>
+
+		<!-- Latte Coffee -->
+			<VBE_LatteCoffee.label>café com leite</VBE_LatteCoffee.label>
+			<VBE_LatteCoffee.description>Espresso potente misturado com leite fresco para ajudar a aliviar o amargor antes de servir. O café com leite tem a reputação de ser especialmente destinado a indivíduos “sofisticados”.</VBE_LatteCoffee.description>
+			<VBE_LatteCoffee.ingestible.ingestCommandString>Beber {0}</VBE_LatteCoffee.ingestible.ingestCommandString>
+			<VBE_LatteCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_LatteCoffee.ingestible.ingestReportString>
+
+		<!-- Mocha Coffee -->
+			<VBE_MochaCoffee.label>moca</VBE_MochaCoffee.label>
+			<VBE_MochaCoffee.description>Café misturado com chocolate doce e luxuoso, muito divertido de beber. Aqueles de persuasão esnobe diriam que o moca é mais uma sobremesa do que uma bebida de café de verdade.</VBE_MochaCoffee.description>
+			<VBE_MochaCoffee.ingestible.ingestCommandString>Beber {0}</VBE_MochaCoffee.ingestible.ingestCommandString>
+			<VBE_MochaCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_MochaCoffee.ingestible.ingestReportString>
+
+		<!-- Pumpkin Spice Coffee -->
+			<VBE_PumpkinCoffee.label>café de abóbora picante</VBE_PumpkinCoffee.label>
+			<VBE_PumpkinCoffee.description>O café genérico barato, produzido em massa, vazava em uma variedade de especiarias, estranhamente excluindo qualquer abóbora real. Há milhares de anos, esse tipo de café era consumido de forma estereotipada por descolados ruivos com pãezinhos masculinos.</VBE_PumpkinCoffee.description>
+			<VBE_PumpkinCoffee.ingestible.ingestCommandString>Beber {0}</VBE_PumpkinCoffee.ingestible.ingestCommandString>
+			<VBE_PumpkinCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_PumpkinCoffee.ingestible.ingestReportString>
+
+		<!-- Yuenyeung -->
+			<VBE_Yuenyeung.label>yuenyeung</VBE_Yuenyeung.label>
+			<VBE_Yuenyeung.description>Uma mistura de café e chá. Os aguardenteiros rivais colocam suas diferenças de lado enquanto inventam esse amálgama profano. Geralmente é servido frio, mas quer seja servido quente ou frio é igualmente confuso para o bebedor.</VBE_Yuenyeung.description>
+			<VBE_Yuenyeung.ingestible.ingestCommandString>Beber {0}</VBE_Yuenyeung.ingestible.ingestCommandString>
+			<VBE_Yuenyeung.ingestible.ingestReportString>Bebendo {0}.</VBE_Yuenyeung.ingestible.ingestReportString>
+
+		<!-- Mint Leaves -->
+			<VBE_MintLeaves.label>folhas de hortelã</VBE_MintLeaves.label>
+			<VBE_MintLeaves.description>As folhas de hortelã são famosas por seu efeito refrescante na boca, bem como pela facilidade de infiltrar em uma variedade de chás ou guarnecer delicadamente um prato.</VBE_MintLeaves.description>
+
+		<!-- Mint Coffee -->
+			<VBE_MintCoffee.label>café com hortelã</VBE_MintCoffee.label>
+			<VBE_MintCoffee.description>Espresso amargo misturado com creme ou leite, depois misturado com óleo de hortelã e decorado. O café fresco e aveludado dá lugar a um sabor ainda mais fresco e calmante, sem mencionar o hálito cheiroso.</VBE_MintCoffee.description>
+			<VBE_MintCoffee.ingestible.ingestCommandString>Beber {0}</VBE_MintCoffee.ingestible.ingestCommandString>
+			<VBE_MintCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_MintCoffee.ingestible.ingestReportString>
+
+		<!-- Dalgona Coffee -->
+			<VBE_DalgonaCoffee.label>café dalgona</VBE_DalgonaCoffee.label>
+			<VBE_DalgonaCoffee.description>Uma bebida da moda e mais recente no mundo do café, que dizem ser originária de mundos distantes. Os grânulos de café são rapidamente misturados com açúcar para formar uma espuma espessa e luxuosamente doce. Em seguida, a espuma é espalhada sobre o leite resfriado antes de ser bebido. Provavelmente a bebida perfeita para saborear enquanto estuda ou lê.</VBE_DalgonaCoffee.description>
+			<VBE_DalgonaCoffee.ingestible.ingestCommandString>Beber {0}</VBE_DalgonaCoffee.ingestible.ingestCommandString>
+			<VBE_DalgonaCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_DalgonaCoffee.ingestible.ingestReportString>
+
+		<!-- Green Tea -->
+			<VBE_GreenTea.label>chá verde</VBE_GreenTea.label>
+			<VBE_GreenTea.description>Um chá verde leve e cítrico enriquecido com açúcar para criar um sabor amanteigado, quase de nozes.</VBE_GreenTea.description>
+			<VBE_GreenTea.ingestible.ingestCommandString>Beber {0}</VBE_GreenTea.ingestible.ingestCommandString>
+			<VBE_GreenTea.ingestible.ingestReportString>Bebendo {0}.</VBE_GreenTea.ingestible.ingestReportString>
+
+		<!-- Mint Tea -->
+			<VBE_MintTea.label>chá de hortelã</VBE_MintTea.label>
+			<VBE_MintTea.description>Folhas de chá preto misturadas com folhas de hortelã e profundamente embebidas, depois guarnecidas com folhas de hortelã adicionais. Deixa seu hálito surpreendentemente fresco.</VBE_MintTea.description>
+			<VBE_MintTea.ingestible.ingestCommandString>Beber {0}</VBE_MintTea.ingestible.ingestCommandString>
+			<VBE_MintTea.ingestible.ingestReportString>Bebendo {0}.</VBE_MintTea.ingestible.ingestReportString>
+
+		<!-- Masala Chai -->
+			<VBE_MasalaChai.label>masala chai</VBE_MasalaChai.label>
+			<VBE_MasalaChai.description>Um chá mofado, quente, quase amadeirado feito de folhas simples e especiarias complexas. Diz-se que é bom contra o colesterol alto.</VBE_MasalaChai.description>
+			<VBE_MasalaChai.ingestible.ingestCommandString>Beber {0}</VBE_MasalaChai.ingestible.ingestCommandString>
+			<VBE_MasalaChai.ingestible.ingestReportString>Bebendo {0}.</VBE_MasalaChai.ingestible.ingestReportString>
+
+		<!-- Noon Chai -->
+			<VBE_NoonChai.label>noon chai</VBE_NoonChai.label>
+			<VBE_NoonChai.description>Um antigo chá da caxemira que mistura folhas de chá, uma pitada de sal e bicarbonato de sódio, o que resulta em uma bebida rosa marcante que é famosa por ser não apenas deliciosa, mas também saudável para o corpo. Muito eficaz no tratamento da hipertensão.</VBE_NoonChai.description>
+			<VBE_NoonChai.ingestible.ingestCommandString>Beber {0}</VBE_NoonChai.ingestible.ingestCommandString>
+			<VBE_NoonChai.ingestible.ingestReportString>Bebendo {0}.</VBE_NoonChai.ingestible.ingestReportString>
+
+		<!-- Lemons -->
+			<VCE_RawLemon.label>limões</VCE_RawLemon.label>
+			<VCE_RawLemon.description>Uma fruta com sabor ácido e azedo. O suco, as raspas e a polpa costumam ser usados ​​na culinária, geralmente em peixes e outras carnes para um sabor melhor. O limão também é usado para dar sabor a bebidas, como limonada, ou misturado com chá e café.</VCE_RawLemon.description>
+
+		<!-- Espresso Romano -->
+			<VBE_LemonCoffee.label>espresso romano</VBE_LemonCoffee.label>
+			<VBE_LemonCoffee.description>Uma combinação particularmente estranha. Café já ácido guarnecido com uma rodela de limão, destinado a ser transformado em suco no café antes de ser consumido rapidamente enquanto está quente. Especialmente indicado no combate a parasitas intestinais.</VBE_LemonCoffee.description>
+			<VBE_LemonCoffee.ingestible.ingestCommandString>Beber {0}</VBE_LemonCoffee.ingestible.ingestCommandString>
+			<VBE_LemonCoffee.ingestible.ingestReportString>Bebendo {0}.</VBE_LemonCoffee.ingestible.ingestReportString>
+
+		<!-- Lemon Tea -->
+			<VBE_LemonTea.label>chá de limão</VBE_LemonTea.label>
+			<VBE_LemonTea.description>Um chá escuro cortado com água, resfriado e decorado com uma rodela de limão brilhante.</VBE_LemonTea.description>
+			<VBE_LemonTea.ingestible.ingestCommandString>Beber {0}</VBE_LemonTea.ingestible.ingestCommandString>
+			<VBE_LemonTea.ingestible.ingestReportString>Bebendo {0}.</VBE_LemonTea.ingestible.ingestReportString>
+
+		<!-- Earl Grey Tea -->
+			<VBE_EarlGreyTea.label>earl grey</VBE_EarlGreyTea.label>
+			<VBE_EarlGreyTea.description>Um chá frutado muito forte e semidoce. Notas florais dançam em torno de uma paleta, mesmo com o cheiro mais opaco. As pessoas que terminam a bebida sentem-se estranhamente impelidas a colonizar.</VBE_EarlGreyTea.description>
+			<VBE_EarlGreyTea.ingestible.ingestCommandString>Beber {0}</VBE_EarlGreyTea.ingestible.ingestCommandString>
+			<VBE_EarlGreyTea.ingestible.ingestReportString>Bebendo {0}.</VBE_EarlGreyTea.ingestible.ingestReportString>
 
 	<!-- Vanilla Cooking Expanded -->
 		<!-- Simple Bake -->

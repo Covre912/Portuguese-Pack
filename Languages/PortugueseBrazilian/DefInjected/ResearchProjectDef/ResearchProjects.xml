@@ -149,6 +149,11 @@
             <VBE_LiquorBrewing.label>fermentação de licores</VBE_LiquorBrewing.label>
             <VBE_LiquorBrewing.description>Utilize técnicas avançadas de fermentação que permitem a destilação e levedação de destilados mais fortes com efeitos únicos.</VBE_LiquorBrewing.description>
 
+    <!-- Vanilla Brewing Expanded - Coffees and Teas -->
+        <!-- Espresso Machine -->
+            <VBE_EspressoMachine.label>máquina de espresso</VBE_EspressoMachine.label>
+            <VBE_EspressoMachine.description>Um método mais sofisticado de preparar cafés e chás usando água pressurizada.</VBE_EspressoMachine.description>
+
     <!-- Vanilla Cooking Expanded -->
         <!-- Food Condiments -->
             <VCE_CondimentsResearch.label>condimentos alimentares</VCE_CondimentsResearch.label>

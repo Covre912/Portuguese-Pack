@@ -608,7 +608,64 @@
         <!-- Cider -->
             <VBE_CiderHigh.stages.0.label>calor sidônio</VBE_CiderHigh.stages.0.label>
             <VBE_CiderHigh.stages.0.description>Só me sinto um pouco mais relaxado depois daquela bebida. Isso é bom.</VBE_CiderHigh.stages.0.description>
-    
+
+    <!-- Vanilla Brewing Expanded - Coffees and Teas -->    
+        <!-- Black Tea -->
+            <VBE_DrankBlackTea.stages.0.label>chá inspirador</VBE_DrankBlackTea.stages.0.label>
+            <VBE_DrankBlackTea.stages.0.description>Uma xícara de chá preto deliciosamente intensa ilumina o dia.</VBE_DrankBlackTea.stages.0.description>
+
+        <!-- Irish Coffee -->
+            <VBE_IrishCoffeeHigh.stages.0.label>viva agora, durma mais tarde</VBE_IrishCoffeeHigh.stages.0.label>
+            <VBE_IrishCoffeeHigh.stages.0.description>Aquele café atingiu o ponto, agora vamos trabalhar um pouco.</VBE_IrishCoffeeHigh.stages.0.description>
+
+        <!-- Kombucha Tea -->
+            <VBE_DrankKombuchaTea.stages.0.label>gole saudável</VBE_DrankKombuchaTea.stages.0.label>
+            <VBE_DrankKombuchaTea.stages.0.description>Uma saborosa xícara de kombuchá por dia mantém a medicina distante.</VBE_DrankKombuchaTea.stages.0.description>
+
+        <!-- Latte Coffee -->
+            <VBE_LatteCoffeeHigh.stages.0.label>alto, escuro e refinado</VBE_LatteCoffeeHigh.stages.0.label>
+            <VBE_LatteCoffeeHigh.stages.0.description>Aquele café com leite atingiu o ponto, agora vamos trabalhar um pouco.</VBE_LatteCoffeeHigh.stages.0.description>
+
+        <!-- Yuenyeung -->
+            <VBE_YuenYeungHigh.stages.0.label>sabor original</VBE_YuenYeungHigh.stages.0.label>
+            <VBE_YuenYeungHigh.stages.0.description>Como o café... também, como o chá.</VBE_YuenYeungHigh.stages.0.description>
+
+        <!-- Mint -->
+            <VCE_ConsumedMintLeaves.stages.0.label>consumiu hortelã</VCE_ConsumedMintLeaves.stages.0.label>
+            <VCE_ConsumedMintLeaves.stages.0.description>Hálito fresco!</VCE_ConsumedMintLeaves.stages.0.description>
+
+        <!-- Mint Coffee -->
+            <VBE_MintCoffeeHigh.stages.0.label>despertar fresco</VBE_MintCoffeeHigh.stages.0.label>
+            <VBE_MintCoffeeHigh.stages.0.description>Aquele café com hortelã atingiu o ponto, agora vamos trabalhar um pouco.</VBE_MintCoffeeHigh.stages.0.description>
+
+        <!-- Dalgona Coffee -->
+            <VBE_DalgonaCoffeeHigh.stages.0.label>despertar açúcarado</VBE_DalgonaCoffeeHigh.stages.0.label>
+            <VBE_DalgonaCoffeeHigh.stages.0.description>Aquele café dalgona atingiu o ponto, agora vamos trabalhar um pouco.</VBE_DalgonaCoffeeHigh.stages.0.description>
+
+        <!-- Mint Tea -->
+            <VBE_DrankMintTea.stages.0.label>chá refrescante</VBE_DrankMintTea.stages.0.label>
+            <VBE_DrankMintTea.stages.0.description>Uma xícara de chá de hortelã deliciosamente fresca realmente ilumina o dia.</VBE_DrankMintTea.stages.0.description>
+
+        <!-- Masala Chai -->
+            <VBE_DrankMasalaChai.stages.0.label>fantasiou um chá picante</VBE_DrankMasalaChai.stages.0.label>
+            <VBE_DrankMasalaChai.stages.0.description>Uma xícara deliciosamente complexa de masala chai picante realmente ilumina o dia.</VBE_DrankMasalaChai.stages.0.description>
+
+        <!-- Noon Chai -->
+            <VBE_DrankNoonChai.stages.0.label>fantasiou um chá salgado</VBE_DrankNoonChai.stages.0.label>
+            <VBE_DrankNoonChai.stages.0.description>Uma xícara deliciosa de noon chai realmente ilumina o dia.</VBE_DrankNoonChai.stages.0.description>
+
+        <!-- Espresso Romano -->
+            <VBE_LemonCoffeeHigh.stages.0.label>despertar cítrico</VBE_LemonCoffeeHigh.stages.0.label>
+            <VBE_LemonCoffeeHigh.stages.0.description>Aquele café com limão atingiu o ponto, agora vamos trabalhar.</VBE_LemonCoffeeHigh.stages.0.description>
+
+        <!-- Lemon Tea -->
+            <VBE_DrankLemonTea.stages.0.label>chá saudável</VBE_DrankLemonTea.stages.0.label>
+            <VBE_DrankLemonTea.stages.0.description>Uma saborosa xícara de chá de limão por dia mantém a medicina distante!</VBE_DrankLemonTea.stages.0.description>
+
+        <!-- Earl Grey Tea -->
+            <VBE_DrankEarlGreyTea.stages.0.label>chá quente</VBE_DrankEarlGreyTea.stages.0.label>
+            <VBE_DrankEarlGreyTea.stages.0.description>Faça ser assim.</VBE_DrankEarlGreyTea.stages.0.description>
+
     <!-- Vanilla Cooking Expanded -->
         <!-- Sugar -->
             <VCE_ConsumedSugar.stages.0.label>consumiu açúcar</VCE_ConsumedSugar.stages.0.label>

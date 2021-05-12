@@ -6,6 +6,7 @@
 	<packageId>KIT.PortuguesePack</packageId>
     <loadAfter>
 		<li>Ludeon.RimWorld</li>
+		<li>roolo.RunAndGun</li>
 	</loadAfter>
 	<description>
 
@@ -85,7 +86,8 @@ Supported Mods:
 - Vanilla Animals Expanded - Tundra
 - Vanilla Armour Expanded
 - Vanilla Books Expanded
-- Vanilal Brewing Expanded
+- Vanilla Brewing Expanded
+- Vanilla Brewing Expanded - Coffees and Teas
 - Vanilla Cooking Expanded
 - Vanilla Cooking Expanded - Stews
 - Vanilla Cooking Expanded - Sushi

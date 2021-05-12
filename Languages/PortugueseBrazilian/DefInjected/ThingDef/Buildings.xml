@@ -313,6 +313,11 @@
             <VBE_GinStill.label>destilaria de gim</VBE_GinStill.label>
             <VBE_GinStill.description>Um dispositivo de destilação industrial totalmente metálico, destinado a purificar e fermentar o gim em uma forma potável. O design metálico transmite o envelhecimento em uma ampla gama de temperaturas e condições.</VBE_GinStill.description>
 
+    <!-- Vanilla Brewing Expanded - Coffees and Teas -->
+        <!-- Espresso Machine -->
+            <VBE_EspressoMachineBuilding.label>máquina de espresso</VBE_EspressoMachineBuilding.label>
+            <VBE_EspressoMachineBuilding.description>Uma máquina de expresso que prepara o café forçando a água pressurizada perto do ponto de ebulição através de um "disco" moído e um filtro para produzir um café espesso e concentrado chamado expresso. Esta máquina particular também tem a possibilidade de preparar chá usando um sistema separado.</VBE_EspressoMachineBuilding.description>
+
     <!-- Vanilla Cooking Expanded -->
         <!-- Eletric Pot -->
             <VCE_ElectricPot.label>panela elétrica</VCE_ElectricPot.label>

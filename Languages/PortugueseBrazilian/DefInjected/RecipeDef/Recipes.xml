@@ -808,6 +808,100 @@
             <VBE_MakeUnfermentedCider.description>Faça sidra não fermentada em uma garrafa hermética. Se deixado sozinho para desenvolver as bactérias adequadas, o resultado final será uma bebida alcoólica fraca.</VBE_MakeUnfermentedCider.description>
             <VBE_MakeUnfermentedCider.jobString>Fazendo sidra.</VBE_MakeUnfermentedCider.jobString>
 
+    <!-- Vanilla Brewing Expanded - Coffees and Teas -->
+        <!-- Coffee -->
+            <VBE_MakeCoffeeFast.label>preparar café espresso</VBE_MakeCoffeeFast.label>
+            <VBE_MakeCoffeeFast.description>Faça uma bebida quente e amarga, geralmente complementada com leite e açúcar. Um favorito entre estudantes e funcionários de escritório em toda a galáxia devido ao alto teor de cafeína e aroma agradável. Preparar café em uma máquina de expresso é muito mais rápido.</VBE_MakeCoffeeFast.description>
+            <VBE_MakeCoffeeFast.jobString>Preparando café.</VBE_MakeCoffeeFast.jobString>
+            <VBE_ReheatCoffee.label>reaquecer café gelado</VBE_ReheatCoffee.label>
+            <VBE_ReheatCoffee.description>Esta máquina de expresso tem uma pequena grelha embutida para reaquecer o café gelado.</VBE_ReheatCoffee.description>
+            <VBE_ReheatCoffee.jobString>Reaquecendo café gelado.</VBE_ReheatCoffee.jobString>
+
+        <!-- Latte Coffee -->
+            <VBE_BrewLatteCoffee.label>preparar café com leite</VBE_BrewLatteCoffee.label>
+            <VBE_BrewLatteCoffee.description>Prepare um expresso potente misturado com leite fresco para ajudar a aliviar o amargor antes de servir e servir. O café com leite tem a reputação de ser especialmente destinado a indivíduos “sofisticados”.</VBE_BrewLatteCoffee.description>
+            <VBE_BrewLatteCoffee.jobString>Preparando café com leite.</VBE_BrewLatteCoffee.jobString>
+
+        <!-- Mocha Coffee -->
+            <VBE_BrewMochaCoffee.label>preparar moca</VBE_BrewMochaCoffee.label>
+            <VBE_BrewMochaCoffee.description>Prepare um café misturado com chocolate doce e luxuoso. Aqueles de persuasão esnobe diriam que o moca é mais uma sobremesa do que uma bebida de café de verdade.</VBE_BrewMochaCoffee.description>
+            <VBE_BrewMochaCoffee.jobString>Preparando moca.</VBE_BrewMochaCoffee.jobString>
+
+        <!-- Irish Coffee -->
+            <VBE_BrewIrishCoffee.label>preparar café irlandês</VBE_BrewIrishCoffee.label>
+            <VBE_BrewIrishCoffee.description>Prepare uma bebida à base de uísque e café bem misturados. Perfeito para quem acabou de sair da cama e já está com vontade de voltar a dormir.</VBE_BrewIrishCoffee.description>
+            <VBE_BrewIrishCoffee.jobString>Preparando café irlandês.</VBE_BrewIrishCoffee.jobString>
+
+        <!-- Cannibal Coffee -->
+            <VBE_BrewCannibalCoffee.label>preparar café canibal</VBE_BrewCannibalCoffee.label>
+            <VBE_BrewCannibalCoffee.description>Prepare uma bebida... para um... consumidor refinado.</VBE_BrewCannibalCoffee.description>
+            <VBE_BrewCannibalCoffee.jobString>Preparando café canibal.</VBE_BrewCannibalCoffee.jobString>
+
+        <!-- Tea -->
+            <VBE_MakeTeaFast.label>preparar chá</VBE_MakeTeaFast.label>
+            <VBE_MakeTeaFast.description>Faça uma bebida agradável e aromática, preparada colocando um saquinho de folhas de chá em água fervente. A preparação do chá nesta máquina de expresso é muito mais rápida.</VBE_MakeTeaFast.description>
+            <VBE_MakeTeaFast.jobString>Preparando chá.</VBE_MakeTeaFast.jobString>
+
+        <!-- Black Tea -->
+            <VBE_MakeBlackTea.label>preparar chá preto</VBE_MakeBlackTea.label>
+            <VBE_MakeBlackTea.description>Faça um chá particularmente amargo com leite cremoso, desperta e relaxa a mente.</VBE_MakeBlackTea.description>
+            <VBE_MakeBlackTea.jobString>Preparando chá preto.</VBE_MakeBlackTea.jobString>
+
+        <!-- Yuenyeung -->
+            <VBE_MakeYuenYeung.label>preparar yuenyeung</VBE_MakeYuenYeung.label>
+            <VBE_MakeYuenYeung.description>Faça uma mistura de café e chá. Quer seja servido quente ou frio, é igualmente confuso.</VBE_MakeYuenYeung.description>
+            <VBE_MakeYuenYeung.jobString>Preparando yuenyeung.</VBE_MakeYuenYeung.jobString>
+
+        <!-- Kombucha Tea -->
+            <VBE_MakeKombucha.label>preparar kombuchá</VBE_MakeKombucha.label>
+            <VBE_MakeKombucha.description>Faça um chá açucarado deixado para fermentar, um doce e azedo, às vezes até uma bebida naturalmente gasosa conhecida como kombuchá. Elogiado pelos benefícios à saúde, embora alguns continuem céticos.</VBE_MakeKombucha.description>
+            <VBE_MakeKombucha.jobString>Preparando kombuchá.</VBE_MakeKombucha.jobString>
+
+        <!-- Mint Coffee -->
+            <VBE_BrewMintCoffee.label>preparar café com hortelã</VBE_BrewMintCoffee.label>
+            <VBE_BrewMintCoffee.description>Faça um expresso amargo misturado com creme ou leite, depois misturado com óleo de menta e guarnecido. O café fresco e aveludado dá lugar a um sabor ainda mais fresco e calmante, sem falar no hálito com um ótimo cheiro.</VBE_BrewMintCoffee.description>
+            <VBE_BrewMintCoffee.jobString>Preparando café com hortelã.</VBE_BrewMintCoffee.jobString>
+
+        <!-- Dalgona Coffee -->
+            <VBE_BrewDalgonaCoffee.label>preparar café dalgona</VBE_BrewDalgonaCoffee.label>
+            <VBE_BrewDalgonaCoffee.description>Prepare uma bebida da moda e mais recente no mundo do café, que dizem ser originário de mundos distantes. Os grânulos de café são rapidamente misturados com açúcar para formar uma espuma espessa e luxuosamente doce. Em seguida, a espuma é espalhada sobre o leite resfriado antes de ser bebido.</VBE_BrewDalgonaCoffee.description>
+            <VBE_BrewDalgonaCoffee.jobString>Preparando café dalgona.</VBE_BrewDalgonaCoffee.jobString>
+
+        <!-- Green Tea -->
+            <VBE_MakeGreenTea.label>preparar chá verde</VBE_MakeGreenTea.label>
+            <VBE_MakeGreenTea.description>Faça um chá verde leve e cítrico enriquecido com açúcar para criar um sabor amanteigado, quase de nozes.</VBE_MakeGreenTea.description>
+            <VBE_MakeGreenTea.jobString>Preparando chá verde.</VBE_MakeGreenTea.jobString>
+
+        <!-- Mint Tea -->
+            <VBE_MakeMintTea.label>preparar chá de hortelã</VBE_MakeMintTea.label>
+            <VBE_MakeMintTea.description>Faça folhas de chá preto misturadas com folhas de hortelã e profundamente embebidas, a seguir guarnecidas com folhas de hortelã adicionais. Deixa seu hálito surpreendentemente fresco.</VBE_MakeMintTea.description>
+            <VBE_MakeMintTea.jobString>Preparando chá de hortelã.</VBE_MakeMintTea.jobString>
+
+        <!-- Masala Chai -->
+            <VBE_MakeMasalaChai.label>preparar masala chai</VBE_MakeMasalaChai.label>
+            <VBE_MakeMasalaChai.description>Faça um chá mofado, quente, quase amadeirado, feito de folhas simples e especiarias complexas. Diz-se que é bom contra o colesterol alto.</VBE_MakeMasalaChai.description>
+            <VBE_MakeMasalaChai.jobString>Preparando masala chai.</VBE_MakeMasalaChai.jobString>
+
+        <!-- Noon Chai -->
+            <VBE_MakeNoonChai.label>preparar noon chai</VBE_MakeNoonChai.label>
+            <VBE_MakeNoonChai.description>Faça um antigo chá da caxemira misturando folhas de chá, uma pitada de sal e bicarbonato de sódio, o que resulta em uma bebida rosa marcante que é famosa por ser não apenas deliciosa, mas também saudável para o corpo. Muito eficaz no tratamento da hipertensão.</VBE_MakeNoonChai.description>
+            <VBE_MakeNoonChai.jobString>Preparando noon chai.</VBE_MakeNoonChai.jobString>
+
+        <!-- Espresso Romano -->
+            <VBE_BrewLemonCoffee.label>preparar espresso romano</VBE_BrewLemonCoffee.label>
+            <VBE_BrewLemonCoffee.description>Prepare um café já ácido decorado com uma fatia de limão. Um gosto peculiar com certeza, mas elogiado por aqueles que o preferem.</VBE_BrewLemonCoffee.description>
+            <VBE_BrewLemonCoffee.jobString>Preparando espresso romano.</VBE_BrewLemonCoffee.jobString>
+
+        <!-- Lemon Tea -->
+            <VBE_MakeLemonTea.label>preparar chá de limão</VBE_MakeLemonTea.label>
+            <VBE_MakeLemonTea.description>Faça um chá escuro cortado com água, resfriado e decorado com uma rodela de limão brilhante.</VBE_MakeLemonTea.description>
+            <VBE_MakeLemonTea.jobString>Preparando chá de limão.</VBE_MakeLemonTea.jobString>
+
+        <!-- Earl Grey Tea -->
+            <VBE_MakeEarlGreyTea.label>preparar earl grey</VBE_MakeEarlGreyTea.label>
+            <VBE_MakeEarlGreyTea.description>Faça um chá frutado bem forte e semidoce. Notas florais dançam em torno de uma paleta, mesmo com o cheiro mais opaco. As pessoas que terminam a bebida sentem-se estranhamente impelidas a colonizar.</VBE_MakeEarlGreyTea.description>
+            <VBE_MakeEarlGreyTea.jobString>Preparando earl grey.</VBE_MakeEarlGreyTea.jobString>
+
     <!-- Vanilla Cooking Expanded -->
         <!-- Simple Bake -->
             <VCE_CookBakeSimple.label>cozinhar assado simples x2</VCE_CookBakeSimple.label>

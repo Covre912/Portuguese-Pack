@@ -219,6 +219,15 @@
             <VBE_Plant_Tobacco.label>nicotiana</VBE_Plant_Tobacco.label>
             <VBE_Plant_Tobacco.description>Uma planta baixa e de folhas largas que se desenvolve em climas quentes. As folhas do tabaco podem ser secas com bastante facilidade para serem enroladas e fumadas, proporcionando um leve efeito estimulante.</VBE_Plant_Tobacco.description>
 
+    <!-- Vanilla Brewing Expanded - Coffees and Teas -->
+        <!-- Mint Plant -->
+            <VBE_MintPlant.label>menta</VBE_MintPlant.label>
+            <VBE_MintPlant.description>Uma planta germinando em uma variedade de folhas. As folhas de hortelã são famosas por seu efeito refrescante na boca, bem como pela facilidade de infiltrar em uma variedade de chás ou guarnecer delicadamente um prato. Floresce dentro de casa e em vasos, sendo agradável de olhar.</VBE_MintPlant.description>
+
+        <!-- Lemon Tree -->
+            <VBE_LemonTree.label>limoeiro</VBE_LemonTree.label>
+            <VBE_LemonTree.description>Uma árvore alta nativa de desertos e trópicos. Limões brilhantes e azedos crescem abundantemente nesta árvore, alguns podem até amadurecer cedo e cair no chão antes que a colheita esteja pronta.</VBE_LemonTree.description>
+
     <!-- Vanilla Cooking Expanded -->
         <!-- Sugarcane Plant -->
             <VCE_Sugarcane.label>cana-de-açúcar</VCE_Sugarcane.label>

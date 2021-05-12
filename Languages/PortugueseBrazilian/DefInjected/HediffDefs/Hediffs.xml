@@ -72,7 +72,7 @@
             <TM_FluTeaEffect.stages.1.label>iminente</TM_FluTeaEffect.stages.1.label>
 
         <!-- Immunity Tea Effect -->
-            <TM_ImmunityTeaEffect.label>sob efeito de chá preto</TM_ImmunityTeaEffect.label>
+            <TM_ImmunityTeaEffect.label>sob efeito de chá sinistro</TM_ImmunityTeaEffect.label>
             <TM_ImmunityTeaEffect.description>Aumenta a velocidade de ganho de imunidade.</TM_ImmunityTeaEffect.description>
             <TM_ImmunityTeaEffect.stages.0.label>menor</TM_ImmunityTeaEffect.stages.0.label>
             <TM_ImmunityTeaEffect.stages.1.label>maior</TM_ImmunityTeaEffect.stages.1.label>
@@ -481,6 +481,64 @@
         <!-- Cider -->
             <VBE_CiderHigh.label>bêbado de sidra</VBE_CiderHigh.label>
             <VBE_CiderHigh.description>Álcool de cidra na corrente sanguínea. Faz as pessoas felizes, mas reduzcapacidades. Não pode causar dependência de álcool.</VBE_CiderHigh.description>
+
+    <!-- Vanilla Brewing Expanded - Coffees and Teas -->
+        <!-- Black Tea -->
+            <VBE_DrankBlackTea.label>bebeu chá preto</VBE_DrankBlackTea.label>
+            <VBE_DrankBlackTea.description>Os taninos encontrados naturalmente no chá, uma vez metabolizados, aumentam os estímulos no sistema nervoso, suprimindo a vontade de dormir, além de estimular o sistema imunológico. Aumenta a velocidade de ganho de imunidade em 20% e fornece redução de 15% na taxa de queda em repouso por 5 horas.</VBE_DrankBlackTea.description>
+
+        <!-- Irish Coffee -->
+            <VBE_IrishCoffeeHigh.label>bêbado de café irlandês</VBE_IrishCoffeeHigh.label>
+            <VBE_IrishCoffeeHigh.description>A cafeína encontrada naturalmente no café, uma vez metabolizada, aumenta os estímulos no sistema nervoso, suprimindo a vontade de dormir e também limpando a mente. Aumenta a velocidade de aprendizagem em 16%, reduz em 16% a taxa de queda em repouso e aumenta a velocidade de trabalho global em 16%.</VBE_IrishCoffeeHigh.description>
+
+        <!-- Kombucha Tea -->
+            <VBE_DrankKombuchaTea.label>bebeu kombuchá</VBE_DrankKombuchaTea.label>
+            <VBE_DrankKombuchaTea.description>Os taninos encontrados naturalmente no chá, uma vez metabolizados, aumentam os estímulos no sistema nervoso, suprimindo a vontade de dormir, além de estimular o sistema imunológico. Aumenta a velocidade de ganho de imunidade em 15%, fornece redução de 10% na taxa de queda em repouso por 5 horas e reduz os efeitos da diabetes, se presente.</VBE_DrankKombuchaTea.description>
+
+        <!-- Latte Coffee -->
+            <VBE_LatteCoffeeHigh.label>bebeu café com leite</VBE_LatteCoffeeHigh.label>
+            <VBE_LatteCoffeeHigh.description>A cafeína encontrada naturalmente no café, uma vez metabolizada, aumenta os estímulos no sistema nervoso, suprimindo a vontade de dormir e também limpando a mente. Aumenta a velocidade de aprendizagem em 18% e reduz em 18% a taxa de queda em repouso.</VBE_LatteCoffeeHigh.description>
+
+        <!-- Yuenyeung -->
+            <VBE_YuenYeungHigh.label>bebeu yuenyeung</VBE_YuenYeungHigh.label>
+            <VBE_YuenYeungHigh.labelNoun>uma ingestão de yuenyeung</VBE_YuenYeungHigh.labelNoun>
+            <VBE_YuenYeungHigh.description>A cafeína encontrada naturalmente no café, uma vez metabolizada, aumenta os estímulos no sistema nervoso, suprimindo a vontade de dormir e também limpando a mente. Aumenta a velocidade de aprendizagem em 15%, reduz em 13% a taxa de queda em repouso e aumenta a velocidade de ganho de imunidade em 15%.</VBE_YuenYeungHigh.description>
+
+        <!-- Mint -->
+            <VCE_ConsumedMintLeaves.label>consumiu hortelã (de refeição)</VCE_ConsumedMintLeaves.label>
+            <VCE_ConsumedMintLeaves.description>Consumiu algumas folhas de hortelã. O hálito fresco aumenta o impacto social em 10%.</VCE_ConsumedMintLeaves.description>
+
+        <!-- Mint Coffee -->
+            <VBE_MintCoffeeHigh.label>bebeu café com hortelã</VBE_MintCoffeeHigh.label>
+            <VBE_MintCoffeeHigh.description>A cafeína encontrada naturalmente no café, uma vez metabolizada, aumenta os estímulos no sistema nervoso, suprimindo a vontade de dormir e também limpando a mente. Aumenta a velocidade de aprendizagem em 15%, reduz em 15% a taxa de queda em repouso e aumenta em 10% o impacto social.</VBE_MintCoffeeHigh.description>
+
+        <!-- Dalgona Coffee -->
+            <VBE_DalgonaCoffeeHigh.label>bebeu café dalgona</VBE_DalgonaCoffeeHigh.label>
+            <VBE_DalgonaCoffeeHigh.description>A cafeína encontrada naturalmente no café, uma vez metabolizada, aumenta os estímulos no sistema nervoso, suprimindo a vontade de dormir e também limpando a mente. Aumenta a velocidade de aprendizagem em 15% e reduz em 15% a taxa de queda em repouso e fornece um bônus de velocidade de pesquisa de 10%.</VBE_DalgonaCoffeeHigh.description>
+
+        <!-- Mint Tea -->
+            <VBE_DrankMintTea.label>bebeu chá de hortelã</VBE_DrankMintTea.label>
+            <VBE_DrankMintTea.description>Os taninos encontrados naturalmente no chá, uma vez metabolizados, aumentam os estímulos no sistema nervoso, suprimindo a vontade de dormir, além de estimular o sistema imunológico. Aumenta a velocidade de ganho de imunidade em 15%, fornece redução de 10% na taxa de queda em repouso e aumenta o impacto social em 10% por 5 horas.</VBE_DrankMintTea.description>
+
+        <!-- Masala Chai -->
+            <VBE_DrankMasalaChai.label>bebeu masala chai</VBE_DrankMasalaChai.label>
+            <VBE_DrankMasalaChai.description>Os taninos encontrados naturalmente no chá, uma vez metabolizados, aumentam os estímulos no sistema nervoso, suprimindo a vontade de dormir, além de estimular o sistema imunológico. Aumenta a velocidade de ganho de imunidade em 15%, fornece redução de 10% na taxa de queda em repouso por 5 horas e reduz os efeitos de colesterol, se presente.</VBE_DrankMasalaChai.description>
+
+        <!-- Noon Chai -->
+            <VBE_DrankNoonChai.label>bebeu noon chai</VBE_DrankNoonChai.label>
+            <VBE_DrankNoonChai.description>Os taninos encontrados naturalmente no chá, uma vez metabolizados, aumentam os estímulos no sistema nervoso, suprimindo a vontade de dormir, além de estimular o sistema imunológico. Aumenta a velocidade de ganho de imunidade em 15%, fornece redução de 10% na taxa de queda em repouso por 5 horas e reduz os efeitos da pressão alta, se presente.</VBE_DrankNoonChai.description>
+
+        <!-- Espresso Romano -->
+            <VBE_LemonCoffeeHigh.label>bebeu espresso romano</VBE_LemonCoffeeHigh.label>
+            <VBE_LemonCoffeeHigh.description>A cafeína encontrada naturalmente no café, uma vez metabolizada, aumenta os estímulos no sistema nervoso, suprimindo a vontade de dormir e também limpando a mente. Aumenta a velocidade de aprendizagem em 15%, reduz em 15% a taxa de queda em repouso e atua como um remédio contra os vermes intestinais, aumentando a qualidade do atendimento a cada café ingerido.</VBE_LemonCoffeeHigh.description>
+
+        <!-- Lemon Tea -->
+            <VBE_DrankLemonTea.label>bebeu chá de limão</VBE_DrankLemonTea.label>
+            <VBE_DrankLemonTea.description>Os taninos encontrados naturalmente no chá, uma vez metabolizados, aumentam os estímulos no sistema nervoso, suprimindo a vontade de dormir, além de estimular o sistema imunológico. Aumenta a velocidade de ganho de imunidade em 15%, fornece redução de 10% na taxa de queda em repouso por 5 horas e atua como um remédio contra os vermes intestinais, aumentando a qualidade do atendimento a cada chá ingerido.</VBE_DrankLemonTea.description>
+
+        <!-- Earl Grey Tea -->
+            <VBE_DrankEarlGreyTea.label>bebeu earl grey</VBE_DrankEarlGreyTea.label>
+            <VBE_DrankEarlGreyTea.description>Os taninos encontrados naturalmente no chá, uma vez metabolizados, aumentam os estímulos no sistema nervoso, suprimindo a vontade de dormir, além de estimular o sistema imunológico. Aumenta a velocidade de ganho de imunidade em 15%, fornece redução de 10% na taxa de queda em repouso e fornece um bônus de velocidade de pesquisa de 10% por 5 horas.</VBE_DrankEarlGreyTea.description>
 
     <!-- Vanilla Cooking Expanded -->
         <!-- Mayo -->

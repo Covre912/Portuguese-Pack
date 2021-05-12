@@ -90,6 +90,12 @@
             <VBE_DoBillsBar.verb>misturar bebidas</VBE_DoBillsBar.verb>
             <VBE_DoBillsBar.gerund>misturando bebidas em</VBE_DoBillsBar.gerund>
 
+    <!-- Vanilla Brewing Expanded - Coffees and Teas -->
+        <!-- Brew -->
+            <VBE_DoBillsEspressoMachine.label>fermentar na máquina de espresso</VBE_DoBillsEspressoMachine.label>
+            <VBE_DoBillsEspressoMachine.verb>fermentar</VBE_DoBillsEspressoMachine.verb>
+            <VBE_DoBillsEspressoMachine.gerund>fermentando em</VBE_DoBillsEspressoMachine.gerund>
+
     <!-- Vanilla Cooking Expanded -->
         <!-- Grill -->
             <VCE_DoBillsGrill.label>cozinhar em grelha</VCE_DoBillsGrill.label>
