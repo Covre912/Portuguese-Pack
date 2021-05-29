@@ -4,4 +4,7 @@
     <!-- [HLX] ReGrowth - Core -->
         <RG_Lava.label>lava</RG_Lava.label>
 
+    <!-- Moats -->  
+        <MTS_Moatable.label>escavável</MTS_Moatable.label>
+
 </LanguageData>

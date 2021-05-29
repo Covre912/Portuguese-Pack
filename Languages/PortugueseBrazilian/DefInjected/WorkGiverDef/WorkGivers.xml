@@ -72,6 +72,17 @@
             <VMEu_DoBillsOilDistiller.verb>destilar</VMEu_DoBillsOilDistiller.verb>
             <VMEu_DoBillsOilDistiller.gerund>destilando em</VMEu_DoBillsOilDistiller.gerund>
 
+    <!-- Moats -->
+        <!-- Dig Terrain -->
+            <ConstructDigTerrain.label>escavar terreno</ConstructDigTerrain.label>
+            <ConstructDigTerrain.verb>escavar</ConstructDigTerrain.verb>
+            <ConstructDigTerrain.gerund>escavando</ConstructDigTerrain.gerund>
+
+        <!-- Fill Terrain -->
+            <ConstructFillTerrain.label>preencher terreno</ConstructFillTerrain.label>
+            <ConstructFillTerrain.verb>preencher</ConstructFillTerrain.verb>
+            <ConstructFillTerrain.gerund>preenchendo</ConstructFillTerrain.gerund>
+
     <!-- Rim-Effect: Core -->
         <!-- Prefabricate -->
             <RE_DoBillsManufacturingBench.label>prefabricar coisas</RE_DoBillsManufacturingBench.label>

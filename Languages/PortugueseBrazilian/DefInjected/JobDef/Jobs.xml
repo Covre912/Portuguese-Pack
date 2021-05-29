@@ -16,6 +16,10 @@
     <!-- Dress Patients -->
         <DressPatient.reportString>vestindo TargetA.</DressPatient.reportString>
 
+    <!-- Moats -->
+        <MTS_DigTerrain.reportString>escavando terreno.</MTS_DigTerrain.reportString>
+        <MTS_FillTerrain.reportString>preenchendo terreno.</MTS_FillTerrain.reportString>
+
     <!-- Race to the Rim -->
         <RttR_IngestWeird.reportString>consumindo TargetA.</RttR_IngestWeird.reportString>
 
