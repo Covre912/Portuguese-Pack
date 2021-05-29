@@ -3424,11 +3424,17 @@
 	        <VCEF_dropFish>Pescadores deixam os peixes no chão ao invés de levá-los aos estoques</VCEF_dropFish>
 
     <!-- Vanilla Plants Expanded -->
-        <!-- Various -->
-            <VCE_PlumsDrying>Ameixas secando</VCE_PlumsDrying>
-            <VCE_PlumsCurrentlyFrozen>Essas ameixas estão congeladas e virarão ameixas secas</VCE_PlumsCurrentlyFrozen>
-            <VCE_PlumsCurrentlyRefrigerated>Essas ameixas essão refrigeradas e não secarão tão rápido quanto poderiam (secam em {0})</VCE_PlumsCurrentlyRefrigerated>
-            <VCE_PlumsDryingCorrectly>Estas ameixas estão secando corretamente (secam em {0})</VCE_PlumsDryingCorrectly>
+        <VCE_PlumsDrying>Ameixas secando</VCE_PlumsDrying>
+        <VCE_PlumsCurrentlyFrozen>Essas ameixas estão congeladas e virarão ameixas secas</VCE_PlumsCurrentlyFrozen>
+        <VCE_PlumsCurrentlyRefrigerated>Essas ameixas essão refrigeradas e não secarão tão rápido quanto poderiam (secam em {0})</VCE_PlumsCurrentlyRefrigerated>
+        <VCE_PlumsDryingCorrectly>Estas ameixas estão secando corretamente (secam em {0})</VCE_PlumsDryingCorrectly>
+
+    <!-- Vanilla Plants Expanded - Auto Plow Patch -->
+        <VPE_AutoPlow.ModName>Vanilla Plants Expanded - Auto Plow</VPE_AutoPlow.ModName>
+        <VPE_AutoPlow.RemovalLabel>Marcar para remoção</VPE_AutoPlow.RemovalLabel>
+        <VPE_AutoPlow.RemovalTooltip>Marque o mod para remoção. Carregue seu jogo salvo com esta configuração ativada para remover com segurança o mod do seu save.</VPE_AutoPlow.RemovalTooltip>
+        <VPE_AutoPlow.allowAutoPlow>Permitir aragem automática</VPE_AutoPlow.allowAutoPlow>
+        <VPE_AutoPlow.allowAutoPlowDesc>Permita aragem automática após a colheita.</VPE_AutoPlow.allowAutoPlowDesc>
 
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Aspirations -->
