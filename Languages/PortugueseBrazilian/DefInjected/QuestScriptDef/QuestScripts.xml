@@ -10,6 +10,125 @@
                 <li>questDescription-></li>
             </CityQuest.questDescriptionRules.rulesStrings>
 
+    <!-- RimEffect: Core -->
+        <!-- Colony Growth -->
+            <RE_ColonyGrowth.questNameRules.rulesStrings>
+                <li>questName->A [expansion] [size]</li>
+				<li>questName->[expansion] [size]</li>
+				<li>questName->[asker_nameDef] e a [expansion]</li>
+				<li>expansion->Expansão</li>
+				<li>expansion->Extensão</li>
+				<li>size->Grande</li>
+				<li>size->Ampla</li>
+				<li>size->Enorme</li>
+				<li>size->Pequena</li>
+				<li>size->Excelente</li>
+				<li>size->Tremenda</li>
+				<li>size->Grandiosa</li>
+				<li>size->Massiva</li>
+            </RE_ColonyGrowth.questNameRules.rulesStrings>
+            <RE_ColonyGrowth.questDescriptionRules.rulesStrings>
+                <li>questDescription->O alto comando de [asker_faction_name] analisou a situação em [map_definite] e decidiu entrar em contato com você com uma oportunidade de expansão. Eles gostariam de realocar [numberPawns] colonos para sua colônia, mas precisam ter certeza de que você pode apoiá-los.\n\n[asker_faction_name] solicita que você construa quartos adicionais em [map_definite].\nEm troca, os seguintes colonos se juntarão a você:\n\n[personalData]\n\Quantidade de quartos que precisam ser construídos:\n[roomsToBeBuild]\nOs quartos devem ser construídos pelo menos em tamanho [minRoomSizeInfo]. Você tem apenas [questTimeOut_duration] para concluir este pedido.\n</li>
+            </RE_ColonyGrowth.questDescriptionRules.rulesStrings>
+            <RE_ColonyGrowth.root.nodes.11.node.nodes.1.label>Missão concluída: [resolvedQuestName]</RE_ColonyGrowth.root.nodes.11.node.nodes.1.label>
+            <RE_ColonyGrowth.root.nodes.11.node.nodes.1.text>Missão concluída.</RE_ColonyGrowth.root.nodes.11.node.nodes.1.text>
+            <RE_ColonyGrowth.root.nodes.12.node.nodes.0.label>A missão expirou: [resolvedQuestName]</RE_ColonyGrowth.root.nodes.12.node.nodes.0.label>
+            <RE_ColonyGrowth.root.nodes.12.node.nodes.0.text>A missão de crescimento da colônia expirou. A missão [resolvedQuestName] falhou.</RE_ColonyGrowth.root.nodes.12.node.nodes.0.text>
+
+        <!-- Rescue Hostages -->
+            <RE_RescueHostages.questNameRules.rulesStrings>
+                <li>questName->[hostages] em necessidade</li>
+                <li>questName->[hostages] [adjective]</li>
+                <li>questName->[hostages] em perigo</li>
+                <li>hostages->Reféns</li>
+                <li>hostages->Cativos</li>
+                <li>adjective->Miseráveis</li>
+                <li>adjective->Desperados</li>
+                <li>adjective->Assustados</li>
+            </RE_RescueHostages.questNameRules.rulesStrings>
+            <RE_RescueHostages.questDescriptionRules.rulesStrings>
+                <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], diz que seus colonos estão sendo mantidos como reféns perto de [map_definite].\n\n[asker_nameDef] não tem ninguém para resgatá-los, mas diz que se você conseguir chegar até a posição deles e isso o fizer, além de matar os captores, será recompensado.\n\n[asker_nameDef] diz que os reféns estão sendo mantidos por [siteFaction_pawnsPlural] de [siteFaction_name].</li>
+            </RE_RescueHostages.questDescriptionRules.rulesStrings>
+            <RE_RescueHostages.root.nodes.12.node.nodes.0.label>A missão expirou: [resolvedQuestName]</RE_RescueHostages.root.nodes.12.node.nodes.0.label>
+            <RE_RescueHostages.root.nodes.12.node.nodes.0.text>O acampamento com reféns foi desarmado e seguiu viagem. A missão [resolvedQuestName] expirou.</RE_RescueHostages.root.nodes.12.node.nodes.0.text>
+            <RE_RescueHostages.root.nodes.13.node.nodes.0.label>A missão falhou: [resolvedQuestName]</RE_RescueHostages.root.nodes.13.node.nodes.0.label>
+            <RE_RescueHostages.root.nodes.13.node.nodes.0.text>Depois de ser descoberto, o acampamento de reféns se dispersou. A missão [resolvedQuestName] terminou.</RE_RescueHostages.root.nodes.13.node.nodes.0.text>
+            <RE_RescueHostages.root.nodes.14.node.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</RE_RescueHostages.root.nodes.14.node.nodeIfChosenPawnSignalUsed.label>
+            <RE_RescueHostages.root.nodes.14.node.nodeIfChosenPawnSignalUsed.text>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</RE_RescueHostages.root.nodes.14.node.nodeIfChosenPawnSignalUsed.text>
+
+        <!-- Kodiak Shuttle Crash -->
+            <RE_LodiakShuttleCrash1.questNameRules.rulesStrings>
+                <li>questName->Transporte [adjective]</li>
+                <li>adjective->Quebrado</li>
+                <li>adjective->Colapsado</li>
+                <li>adjective->Caído</li>
+                <li>adjective->Defeituoso</li>
+            </RE_LodiakShuttleCrash1.questNameRules.rulesStrings>
+            <RE_LodiakShuttleCrash1.questDescriptionRules.rulesStrings>
+                <li>questDescription->O alto comando de [asker_faction_name] perdeu contato com um de seus transportes Kodiak realizando uma missão de reconhecimento de rotina perto de [map_definite]. Eles estão particularmente interessados ​​nos dados da caixa preta da espaçonave, que serão carregados automaticamente assim que você entrar no alcance.\n[asker_faction_name] não tem colonos que possa dispensar para iniciar uma operação de resgate. Como tal, se houver sobreviventes, eles podem escolher livremente retornar com você para [map_definite].\n\nA queda pode ter atraído a atenção de hostis.</li>
+            </RE_LodiakShuttleCrash1.questDescriptionRules.rulesStrings>
+            <RE_LodiakShuttleCrash1.root.nodes.10.node.nodes.0.label>Missão concluída: [resolvedQuestName]</RE_LodiakShuttleCrash1.root.nodes.10.node.nodes.0.label>
+            <RE_LodiakShuttleCrash1.root.nodes.10.node.nodes.0.text>Você chegou ao local do acidente do transporte.</RE_LodiakShuttleCrash1.root.nodes.10.node.nodes.0.text>
+            <RE_LodiakShuttleCrash1.root.nodes.11.node.nodes.0.label>A missão expirou: [resolvedQuestName]</RE_LodiakShuttleCrash1.root.nodes.11.node.nodes.0.label>
+            <RE_LodiakShuttleCrash1.root.nodes.11.node.nodes.0.text>A espaçonave foi encontrada por outros. A missão [resolvedQuestName] expirou.</RE_LodiakShuttleCrash1.root.nodes.11.node.nodes.0.text>
+            <RE_LodiakShuttleCrash2.questNameRules.rulesStrings>
+                <li>questName->Transporte [adjective]</li>
+                <li>adjective->Quebrado</li>
+                <li>adjective->Colapsado</li>
+                <li>adjective->Caído</li>
+                <li>adjective->Defeituoso</li>
+            </RE_LodiakShuttleCrash2.questNameRules.rulesStrings>
+            <RE_LodiakShuttleCrash2.questDescriptionRules.rulesStrings>
+                <li>questDescription->O alto comando de [asker_faction_name] perdeu contato com um de seus transportes Kodiak realizando uma missão de reconhecimento de rotina perto de [map_definite]. Eles estão particularmente interessados ​​nos dados da caixa preta da espaçonave, que serão carregados automaticamente assim que você entrar no alcance.\n[asker_faction_name] não tem colonos que possa dispensar para iniciar uma operação de resgate. Como tal, se houver sobreviventes, eles podem escolher livremente retornar com você para [map_definite].\n\nA queda pode ter atraído a atenção de hostis.</li>
+            </RE_LodiakShuttleCrash2.questDescriptionRules.rulesStrings>
+            <RE_LodiakShuttleCrash2.root.nodes.10.node.nodes.0.label>Missão concluída: [resolvedQuestName]</RE_LodiakShuttleCrash2.root.nodes.10.node.nodes.0.label>
+            <RE_LodiakShuttleCrash2.root.nodes.10.node.nodes.0.text>Você chegou ao local do acidente do transporte.</RE_LodiakShuttleCrash2.root.nodes.10.node.nodes.0.text>
+            <RE_LodiakShuttleCrash2.root.nodes.11.node.nodes.0.label>A missão expirou: [resolvedQuestName]</RE_LodiakShuttleCrash2.root.nodes.11.node.nodes.0.label>
+            <RE_LodiakShuttleCrash2.root.nodes.11.node.nodes.0.text>A espaçonave foi encontrada por outros. A missão [resolvedQuestName] expirou.</RE_LodiakShuttleCrash2.root.nodes.11.node.nodes.0.text>
+            <RE_LodiakShuttleCrash3.questNameRules.rulesStrings>
+                <li>questName->Transporte [adjective]</li>
+                <li>adjective->Quebrado</li>
+                <li>adjective->Colapsado</li>
+                <li>adjective->Caído</li>
+                <li>adjective->Defeituoso</li>
+            </RE_LodiakShuttleCrash3.questNameRules.rulesStrings>
+            <RE_LodiakShuttleCrash3.questDescriptionRules.rulesStrings>
+                <li>questDescription->O alto comando de [asker_faction_name] perdeu contato com um de seus transportes Kodiak realizando uma missão de reconhecimento de rotina perto de [map_definite]. Eles estão particularmente interessados ​​nos dados da caixa preta da espaçonave, que serão carregados automaticamente assim que você entrar no alcance.\n[asker_faction_name] não tem colonos que possa dispensar para iniciar uma operação de resgate. Como tal, se houver sobreviventes, eles podem escolher livremente retornar com você para [map_definite].\n\nA queda pode ter atraído a atenção de hostis.</li>
+            </RE_LodiakShuttleCrash3.questDescriptionRules.rulesStrings>
+            <RE_LodiakShuttleCrash3.root.nodes.10.node.nodes.0.label>Missão concluída: [resolvedQuestName]</RE_LodiakShuttleCrash3.root.nodes.10.node.nodes.0.label>
+            <RE_LodiakShuttleCrash3.root.nodes.10.node.nodes.0.text>Você chegou ao local da queda do transporte e derrotou as forças hostis.</RE_LodiakShuttleCrash3.root.nodes.10.node.nodes.0.text>
+            <RE_LodiakShuttleCrash3.root.nodes.11.node.nodes.0.label>A missão expirou: [resolvedQuestName]</RE_LodiakShuttleCrash3.root.nodes.11.node.nodes.0.label>
+            <RE_LodiakShuttleCrash3.root.nodes.11.node.nodes.0.text>A espaçonave foi encontrada por outros. A missão [resolvedQuestName] expirou.</RE_LodiakShuttleCrash3.root.nodes.11.node.nodes.0.text>
+
+        <!-- Prothean Beacon -->
+            <RE_ProtheanBeacon.questNameRules.rulesStrings>
+                <li>questName->O [noun] [adjective]</li>
+                <li>questName->[noun] [adjective]</li>
+                <li>questName->[asker_nameDef] e o [noun]</li>
+                <li>adjective->Misterioso</li>
+                <li>adjective->Enigmático</li>
+                <li>adjective->Secreto</li>
+                <li>noun->Farol</li>
+                <li>noun->Edifício</li>
+                <li>noun->Dispositivo</li>
+                <li>noun->Mecanismo</li>
+            </RE_ProtheanBeacon.questNameRules.rulesStrings>
+            <RE_ProtheanBeacon.questDescriptionRules.rulesStrings>
+                <li>questDescription->Descrição: [asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], diz que seus colonos encontraram um antigo farol proteico próximo a [map_definite].\n\n[asker_nameDef] não tem ninguém de sobra para lançar uma escavação, mas se você chegar ao local especificado, poderá obter um aumento significativo em suas capacidades de pesquisa.\n\n[asker_nameDef] diz que o farol é protegido por [siteFaction_pawnsPlural] de [siteFaction_name]</li>
+            </RE_ProtheanBeacon.questDescriptionRules.rulesStrings>
+            <RE_ProtheanBeacon.root.nodes.11.node.nodes.0.label>A missão expirou: [resolvedQuestName]</RE_ProtheanBeacon.root.nodes.11.node.nodes.0.label>
+            <RE_ProtheanBeacon.root.nodes.11.node.nodes.0.text>O farol proteico foi encontrado por outros. A missão [resolvedQuestName] expirou.</RE_ProtheanBeacon.root.nodes.11.node.nodes.0.text>
+
+        <!-- Rogue -->
+            <RE_Rogue.questNameRules.rulesStrings>
+                <li>questName->VI Desonesta</li>
+            </RE_Rogue.questNameRules.rulesStrings>
+            <RE_Rogue.questDescriptionRules.rulesStrings>
+                <li>questDescription->[refuge_nameDef] entrou em contato com você e pediu ajuda. [refugee_pronoun] encontrou uma pequena instalação executada por uma inteligência virtual desonesta.\n[refuge_nameDef] é um [refugee_title] de [refugee_age] anos. [refuge_pronoun] promete se juntar a você se você resgatá-lo.\n[refugee_nameDef] diz que você deve ter muito cuidado. Embora não haja mais humanos vivos na área, um grande número de torres e mecanoides ficaram completamente descontroladas e atacarão qualquer um que entrar no alcance.</li>
+            </RE_Rogue.questDescriptionRules.rulesStrings>
+            <RE_Rogue.root.nodes.11.node.nodes.0.label>A missão expirou: [resolvedQuestName]</RE_Rogue.root.nodes.11.node.nodes.0.label>
+            <RE_Rogue.root.nodes.11.node.nodes.0.text>O sinal de [refugee_nameDef] foi perdido, e [refugee_pronoun] não pode mais ser resgatado. A missão [resolvedQuestName] expirou.</RE_Rogue.root.nodes.11.node.nodes.0.text>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Basilisk -->
             <WMH_Basilisk_MonsterEncounterQuest.questNameRules.rulesStrings>

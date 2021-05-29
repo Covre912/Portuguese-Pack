@@ -2064,6 +2064,55 @@
             <QuestTargetLocated>Alvo localizado</QuestTargetLocated>
             <QuestTargetLocatedMessage>Você foi informado sobre a localização do alvo de sua missão.</QuestTargetLocatedMessage>
 
+    <!-- RimEffect: Core -->
+        <RE.CommandDisableAmmoBeltLabel>Desabilitar {0}</RE.CommandDisableAmmoBeltLabel>
+        <RE.CommandEnableAmmoBeltLabel>Habilitar {0}</RE.CommandEnableAmmoBeltLabel>
+        <RE.CommandToggleAmmoBeltDesc>Habilite/desabilite o cinto de munição.</RE.CommandToggleAmmoBeltDesc>
+        <RE_RadiationProduced>Aviso: Reator produzindo radiação em um raio de {0}m</RE_RadiationProduced>
+        <RE_TempInReactorRoom>Temperatura na sala do reator: {0}ºC</RE_TempInReactorRoom>
+        <RE_TempInReactorRoomCritical>Aviso: Temperatura na sala do reator: {0}ºC</RE_TempInReactorRoomCritical>
+        <RE_Meltdown>Aviso: Derretimento devido à alta temperatura. Até que seja reparado, o reator destruirá toda a vida em um raio de</RE_Meltdown>
+        <RE_MeltdownLetterLabel>Derretimento do Reator</RE_MeltdownLetterLabel>
+        <RE_MeltdownLetter>Ocorreu um derretimento parcial do reator devido à alta temperatura na sala do reator! Até que seja reparado, este reator será extremamente prejudicial à vida em um raio estendido.\n\nIgnorar isso não é uma boa ideia.</RE_MeltdownLetter>
+        <RE_NoReactorRoom>A sala do reator deve ser um espaço fechado e coberto</RE_NoReactorRoom>
+        <RE_RadiationProducedEezo>Aviso: Reator causando distúrbio psíquico em um raio de {0}m</RE_RadiationProducedEezo>
+        <RE_TempInReactorRoomEezo>Temperatura na sala do reator: {0}ºC</RE_TempInReactorRoomEezo>
+        <RE_TempInReactorRoomCriticalEezo>Aviso: Temperatura na sala do reator: {0}ºC</RE_TempInReactorRoomCriticalEezo>
+        <RE_MeltdownEezo>Aviso: Derretimento devido à alta temperatura. Até que seja reparado, o reator afetará todos os seres psiquicamente ativos.</RE_MeltdownEezo>
+        <RE_MeltdownLetterLabelEezo>Derretimento do Reator</RE_MeltdownLetterLabelEezo>
+        <RE_MeltdownLetterEezo>Ocorreu um derretimento parcial do reator devido à alta temperatura na sala do reator! Até que seja reparado, este reator será extremamente prejudicial à mente em um raio estendido.\n\nIgnorar isso não é uma boa ideia</RE_MeltdownLetterEezo>
+        <RE_NoReactorRoomEezo>A sala do reator deve ser um espaço fechado e coberto</RE_NoReactorRoomEezo>
+        <RE.SpectreLeaves>Espectro parte</RE.SpectreLeaves>
+        <RE.SpectreLeavesDesc>Tendo ajudado sua colônia e terminando seu objetivo, o espectro decidiu que é hora de seguir em frente.</RE.SpectreLeavesDesc>
+        <RE.LetterPyjaksCrate>Pijaques</RE.LetterPyjaksCrate>
+        <RE.LetterPyjaksCrateDesc>Algumas cápsulas de carga com pijaques, perdidos ou ejetados propositalmente, caíram na área local. Acostumados a conviver entre pessoas, parecem acostumados ao contato humano e estão se juntando à colônia.\n\nTenha cuidado: os pijaques são conhecidos por causar angústia nas pessoas ao aninhar o nariz e, muitas vezes, roubam itens que consideram interessantes, peculiares ou simplesmente irritantes.</RE.LetterPyjaksCrateDesc>
+        <RE.ViewContracts>Ver contratos</RE.ViewContracts>
+        <RE.AvailableContracts>Contratos disponíveis: {0}</RE.AvailableContracts>
+        <RE.LocalBattlefield>Campo de batalha</RE.LocalBattlefield>
+        <RE.LocalBattlefieldDesc>Sua área local se tornou um campo de batalha para duas facções hostis uma à outra - {friendlyFACTION_name} e {enemyFACTION_name}. Você pode esperá-los ou enfrentá-los, mas deve estar preparado para uma longa luta.</RE.LocalBattlefieldDesc>
+        <RE.DoorLockDefault>Padrão</RE.DoorLockDefault>
+        <RE.DoorLockEveryone>Todos</RE.DoorLockEveryone>
+        <RE.DoorLockOnlyColonistsAndAnimals>Colonos e animais</RE.DoorLockOnlyColonistsAndAnimals>
+        <RE.DoorLockOnlyColonistsAndAnimalsAndFriendlies>Colonos, animais e aliados</RE.DoorLockOnlyColonistsAndAnimalsAndFriendlies>
+        <RE.DoorLockOnlyDrafted>Alistados</RE.DoorLockOnlyDrafted>
+        <RE.DoorLockState>{0}</RE.DoorLockState>
+        <RE.DoorLockStateDesc>Clique para alterar a política de fechadura da porta atual.</RE.DoorLockStateDesc>
+        <RE.DoorLockStatePowerOff>Desligado. Impossível alterar a política de fechadura da porta.</RE.DoorLockStatePowerOff>
+        <RE.OpenBeacon>Abrir o farol</RE.OpenBeacon>
+        <RE.WrongFaction>Não reivindicado</RE.WrongFaction>
+        <RE.AlreadyOpened>Já aberto</RE.AlreadyOpened>
+        <RE.FreeHostages>Reféns grátis</RE.FreeHostages>
+        <RE.NewRecruit>Novo recruta</RE.NewRecruit>
+        <RE.JoinFac>{0} decidiu se juntar à sua facção.</RE.JoinFac>
+        <RE.AbilityDisableReasonCooldown>{0} está em espera para {1}</RE.AbilityDisableReasonCooldown>
+        <RE.AbilityDisableReasonGeneral>{0} não atende aos requisitos</RE.AbilityDisableReasonGeneral>
+        <RE.AbilityStatsPower>Energia</RE.AbilityStatsPower>
+        <RE.AbilityStatsBioticEnergy>Energia Biótica</RE.AbilityStatsBioticEnergy>
+        <RE.AbilityStatsDuration>Duração</RE.AbilityStatsDuration>
+        <RE.BioticAmpCantEquipWeaponWeightReason>Esta arma é muito pesada para um usuário biótico</RE.BioticAmpCantEquipWeaponWeightReason>
+        <RE.AbilityDisableReasonBioticEnergyLack>O usuário não tem energia biótica suficiente</RE.AbilityDisableReasonBioticEnergyLack>
+        <RE.AbilityDominateBerserkReason>Mentalmente dominado por {0}</RE.AbilityDominateBerserkReason>
+
     <!-- RimHUD -->
         <!-- Base -->
             <RimHUD.Language.AdjectiveNounOrder>{1} {0}</RimHUD.Language.AdjectiveNounOrder>
@@ -2579,7 +2628,7 @@
             <VBE_StartInsertionMustOrWhiskey>Trazer mistura ou uísque</VBE_StartInsertionMustOrWhiskey>
             <VBE_StartInsertionMustOrWhiskeyDesc>Traga mistura de uísque para o barril para começar a fermentar ou traga uísque para começar o processo de envelhecimento.</VBE_StartInsertionMustOrWhiskeyDesc>
             <VBE_CancelBringingMustOrWhiskey>Cancelar traz de mistura ou uísque</VBE_CancelBringingMustOrWhiskey>
-            <VBE_CancelBringingAmbMustDesc>Cancele o transporte de mistura ou uísque para o barril.</VBE_CancelBringingAmbMustDesc>
+            <VBE_CancelBringingMustOrWhiskeyDesc>Cancele o transporte de mistura ou uísque para o barril.</VBE_CancelBringingMustOrWhiskeyDesc>
 
         <!-- Tequila -->
             <VBE_InsertTequilaMustDesc>Mosto para Inserir</VBE_InsertTequilaMustDesc>
@@ -3231,7 +3280,7 @@
             <VPE_RadiationProduced>Aviso: Reator produzindo radiação em um raio de {0}m</VPE_RadiationProduced>
             <VPE_TempInReactorRoom>Temperatura na sala do reator: {0}ºC</VPE_TempInReactorRoom>
             <VPE_TempInReactorRoomCritical>Aviso: Temperatura na sala do reator: {0}ºC</VPE_TempInReactorRoomCritical>
-            <VPE_Meltdown>Aviso: derretimento devido à alta temperatura. Até que seja reparado, o reator destruirá toda a vida em um raio de</VPE_Meltdown>
+            <VPE_Meltdown>Aviso: Derretimento devido à alta temperatura. Até que seja reparado, o reator destruirá toda a vida em um raio de</VPE_Meltdown>
             <VPE_MeltdownLetterLabel>Derretimento do Reator</VPE_MeltdownLetterLabel>
             <VPE_MeltdownLetter>Ocorreu um derretimento parcial do reator devido à alta temperatura na sala do reator! Até que seja reparado, este reator será extremamente prejudicial à vida em um raio estendido.\n\nIgnorar isso não é uma boa ideia.</VPE_MeltdownLetter>
             <VPE_NoReactorRoom>A sala do reator deve ser um espaço fechado e coberto</VPE_NoReactorRoom>
@@ -3426,31 +3475,26 @@
             <VSIE.EnableOneNightStand>Habilitar encontros casuais</VSIE.EnableOneNightStand>
 
     <!-- Vanilla Storytellers Expanded - Oskar Obnoxious -->
-        <!-- Labels -->
-            <PatchTitle>RimWorld {0} "{1}"</PatchTitle>
-	        <PatchTitleNoName>RimWorld {0}</PatchTitleNoName>
-	        <OskarObnoxious>Oskar Obnóxio</OskarObnoxious>
-	        <PatchNotes>Nova Atualização</PatchNotes>
-
-	    <!-- Patch Window -->
-	        <ValueChanged>{0} alterado de {1} para {2}</ValueChanged>
-	        <ValueUnchanged>{0} vai continuar o mesmo. O valor atual é {1}</ValueUnchanged>
-	        <ValueChangedDefault>O valor padrão {0} foi alterado de {1} para {2}</ValueChangedDefault>
-	        <ValueUnchangedDefault>O valor padrão {0} continuará o mesmo. O valor atual é {1}</ValueUnchangedDefault>
-
-	    <!-- Settings -->
-	        <TicksBetweenPatchNotes>Ticks Entre Atualizações</TicksBetweenPatchNotes>
-	        <TicksBetweenPatchNotesTooltip>Ticks até que a próxima atualização seja lançada.</TicksBetweenPatchNotesTooltip>
-	        <DefsChangedPerPatch>Defs</DefsChangedPerPatch>
-	        <DefsChangedPerPatchTooltip>Número de Defs alterados por atualização</DefsChangedPerPatchTooltip>
-	        <FieldsChangedPerDef>Campos</FieldsChangedPerDef>
-	        <FieldsChangedPerDefTooltip>Número de Campos alterados por Def</FieldsChangedPerDefTooltip>
-	        <PatchNotesStored>Atualizações Arquivadas</PatchNotesStored>
-	        <PatchNotesStoredTooltip>Número máximo de Atualizações que serão arquivadas e visualizadas na janela de notas da atualização. Ele mostrará apenas as atuaçizações mais recentes até essa quantidade, mas todas as atualizações anteriores ainda aplicarão suas alterações.</PatchNotesStoredTooltip>
-	        <ShowAllPatchNotes>Abrir Notas de Atualização</ShowAllPatchNotes>
-	        <ResetPatchNotesToDefault>Redefinir Configurações</ResetPatchNotesToDefault>
-	        <DebugShowPatchGeneration>Gerar Logs de Atualizações</DebugShowPatchGeneration>
-	        <DebugShowPatchGenerationTooltip>Envie todas as etapas de geração de atualizações para os logs de mensagens. (Apenas para depuração)</DebugShowPatchGenerationTooltip>
+        <PatchTitle>RimWorld {0} "{1}"</PatchTitle>
+	    <PatchTitleNoName>RimWorld {0}</PatchTitleNoName>
+	    <OskarObnoxious>Oskar Obnóxio</OskarObnoxious>
+	    <PatchNotes>Nova Atualização</PatchNotes>
+	    <ValueChanged>{0} alterado de {1} para {2}</ValueChanged>
+	    <ValueUnchanged>{0} vai continuar o mesmo. O valor atual é {1}</ValueUnchanged>
+	    <ValueChangedDefault>O valor padrão {0} foi alterado de {1} para {2}</ValueChangedDefault>
+	    <ValueUnchangedDefault>O valor padrão {0} continuará o mesmo. O valor atual é {1}</ValueUnchangedDefault>
+	    <TicksBetweenPatchNotes>Ticks Entre Atualizações</TicksBetweenPatchNotes>
+	    <TicksBetweenPatchNotesTooltip>Ticks até que a próxima atualização seja lançada.</TicksBetweenPatchNotesTooltip>
+	    <DefsChangedPerPatch>Defs</DefsChangedPerPatch>
+	    <DefsChangedPerPatchTooltip>Número de Defs alterados por atualização</DefsChangedPerPatchTooltip>
+	    <FieldsChangedPerDef>Campos</FieldsChangedPerDef>
+	    <FieldsChangedPerDefTooltip>Número de Campos alterados por Def</FieldsChangedPerDefTooltip>
+	    <PatchNotesStored>Atualizações Arquivadas</PatchNotesStored>
+	    <PatchNotesStoredTooltip>Número máximo de Atualizações que serão arquivadas e visualizadas na janela de notas da atualização. Ele mostrará apenas as atuaçizações mais recentes até essa quantidade, mas todas as atualizações anteriores ainda aplicarão suas alterações.</PatchNotesStoredTooltip>
+	    <ShowAllPatchNotes>Abrir Notas de Atualização</ShowAllPatchNotes>
+	    <ResetPatchNotesToDefault>Redefinir Configurações</ResetPatchNotesToDefault>
+	    <DebugShowPatchGeneration>Gerar Logs de Atualizações</DebugShowPatchGeneration>
+	    <DebugShowPatchGenerationTooltip>Envie todas as etapas de geração de atualizações para os logs de mensagens. (Apenas para depuração)</DebugShowPatchGenerationTooltip>
         
     <!-- Vanilla Traits Expanded -->
         <!-- Perfectionist -->

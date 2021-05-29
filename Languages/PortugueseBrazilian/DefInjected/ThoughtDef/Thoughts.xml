@@ -497,6 +497,15 @@
             <Sedentary.stages.1.label>confortavelmente acomodado</Sedentary.stages.1.label>
             <Sedentary.stages.1.description>Um lugar agradável e confortável para descansar um pouco. Bem do jeito que eu gosto.</Sedentary.stages.1.description>
 
+    <!-- Rim-Effect: Core -->
+        <!-- Nuzzled by Pyjak -->
+            <RE_Thought_PyjakNuzzle.stages.0.label>acariciado por um pyjack</RE_Thought_PyjakNuzzle.stages.0.label>
+            <RE_Thought_PyjakNuzzle.stages.0.description>Leve esse roedor nojento para longe de mim.</RE_Thought_PyjakNuzzle.stages.0.description>
+
+        <!-- Eezo Psychic Drone -->
+            <RE_EezoDrone.stages.0.label>drone psíquico eezo</RE_EezoDrone.stages.0.label>
+            <RE_EezoDrone.stages.0.description>Sinto como se alguém estivesse sempre fora de vista, falando comigo. A voz muda, mas a mensagem não. Eu deveria machucar as pessoas. Faça isso ir embora!</RE_EezoDrone.stages.0.description>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Hym -->
             <WMH_HymPunchEffect.stages.0.label>atormentado(a) pela culpa</WMH_HymPunchEffect.stages.0.label>

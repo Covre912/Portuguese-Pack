@@ -7,6 +7,18 @@
             <AC_EmptySleeves.pawnSingular>corpo</AC_EmptySleeves.pawnSingular>
             <AC_EmptySleeves.pawnsPlural>corpos</AC_EmptySleeves.pawnsPlural>
 
+    <!-- Rim-Effect: Core -->
+        <!-- Systems Alliance -->
+            <RE_SystemsAlliance.label>aliança dos sistemas</RE_SystemsAlliance.label>
+            <RE_SystemsAlliance.description>Essas pessoas chegaram a este mundo bastante recentemente, em uma grande missão de colonização lançada pela Aliança dos Sistemas. Eles usam ultratecnologia poderosa e são conhecidos por usar o elemento zero para alimentar seus assentamentos e impulsionar suas espaçonaves.\n\nEles mantêm relações frias, mas relativamente amigáveis, com nativos e outras civilizações espaciais.\n\nA Aliança dos Sistemas tem razão, economia e exploração em alta consideração.</RE_SystemsAlliance.description>
+            <RE_SystemsAlliance.pawnsPlural>colonizadores</RE_SystemsAlliance.pawnsPlural>
+            <RE_SystemsAlliance.leaderTitle>primeiro ministro</RE_SystemsAlliance.leaderTitle>
+
+        <!-- Alliance Colony -->
+            <RE_AlliancePlayerColony.label>Colônia da Aliança</RE_AlliancePlayerColony.label>
+            <RE_AlliancePlayerColony.description>Uma colônia de colonos recém-chegados da Aliança.</RE_AlliancePlayerColony.description>
+            <RE_AlliancePlayerColony.pawnsPlural>colonos</RE_AlliancePlayerColony.pawnsPlural>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Monsters -->
             <WMH_Monsters.label>monstros</WMH_Monsters.label>

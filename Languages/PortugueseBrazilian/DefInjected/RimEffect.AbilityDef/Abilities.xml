@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Rim-Effect: Core -->
+        <!-- Biotic Throw -->
+            <RE_Biotic_Throw.label>lance biótico</RE_Biotic_Throw.label>
+            <RE_Biotic_Throw.description>Usa o campo de efeito de massa para lidar com traumas contundentes ao inimigo.</RE_Biotic_Throw.description>
+
+        <!-- Biotic Pull -->
+            <RE_Biotic_Pull.label>atração biótica</RE_Biotic_Pull.label>
+            <RE_Biotic_Pull.description>Gera um campo de redução de massa que levanta o inimigo no ar e rapidamente o derruba, impedindo-o temporariamente de lutar.\n\nEfeito: o inimigo é puxado em direção ao lançador e é temporariamente derrubado no chão.</RE_Biotic_Pull.description>
+
+        <!-- Biotic Focus -->
+            <RE_Biotic_Focus.label>foco biótico</RE_Biotic_Focus.label>
+            <RE_Biotic_Focus.description>Regenera a energia biótica após um curto período de meditação.</RE_Biotic_Focus.description>
+
+        <!-- Biotic Charge -->
+            <RE_Biotic_Charge.label>carga biótica</RE_Biotic_Charge.label>
+            <RE_Biotic_Charge.description>Usa bióticos para alterar a velocidade e força, levando a uma carga devastadora em direção ao alvo.</RE_Biotic_Charge.description>
+
+        <!-- Biotic Barrier -->
+            <RE_Biotic_Barrier.label>barreira biótica</RE_Biotic_Barrier.label>
+            <RE_Biotic_Barrier.description>Utiliza campos de efeito de massa para gerar uma barreira que protege o usuário da maioria dos danos cinéticos.</RE_Biotic_Barrier.description>
+
+        <!-- Biotic Dominate -->
+            <RE_Biotic_Dominate.label>dominação biótica</RE_Biotic_Dominate.label>
+            <RE_Biotic_Dominate.description>Interrompe os harmônicos sinápticos de um cérebro orgânico para que ele não consiga diferenciar aliados e inimigos.</RE_Biotic_Dominate.description>
+
+        <!-- Biotic Singularity -->
+            <RE_Biotic_Singularity.label>singularidade biótica</RE_Biotic_Singularity.label>
+            <RE_Biotic_Singularity.description>O poder gravitacional suga vários inimigos em um raio para uma única área, deixando-os indefesos e vulneráveis ​​a ataques.</RE_Biotic_Singularity.description>
+
+        <!-- Biotic Flare -->
+            <RE_Biotic_Flare.label>explosão biótica</RE_Biotic_Flare.label>
+            <RE_Biotic_Flare.description>Concentre-se e gaste a maior parte da energia biótica para liberar um grande sinalizador que lança os inimigos ao seu alcance, causando danos massivos.</RE_Biotic_Flare.description>
+
+        <!-- Biotic Annihilation Field -->
+            <RE_Biotic_Annihilation.label>campo de aniquilação biótico</RE_Biotic_Annihilation.label>
+            <RE_Biotic_Annihilation.description>Gera um grande campo de partículas de efeito de massa, que causa danos substanciais a qualquer pessoa na área.</RE_Biotic_Annihilation.description>
+
+        <!-- Adrenaline Rush -->
+            <RE_SpectreArmor_AdrenalineRush.label>pico de adrenalina</RE_SpectreArmor_AdrenalineRush.label>
+            <RE_SpectreArmor_AdrenalineRush.description>Dá ao usuário uma descarga de adrenalina.</RE_SpectreArmor_AdrenalineRush.description>
+
+        <!-- Combat Mastery -->
+            <RE_SpectreArmor_CombatMastery.label>maestria de combate</RE_SpectreArmor_CombatMastery.label>
+            <RE_SpectreArmor_CombatMastery.description>Dá ao usuário maior precisão de alcance.</RE_SpectreArmor_CombatMastery.description>
+
+        <!-- Combat Drone -->
+            <RE_Tech_CombatDrone.label>drone de combate</RE_Tech_CombatDrone.label>
+            <RE_Tech_CombatDrone.description>Gera uma pequena torre de drones de combate que explode após um curto período de tempo.</RE_Tech_CombatDrone.description>
+
+        <!-- Cryo Blast -->
+            <RE_Tech_CryoBlast.label>explosão criogênica</RE_Tech_CryoBlast.label>
+            <RE_Tech_CryoBlast.description>Dispara uma rajada de partículas subatômicas supercongeladas contra o inimigo.</RE_Tech_CryoBlast.description>
+
+        <!-- Defense Matrix -->
+            <RE_Tech_DefenseMatrix.label>matriz de defesa</RE_Tech_DefenseMatrix.label>
+            <RE_Tech_DefenseMatrix.description>Reforça a armadura com correntes protetoras.</RE_Tech_DefenseMatrix.description>
+
+        <!-- Hex Shield -->
+            <RE_Tech_HexShield.label>escudo hexagonal</RE_Tech_HexShield.label>
+            <RE_Tech_HexShield.description>Gera uma barreira de energia que bloqueia todos os projéteis de movimento rápido, incluindo balas.</RE_Tech_HexShield.description>
+
+        <!-- Incinerate -->
+            <RE_Tech_Incinerate.label>incineração</RE_Tech_Incinerate.label>
+            <RE_Tech_Incinerate.description>Dispara um tiro de plasma altamente explosivo que inflige danos ao longo do tempo a todos os inimigos próximos.</RE_Tech_Incinerate.description>
+
+        <!-- Overload -->
+            <RE_Tech_Overload.label>sobrecarga</RE_Tech_Overload.label>
+            <RE_Tech_Overload.description>Sobrecarrega os componentes eletrônicos, fazendo com que os escudos explodam e os inimigos mecânicos fiquem atordoados.</RE_Tech_Overload.description>
+
+        <!-- Sabotage -->
+            <RE_Tech_Sabotage.label>sabotagem</RE_Tech_Sabotage.label>
+            <RE_Tech_Sabotage.description>Sabota armas e controla sintéticos. Os sintéticos comprometidos lutam do seu lado.</RE_Tech_Sabotage.description>
+
+        <!-- Tactical Cloak -->
+            <RE_Tech_TacticalCloak.label>capa tática</RE_Tech_TacticalCloak.label>
+            <RE_Tech_TacticalCloak.description>Torna o usuário invisível para todos os inimigos. Os usuários não podem ser alvos de nenhuma habilidade ou poder direcionável.</RE_Tech_TacticalCloak.description>
+
+</LanguageData>

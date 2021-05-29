@@ -82,6 +82,75 @@
             <AC_Gun_MACRifle.tools.1.label>coronha</AC_Gun_MACRifle.tools.1.label>
             <AC_Gun_MACRifle.tools.2.label>cano</AC_Gun_MACRifle.tools.2.label>
 
+    <!-- RimEffect: Core -->
+        <!-- Heavy Mass Accelerator -->
+            <RE_YMIRMassAccelerator.label>acelerador de massa pesado</RE_YMIRMassAccelerator.label>
+            <RE_YMIRMassAccelerator.description>Um canhão automático duplo acelerado de massa.</RE_YMIRMassAccelerator.description>
+            <RE_YMIRMassAccelerator.tools.0.label>cano</RE_YMIRMassAccelerator.tools.0.label>
+            <RE_Bullet_YMIRHeavyMassAccelerator.label>tiro de carga acelerador de massa pesado</RE_Bullet_YMIRHeavyMassAccelerator.label>
+
+        <!-- Alliance Assault Rifle -->
+            <RE_Gun_AllianceAssaultRifle.label>rifle de assalto leal</RE_Gun_AllianceAssaultRifle.label>
+            <RE_Gun_AllianceAssaultRifle.description>Um rifle de assalto com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, seus projéteis se estilhaçam no impacto para aumentar o dano ao alvo.</RE_Gun_AllianceAssaultRifle.description>
+            <RE_Gun_AllianceAssaultRifle.tools.0.label>coronha</RE_Gun_AllianceAssaultRifle.tools.0.label>
+            <RE_Gun_AllianceAssaultRifle.tools.1.label>cano</RE_Gun_AllianceAssaultRifle.tools.1.label>
+            <RE_Bullet_AllianceAssaultRifle.label>tiro acelerado</RE_Bullet_AllianceAssaultRifle.label>
+
+        <!-- Alliance Battle Rifle -->
+            <RE_Gun_AllianceBattleRifle.label>rifle de batalha leal</RE_Gun_AllianceBattleRifle.label>
+            <RE_Gun_AllianceBattleRifle.description>Um rifle de batalha com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, seus projéteis se estilhaçam no impacto para aumentar o dano ao alvo.</RE_Gun_AllianceBattleRifle.description>
+            <RE_Gun_AllianceBattleRifle.tools.0.label>coronha</RE_Gun_AllianceBattleRifle.tools.0.label>
+            <RE_Gun_AllianceBattleRifle.tools.1.label>cano</RE_Gun_AllianceBattleRifle.tools.1.label>
+            <RE_Bullet_AllianceBattleRifle.label>tiro acelerado</RE_Bullet_AllianceBattleRifle.label>
+
+        <!-- Alliance Shotgun -->
+            <RE_Gun_AllianceShotgun.label>espingarda leal</RE_Gun_AllianceShotgun.label>
+            <RE_Gun_AllianceShotgun.description>Uma espingarda com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, projetadas para quebrar barreiras bióticas e escudos.</RE_Gun_AllianceShotgun.description>
+            <RE_Gun_AllianceShotgun.tools.0.label>cano</RE_Gun_AllianceShotgun.tools.0.label>
+            <RE_Bullet_AllianceShotgun.label>tiro acelerado</RE_Bullet_AllianceShotgun.label>
+
+        <!-- Alliance Sniper Rifle -->
+            <RE_Gun_AllianceSniperRifle.label>rifle de precisão leal</RE_Gun_AllianceSniperRifle.label>
+            <RE_Gun_AllianceSniperRifle.description>Um rifle de precisão com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, projetadas para quebrar barreiras bióticas e escudos.</RE_Gun_AllianceSniperRifle.description>
+            <RE_Gun_AllianceSniperRifle.tools.0.label>coronha</RE_Gun_AllianceSniperRifle.tools.0.label>
+            <RE_Gun_AllianceSniperRifle.tools.1.label>cano</RE_Gun_AllianceSniperRifle.tools.1.label>
+            <RE_Bullet_AllianceSniperRifle.label>tiro acelerado</RE_Bullet_AllianceSniperRifle.label>
+
+        <!-- Alliance SMG -->
+            <RE_Gun_AllianceSMG.label>SMG leal</RE_Gun_AllianceSMG.label>
+            <RE_Gun_AllianceSMG.description>Uma submetralhadora com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, seus projéteis se estilhaçam no impacto para aumentar o dano ao alvo.</RE_Gun_AllianceSMG.description>
+            <RE_Gun_AllianceSMG.tools.0.label>cano</RE_Gun_AllianceSMG.tools.0.label>
+           <RE_Bullet_AlliancePistol.label>tiro acelerado</RE_Bullet_AlliancePistol.label>
+
+        <!-- Alliance Pistol -->
+            <RE_Gun_AlliancePistol.label>pistola leal</RE_Gun_AlliancePistol.label>
+            <RE_Gun_AlliancePistol.description>Uma pistola com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, seus projéteis se estilhaçam no impacto para aumentar o dano ao alvo.</RE_Gun_AlliancePistol.description>
+            <RE_Gun_AlliancePistol.tools.0.label>cano</RE_Gun_AlliancePistol.tools.0.label>
+
+        <!-- Alliance Handcannon -->
+            <RE_Gun_AllianceHandcannon.label>canhão de mão leal</RE_Gun_AllianceHandcannon.label>
+            <RE_Gun_AllianceHandcannon.description>Uma pistola pesada com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, seus projéteis se estilhaçam no impacto para aumentar o dano ao alvo.</RE_Gun_AllianceHandcannon.description>
+            <RE_Gun_AllianceHandcannon.tools.0.label>cano</RE_Gun_AllianceHandcannon.tools.0.label>
+            <RE_Bullet_AllianceHandcannon.label>tiro acelerado</RE_Bullet_AllianceHandcannon.label>
+
+        <!-- Alliance Anti-Materiel Rifle -->
+            <RE_Gun_AllianceAntimaterielRifle.label>rifle anti-material leal</RE_Gun_AllianceAntimaterielRifle.label>
+            <RE_Gun_AllianceAntimaterielRifle.description>Um rifle anti-material com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, seus projéteis se estilhaçam no impacto para aumentar o dano ao alvo.</RE_Gun_AllianceAntimaterielRifle.description>
+            <RE_Gun_AllianceAntimaterielRifle.tools.0.label>coronha</RE_Gun_AllianceAntimaterielRifle.tools.0.label>
+            <RE_Gun_AllianceAntimaterielRifle.tools.1.label>cano</RE_Gun_AllianceAntimaterielRifle.tools.1.label>
+            <RE_Bullet_AllianceAntimaterielRifle.label>tiro anti-material acelerado</RE_Bullet_AllianceAntimaterielRifle.label>
+
+        <!-- Alliance Rocket Launcher -->
+            <RE_Gun_AllianceRocketLauncher.label>lançador de mísseis leal</RE_Gun_AllianceRocketLauncher.label>
+            <RE_Gun_AllianceRocketLauncher.description>Um lançador de mísseis de uso único que dispara um projétil explosivo.</RE_Gun_AllianceRocketLauncher.description>
+            <RE_Gun_AllianceRocketLauncher.tools.0.label>cano</RE_Gun_AllianceRocketLauncher.tools.0.label>
+            <RE_Rocket_MassAccelerated.label>míssel acelerado</RE_Rocket_MassAccelerated.label>
+
+        <!-- Alliance Chain Shotgun -->
+            <RE_Gun_AllianceChainShotgun.label>espingarda automática leal</RE_Gun_AllianceChainShotgun.label>
+            <RE_Gun_AllianceChainShotgun.description>Uma espingarda automática com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, projetadas para quebrar barreiras bióticas e escudos.</RE_Gun_AllianceChainShotgun.description>
+            <RE_Gun_AllianceChainShotgun.tools.0.label>cano</RE_Gun_AllianceChainShotgun.tools.0.label>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Handheld Mini-Turret -->
             <VFE_Gun_CombatMechanoidGun.label>mini-torreta portátil</VFE_Gun_CombatMechanoidGun.label>
@@ -249,6 +318,18 @@
             <VWE_Gun_AntiMaterialRifle.tools.0.label>coronha</VWE_Gun_AntiMaterialRifle.tools.0.label>
             <VWE_Gun_AntiMaterialRifle.tools.1.label>cano</VWE_Gun_AntiMaterialRifle.tools.1.label>
             <Bullet_AntiMaterialRifle.label>tiro de rifle anti-material</Bullet_AntiMaterialRifle.label>
+
+        <!-- Throwable Rocks -->
+            <VWE_Throwing_Rocks.label>pedras arremessáveis</VWE_Throwing_Rocks.label>
+            <VWE_Throwing_Rocks.description>Um punhado de pedras. Pode causar ferimentos leves à queima-roupa. Não leva à morte. Simples mas efetivo.</VWE_Throwing_Rocks.description>
+            <VWE_Throwing_Rocks.tools.0.label>pedra</VWE_Throwing_Rocks.tools.0.label>
+            <VWE_Rock.label>pedra pequena</VWE_Rock.label>
+
+        <!-- Long Bow -->
+            <VWE_Bow_Long.label>arco longo</VWE_Bow_Long.label>
+            <VWE_Bow_Long.description>O arco longo é uma arma neolítica maciça de longo alcance, capaz de disparar uma flecha poderosa em distâncias extremamente longas.\n\nAs flechas disparadas deste arco voam por cima de obstáculos, evitando ser interrompidas.</VWE_Bow_Long.description>
+            <VWE_Bow_Long.tools.0.label>arco</VWE_Bow_Long.tools.0.label>
+            <VWE_Arrow_Long.label>flecha de arco longo</VWE_Arrow_Long.label>
 
     <!-- Vanilla Weapons Expanded - Frontiers -->
         <!-- Heavy Revolver -->
@@ -434,5 +515,26 @@
             <VWE_Gun_PDW.description>Uma metralhadora compacta e leve usada como arma de defesa pessoal. Rápido para sacar e atirar.</VWE_Gun_PDW.description>
             <VWE_Gun_PDW.tools.0.label>coronha</VWE_Gun_PDW.tools.0.label>
             <VWE_Gun_PDW.tools.1.label>cano</VWE_Gun_PDW.tools.1.label>
+
+    <!-- Vanilla Weapons Expanded - Tribal -->
+        <!-- Sling -->
+            <VWE_Sling.label>estilingue</VWE_Sling.label>
+            <VWE_Sling.description>Uma pequena bolsa no meio de dois pedaços de corda. Usado para lançar pedras afiadas em distâncias médias.</VWE_Sling.description>
+            <VWE_Sling.tools.0.label>estilingue</VWE_Sling.tools.0.label>
+            <VWE_SlingRock.label>pedra de estilingue</VWE_SlingRock.label>
+
+        <!-- Throwing Shards -->
+            <VWE_Throwing_Shards.label>cacos arremessáveis</VWE_Throwing_Shards.label>
+            <VWE_Throwing_Shards.description>Um conjunto de fragmentos de rocha ou metal que podem ser lançados a uma curta distância.</VWE_Throwing_Shards.description>
+            <VWE_Throwing_Shards.tools.0.label>cabo</VWE_Throwing_Shards.tools.0.label>
+            <VWE_Throwing_Shards.tools.1.label>lâmina</VWE_Throwing_Shards.tools.1.label>
+            <VWE_Throwing_Shards.tools.2.label>ponta</VWE_Throwing_Shards.tools.2.label>
+            <VWE_FlyingShard.label>caco</VWE_FlyingShard.label>
+
+        <!-- Fire Bombs -->
+            <VWE_Weapon_FireBomb.label>bombas incendiárias</VWE_Weapon_FireBomb.label>
+            <VWE_Weapon_FireBomb.description>Uma pequena panela de barro com várias substâncias inflamáveis ​​dentro - seja ele combustível químico, tecido, pólvora ou gordura animal.</VWE_Weapon_FireBomb.description>
+            <VWE_Weapon_FireBomb.verbs.0.label>lançar bomba incendiária</VWE_Weapon_FireBomb.verbs.0.label>
+            <VWE_Proj_FireBomb.label>bomba incendiária</VWE_Proj_FireBomb.label>
 
 </LanguageData>

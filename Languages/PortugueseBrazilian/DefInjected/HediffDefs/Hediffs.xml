@@ -248,6 +248,95 @@
             <RttR_DazeAffected.label>atordoado e confuso</RttR_DazeAffected.label>
             <RttR_DazeAffected.description>Esta criatura foi recentemente afetada por um ataque atordoante de Ataque Triplo.</RttR_DazeAffected.description>
 
+    <!-- RimEffect: Core -->
+        <!-- Knoced Prone -->
+            <RE_Prone.label>derrubado</RE_Prone.label>
+            <RE_Prone.description>Derrubado.</RE_Prone.description>
+            <RE_Prone.labelNoun>propensão</RE_Prone.labelNoun>
+
+        <!-- Biotic Focus -->
+            <RE_Biotic_Focus.label>foco biótico</RE_Biotic_Focus.label>
+            <RE_Biotic_Focus.description>Estado de foco biótico.</RE_Biotic_Focus.description>
+            <RE_Biotic_Focus.labelNoun>foco biótico</RE_Biotic_Focus.labelNoun>
+
+        <!-- Biotic Charge -->
+            <RE_Biotic_Charge.label>carga biótica</RE_Biotic_Charge.label>
+            <RE_Biotic_Charge.description>Estado de carga biótica.</RE_Biotic_Charge.description>
+            <RE_Biotic_Charge.labelNoun>carga biótica</RE_Biotic_Charge.labelNoun>
+
+        <!-- Adrenaline Rush -->
+            <RE_SpectreArmor_AdrenalineRushHediff.label>pico de adrenalina</RE_SpectreArmor_AdrenalineRushHediff.label>
+            <RE_SpectreArmor_AdrenalineRushHediff.description>Dá ao usuário uma descarga de adrenalina.</RE_SpectreArmor_AdrenalineRushHediff.description>
+            <RE_SpectreArmor_AdrenalineRushHediff.labelNoun>um pico de adrenalina</RE_SpectreArmor_AdrenalineRushHediff.labelNoun>
+
+        <!-- Combat Mastery -->
+            <RE_SpectreArmor_CombatMasteryHediff.label>maestria de combate</RE_SpectreArmor_CombatMasteryHediff.label>
+            <RE_SpectreArmor_CombatMasteryHediff.description>Dá ao usuário maior precisão.</RE_SpectreArmor_CombatMasteryHediff.description>
+            <RE_SpectreArmor_CombatMasteryHediff.labelNoun>um aumento de precisão</RE_SpectreArmor_CombatMasteryHediff.labelNoun>
+
+        <!-- Tactical Cloak -->
+            <RE_Tech_TacticalCloakHediff.label>capa tática</RE_Tech_TacticalCloakHediff.label>
+            <RE_Tech_TacticalCloakHediff.description>Torna o usuário invisível para todos os inimigos. Os usuários não podem ser alvos de quaisquer habilidades e poderes direcionáveis.</RE_Tech_TacticalCloakHediff.description>
+
+        <!-- Adrenaline Module -->
+            <RE_AdrenalineModule.label>módulo de adrenalina</RE_AdrenalineModule.label>
+            <RE_AdrenalineModule.description>Um modo de adrenalina.</RE_AdrenalineModule.description>
+            <RE_AdrenalineModule.labelNoun>um módulo de adrenalina</RE_AdrenalineModule.labelNoun>
+
+        <!-- Stabilization Module -->
+            <RE_StabilizationModule.label>módulo de estabilização</RE_StabilizationModule.label>
+            <RE_StabilizationModule.description>Um módulo de estabilização.</RE_StabilizationModule.description>
+            <RE_StabilizationModule.labelNoun>um módulo de estabilização</RE_StabilizationModule.labelNoun>
+
+        <!-- Strength Enhancer -->
+            <RE_StrengthEnhancer.label>intensificador de força</RE_StrengthEnhancer.label>
+            <RE_StrengthEnhancer.description>Um intensificador de força.</RE_StrengthEnhancer.description>
+            <RE_StrengthEnhancer.labelNoun>um intensificador de força</RE_StrengthEnhancer.labelNoun>
+
+        <!-- Power Amplifier -->
+            <RE_PowerAmplifier.label>amplificador de potência</RE_PowerAmplifier.label>
+            <RE_PowerAmplifier.description>Um amplificador de potência.</RE_PowerAmplifier.description>
+            <RE_PowerAmplifier.labelNoun>um amplificador de potência</RE_PowerAmplifier.labelNoun>
+
+        <!-- Power Efficiency Module -->
+            <RE_PowerEfficiencyModule.label>módulo de eficiência energética</RE_PowerEfficiencyModule.label>
+            <RE_PowerEfficiencyModule.description>Um módulo de eficiência energética.</RE_PowerEfficiencyModule.description>
+            <RE_PowerEfficiencyModule.labelNoun>um módulo de eficiência energética</RE_PowerEfficiencyModule.labelNoun>
+
+        <!-- Targeting VI -->
+            <RE_TargetingVI.label>segmentação VI</RE_TargetingVI.label>
+            <RE_TargetingVI.description>Uma segmentação VI.</RE_TargetingVI.description>
+            <RE_TargetingVI.labelNoun>uma segmentação VI</RE_TargetingVI.labelNoun>
+
+        <!-- Spectre -->
+            <RE_Spectre.label>espectro</RE_Spectre.label>
+            <RE_Spectre.description>Espectro.</RE_Spectre.description>
+            <RE_Spectre.labelNoun>espectro</RE_Spectre.labelNoun>
+
+        <!-- Slave -->
+            <RE_TurnBackToFormerFaction.label>escravo</RE_TurnBackToFormerFaction.label>
+            <RE_TurnBackToFormerFaction.description>Escravo.</RE_TurnBackToFormerFaction.description>
+            <RE_TurnBackToFormerFaction.labelNoun>escravo</RE_TurnBackToFormerFaction.labelNoun>
+
+        <!-- Hypothermic Slowdown -->
+            <RE_HypothermicSlowdown.label>desaceleração hipotérmica</RE_HypothermicSlowdown.label>
+            <RE_HypothermicSlowdown.description>Desaceleração hipotérmica.</RE_HypothermicSlowdown.description>
+            <RE_HypothermicSlowdown.stages.0.label>leve</RE_HypothermicSlowdown.stages.0.label>
+            <RE_HypothermicSlowdown.stages.1.label>leve</RE_HypothermicSlowdown.stages.1.label>
+            <RE_HypothermicSlowdown.stages.2.label>moderada</RE_HypothermicSlowdown.stages.2.label>
+            <RE_HypothermicSlowdown.stages.3.label>grave</RE_HypothermicSlowdown.stages.3.label>
+            <RE_HypothermicSlowdown.stages.4.label>extrema</RE_HypothermicSlowdown.stages.4.label>
+
+        <!-- Biotic Amp -->
+            <RE_BioticAmpHediff.label>amp. biótico</RE_BioticAmpHediff.label>
+            <RE_BioticAmpHediff.description>Este implante cerebral permite ao usuário manipular os campos de efeito de massa usando nódulos do elemento zero dentro do amplificador, essencialmente gerando campos fortes o suficiente para uso prático. Com o treinamento em habilidades específicas, o usuário pode lançar habilidades bióticas com diversos efeitos.</RE_BioticAmpHediff.description>
+
+        <!-- Omni Tool -->
+            <RE_OmniToolHediff.label>omni-ferramenta</RE_OmniToolHediff.label>
+            <RE_OmniToolHediff.description>Este dispositivo é uma ferramenta multifuncional de diagnóstico e fabricação, bem como um computador usado para uma variedade de tarefas civis e no campo de batalha, como hacking, diagnóstico, descriptografia e reparo. Com treinamento em habilidades específicas, o usuário pode lançar poderes tecnológicos com diversos efeitos. Este implante pode ser atualizado em vários níveis. Níveis mais altos permitem o uso de grandes quantidades de poderes tecnológicos.</RE_OmniToolHediff.description>
+            <RE_OmniToolHediff.comps.0.tools.0.label>ponta</RE_OmniToolHediff.comps.0.tools.0.label>
+            <RE_OmniToolHediff.comps.0.tools.1.label>lâmina</RE_OmniToolHediff.comps.0.tools.1.label>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- No Pain Sensitivity -->
             <WMH_NoPain.label>sem sensibilidade à dor</WMH_NoPain.label>

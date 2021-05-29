@@ -72,6 +72,12 @@
             <VMEu_DoBillsOilDistiller.verb>destilar</VMEu_DoBillsOilDistiller.verb>
             <VMEu_DoBillsOilDistiller.gerund>destilando em</VMEu_DoBillsOilDistiller.gerund>
 
+    <!-- Rim-Effect: Core -->
+        <!-- Prefabricate -->
+            <RE_DoBillsManufacturingBench.label>prefabricar coisas</RE_DoBillsManufacturingBench.label>
+            <RE_DoBillsManufacturingBench.verb>manufaturando coisas</RE_DoBillsManufacturingBench.verb>
+            <RE_DoBillsManufacturingBench.gerund>manufaturando coisas em</RE_DoBillsManufacturingBench.gerund>
+
     <!-- RimWorld - Wicther Monster Hunt -->
         <!-- Advanced Animals Implants -->
             <VEF_DoBillsAdvancedAnimalImplantsTable.label>fazer implantes veterinários avançados</VEF_DoBillsAdvancedAnimalImplantsTable.label>

@@ -4,31 +4,36 @@
     <!-- Race to the Rim --> 
         <!-- Toxic Gas -->
             <RttR_GasExplosion.label>gás tóxico</RttR_GasExplosion.label>
-            <RttR_GasExplosion.deathMessage>{0} morreu envenenado.</RttR_GasExplosion.deathMessage>
+            <RttR_GasExplosion.deathMessage>{0} foi morto envenenad{0_gender ? o : a}.</RttR_GasExplosion.deathMessage>
 
         <!-- Water Explosion -->
             <RttR_WaterExplosion.label>explosão de água</RttR_WaterExplosion.label>
-            <RttR_WaterExplosion.deathMessage>{0} foi morto.</RttR_WaterExplosion.deathMessage>
+            <RttR_WaterExplosion.deathMessage>{0} foi mort{0_gender ? o : a}.</RttR_WaterExplosion.deathMessage>
 
         <!-- Crush -->
             <RttR_SiegeBlunt.label>esmagamento</RttR_SiegeBlunt.label>
-            <RttR_SiegeBlunt.deathMessage>{0} foi esmagado até a morte.</RttR_SiegeBlunt.deathMessage>
+            <RttR_SiegeBlunt.deathMessage>{0} foi esmagad{0_gender ? o : a} até a morte.</RttR_SiegeBlunt.deathMessage>
 
         <!-- Steel Claws -->
             <RttR_MechanoidScratch.label>garras de aço</RttR_MechanoidScratch.label>
-            <RttR_MechanoidScratch.deathMessage>{0} foi morto.</RttR_MechanoidScratch.deathMessage>
+            <RttR_MechanoidScratch.deathMessage>{0} foi mort{0_gender ? o : a}.</RttR_MechanoidScratch.deathMessage>
 
         <!-- Magnetic Breath -->
             <RttR_MechanoidBreath.label>sopro magnético</RttR_MechanoidBreath.label>
-            <RttR_MechanoidBreath.deathMessage>{0} foi morto.</RttR_MechanoidBreath.deathMessage>
+            <RttR_MechanoidBreath.deathMessage>{0} foi mort{0_gender ? o : a}.</RttR_MechanoidBreath.deathMessage>
 
         <!-- Triple Stryke -->
             <RttR_Toxic.label>picada tóxica de ataque triplo</RttR_Toxic.label>
-            <RttR_Toxic.deathMessage>{0} foi picado até a morte.</RttR_Toxic.deathMessage>
+            <RttR_Toxic.deathMessage>{0} foi picad{0_gender ? o : a} até a morte.</RttR_Toxic.deathMessage>
             <RttR_Anesthesia.label>picada anestésica de ataque triplo</RttR_Anesthesia.label>
-            <RttR_Anesthesia.deathMessage>{0} foi picado até a morte.</RttR_Anesthesia.deathMessage>
+            <RttR_Anesthesia.deathMessage>{0} foi picad{0_gender ? o : a} até a morte.</RttR_Anesthesia.deathMessage>
             <RttR_Dazing.label>picada alucinógena de ataque triplo</RttR_Dazing.label>
-            <RttR_Dazing.deathMessage>{0} foi picado até a morte.</RttR_Dazing.deathMessage>
+            <RttR_Dazing.deathMessage>{0} foi picad{0_gender ? o : a} até a morte.</RttR_Dazing.deathMessage>
+
+    <!-- Rim-Effect: Core -->
+        <!-- Bomb -->
+            <RE_BombNoShake.label>bomba</RE_BombNoShake.label>
+            <RE_BombNoShake.deathMessage>{0} foi mort{0_gender ? o : a} em uma explosão.</RE_BombNoShake.deathMessage>
 
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Virulent Toxic Bite -->
@@ -134,7 +139,7 @@
 
         <!-- Shock -->
             <VWE_Shock.label>choque</VWE_Shock.label>
-            <VWE_Shock.deathMessage>{0} foi eletrocutado até a morte.</VWE_Shock.deathMessage>
+            <VWE_Shock.deathMessage>{0} foi eletrocutad{0_gender ? o : a} até a morte.</VWE_Shock.deathMessage>
 
         <!-- Flame -->
             <VWE_HauntingFlame.label>chama</VWE_HauntingFlame.label>
@@ -146,12 +151,12 @@
 
         <!-- Anasthetic Dart -->
             <VWE_AnestheticDart.label>dardo anestésico</VWE_AnestheticDart.label>
-            <VWE_AnestheticDart.deathMessage>{0} foi morto por um dardo anestésico.</VWE_AnestheticDart.deathMessage>
+            <VWE_AnestheticDart.deathMessage>{0} foi mort{0_gender ? o : a} por um dardo anestésico.</VWE_AnestheticDart.deathMessage>
 
     <!-- Zombieland -->
         <!-- Zombie Bite -->
             <ZombieBite.label>mordida de zumbi</ZombieBite.label>
-            <ZombieBite.deathMessage>{0} foi mordido até a morte por um zumbi.</ZombieBite.deathMessage>
+            <ZombieBite.deathMessage>{0} foi mordid{0_gender ? o : a} até a morte por um zumbi.</ZombieBite.deathMessage>
 
         <!-- Suicide Bomb -->
             <SuicideBomb.label>bomba suicida</SuicideBomb.label>
@@ -159,10 +164,10 @@
 
         <!-- Toxic Splatter -->
             <ToxicSplatter.label>espirro tóxico</ToxicSplatter.label>
-            <ToxicSplatter.deathMessage>{0} foi corroído até a morte.</ToxicSplatter.deathMessage>
+            <ToxicSplatter.deathMessage>{0} foi corroíd{0_gender ? o : a} até a morte.</ToxicSplatter.deathMessage>
 
         <!-- Eletrical Shock -->
             <ElectricalShock.label>choque</ElectricalShock.label>
-            <ElectricalShock.deathMessage>{0} foi eletrocutado até a morte.</ElectricalShock.deathMessage>
+            <ElectricalShock.deathMessage>{0} foi eletrocutad{0_gender ? o : a} até a morte.</ElectricalShock.deathMessage>
 
 </LanguageData>

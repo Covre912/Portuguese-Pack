@@ -414,7 +414,7 @@
 
         <!-- Hyperweave -->
             <VMEu_WeaveHyperWeave.label>tecer hiper tecido</VMEu_WeaveHyperWeave.label>
-            <VMEu_WeaveHyperWeave.description>Teça um tecido de polímero feito de nanofibras avançadas combinadas com materiais de isolamento.</VMEu_WeaveHyperWeave.description>
+            <VMEu_WeaveHyperWeave.description>Teça um polímero de tecido feito de nanofibras avançadas combinadas com materiais de isolamento.</VMEu_WeaveHyperWeave.description>
             <VMEu_WeaveHyperWeave.jobString>Tecendo hiper tecido.</VMEu_WeaveHyperWeave.jobString>
 
         <!-- Cheap Plastic -->
@@ -438,12 +438,12 @@
             <VMEu_MakePlasticPlanks_TierOne.jobString>Tecendo tábuas de plástico.</VMEu_MakePlasticPlanks_TierOne.jobString>
 
         <!-- Polymer Plastic -->
-            <VMEu_MakeLiquidPlastic_TierTwo.label>sintetizar plástico de polímero</VMEu_MakeLiquidPlastic_TierTwo.label>
+            <VMEu_MakeLiquidPlastic_TierTwo.label>sintetizar polímero de plástico</VMEu_MakeLiquidPlastic_TierTwo.label>
             <VMEu_MakeLiquidPlastic_TierTwo.description>Destile óleo escuro e incorpore quimicamente pronitamina para obter a base líquida para um tipo de plástico mais resistente e durável.</VMEu_MakeLiquidPlastic_TierTwo.description>
             <VMEu_MakeLiquidPlastic_TierTwo.jobString>Sintetizando plástico.</VMEu_MakeLiquidPlastic_TierTwo.jobString>
 
         <!-- Polymer Plastic Pellets -->
-            <VMEu_MakePlasticPellets_TierTwo.label>sintetizar granulados de plástico de polímero</VMEu_MakePlasticPellets_TierTwo.label>
+            <VMEu_MakePlasticPellets_TierTwo.label>sintetizar polímero de granulados de plástico</VMEu_MakePlasticPellets_TierTwo.label>
             <VMEu_MakePlasticPellets_TierTwo.description>Injete o plástico polimérico em pequenos grânulos que podem ser usados ​​na fabricação de qualquer tipo de item.</VMEu_MakePlasticPellets_TierTwo.description>
             <VMEu_MakePlasticPellets_TierTwo.jobString>Sintetizando granulados de plástico.</VMEu_MakePlasticPellets_TierTwo.jobString>
 
@@ -514,7 +514,7 @@
 
         <!-- Plasteel -->
             <VMEu_AlloyPlasteel.label>aliar plastiaço</VMEu_AlloyPlasteel.label>
-            <VMEu_AlloyPlasteel.description>Alie plastiaço, um material de polímero composto ultratecnológico usado principalmente para as implementações mais refinadas e de alta qualidade em todo o mundo.</VMEu_AlloyPlasteel.description>
+            <VMEu_AlloyPlasteel.description>Alie plastiaço, um polímero composto ultratecnológico usado principalmente para as implementações mais refinadas e de alta qualidade em todo o mundo.</VMEu_AlloyPlasteel.description>
             <VMEu_AlloyPlasteel.jobString>Aliando plastiaço.</VMEu_AlloyPlasteel.jobString>
 
         <!-- Plastic Bricks -->
@@ -527,7 +527,7 @@
 
         <!-- Carbon Fiber -->
             <VMEu_MakeCarbonFiber.label>tecer fibra de carbono</VMEu_MakeCarbonFiber.label>
-            <VMEu_MakeCarbonFiber.description>Transforme fibras finas de polímero à base de carbono em um material resistente e versátil.</VMEu_MakeCarbonFiber.description>
+            <VMEu_MakeCarbonFiber.description>Transforme polímero de fibras finas à base de carbono em um material resistente e versátil.</VMEu_MakeCarbonFiber.description>
             <VMEu_MakeCarbonFiber.jobString>Tecendo fibra de carbono.</VMEu_MakeCarbonFiber.jobString>
 
         <!-- Boraetamine -->
@@ -639,6 +639,113 @@
             <RttR_NightmareGelToChemfuelManual.label>fazer combustível químico de gel de pesadelo</RttR_NightmareGelToChemfuelManual.label>
             <RttR_NightmareGelToChemfuelManual.description>Faça um lote de combustível químico com gel de pesadelo. Este é um processo manual muito ineficiente.</RttR_NightmareGelToChemfuelManual.description>
             <RttR_NightmareGelToChemfuelManual.jobString>Extraindo combustível químico.</RttR_NightmareGelToChemfuelManual.jobString>
+
+    <!-- RimEffect: Core -->
+        <!-- Biotic Amp -->
+            <Make_RE_BioticAmp.label>fazer amp. biótico</Make_RE_BioticAmp.label>
+            <Make_RE_BioticAmp.description>Faça um amp. biótico.</Make_RE_BioticAmp.description>
+            <Make_RE_BioticAmp.jobString>Fazendo amp. biótico.</Make_RE_BioticAmp.jobString>
+
+        <!-- Omni Tool -->
+            <Make_RE_OmniTool.label>fazer omni-ferramenta</Make_RE_OmniTool.label>
+            <Make_RE_OmniTool.description>Faça uma omni-ferramenta.</Make_RE_OmniTool.description>
+            <Make_RE_OmniTool.jobString>Fazendo omni-ferramenta.</Make_RE_OmniTool.jobString>
+
+        <!-- Alliance Officer Hat -->
+            <Make_RE_Apparel_AllianceOfficerHat.label>fazer chapéu de oficial leal</Make_RE_Apparel_AllianceOfficerHat.label>
+            <Make_RE_Apparel_AllianceOfficerHat.description>Faça um chapéu de oficial leal.</Make_RE_Apparel_AllianceOfficerHat.description>
+            <Make_RE_Apparel_AllianceOfficerHat.jobString>Fazendo chapéu de oficial leal.</Make_RE_Apparel_AllianceOfficerHat.jobString>
+
+        <!-- Fatigues -->
+            <Make_RE_Apparel_Fatigues.label>fazer farda</Make_RE_Apparel_Fatigues.label>
+            <Make_RE_Apparel_Fatigues.description>Faça uma farda.</Make_RE_Apparel_Fatigues.description>
+            <Make_RE_Apparel_Fatigues.jobString>Fazendo farda.</Make_RE_Apparel_Fatigues.jobString>
+
+        <!-- Alliance Dress Jacket -->
+            <Make_RE_Apparel_AllianceDressJacket.label>fazer terno leal</Make_RE_Apparel_AllianceDressJacket.label>
+            <Make_RE_Apparel_AllianceDressJacket.description>Faça um terno leal.</Make_RE_Apparel_AllianceDressJacket.description>
+            <Make_RE_Apparel_AllianceDressJacket.jobString>Fazendo terno leal.</Make_RE_Apparel_AllianceDressJacket.jobString>
+
+        <!-- Formal Shirt -->
+            <Make_RE_Apparel_FormalShirt.label>fazer camisa formal</Make_RE_Apparel_FormalShirt.label>
+            <Make_RE_Apparel_FormalShirt.description>Faça uma camisa formal.</Make_RE_Apparel_FormalShirt.description>
+            <Make_RE_Apparel_FormalShirt.jobString>Fazendo camisa formal.</Make_RE_Apparel_FormalShirt.jobString>
+
+        <!-- Formal Jacket -->
+            <Make_RE_Apparel_FormalJacket.label>fazer jaqueta formal</Make_RE_Apparel_FormalJacket.label>
+            <Make_RE_Apparel_FormalJacket.description>Faça uma jaqueta formal.</Make_RE_Apparel_FormalJacket.description>
+            <Make_RE_Apparel_FormalJacket.jobString>Fazendo jaqueta formal.</Make_RE_Apparel_FormalJacket.jobString>
+
+        <!-- Battle Uniform -->
+            <Make_RE_Apparel_BattleUniform.label>fazer uniforme de batalha</Make_RE_Apparel_BattleUniform.label>
+            <Make_RE_Apparel_BattleUniform.description>Faça um uniforme de batalha.</Make_RE_Apparel_BattleUniform.description>
+            <Make_RE_Apparel_BattleUniform.jobString>Fazendo uniforme de batalha.</Make_RE_Apparel_BattleUniform.jobString>
+
+        <!-- Sicence Uniform -->
+            <Make_RE_Apparel_ScienceUniform.label>fazer uniforme científico</Make_RE_Apparel_ScienceUniform.label>
+            <Make_RE_Apparel_ScienceUniform.description>Faça um uniforme científico.</Make_RE_Apparel_ScienceUniform.description>
+            <Make_RE_Apparel_ScienceUniform.jobString>Fazendo uniforme científico.</Make_RE_Apparel_ScienceUniform.jobString>
+
+        <!-- Prefabrication Componenet -->
+            <RE_Make_PrefabComponent.label>fazer componente de pré-fabricação</RE_Make_PrefabComponent.label>
+            <RE_Make_PrefabComponent.description>Faça um componente de pré-fabricação.</RE_Make_PrefabComponent.description>
+            <RE_Make_PrefabComponent.jobString>Fazendo componente de pré-fabricação.</RE_Make_PrefabComponent.jobString>
+            <RE_Make_PrefabComponentBulk.label>fazer componente de pré-fabricação x8</RE_Make_PrefabComponentBulk.label>
+            <RE_Make_PrefabComponentBulk.description>Faça componentes de pré-fabricação.</RE_Make_PrefabComponentBulk.description>
+            <RE_Make_PrefabComponentBulk.jobString>Fazendo componentes de pré-fabricação.</RE_Make_PrefabComponentBulk.jobString>
+
+        <!-- Medi-gel -->
+            <RE_AdministerMediGel.label>administrar medi-gel</RE_AdministerMediGel.label>
+            <RE_AdministerMediGel.description>Administre medi-gel.</RE_AdministerMediGel.description>
+            <RE_AdministerMediGel.jobString>Administrando medi-gel.</RE_AdministerMediGel.jobString>
+
+        <!-- Adrenaline Module -->
+            <RE_InstallAdrenalineModule.label>instalar módulo de adrenalina</RE_InstallAdrenalineModule.label>
+            <RE_InstallAdrenalineModule.description>Instale um módulo de adrenalina.</RE_InstallAdrenalineModule.description>
+            <RE_InstallAdrenalineModule.jobString>Instalando módulo de adrenalina.</RE_InstallAdrenalineModule.jobString>
+            <RE_RemoveAdrenalineModule.label>remover módulo de adrenalina</RE_RemoveAdrenalineModule.label>
+            <RE_RemoveAdrenalineModule.description>Remova um módulo de adrenalina.</RE_RemoveAdrenalineModule.description>
+            <RE_RemoveAdrenalineModule.jobString>Removendo módulo de adrenalina.</RE_RemoveAdrenalineModule.jobString>
+
+        <!-- Stabilization Module -->
+            <RE_InstallStabilizationModule.label>instalar módulo de estabilização</RE_InstallStabilizationModule.label>
+            <RE_InstallStabilizationModule.description>Instale um módulo de estabilização.</RE_InstallStabilizationModule.description>
+            <RE_InstallStabilizationModule.jobString>Instalando módulo de estabilização.</RE_InstallStabilizationModule.jobString>
+            <RE_RemoveStabilizationModule.label>remover módulo de estabilização</RE_RemoveStabilizationModule.label>
+            <RE_RemoveStabilizationModule.description>Remova um módulo de estabilização.</RE_RemoveStabilizationModule.description>
+            <RE_RemoveStabilizationModule.jobString>Removendo módulo de estabilização.</RE_RemoveStabilizationModule.jobString>
+
+        <!-- Strength Enhancer -->
+            <RE_InstallStrengthEnhancer.label>instalar intensificador de força</RE_InstallStrengthEnhancer.label>
+            <RE_InstallStrengthEnhancer.description>Instale um intensificador de força.</RE_InstallStrengthEnhancer.description>
+            <RE_InstallStrengthEnhancer.jobString>Instalando intensificador de força.</RE_InstallStrengthEnhancer.jobString>
+            <RE_RemoveStrengthEnhancer.label>remover intensificador de força</RE_RemoveStrengthEnhancer.label>
+            <RE_RemoveStrengthEnhancer.description>Remova um intensificador de força.</RE_RemoveStrengthEnhancer.description>
+            <RE_RemoveStrengthEnhancer.jobString>Removendo intensificador de força.</RE_RemoveStrengthEnhancer.jobString>
+
+        <!-- Power Amplifier -->
+            <RE_InstallPowerAmplifier.label>instalar amplificador de potência</RE_InstallPowerAmplifier.label>
+            <RE_InstallPowerAmplifier.description>Instale um amplificador de potência.</RE_InstallPowerAmplifier.description>
+            <RE_InstallPowerAmplifier.jobString>Instalando amplificador de potência.</RE_InstallPowerAmplifier.jobString>
+            <RE_RemovePowerAmplifier.label>remover amplificador de potência</RE_RemovePowerAmplifier.label>
+            <RE_RemovePowerAmplifier.description>Remova um amplificador de potência.</RE_RemovePowerAmplifier.description>
+            <RE_RemovePowerAmplifier.jobString>Removendo amplificador de potência.</RE_RemovePowerAmplifier.jobString>
+
+        <!-- Power Eddiciency Module -->
+            <RE_InstallPowerEfficiencyModule.label>instalar módulo de eficiência energética</RE_InstallPowerEfficiencyModule.label>
+            <RE_InstallPowerEfficiencyModule.description>Instale um módulo de eficiência energética.</RE_InstallPowerEfficiencyModule.description>
+            <RE_InstallPowerEfficiencyModule.jobString>Instalando módulo de eficiência energética.</RE_InstallPowerEfficiencyModule.jobString>
+            <RE_RemovePowerEfficiencyModule.label>remover módulo de eficiência energética</RE_RemovePowerEfficiencyModule.label>
+            <RE_RemovePowerEfficiencyModule.description>Remova um módulo de eficiência energética.</RE_RemovePowerEfficiencyModule.description>
+            <RE_RemovePowerEfficiencyModule.jobString>Removendo módulo de eficiência energética.</RE_RemovePowerEfficiencyModule.jobString>
+
+        <!-- Targeting VI -->
+            <RE_InstallTargetingVI.label>instalar segmentação VI</RE_InstallTargetingVI.label>
+            <RE_InstallTargetingVI.description>Instale uma segmentação VI.</RE_InstallTargetingVI.description>
+            <RE_InstallTargetingVI.jobString>Instalando segmentação VI.</RE_InstallTargetingVI.jobString>
+            <RE_RemoveTargetingVI.label>remover segmentação VI</RE_RemoveTargetingVI.label>
+            <RE_RemoveTargetingVI.description>Remova uma segmentação VI.</RE_RemoveTargetingVI.description>
+            <RE_RemoveTargetingVI.jobString>Removendo segmentação VI.</RE_RemoveTargetingVI.jobString>
 
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Rage of Nature Implant -->

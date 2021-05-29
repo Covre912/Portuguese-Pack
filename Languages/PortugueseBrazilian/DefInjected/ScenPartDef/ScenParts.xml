@@ -9,6 +9,9 @@
         <StartAllies.label>iniciar com aliados</StartAllies.label>
         <RescuePrisoners.label>resgatar prisioneiros</RescuePrisoners.label>
 
+    <!-- Rim-Effect: Core -->
+        <RE_StartRandomIncidentOfCategory.label>Começar com um desastre aleatório</RE_StartRandomIncidentOfCategory.label>
+
     <!-- Vanilla Expanded Framework -->
         <VFEC_ForcedFactionGoodwill.label>relações forçadas de facção</VFEC_ForcedFactionGoodwill.label>
         <VFEC_PlayerPawnsArriveMethodEdge.label>método de chegada do colono</VFEC_PlayerPawnsArriveMethodEdge.label>

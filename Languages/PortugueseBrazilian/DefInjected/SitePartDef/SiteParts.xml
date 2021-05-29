@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Rim-Effect: Core -->
+        <!-- Guarded Prothean Beacon -->
+            <RE_BeaconSite.label>farol proteico vigiado</RE_BeaconSite.label>
+            <RE_BeaconSite.description>Um farol proteico vigiado.</RE_BeaconSite.description>
+
+        <!-- Hostages Camp -->
+            <RE_HostagesSite.label>campo de reféns</RE_HostagesSite.label>
+            <RE_HostagesSite.description>Reféns mantidos por inimigos. Resgate-os para reivindicar suas recompensas.</RE_HostagesSite.description>
+
+        <!-- Kodiak Shuttle Crash -->
+            <RE_KodiakShuttleCrash.label>transporte Kodiak acidentado</RE_KodiakShuttleCrash.label>
+            <RE_KodiakShuttleCrash.description>Um transporte Kodiak quebrado.</RE_KodiakShuttleCrash.description>
+
+        <!-- Wounded Alliance Soldiers -->
+            <RE_WoundedSoldier.label>soldados leais feridos</RE_WoundedSoldier.label>
+            <RE_WoundedSoldier.description>Soldados leais feridos. Alguns podem se juntar a você.</RE_WoundedSoldier.description>
+
+        <!-- Dead Soldier -->
+            <RE_DeadSoldier.label>soldado morto</RE_DeadSoldier.label>
+            <RE_DeadSoldier.description>Soldados mortos.</RE_DeadSoldier.description>
+
+        <!-- Hostiles Attacking Soldiers -->
+            <RE_PirateOrMech.label>hostiles attacking soldiers.</RE_PirateOrMech.label>
+            <RE_PirateOrMech.description>Hostiles attacking soldiers.</RE_PirateOrMech.description>
+
+        <!-- Rogue VI Site -->
+            <RE_RogueSite.label>campo VI desonesto</RE_RogueSite.label>
+            <RE_RogueSite.description>Uma pequena instalação executada por uma inteligência virtual desonesta.</RE_RogueSite.description>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Mounster Encounter -->
             <WMH_Basilisk_MonsterEncounterCore.label>encontro de monstro</WMH_Basilisk_MonsterEncounterCore.label>

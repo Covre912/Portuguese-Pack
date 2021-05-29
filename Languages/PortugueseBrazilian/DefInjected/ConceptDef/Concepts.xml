@@ -4,7 +4,7 @@
     <!-- [HLX] Ultratech: Altered Carbon -->
         <!-- Growing Sleeves -->
             <AC_SleeveGrowing.label>Crescimento de Corpos</AC_SleeveGrowing.label>
-            <AC_SleeveGrowing.helpText>INCUBADORES DE CORPOS podem ser usados ​​para criar novos corpos a partir do zero. Requer NEUTROAMINA como combustível.\n\n\nPara começar a a criar um novo corpo, selecione a incubadora de corpos e clique em CRIAR CORPO. Isso abrirá o designer de corpos. Aqui você pode personalizar o novo corpo ao seu gosto, escolher sua raça seu nível de QUALIDADE e BELEZA. Quando estiver satisfeito com o design, clique em ACEITAR para começar a criar o COLONO.\n\nA BELEZA define o quão bonitp será o novo corpo. Isso adicionará o traço apropriado ao novo corpo. NORMAL não adiciona traços de beleza.\n\n\nA QUALIDADE influencia o tempo que o corpo leva para crescer e aplica uma condição que afeta a eficácia do novo corpo. NORMAL não adicionará uma condição.\n\n\nOs novos corpos têm basicamente morte cerebral e não serão capazes de cuidar de si mesmos. Recomenda-se ter um SARCÓFAGO DE CORPOS pronto para armazená-los até a instalação de um cartucho.</AC_SleeveGrowing.helpText>
+            <AC_SleeveGrowing.helpText>INCUBADORAS DE CORPOS podem ser usados ​​para criar novos corpos a partir do zero. Requer NEUTROAMINA como combustível.\n\n\nPara começar a a criar um novo corpo, selecione a incubadora de corpos e clique em CRIAR CORPO. Isso abrirá o designer de corpos. Aqui você pode personalizar o novo corpo ao seu gosto, escolher sua raça seu nível de QUALIDADE e BELEZA. Quando estiver satisfeito com o design, clique em ACEITAR para começar a criar o COLONO.\n\nA BELEZA define o quão bonitp será o novo corpo. Isso adicionará o traço apropriado ao novo corpo. NORMAL não adiciona traços de beleza.\n\n\nA QUALIDADE influencia o tempo que o corpo leva para crescer e aplica uma condição que afeta a eficácia do novo corpo. NORMAL não adicionará uma condição.\n\n\nOs novos corpos têm basicamente morte cerebral e não serão capazes de cuidar de si mesmos. Recomenda-se ter um SARCÓFAGO DE CORPOS pronto para armazená-los até a instalação de um cartucho.</AC_SleeveGrowing.helpText>
 
         <!-- Sleeve Caskets -->
             <AC_UsingSleeveCaskets.label>Sarcófagos de Corpos</AC_UsingSleeveCaskets.label>
@@ -54,5 +54,10 @@
         <!-- CE Patch -->
             <Concept_CEOverride.label>Combat Extended</Concept_CEOverride.label>
             <Concept_CEOverride.helpText>Combat Extended está carregado. A funcionalidade de gerenciamento de inventário do SimpleSidearms está desabilitada.</Concept_CEOverride.helpText>
+
+    <!-- Rim-Effect: Core -->
+        <!-- Prefab Door States -->
+            <RE_PrefabDoorStates.label>Estados da Porta Pré-fab.</RE_PrefabDoorStates.label>
+            <RE_PrefabDoorStates.helpText>As portas pré-fab. podem usar diferentes estados de bloqueio para abrir apenas para certos colonos.</RE_PrefabDoorStates.helpText>
 
 </LanguageData>

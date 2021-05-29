@@ -11,4 +11,8 @@
         <VMEu_PlasticBrickWallDropdownMenu.label>parede de tijolos de plástico</VMEu_PlasticBrickWallDropdownMenu.label>
         <VMEu_PlasticBrickTileDropdownMenu.label>ladrilho de tijolos de plástico</VMEu_PlasticBrickTileDropdownMenu.label>
 
+    <!-- Rim-Effect: Core -->
+        <RE_ColonialFloorTileSteel.label>piso colonial</RE_ColonialFloorTileSteel.label>
+        <RE_ColonialPavementTile.label>ladrilho pavimentado colonial</RE_ColonialPavementTile.label>
+
 </LanguageData>

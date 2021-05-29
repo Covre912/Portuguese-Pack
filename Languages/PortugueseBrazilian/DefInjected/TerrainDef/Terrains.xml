@@ -1023,6 +1023,29 @@
             <SapphireTile.label>ladrilho de safira</SapphireTile.label>
             <SapphireTile.description>Uma extravagância de tirar o fôlego. Eles são excepcionalmente caros e belos, além de que as pessoas irão pensar que você é extremamente esnobe se viver com eles.</SapphireTile.description>
 
+    <!-- Rim-Effect: Core -->
+        <!-- Colonial Wood Floow -->
+            <RE_ColonialWoodTile.label>piso colonial de madeira</RE_ColonialWoodTile.label>
+            <RE_ColonialWoodTile.description>Piso de tábuas de madeira. Para um sentimento acolhedor e caseiro. Embora seja rápido de construir, é muito inflamável.</RE_ColonialWoodTile.description>
+
+        <!-- Metal Colonial Floor -->
+            <RE_ColonialFloorTileSteel.label>piso colonial de aço</RE_ColonialFloorTileSteel.label>
+            <RE_ColonialFloorTileSteel.description>Ladrilhos de aço, para uma aparência de espaçonave. São bonitos e fornecem um bônus de limpeza.</RE_ColonialFloorTileSteel.description>
+            <RE_ColonialFloorTileSilver.label>piso colonial de prata</RE_ColonialFloorTileSilver.label>
+            <RE_ColonialFloorTileSilver.description>Para uma aparência futurista e real, ladrilhos de prata se encaixam perfeitamente em cômodos luxuosos. Fornecem um bônus de limpeza.</RE_ColonialFloorTileSilver.description>
+            <RE_ColonialFloorTileGold.label>piso colonial de ouro</RE_ColonialFloorTileGold.label>
+            <RE_ColonialFloorTileGold.description>Para extravagância arrogante, nada supera os ladrilhos de ouro. São extremamente caros e bonitos, e as pessoas vão pensar que você é excepcionalmente esnobe se viver com eles.</RE_ColonialFloorTileGold.description>
+            <RE_ColonialRubberTile.label>piso colonial de borracha</RE_ColonialRubberTile.label>
+            <RE_ColonialRubberTile.description>Piso colonial de borracha, rápido de construir. Reduz o risco de acidentes perigosos.</RE_ColonialRubberTile.description>
+
+        <!-- Metal Colonial Pavement Tile -->
+            <RE_ColonialPavementTileSteel.label>ladrilho pavimentado colonial de aço</RE_ColonialPavementTileSteel.label>
+            <RE_ColonialPavementTileSteel.description>Ladrilhos de aço. Barato, mas neutro em termos de aparência e rápido de construir.</RE_ColonialPavementTileSteel.description>
+            <RE_ColonialPavementTileSilver.label>ladrilho pavimentado colonial de prata</RE_ColonialPavementTileSilver.label>
+            <RE_ColonialPavementTileSilver.description>Ladrilhos de prata. Barato, bonito em termos de aparência e rápido de construir.</RE_ColonialPavementTileSilver.description>
+            <RE_ColonialPavementTileGold.label>ladrilho pavimentado colonial de ouro</RE_ColonialPavementTileGold.label>
+            <RE_ColonialPavementTileGold.description>Ladrilhos de ouro. Caro, muito bonito em termos de aparência e rápido de construir.</RE_ColonialPavementTileGold.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Factory Floor -->
             <VFE_FactoryFloor.label>chão de fábrica</VFE_FactoryFloor.label>

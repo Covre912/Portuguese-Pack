@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <!-- [HLX ReGrowth - Mutated Animals Pack -->
+    <!-- [HLX] ReGrowth - Mutated Animals Pack -->
         <!-- Rimstag -->
             <RG-WF_WastelandDeer.label>veado mutante</RG-WF_WastelandDeer.label>
             <RG-WF_WastelandDeer.description>Um herbívoro de pastoreio de tamanho médio que sofreu mutação por gerações para resíduos tóxico que prefere viver em florestas e planícies mistas. Os veados mutados são muito rápidos e têm duas cabeças.</RG-WF_WastelandDeer.description>
@@ -145,6 +145,44 @@
             <RttR_Zippleback.tools.4.label>cabeça</RttR_Zippleback.tools.4.label>
             <RttR_Zippleback.verbs.0.label>sopro de gás de ziperarepiante</RttR_Zippleback.verbs.0.label>
             <RttR_Zippleback.verbs.1.label>sopro flamejante de ziperarepiante</RttR_Zippleback.verbs.1.label>
+
+    <!-- RimEffect: Core -->
+        <!-- Pyjak -->
+            <RE_Pyjak.label>pijaque</RE_Pyjak.label>
+            <RE_Pyjak.description>Uma criatura social semelhante a um macaco com extrema adaptabilidade. Essas pequenas criaturas inteligentes são consideradas, na maioria dos lugares, um incômodo invasivo e superam a vida nativa. A curiosidade muitas vezes os torna um aborrecimento para as colônias, já que muitas vezes roubam várias peças tecnológicas porque as acham interessantes.</RE_Pyjak.description>
+            <RE_Pyjak.tools.0.label>garra esquerda</RE_Pyjak.tools.0.label>
+            <RE_Pyjak.tools.1.label>garra direita</RE_Pyjak.tools.1.label>
+            <RE_Pyjak.tools.3.label>cabeça</RE_Pyjak.tools.3.label>
+
+        <!-- Varren -->
+            <RE_Varren.label>varren</RE_Varren.label>
+            <RE_Varren.description>Um predador elegante que parece um cruzamento entre um canino e uma cobra. Eles são encontrados em muitos mundos e geralmente são considerados uma espécie invasora devido à sua extrema adaptabilidade e rápido ciclo de reprodução.</RE_Varren.description>
+            <RE_Varren.tools.0.label>garra esquerda</RE_Varren.tools.0.label>
+            <RE_Varren.tools.1.label>garra direita</RE_Varren.tools.1.label>
+            <RE_Varren.tools.2.label>presas</RE_Varren.tools.2.label>
+            <RE_Varren.tools.3.label>cabeça</RE_Varren.tools.3.label>
+
+        <!-- Space Cow -->
+            <RE_SpaceCow.label>vaca espacial</RE_SpaceCow.label>
+            <RE_SpaceCow.description>Nomeados mais devido ao seu nicho ecológico do que qualquer semelhança visual, esses pacíficos herbívoros ocasionalmente exibem inteligência aumentada. Eles são extremamente passivos, muitas vezes nem reagem ao serem atacados.</RE_SpaceCow.description>
+            <RE_SpaceCow.tools.1.label>cabeça</RE_SpaceCow.tools.1.label>
+            <RE_SpaceCow.tools.2.label>casco esquerdo</RE_SpaceCow.tools.2.label>
+            <RE_SpaceCow.tools.3.label>casco direito</RE_SpaceCow.tools.3.label>
+
+        <!-- FENRIS Mech -->
+            <RE_Mechanoids_FENRIS.label>FENRIS</RE_Mechanoids_FENRIS.label>
+            <RE_Mechanoids_FENRIS.description>Construções mecânicas projetadas especificamente para transporte de recursos. Como outros mecanoides, são identificáveis ​​por sua armadura branca e luzes vermelhas. Para muitos humanos, os FENRIS são vistos como análogos mecânicos de "cães".</RE_Mechanoids_FENRIS.description>
+            <RE_Mechanoids_FENRIS.tools.0.label>cabeça</RE_Mechanoids_FENRIS.tools.0.label>
+
+        <!-- LOKI Mech -->
+            <RE_Mechanoids_LOKI.label>LOKI</RE_Mechanoids_LOKI.label>
+            <RE_Mechanoids_LOKI.description>O LOKI é um robô de segurança humanóide bípede projetado para detalhes de segurança e serviço de guarda em locais onde a mão de obra é um problema ou onde o uso de orgânicos para turnos "ininterruptos" é inviável. Lentos e simplórios, esses andróides são dispensáveis, mas bastante duráveis.</RE_Mechanoids_LOKI.description>
+            <RE_Mechanoids_LOKI.tools.0.label>cabeça</RE_Mechanoids_LOKI.tools.0.label>
+
+        <!-- YMIR Mech -->
+            <RE_Mechanoids_YMIR.label>YMIR</RE_Mechanoids_YMIR.label>
+            <RE_Mechanoids_YMIR.description>O YMIR, ou Modelo 34-A, é uma enorme máquina de matar projetada para fins anti-infantaria. Vestidos com uma armadura branca como osso com luzes vermelhas, eles são utilizados pelos militares leais como suporte de infantaria, utilizando um escudo poderoso capaz de resistir a fogo pesado.</RE_Mechanoids_YMIR.description>
+            <RE_Mechanoids_YMIR.tools.0.label>cabeça</RE_Mechanoids_YMIR.tools.0.label>
 
     <!-- RimWorld - Wither Monster Hunt -->
         <!-- Basilisk -->

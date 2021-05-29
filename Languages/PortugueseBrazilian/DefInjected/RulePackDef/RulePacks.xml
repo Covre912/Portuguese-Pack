@@ -10,6 +10,149 @@
                 <li>sent->Suas diferenças aumentaram até [RECIPIENT_nameDef] começar uma luta!</li>
             </Sentence_SocialFightConvoRecipientStarted.rulePack.rulesStrings>
 
+    <!-- Rim-Effect: Core -->
+        <!-- Alliance -->
+            <NamerFaction_SystemsAlliance.rulePack.rulesStrings>
+                <li>name->A 4ª Frota da Aliança</li>
+                <li>name->A 5ª Frota da Aliança</li>
+                <li>name->A 6ª Frota da Aliança</li>
+                <li>name->A 7ª Frota da Aliança</li>
+                <li>name->A 8ª Frota da Aliança</li>
+                <li>name->A 9ª Frota da Aliança</li>
+                <li>name->A 10ª Frota da Aliança</li>
+                <li>name->A 11ª Frota da Aliança</li>
+                <li>name->A 12ª Frota da Aliança</li>
+                <li>name->A 13ª Frota da Aliança</li>
+                <li>name->A 14ª Frota da Aliança</li>
+                <li>name->A 15ª Frota da Aliança</li>
+                <li>name->A 16ª Frota da Aliança</li>
+                <li>name->A 17ª Frota da Aliança</li>
+                <li>name->A 18ª Frota da Aliança</li>
+                <li>name->A 19ª Frota da Aliança</li>
+                <li>name->A 20ª Frota da Aliança</li>
+                <li>name->A 21ª Frota da Aliança</li>
+                <li>name->A 22ª Frota da Aliança</li>
+                <li>name->A 23ª Frota da Aliança</li>
+                <li>name->A 24ª Frota da Aliança</li>
+                <li>name->A 25ª Frota da Aliança</li>
+                <li>name->A 26ª Frota da Aliança</li>
+                <li>name->A 27ª Frota da Aliança</li>
+                <li>name->A 28ª Frota da Aliança</li>
+                <li>name->A 29ª Frota da Aliança</li>
+                <li>name->A 30ª Frota da Aliança</li>
+                <li>name->A 31ª Frota da Aliança</li>
+                <li>name->A 32ª Frota da Aliança</li>
+                <li>name->A 33ª Frota da Aliança</li>
+                <li>name->A 34ª Frota da Aliança</li>
+                <li>name->A 35ª Frota da Aliança</li>
+                <li>name->A 36ª Frota da Aliança</li>
+                <li>name->A 37ª Frota da Aliança</li>
+                <li>name->A 38ª Frota da Aliança</li>
+                <li>name->A 39ª Frota da Aliança</li>
+                <li>name->A 40ª Frota da Aliança</li>
+                <li>name->A 41ª Frota da Aliança</li>
+                <li>name->A 42ª Frota da Aliança</li>
+                <li>name->A 43ª Frota da Aliança</li>
+                <li>name->A 44ª Frota da Aliança</li>
+                <li>name->A 45ª Frota da Aliança</li>
+                <li>name->A 46ª Frota da Aliança</li>
+                <li>name->A 47ª Frota da Aliança</li>
+                <li>name->A 48ª Frota da Aliança</li>
+                <li>name->A 49ª Frota da Aliança</li>
+                <li>name->A 50ª Frota da Aliança</li>
+                <li>name->A 51ª Frota da Aliança</li>
+                <li>name->A 52ª Frota da Aliança</li>
+                <li>name->A 53ª Frota da Aliança</li>
+                <li>name->A 54ª Frota da Aliança</li>
+                <li>name->A 55ª Frota da Aliança</li>
+                <li>name->A 56ª Frota da Aliança</li>
+                <li>name->Força de Expedição Arcturus</li>
+                <li>name->Força de Expedição Elyse</li>
+                <li>name->Força de Expedição Selene</li>
+                <li>name->Força de Expedição Elysium</li>
+                <li>name->Força de Expedição Novi</li>
+                <li>name->Força de Expedição Torus</li>
+                <li>name->Força de Expedição Caelys</li>
+                <li>name->Força de Expedição Helio</li>
+                <li>name->Força de Expedição Spire</li>
+                <li>name->Força de Expedição Alpha</li>
+                <li>name->Força de Expedição Beta</li>
+                <li>name->Força de Expedição Tarus</li>
+                <li>name->Força de Expedição Herment</li>
+                <li>name->Força de Expedição Merveile</li>
+                <li>name->Força de Expedição Orphe</li>
+                <li>name->Força de Expedição Azure</li>
+                <li>name->Força de Expedição Exin</li>
+                <li>name->Força de Expedição Siro</li>
+                <li>name->Iniciativa Colonial Arcturus</li>
+                <li>name->Iniciativa Colonial Elyse</li>
+                <li>name->Iniciativa Colonial Selene</li>
+                <li>name->Iniciativa Colonial Elysium</li>
+                <li>name->Iniciativa Colonial Novi</li>
+                <li>name->Iniciativa Colonial Torus</li>
+                <li>name->Iniciativa Colonial Caelys</li>
+                <li>name->Iniciativa Colonial Helio</li>
+                <li>name->Iniciativa Colonial Spire</li>
+                <li>name->Iniciativa Colonial Alpha</li>
+                <li>name->Iniciativa Colonial Beta</li>
+                <li>name->Iniciativa Colonial Tarus</li>
+                <li>name->Iniciativa Colonial Herment</li>
+                <li>name->Iniciativa Colonial Merveile</li>
+                <li>name->Iniciativa Colonial Orphe</li>
+                <li>name->Iniciativa Colonial Azure</li>
+                <li>name->Iniciativa Colonial Exin</li>
+                <li>name->Iniciativa Colonial Siro</li>
+                <li>name->Iniciativa Colonial Astraeus</li>
+                <li>name->Iniciativa Colonial Claste</li>
+                <li>name->Iniciativa Colonial Celera</li>
+            </NamerFaction_SystemsAlliance.rulePack.rulesStrings>
+            <NamerFactionBases_SystemsAlliance.rulePack.rulesStrings>
+                <li>name->Fazenda [nameB]</li>
+                <li>name->Cidade [nameB]</li>
+                <li>name->Vila [nameB]</li>
+                <li>nameB->Anhur</li>
+                <li>nameB->Arvuna</li>
+                <li>nameB->Bekenstein</li>
+                <li>nameB->Benning</li>
+                <li>nameB->Chasca</li>
+                <li>nameB->Cuervo</li>
+                <li>nameB->Cyrene</li>
+                <li>nameB->Demeter</li>
+                <li>nameB->Dobrovalski</li>
+                <li>nameB->Drasta</li>
+                <li>nameB->Eden</li>
+                <li>nameB->Prime</li>
+                <li>nameB->Elysium</li>
+                <li>nameB->Ferris</li>
+                <li>nameB->Horizon</li>
+                <li>nameB->Luna</li>
+                <li>nameB->Mindoir</li>
+                <li>nameB->Canton</li>
+                <li>nameB->Novo Canton</li>
+                <li>nameB->Noveria</li>
+                <li>nameB->Olor</li>
+                <li>nameB->Proteus</li>
+                <li>nameB->Sanctum</li>
+                <li>nameB->Sathur</li>
+                <li>nameB->Shanxi</li>
+                <li>nameB->Sirona</li>
+                <li>nameB->Terra</li>
+                <li>nameB->Nova</li>
+                <li>nameB->Yamn</li>
+                <li>nameB->Yandoa</li>
+                <li>nameB->Nort</li>
+                <li>nameB->Heli</li>
+                <li>nameB->Astera</li>
+                <li>nameB->Koru</li>
+                <li>nameB->Lumina</li>
+                <li>nameB->Aurora</li>
+                <li>nameB->Aegis</li>
+                <li>nameB->Azure</li>
+                <li>nameB->Spectrum</li>
+                <li>nameB->Reverie</li>
+            </NamerFactionBases_SystemsAlliance.rulePack.rulesStrings>
+
+
     <!-- Vanilla Books Expanded -->
         <!-- Book Description -->
             <ArtDescription_BookShooting.rulePack.rulesStrings>

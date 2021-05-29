@@ -5,6 +5,10 @@
         <RttR_RaceToTheRim.label>Jornada do Herói</RttR_RaceToTheRim.label>
         <RttR_RaceToTheRim.description>Adicionando ataques de animais à distância para criaturas da Jornada do Herói</RttR_RaceToTheRim.description>
 
+    <!-- Rim-Effect: Core -->  
+        <RE_RimEffect.label>Efeito Rim</RE_RimEffect.label>
+        <RE_RimEffect.description>Efeiro Rim.</RE_RimEffect.description>
+
     <!-- Witcher Monster Hunt -->
         <WMH_Witcher.label>Caça aos Monstros</WMH_Witcher.label>
         <WMH_Witcher.description>Adicionando ataques de animais à distância para criaturas da Caça aos Monstros</WMH_Witcher.description>

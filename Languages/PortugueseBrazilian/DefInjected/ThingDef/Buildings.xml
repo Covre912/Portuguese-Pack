@@ -211,6 +211,221 @@
             <RttR_AlgaeLantern.label>lanterna de alga</RttR_AlgaeLantern.label>
             <RttR_AlgaeLantern.description>Uma lanterna que converte a bioluminiscência natural das algas de pesadelo em luz utilizável para o cultivo de plantas.</RttR_AlgaeLantern.description>
 
+    <!-- Rim-Effect: Core -->
+        <!-- Ship Model -->
+            <RE_SculptureModel.label>modelo de espaçonave</RE_SculptureModel.label>
+            <RE_SculptureModel.description>Desde os tempos antigos, os capitães adoram ver outras representações de seus amados navios. O mesmo é verdade hoje com este modelo de espaçonave.</RE_SculptureModel.description>
+
+        <!-- Kodiak Shuttle -->
+            <RE_KodiakShuttle.label>transporte Kodiak</RE_KodiakShuttle.label>
+            <RE_KodiakShuttle.description>Uma espaçonave avançada impulsionada por pequenos propulsores direcionais e um sistema de repulsão baseado em efeito de massa, o transporte Kodiak é um elemento comum em toda a galáxia graças ao seu design robusto e capacidade de fazer saltos mais rápidos que a luz.</RE_KodiakShuttle.description>
+
+        <!-- Prothean Beacon -->
+            <RE_ProtheanBeacon.label>farol proteico</RE_ProtheanBeacon.label>
+            <RE_ProtheanBeacon.description>Esses faróis têm sido a fonte da tecnologia mais avançada da galáxia e compartilham sua história e conhecimento. Aqueles que se prepararam para interagir com eles podem adquirir conhecimento, enquanto outros podem enlouquecer.</RE_ProtheanBeacon.description>
+
+        <!-- Mako Tank -->
+            <RE_MakoTank.label>tanque Mako</RE_MakoTank.label>
+            <RE_MakoTank.description>Uma espaçonave projetada para o trânsito entre a superfície e a órbita, ou entre as luas de um sistema planetário.</RE_MakoTank.description>
+
+        <!-- Prefab Heater -->
+            <RE_PrefabHeater.label>aquecedor pré-fab.</RE_PrefabHeater.label>
+            <RE_PrefabHeater.description>Um dispositivo que converte eletricidade em calor, de forma mais eficaz do que o aquecedor básico. Pode ligar ou desligar automaticamente para atingir uma temperatura alvo específica.</RE_PrefabHeater.description>
+
+        <!-- Prefab Standing Lamp -->
+            <RE_PrefabStandingLamp.label>luminária pré-fab.</RE_PrefabStandingLamp.label>
+            <RE_PrefabStandingLamp.description>Uma lâmpada elétrica que ilumina uma área em azul suave.</RE_PrefabStandingLamp.description>
+
+        <!-- Prefab Dresser -->
+            <RE_PrefabDresser.label>cômoda pré-fab.</RE_PrefabDresser.label>
+            <RE_PrefabDresser.description>Uma cômoda simples projetada para ser montada de forma rápida e fácil no processo de instalação de uma nova colônia. Oferece um bônus de conforto não acumulável para camas próximas.</RE_PrefabDresser.description>
+
+        <!-- Prefab Chair -->
+            <RE_PrefabChair.label>caeira pré-fab.</RE_PrefabChair.label>
+            <RE_PrefabChair.description>Uma cadeira simples e confortável projetada para ser montada de forma rápida e fácil no processo de instalação de uma nova colônia.</RE_PrefabChair.description>
+
+        <!-- Prefab Bed -->
+            <RE_PrefabBed.label>cama pré-fab.</RE_PrefabBed.label>
+            <RE_PrefabBed.description>Uma cama confortável projetada para ser montada de forma rápida e fácil no processo de instalação de uma nova colônia.</RE_PrefabBed.description>
+
+        <!-- Prefab Double Bed -->
+            <RE_PrefabDoubleBed.label>cama de casal pré-fab.</RE_PrefabDoubleBed.label>
+            <RE_PrefabDoubleBed.description>Uma confortável cama de casal projetada para ser montada de forma rápida e fácil no processo de instalação de uma nova colônia.</RE_PrefabDoubleBed.description>
+
+        <!-- Prefab Cooler -->
+            <RE_PrefabCooler.label>refrigerador pré-fab.</RE_PrefabCooler.label>
+            <RE_PrefabCooler.description>Uma máquina de resfriamento de ar que se encaixa em uma parede. O ar frio sai de um lado, enquanto a exaustão quente sai do outro. Pode ser usado para resfriar cômodos durante o verão ou para criar uma zona de freezer.</RE_PrefabCooler.description>
+
+        <!-- Prefab Vent -->
+            <RE_PrefabVent.label>saída de ventilação pré-fab.</RE_PrefabVent.label>
+            <RE_PrefabVent.description>Uma forma de conduzir a temperatura de uma sala para outra. Projetado originalmente para cápsulas de ar de espaçonaves, esta saída de ventilação permite uma equalização de temperatura muito mais rápida.\n\nEquipamentos pré-fabricados são vitais para colocar um novo assentamento em funcionamento com rapidez e segurança em meios perigosos.</RE_PrefabVent.description>
+
+        <!-- Prefab Shelf -->
+            <RE_PrefabShelf.label>prateleira pré-fab.</RE_PrefabShelf.label>
+            <RE_PrefabShelf.description>Uma prateleira para evitar que os itens se deteriorem.\n\nEquipamentos pré-fabricados são vitais para colocar um novo assentamento em funcionamento com rapidez e segurança em meios perigosos.</RE_PrefabShelf.description>
+
+        <!-- Prefab End Table -->
+            <RE_PrefabEndTable.label>mesa de canto pré-fab.</RE_PrefabEndTable.label>
+            <RE_PrefabEndTable.description>Uma pequena mesa para guardar a sua bebida quando está assistindo à leitura de arquivos, não ocupa muito espaço.\n\nEquipamentos pré-fabricados são vitais para colocar um novo assentamento em funcionamento com rapidez e segurança em meios perigosos.</RE_PrefabEndTable.description>
+
+        <!-- Prefab End Table With Lamp -->
+            <RE_PrefabEndTableWithLamp.label>mesa de canto com luminária pré-fab.</RE_PrefabEndTableWithLamp.label>
+            <RE_PrefabEndTableWithLamp.description>Uma pequena mesa para guardar sua bebida enquanto está assistindo à leitura de arquivos, à luz de uma lâmpada incluída.\n\nEquipamentos pré-fabricados são vitais para colocar um novo assentamento em funcionamento com rapidez e segurança em meios perigosos.</RE_PrefabEndTableWithLamp.description>
+
+        <!-- Prefab Medical Bed -->
+            <RE_PrefabMedicalBed.label>cama de hospital pré-fab.</RE_PrefabMedicalBed.label>
+            <RE_PrefabMedicalBed.description>Uma cama médica avançada usada para pacientes, sejam feridos ou doentes, com uma infinidade de funções que fornece assistência médica constante de última geração. De administrações de medi-gel a varreduras completas das funções vitais de um paciente.\n\nEquipamentos pré-fabricados são vitais para colocar um novo assentamento em funcionamento com rapidez e segurança em meios perigosos.</RE_PrefabMedicalBed.description>
+
+        <!-- Prefab Armchair -->
+            <RE_PrefabArmchair.label>poltrona pré-fab.</RE_PrefabArmchair.label>
+            <RE_PrefabArmchair.description>Uma poltrona elegante, bem estofada e confortável.\n\nEquipamentos pré-fabricados são vitais para colocar um novo assentamento em funcionamento com rapidez e segurança em meios perigosos.</RE_PrefabArmchair.description>
+
+        <!-- Prefab Bedside Table -->
+            <RE_PrefabBedsideTable.label>mesa de cabeceira pré-fab.</RE_PrefabBedsideTable.label>
+            <RE_PrefabBedsideTable.description>Uma pequena mesa para guardar a sua bebida quando está assistindo à leitura de arquivos, não ocupa muito espaço.\n\nEquipamentos pré-fabricados são vitais para colocar um novo assentamento em funcionamento com rapidez e segurança em meios perigosos.</RE_PrefabBedsideTable.description>
+
+        <!-- Prefab Bedside Table With Lamp -->
+            <RE_PrefabBedsideTableLamp.label>mesa de cabeceira com lâmpada pré-fab.</RE_PrefabBedsideTableLamp.label>
+            <RE_PrefabBedsideTableLamp.description>Uma pequena mesa para guardar sua bebida enquanto está assistindo à leitura de arquivos, à luz de uma lâmpada incluída.\n\nEquipamentos pré-fabricados são vitais para colocar um novo assentamento em funcionamento com rapidez e segurança em meios perigosos.</RE_PrefabBedsideTableLamp.description>
+
+        <!-- Briefing Table -->
+            <RE_BriefingTable.label>mesa pré-fab. (3x5)</RE_BriefingTable.label>
+            <RE_BriefingTable.description>Uma grande mesa com um centro de vidro projetada para fins de discussão de decisões estratégicas e táticas, ou para outras funções necessárias, como comer ou divertir a tripulação, que exige que as cadeiras sejam colocadas de frente para a mesa. Grande o suficiente para acomodar uma colônia inteira para reuniões e encontros sociais importantes.</RE_BriefingTable.description>
+
+        <!-- Prefab Stool -->
+            <RE_PrefabStool.label>banco pré-fab.</RE_PrefabStool.label>
+            <RE_PrefabStool.description>Um assento simples.\n\nEquipamentos pré-fabricados são vitais para colocar um novo assentamento em funcionamento com rapidez e segurança em meios perigosos.</RE_PrefabStool.description>
+
+        <!-- Prefab Wardrobe -->
+            <RE_PrefabWardrobe.label>guarda-roupa pré-fab.</RE_PrefabWardrobe.label>
+            <RE_PrefabWardrobe.description>Um guarda-roupa que oferece um bônus de aumento de conforto para todas as camas próximas, pode conter quase qualquer tipo de roupa, de jaquetas a moletons oficialmente licenciados pela Aliança.\n\nEquipamentos pré-fabricados são vitais para colocar um novo assentamento em funcionamento com rapidez e segurança em meios perigosos.</RE_PrefabWardrobe.description>
+
+        <!-- Prefab Plant Pot -->
+            <RE_PrefabPlantPot.label>vaso de planta pré-fab.</RE_PrefabPlantPot.label>
+            <RE_PrefabPlantPot.description>Planta flores decorativas para melhorar o humor das pessoas nas proximidades.</RE_PrefabPlantPot.description>
+
+        <!-- Prefab Large Plant Pot -->
+            <RE_PrefabLargePlantPot.label>vaso de planta grande pré-fab.</RE_PrefabLargePlantPot.label>
+            <RE_PrefabLargePlantPot.description>Planta flores decorativas para melhorar o humor das pessoas nas proximidades.</RE_PrefabLargePlantPot.description>
+
+        <!-- Prefab Table -->
+            <RE_PrefabTable1x1c.label>mesa pré-fab. (1x1)</RE_PrefabTable1x1c.label>
+            <RE_PrefabTable1x1c.description>As pessoas comem nas mesas quando as cadeiras são colocadas de frente para elas.</RE_PrefabTable1x1c.description>
+            <RE_PrefabTable1x2c.label>mesa pré-fab. (1x2)</RE_PrefabTable1x2c.label>
+            <RE_PrefabTable1x2c.description>As pessoas comem nas mesas quando as cadeiras são colocadas de frente para elas.</RE_PrefabTable1x2c.description>
+            <RE_PrefabTable2x2c.label>mesa pré-fab. (2x2)</RE_PrefabTable2x2c.label>
+            <RE_PrefabTable2x2c.description>As pessoas comem nas mesas quando as cadeiras são colocadas de frente para elas.</RE_PrefabTable2x2c.description>
+            <RE_PrefabTable2x4c.label>mesa pré-fab. (2x4)</RE_PrefabTable2x4c.label>
+            <RE_PrefabTable2x4c.description>As pessoas comem nas mesas quando as cadeiras são colocadas de frente para elas.</RE_PrefabTable2x4c.description>
+
+        <!-- Prefab Television -->
+            <RE_PrefabTelevision.label>televisão pré-fab.</RE_PrefabTelevision.label>
+            <RE_PrefabTelevision.description>Um aparelho de televisão avançado com uma tela maior, funções inteligentes integradas e conexão galáctica. Atua como meio de entretenimento para aumentar a recreação.\n\nEquipamentos pré-fabricados são vitais para colocar um novo assentamento em funcionamento com rapidez e segurança em meios perigosos.</RE_PrefabTelevision.description>
+
+        <!-- VI Interface -->
+            <RE_VIInterface.label>interface VI</RE_VIInterface.label>
+            <RE_VIInterface.description>Um emissor de holograma conectado à interface VI. O VI pode ser interagido e falado, fornecendo aos usuários notícias, informações e recreação.</RE_VIInterface.description>
+
+        <!-- FENRIS Charging Station -->
+            <RE_Mechanoids_FENRISBase.label>estação de FENRIS</RE_Mechanoids_FENRISBase.label>
+            <RE_Mechanoids_FENRISBase.description>Uma estação para montagem e recarga de FENRIS.</RE_Mechanoids_FENRISBase.description>
+
+        <!-- LOKI Charging Station -->
+            <RE_Mechanoids_LOKIBase.label>estação de LOKI</RE_Mechanoids_LOKIBase.label>
+            <RE_Mechanoids_LOKIBase.description>Uma estação para montagem e recarga de LOKIs.</RE_Mechanoids_LOKIBase.description>
+
+        <!-- YMIR Charging Station -->
+            <RE_Mechanoids_YMIRBase.label>estação de YMIR</RE_Mechanoids_YMIRBase.label>
+            <RE_Mechanoids_YMIRBase.description>Uma estação para montagem e recarga de YMIRs.</RE_Mechanoids_YMIRBase.description>
+
+        <!-- Body Bag -->
+            <RE_GraveBodyBag.label>saco para cadáver</RE_GraveBodyBag.label>
+            <RE_GraveBodyBag.description>Um saco plástico usado para conter os restos mortais de um indivíduo falecido, oferece filtros básicos e proteção contra a exposição a doenças potenciais que o corpo do sujeito possa ter.</RE_GraveBodyBag.description>
+
+        <!-- Galaxy Map -->
+            <RE_GalaxyMap.label>mapa galáctico</RE_GalaxyMap.label>
+            <RE_GalaxyMap.description>Um mapa holográfico interativo usado para navegação e tomada de decisões táticas, comércio com navios interestelares de passagem e para fins de comunicação. Também pode ser usado para receber chamadas de socorro de assentamentos próximos.</RE_GalaxyMap.description>
+
+        <!-- Kodiak Shuttle -->
+            <RE_CrashedKodiakShuttle.label>transporte Kodiak acidentado</RE_CrashedKodiakShuttle.label>
+            <RE_CrashedKodiakShuttle.description>Uma espaçonave avançada impulsionada por pequenos propulsores direcionais e um sistema de repulsão baseado em efeito de massa, o transporte Kodiak é um elemento comum em toda a galáxia graças ao seu design robusto e capacidade de fazer saltos mais rápidos que a luz.\n\nEste está fora de serviço.</RE_CrashedKodiakShuttle.description>
+
+        <!-- Prefab Generator -->
+            <RE_PrefabGenerator.label>gerador pré-fab.</RE_PrefabGenerator.label>
+            <RE_PrefabGenerator.description>Uma forma mais segura e limpa de produzir energia para sua base, este dispositivo converte o urânio em energia elétrica de forma eficiente.\n\nEquipamentos pré-fabricados são vitais para colocar um novo assentamento em funcionamento com rapidez e segurança em meios perigosos.</RE_PrefabGenerator.description>
+
+        <!-- Prefab Solar Collector -->
+            <PrefabSolarCollectors.label>gerador solar pré-fab.</PrefabSolarCollectors.label>
+            <PrefabSolarCollectors.description>Um dispositivo que gera eletricidade a partir do contato com a luz solar, fornece energia limpa para inúmeras outras atividades.\n\nEquipamentos pré-fabricados são vitais para colocar um novo assentamento em funcionamento com rapidez e segurança em meios perigosos.</PrefabSolarCollectors.description>
+
+        <!-- Fusion Cell -->
+            <RE_FusionCell.label>célula de fusão</RE_FusionCell.label>
+            <RE_FusionCell.description>Uma bateria avançada que permite um armazenamento mais eficiente de grandes quantidades de energia. As células de fusão também são capazes de gerar uma pequena quantidade de energia.\n\nEquipamentos pré-fabricados são vitais para colocar um novo assentamento em funcionamento com rapidez e segurança em meios perigosos.</RE_FusionCell.description>
+
+        <!-- Element Zero Reactor -->
+            <RE_ElementZeroReactor.label>reator de elemento zero</RE_ElementZeroReactor.label>
+            <RE_ElementZeroReactor.description>Um grande reator adaptado de um núcleo de energia de espaçonave. Consome elemento zero para produzir grandes quantidades de energia. Pode ser sobrecarregado, resultando em uma produção de energia ainda maior ao custo de drones psíquicos locais.\n\nO reator de elemento zero superaquecerá rapidamente e deve ser resfriado o tempo todo.\n\nNão pode ser colocado no exterior.</RE_ElementZeroReactor.description>
+
+        <!-- Fusion Reactor -->
+            <RE_FusionReactor.label>reator de fusão</RE_FusionReactor.label>
+            <RE_FusionReactor.description>Consome urânio para produzir grandes quantidades de energia. Pode ser sobrecarregado, resultando em uma produção de energia ainda maior ao custo da radiação local.\n\nO reator de fusão superaquecerá rapidamente e deve ser resfriado o tempo todo.\n\nNão pode ser colocado no exterior.</RE_FusionReactor.description>
+
+        <!-- Prefab Geothermal Plant -->
+            <RE_PrefabGeothermalPlant.label>gerador geotérmico pré-fab.</RE_PrefabGeothermalPlant.label>
+            <RE_PrefabGeothermalPlant.description>Produz grande quantidade de eletricidade a partir de gêiseres a vapor geotérmico. Deve ser colocado em um gêiser a vapor..\n\nEquipamentos pré-fabricados são vitais para colocar um novo assentamento em funcionamento com rapidez e segurança em meios perigosos.</RE_PrefabGeothermalPlant.description>
+
+        <!-- Spacer Tech Research Bench -->
+            <RE_SpacerTechResearchBench.label>bancada de pesquisa espacial</RE_SpacerTechResearchBench.label>
+            <RE_SpacerTechResearchBench.description>Uma bancada técnica espacial com computadores e equipamentos eletrônicos de medição. Permite pesquisas mais rápidas e desbloqueia projetos de pesquisa avançados.</RE_SpacerTechResearchBench.description>
+
+        <!-- Manufacturing Bench -->
+            <RE_ManufacturingBench.label>bancada de manufatura</RE_ManufacturingBench.label>
+            <RE_ManufacturingBench.description>Uma bancada de trabalho avançada equipada com omni-ferramentas especializadas para a produção de componentes pré-fabricados e outras maravilhas tecnológicas.</RE_ManufacturingBench.description>
+
+        <!-- Mass Accelerator Turret -->
+            <RE_Turret_MassAccelerator.label>torreta de aceleração de massa</RE_Turret_MassAccelerator.label>
+            <RE_Turret_MassAccelerator.description>Uma torreta avançada que utiliza aceleradores de massa reduzidos, fornecendo uma defesa leve anti-infantaria altamente eficaz para postos avançados e colônias de todos os tipos em ambientes hostis.</RE_Turret_MassAccelerator.description>
+            <RE_Turret_MassAccelerator.comps.CompRefuelable.fuelLabel>Atirar até a troca de cano</RE_Turret_MassAccelerator.comps.CompRefuelable.fuelLabel>
+            <RE_Turret_MassAccelerator.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</RE_Turret_MassAccelerator.comps.CompRefuelable.fuelGizmoLabel>
+            <RE_Turret_MassAccelerator.comps.CompRefuelable.outOfFuelMessage>Não é possível disparar: Precisa de um novo cano</RE_Turret_MassAccelerator.comps.CompRefuelable.outOfFuelMessage>
+            <RE_Bullet_MassAcceleratorTurret.label>tiro de carga de torreta de acelerador de massa</RE_Bullet_MassAcceleratorTurret.label>
+            <RE_Gun_MassAccelerator.label>acelerador de massa</RE_Gun_MassAccelerator.label>
+            <RE_Gun_MassAccelerator.description>Uma torreta avançada que utiliza aceleradores de massa reduzidos, fornecendo uma defesa leve anti-infantaria altamente eficaz para postos avançados e colônias de todos os tipos em ambientes hostis.</RE_Gun_MassAccelerator.description>
+
+        <!-- Heavy Mass Accelerator Turret -->
+            <RE_Turret_HeavyMassAccelerator.label>torreta pesada de aceleração de massa</RE_Turret_HeavyMassAccelerator.label>
+            <RE_Turret_HeavyMassAccelerator.description>Um canhão de artilharia pesado estacionário frequentemente visto guardando postos avançados remotos. Projetado para anti-armadura, este canhão tem um forte impacto. Esses aceleradores de massa aumentados foram originalmente projetados para montagem em uma espaçonave de escala média.</RE_Turret_HeavyMassAccelerator.description>
+            <RE_Turret_HeavyMassAccelerator.comps.CompRefuelable.fuelLabel>Atirar até a troca de cano</RE_Turret_HeavyMassAccelerator.comps.CompRefuelable.fuelLabel>
+            <RE_Turret_HeavyMassAccelerator.comps.CompRefuelable.fuelGizmoLabel>Durabilidade do cano</RE_Turret_HeavyMassAccelerator.comps.CompRefuelable.fuelGizmoLabel>
+            <RE_Turret_HeavyMassAccelerator.comps.CompRefuelable.outOfFuelMessage>Não é possível disparar: Precisa de um novo cano</RE_Turret_HeavyMassAccelerator.comps.CompRefuelable.outOfFuelMessage>
+            <RE_Bullet_HeavyMassAccelerator.label>tiro de carga de torreta pesada de acelerador de massa</RE_Bullet_HeavyMassAccelerator.label>
+            <RE_Gun_HeavyMassAcceleratorTurret.label>acelerador de massa pesado</RE_Gun_HeavyMassAcceleratorTurret.label>
+            <RE_Gun_HeavyMassAcceleratorTurret.description>Um canhão de artilharia pesado estacionário frequentemente visto guardando postos avançados remotos. Projetado para anti-armadura, este canhão tem um forte impacto. Esses aceleradores de massa aumentados foram originalmente projetados para montagem em uma espaçonave de escala média.</RE_Gun_HeavyMassAcceleratorTurret.description>
+
+        <!-- Prefab Barricade -->
+            <RE_PrefabBarricade.label>barricada pré-fab.</RE_PrefabBarricade.label>
+            <RE_PrefabBarricade.description>Uma série de paredes na altura do peito projetadas para dar cobertura aos defensores de uma área. Se você entrar em uma sala cheia deles, saberá que uma luta está para acontecer.</RE_PrefabBarricade.description>
+
+        <!-- Alliance Terminal-->
+            <RE_AllianceTerminal.label>terminal</RE_AllianceTerminal.label>
+            <RE_AllianceTerminal.description>Uma estrutura que permite que bancos de pesquisa próximos investiguem projetos avançados, aumenta a velocidade de pesquisa e permite pesquisar tecnologias leais.</RE_AllianceTerminal.description>
+
+        <!-- Element Zero Extractor -->
+            <RE_ElementZeroExtractor.label>extrator de elemento zero</RE_ElementZeroExtractor.label>
+            <RE_ElementZeroExtractor.description>Este extrator fornece um fluxo constante de elemento zero, também conhecido como "eezo", que pode liberar energia escura ao entrar em contato com a corrente elétrica, um tipo de energia necessário para as funções de um campo de efeito de massa.</RE_ElementZeroExtractor.description>
+
+        <!-- Prefab Wall -->
+            <RE_PrefabWall.label>parede pré-fab.</RE_PrefabWall.label>
+            <RE_PrefabWall.description>Uma parede intransponível e pré-fabricada. Capaz de segurar um telhado.</RE_PrefabWall.description>
+
+        <!-- Prefab Column -->
+            <RE_PrefabColumn.label>coluna pré-fab.</RE_PrefabColumn.label>
+            <RE_PrefabColumn.description>Uma coluna pré-fabricada capaz de sustentar um telhado. Não bloqueia a visão ou o movimento e é um tanto bonito.</RE_PrefabColumn.description>
+
+        <!-- Prefab Door -->
+            <RE_PrefabAutodoor.label>porta automática pré-fab.</RE_PrefabAutodoor.label>
+            <RE_PrefabAutodoor.description>Divide os cômodos. A operação motorizada permite que as pessoas passem pela porta sem serem desaceleradas.</RE_PrefabAutodoor.description>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Ghoul Victim -->
             <WMH_GhoulBody.label>vítima de ghoul</WMH_GhoulBody.label>
@@ -378,71 +593,71 @@
             <VFEM_HeavyHopper.description>Contém recursos para uso por máquinas automatizadas.</VFEM_HeavyHopper.description>
 
         <!-- Steel Extractor -->
-            <VFEM_ElectronicsFabricationFactory_SteelExtractor.label>Extrator de aço</VFEM_ElectronicsFabricationFactory_SteelExtractor.label>
+            <VFEM_ElectronicsFabricationFactory_SteelExtractor.label>extrator de aço</VFEM_ElectronicsFabricationFactory_SteelExtractor.label>
             <VFEM_ElectronicsFabricationFactory_SteelExtractor.description>Uma grande máquina com uma série de martelos, ímãs e fundições. Os martelos transformam pedaços de rocha em pó, em seguida, os ímãs coletam fragmentos metálicos antes de serem derrubados e derretidos. Esta máquina tem um rendimento notoriamente baixo, pois a maioria dos pedaços de rocha tem uma quantidade insignificante de material extraível.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Eletrônicos.</VFEM_ElectronicsFabricationFactory_SteelExtractor.description>
 
         <!-- Component Assembler -->
-            <VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>Montador</VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>
+            <VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>montador</VFEM_ElectronicsFabricationFactory_ComponentAssembler.label>
             <VFEM_ElectronicsFabricationFactory_ComponentAssembler.description>Uma máquina absurdamente grande composta por uma série de moldes e fundições. Essa máquina é capaz de fabricar qualquer componente eletrônico ou mecânico básico com facilidade.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Eletrônicos.</VFEM_ElectronicsFabricationFactory_ComponentAssembler.description>
 
         <!-- Advanced Assembler -->
-            <VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>Montador avançado</VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>
+            <VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>montador avançado</VFEM_ElectronicsFabricationFactory_AdvancedAssembler.label>
             <VFEM_ElectronicsFabricationFactory_AdvancedAssembler.description>Um amplo módulo de fábrica destinado a embutir e programar circuitos para dispositivos eletrônicos de ponta. O funcionamento interno exato deste módulo é enigmático para colônias não espaciais, entretanto o resultado final é de qualidade inquestionável.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Eletrônicos.</VFEM_ElectronicsFabricationFactory_AdvancedAssembler.description>
 
         <!-- Chemfuel Clarifier -->
-            <VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>Clarificador automático</VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>
+            <VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>clarificador automático</VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.label>
             <VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.description>Uma máquina bastante rudimentar, capaz de derreter orgânicos por meio de ácido em combustível químico utilizável. Os funis anexados aceitam cadáveres ou madeira próximos, decompõe-os rapidamente e, em seguida, derrete-os em um grande tanque.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Munições e Armamentos (F.M.A.).</VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier.description>
 
         <!-- Mechanized Weaponsmith -->
-            <VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>Armeiro automático</VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>
+            <VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>armeiro automático</VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.label>
             <VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.description>Uma máquina muito grande com muitas partes móveis, capaz de transformar lentamente aço, componentes e tecido  através do sistema de esteiras em armamento básico. Essa máquina é capaz de criar armas leves com qualidade normal, embora esse processo consuma muito tempo e energia.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Munições e Armamentos (F.M.A.).</VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith.description>
 
         <!-- Artillery Foundry -->
-            <VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>Fundição automática</VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>
+            <VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>fundição automática</VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.label>
             <VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.description>Uma máquina capaz de transformar matéria-prima em projéteis balísticos de grande calibre.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Munições e Armamentos (F.M.A.).</VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry.description>
 
         <!-- Textile Recycler -->
-            <VFEM_WearablesAndTextileFactory_TextileRecycler.label>Reciclador</VFEM_WearablesAndTextileFactory_TextileRecycler.label>
+            <VFEM_WearablesAndTextileFactory_TextileRecycler.label>reciclador</VFEM_WearablesAndTextileFactory_TextileRecycler.label>
             <VFEM_WearablesAndTextileFactory_TextileRecycler.description>Uma máquina capaz de retalhar e separar rapidamente peças de roupa em tecidos reutilizáveis. Longe de ser totalmente eficiente, mas muito útil para recuperar materiais que de outra forma seriam inúteis.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Vestuários e Têxteis (F.V.T.).</VFEM_WearablesAndTextileFactory_TextileRecycler.description>
 
         <!-- Auto Loom -->
-            <VFEM_WearablesAndTextileFactory_AutoLoom.label>Tear automático</VFEM_WearablesAndTextileFactory_AutoLoom.label>
+            <VFEM_WearablesAndTextileFactory_AutoLoom.label>tear automático</VFEM_WearablesAndTextileFactory_AutoLoom.label>
             <VFEM_WearablesAndTextileFactory_AutoLoom.description>Uma grande máquina que escaneia os tecidos próximos, onde uma série de grampos, tesouras e agulhas costuram e tecem roupas básicas. O usuário só deve especificar o tipo de roupa desejada a partir de um modelo predefinido de opções.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Vestuários e Têxteis (F.V.T.).</VFEM_WearablesAndTextileFactory_AutoLoom.description>
 
         <!-- Synthread Synthesizer -->
-            <VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>Sintetizador</VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>
+            <VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>sintetizador</VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.label>
             <VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.description>Uma máquina tecnológica que dificilmente é compreendida até mesmo pelas colônias mais intelectuais. Completa com uma série de prensas de malha e agulhas de plasma capazes de realinhar atomicamente materiais básicos, resultando em um novo material indistinguível da fibra sintética.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Vestuários e Têxteis (F.V.T.).</VFEM_WearablesAndTextileFactory_SynthreadSynthesizer.description>
 
         <!-- Meat Grinder -->
-            <VFEM_ProvisionsPackagingFactory_MeatGrinder.label>Moedor de carne</VFEM_ProvisionsPackagingFactory_MeatGrinder.label>
+            <VFEM_ProvisionsPackagingFactory_MeatGrinder.label>moedor de carne</VFEM_ProvisionsPackagingFactory_MeatGrinder.label>
             <VFEM_ProvisionsPackagingFactory_MeatGrinder.description>Uma máquina de tamanho médio, mas intimidante, onde cadáveres são puxados por meio de pinças antes de serem pesados, analisados e rudemente rasgados. Pedaços de carne são então moídos em uma carne finamente processada e surpreendentemente saborosa, mas desconcertante. Devido à natureza abrangente do processo, a máquina produzirá o dobro da carne, mas não produzirá nenhum couro dos cadáveres inseridos.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Embalagens de Provisões (F.E.P.).</VFEM_ProvisionsPackagingFactory_MeatGrinder.description>
 
         <!-- Conveyor Oven -->
-            <VFEM_ProvisionsPackagingFactory_ConveyorOven.label>Forno automático</VFEM_ProvisionsPackagingFactory_ConveyorOven.label>
+            <VFEM_ProvisionsPackagingFactory_ConveyorOven.label>forno automático</VFEM_ProvisionsPackagingFactory_ConveyorOven.label>
             <VFEM_ProvisionsPackagingFactory_ConveyorOven.description>Um forno industrial com uma correia transportadora central e sistema de vácuo, capaz de processar alimentos crus. Refeições básicas embaladas e produtos secos podem ser facilmente produzidos.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Embalagens de Provisões (F.E.P.).</VFEM_ProvisionsPackagingFactory_ConveyorOven.description>
 
         <!-- Neutroamine Infuser -->
-            <VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>Infusor</VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>
+            <VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>infusor</VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.label>
             <VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.description>Uma grande cuba industrial destinada a fazer o sempre evasivo produto precursor da neutroamina. Embora a receita exata do produto seja um segredo comercial, o resultado final desta máquina é um glicerol espesso feito de gordura processada muito semelhante à neutroamina.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Compostos Medicinais (F.C.M.).</VFEM_MedicinalCompoundingFactory_NeutroamineInfuser.description>
 
         <!-- Medicine Granulator -->
-            <VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>Granulador</VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>
+            <VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>granulador</VFEM_MedicinalCompoundingFactory_MedicineGranulator.label>
             <VFEM_MedicinalCompoundingFactory_MedicineGranulator.description>Uma máquina capaz de granular e, em seguida, prensar produtos médicos em pílulas usando uma série de pinças e prensas.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Compostos Medicinais (F.C.M.).</VFEM_MedicinalCompoundingFactory_MedicineGranulator.description>
 
         <!-- Drug Powderizer -->
-            <VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>Pulverizador</VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>
+            <VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>pulverizador</VFEM_MedicinalCompoundingFactory_DrugPowderizer.label>
             <VFEM_MedicinalCompoundingFactory_DrugPowderizer.description>Uma pequena máquina destinada a processar e pulverizar o extrato de folha psicóide e, em seguida, embalá-la.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Compostos Medicinais (F.C.M.).</VFEM_MedicinalCompoundingFactory_DrugPowderizer.description>
 
         <!-- Automatic Drill -->
-            <VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>Broca automática</VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>
+            <VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>broca automática</VFEM_MasonryAndMetallicsFactory_AutomaticDrill.label>
             <VFEM_MasonryAndMetallicsFactory_AutomaticDrill.description>Uma versão automatizada maior da broca profunda. Esta broca básica pode minerar e extrair pedaços de rocha para processamento posterior sem intervenção humana\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Alvenaria e Metalurgia (F.A.M.).</VFEM_MasonryAndMetallicsFactory_AutomaticDrill.description>
 
         <!-- Masonry Saw -->
-            <VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>Serra de alvenaria</VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>
+            <VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>serra de alvenaria</VFEM_MasonryAndMetallicsFactory_MasonrySaw.label>
             <VFEM_MasonryAndMetallicsFactory_MasonrySaw.description>Uma fábrica pesada e muito barulhenta, onde uma série de fechos, cinzéis e serras seguram pedaços de rocha no lugar para serem cortadas e levemente alisadas ​​em tijolos.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Alvenaria e Metalurgia (F.A.M.).</VFEM_MasonryAndMetallicsFactory_MasonrySaw.description>
 
         <!-- Plasteel Forge -->
-            <VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>Forja de plastiaço</VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>
+            <VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>forja de plastiaço</VFEM_MasonryAndMetallicsFactory_PlasteelForge.label>
             <VFEM_MasonryAndMetallicsFactory_PlasteelForge.description>Um módulo de fábrica tecnológico capaz de combinar aço, tijolos de pedra em pó e combustível químico em plastiaço. A fórmula e metodologia exatas de refino de plastiaço são bloqueadas por ferreiros militaristas, mas o produto que esta máquina produz é uma replicação próxima o suficiente.\n\n&lt;color=#33d733&gt;Cadeia de Automação:&lt;/color&gt; Faz parte da rede de Fabricação de Alvenaria e Metalurgia (F.A.M.).</VFEM_MasonryAndMetallicsFactory_PlasteelForge.description>
 
         <!-- Versatile Assembler -->
@@ -869,7 +1084,7 @@
             <Bed_DoubleErgonomic.description>Uma cama ergonomicamente projetada para apoiar a coluna, distribuir o peso corporal e melhorar a qualidade geral do sono. Suporta duas pessoas.</Bed_DoubleErgonomic.description>
 
         <!-- Wardrobe -->
-            <Table_Wardrobe.label>guarda roupa</Table_Wardrobe.label>
+            <Table_Wardrobe.label>guarda-roupa</Table_Wardrobe.label>
             <Table_Wardrobe.description>Um guarda-roupa alto para guardar roupas e outros itens. Dá um pequeno bônus de eficácia do descanso para todas as camas próximas. Colocar mais de um guarda roupa perto da mesma cama não tem efeito.</Table_Wardrobe.description>
 
         <!-- Ergonomic Chair -->

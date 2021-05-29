@@ -57,6 +57,11 @@
             <RG-W_ToxicRainyThunderstorm.label>tempestade tóxica</RG-W_ToxicRainyThunderstorm.label>
             <RG-W_ToxicRainyThunderstorm.description>Os raios irão iniciar incêndios, mas a chuva irá apagá-los. Venenoso para pessoas e animais. A chuva também reduz a precisão das armas de longo alcance, apaga o fogo, e retarda o movimento das pessoas.</RG-W_ToxicRainyThunderstorm.description>
 
+    <!-- Rim-Effect: Core -->
+        <!-- Radioactive Fog -->
+            <RE_RadioactiveFog.label>névoa radioativa</RE_RadioactiveFog.label>
+            <RE_RadioactiveFog.description>O derretimento de um reator nuclear liberou uma nuvem de material radioativo. Esta névoa impedirá ataques à distância até que se dissipe.</RE_RadioactiveFog.description>
+
     <!-- Vanilla Furniture Expanded - Power -->
         <!-- Radioactive Fog -->
             <VPE_RadioactiveFog.label>névoa radioativa</VPE_RadioactiveFog.label>

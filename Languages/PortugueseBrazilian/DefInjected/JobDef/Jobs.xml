@@ -28,6 +28,15 @@
         <EquipSecondary.reportString>equipando TargetA.</EquipSecondary.reportString>
         <EquipSecondaryComba.reportString>equipando TargetA.</EquipSecondaryComba.reportString>
 
+    <!-- Rim-Effect: Core -->
+        <RE_UseAbility.reportString>fazendo algo.</RE_UseAbility.reportString>
+        <RE_PyjakNuzzle.reportString>acariciando TargetA.</RE_PyjakNuzzle.reportString>
+        <RE_UseCommsConsole.reportString>using galaxy map.</RE_UseCommsConsole.reportString>
+        <RE_UseGalaxyMap.reportString>usando mapa galáctico.</RE_UseGalaxyMap.reportString>
+        <RE_OpenBeacon.reportString>abrindo TargetA.</RE_OpenBeacon.reportString>
+        <RE_SaveHostages.reportString>ajudando reféns.</RE_SaveHostages.reportString>
+        <RE_LeaveMap.reportString>saindo do mapa.</RE_LeaveMap.reportString>
+
     <!-- Vanilla Animals Expanded - Endargered -->
         <AEXP_IngestAnts.reportString>devorando formigas.</AEXP_IngestAnts.reportString>
         <AEXP_GotoTheWild.reportString>indo para a naturza.</AEXP_GotoTheWild.reportString>

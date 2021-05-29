@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Rim-Effect: Core -->
+        <!-- Jane Renegade -->
+            <RE-JaneRenegade.label>Jane Judicativa</RE-JaneRenegade.label>
+            <RE-JaneRenegade.description>Jane tem certeza de que os fins sempre justificam os meios. Ela aprecia a crueldade, força e conquista. Ela enviará mais eventos ruins quanto mais aliados você tiver.</RE-JaneRenegade.description>
+
+        <!-- John Paragon -->
+            <RE-JohnParagon.label>John Jurídico</RE-JohnParagon.label>
+            <RE-JohnParagon.description>John tem integridade, compaixão e heroísmo em alta conta. Ele conta a história do parentesco e da perseverança de vários perigos juntos, como uma força unida. Ele enviará mais eventos ruins quanto mais inimigos você tiver.</RE-JohnParagon.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Igor Invader -->
             <VFEMech-IgorInvader.label>Igor Invasor</VFEMech-IgorInvader.label>
-            <VFEMech-IgorInvader.description>Igor Invasor não se importa com histórias chatas sobre colônias prósperas. A única história que vale a pena contar é a do combate. Ele enviará invasões a cada dois ou três dias, recompensando os jogadores por lidar com eles rapidamente e punindo os jogadores por quaisquer perdas. Este narrador dobra todos os tipos de dano, mas também avisa sobre as próximas invasões 12 horas antes de acontecerem.</VFEMech-IgorInvader.description>
+            <VFEMech-IgorInvader.description>Igor não se importa com histórias chatas sobre colônias prósperas. A única história que vale a pena contar é a do combate. Ele enviará invasões a cada dois ou três dias, recompensando os jogadores por lidar com eles rapidamente e punindo os jogadores por quaisquer perdas. Este narrador dobra todos os tipos de dano, mas também avisa sobre as próximas invasões 12 horas antes de acontecerem.</VFEMech-IgorInvader.description>
 
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Maynard Medieval -->
@@ -14,7 +23,7 @@
     <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Diego Dire -->
             <VFES_DD.label>Diego Direto</VFES_DD.label>
-            <VFES_DD.description>Diego Direto acredita que as melhores histórias são as violentas, enfrentando adversidades desfavoráveis e caindo em uma labareda de glória com múfalos bêbados explodindo.</VFES_DD.description>
+            <VFES_DD.description>Diego acredita que as melhores histórias são as violentas, enfrentando adversidades desfavoráveis e caindo em uma labareda de glória com múfalos bêbados explodindo.</VFES_DD.description>
 
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Freya Fierce -->
@@ -24,12 +33,12 @@
     <!-- Vanilla Storytellers Expanded - Diego Industrial -->
         <!-- Diego Industrial -->
             <VSE_DiegoIndustrial.label>Diego Industrial</VSE_DiegoIndustrial.label>
-            <VSE_DiegoIndustrial.description>Diego Industrial conta uma história de crescente de desafio e tensão. Ele garantirá que você tenha espaço para respirar entre eventos difíceis. A maioria das facções e todas as pesquisas serão limitadas às eras industrial e pré-industrial.</VSE_DiegoIndustrial.description>
+            <VSE_DiegoIndustrial.description>Diego conta uma história de crescente de desafio e tensão. Ele garantirá que você tenha espaço para respirar entre eventos difíceis. A maioria das facções e todas as pesquisas serão limitadas às eras industrial e pré-industrial.</VSE_DiegoIndustrial.description>
 
     <!-- Vanilla Storytellers Expanded - Empress Evil -->
         <!-- Empress Evil -->
             <VFEI_Empress.label>Imperatriz Impiedosa</VFEI_Empress.label>
-            <VFEI_Empress.description>A Imperatriz Impiedosa não acredita no conceito de bom. Impulsionada pela raiva primordial e pelo instinto selvagem, ela o forçará a estar constantemente alerta, realizando tarefas cada vez mais difíceis até que você desista e morra. Nenhum bom evento pode acontecer, nunca.</VFEI_Empress.description>
+            <VFEI_Empress.description>A Imperatriz não acredita no conceito de bom. Impulsionada pela raiva primordial e pelo instinto selvagem, ela o forçará a estar constantemente alerta, realizando tarefas cada vez mais difíceis até que você desista e morra. Nenhum bom evento pode acontecer, nunca.</VFEI_Empress.description>
 
     <!-- Vanilla Storytellers Expanded - Freya Fierce -->
         <!-- Freya Fierce -->
@@ -39,26 +48,26 @@
     <!-- Vanilla Storytellers Expanded - Igor Invader -->
         <!-- Igor Invader -->
             <VSE-IgorInvader.label>Igor Invasor</VSE-IgorInvader.label>
-            <VSE-IgorInvader.description>Igor Invasor não se importa com histórias chatas sobre colônias prósperas. A única história que vale a pena contar é a do combate. Ele enviará invasões a cada dois ou três dias, recompensando os jogadores por lidar com eles rapidamente e punindo os jogadores por quaisquer perdas. Este narrador dobra todos os tipos de dano.</VSE-IgorInvader.description>
+            <VSE-IgorInvader.description>Igor não se importa com histórias chatas sobre colônias prósperas. A única história que vale a pena contar é a do combate. Ele enviará invasões a cada dois ou três dias, recompensando os jogadores por lidar com eles rapidamente e punindo os jogadores por quaisquer perdas. Este narrador dobra todos os tipos de dano.</VSE-IgorInvader.description>
 
     <!-- Vanilla Storytellers Expanded - Maynard Medieval -->
         <!-- Maynard Medieval -->
             <VSE_MaynardMedieval.label>Maynard Medieval</VSE_MaynardMedieval.label>
-            <VSE_MaynardMedieval.description>Maynard Medieval conta uma história de crescente de desafio e tensão. Ele acredita fortemente em coragem, honra e sacrifício, e fará com que você recupere suas forças antes de enfrentar uma próxima grande ameaça. A maioria das facções e todas as pesquisas serão limitadas às eras medieval e pré-medieval.</VSE_MaynardMedieval.description>
+            <VSE_MaynardMedieval.description>Maynard conta uma história de crescente de desafio e tensão. Ele acredita fortemente em coragem, honra e sacrifício, e fará com que você recupere suas forças antes de enfrentar uma próxima grande ameaça. A maioria das facções e todas as pesquisas serão limitadas às eras medieval e pré-medieval.</VSE_MaynardMedieval.description>
 
     <!-- Vanilla Storytellers Expanded - Neron Neolithic -->
         <!-- Neron Neolithic -->
             <VSE_NeronNeolithic.label>Neron Neolítico</VSE_NeronNeolithic.label>
-            <VSE_NeronNeolithic.description>Neron Neolithic conta uma história de crescente de desafio e tensão. As lendas mais fabulosas são criadas no calor da batalha, e apenas a prova de fogo fará de você um homem melhor. A maioria das facções e todas as pesquisas serão limitadas à era neolítica.</VSE_NeronNeolithic.description>
+            <VSE_NeronNeolithic.description>Neron conta uma história de crescente de desafio e tensão. As lendas mais fabulosas são criadas no calor da batalha, e apenas a prova de fogo fará de você um homem melhor. A maioria das facções e todas as pesquisas serão limitadas à era neolítica.</VSE_NeronNeolithic.description>
 
     <!-- Vanilla Storytellers Expanded - Oskar Obnoxious -->
         <!-- Oskar Obnoxious -->
             <VSE_OskarObnoxious.label>Oskar Obnóxio</VSE_OskarObnoxious.label>
-            <VSE_OskarObnoxious.description>Oskar Obnóxio não tem consideração pelas histórias em andamento. As coisas girarão em suas cabeças inúmeras vezes antes que uma colônia apareça em chamas. Notas de atualização são lançadas com frequência e podem alterar os valores do jogo, mudando quase tudo completamente.</VSE_OskarObnoxious.description>
+            <VSE_OskarObnoxious.description>Oskar não tem consideração pelas histórias em andamento. As coisas girarão em suas cabeças inúmeras vezes antes que uma colônia apareça em chamas. Notas de atualização são lançadas com frequência e podem alterar os valores do jogo, mudando quase tudo completamente.</VSE_OskarObnoxious.description>
 
     <!-- Vanilla Storytellers Expanded - Perry Persistent -->
         <!--  Perry Persistent -->
             <VSE_PerryPersistent.label>Perry Persistente</VSE_PerryPersistent.label>
-            <VSE_PerryPersistent.description>Perry Persistente transmite uma história da mesma maneira que lida com suas investigações - com determinação e atenção aos detalhes. Ele irá mantê-lo constantemente alerta, pois todos os dias podem levá-lo ao fim de sua investigação.</VSE_PerryPersistent.description>
+            <VSE_PerryPersistent.description>Perry transmite uma história da mesma maneira que lida com suas investigações - com determinação e atenção aos detalhes. Ele irá mantê-lo constantemente alerta, pois todos os dias podem levá-lo ao fim de sua investigação.</VSE_PerryPersistent.description>
 
 </LanguageData>

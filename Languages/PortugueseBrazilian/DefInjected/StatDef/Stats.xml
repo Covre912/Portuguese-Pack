@@ -11,6 +11,26 @@
             <ArrestPeacefullyChance.label>chance de prisão pacífica</ArrestPeacefullyChance.label>
             <ArrestPeacefullyChance.description>Chanche base de que essa pessoa possa convencer um preso a ir em silêncio.</ArrestPeacefullyChance.description>
 
+    <!-- Rim-Effect: Core -->
+        <!-- Biotic Energy Limit -->
+            <RE_BioticEnergyMax.label>limite de energia biótica</RE_BioticEnergyMax.label>
+            <RE_BioticEnergyMax.description>A quantidade máxima de energia biótica que o indivíduo pode sustentar com segurança.</RE_BioticEnergyMax.description>
+
+        <!-- Biotic Energy Recovery Rate -->
+            <RE_BioticEnergyRecoveryRate.label>taxa de recuperação de energia biótica</RE_BioticEnergyRecoveryRate.label>
+            <RE_BioticEnergyRecoveryRate.description>A taxa em que essa pessoa recupera energia biótica.</RE_BioticEnergyRecoveryRate.description>
+            <RE_BioticEnergyRecoveryRate.formatString>{0}/s</RE_BioticEnergyRecoveryRate.formatString>
+
+        <!-- Biotic Ability Cost Multiplier -->
+            <RE_BioticAbilityCostMultiplier.label>multiplicador de custo de habilidade biótica</RE_BioticAbilityCostMultiplier.label>
+            <RE_BioticAbilityCostMultiplier.description>Quanto esforço é necessário para usar a energia biótica.</RE_BioticAbilityCostMultiplier.description>
+            <RE_BioticAbilityCostMultiplier.formatString>{0}</RE_BioticAbilityCostMultiplier.formatString>
+
+        <!-- Ability Cooldown Factor -->
+            <RE_AbilityCooldownFactor.label>fator de resfriamento de capacidade</RE_AbilityCooldownFactor.label>
+            <RE_AbilityCooldownFactor.description>Fator de resfriamento de capacidade.</RE_AbilityCooldownFactor.description>
+            <RE_AbilityCooldownFactor.formatString>{0}</RE_AbilityCooldownFactor.formatString>
+
     <!-- Vanilla Furniture Expanded -->
         <!-- Hearing Ability -->
             <AO_MusicHearingAbility.label>habilidade auditiva</AO_MusicHearingAbility.label>

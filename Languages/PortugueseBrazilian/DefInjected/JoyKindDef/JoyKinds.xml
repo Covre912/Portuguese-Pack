@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Rim-Effect: Core -->
+        <RE_Interaction_VIInterface.label>interação com interface VI</RE_Interaction_VIInterface.label>
+
     <!-- Vanilla Books Expanded -->
         <VBE_Reading.label>leitura</VBE_Reading.label>
 

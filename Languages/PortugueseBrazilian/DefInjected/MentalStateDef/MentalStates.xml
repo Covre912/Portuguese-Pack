@@ -65,6 +65,17 @@
             <HuntingTrip.recoveryMessage>{0} decidiu voltar de sua viagem de caça.</HuntingTrip.recoveryMessage>
             <HuntingTrip.baseInspectLine>Estado mental: Retirando-se para a natureza</HuntingTrip.baseInspectLine>
 
+    <!-- Rim-Effect: Core -->
+        <!-- Berserk -->
+            <RE_SabotageBerserk.label>fúria</RE_SabotageBerserk.label>
+            <RE_SabotageBerserk.beginLetter>{0} entrou em fúria.\n\n[PAWN_pronoun] irá atacar qualquer um que ver pela frente.</RE_SabotageBerserk.beginLetter>
+            <RE_SabotageBerserk.recoveryMessage>a fúria de {0} chegou ao fim.</RE_SabotageBerserk.recoveryMessage>
+            <RE_SabotageBerserk.baseInspectLine>Estado mental: Fúria</RE_SabotageBerserk.baseInspectLine>
+            <RE_DominationBerserk.label>fúria</RE_DominationBerserk.label>
+            <RE_DominationBerserk.beginLetter>{0} entrou em fúria.\n\n[PAWN_pronoun] irá atacar qualquer um que ver pela frente.</RE_DominationBerserk.beginLetter>
+            <RE_DominationBerserk.recoveryMessage>a fúria de {0} chegou ao fim.</RE_DominationBerserk.recoveryMessage>
+            <RE_DominationBerserk.baseInspectLine>Estado mental: Fúria</RE_DominationBerserk.baseInspectLine>
+
     <!-- Vanilla Expanded Framework -->
         <!-- Xenophobic Rage -->
             <VEF_XenophobicRage.label>raiva xenofóbica</VEF_XenophobicRage.label>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Rim-Effect: Core -->
+        <!-- Biotic Throw -->
+            <RE_Biotic_ThrowProjectile.label>lance biótico</RE_Biotic_ThrowProjectile.label>
+
+        <!-- Biotic Singularity -->
+            <RE_Biotic_SingularityThing.label>singularidade biótica</RE_Biotic_SingularityThing.label>
+
+        <!-- Biotic Flare -->
+            <RE_Biotic_FlareThing.label>explosão biótica</RE_Biotic_FlareThing.label>
+
+        <!-- Biotic Annihilation Field -->
+            <RE_Biotic_AnnihilationField.label>campo de aniquilação biótico</RE_Biotic_AnnihilationField.label>
+
+        <!-- Cryo Blast -->
+            <RE_Tech_CryoBlastProjectile.label>explosão criogênica</RE_Tech_CryoBlastProjectile.label>
+
+        <!-- Energy Barrier -->
+            <RE_Tech_EnergyBarrier.label>barreira de energia</RE_Tech_EnergyBarrier.label>
+            <RE_Tech_EnergyBarrier.description>Uma barreira de energia que bloqueia todos os projéteis de movimento rápido, incluindo balas.</RE_Tech_EnergyBarrier.description>
+
+        <!-- High Plasma Projectile -->
+            <RE_Tech_IncinerateProjectile.label>projétil de plasma</RE_Tech_IncinerateProjectile.label>
+
+        <!-- Overload Projectile -->
+            <RE_Tech_OverloadProjectile.label>projétil sobrecarregado</RE_Tech_OverloadProjectile.label>
+
+        <!-- Combat Drone -->
+            <RE_Tech_CombatDroneTurret.label>drone de combate</RE_Tech_CombatDroneTurret.label>
+            <RE_Tech_CombatDroneTurret.description>Um pequeno drone de combate.</RE_Tech_CombatDroneTurret.description>
+            <RE_Tech_CombatDroneBullet.label>tiro incinerado</RE_Tech_CombatDroneBullet.label>
+            <RE_Tech_CombatDroneGun.label>canhão incendiário</RE_Tech_CombatDroneGun.label>
+            <RE_Tech_CombatDroneGun.description>Um canhão incendiário simples.</RE_Tech_CombatDroneGun.description>
+
+</LanguageData>

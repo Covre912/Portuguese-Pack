@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Rim-Effect: Core -->
+        <RE_Caravan_Alliance_BulkGoods.label>comerciantes de produtos variados</RE_Caravan_Alliance_BulkGoods.label>
+        <RE_Caravan_Alliance_CombatSupplier.label>comerciantes de combate</RE_Caravan_Alliance_CombatSupplier.label>
+        <RE_Caravan_Alliance_Exotic.label>comerciantes de produtos exóticos</RE_Caravan_Alliance_Exotic.label>
+        <RE_Visitor_Alliance_Standard.label>comerciante</RE_Visitor_Alliance_Standard.label>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <VFEM_Caravan_Medieval_Farmer.label>pastores de animais</VFEM_Caravan_Medieval_Farmer.label>
         <VFEM_Caravan_Medieval_WineMerchant.label>comerciantes de vinho</VFEM_Caravan_Medieval_WineMerchant.label>
@@ -11,7 +17,7 @@
         <VFEM_Visitor_Medieval_Standard.label>comerciantes</VFEM_Visitor_Medieval_Standard.label>
 
     <!-- Vanilla Factions Expanded - Vikings -->
-        <VFEV_Caravan_Looter.label>comerciante de pilhagem</VFEV_Caravan_Looter.label>
+        <VFEV_Caravan_Looter.label>comerciantes de pilhagem</VFEV_Caravan_Looter.label>
 
 
 </LanguageData>

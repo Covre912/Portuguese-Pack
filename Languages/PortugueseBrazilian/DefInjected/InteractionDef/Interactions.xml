@@ -31,6 +31,31 @@
                 <li>r_logentry->[INITIATOR_nameDef] planejou um encontro com [RECIPIENT_nameDef].</li>
             </PlanDate.logRulesInitiator.rulesStrings>
 
+    <!-- Rim-Effect: Core -->
+        <RE_Interaction_PyjakNuzzle.label>acaricia de pyjak</RE_Interaction_PyjakNuzzle.label>
+        <RE_Interaction_PyjakNuzzle.logRulesInitiator.rulesStrings>
+            <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
+            <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] esfregou seu nariz contra o(a) [rubbedpart] de [RECIPIENT_nameDef].</li>
+            <li>nuzzled(p=2)->acariciou</li>
+            <li>nuzzled->aninhaou</li>
+            <li>nuzzleadverb(p=4)-></li>
+            <li>nuzzleadverb(p=2)->suavemente</li>
+            <li>nuzzleadverb->encorajadoramente</li>
+            <li>nuzzleadverb->alegremente</li>
+            <li>nuzzleadverb->levemente</li>
+            <li>nuzzleadverb->calorosamente</li>
+            <li>nuzzleadverb->queixosamente</li>
+            <li>nuzzleadverb->carinhosamente</li>
+            <li>rubbedpart->perna</li>
+            <li>rubbedpart->joelho</li>
+            <li>rubbedpart->pé</li>
+            <li>rubbedpart->cotovelo</li>
+            <li>rubbedpart->quadril</li>
+            <li>rubbedpart->ombro</li>
+            <li>rubbedpart->mão</li>
+            <li>rubbedpart->braço</li>
+        </RE_Interaction_PyjakNuzzle.logRulesInitiator.rulesStrings>
+
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Drunk Chitchat -->
             <VFEV_DrunkChitchat.label>bate-papo bêbado</VFEV_DrunkChitchat.label>

@@ -77,7 +77,7 @@
             <VMEu_PlasteelWeaving.description>Pesquise os segredos do plastiaço, um material ultratecnológico quase perfeito usado apenas por quem descobriu sua fórmula secreta.</VMEu_PlasteelWeaving.description>
 
         <!-- Antigrain Polymers -->
-            <VMEu_AntigrainPolymers.label>polímeros antigrãos</VMEu_AntigrainPolymers.label>
+            <VMEu_AntigrainPolymers.label>polímeros de antigrão</VMEu_AntigrainPolymers.label>
             <VMEu_AntigrainPolymers.description>Aprenda a sintetizar poderosos produtos químicos antigrãos destrutivos usados ​​apenas nos mundos brilhantes mais avançados.</VMEu_AntigrainPolymers.description>
 
         <!-- Glitterworld Medicine -->
@@ -92,6 +92,99 @@
         <!-- Jewelry -->
             <Jewelry.label>joalheria</Jewelry.label>
             <Jewelry.description>Aprenda como fazer joias.</Jewelry.description>
+
+    <!-- Rim-Effect: Core -->
+        <!-- Mass Effect Field Manipulation -->
+            <RE_MassEffectFieldManipulation.label>manipulação de campo</RE_MassEffectFieldManipulation.label>
+            <RE_MassEffectFieldManipulation.description>Use o elemento zero para abrir novos horizontes científicos.</RE_MassEffectFieldManipulation.description>
+
+        <!-- Basic Prefabrication -->
+            <RE_BasicPrefabrication.label>pré-fabricação básica</RE_BasicPrefabrication.label>
+            <RE_BasicPrefabrication.description>Construa móveis pré-fabricados e fabrique itens espaciais.</RE_BasicPrefabrication.description>
+
+        <!-- Complex Prefabrication -->
+            <RE_ComplexPrefabrication.label>pré-fabricação complexa</RE_ComplexPrefabrication.label>
+            <RE_ComplexPrefabrication.description>Construa construções pré-fabricadas complexas e fabrique itens espaciais avançados.</RE_ComplexPrefabrication.description>
+
+        <!-- Prefab Solar Panels -->
+            <RE_PrefabSolarPanels.label>painéis solares pré-fab.</RE_PrefabSolarPanels.label>
+            <RE_PrefabSolarPanels.description>Construa painéis solares pré-fab. para geração de eletricidade.</RE_PrefabSolarPanels.description>
+
+        <!-- Prefab Geothermal Plant -->
+            <RE_PrefabGeothermalPlant.label>gerador geotérmico pré-fab.</RE_PrefabGeothermalPlant.label>
+            <RE_PrefabGeothermalPlant.description>Construa usinas geotérmicas pré-fab. em cima de gêiseres a vapor, para obter energia ininterrupta.</RE_PrefabGeothermalPlant.description>
+
+        <!-- Mass Acceleration -->
+            <RE_MassAcceleration.label>aceleração de massa</RE_MassAcceleration.label>
+            <RE_MassAcceleration.description>Produza torretas de aceleração em massa.</RE_MassAcceleration.description>
+
+        <!-- Ammunition Modification -->
+            <RE_AmmunitionModification.label>modificação de munição</RE_AmmunitionModification.label>
+            <RE_AmmunitionModification.description>Produza novos tipos de munição com atributos diferentes.</RE_AmmunitionModification.description>
+
+        <!-- Fusion Reactor -->
+            <RE_FusionReactor.label>reator de fusão</RE_FusionReactor.label>
+            <RE_FusionReactor.description>Construa reatores de fusão para geração de eletricidade.</RE_FusionReactor.description>
+
+        <!-- Element Zero -->
+            <RE_ElementZero.label>elemento zero</RE_ElementZero.label>
+            <RE_ElementZero.description>Produza elemento zero usando um extrator especial.</RE_ElementZero.description>
+
+        <!-- Eezo Power Generation -->
+            <RE_EezoPowerGeneration.label>geração de energia eezo</RE_EezoPowerGeneration.label>
+            <RE_EezoPowerGeneration.description>Construa um reator de elemento zero para produzir grandes quantidades de eletricidade.</RE_EezoPowerGeneration.description>
+
+        <!-- Biotic Amp -->
+            <RE_BioticAmp.label>amplificadores bióticos</RE_BioticAmp.label>
+            <RE_BioticAmp.description>Crie amplificadores bióticos para adquirir habilidades especiais.</RE_BioticAmp.description>
+
+        <!-- Omni-Tool -->
+            <RE_OmniTool.label>omni-ferramentas</RE_OmniTool.label>
+            <RE_OmniTool.description>Crie omni-ferramentas para adquirir poderes especiais.</RE_OmniTool.description>
+
+        <!-- Medi-Gel Fabrication -->
+            <RE_MediGelFabrication.label>fabricação de medi-gel</RE_MediGelFabrication.label>
+            <RE_MediGelFabrication.description>Produza medi-gel usando elemento zero.</RE_MediGelFabrication.description>
+
+        <!-- High-Tech Body Implants -->
+            <RE_HighTechBodyImplants.label>implantes ultratecnológicos</RE_HighTechBodyImplants.label>
+            <RE_HighTechBodyImplants.description>Faça implantes de alta tecnologia com finalidades exclusivas.</RE_HighTechBodyImplants.description>
+
+        <!-- Complex Spacer Clothing -->
+            <RE_ComplexSpacerClothing.label>roupas espaciais complexas</RE_ComplexSpacerClothing.label>
+            <RE_ComplexSpacerClothing.description>Confeccione roupas espaciais complexas.</RE_ComplexSpacerClothing.description>
+
+        <!-- Alliance Cooperation -->
+            <RE_AllianceCooperation.label>cooperação leal</RE_AllianceCooperation.label>
+            <RE_AllianceCooperation.description>Use o terminal da aliança para obter acesso a novos projetos de pesquisas.</RE_AllianceCooperation.description>
+
+        <!-- Alliance Weaponry -->
+            <RE_AllianceWeaponry.label>armas leais</RE_AllianceWeaponry.label>
+            <RE_AllianceWeaponry.description>Crie armas espcaciais leais.</RE_AllianceWeaponry.description>
+
+        <!-- Heavy Alliance Weapons -->
+            <RE_HeavyAllianceWeapons.label>armas leais pesadas</RE_HeavyAllianceWeapons.label>
+            <RE_HeavyAllianceWeapons.description>Crie armas espaciais leais pesadas.</RE_HeavyAllianceWeapons.description>
+
+        <!-- Alliance Armoury -->
+            <RE_AllianceArmoury.label>armaduras leais</RE_AllianceArmoury.label>
+            <RE_AllianceArmoury.description>Crie armaduras espaciais leais.</RE_AllianceArmoury.description>
+
+        <!-- Heavy Alliance Armor -->
+            <RE_HeavyAllianceArmor.label>armaduras leais pesadas</RE_HeavyAllianceArmor.label>
+            <RE_HeavyAllianceArmor.description>Crie armaduras espaciais leais pesadas.</RE_HeavyAllianceArmor.description>
+
+        <!-- Alliance Kodiak -->
+            <RE_AllianceKodiak.label>aliança Kodiak</RE_AllianceKodiak.label>
+            <RE_AllianceKodiak.description>Construa espaçonaves leais para viagens rápidas ao redor do planeta.</RE_AllianceKodiak.description>
+
+        <!-- Colony Defense Force -->
+            <RE_ColonyDefenseForce.label>força de defesa colonial</RE_ColonyDefenseForce.label>
+            <RE_ColonyDefenseForce.description>Construa LOKIs e FENRIS para vários fins.</RE_ColonyDefenseForce.description>
+
+        <!-- YMIR Mech -->
+            <RE_YMIRMech.label>YMIR</RE_YMIRMech.label>
+            <RE_YMIRMech.description>Construa YMIRs para propósitos de defesa.</RE_YMIRMech.description>
 
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Exotic Animal Prosthetics -->

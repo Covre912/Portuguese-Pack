@@ -1,6 +1,207 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Rim-Effect: Core -->
+        <!-- Blasto Obsessive -->
+            <RE_BlastoObsessive.title>Obsessivo pelo Blasto</RE_BlastoObsessive.title>
+            <RE_BlastoObsessive.titleShort>Fã do Blasto</RE_BlastoObsessive.titleShort>
+            <RE_BlastoObsessive.baseDescription>[PAWN_nameDef] cresceu em um mundo colonial fronteiriço, onde trabalhava na fazenda para sua família. Seu único entretenimento veio na forma de filmes e vídeos do Blasto na rede. [PAWN_nameDef] veio para definir toda a sua juventude na continuidade dos filmes do Blasto, que moldaram toda a sua vida após o Espectro Hanhar. Isso levou a uma rejeição social, mas ele não se importava - estava ocupado(a) nas salas de bate-papo do Blasto com seus amigos da Extranet.</RE_BlastoObsessive.baseDescription>
+
+        <!-- Botanical Prodigy -->
+            <RE_BotanicalProdigy.title>Prodígio botânico</RE_BotanicalProdigy.title>
+            <RE_BotanicalProdigy.titleShort>Prodígio</RE_BotanicalProdigy.titleShort>
+            <RE_BotanicalProdigy.baseDescription>[PAWN_nameDef] surgiu das colônias do Sistema Terminus, onde serviu ao lado de sua grande família como {PAWN_gender ? agricultor : agricultora}. [PAWN_pronoun] se tornou {PAWN_gender ? um : uma} especialista em espécies únicas e exóticas da flora e passou a ser considerad{PAWN_gender ? o : a} um prodígio nos laboratórios de hidroponia.</RE_BotanicalProdigy.baseDescription>
+
+        <!-- Genemodded Soldier -->
+            <RE_GenemoddedSoldier.title>Soldado genemodificado</RE_GenemoddedSoldier.title>
+            <RE_GenemoddedSoldier.titleShort>Soldado</RE_GenemoddedSoldier.titleShort>
+            <RE_GenemoddedSoldier.baseDescription>[PAWN_nameDef] é {PAWN_gender ? um : uma} {PAWN_gender ? operador : operadora} do sistema leal. [PAWN_pronoun] foi escolhido como a equipe de elite de soldados geneticamente modificados. Agora, [PAWN_nameDef] viaja pela galáxia, trazendo justiça e liberdade para todos os necessitados.</RE_GenemoddedSoldier.baseDescription>
+
+        <!-- Marine Cadet -->
+            <RE_MarineCadet.title>Cadete marinho</RE_MarineCadet.title>
+            <RE_MarineCadet.titleShort>Cadete</RE_MarineCadet.titleShort>
+            <RE_MarineCadet.baseDescription>Nascid{PAWN_gender ? o : a} em um mundo colonial, [PAWN_nameDef] vem de uma grande família que inclui uma longa linha de soldados leais. Seguindo a tradição de sua família, [PAWN_pronoun] alistou-se na Marinha da Aliança como fuzileiro naval após o ensino médio e foi designad{PAWN_gender ? o : a} para o Depósito de Treinamento de Recrutas.</RE_MarineCadet.baseDescription>
+
+        <!-- Squad Leader -->
+            <RE_SquadLeader1.title>Líder de esquadrão</RE_SquadLeader1.title>
+            <RE_SquadLeader1.titleShort>Líder</RE_SquadLeader1.titleShort>
+            <RE_SquadLeader1.baseDescription>Sendo notad{PAWN_gender ? o : a} pelos instrutores de treino logo no seu início, [PAWN_nameDef] foi rapidamente promovid{PAWN_gender ? o : a} a líder de esquadrão e, em seguida, a guia de pelotão. O seu pelotão registrou comentários positivos unânimes sobre a sua liderança em um ciclo de revisão de aptidão e recebeu elogios de comandantes e outros soldados. Apesar das avaliações de desempenho brilhantes, [PAWN_nameDef] teve mais oportunidades de avanço negadas. Tendo servido em várias guarnições terrestres, [PAWN_pronoun] solicitou repetidamente uma transferência para um posto de bordo, mas cada solicitação foi negada, sem motivo explícito.</RE_SquadLeader1.baseDescription>
+
+        <!-- C-Sec Detective -->
+            <RE_CSecDetective.title>Detetive da Seg-C</RE_CSecDetective.title>
+            <RE_CSecDetective.titleShort>Detetive</RE_CSecDetective.titleShort>
+            <RE_CSecDetective.baseDescription>Seguindo os passos de seu pai, [PAWN_nameDef] se inscreveu na divisão Investigação de Segurança Pública. As suas principais funções incluíam a coleta de evidências, a resolução de crimes e a apresentação dos criminosos à justiça.</RE_CSecDetective.baseDescription>
+
+        <!-- C-Sec Enforcer -->
+            <RE_CSecEnforcer.title>Executor da Seg-C</RE_CSecEnforcer.title>
+            <RE_CSecEnforcer.titleShort>Executor</RE_CSecEnforcer.titleShort>
+            <RE_CSecEnforcer.baseDescription>[PAWN_nameDef] se inscreveu na divisão de investigação de segurança pública assim que uma vaga se tornou disponível. Vestindo as cores da Seg-P com orgulho, os seus deveres principais incluíam dispensar disciplina para infrações menores, resolver disputas e responder a várias emergências.</RE_CSecEnforcer.baseDescription>
+
+        <!-- C-Sec Customs Officer -->
+            <RE_CSecCustomsOfficer.title>Oficial alfandegário da Seg-C</RE_CSecCustomsOfficer.title>
+            <RE_CSecCustomsOfficer.titleShort>Oficial alfandegário</RE_CSecCustomsOfficer.titleShort>
+            <RE_CSecCustomsOfficer.baseDescription>[PAWN_nameDef] passou a maior parte de sua carreira como um simples oficial da alfândega trabalhando nos portos Seg-P. Todos os dias, [PAWN_pronoun] rastreava passageiros e a carga que passavam pelas docas e confiscava contrabandos.</RE_CSecCustomsOfficer.baseDescription>
+
+        <!-- C-Sec Network Officer -->
+            <RE_CSecNetworkOfficer.title>Oficial de rede da Seg-C</RE_CSecNetworkOfficer.title>
+            <RE_CSecNetworkOfficer.titleShort>Oficial de rede</RE_CSecNetworkOfficer.titleShort>
+            <RE_CSecNetworkOfficer.baseDescription>O crime da cidadela não se limita apenas à violência física. [PAWN_nameDef] trabalhou nos serviços da Rede de Segurança da Cidadela, lutando contra crimes cibernéticos, roubo de direitos autorais, hacking, ataques virais e IA ilegal. Este ramo da Seg-C também é chamado de E-Segurança, e [PAWN_nameDef] é um excelente exemplo do melhor programador que a instituição tem a oferecer.</RE_CSecNetworkOfficer.baseDescription>
+
+        <!-- C-Sec Special Response -->
+            <RE_CSecSpecialResponse.title>Responsável especial da Seg-C</RE_CSecSpecialResponse.title>
+            <RE_CSecSpecialResponse.titleShort>SWAT da Seg-C</RE_CSecSpecialResponse.titleShort>
+            <RE_CSecSpecialResponse.baseDescription>Oficiais que lidam com situações de reféns, bombas e criminosos fortemente armados são os melhores da Cidadela. Caso a instituição seja atacada, eles são a linha de frente da defesa interna, armados com armamento militar. [PAWN_nameDef] treinou toda a vida para esse propósito, não tendo medo de nada e pronto para sacrificar-se pela segurança de outras espécies.</RE_CSecSpecialResponse.baseDescription>
+
+        <!-- Alliance Sentinel -->
+            <RE_AllianceSentinel.title>Sentinela leal</RE_AllianceSentinel.title>
+            <RE_AllianceSentinel.titleShort>Sentinela</RE_AllianceSentinel.titleShort>
+            <RE_AllianceSentinel.baseDescription>[PAWN_nameDef] serve no Sistema Militar da Aliança como {PAWN_gender ? um : uma} sentinela, possuindo a capacidade de usar a tecnologia para obter vantagem e de alterar o campo de batalha usando o poder biótico. Depois de inúmeras campanhas, [PAWN_pronoun] tornou-se indiferente à visão de sangue e morte, o que afeta gravemente sua capacidade de interação social.</RE_AllianceSentinel.baseDescription>
+
+        <!-- Spacer -->
+            <RE_Spacer.title>Espacial</RE_Spacer.title>
+            <RE_Spacer.titleShort>Espacial</RE_Spacer.titleShort>
+            <RE_Spacer.baseDescription>Os pais de [PAWN_nameDef] foram militares da Aliança. A sua infância foi passada em espaçonaves e estações conforme era transferid{PAWN_gender ? o : a} de um posto para outro, nunca permanecendo em um local por mais de alguns anos. Seguindo os passos de seus pais, [PAWN_pronoun] se alistou aos dezoito anos.</RE_Spacer.baseDescription>
+
+        <!-- Earthborn -->
+            <RE_EarhBorn.title>Aborígene</RE_EarhBorn.title>
+            <RE_EarhBorn.titleShort>Aborígene</RE_EarhBorn.titleShort>
+            <RE_EarhBorn.baseDescription>[PAWN_nameDef] era {PAWN_gender ? um : uma} órfão criad{PAWN_gender ? o : a} nas ruas das grandes megatrópoles da Terra. [PAWN_pronoun] escapou da vida de pequenos crimes e gangues do submundo alistando-se nas forças armadas da Aliança quando fez dezoito anos.</RE_EarhBorn.baseDescription>
+
+        <!-- Colonist -->
+            <RE_Colonist.title>Colono</RE_Colonist.title>
+            <RE_Colonist.titleShort>Colono</RE_Colonist.titleShort>
+            <RE_Colonist.baseDescription>[PAWN_nameDef] nasceu e foi criad{PAWN_gender ? o : a} em uma pequena colônia. Quando tinha dezesseis anos, escravos invadiram seu assentamento, massacrando sua família e amigos. [PAWN_pronoun] foi salv{PAWN_gender ? o : a} por uma patrulha da Aliança que passava, e então alistou-se no exército alguns anos depois.</RE_Colonist.baseDescription>
+
+        <!-- Sole Survivor -->
+            <RE_SoleSurvivor.title>Sobrevivente solitário</RE_SoleSurvivor.title>
+            <RE_SoleSurvivor.titleShort>Sobrevivente</RE_SoleSurvivor.titleShort>
+            <RE_SoleSurvivor.baseDescription>Durante o serviço de [PAWN_nameDef], uma missão deu terrivelmente errado. Pres{PAWN_gender ? o : a} em uma situação de sobrevivência extrema, teve que superar tormentos físicos e tensões psicológicas que teriam abatido a maioria das pessoas. [PAWN_pronoun] sobreviveu enquanto todos aqueles ao seu redor de caíram, e agora é deixad{PAWN_gender ? o : a} sozinh{PAWN_gender ? o : a} para contar a história.</RE_SoleSurvivor.baseDescription>
+
+        <!-- War Hero -->
+            <RE_WarHero.title>Herói bélico</RE_WarHero.title>
+            <RE_WarHero.titleShort>Herói</RE_WarHero.titleShort>
+            <RE_WarHero.baseDescription>No início da sua carreira militar, [PAWN_nameDef] encontrou-se enfrentando uma força inimiga avassaladora. [PAWN_pronoun] arriscou a própria vida para salvar outros soldados e derrotar o inimigo, apesar das probabilidades impossíveis. Sua bravura e heroísmo ganharam medalhas e reconhecimento da frota da Aliança. [PAWN_pronoun], quase sozinh{PAWN_gender ? o : a}, repeliu um ataque de inimigos, ganhando a Estrela da Terra, a maior honra da Aliança.</RE_WarHero.baseDescription>
+
+        <!-- Ruthless Officer -->
+            <RE_RuthlessOfficer.title>Oficial implacável</RE_RuthlessOfficer.title>
+            <RE_RuthlessOfficer.titleShort>Oficial</RE_RuthlessOfficer.titleShort>
+            <RE_RuthlessOfficer.baseDescription>Ao longo da sua carreira militar, [PAWN_nameDef] se apegou a uma regra básica: faça o trabalho. [PAWN_pronoun] foi chamad{PAWN_gender ? o : a} de frio, calculista e brutal. A sua reputação de eficiência implacável torna seus colegas soldados desconfiados. Mas quando o fracasso não é uma opção, os militares sempre imploram para [PAWN_nameDef] primeiro.</RE_RuthlessOfficer.baseDescription>
+
+        <!-- Child Servant -->
+            <RE_ChildServant.title>Servo infantil</RE_ChildServant.title>
+            <RE_ChildServant.titleShort>Servo</RE_ChildServant.titleShort>
+            <RE_ChildServant.baseDescription>[PAWN_nameDef] foi uma criança serva de um criminoso rico durante a maior parte de sua infância. Despojad{PAWN_gender ? o : a} de diversão, felicidade e até pais. Treinad{PAWN_gender ? o : a} para obedecer a todos os comandos sem questionar. A sua tarefa era cuidar de tarefas simples ou entreter. [PAWN_pronoun] foi libertad{PAWN_gender ? o : a} desse sofrimento quando seu chefe foi morto e [PAWN_nameDef] enviad{PAWN_gender ? o : a} para outro lugar.</RE_ChildServant.baseDescription>
+
+        <!-- Military Utility -->
+            <RE_MilitaryUtility.title>Utilidade militar</RE_MilitaryUtility.title>
+            <RE_MilitaryUtility.titleShort>Reparador</RE_MilitaryUtility.titleShort>
+            <RE_MilitaryUtility.baseDescription>[PAWN_nameDef] reparou torres e andróides de defesa com defeito nas estações da Aliança. [PAWN_pronoun] aprendeu sobre o interior do armamento militar e ficou muito {PAWN_gender ? bom : boa} no uso de ferramentas leais.</RE_MilitaryUtility.baseDescription>
+
+        <!-- Alliance Ambassador -->
+            <RE_AllianceAmbassador.title>Embaixador leal</RE_AllianceAmbassador.title>
+            <RE_AllianceAmbassador.titleShort>Embaixador</RE_AllianceAmbassador.titleShort>
+            <RE_AllianceAmbassador.baseDescription>[PAWN_nameDef] havia recebido a promessa de uma carreira como diplomata desde a infância. [PAWN_pronoun] foi treinad{PAWN_gender ? o : a} nas melhores instituições educacionais da Aliança para representar os interesses do Estado no cenário mundial. Além disso, não sabe nada sobre combate devido ao tempo gasto em luxuosas suítes de estações espaciais e planetas.</RE_AllianceAmbassador.baseDescription>
+
+        <!-- Security Guard -->
+            <RE_SecurityGuard.title>Segurança</RE_SecurityGuard.title>
+            <RE_SecurityGuard.titleShort>Guarda</RE_SecurityGuard.titleShort>
+            <RE_SecurityGuard.baseDescription>[PAWN_nameDef] passou muito tempo em uma estação espacial distante como segurança. A estação não era famosa por seu bem-estar, então teve que suprimir distúrbios constantes.</RE_SecurityGuard.baseDescription>
+
+        <!-- Agricultural Apprentice -->
+            <RE_AgriculturalApprentice.title>Aprendiz agrícola</RE_AgriculturalApprentice.title>
+            <RE_AgriculturalApprentice.titleShort>Criança da fazenda</RE_AgriculturalApprentice.titleShort>
+            <RE_AgriculturalApprentice.baseDescription>[PAWN_nameDef] não passou muito tempo em planetas distantes ou no espaço quando criança, sua casa sempre foi uma colônia do espaço conhecido, aprendendo a sustentar seu domínio e manter todo o equipamento funcionando.</RE_AgriculturalApprentice.baseDescription>
+
+        <!-- Agricultural Expert -->
+            <RE_AgriculturalExpert.title>Especialista agrícola</RE_AgriculturalExpert.title>
+            <RE_AgriculturalExpert.titleShort>Agricultor</RE_AgriculturalExpert.titleShort>
+            <RE_AgriculturalExpert.baseDescription>[PAWN_nameDef] passou sua idade adulta trabalhando em várias comunas agrícolas, com uma dedicação para cultivar qualquer coisa que uma colônia possa precisar nos piores ambientes. Aproveitando ao máximo alguns recursos, [PAWN_nameDef] precisava estar familiarizado com a manutenção de equipamentos leais.</RE_AgriculturalExpert.baseDescription>
+
+        <!-- Junior Officer -->
+            <RE_JuniorOfficer.title>Oficial subalterno</RE_JuniorOfficer.title>
+            <RE_JuniorOfficer.titleShort>Oficial</RE_JuniorOfficer.titleShort>
+            <RE_JuniorOfficer.baseDescription>[PAWN_nameDef] foi criad{PAWN_gender ? o : a} em uma família de mentalidade política na Terra e passou a acreditar que os humanos deveriam estar em primeiro lugar na política galáctica. Em preparação para sua carreira militar ou política, [PAWN_pronoun] participou de um programa de oficial subalterno durante a escola.</RE_JuniorOfficer.baseDescription>
+
+        <!-- Discharged Pilot -->
+            <RE_DischargedPilot.title>Piloto dispensado</RE_DischargedPilot.title>
+            <RE_DischargedPilot.titleShort>Piloto</RE_DischargedPilot.titleShort>
+            <RE_DischargedPilot.baseDescription>Depois de uma carreira de sucesso na Aliança, [PAWN_nameDef] foi dispensad{PAWN_gender ? o : a} com honra. Insatisfeit{PAWN_gender ? o : a} com a vida sedentária de aposentad{PAWN_gender ? o : a}, [PAWN_nameDef] buscou uma vida nas colônias próximas como uma segunda carreira. [PAWN_pronoun] retém algumas habilidades com uma pistola, mantendo sua habilidade e formulando planos.</RE_DischargedPilot.baseDescription>
+
+        <!-- Batarian Child Soldier -->
+            <RE_BatarianChildSoldier.title>Criança soldado</RE_BatarianChildSoldier.title>
+            <RE_BatarianChildSoldier.titleShort>Pirata</RE_BatarianChildSoldier.titleShort>
+            <RE_BatarianChildSoldier.baseDescription>Com seus pais capturados ou mortos por escravos fora dos sistemas Terminus, [PAWN_nameDef] era forte o suficiente para ser mantid{PAWN_gender ? o : a} pela tripulação pirata como bucha de canhão. Felizmente para [PAWN_nameDef], [PAWN_pronoun] se destacou nisso.</RE_BatarianChildSoldier.baseDescription>
+
+        <!-- Alliance Marine -->
+            <RE_AllianceMarine.title>Marinha leal</RE_AllianceMarine.title>
+            <RE_AllianceMarine.titleShort>Marinha</RE_AllianceMarine.titleShort>
+            <RE_AllianceMarine.baseDescription>[PAWN_nameDef] alistou-se na Marinha Leal assim que foi capaz, tendo um bom desempenho durante seu treinamento e período de alistamento. Agora liberad{PAWN_gender ? o : a}, [PAWN_pronoun] utiliza suas habilidades de combate  e treinamento de primeiros socorros para seus bens.</RE_AllianceMarine.baseDescription>
+
+        <!-- Asteroid Miner -->
+            <RE_AsteroidMiner.title>Mineiro de asteróide</RE_AsteroidMiner.title>
+            <RE_AsteroidMiner.titleShort>Mineiro</RE_AsteroidMiner.titleShort>
+            <RE_AsteroidMiner.baseDescription>[PAWN_nameDef] passou vários anos suando nos túneis apertados e nas salas de máquinas quentes de uma remota mina de asteróide, tentando evitar o crime e o uso desenfreado de drogas nesses tipos de estações. O trabalho foi árduo, mas [PAWN_pronoun] desenvolveu habilidades valiosas trabalhando com matérias-primas, fabricação e maquinário pesado.</RE_AsteroidMiner.baseDescription>
+
+        <!-- Militia Combatant -->
+            <RE_MilitiaCombatant.title>Combatente da milícia</RE_MilitiaCombatant.title>
+            <RE_MilitiaCombatant.titleShort>Miliciano</RE_MilitiaCombatant.titleShort>
+            <RE_MilitiaCombatant.baseDescription>Quando criança, [PAWN_nameDef] tornou-se um combatente da milícia em seu planeta natal, invadido por uma raça alienígena. Depois de passar pelos horrores da guerra, [PAWN_pronoun] adquiriu habilidades de combate junto com os pesadelos que {PAWN_gender ? o : a} assombram até hoje.</RE_MilitiaCombatant.baseDescription>
+
+        <!-- Bully -->
+            <RE_Bully.title>Valentão</RE_Bully.title>
+            <RE_Bully.titleShort>Valentão</RE_Bully.titleShort>
+            <RE_Bully.baseDescription>[PAWN_nameDef] nasceu de um pai fuzileiro naval que trabalhava nas periferias da Cidadela e de uma mãe advogada. Durante sua infância, [PAWN_nameDef] frequentemente intimidava outras crianças porque era maior e mais forte e, conforme ficou mais velh{PAWN_gender ? o : a}, começou a participar de pequenos crimes.</RE_Bully.baseDescription>
+
+        <!-- Convict -->
+            <RE_Convict.title>Condenado</RE_Convict.title>
+            <RE_Convict.titleShort>Condenado</RE_Convict.titleShort>
+            <RE_Convict.baseDescription>Aos dezessete anos organizou um cime pela primeira vez. [PAWN_nameDef] e quatro amigos planejavam roubar uma loja de sapatos, todos armados com pistolas carregadas. No entanto, o roubo deu errado e dois de seus amigos foram mortos em um tiroteio com as autoridades policiais. [PAWN_pronoun] e os outros foram presos e acusados ​​de roubo e posse armada.</RE_Convict.baseDescription>
+
+        <!-- Survivor -->
+            <RE_Survivor.title>Sobrevivente</RE_Survivor.title>
+            <RE_Survivor.titleShort>Sobrevivente</RE_Survivor.titleShort>
+            <RE_Survivor.baseDescription>Durante um encontro com invasores, muitas espaçonaves cercaram a astronave de [PAWN_nameDef] e {PAWN_gender ? o : a} consumiram com uma chuva de mísseis. Depois de sofrer uma grande quantidade de danos, a tripulação foi evacuada, apesar dos numerosos esforços para pedir ajuda às naves próximas. [PAWN_nameDef] ficou arrasad{PAWN_gender ? o : a} com a perda de seus amigos e o tributo mental que isso teve sobre [PAWN_gender].</RE_Survivor.baseDescription>
+
+        <!-- First Contact War Hero -->
+            <RE_FirstContactWarHero.title>Herói da Guerra do Primeiro Contato</RE_FirstContactWarHero.title>
+            <RE_FirstContactWarHero.titleShort>Herói</RE_FirstContactWarHero.titleShort>
+            <RE_FirstContactWarHero.baseDescription>[PAWN_nameDef] lutou contra as forças terrestres durante a Guerra do Primeiro Contato. Durante a luta implacável e horrível, [PAWN_pronoun] foi ferid{PAWN_gender ? o : a}, promovid{PAWN_gender ? o : a} e recebeu o comando de um esquadrão. Durante o auge da luta, [PAWN_nameDef] liderou alguns homens ao redor de uma fortaleza e emboscou uma grande força terrestre e os exterminou.</RE_FirstContactWarHero.baseDescription>
+
+        <!-- Broken Soldier -->
+            <RE_BrokenSoldier.title>Soldado partido</RE_BrokenSoldier.title>
+            <RE_BrokenSoldier.titleShort>Soldado partido</RE_BrokenSoldier.titleShort>
+            <RE_BrokenSoldier.baseDescription>{PAWN_gender ? O : A} tenente [PAWN_nameDef] era {PAWN_gender ? o : a} oficial executiv{PAWN_gender ? o : a} de uma das fragatas da Aliança. Quando a espaçonave respondeu a um sinal de socorro em uma estação de pesquisa remota, [PAWN_nameDef] levou a equipe de solo à vitória. Retornando à Cidadela para se recuperar após a missão, [PAWN_pronoun] recebeu o decreto final de seu divórcio, uma separação causada pelas longas ausências de sua carreira militar. [PAWN_pronoun] então seguiu a tradição humana depois de se divorciar: foi para a Toca da Chora, perto de seu apartamento na Cidadela, para afogar suas tristezas.</RE_BrokenSoldier.baseDescription>
+
+        <!-- Retiree -->
+            <RE_Retiree.title>Aposentado</RE_Retiree.title>
+            <RE_Retiree.titleShort>Aposentado</RE_Retiree.titleShort>
+            <RE_Retiree.baseDescription>[PAWN_nameDef] era {PAWN_gender ? um : uma} tenente da Marinha Leal que serviu a bordo de uma das fragatas que patrulhavam o espaço. Depois que seu oficial deixou a Aliança, aceitou uma aposentadoria precoce e deixou a vida militar para trás.</RE_Retiree.baseDescription>
+
+        <!-- Promising Student -->
+            <RE_PromissingStudent.title>Estudante promissor</RE_PromissingStudent.title>
+            <RE_PromissingStudent.titleShort>Estudante</RE_PromissingStudent.titleShort>
+            <RE_PromissingStudent.baseDescription>[PAWN_nameDef] alistou-se desde muito cedo em busca de uma vida melhor. [PAWN_pronoun] treinou por dois anos em um dos cruzadores de batalha da Aliança e serviu a bordo de oito espaçonaves, onde sua nave foi implantada para ajudar a defender a colônia.</RE_PromissingStudent.baseDescription>
+
+        <!-- Alliance Student -->
+            <RE_AllianceStudent.title>Estudante leal</RE_AllianceStudent.title>
+            <RE_AllianceStudent.titleShort>Estudante</RE_AllianceStudent.titleShort>
+            <RE_AllianceStudent.baseDescription>[PAWN_nameDef] é originári{PAWN_gender ? o : a} de Londres, mas seus pais preferiam a liberdade da vida na colônia. Embora não tivesse dinheiro para entrar uma universidade, [PAWN_nameDef] foi capaz de prosseguir seus estudos porque a Aliança {PAWN_gender ? o : a} ofereceu bolsa integral depois de ver suas pontuações de aptidão.</RE_AllianceStudent.baseDescription>
+
+        <!-- Squad Leader -->
+            <RE_SquadLeader.title>Líder de esquadrão</RE_SquadLeader.title>
+            <RE_SquadLeader.titleShort>Líder</RE_SquadLeader.titleShort>
+            <RE_SquadLeader.baseDescription>No início de sua carreira, [PAWN_nameDef] estava estacionad{PAWN_gender ? o : a} em uma colônia remota, uma unidade de forças especiais da Aliança. Quando os Coletores atacam, determinados a capturar a população, o de esquadrão [PAWN_nameDef] tem a tarefa de proteger os civis. Os eventos marcam um ponto de viragem {PAWN_gender ? o : a} para em relação à sua confiança como líder.</RE_SquadLeader.baseDescription>
+
+        <!-- Cadet -->
+            <RE_Cadet.title>Cadete</RE_Cadet.title>
+            <RE_Cadet.titleShort>Cadete</RE_Cadet.titleShort>
+            <RE_Cadet.baseDescription>[PAWN_nameDef] passou sua infância em uma estação espacial por causa do trabalho de sua mãe como contratada civil e cresceu perto de espaçonaves. Quando [PAWN_pronoun] tinha idade suficiente para se alistar, se juntou à Marinha da Aliança.</RE_Cadet.baseDescription>
+
+        <!-- Alliance Piloto -->
+            <RE_AlliancePilot.title>Piloto leal</RE_AlliancePilot.title>
+            <RE_AlliancePilot.titleShort>Piloto</RE_AlliancePilot.titleShort>
+            <RE_AlliancePilot.baseDescription>No início de sua carreira, [PAWN_nameDef] estava estacionad{PAWN_gender ? o : a} em uma colônia remota, uma unidade de forças especiais da Aliança. Quando os Coletores atacam, determinados a capturar a população, o de esquadrão [PAWN_nameDef] tem a tarefa de proteger os civis. Os eventos marcam um ponto de viragem {PAWN_gender ? o : a} para em relação à sua confiança como líder.</RE_AlliancePilot.baseDescription>
+
     <!-- - Xenohumans - Anthromorphs -->
         <!-- Designer Mate -->
             <ATK_DesignerMate.title>Companheiro desenhado</ATK_DesignerMate.title>

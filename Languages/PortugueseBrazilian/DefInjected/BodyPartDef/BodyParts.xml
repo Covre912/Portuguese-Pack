@@ -2,69 +2,39 @@
 <LanguageData>
 
     <!-- Race to the Rim -->
-        <!-- Wing -->
-            <RttR_Wing.label>asa</RttR_Wing.label>
+        <RttR_Wing.label>asa</RttR_Wing.label>
+
+    <!-- Rim-Effect: Core -->
+        <RE_CowFinger.label>dedo</RE_CowFinger.label>
+        <RE_CowHand.label>mão</RE_CowHand.label>
+        <RE_CowArm.label>braço</RE_CowArm.label>
 
     <!-- RimWorld - Witcher Monster Hunt -->
-        <!-- Wing -->
-            <WMH_Wing.label>asa</WMH_Wing.label>
+        <WMH_Wing.label>asa</WMH_Wing.label>
+        <WMH_PlasmaMembrane.label>membrana plasmática</WMH_PlasmaMembrane.label>
+        <WMH_Cytoplasm.label>citoplasma</WMH_Cytoplasm.label>
+        <WMH_EcholocationOrgans.label>órgãos de ecolocalização</WMH_EcholocationOrgans.label>
+        <WMH_RockHead.label>cabeça rochosa</WMH_RockHead.label>
+        <WMH_RockLeg.label>perna rochosa</WMH_RockLeg.label>
+        <WMH_RockArm.label>braço rochoso</WMH_RockArm.label>
+        <WMH_JellyfishMainBody.label>mesogléia</WMH_JellyfishMainBody.label>
+        <AA_JellyfishMainBody.label>mesogléia</AA_JellyfishMainBody.label>
+        <WMH_HydrogenSac.label>saco de hidrogênio</WMH_HydrogenSac.label>
+        <WMH_JellyfishTentacle.label>tentáculo</WMH_JellyfishTentacle.label>
+        <AA_Protoplasm.label>protoplasma</AA_Protoplasm.label>
+        <AA_Thorax.label>tórax</AA_Thorax.label>
+        <AA_SentientPlantBody.label>corpo de planta senciente</AA_SentientPlantBody.label>
+        <AA_SlugBody.label>corpo de lesma</AA_SlugBody.label>
+        <AA_InsectSting.label>ferrão</AA_InsectSting.label>
 
-        <!-- Plasma Membrane -->
-            <WMH_PlasmaMembrane.label>membrana plasmática</WMH_PlasmaMembrane.label>
-
-        <!-- Cytoplasm -->
-            <WMH_Cytoplasm.label>citoplasma</WMH_Cytoplasm.label>
-
-        <!-- Echolocation Organs -->
-            <WMH_EcholocationOrgans.label>órgãos de ecolocalização</WMH_EcholocationOrgans.label>
-
-        <!-- Rocky Head -->
-            <WMH_RockHead.label>cabeça rochosa</WMH_RockHead.label>
-
-        <!-- Rocky Leg -->
-            <WMH_RockLeg.label>perna rochosa</WMH_RockLeg.label>
-
-        <!-- Rocky Arm -->
-            <WMH_RockArm.label>braço rochoso</WMH_RockArm.label>
-
-        <!-- Hood -->
-            <WMH_JellyfishMainBody.label>mesogléia</WMH_JellyfishMainBody.label>
-            <AA_JellyfishMainBody.label>mesogléia</AA_JellyfishMainBody.label>
-
-        <!-- Hydrogen Sac -->
-            <WMH_HydrogenSac.label>saco de hidrogênio</WMH_HydrogenSac.label>
-
-        <!-- Tentacle -->
-            <WMH_JellyfishTentacle.label>tentáculo</WMH_JellyfishTentacle.label>
-
-        <!-- Protoplasm -->
-            <AA_Protoplasm.label>protoplasma</AA_Protoplasm.label>
-
-        <!-- Thorax -->
-            <AA_Thorax.label>tórax</AA_Thorax.label>
-
-        <!-- Sentient Plant Body -->
-            <AA_SentientPlantBody.label>corpo de planta senciente</AA_SentientPlantBody.label>
-
-        <!-- Slug Body -->
-            <AA_SlugBody.label>corpo de lesma</AA_SlugBody.label>
-
-        <!-- Sting -->
-            <AA_InsectSting.label>ferrão</AA_InsectSting.label>
-
-    <!-- Vanilla Animals Expanded - Ice Sheet -->
-        <!-- Fore-Flippers -->     
-            <AEXP_ForeFlipper.label>nadadeira</AEXP_ForeFlipper.label>
-
-        <!-- Hind Flippers -->
-            <AEXP_HindFlippers.label>nadadeiras</AEXP_HindFlippers.label>
+    <!-- Vanilla Animals Expanded - Ice Sheet --> 
+        <AEXP_ForeFlipper.label>nadadeira</AEXP_ForeFlipper.label>
+        <AEXP_HindFlippers.label>nadadeiras</AEXP_HindFlippers.label>
 
     <!-- Vanilla Animals Expanded - Tundra -->
-        <!-- Antlers -->
-            <AEXP_Antlers.label>chifres</AEXP_Antlers.label>
+        <AEXP_Antlers.label>chifres</AEXP_Antlers.label>
 
     <!-- Xenohumans - Anthromorphs -->
-        <!-- Tail -->
-            <ATK_Tail.label>cauda</ATK_Tail.label>
+        <ATK_Tail.label>cauda</ATK_Tail.label>
 
 </LanguageData>

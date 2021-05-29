@@ -163,6 +163,108 @@
             <RttR_Zippleback.lifeStages.2.label>ziperarepiante adolescente</RttR_Zippleback.lifeStages.2.label>
             <RttR_Zippleback.lifeStages.2.labelPlural>ziperarepiantes adolescentes</RttR_Zippleback.lifeStages.2.labelPlural>
 
+    <!-- RimEffect: Core -->
+        <!-- Marine -->
+            <RE_Alliance_Marine.label>fuzileiro</RE_Alliance_Marine.label>
+            <RE_Alliance_Marine.labelPlural>fuzileiros</RE_Alliance_Marine.labelPlural>
+
+        <!-- Sniper -->
+            <RE_Alliance_MarineSniper.label>franco-atirador</RE_Alliance_MarineSniper.label>
+            <RE_Alliance_MarineSniper.labelPlural>fraco-atiradores</RE_Alliance_MarineSniper.labelPlural>
+
+        <!-- Heavy Marine -->
+            <RE_Alliance_MarineHeavy.label>fuzileiro pesado</RE_Alliance_MarineHeavy.label>
+            <RE_Alliance_MarineHeavy.labelPlural>fuzileiros pesados</RE_Alliance_MarineHeavy.labelPlural>
+
+        <!-- Colonist -->
+            <RE_PlayerColonist.label>colono</RE_PlayerColonist.label>
+            <RE_Colonist.label>colono</RE_Colonist.label>
+            <RE_Colonist.labelPlural>colonos</RE_Colonist.labelPlural>
+
+        <!-- Farmer -->
+            <RE_Farmer.label>fazendeiro</RE_Farmer.label>
+            <RE_Farmer.labelPlural>fazendeiros</RE_Farmer.labelPlural>
+
+        <!-- Alliance Officer -->
+            <RE_AllianceOfficer.label>oficial leal</RE_AllianceOfficer.label>
+            <RE_AllianceOfficer.labelPlural>oficiais leais</RE_AllianceOfficer.labelPlural>
+
+        <!-- Alliance Recruit -->
+            <RE_AllianceRecruit.label>recruta leal</RE_AllianceRecruit.label>
+            <RE_AllianceRecruit.labelPlural>recrutas leais</RE_AllianceRecruit.labelPlural>
+
+        <!-- Militia -->
+            <RE_AllianceMilitia.label>miliciano</RE_AllianceMilitia.label>
+            <RE_AllianceMilitia.labelPlural>milicianos</RE_AllianceMilitia.labelPlural>
+
+        <!-- Official -->
+            <RE_Official.label>oficial</RE_Official.label>
+            <RE_Official.labelPlural>oficiais</RE_Official.labelPlural>
+
+        <!-- Merchant -->
+            <RE_Merchant.label>comerciante</RE_Merchant.label>
+            <RE_Merchant.labelPlural>comerciantes</RE_Merchant.labelPlural>
+
+        <!-- Ranger -->
+            <RE_Ranger.label>guarda</RE_Ranger.label>
+            <RE_Ranger.labelPlural>guardas</RE_Ranger.labelPlural>
+
+        <!-- Prime Minister -->
+            <RE_PrimeMinister.label>primeiro ministro</RE_PrimeMinister.label>
+            <RE_PrimeMinister.labelPlural>primeiros ministros</RE_PrimeMinister.labelPlural>
+
+        <!-- Scientist -->
+            <RE_Scientist.label>cientista</RE_Scientist.label>
+            <RE_Scientist.labelPlural>cientistas</RE_Scientist.labelPlural>
+
+        <!-- Medic -->
+            <RE_Medic.label>médico</RE_Medic.label>
+            <RE_Medic.labelPlural>médicos</RE_Medic.labelPlural>
+
+        <!-- Engineer -->
+            <RE_Alliance_Engineer.label>engenheiro</RE_Alliance_Engineer.label>
+            <RE_Alliance_Engineer.labelPlural>engenheiros</RE_Alliance_Engineer.labelPlural>
+
+        <!-- Adept -->
+            <RE_Alliance_Adept.label>adepto</RE_Alliance_Adept.label>
+            <RE_Alliance_Adept.labelPlural>adeptos</RE_Alliance_Adept.labelPlural>
+
+        <!-- Spectre -->
+            <RE_Spectre.label>espectro</RE_Spectre.label>
+            <RE_Spectre.labelPlural>espectros</RE_Spectre.labelPlural>
+
+        <!-- Pyjak -->
+            <RE_Pyjak.label>pijaque</RE_Pyjak.label>
+            <RE_Pyjak.labelPlural>pijaques</RE_Pyjak.labelPlural>
+
+        <!-- Varren -->
+            <RE_Varren.label>varren</RE_Varren.label>
+            <RE_Varren.labelPlural>varrens</RE_Varren.labelPlural>
+            <RE_Varren.lifeStages.0.label>varren filhote</RE_Varren.lifeStages.0.label>
+            <RE_Varren.lifeStages.0.labelPlural>varrens filhotes</RE_Varren.lifeStages.0.labelPlural>
+
+        <!-- Space Cow -->
+            <RE_SpaceCow.label>vaca espacial</RE_SpaceCow.label>
+            <RE_SpaceCow.labelPlural>vacas espaciais</RE_SpaceCow.labelPlural>
+            <RE_SpaceCow.labelMale>touro espacial</RE_SpaceCow.labelMale>
+            <RE_SpaceCow.labelMalePlural>touros espaciais</RE_SpaceCow.labelMalePlural>
+            <RE_SpaceCow.labelFemale>vaca espacial</RE_SpaceCow.labelFemale>
+            <RE_SpaceCow.labelFemalePlural>vacas espaciais</RE_SpaceCow.labelFemalePlural>
+            <RE_SpaceCow.lifeStages.0.label>bezerro espacial</RE_SpaceCow.lifeStages.0.label>
+            <RE_SpaceCow.lifeStages.0.labelPlural>bezerros espaciais</RE_SpaceCow.lifeStages.0.labelPlural>
+
+        <!-- FENRIS Mech -->
+            <RE_Mechanoids_FENRIS.label>FENRIS</RE_Mechanoids_FENRIS.label>
+            <RE_Mechanoids_FENRIS.labelPlural>FENRIS</RE_Mechanoids_FENRIS.labelPlural>
+
+        <!-- LOKI Mech -->
+            <RE_Mechanoids_LOKI.label>LOKI</RE_Mechanoids_LOKI.label>
+            <RE_Mechanoids_LOKI.labelPlural>LOKIs</RE_Mechanoids_LOKI.labelPlural>
+
+        <!-- YMIR Mech -->
+            <RE_Mechanoids_YMIR.label>YMIR</RE_Mechanoids_YMIR.label>
+            <RE_Mechanoids_YMIR.labelPlural>YMIRs</RE_Mechanoids_YMIR.labelPlural>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Basilisk -->
             <WMH_Basilisk.label>basilisco</WMH_Basilisk.label>

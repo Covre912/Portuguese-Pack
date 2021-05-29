@@ -372,12 +372,12 @@
 			<VMEu_PlasticPlanks_TierOne.description>Plástico de classe industrial moldado em tábuas, comumente usado para construir paredes decorativas, pisos e outras estruturas cujo objetivo principal é ter uma boa aparência.</VMEu_PlasticPlanks_TierOne.description>
 
 		<!-- Liquid Polymer Plastic -->
-			<VMEu_LiquidPlastic_TierTwo.label>plástico de polímero líquido</VMEu_LiquidPlastic_TierTwo.label>
-			<VMEu_LiquidPlastic_TierTwo.description>Base de plástico líquido quente feita de óleo escuro e pronitamina. Um material de polímero avançado amplamente utilizado em grandes indústrias.\n\nDeve ser processado para se tornar um material utilizável.</VMEu_LiquidPlastic_TierTwo.description>
+			<VMEu_LiquidPlastic_TierTwo.label>polímero de plástico líquido</VMEu_LiquidPlastic_TierTwo.label>
+			<VMEu_LiquidPlastic_TierTwo.description>Base de plástico líquido quente feita de óleo escuro e pronitamina. Um polímero avançado amplamente utilizado em grandes indústrias.\n\nDeve ser processado para se tornar um material utilizável.</VMEu_LiquidPlastic_TierTwo.description>
 
 		<!-- Polymer Plastic Pellets -->
-			<VMEu_PlasticPellets_TierTwo.label>granulados de plástico de polímero</VMEu_PlasticPellets_TierTwo.label>
-			<VMEu_PlasticPellets_TierTwo.description>Plástico de polímero industrial avançado. Devido às propriedades químicas da pronitamina, este material se destaca na substituição de outros materiais de classe industrial, principalmente aço.</VMEu_PlasticPellets_TierTwo.description>
+			<VMEu_PlasticPellets_TierTwo.label>polímero de granulados de plástico</VMEu_PlasticPellets_TierTwo.label>
+			<VMEu_PlasticPellets_TierTwo.description>Polímero de plástico industrial avançado. Devido às propriedades químicas da pronitamina, este material se destaca na substituição de outros materiais de classe industrial, principalmente aço.</VMEu_PlasticPellets_TierTwo.description>
 
 		<!-- Plasteel Base -->
 			<VMEu_PlasteelBase.label>base de plastiaço</VMEu_PlasteelBase.label>
@@ -583,6 +583,78 @@
 		<!-- Dragon Fruits -->
 			<RG-D_RawDragonFruits.label>pitaias</RG-D_RawDragonFruits.label>
 			<RG-D_RawDragonFruits.desconhecido>Os frutos de dragão.</RG-D_RawDragonFruits.desconhecido>
+
+	<!-- Rim-Effect: Core -->
+		<!-- Medi-Gel -->
+			<RE_MediGel.label>medi-gel</RE_MediGel.label>
+			<RE_MediGel.description>Um gel avançado de ação rápida que quase instantaneamente sela e cura feridas, evitando o sangramento.</RE_MediGel.description>
+			<RE_MediGel.comps.0.useLabel>Usar medi-gel</RE_MediGel.comps.0.useLabel>
+
+		<!-- Prefabrication Component -->
+			<RE_PrefabComponent.label>componente de pré-fabricação</RE_PrefabComponent.label>
+			<RE_PrefabComponent.description>Diversas peças embaladas engenhosamente juntas a fim de antecipar o trabalho necessário para construir o resultado final.</RE_PrefabComponent.description>
+
+		<!-- Element Zero -->
+			<RE_ElementZero.label>elemento zero</RE_ElementZero.label>
+			<RE_ElementZero.description>Conhecido popularmente como "eezo", esse material é a espinha dorsal de muitas tecnologias avançadas.</RE_ElementZero.description>
+
+		<!-- Biotic Amp -->
+			<RE_BioticAmp.label>amp. biótico</RE_BioticAmp.label>
+			<RE_BioticAmp.description>Este implante cerebral permite ao usuário manipular os campos de efeito de massa usando nódulos do elemento zero dentro do amplificador, essencialmente gerando campos fortes o suficiente para uso prático. Com o treinamento em habilidades específicas, o usuário pode lançar habilidades bióticas com diversos efeitos.</RE_BioticAmp.description>
+			<RE_BioticAmp.comps.0.useLabel>Usar amp. biótico para formar uma ligação biótica</RE_BioticAmp.comps.0.useLabel>
+	  		<RE_BioticAmp_Singularity.label>amp. biótico (singularidade biótica)</RE_BioticAmp_Singularity.label>
+			<RE_BioticAmp_Singularity.description>Este implante cerebral permite ao usuário manipular os campos de efeito de massa usando nódulos do elemento zero dentro do amplificador, essencialmente gerando campos fortes o suficiente para uso prático. Com o treinamento em habilidades específicas, o usuário pode lançar habilidades bióticas com diversos efeitos.</RE_BioticAmp_Singularity.description>
+			<RE_BioticAmp_Singularity.comps.0.useLabel>Usar amp. biótico para formar uma ligação biótica</RE_BioticAmp_Singularity.comps.0.useLabel>
+			<RE_BioticAmp_Annihilation.label>amp. biótico (campo de aniquilação biótico)</RE_BioticAmp_Annihilation.label>
+			<RE_BioticAmp_Annihilation.description>Este implante cerebral permite ao usuário manipular os campos de efeito de massa usando nódulos do elemento zero dentro do amplificador, essencialmente gerando campos fortes o suficiente para uso prático. Com o treinamento em habilidades específicas, o usuário pode lançar habilidades bióticas com diversos efeitos.</RE_BioticAmp_Annihilation.description>
+			<RE_BioticAmp_Annihilation.comps.0.useLabel>Usar amp. biótico para formar uma ligação biótica</RE_BioticAmp_Annihilation.comps.0.useLabel>
+			<RE_BioticAmp_Flare.label>amp. biótico (explosão biótica)</RE_BioticAmp_Flare.label>
+			<RE_BioticAmp_Flare.description>Este implante cerebral permite ao usuário manipular os campos de efeito de massa usando nódulos do elemento zero dentro do amplificador, essencialmente gerando campos fortes o suficiente para uso prático. Com o treinamento em habilidades específicas, o usuário pode lançar habilidades bióticas com diversos efeitos.</RE_BioticAmp_Flare.description>
+			<RE_BioticAmp_Flare.comps.0.useLabel>Usar amp. biótico para formar uma ligação biótica</RE_BioticAmp_Flare.comps.0.useLabel>
+			<RE_BioticAmp_Dominate.label>amp. biótico (dominação biótica)</RE_BioticAmp_Dominate.label>
+			<RE_BioticAmp_Dominate.description>Este implante cerebral permite ao usuário manipular os campos de efeito de massa usando nódulos do elemento zero dentro do amplificador, essencialmente gerando campos fortes o suficiente para uso prático. Com o treinamento em habilidades específicas, o usuário pode lançar habilidades bióticas com diversos efeitos.</RE_BioticAmp_Dominate.description>
+			<RE_BioticAmp_Dominate.comps.0.useLabel>Usar amp. biótico para formar uma ligação biótica</RE_BioticAmp_Dominate.comps.0.useLabel>
+
+		<!-- Omni Tool -->
+			<RE_OmniTool.label>omni-ferramenta</RE_OmniTool.label>
+			<RE_OmniTool.description>Este dispositivo é uma ferramenta multifuncional de diagnóstico e fabricação, bem como um computador usado para uma variedade de tarefas civis e no campo de batalha, como hacking, diagnóstico, descriptografia e reparo. Com treinamento em habilidades específicas, o usuário pode lançar poderes tecnológicos com diversos efeitos. Este implante pode ser atualizado em vários níveis. Níveis mais altos permitem o uso de grandes quantidades de poderes tecnológicos.</RE_OmniTool.description>
+			<RE_OmniTool.comps.0.useLabel>Usar omni-ferramenta para utilizar habilidades tecnológicas</RE_OmniTool.comps.0.useLabel>
+			<RE_OmniTool_CombatDrone.label>omni-ferramenta (drone de combate)</RE_OmniTool_CombatDrone.label>
+			<RE_OmniTool_CombatDrone.description>Este dispositivo é uma ferramenta multifuncional de diagnóstico e fabricação, bem como um computador usado para uma variedade de tarefas civis e no campo de batalha, como hacking, diagnóstico, descriptografia e reparo. Com treinamento em habilidades específicas, o usuário pode lançar poderes tecnológicos com diversos efeitos. Este implante pode ser atualizado em vários níveis. Níveis mais altos permitem o uso de grandes quantidades de poderes tecnológicos.</RE_OmniTool_CombatDrone.description>
+			<RE_OmniTool_CombatDrone.comps.0.useLabel>Usar omni-ferramenta para utilizar habilidades tecnológicas</RE_OmniTool_CombatDrone.comps.0.useLabel>
+			<RE_OmniTool_DefenseMatrix.label>omni-ferramenta (matriz de defesa)</RE_OmniTool_DefenseMatrix.label>
+			<RE_OmniTool_DefenseMatrix.description>Este dispositivo é uma ferramenta multifuncional de diagnóstico e fabricação, bem como um computador usado para uma variedade de tarefas civis e no campo de batalha, como hacking, diagnóstico, descriptografia e reparo. Com treinamento em habilidades específicas, o usuário pode lançar poderes tecnológicos com diversos efeitos. Este implante pode ser atualizado em vários níveis. Níveis mais altos permitem o uso de grandes quantidades de poderes tecnológicos.</RE_OmniTool_DefenseMatrix.description>
+			<RE_OmniTool_DefenseMatrix.comps.0.useLabel>Usar omni-ferramenta para utilizar habilidades tecnológicas</RE_OmniTool_DefenseMatrix.comps.0.useLabel>
+			<RE_OmniTool_Sabotage.label>omni-ferramenta (sabotagem)</RE_OmniTool_Sabotage.label>
+			<RE_OmniTool_Sabotage.description>Este dispositivo é uma ferramenta multifuncional de diagnóstico e fabricação, bem como um computador usado para uma variedade de tarefas civis e no campo de batalha, como hacking, diagnóstico, descriptografia e reparo. Com treinamento em habilidades específicas, o usuário pode lançar poderes tecnológicos com diversos efeitos. Este implante pode ser atualizado em vários níveis. Níveis mais altos permitem o uso de grandes quantidades de poderes tecnológicos.</RE_OmniTool_Sabotage.description>
+			<RE_OmniTool_Sabotage.comps.0.useLabel>Usar omni-ferramenta para utilizar habilidades tecnológicas</RE_OmniTool_Sabotage.comps.0.useLabel>
+			<RE_OmniTool_TacticalCloak.label>omni-ferramenta (capa tática)</RE_OmniTool_TacticalCloak.label>
+			<RE_OmniTool_TacticalCloak.description>Este dispositivo é uma ferramenta multifuncional de diagnóstico e fabricação, bem como um computador usado para uma variedade de tarefas civis e no campo de batalha, como hacking, diagnóstico, descriptografia e reparo. Com treinamento em habilidades específicas, o usuário pode lançar poderes tecnológicos com diversos efeitos. Este implante pode ser atualizado em vários níveis. Níveis mais altos permitem o uso de grandes quantidades de poderes tecnológicos.</RE_OmniTool_TacticalCloak.description>
+			<RE_OmniTool_TacticalCloak.comps.0.useLabel>Usar omni-ferramenta para utilizar habilidades tecnológicas</RE_OmniTool_TacticalCloak.comps.0.useLabel>
+
+		<!-- Adrenaline Module -->
+			<RE_AdrenalineModule.label>módulo de adrenalina</RE_AdrenalineModule.label>
+			<RE_AdrenalineModule.description>Um pequeno microcomputador com cápsula de vidro e sintetizador de adrenalina. Constantemente injeta a substância no sangue, aumentaNDO a velocidade de movimento.</RE_AdrenalineModule.description>
+
+		<!-- Stabilization Module -->
+			<RE_StabilizationModule.label>módulo de estabilização</RE_StabilizationModule.label>
+			<RE_StabilizationModule.description>Um microcomputador inteligente com um processador bastante poderoso para seu tamanho. Calcula as trajetórias de projéteis, exibindo-os em uma pequena interface holográfica na retina.</RE_StabilizationModule.description>
+
+		<!-- Strength Enhancer -->
+			<RE_StrengthEnhancer.label>intensificador de força</RE_StrengthEnhancer.label>
+			<RE_StrengthEnhancer.description>Um microcomputador com uma grande cápsula de vidro e um avançado sintetizador de estimulantes de combate. Constantemente injeta substâncias no sangue, aumentando o potencial do usuário em combate corpo a corpo.</RE_StrengthEnhancer.description>
+
+		<!-- Power Amplifier -->
+			<RE_PowerAmplifier.label>amplificador de potência</RE_PowerAmplifier.label>
+			<RE_PowerAmplifier.description>Um módulo com elemento zero adicional, acelera a taxa de recuperação de energia biótica.</RE_PowerAmplifier.description>
+
+		<!-- Power Efficiency Module -->
+			<RE_PowerEfficiencyModule.label>módulo de eficiência energética</RE_PowerEfficiencyModule.label>
+			<RE_PowerEfficiencyModule.description>Um módulo com elemento zero adicional, diminui o custo das habilidades bióticas.</RE_PowerEfficiencyModule.description>
+
+		<!-- Targeting VI -->
+			<RE_TargetingVI.label>segmentação VI</RE_TargetingVI.label>
+			<RE_TargetingVI.description>Uma pequena cápsula com sistema VI. Aumenta as habilidades de combate e o alcance de tiro significativamente.</RE_TargetingVI.description>
 
 	<!-- RimWorld - Witcher Monster Hunt -->
 		<!-- Rage of Nature Implant -->

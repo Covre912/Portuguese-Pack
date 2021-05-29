@@ -75,6 +75,18 @@
             <Quest_City_Hostages.questParts.1.letter>Reféns perdidos<Quest_City_Hostages.questParts.1.letter>
             <Quest_City_Hostages.questParts.1.message>Você foi incapaz de resgatar os reféns.<Quest_City_Hostages.questParts.1.letter>
 
+    <!-- RimEffect: Core -->
+        <!-- Spectre -->
+            <RE_SpectreJoins.label>espectro</RE_SpectreJoins.label>
+            <RE_SpectreJoins.letterText>Sentindo problemas, um espectro misterioso chegou.\n\nEspectros são agentes aos quais foi confiada a autoridade extraordinária do Conselho da Cidadela, incluindo o poder de vida e morte sobre os habitantes da galáxia. Será ele(a) capaz de acertar as coisas nessas bandas antes de prosseguir para uma nova missão?</RE_SpectreJoins.letterText>
+            <RE_SpectreJoins.letterLabel>espectro</RE_SpectreJoins.letterLabel>
+
+        <!-- Pyjaks -->
+            <RE_PyjaksJoins.label>pijaques</RE_PyjaksJoins.label>
+
+        <!-- Local Battlefield -->
+            <RE_LocalBattlefield.label>campo de batalha local</RE_LocalBattlefield.label>
+
     <!-- Vanilla Animals Expanded - Endangered -->
         <!-- Extinct Animals -->
             <AEXP_ExtintAnimalsPasses.label>animais em extinção</AEXP_ExtintAnimalsPasses.label>

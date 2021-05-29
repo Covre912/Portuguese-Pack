@@ -56,6 +56,91 @@
             <Jewelry_Ring_Silver.label>anel de prata</Jewelry_Ring_Silver.label>
             <Jewelry_Ring_Silver.description>Um lindo anel feito de prata e uma gema valiosa. Melhora o impacto social de quem o usa.</Jewelry_Ring_Silver.description>
 
+    <!-- Rim-Effect: Core -->
+        <!-- Cryo Rounds -->
+            <RE_AmmoCryoBelt.label>cartuchos criogênicos</RE_AmmoCryoBelt.label>
+            <RE_AmmoCryoBelt.description>Um cinto de munição com cartuchos criogênicos.\n\nCada tiro disparado com uma arma enquanto este cinto está equipado aplica hipotermia, mas reduz a durabilidade do cinto.</RE_AmmoCryoBelt.description>
+
+        <!-- Disruptor Rounds -->
+            <RE_AmmoDisruptorBelt.label>cartuchos disruptores</RE_AmmoDisruptorBelt.label>
+            <RE_AmmoDisruptorBelt.description>Um cinto de munição com cartuchos disruptores.\n\nCada tiro disparado com uma arma enquanto este cinto está equipado aplica dano PEM, mas reduz a durabilidade do cinto.</RE_AmmoDisruptorBelt.description>
+
+        <!-- Explosive Rounds -->
+            <RE_AmmoExplosiveBelt.label>cartuchos explosivos</RE_AmmoExplosiveBelt.label>
+            <RE_AmmoExplosiveBelt.description>Um cinto de munição com cartuchos explosivos.\n\nCada tiro disparado com uma arma enquanto este cinto está equipado é um tiro explosivo, mas reduz a durabilidade do cinto.</RE_AmmoExplosiveBelt.description>
+
+        <!-- Incendiary Rounds -->
+            <RE_AmmoIncendiaryBelt.label>cartuchos incendiários</RE_AmmoIncendiaryBelt.label>
+            <RE_AmmoIncendiaryBelt.description>Um cinto de munição com cartuchos incendiários.\n\nCada tiro disparado com uma arma enquanto este cinto está equipado incendeia alvos, mas reduz a durabilidade do cinto.</RE_AmmoIncendiaryBelt.description>
+
+        <!-- Piercing Rounds -->
+            <RE_AmmoPiercingBelt.label>cartuchos perfurantes</RE_AmmoPiercingBelt.label>
+            <RE_AmmoPiercingBelt.description>Um cinto de munição com cartuchos perfurantes.\n\nCada tiro disparado com uma arma enquanto este cinto está equipado tem mais penetração de armadura, mas reduz a durabilidade do cinto.</RE_AmmoPiercingBelt.description>
+
+        <!-- Toxic Rounds -->
+            <RE_AmmoToxicBelt.label>cartuchos tóxicos</RE_AmmoToxicBelt.label>
+            <RE_AmmoToxicBelt.description>Um cinto de munição com cartuchos tóxicos.\n\nCada tiro disparado com uma arma enquanto este cinto está equipado aplica acúmulo tóxico, mas reduz a durabilidade do cinto.</RE_AmmoToxicBelt.description>
+
+        <!-- Light Alliance Helmet -->
+            <RE_Apparel_LightAllianceHelmet.label>capacete leal leve</RE_Apparel_LightAllianceHelmet.label>
+            <RE_Apparel_LightAllianceHelmet.description>Um capacete com blindagem leve usado com mais frequência por bióticos que exigem mais flexibilidade e menos estorvo.\n\nEsta armadura blindada consiste em várias camadas. A base é em tecido com acolchoamento cinético, com placas ablativas sobre áreas vitais. A externa consiste em barreiras cinéticas que disparam automaticamente quando projéteis inimigos são detectados.</RE_Apparel_LightAllianceHelmet.description>
+
+        <!-- Aliance Helmet -->
+            <RE_Apparel_AllianceHelmet.label>capacete leal</RE_Apparel_AllianceHelmet.label>
+            <RE_Apparel_AllianceHelmet.description>Um capacete padrão usado pelos soldados leais.\n\nEsta armadura blindada consiste em várias camadas. A base é em tecido com acolchoamento cinético, com placas ablativas sobre áreas vitais. A externa consiste em barreiras cinéticas que disparam automaticamente quando projéteis inimigos são detectados.</RE_Apparel_AllianceHelmet.description>
+
+        <!-- Alliance Officer Hat -->
+            <RE_Apparel_AllianceOfficerHat.label>chapéu de oficial leal</RE_Apparel_AllianceOfficerHat.label>
+            <RE_Apparel_AllianceOfficerHat.description>Um acessório para o uniforme leal, é um item necessário para completar o visual que representa a humanidade no palco galáctico.</RE_Apparel_AllianceOfficerHat.description>
+
+        <!-- Heavy Alliance Helmet -->
+            <RE_Apparel_HeavyAllianceHelmet.label>capacete leal pesado</RE_Apparel_HeavyAllianceHelmet.label>
+            <RE_Apparel_HeavyAllianceHelmet.description>Um capacete de blindagem pesada frequentemente usado por tropas de choque e operadores de armas pesadas.\n\nEsta armadura blindada consiste em várias camadas. A base é em tecido com acolchoamento cinético, com placas ablativas sobre áreas vitais. A externa consiste em barreiras cinéticas que disparam automaticamente quando projéteis inimigos são detectados.</RE_Apparel_HeavyAllianceHelmet.description>
+
+        <!-- Spectre Visor -->
+            <RE_Apparel_SpectreVisor.label>visor espectral</RE_Apparel_SpectreVisor.label>
+            <RE_Apparel_SpectreVisor.description>Protótipo de capacete de elite disponível apenas para espectros, garantindo-os habilidades de combate avançadas.\n\nEsta armadura blindada consiste em várias camadas. A base é em tecido com acolchoamento cinético, com placas ablativas sobre áreas vitais. A externa consiste em barreiras cinéticas que disparam automaticamente quando projéteis inimigos são detectados.</RE_Apparel_SpectreVisor.description>
+
+        <!-- Light Alliance Armor -->
+            <RE_Apparel_LightAllianceArmor.label>armadura leal leve</RE_Apparel_LightAllianceArmor.label>
+            <RE_Apparel_LightAllianceArmor.description>Uma armadura leve usada com mais frequência por Bióticos que exigem mais flexibilidade e menos estorvo.\n\nEsta armadura blindada consiste em várias camadas. A base é em tecido com acolchoamento cinético, com placas ablativas sobre áreas vitais. A externa consiste em barreiras cinéticas que disparam automaticamente quando projéteis inimigos são detectados.</RE_Apparel_LightAllianceArmor.description>
+
+        <!-- Alliance Armor -->
+            <RE_Apparel_AllianceArmor.label>armadura leal</RE_Apparel_AllianceArmor.label>
+            <RE_Apparel_AllianceArmor.description>Um conjunto padrão de armadura usado pelos soldados leais.\n\nEsta armadura blindada consiste em várias camadas. A base é em tecido com acolchoamento cinético, com placas ablativas sobre áreas vitais. A externa consiste em barreiras cinéticas que disparam automaticamente quando projéteis inimigos são detectados.</RE_Apparel_AllianceArmor.description>
+
+        <!-- Fatigues -->
+            <RE_Apparel_Fatigues.label>farda</RE_Apparel_Fatigues.label>
+            <RE_Apparel_Fatigues.description>O uniforme padrão para militares leais em serviço ativo, essas fardas têm uma leve malha de armadura embutida no exterior para ajudar a proteger seus portadores de armas pequenas.</RE_Apparel_Fatigues.description>
+
+        <!-- Aliance Dress Jacket -->
+            <RE_Apparel_AllianceDressJacket.label>terno leal</RE_Apparel_AllianceDressJacket.label>
+            <RE_Apparel_AllianceDressJacket.description>Uniforme de gala padronizado usado por membros leais, é distinto, imaculado e destinado à identificação e uma demonstração de solidariedade uniformizada entre aqueles que têm a dignidade de usá-lo.</RE_Apparel_AllianceDressJacket.description>
+
+        <!-- Heavy Alliance Armor -->
+            <RE_Apparel_HeavyAllianceArmor.label>armadura leal pesada</RE_Apparel_HeavyAllianceArmor.label>
+            <RE_Apparel_HeavyAllianceArmor.description>Uma armadura pesada frequentemente usada por tropas de choque e operadores de armas pesadas.\n\nEsta armadura blindada consiste em várias camadas. A base é em tecido com acolchoamento cinético, com placas ablativas sobre áreas vitais. A externa consiste em barreiras cinéticas que disparam automaticamente quando projéteis inimigos são detectados.</RE_Apparel_HeavyAllianceArmor.description>
+
+        <!-- Formal Shirt -->
+            <RE_Apparel_FormalShirt.label>camisa formal</RE_Apparel_FormalShirt.label>
+            <RE_Apparel_FormalShirt.description>Uma camisa com nervuras, geralmente usada por embaixadores, diplomatas e outros civis de alto escalão.</RE_Apparel_FormalShirt.description>
+
+        <!-- Formal Jacket -->
+            <RE_Apparel_FormalJacket.label>jaqueta formal</RE_Apparel_FormalJacket.label>
+            <RE_Apparel_FormalJacket.description>Uma jaqueta estilosa encontrada nas costas de muitos no espaço do conselho, usada frequentemente pelos ricos e poderosos. Oferece pouca defesa, mas dá a impressão de alguém que sabe o que está fazendo.</RE_Apparel_FormalJacket.description>
+
+        <!-- Battle Uniform -->
+            <RE_Apparel_BattleUniform.label>uniforme de batalha</RE_Apparel_BattleUniform.label>
+            <RE_Apparel_BattleUniform.description>O traje comum dos soldados leais durante o serviço ativo, este uniforme blindado oferece uma camada de defesa decente para o torso e os órgãos primários no caso de um ataque inesperado durante o serviço leve.</RE_Apparel_BattleUniform.description>
+
+        <!-- Spectre Armor -->
+            <RE_Apparel_SpectreArmor.label>armadura espectral</RE_Apparel_SpectreArmor.label>
+            <RE_Apparel_SpectreArmor.description>A armadura de protótipo de elite disponível apenas para espectros, garantindo-os habilidades de combate avançadas.\n\nEsta armadura blindada consiste em várias camadas. A base é em tecido com acolchoamento cinético, com placas ablativas sobre áreas vitais. A externa consiste em barreiras cinéticas que disparam automaticamente quando projéteis inimigos são detectados.</RE_Apparel_SpectreArmor.description>
+
+        <!-- Science Uniforme -->
+            <RE_Apparel_ScienceUniform.label>uniforme científico</RE_Apparel_ScienceUniform.label>
+            <RE_Apparel_ScienceUniform.description>Um uniforme usado por cientistas e arqueólogos que desenvolvem a medicina galáctica. É bem isolado e adequado para uma grande variedade de ambientes perigosos, como laboratórios e hospitais.</RE_Apparel_ScienceUniform.description>
+
     <!-- Vanilla Armour Expanded -->
         <!-- Plate Boots -->
             <VAE_Footwear_PlateBoots.label>botas de placas</VAE_Footwear_PlateBoots.label>

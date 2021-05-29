@@ -392,6 +392,17 @@
             <Chatty.degreeDatas.0.label>tagarela</Chatty.degreeDatas.0.label>
             <Chatty.degreeDatas.0.description>[PAWN_nameDef] adorar falar, falar e falar. [PAWN_pronoun] tende a ter conversas mais longas do que a maioria, porque [PAWN_pronoun] não consegue acabar com elas.</Chatty.degreeDatas.0.description>
 
+    <!-- Rim-Effect: Core -->
+        <!-- Biotic Recovery Offset -->
+            <RE_BioticRecoveryOffset.degreeDatas.0.label>bioticamente surdo</RE_BioticRecoveryOffset.degreeDatas.0.label>
+            <RE_BioticRecoveryOffset.degreeDatas.0.description>As capacidades bióticas de [PAWN_nameDef] são significativamente amortecidas por traumas anteriores ou simplesmente pela falta de predisposição.</RE_BioticRecoveryOffset.degreeDatas.0.description>
+            <RE_BioticRecoveryOffset.degreeDatas.1.label>bioticamente monótono</RE_BioticRecoveryOffset.degreeDatas.1.label>
+            <RE_BioticRecoveryOffset.degreeDatas.1.description>[PAWN_nameDef] ainda não desbloqueou todo o seu potencial biótico, e muito provavelmente nunca irá.</RE_BioticRecoveryOffset.degreeDatas.1.description>
+            <RE_BioticRecoveryOffset.degreeDatas.2.label>bioticamente habilidoso</RE_BioticRecoveryOffset.degreeDatas.2.label>
+            <RE_BioticRecoveryOffset.degreeDatas.2.description>As habilidades bióticas de [PAWN_nameDef] estão muito acima da média, permitindo que use o poder sem medo de enxaquecas ou desconforto.</RE_BioticRecoveryOffset.degreeDatas.2.description>
+            <RE_BioticRecoveryOffset.degreeDatas.3.label>bioticamente talentoso</RE_BioticRecoveryOffset.degreeDatas.3.label>
+            <RE_BioticRecoveryOffset.degreeDatas.3.description>As habilidades bióticas de [PAWN_nameDef] são conhecidas em toda a galáxia devido ao seu talento e rara predisposição.</RE_BioticRecoveryOffset.degreeDatas.3.description>
+
     <!-- Vanilla Fishing Expanded -->
         <!-- Fisherman -->
             <VCEF_Fisherman.degreeDatas.fisherman.label>pescador</VCEF_Fisherman.degreeDatas.fisherman.label>
