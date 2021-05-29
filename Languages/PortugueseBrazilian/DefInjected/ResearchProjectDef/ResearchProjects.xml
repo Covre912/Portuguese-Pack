@@ -199,6 +199,27 @@
             <VEF_AdvancedAnimalImplants.label>implantes veterinários avançados</VEF_AdvancedAnimalImplants.label>
             <VEF_AdvancedAnimalImplants.description>Aprenda a extrair certas habilidades de animais e implantá-las em outros. Ataques de animais à distância também podem ser implantados em um animal diferente.</VEF_AdvancedAnimalImplants.description>
 
+    <!-- Vanilla Apparel Expanded -->
+        <!-- Casual Wear -->
+            <VAE_CasualWear.label>vestuário casual</VAE_CasualWear.label>
+            <VAE_CasualWear.description>Crie roupas casuais com recursos úteis para qualquer situação.</VAE_CasualWear.description>
+
+        <!-- Formal Wear -->
+            <VAE_FormalWear.label>vestuário formal</VAE_FormalWear.label>
+            <VAE_FormalWear.description>Crie ternos e trajes formais.</VAE_FormalWear.description>
+
+        <!-- Work Attire -->
+            <VAE_WorkAttire.label>vestuário de trabalho</VAE_WorkAttire.label>
+            <VAE_WorkAttire.description>Crie trajes cômodos e funcionais para qualquer tipo de trabalho.</VAE_WorkAttire.description>
+
+        <!-- Sterile Attire -->
+            <VAE_SterileAttire.label>vestuário estéril</VAE_SterileAttire.label>
+            <VAE_SterileAttire.description>Crie roupas estéreis usadas por médicos e cientistas.</VAE_SterileAttire.description>
+
+        <!-- Military Clothing -->
+            <VAE_MilitaryClothing.label>vestuário militar</VAE_MilitaryClothing.label>
+            <VAE_MilitaryClothing.description>Crie roupas à prova de intempéries para proteger seus soldados.</VAE_MilitaryClothing.description>
+
     <!-- Vanilla Armour Expanded -->
         <!-- Leather Tanning -->
             <VAE_LeatherTanning.label>curtimento de couro</VAE_LeatherTanning.label>
