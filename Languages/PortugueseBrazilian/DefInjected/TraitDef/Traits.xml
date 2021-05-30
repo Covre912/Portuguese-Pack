@@ -323,6 +323,13 @@
             <FT_Endurance.degreeDatas.1.label>muito duradouro</FT_Endurance.degreeDatas.1.label>
             <FT_Endurance.degreeDatas.1.description>[PAWN_nameDef] tem saúde excepcional e uma personalidade muito duradoura. [PAWN_pronoun] é capaz de lidar com situações de alto estresse que outros não podem.</FT_Endurance.degreeDatas.1.description>
 
+    <!-- Humanoid Alien Races 2.0 -->
+        <!-- Xenophobia -->
+            <Xenophobia.degreeDatas.0.label>xenófobo</Xenophobia.degreeDatas.0.label>
+            <Xenophobia.degreeDatas.0.description>[PAWN_nameDef] odeia e não confia em alienígenas. [PAWN_pronoun] os veem como pouco mais do que animais.</Xenophobia.degreeDatas.0.description>
+            <Xenophobia.degreeDatas.1.label>xenófilo</Xenophobia.degreeDatas.1.label>
+            <Xenophobia.degreeDatas.1.description>[PAWN_nameDef] acha que os alienígenas são exóticos e interessantes. [PAWN_pronoun] adoraria conhecê-los mais e não se importariam de estabelecer relacionamentos com eles.</Xenophobia.degreeDatas.1.description>
+
     <!-- Psychology (unofficial 1.1/1.2) -->
         <!-- Prude -->
             <Prude.degreeDatas.0.label>puritano</Prude.degreeDatas.0.label>

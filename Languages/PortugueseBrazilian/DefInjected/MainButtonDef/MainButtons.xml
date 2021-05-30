@@ -2,23 +2,19 @@
 <LanguageData>
 
     <!-- ResearchPal - Forked -->
-        <!-- Research -->
-            <Research.label>pesquisa</Research.label>
-            <Research.description>Examine e decida sobre os projetos de pesquisa.</Research.description>
+        <Research.label>pesquisa</Research.label>
+        <Research.description>Examine e decida sobre os projetos de pesquisa.</Research.description>
 
     <!-- Vanilla Achievements Expanded -->
-        <!-- Achievements -->
-            <Achievements.label>conquistas</Achievements.label>
-            <Achievements.description>Desbloqueie conquistas, ganhe pontos, gerencie seu progresso.</Achievements.description>
+        <Achievements.label>conquistas</Achievements.label>
+        <Achievements.description>Desbloqueie conquistas, ganhe pontos, gerencie seu progresso.</Achievements.description>
 
     <!-- VFE - Mechanoids : Tab -->
-        <!-- Drones -->
-            <VFEMT_Mechanoids.label>drones</VFEMT_Mechanoids.label>
-            <VFEMT_Mechanoids.description>Rastreie e configure os drones da colônia.</VFEMT_Mechanoids.description>
+        <VFEMT_Mechanoids.label>drones</VFEMT_Mechanoids.label>
+        <VFEMT_Mechanoids.description>Rastreie e configure os drones da colônia.</VFEMT_Mechanoids.description>
 
     <!-- WeaponStats -->
-        <!-- Weapons -->
-            <Bodlosh_WeaponStats.label>armas</Bodlosh_WeaponStats.label>
-            <Bodlosh_WeaponStats.description>Gerencie e verifique armas e vestuário.</Bodlosh_WeaponStats.description>
+        <Bodlosh_WeaponStats.label>armas</Bodlosh_WeaponStats.label>
+        <Bodlosh_WeaponStats.description>Gerencie e verifique armas e vestuário.</Bodlosh_WeaponStats.description>
 
 </LanguageData>

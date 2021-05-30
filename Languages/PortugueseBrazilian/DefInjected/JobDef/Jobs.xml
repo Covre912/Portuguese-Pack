@@ -13,6 +13,9 @@
     <!-- Allow Tool -->
         <FinishOffPawn.reportString>finalizando criatura.</FinishOffPawn.reportString>
 
+    <!-- Common Sense -->
+        <UnloadMarkedItems.reportString>descarregando inventário.</UnloadMarkedItems.reportString>
+
     <!-- Dress Patients -->
         <DressPatient.reportString>vestindo TargetA.</DressPatient.reportString>
 

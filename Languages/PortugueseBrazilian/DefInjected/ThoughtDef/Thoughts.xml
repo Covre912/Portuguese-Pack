@@ -240,6 +240,20 @@
             <VMEu_ConsumedSnacks.stages.0.label>comeu salgadinhos</VMEu_ConsumedSnacks.stages.0.label>
             <VMEu_ConsumedSnacks.stages.0.description>Esses foram alguns bons salgadinhos.</VMEu_ConsumedSnacks.stages.0.description>
 
+    <!-- Humanoid Alien Races 2.0 -->
+        <!-- Xenophobe VS Xenophile-->
+            <XenophobeVsXenophile.stages.0.label>xenófobo vs xenófilo</XenophobeVsXenophile.stages.0.label>
+
+         <!-- Xenophobia VS Aliens -->
+            <XenophobiaVsAlien.stages.0.label>xenófilo ama alienígenas</XenophobiaVsAlien.stages.0.label>
+            <XenophobiaVsAlien.stages.0.description>Xenófilo ama alienígenas.</XenophobiaVsAlien.stages.0.description>
+            <XenophobiaVsAlien.stages.1.label>xenófobo odeia alienígenas</XenophobiaVsAlien.stages.1.label>
+            <XenophobiaVsAlien.stages.1.description>Xenófobo odeia alienígenas</XenophobiaVsAlien.stages.1.description>
+
+        <!-- Alien VS Xenophobia -->
+            <AlienVsXenophobia.stages.0.label>alienígena amado por xenófilo</AlienVsXenophobia.stages.0.label>
+            <AlienVsXenophobia.stages.1.label>alienígena odiado por xenófobo</AlienVsXenophobia.stages.1.label>
+
     <!-- Fallout Traits (Continued) -->
         <!-- Gun Nut -->
             <GunNutHappy.stages.0.label>entusiasta por armas de fogo tem arma de longo alcande</GunNutHappy.stages.0.label>

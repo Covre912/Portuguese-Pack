@@ -24,6 +24,9 @@
         <VMEu_LiquidPlasticThingCategory.label>plásticos líquidos</VMEu_LiquidPlasticThingCategory.label>
         <VMEu_ChemicalsThingCategory.label>químicos</VMEu_ChemicalsThingCategory.label>
 
+    <!-- Humanoid Alien Races 2.0 -->
+        <alienCorpseCategory.label>cadáveres alienígenas</alienCorpseCategory.label>
+
     <!-- Rim-Effect Core -->
         <RE_Implants.label>implantes</RE_Implants.label>
 
