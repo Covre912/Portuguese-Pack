@@ -140,6 +140,15 @@
         <!-- Science Uniforme -->
             <RE_Apparel_ScienceUniform.label>uniforme científico</RE_Apparel_ScienceUniform.label>
             <RE_Apparel_ScienceUniform.description>Um uniforme usado por cientistas e arqueólogos que desenvolvem a medicina galáctica. É bem isolado e adequado para uma grande variedade de ambientes perigosos, como laboratórios e hospitais.</RE_Apparel_ScienceUniform.description>
+
+    <!-- Rim-Effect: Extended Cut -->
+        <!-- Capacitor Helmet -->
+            <RE_Apparel_CapacitorHelmet.label>capacete capacitor</RE_Apparel_CapacitorHelmet.label>
+            <RE_Apparel_CapacitorHelmet.description>Este capacete armazena microcapacitores em sua estrutura para reabastecer as barreiras cinéticas gastas.</RE_Apparel_CapacitorHelmet.description>
+
+        <!-- Archon Visor -->
+            <RE_Apparel_ArchonVisor.label>visor de arconte</RE_Apparel_ArchonVisor.label>
+            <RE_Apparel_ArchonVisor.description>Um computador que ajuda o usuário a mirar. Detecta e analisa alvos usando sensores eletromagnéticos infravermelhos, visíveis e de ondas milimétricas, exibindo soluções de disparo em uma projeção da retina. Não oferece proteção.</RE_Apparel_ArchonVisor.description>
     
     <!-- Vanilla Apparel Expanded -->
         <!-- Boots -->

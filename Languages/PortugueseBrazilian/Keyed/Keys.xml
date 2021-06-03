@@ -2190,6 +2190,14 @@
         <RE.AbilityDisableReasonBioticEnergyLack>O usuário não tem energia biótica suficiente</RE.AbilityDisableReasonBioticEnergyLack>
         <RE.AbilityDominateBerserkReason>Mentalmente dominado por {0}</RE.AbilityDominateBerserkReason>
 
+    <!-- Rim-Effect: Extended Cut -->
+        <RE.SwitchLightColor>Alterar a cor da luz</RE.SwitchLightColor>
+        <RE.SwitchLightColorDesc>Altera a cor da luz atual.</RE.SwitchLightColorDesc>
+        <RE.ChangeColorTo>RE.ChangeColorTo {0}</RE.ChangeColorTo>
+        <RE.ColorSwitchPowerOff>Desligado. Impossível alterar cor.</RE.ColorSwitchPowerOff>
+        <RE.SelectBattleSet>Selecione o conjunto de batalha: {0}</RE.SelectBattleSet>
+        <RE.SelectBattleSetDesc>RESERVA</RE.SelectBattleSetDesc>
+
     <!-- RimHUD -->
         <!-- Base -->
             <RimHUD.Language.AdjectiveNounOrder>{1} {0}</RimHUD.Language.AdjectiveNounOrder>

@@ -89,6 +89,12 @@
             <RE_DoBillsManufacturingBench.verb>manufaturando coisas</RE_DoBillsManufacturingBench.verb>
             <RE_DoBillsManufacturingBench.gerund>manufaturando coisas em</RE_DoBillsManufacturingBench.gerund>
 
+    <!-- Rim-Effect: Extended Cut -->
+        <!-- Cook -->
+            <RE_DoBillsCookPrefabStove.label>cozinhar refeições no fogão</RE_DoBillsCookPrefabStove.label>
+            <RE_DoBillsCookPrefabStove.verb>cozinhar</RE_DoBillsCookPrefabStove.verb>
+            <RE_DoBillsCookPrefabStove.gerund>cozinhando em</RE_DoBillsCookPrefabStove.gerund>
+
     <!-- RimWorld - Wicther Monster Hunt -->
         <!-- Advanced Animals Implants -->
             <VEF_DoBillsAdvancedAnimalImplantsTable.label>fazer implantes veterinários avançados</VEF_DoBillsAdvancedAnimalImplantsTable.label>

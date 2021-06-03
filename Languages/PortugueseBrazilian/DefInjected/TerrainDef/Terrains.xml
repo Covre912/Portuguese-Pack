@@ -1046,6 +1046,19 @@
             <RE_ColonialPavementTileGold.label>ladrilho pavimentado colonial de ouro</RE_ColonialPavementTileGold.label>
             <RE_ColonialPavementTileGold.description>Ladrilhos de ouro. Caro, muito bonito em termos de aparência e rápido de construir.</RE_ColonialPavementTileGold.description>
 
+    <!-- Rim-Effect: Extended Cut -->
+        <!-- Cononial Recreation Tile -->
+            <RE_ColonialRecRoomTileSandstone.label>ladrilho colonial de arenito</RE_ColonialRecRoomTileSandstone.label>
+            <RE_ColonialRecRoomTileSandstone.description>Ladrilhos de pedra refinadas e cuidadosamente cortadas para um sentimento de castelo. Bonito de se olhar, mas eles levam um longo tempo para serem colocados.</RE_ColonialRecRoomTileSandstone.description>
+            <RE_ColonialRecRoomTileGranite.label>ladrilho colonila de granito</RE_ColonialRecRoomTileGranite.label>
+            <RE_ColonialRecRoomTileGranite.description>Ladrilhos de pedra refinadas e cuidadosamente cortadas para um sentimento de castelo. Bonito de se olhar, mas eles levam um longo tempo para serem colocados.</RE_ColonialRecRoomTileGranite.description>
+            <RE_ColonialRecRoomTileLimestone.label>ladrilho colonial de calcário</RE_ColonialRecRoomTileLimestone.label>
+            <RE_ColonialRecRoomTileLimestone.description>Ladrilhos de pedra refinadas e cuidadosamente cortadas para um sentimento de castelo. Bonito de se olhar, mas eles levam um longo tempo para serem colocados.</RE_ColonialRecRoomTileLimestone.description>
+            <RE_ColonialRecRoomTileSlate.label>ladrilho colonial de ardósia</RE_ColonialRecRoomTileSlate.label>
+            <RE_ColonialRecRoomTileSlate.description>Ladrilhos de pedra refinadas e cuidadosamente cortadas para um sentimento de castelo. Bonito de se olhar, mas eles levam um longo tempo para serem colocados.</RE_ColonialRecRoomTileSlate.description>
+            <RE_ColonialRecRoomTileMarble.label>ladrilho colonial de mármore</RE_ColonialRecRoomTileMarble.label>
+            <RE_ColonialRecRoomTileMarble.description>Ladrilhos de pedra refinadas e cuidadosamente cortadas para um sentimento de castelo. Bonito de se olhar, mas eles levam um longo tempo para serem colocados.</RE_ColonialRecRoomTileMarble.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Factory Floor -->
             <VFE_FactoryFloor.label>chão de fábrica</VFE_FactoryFloor.label>

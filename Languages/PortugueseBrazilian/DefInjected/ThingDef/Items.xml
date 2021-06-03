@@ -656,6 +656,25 @@
 			<RE_TargetingVI.label>segmentação VI</RE_TargetingVI.label>
 			<RE_TargetingVI.description>Uma pequena cápsula com sistema VI. Aumenta as habilidades de combate e o alcance de tiro significativamente.</RE_TargetingVI.description>
 
+	<!-- Rim-Effect: Extended Cut -->
+		<!-- Colonial Meal -->
+			<RE_MealColonial.label>refeição colonial</RE_MealColonial.label>
+			<RE_MealColonial.description>Com foco na variedade em vez da qualidade, as refeições coloniais são rápidas e fáceis de cozinhar, ao mesmo tempo que fornecem ao consumidor uma quantidade saudável de nutrição.</RE_MealColonial.description>
+
+		<!-- Tasty Tankard -->
+			<RE_TastyTankard.label>fernet</RE_TastyTankard.label>
+			<RE_TastyTankard.description>Uma bebida extremamente deliciosa, muitas vezes apreciada por humanos nas colônias leais. Tem uma alta porcentagem de álcool e pode facilmente levar ao vício.\n\nDevido aos seus ingredientes, é muito rara e estraga facilmente.</RE_TastyTankard.description>
+			<RE_TastyTankard.tools.0.label>frasco</RE_TastyTankard.tools.0.label>
+			<RE_TastyTankard.ingestible.ingestCommandString>Beber {0}</RE_TastyTankard.ingestible.ingestCommandString>
+			<RE_TastyTankard.ingestible.ingestReportString>Bebendo {0}.</RE_TastyTankard.ingestible.ingestReportString>
+
+		<!-- Serrice Brandy -->
+			<RE_SerriceBrandy.label>borovnica</RE_SerriceBrandy.label>
+			<RE_SerriceBrandy.description>Uma bebida cara, muitas vezes bebida pelos ricos.</RE_SerriceBrandy.description>
+			<RE_SerriceBrandy.tools.0.label>frasco</RE_SerriceBrandy.tools.0.label>
+			<RE_SerriceBrandy.ingestible.ingestCommandString>Beber {0}</RE_SerriceBrandy.ingestible.ingestCommandString>
+			<RE_SerriceBrandy.ingestible.ingestReportString>Bebendo {0}.</RE_SerriceBrandy.ingestible.ingestReportString>
+
 	<!-- RimWorld - Witcher Monster Hunt -->
 		<!-- Rage of Nature Implant -->
 			<WMH_RageOfNatureImplant.label>implante de fúria da natureza</WMH_RageOfNatureImplant.label>

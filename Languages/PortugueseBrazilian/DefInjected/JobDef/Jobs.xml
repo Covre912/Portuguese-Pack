@@ -44,6 +44,11 @@
         <RE_SaveHostages.reportString>ajudando reféns.</RE_SaveHostages.reportString>
         <RE_LeaveMap.reportString>saindo do mapa.</RE_LeaveMap.reportString>
 
+    <!-- Rim-Effect: Extended Cut -->
+        <RE_WatchHolovision.reportString>assistindo holovisão.</RE_WatchHolovision.reportString>
+        <RE_Play_Warzone.reportString>jogando com TargetB.</RE_Play_Warzone.reportString>
+        <RE_Play_WarzoneSecondPlayer.reportString>jogando com TargetB.</RE_Play_WarzoneSecondPlayer.reportString>
+
     <!-- Vanilla Animals Expanded - Endargered -->
         <AEXP_IngestAnts.reportString>devorando formigas.</AEXP_IngestAnts.reportString>
         <AEXP_GotoTheWild.reportString>indo para a naturza.</AEXP_GotoTheWild.reportString>

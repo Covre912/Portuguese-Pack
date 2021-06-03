@@ -426,6 +426,49 @@
             <RE_PrefabAutodoor.label>porta automática pré-fab.</RE_PrefabAutodoor.label>
             <RE_PrefabAutodoor.description>Divide os cômodos. A operação motorizada permite que as pessoas passem pela porta sem serem desaceleradas.</RE_PrefabAutodoor.description>
 
+    <!-- Rim-Effect: Extended Cut -->
+        <!-- Crashed Themis Shuttle -->
+            <RE_CrashedThemisShuttle.label>transporte têmis acidentado</RE_CrashedThemisShuttle.label>
+            <RE_CrashedThemisShuttle.description>Um transporte espacial acidentado, projetado para o trânsito entre a superfície e a órbita, ou entre as luas de um sistema planetário.</RE_CrashedThemisShuttle.description>
+
+        <!-- Prefab Wall Light -->
+            <RE_PreFabWallLight.label>lâmpada de parede pré-fab.</RE_PreFabWallLight.label>
+            <RE_PreFabWallLight.description>Uma lâmpada de parede projetada para ser montada de forma rápida e fácil no processo de criação de uma nova colônia. Não ocupa nenhum espaço.</RE_PreFabWallLight.description>
+
+        <!-- Dummy -->
+            <RE_WallLightDummy.label>manequim</RE_WallLightDummy.label>
+            <RE_WallLightDummy.description>manequim</RE_WallLightDummy.description>
+            <RE_WallLightDummyWorkaround.label>manequim</RE_WallLightDummyWorkaround.label>
+            <RE_WallLightDummyWorkaround.description>manequim</RE_WallLightDummyWorkaround.description>
+
+        <!-- Prefab Outdoor Lamp -->
+            <RE_PrefabOutdoorLamp.label>lâmpada solar exterior pré-fab.</RE_PrefabOutdoorLamp.label>
+            <RE_PrefabOutdoorLamp.description>Uma lâmpada solar exterior autossustentável, projetada para ser montada de forma rápida e fácil no processo de criação de uma nova colônia.</RE_PrefabOutdoorLamp.description>
+
+        <!-- Warzone Table -->
+            <RE_BattleTable.label>mesa de xadrez espacial</RE_BattleTable.label>
+            <RE_BattleTable.description>Uma longa mesa pré-fab. de alta tecnologia com uma área holográfica gigante exibindo navios, planetas e estações em simulações de combate realistas.</RE_BattleTable.description>
+
+        <!-- Holovison Table -->
+            <RE_HolovisionTable.label>mesa de holovisão</RE_HolovisionTable.label>
+            <RE_HolovisionTable.description>Uma mesa redonda pré-fab. de holovisão. Hologramas gigantescos e hiper vibrantes giram em torno do centro conforme o desejo do usuário. Conecta-se às redes de mídia e capta transmissões de satélites antigos e cartões de dados onipresentes.</RE_HolovisionTable.description>
+
+        <!-- Prefab Stove -->
+            <RE_PreFabStove.label>fogão pré-fab.</RE_PreFabStove.label>
+            <RE_PreFabStove.description>Um fogão elétrico projetado para ser montado de forma rápida e fácil no processo de criação de uma nova colônia.</RE_PreFabStove.description>
+
+        <!-- Prefab Cargo Container -->
+            <RE_PreFabCOntainer.label>contêiner de carga pré-fab.</RE_PreFabCOntainer.label>
+            <RE_PreFabCOntainer.description>Um contêiner de carga pré-fab. laranja. Intransitável. Incapaz de suportar telhados.</RE_PreFabCOntainer.description>
+
+        <!-- Prefab Colonial Autodoor -->
+            <RE_PrefabDoorColonial.label>porta automática colonial pré-fab.</RE_PrefabDoorColonial.label>
+            <RE_PrefabDoorColonial.description>Divide os cômodos. A operação motorizada permite que as pessoas passem pela porta sem serem desaceleradas.</RE_PrefabDoorColonial.description>
+
+        <!-- Prefab Industrial Autodoor -->
+            <RE_PrefabAutoDoorIndustrial.label>porta automática industrial pré-fab.</RE_PrefabAutoDoorIndustrial.label>
+            <RE_PrefabAutoDoorIndustrial.description>Uma porta pesada de aço que divide os cômodos. A operação motorizada permite que as pessoas passem pela porta sem serem desaceleradas.</RE_PrefabAutoDoorIndustrial.description>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Ghoul Victim -->
             <WMH_GhoulBody.label>vítima de ghoul</WMH_GhoulBody.label>

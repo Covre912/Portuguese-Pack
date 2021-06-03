@@ -60,4 +60,13 @@
             <RE_PrefabDoorStates.label>Estados da Porta Pré-fab.</RE_PrefabDoorStates.label>
             <RE_PrefabDoorStates.helpText>As portas pré-fab. podem usar diferentes estados de bloqueio para abrir apenas para certos colonos.</RE_PrefabDoorStates.helpText>
 
+    <!-- Rim-Effect: Extended Cut -->
+        <!-- Prefab Outdoor Lamps -->
+            <RE_PrefabOutdoorLampsPower.label>Lâmpadas Solares Exteriores Pré-fab.</RE_PrefabOutdoorLampsPower.label>
+            <RE_PrefabOutdoorLampsPower.helpText>As lâmpadas solares exterior pré-fab. são autossustentáveis, carmazenando energia durante o dia para se alimentar durante a noite.</RE_PrefabOutdoorLampsPower.helpText>
+
+        <!-- Prefab Wall Lamps -->
+            <RE_PrefabWallLamps.label>Lâmpadas de Parefe Pré-fab.</RE_PrefabWallLamps.label>
+            <RE_PrefabWallLamps.helpText>As lâmpadas de parede pré-fabr. são colocadas directamente nas paredes e, por isso, são ideais para corredores ou pequenas divisões onde não se pretende desperdiçar espaço com uma luminária.</RE_PrefabWallLamps.helpText>
+
 </LanguageData>

@@ -9,8 +9,12 @@
         <HugsLibShortcuts.label>HugsLib</HugsLibShortcuts.label>
         <HugsLibShortcuts.description>Atalhos para a biblioteca HugsLib.</HugsLibShortcuts.description>
 
+    <!-- Rim-Effect: Extended Cut -->
+        <Architect_PropsandDecor.label>Decorações</Architect_PropsandDecor.label>
+        <Architect_PropsandDecor.description>Atalhos de teclado para a seção "Decorações" do menu do arquiteto</Architect_PropsandDecor.description>
+
     <!-- Vanilla Furniture Expanded -->
         <Architect_AOMorefurniture.label>Atalhos para Mobília Ext.</Architect_AOMorefurniture.label>
-        <Architect_AOMorefurniture.description>Atalhos de teclado para a seção "Móveis ext." do menu do arquiteto</Architect_AOMorefurniture.description>
+        <Architect_AOMorefurniture.description>Atalhos de teclado para a seção "Mobília ext." do menu do arquiteto</Architect_AOMorefurniture.description>
 
 </LanguageData>

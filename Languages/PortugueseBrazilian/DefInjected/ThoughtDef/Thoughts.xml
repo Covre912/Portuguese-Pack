@@ -513,12 +513,23 @@
 
     <!-- Rim-Effect: Core -->
         <!-- Nuzzled by Pyjak -->
-            <RE_Thought_PyjakNuzzle.stages.0.label>acariciado por um pyjack</RE_Thought_PyjakNuzzle.stages.0.label>
-            <RE_Thought_PyjakNuzzle.stages.0.description>Leve esse roedor nojento para longe de mim.</RE_Thought_PyjakNuzzle.stages.0.description>
+            <RE_Thought_PyjakNuzzle.stages.0.label>acariciado por um pijaque</RE_Thought_PyjakNuzzle.stages.0.label>
+            <RE_Thought_PyjakNuzzle.stages.0.description>Leve esse roedor nojento para longe de mim!</RE_Thought_PyjakNuzzle.stages.0.description>
 
         <!-- Eezo Psychic Drone -->
             <RE_EezoDrone.stages.0.label>drone psíquico eezo</RE_EezoDrone.stages.0.label>
             <RE_EezoDrone.stages.0.description>Sinto como se alguém estivesse sempre fora de vista, falando comigo. A voz muda, mas a mensagem não. Eu deveria machucar as pessoas. Faça isso ir embora!</RE_EezoDrone.stages.0.description>
+
+    <!-- Rim-Effect: Extended Cut -->
+        <!-- Colonial Meal -->
+            <RE_AteColonialMeal.stages.0.label>comeu refeição colonial</RE_AteColonialMeal.stages.0.label>
+            <RE_AteColonialMeal.stages.0.description>Aquela refeição colonial estava incrível. A variedade de ingredientes realmente levanta o espírito.</RE_AteColonialMeal.stages.0.description>
+
+        <!-- Warzone Table -->
+            <RE_BattelTableWon.stages.0.label>eu venci!</RE_BattelTableWon.stages.0.label>
+            <RE_BattelTableWon.stages.0.description>Eu ganhei um jogo bélico!</RE_BattelTableWon.stages.0.description>
+            <RE_BattelTableLost.stages.0.label>eu perdi...</RE_BattelTableLost.stages.0.label>
+            <RE_BattelTableLost.stages.0.description>Eu perdi um jogo bélico..</RE_BattelTableLost.stages.0.description>
 
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Hym -->

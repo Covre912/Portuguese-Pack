@@ -747,6 +747,16 @@
             <RE_RemoveTargetingVI.description>Remova uma segmentação VI.</RE_RemoveTargetingVI.description>
             <RE_RemoveTargetingVI.jobString>Removendo segmentação VI.</RE_RemoveTargetingVI.jobString>
 
+    <!-- Rim-Effect: Extended Cut -->
+        <!-- Colonial Meal -->
+            <RE_CookMealColonial.label>cozinhar refeição colonial</RE_CookMealColonial.label>
+            <RE_CookMealColonial.description>Cozinhe uma refeição extremamente variada. Usa poucos ingredientes, mas precisa de uma grande variedade deles.</RE_CookMealColonial.description>
+            <RE_CookMealColonial.jobString>Cozinhando refeição colonial.</RE_CookMealColonial.jobString>
+
+            <RE_CookMealColonialBulk.label>cozinhar refeição colonail x4</RE_CookMealColonialBulk.label>
+            <RE_CookMealColonialBulk.description>Cozinhe refeiões extremamente variadas. Usa poucos ingredientes, mas precisa de uma grande variedade deles.</RE_CookMealColonialBulk.description>
+            <RE_CookMealColonialBulk.jobString>Cozinhando refeições coloniais.</RE_CookMealColonialBulk.jobString>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Rage of Nature Implant -->
             <WMH_InstallRageOfNatureImplant.label>instalar implante de fúria da natureza</WMH_InstallRageOfNatureImplant.label>
