@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Rim-Effect: N7 -->
+        <!-- Omni Shield -->
+            <REN7_Omnishield.label>omni-escudo</REN7_Omnishield.label>
+            <REN7_Omnishield.description>Um omni-escudo capaz de interceptar a maioria dos ataques à distância e corpo a corpo.</REN7_Omnishield.description>
+            <REN7_Omnishield.tools.0.label>base</REN7_Omnishield.tools.0.label>
+            <REN7_Omnishield.tools.1.label>centro</REN7_Omnishield.tools.1.label>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Kite Shield -->
             <VFEM_Shield_Kite.label>escudo de pipa</VFEM_Shield_Kite.label>

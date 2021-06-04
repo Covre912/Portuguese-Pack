@@ -149,6 +149,31 @@
         <!-- Archon Visor -->
             <RE_Apparel_ArchonVisor.label>visor de arconte</RE_Apparel_ArchonVisor.label>
             <RE_Apparel_ArchonVisor.description>Um computador que ajuda o usuário a mirar. Detecta e analisa alvos usando sensores eletromagnéticos infravermelhos, visíveis e de ondas milimétricas, exibindo soluções de disparo em uma projeção da retina. Não oferece proteção.</RE_Apparel_ArchonVisor.description>
+
+    <!-- Rim-Effect: N7 -->
+        <!-- N7 Heavy Helmet -->
+            <REN7_Apparel_N7HeavyHelmet.label>capacete aeroespacial pesado</REN7_Apparel_N7HeavyHelmet.label>
+            <REN7_Apparel_N7HeavyHelmet.description>Um capacete pesado que oferece muita proteção.</REN7_Apparel_N7HeavyHelmet.description>
+
+        <!-- N7 Adept Mask -->
+            <RE_Apparel_N7AdeptMask.label>máscara adepta aeroespacial</RE_Apparel_N7AdeptMask.label>
+            <RE_Apparel_N7AdeptMask.description>Uma máscara com capuz. Aumenta a taxa de regeneração de energia biótica.</RE_Apparel_N7AdeptMask.description>
+
+        <!-- N7 Helmet -->
+            <REN7_Apparel_N7Helmet.label>capacete aeroespacial</REN7_Apparel_N7Helmet.label>
+            <REN7_Apparel_N7Helmet.description>Um capacete que oferece proteção considerável. Torna o usuário resistente às toxinas.</REN7_Apparel_N7Helmet.description>
+
+        <!-- N7 Heavy Armor -->
+            <REN7_Apparel_N7HeavyArmor.label>armadura aeroespacial pesada</REN7_Apparel_N7HeavyArmor.label>
+            <REN7_Apparel_N7HeavyArmor.description>Uma armadura elétrica incrivelmente resistente a danos, com uma poderosa proteção externa.</REN7_Apparel_N7HeavyArmor.description>
+
+        <!-- N7 Adept Suit -->
+            <REN7_Apparel_N7AdeptSuit.label>uniforme adepto aeroespacial</REN7_Apparel_N7AdeptSuit.label>
+            <REN7_Apparel_N7AdeptSuit.description>Um uniforme de corpo inteiro que aumenta as reservas de energia biótica do usuário.</REN7_Apparel_N7AdeptSuit.description>
+
+        <!-- N7 Armor -->
+            <REN7_Apparel_N7Armor.label>armadura aeroespacial</REN7_Apparel_N7Armor.label>
+            <REN7_Apparel_N7Armor.description>Uma armadura elétrica consideravelmente resistente a danos, com uma proteção externa.</REN7_Apparel_N7Armor.description>
     
     <!-- Vanilla Apparel Expanded -->
         <!-- Boots -->

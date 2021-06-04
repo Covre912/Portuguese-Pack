@@ -337,6 +337,18 @@
             <RE_OmniToolHediff.comps.0.tools.0.label>ponta</RE_OmniToolHediff.comps.0.tools.0.label>
             <RE_OmniToolHediff.comps.0.tools.1.label>lâmina</RE_OmniToolHediff.comps.0.tools.1.label>
 
+    <!-- Rim-Effect: N7 -->
+        <!-- Dark Channel -->
+            <REN7_DarkChannelHediff.label>via sombria</REN7_DarkChannelHediff.label>
+            <REN7_DarkChannelHediff.description>Campo biótico doloroso que se agarra a alvos próximos se o alvo cair inconsciente.</REN7_DarkChannelHediff.description>
+            <REN7_DarkChannelHediff.labelNoun>via sombria</REN7_DarkChannelHediff.labelNoun>
+            <REN7_DarkChannelPainHediff.label>dor incessante</REN7_DarkChannelPainHediff.label>
+            <REN7_DarkChannelPainHediff.description>Campo biótico doloroso que se agarra a alvos próximos se o alvo cair inconsciente.</REN7_DarkChannelPainHediff.description>
+            <REN7_DarkChannelPainHediff.stages.0.label>leve</REN7_DarkChannelPainHediff.stages.0.label>
+            <REN7_DarkChannelPainHediff.stages.1.label>garve</REN7_DarkChannelPainHediff.stages.1.label>
+            <REN7_DarkChannelPainHediff.stages.2.label>extrema</REN7_DarkChannelPainHediff.stages.2.label>
+            <REN7_DarkChannelPainHediff.stages.3.label>extrema</REN7_DarkChannelPainHediff.stages.3.label>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- No Pain Sensitivity -->
             <WMH_NoPain.label>sem sensibilidade à dor</WMH_NoPain.label>

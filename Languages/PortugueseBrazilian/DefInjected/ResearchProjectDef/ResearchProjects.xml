@@ -186,6 +186,15 @@
             <RE_YMIRMech.label>YMIR</RE_YMIRMech.label>
             <RE_YMIRMech.description>Construa YMIRs para propósitos de defesa.</RE_YMIRMech.description>
 
+    <!-- Rim-Effect: N7 -->
+        <!-- N7 Weaponry -->
+            <REN7_N7Weaponry.label>armas aeroespaciais</REN7_N7Weaponry.label>
+            <REN7_N7Weaponry.description>Crie armas aeroespaciais.</REN7_N7Weaponry.description>
+
+        <!-- N7 Armoury -->
+            <REN7_N7Armoury.label>armaduras aeroespaciais</REN7_N7Armoury.label>
+            <REN7_N7Armoury.description>Crie armaduras aeroespaciais.</REN7_N7Armoury.description>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Exotic Animal Prosthetics -->
             <VEF_ExoticProsthetics.label>próteses veterinárias exóticas</VEF_ExoticProsthetics.label>

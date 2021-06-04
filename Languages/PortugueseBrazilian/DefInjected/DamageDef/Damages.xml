@@ -35,6 +35,11 @@
             <RE_BombNoShake.label>bomba</RE_BombNoShake.label>
             <RE_BombNoShake.deathMessage>{0} foi mort{0_gender ? o : a} em uma explosão.</RE_BombNoShake.deathMessage>
 
+    <!-- Rim-Effect: N7 -->
+        <!-- Blunt -->
+            <REN7_Blunt.label>pancada</REN7_Blunt.label>
+            <REN7_Blunt.deathMessage>{0} foi mordid{PAWN_gender ? o : a} até a morte.</REN7_Blunt.deathMessage>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Virulent Toxic Bite -->
             <WMH_VeryToxicBite.label>mordida tóxica virulenta</WMH_VeryToxicBite.label>

@@ -78,4 +78,13 @@
             <RE_Tech_TacticalCloak.label>capa tática</RE_Tech_TacticalCloak.label>
             <RE_Tech_TacticalCloak.description>Torna o usuário invisível para todos os inimigos. Os usuários não podem ser alvos de nenhuma habilidade ou poder direcionável.</RE_Tech_TacticalCloak.description>
 
+    <!-- Rim-Effect: N7 -->
+        <!-- Dark Channel -->
+            <REN7_DarkChannel.label>via sombria</REN7_DarkChannel.label>
+            <REN7_DarkChannel.description>Inflama um oponente com um campo biótico persistente e doloroso que se agarra a alvos próximos.</REN7_DarkChannel.description>
+
+        <!-- Carnage -->
+            <REN7_Carnage.label>carnificina</REN7_Carnage.label>
+            <REN7_Carnage.description>Dispara um projétil explosivo de destruição de armadura.</REN7_Carnage.description>
+
 </LanguageData>

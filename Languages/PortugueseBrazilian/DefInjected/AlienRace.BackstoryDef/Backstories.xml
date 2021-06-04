@@ -197,10 +197,101 @@
             <RE_Cadet.titleShort>Cadete</RE_Cadet.titleShort>
             <RE_Cadet.baseDescription>[PAWN_nameDef] passou sua infância em uma estação espacial por causa do trabalho de sua mãe como contratada civil e cresceu perto de espaçonaves. Quando [PAWN_pronoun] tinha idade suficiente para se alistar, se juntou à Marinha da Aliança.</RE_Cadet.baseDescription>
 
-        <!-- Alliance Piloto -->
+        <!-- Alliance Pilot -->
             <RE_AlliancePilot.title>Piloto leal</RE_AlliancePilot.title>
             <RE_AlliancePilot.titleShort>Piloto</RE_AlliancePilot.titleShort>
             <RE_AlliancePilot.baseDescription>No início de sua carreira, [PAWN_nameDef] estava estacionad{PAWN_gender ? o : a} em uma colônia remota, uma unidade de forças especiais da Aliança. Quando os Coletores atacam, determinados a capturar a população, o de esquadrão [PAWN_nameDef] tem a tarefa de proteger os civis. Os eventos marcam um ponto de viragem {PAWN_gender ? o : a} para em relação à sua confiança como líder.</RE_AlliancePilot.baseDescription>
+
+    <!-- Rim-Effect: N7 -->
+        <!-- N7 Soldier -->
+            <REN7_N7Soldier.title>Soldado aeroespacial</REN7_N7Soldier.title>
+            <REN7_N7Soldier.titleShort>Soldado</REN7_N7Soldier.titleShort>
+            <REN7_N7Soldier.baseDescription>[PAWN_nameDef] foi um dos soldados mais promissores do programa aeroespacial. [PAWN_pronoun] foi pessoalmente parabenizad{PAWN_gender ? o : a} pelas suas conquistas, apenas para ser informad{PAWN_gender ? o : a} de que uma força alienígena havia sido avistada perto de um retransmissor de massa. [PAWN_nameDef] mais tarde serviu com distinção na Guerra do Primeiro Contato.</REN7_N7Soldier.baseDescription>
+
+        <!-- N7 Operator -->
+            <REN7_N7Operator.title>Operário aeroespacial</REN7_N7Operator.title>
+            <REN7_N7Operator.titleShort>Operário</REN7_N7Operator.titleShort>
+            <REN7_N7Operator.baseDescription>[PAWN_nameDef] operou a maquinaria pesada e o armamento do arsenal aeroespacial. [PAWN_pronoun] quebrou, matou e aniquilou milícias rivais quase todos os dias desde que [PAWN_pronoun] terminou seu treinamento. A sua luxúria pelo sangue nunca acabou.</REN7_N7Operator.baseDescription>
+
+        <!-- N7 Hotshot -->
+            <REN7_N7Hotshot.title>Sensação aeroespacial</REN7_N7Hotshot.title>
+            <REN7_N7Hotshot.titleShort>Sensação</REN7_N7Hotshot.titleShort>
+            <REN7_N7Hotshot.baseDescription>[PAWN_nameDef] sempre gostou de se exibir e agora tem a chance de isso o fazer ainda mais sendo {PAWN_gender ? um : uma} agente aeroespacial.</REN7_N7Hotshot.baseDescription>
+
+        <!-- N7 Entertainer -->
+            <REN7_N7Entertainer.title>Animador aeroespacial</REN7_N7Entertainer.title>
+            <REN7_N7Entertainer.titleShort>Animador</REN7_N7Entertainer.titleShort>
+            <REN7_N7Entertainer.baseDescription>[PAWN_nameDef] entreteve as tropas e comandos aeroespaciais enquanto colonizavam planteas. [PAWN_pronoun] tem o poder de tornar tudo um pouco melhor. Por ser uma unidade aeroespacial, [PAWN_pronoun] também recebeu treinamento extensivo em combate.</REN7_N7Entertainer.baseDescription>
+
+        <!-- N7 Pathfinder -->
+            <REN7_N7Pathfinder.title>Desbravador aeroespacial</REN7_N7Pathfinder.title>
+            <REN7_N7Pathfinder.titleShort>Desbravador</REN7_N7Pathfinder.titleShort>
+            <REN7_N7Pathfinder.baseDescription>Originalmente um membro de baixo escalão da primeira força-tarefa a passar pelo retransmissor em massa, [PAWN_nameDef] mais tarde provou-se passando pelo programa aeroespacial. [PAWN_pronoun] é especialista em exploração e pesquisa e tem um interesse em IA que faz com que outras pessoas de sua equipe se preocupem.</REN7_N7Pathfinder.baseDescription>
+
+        <!-- N7 Combat Engineer -->
+            <REN7_N7CombatEngineer.title>Engenheiro de combate aeroespacial</REN7_N7CombatEngineer.title>
+            <REN7_N7CombatEngineer.titleShort>Engenheiro</REN7_N7CombatEngineer.titleShort>
+            <REN7_N7CombatEngineer.baseDescription>[PAWN_nameDef] juntou-se á Corporação de Engenharia da Aliança dos Sistemas jovem. Uma das batalhas em que [PAWN_pronoun] foi implantad{PAWN_gender ? o : a} acabou sendo um massacre para as forças leais, e apenas suas ações heróicas permitiram a vitória; tendo destruído com sucesso em uma missão suicida uma fortificação chave que tinha um batalhão inteiro preso. Dias adiando o rescaldo, foi oferecido a [PAWN_pronoun] um lugar no programa aeroespacial.</REN7_N7CombatEngineer.baseDescription>
+
+        <!-- N7 Experiment -->
+            <REN7_N7Experiment.title>Experimento aeroespacial</REN7_N7Experiment.title>
+            <REN7_N7Experiment.titleShort>Experimento</REN7_N7Experiment.titleShort>
+            <REN7_N7Experiment.baseDescription>[PAWN_nameDef] tinha um posicionamento muscular substancial e uma estrutura corporal poderosa desde seu nascimento. Aos 18, seus pais {PAWN_gender ? o : a} inscreveram em uma instalação experimental aeroespacial para treinamento adicional. [PAWN_nameDef] nunca chegou a ser um membro da sociedade.</REN7_N7Experiment.baseDescription>
+
+        <!-- N7 Negotiator -->
+            <REN7_N7Negotiator.title>Negociador aeroespacial</REN7_N7Negotiator.title>
+            <REN7_N7Negotiator.titleShort>Negociador</REN7_N7Negotiator.titleShort>
+            <REN7_N7Negotiator.baseDescription>[PAWN_nameDef] acabou por ter o dom de realizar negócios extremos com inimigos diversos. Devido à sua negociação constante, os oficiais de escalão inferior fizeram todo o trabalho braçal para [PAWN_pronoun].</REN7_N7Negotiator.baseDescription>
+
+        <!-- N7 Biotic -->
+            <REN7_N7Biotic.title>Biótico aeroespacial</REN7_N7Biotic.title>
+            <REN7_N7Biotic.titleShort>Biótico</REN7_N7Biotic.titleShort>
+            <REN7_N7Biotic.baseDescription>[PAWN_nameDef] era {PAWN_gender ? um : uma} biótic{PAWN_gender ? o : a} fortemente treinad{PAWN_gender ? o : a} da força aeroespacial. [PAWN_pronoun] protegeu, matou e destruiu com seus poderes.</REN7_N7Biotic.baseDescription>
+
+        <!-- N7 Martial Artist -->
+            <REN7_N7MartialArtist.title>Artista marcial aeroespacial</REN7_N7MartialArtist.title>
+            <REN7_N7MartialArtist.titleShort>Artista marcial</REN7_N7MartialArtist.titleShort>
+            <REN7_N7MartialArtist.baseDescription>[PAWN_nameDef] foi {PAWN_gender ? um : uma} derradeir{PAWN_gender ? o : a} soldad{PAWN_gender ? o : a} corpo a corpo aeroespacial. [PAWN_pronoun] teve um desempenho excepcionalmente bom com uma lâmina monomolecular. Isso fez com que [PAWN_nameDef] abandonasse quaisquer hobbies "leves".</REN7_N7MartialArtist.baseDescription>
+
+        <!-- N7 Saboteur -->
+            <REN7_N7Saboteur.title>Sabotador aeroespacial</REN7_N7Saboteur.title>
+            <REN7_N7Saboteur.titleShort>Sabotador</REN7_N7Saboteur.titleShort>
+            <REN7_N7Saboteur.baseDescription>[PAWN_nameDef] é {PAWN_gender ? um : uma} {PAWN_gender ? sabotador : sabotadora} natural. [PAWN_nameDef] hackeia mecanóides, quebra torres e faz planos de fuga elaborados. Isso {PAWN_gender ? o : a} torna um recurso poderoso para a força-tarefa aeroespacial e {PAWN_gender ? um : uma} colega extremamente respeitad{PAWN_gender ? o : a}.</REN7_N7Saboteur.baseDescription>
+
+        <!-- N7 Disgrace -->
+            <REN7_N7Disgrace.title>Desonra aeroespacial</REN7_N7Disgrace.title>
+            <REN7_N7Disgrace.titleShort>Desonra</REN7_N7Disgrace.titleShort>
+            <REN7_N7Disgrace.baseDescription>Em uma importante jornada envolvendo uma força-tarefa aeroespacial, [PAWN_nameDef] cometeu um grave erro que destruiu vidas. A corporação perdoou o erro e eventualmente reparou o dano que ele causou, mas amigos e familiares de [PAWN_nameDef] não levaram isso tão levianamente.</REN7_N7Disgrace.baseDescription>
+
+        <!-- N7 Backup -->
+            <REN7_N7Backup.title>Reserva aeroespacial</REN7_N7Backup.title>
+            <REN7_N7Backup.titleShort>Auxiliar</REN7_N7Backup.titleShort>
+            <REN7_N7Backup.baseDescription>Quando todo mundo estava sendo enviado para missões extremas e zonas de guerra raivosas, [PAWN_nameDef] recebeu tarefas simples como escoltar figuras semi-importantes e manter pequenas naves auxiliares. Todo esse treinamento diverso deu a [PAWN_nameDef] uma ligeira vantagem em muitas coisas não relacionadas a combate.</REN7_N7Backup.baseDescription>
+
+        <!-- N7 Settlement Leader -->
+            <REN7_N7SettlementLeader.title>Líder de assentamento aeroespacial</REN7_N7SettlementLeader.title>
+            <REN7_N7SettlementLeader.titleShort>Chefe de assentamento</REN7_N7SettlementLeader.titleShort>
+            <REN7_N7SettlementLeader.baseDescription>Como {PAWN_gender ? um : uma} d{PAWN_gender ? o : a}s principais oficiais de um posto avançado militar leal, [PAWN_nameDef] aprendeu a importância de estar em tal posição. [PAWN_pronoun] governou o tamanho dos edifícios, o uso de armas e o estoque de recursos por anos. Como um alto escalão, [PAWN_pronoun] foi estragad{PAWN_gender ? o : a} com o luxo que vem com essa posição.</REN7_N7SettlementLeader.baseDescription>
+
+        <!-- N7 Wanderer -->
+            <REN7_N7Wanderer.title>Andarilho aeroespacial</REN7_N7Wanderer.title>
+            <REN7_N7Wanderer.titleShort>Andarilho</REN7_N7Wanderer.titleShort>
+            <REN7_N7Wanderer.baseDescription>Como {PAWN_gender ? um : uma} oficial temporári{PAWN_gender ? o : a} que vai de planeta em planeta para fornecer proficiência militar, [PAWN_nameDef] nunca teve muita vida social além dos raros amigos que teveram a sorte de serem enviados para onde [PAWN_nameDef] estava indo duas vezes seguidas.</REN7_N7Wanderer.baseDescription>
+
+        <!-- War Hero -->
+            <RE_WarHero.title>Herói de guerra</RE_WarHero.title>
+            <RE_WarHero.titleShort>Herói</RE_WarHero.titleShort>
+            <RE_WarHero.baseDescription>No início da sua carreira militar, [PAWN_nameDef] encontrou-se enfrentando uma força inimiga avassaladora. [PAWN_pronoun] arriscou a própria vida para salvar outros soldados e derrotar o inimigo, apesar das probabilidades impossíveis. Sua bravura e heroísmo ganharam medalhas e reconhecimento da frota da Aliança. [PAWN_pronoun], quase sozinh{PAWN_gender ? o : a}, repeliu um ataque de inimigos, ganhando a Estrela da Terra, a maior honra da Aliança.</RE_WarHero.baseDescription>
+
+        <!-- N7 Shell Shocked -->
+            <REN7_N7ShellShocked.title>Agente aeroespacial traumatizado</REN7_N7ShellShocked.title>
+            <REN7_N7ShellShocked.titleShort>Traumatizado</REN7_N7ShellShocked.titleShort>
+            <REN7_N7ShellShocked.baseDescription>Logo depois de se formar na Academia de Combate Interplanetário, [PAWN_nameDef] ficou traumatizad{PAWN_gender ? o : a} em um campo de batalha, esquecendo anos de experiência. Anos depois, [PAWN_pronoun] se recuperou e aprendeu a segurar uma arma de novo, mal.</REN7_N7ShellShocked.baseDescription>
+
+        <!-- N7 Revoked -->
+            <REN7_N7Revoked.title>Agente aeroespacial revogado</REN7_N7Revoked.title>
+            <REN7_N7Revoked.titleShort>Revogado</REN7_N7Revoked.titleShort>
+            <REN7_N7Revoked.baseDescription>Depois de perder o status de de côncil espectral devido a má conduta, [PAWN_nameDef] entrou no programa aeroespacial e subiu ao poder em um mundo recém-colonizado. [PAWN_pronoun] vivia em uma flotilha espacial, dando ordens ao pessoal e ocasionalmente fazendo operações terrestres.</REN7_N7Revoked.baseDescription>
 
     <!-- - Xenohumans - Anthromorphs -->
         <!-- Designer Mate -->

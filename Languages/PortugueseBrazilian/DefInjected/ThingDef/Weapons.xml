@@ -209,6 +209,72 @@
             <RE_Gun_SpacerChakramLauncher.tools.1.label>cano</RE_Gun_SpacerChakramLauncher.tools.1.label>
             <RE_Bullet_ChakramLauncher.label>disco incendiário</RE_Bullet_ChakramLauncher.label>
 
+    <!-- Rim-Effect: N7 -->
+        <!-- N7 Battle Rifle -->
+            <REN7_Gun_N7BattleRifle.label>rifle de batalha aeroespacial</REN7_Gun_N7BattleRifle.label>
+            <REN7_Gun_N7BattleRifle.description>Um rifle de batalha com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, seus projéteis se estilhaçam no impacto para aumentar o dano ao alvo.</REN7_Gun_N7BattleRifle.description>
+            <REN7_Gun_N7BattleRifle.tools.0.label>coronha</REN7_Gun_N7BattleRifle.tools.0.label>
+            <REN7_Gun_N7BattleRifle.tools.1.label>cano</REN7_Gun_N7BattleRifle.tools.1.label>
+            <REN7_Bullet_N7BattleRifle.label>tiro acelerado</REN7_Bullet_N7BattleRifle.label>
+
+        <!-- N7 LMG -->
+            <REN7_Gun_N7LMG.label>metralhadora leve aeroespacial</REN7_Gun_N7LMG.label>
+            <REN7_Gun_N7LMG.description>Uma metralhadora leve com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, seus projéteis se estilhaçam no impacto para aumentar o dano ao alvo.</REN7_Gun_N7LMG.description>
+            <REN7_Gun_N7LMG.tools.0.label>coronha</REN7_Gun_N7LMG.tools.0.label>
+            <REN7_Gun_N7LMG.tools.1.label>cano</REN7_Gun_N7LMG.tools.1.label>
+            <REN7_Bullet_N7LMG.label>tiro acelerado</REN7_Bullet_N7LMG.label>
+
+        <!-- N7 Shotgun -->
+            <REN7_Gun_N7Shotgun.label>espingarda aeroespacial</REN7_Gun_N7Shotgun.label>
+            <REN7_Gun_N7Shotgun.description>Uma espingarda com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, seus projéteis se estilhaçam no impacto para aumentar o dano ao alvo.</REN7_Gun_N7Shotgun.description>
+            <REN7_Gun_N7Shotgun.tools.0.label>cano</REN7_Gun_N7Shotgun.tools.0.label>
+            <REN7_Bullet_N7Shotgun.label>tiro acelerado</REN7_Bullet_N7Shotgun.label>
+
+        <!-- N7 DMR -->
+            <REN7_Gun_N7DMR.label>rifle de atirador aeroespacial</REN7_Gun_N7DMR.label>
+            <REN7_Gun_N7DMR.description>Um rifle de atirador com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, seus projéteis se estilhaçam no impacto para aumentar o dano ao alvo.</REN7_Gun_N7DMR.description>
+            <REN7_Gun_N7DMR.tools.0.label>coronha</REN7_Gun_N7DMR.tools.0.label>
+            <REN7_Gun_N7DMR.tools.1.label>cano</REN7_Gun_N7DMR.tools.1.label>
+            <REN7_Bullet_N7DMR.label>tiro acelerado</REN7_Bullet_N7DMR.label>
+
+        <!-- N7 SMG -->
+            <REN7_Gun_N7SMG.label>SMG aeroespacial</REN7_Gun_N7SMG.label>
+            <REN7_Gun_N7SMG.description>Uma submetralhadora com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, seus projéteis se estilhaçam no impacto para aumentar o dano ao alvo.</REN7_Gun_N7SMG.description>
+            <REN7_Gun_N7SMG.tools.0.label>cano</REN7_Gun_N7SMG.tools.0.label>
+            <RE_Bullet_N7Pistol.label>tiro acelerado</RE_Bullet_N7Pistol.label>
+
+        <!-- N7 Pistol -->
+            <RE_Gun_N7Pistol.label>pistola aeroespacial</RE_Gun_N7Pistol.label>
+            <RE_Gun_N7Pistol.description>Uma pistola com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, seus projéteis se estilhaçam no impacto para aumentar o dano ao alvo.</RE_Gun_N7Pistol.description>
+            <RE_Gun_N7Pistol.tools.0.label>cano</RE_Gun_N7Pistol.tools.0.label>
+
+
+        <!-- N7 Anti-Materiel Rifle -->
+            <REN7_Gun_N7AntimaterielRifle.label>rifle anti-material aeroespacial</REN7_Gun_N7AntimaterielRifle.label>
+            <REN7_Gun_N7AntimaterielRifle.description>Um rifle anti-material com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, seus projéteis se estilhaçam no impacto para aumentar o dano ao alvo.</REN7_Gun_N7AntimaterielRifle.description>
+            <REN7_Gun_N7AntimaterielRifle.tools.0.label>coronha</REN7_Gun_N7AntimaterielRifle.tools.0.label>
+            <REN7_Gun_N7AntimaterielRifle.tools.1.label>cano</REN7_Gun_N7AntimaterielRifle.tools.1.label>
+            <REN7_Bullet_N7AntimaterielRifle.label>tiro anti-material acelerado</REN7_Bullet_N7AntimaterielRifle.label>
+
+        <!-- N7 Black Hole Generator -->
+            <REN7_Gun_N7BlackHoleGenerator.label>gerador de buraco negro aeroespacial</REN7_Gun_N7BlackHoleGenerator.label>
+            <REN7_Gun_N7BlackHoleGenerator.description>Um gerador de buraco negro de uso único. Cria um campo de efeito de massa extremamente poderoso, mas instável.</REN7_Gun_N7BlackHoleGenerator.description>
+            <REN7_Gun_N7BlackHoleGenerator.tools.0.label>cano</REN7_Gun_N7BlackHoleGenerator.tools.0.label>
+            <REN7_Rocket_BlackHole.label>mini black hole</REN7_Rocket_BlackHole.label>
+
+        <!-- N7 Chain Shotgun -->
+            <REN7_Gun_N7ChainShotgun.label>espingarda automática aeroespacial</REN7_Gun_N7ChainShotgun.label>
+            <REN7_Gun_N7ChainShotgun.description>Uma espingarda automática com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, seus projéteis se estilhaçam no impacto para aumentar o dano ao alvo.</REN7_Gun_N7ChainShotgun.description>
+            <REN7_Gun_N7ChainShotgun.tools.0.label>cano</REN7_Gun_N7ChainShotgun.tools.0.label>
+            <REN7_Bullet_N7ChainShotgun.label>tiro acelerado</REN7_Bullet_N7ChainShotgun.label>
+
+        <!-- N7 Blade -->
+            <REN7_MeleeWeapon_N7Blade.label>espada aeroespacial</REN7_MeleeWeapon_N7Blade.label>
+            <REN7_MeleeWeapon_N7Blade.description>Uma espada monomolecular leve com alta velocidade de ataque e penetração de armadura.</REN7_MeleeWeapon_N7Blade.description>
+            <REN7_MeleeWeapon_N7Blade.tools.0.label>cabo</REN7_MeleeWeapon_N7Blade.tools.0.label>
+            <REN7_MeleeWeapon_N7Blade.tools.1.label>ponta</REN7_MeleeWeapon_N7Blade.tools.1.label>
+            <REN7_MeleeWeapon_N7Blade.tools.2.label>lâmina</REN7_MeleeWeapon_N7Blade.tools.2.label>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Handheld Mini-Turret -->
             <VFE_Gun_CombatMechanoidGun.label>mini-torreta portátil</VFE_Gun_CombatMechanoidGun.label>
@@ -248,6 +314,12 @@
             <VFE_Gun_AdvancedChargeLance.description>Uma versão mais pesada da lança de carga. Frequentemente posta em campo por atiradores mecanóides, a lança de carga avançada é semelhante à sua predecessora, mas troca tamanho e tempo de mira por um aumento significativo no poder de fogo.</VFE_Gun_AdvancedChargeLance.description>
             <VFE_Gun_AdvancedChargeLance.tools.0.label>cano</VFE_Gun_AdvancedChargeLance.tools.0.label>
 
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- Heavy Crossbow -->
+            <VFEM_Bow_HeavyCrossbow.label>besta pesada</VFEM_Bow_HeavyCrossbow.label>
+            <VFEM_Bow_HeavyCrossbow.description>Uma besta pesada consistindo em um conjunto semelhante a um arco montado horizontalmente em uma estrutura robusta, que é portátil de forma semelhante à culatra de uma arma longa.\n\nEsta besta pesada dispara flechas devastadoras, capaz de perfurar várias camadas de metal.</VFEM_Bow_HeavyCrossbow.description>
+            <VFEM_Bow_HeavyCrossbow.tools.0.label>besta</VFEM_Bow_HeavyCrossbow.tools.0.label>
+
     <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Double-Action Revolver -->
             <VFES_Gun_DoubleActionRevolver.label>revólver de ação dupla</VFES_Gun_DoubleActionRevolver.label>
@@ -272,6 +344,13 @@
             <VFES_Weapon_GrenadeDynamite.description>Varetas explosivas de combustível químico. Podem ser lançadas a uma curta distância, onde explodirão após um período de tempo aleatório.</VFES_Weapon_GrenadeDynamite.description>
             <VFES_Weapon_GrenadeDynamite.verbs.0.label>lançar dinamite</VFES_Weapon_GrenadeDynamite.verbs.0.label>
             <VFES_Proj_Dynamite.label>dinamite</VFES_Proj_Dynamite.label>
+
+        <!-- Tomahawk -->
+            <VFES_Tomahawk.label>tomahawk</VFES_Tomahawk.label>
+            <VFES_Tomahawk.description>Um machado de uma mão semelhante a uma machadinha. Leve o suficiente para ser lançado com precisão em um alcance médio.</VFES_Tomahawk.description>
+            <VFES_Tomahawk.tools.0.label>cabo</VFES_Tomahawk.tools.0.label>
+            <VFES_Tomahawk.tools.1.label>lâmina</VFES_Tomahawk.tools.1.label>
+            <VFES_Tomahawk_Thrown.label>tomahawk</VFES_Tomahawk_Thrown.label>
 
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Crypto Heavy Crossbow -->
@@ -300,6 +379,19 @@
             <VFEV_CryptoRifle.tools.1.label>cano</VFEV_CryptoRifle.tools.1.label>
             <VFEV_CryptoRifleBullet.label>criptotiro</VFEV_CryptoRifleBullet.label>
 
+        <!-- Throwing Axe -->
+            <VFE_ThrowingAxe.label>machado arremessável</VFE_ThrowingAxe.label>
+            <VFE_ThrowingAxe.description>Um machado feito para ser arremesado. Leve o suficiente para ser lançado com precisão em um alcance médio, também é uma ótima arma corpo a corpo.</VFE_ThrowingAxe.description>
+            <VFE_ThrowingAxe.tools.0.label>cabo</VFE_ThrowingAxe.tools.0.label>
+            <VFE_ThrowingAxe.tools.1.label>lâmina</VFE_ThrowingAxe.tools.1.label>
+            <VFEV_ThrowingAxe_Thrown.label>machado</VFEV_ThrowingAxe_Thrown.label>
+
+        <!-- Harpoon -->
+            <VFE_Harpoon.label>arpão</VFE_Harpoon.label>
+            <VFE_Harpoon.description>Uma arma em forma de lança longa, geralmente usada na pesca e na caça. Pode ser arremessada a uma distância muito longa e tem um poder de parada significativo.</VFE_Harpoon.description>
+            <VFE_Harpoon.tools.0.label>cabo</VFE_Harpoon.tools.0.label>
+            <VFE_Harpoon.tools.1.label>ponta</VFE_Harpoon.tools.1.label>
+            <VFEV_Harpoon_Thrown.label>arpão</VFEV_Harpoon_Thrown.label>
 
     <!-- Vanilla Weapons Expanded -->
         <!-- Smoke Grenades -->
@@ -491,6 +583,39 @@
             <VWE_Gun_ChargeRocketLauncher.description>Dispara uma única ogiva anti-grão com precisão precisa devido ao direcionamento laser. A ogiva explode no ar, liberando uma onda de eletrochoque mortal.</VWE_Gun_ChargeRocketLauncher.description>
             <VWE_Gun_ChargeRocketLauncher.tools.0.label>cano</VWE_Gun_ChargeRocketLauncher.tools.0.label>
             <VWE_Rocket_AntiGrain.label>ogiva anti-grão</VWE_Rocket_AntiGrain.label>
+
+        <!-- Crossbow -->
+            <VWE_Bow_Crossbow.label>besta</VWE_Bow_Crossbow.label>
+            <VWE_Bow_Crossbow.description>A besta é uma arma de longo alcance em princípio semelhante a um arco, consistindo em um conjunto semelhante a um arco montado horizontalmente em uma estrutura principal, que é portátil.\n\nEsta arma da primitiva pode enviar uma flecha até mesmo através do material mais forte.</VWE_Bow_Crossbow.description>
+            <VWE_Bow_Crossbow.tools.0.label>besta</VWE_Bow_Crossbow.0.label>
+            <VWE_Arrow_Bolt.label>flecha de besta</VWE_Arrow_Bolt.label>
+
+        <!-- Musket -->
+            <VWE_Gun_Musket.label>mosquete</VWE_Gun_Musket.label>
+            <VWE_Gun_Musket.description>Um mosquete antigo. Como um dos pioneiros de seu tipo, tem curto alcance e baixa cadência de tiro.</VWE_Gun_Musket.description>
+            <VWE_Gun_Musket.tools.0.label>coronha</VWE_Gun_Musket.tools.0.label>
+            <VWE_Gun_Musket.tools.1.label>cano</VWE_Gun_Musket.tools.1.label>
+            <Bullet_Leadball.label>tiro de chumbo</Bullet_Leadball.label>
+
+        <!-- Flintlock -->
+            <VWE_Gun_Flintlock.label>pistola de pederneira</VWE_Gun_Flintlock.label>
+            <VWE_Gun_Flintlock.description>Esta pistola possui um cano liso e uma longa empunhadura de madeira que termina em uma maçaneta. Como o próprio nome sugere, essa pistola é operada por um mecanismo de pederneira</VWE_Gun_Flintlock.description>
+            <VWE_Gun_Flintlock.tools.0.label>coronha</VWE_Gun_Flintlock.tools.0.label>
+            <VWE_Gun_Flintlock.tools.1.label>cano</VWE_Gun_Flintlock.tools.1.label>
+
+        <!-- Throwing Knives -->
+            <VWE_Throwing_Knives.label>facas de arremesso</VWE_Throwing_Knives.label>
+            <VWE_Throwing_Knives.description>Um conjunto de facas bem equilibradas, perfeitas para o lançamento.</VWE_Throwing_Knives.description>
+            <VWE_Throwing_Knives.tools.0.label>cabo</VWE_Throwing_Knives.tools.0.label>
+            <VWE_Throwing_Knives.tools.1.label>lâmina</VWE_Throwing_Knives.tools.1.label>
+            <VWE_Throwing_Knives.tools.2.label>ponta</VWE_Throwing_Knives.tools.2.label>
+            <VWE_FlyingBlade.label>faca pequena</VWE_FlyingBlade.label>
+
+        <!-- Whip -->
+            <VWE_Tool_Whip.label>chicote</VWE_Tool_Whip.label>
+            <VWE_Tool_Whip.description>Uma ferramenta tradicional usada para bater em animais para treinar orientação e obediência.\n\nPode ser usado em pessoas.</VWE_Tool_Whip.description>
+            <VWE_Tool_Whip.tools.0.label>chicote<VWE_Tool_Whip.tools.0.label>
+            <VWE_WhipSlash.label>chicotada</VWE_WhipSlash.label>
 
     <!-- Vanilla Weapons Expanded - Coilguns -->
         <!-- Gauss Rifle -->

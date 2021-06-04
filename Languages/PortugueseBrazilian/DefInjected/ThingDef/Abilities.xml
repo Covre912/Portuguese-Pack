@@ -34,4 +34,11 @@
             <RE_Tech_CombatDroneGun.label>canhão incendiário</RE_Tech_CombatDroneGun.label>
             <RE_Tech_CombatDroneGun.description>Um canhão incendiário simples.</RE_Tech_CombatDroneGun.description>
 
+    <!-- Rim-Effect: N7 -->
+        <!-- Dark Channel -->
+            <REN7_DarkChannelProjectile.label>via sombria</REN7_DarkChannelProjectile.label>
+
+        <!-- High Plasma Projectile -->
+            <REN7_CarnageProjectile.label>projétil de plasma</REN7_CarnageProjectile.label>
+
 </LanguageData>

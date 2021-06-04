@@ -265,6 +265,13 @@
             <RE_Mechanoids_YMIR.label>YMIR</RE_Mechanoids_YMIR.label>
             <RE_Mechanoids_YMIR.labelPlural>YMIRs</RE_Mechanoids_YMIR.labelPlural>
 
+    <!-- Rim-Effect: N7 -->
+        <!-- N7 Agent -->
+            <REN7_N7AgentAdept.label>agente aeroespacial</REN7_N7AgentAdept.label>
+            <REN7_N7AgentAdept.labelPlural>agentes aeroespaciais</REN7_N7AgentAdept.labelPlural>
+            <REN7_N7AgentEngineer.label>agente aeroespacial</REN7_N7AgentEngineer.label>
+            <REN7_N7AgentEngineer.labelPlural>agentes aeroespaciais</REN7_N7AgentEngineer.labelPlural>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Basilisk -->
             <WMH_Basilisk.label>basilisco</WMH_Basilisk.label>
