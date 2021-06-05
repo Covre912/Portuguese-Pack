@@ -1536,6 +1536,1643 @@
             <VFE_TableTailorLarge.label>bancada de alfaiate</VFE_TableTailorLarge.label>
             <VFE_TableTailorLarge.description>Uma bancada de alfaiate com diversas ferramentas e uma máquina de costura para costura rápida de roupas. Pode funcionar sem eletricidade a 33% da velocidade normal.</VFE_TableTailorLarge.description>
 
+    <!-- Vanilla Furniture Expanded - Props and Decor -->
+        <!-- Large Arrow Long Symbol-->
+            <VFEPD_LargeDecalArrowLong.label>símbolo grande de seta grande</VFEPD_LargeDecalArrowLong.label>
+            <VFEPD_LargeDecalArrowLong.description>Um grande decalque de piso.</VFEPD_LargeDecalArrowLong.description>
+
+        <!-- Large Arrow Short Symbol -->
+            <VFEPD_LargeDecalArrowShort.label>símbolo grande de seta pequena</VFEPD_LargeDecalArrowShort.label>
+            <VFEPD_LargeDecalArrowShort.description>Um grande decalque de piso.</VFEPD_LargeDecalArrowShort.description>
+
+        <!-- Large Arrow Wide Symbol -->
+            <VFEPD_LargeDecalArrowWide.label>símbolo grande de seta ampla</VFEPD_LargeDecalArrowWide.label>
+            <VFEPD_LargeDecalArrowWide.description>Um grande decalque de piso.</VFEPD_LargeDecalArrowWide.description>
+
+        <!-- Large Decal Line Double -->
+            <VFEPD_LargeDecalLineDouble.label>decalque grande de linha dupla</VFEPD_LargeDecalLineDouble.label>
+            <VFEPD_LargeDecalLineDouble.description>Um grande decalque de piso.</VFEPD_LargeDecalLineDouble.description>
+
+        <!-- Large Decal Line Double Inner Corner -->
+            <VFEPD_LargeDecalLineDoubleCornerInner.label>decalque grande de linha dupla de canto interno</VFEPD_LargeDecalLineDoubleCornerInner.label>
+            <VFEPD_LargeDecalLineDoubleCornerInner.description>Um grande decalque de piso.</VFEPD_LargeDecalLineDoubleCornerInner.description>
+
+        <!-- Large Decal Line Double Outer Corner -->
+            <VFEPD_LargeDecalLineDoubleCornerOuter.label>decalque grande de linha dupla de canto externo</VFEPD_LargeDecalLineDoubleCornerOuter.label>
+            <VFEPD_LargeDecalLineDoubleCornerOuter.description>Um grande decalque de piso.</VFEPD_LargeDecalLineDoubleCornerOuter.description>
+
+        <!-- Large Decal Line Thin -->
+            <VFEPD_LargeDecalLineThin.label>decalque grande de linha fina</VFEPD_LargeDecalLineThin.label>
+            <VFEPD_LargeDecalLineThin.description>Um grande decalque de piso.</VFEPD_LargeDecalLineThin.description>
+
+        <!-- Large Decal Line Thin Inner Corner -->
+            <VFEPD_LargeDecalLineThinCornerInner.label>decalque grande de linha fina de canto interno</VFEPD_LargeDecalLineThinCornerInner.label>
+            <VFEPD_LargeDecalLineThinCornerInner.description>Um grande decalque de piso.</VFEPD_LargeDecalLineThinCornerInner.description>
+
+        <!-- Large Decal Line Thin Outer Corner -->
+            <VFEPD_LargeDecalLineThinCornerOuter.label>decalque grande de linha fina de canto externo</VFEPD_LargeDecalLineThinCornerOuter.label>
+            <VFEPD_LargeDecalLineThinCornerOuter.description>Um grande decalque de piso.</VFEPD_LargeDecalLineThinCornerOuter.description>
+
+        <!-- Large A Symbol -->
+            <VFEPD_LargeDecalSymbolA.label>símbolo grande de A</VFEPD_LargeDecalSymbolA.label>
+            <VFEPD_LargeDecalSymbolA.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolA.description>
+
+        <!-- Large B Symbol -->
+            <VFEPD_LargeDecalSymbolB.label>símbolo grande de B</VFEPD_LargeDecalSymbolB.label>
+            <VFEPD_LargeDecalSymbolB.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolB.description>
+
+        <!-- Large C Symbol -->
+            <VFEPD_LargeDecalSymbolC.label>símbolo grande de C</VFEPD_LargeDecalSymbolC.label>
+            <VFEPD_LargeDecalSymbolC.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolC.description>
+
+        <!-- Large D Symbol -->
+            <VFEPD_LargeDecalSymbolD.label>símbolo grande de D</VFEPD_LargeDecalSymbolD.label>
+            <VFEPD_LargeDecalSymbolD.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolD.description>
+
+        <!-- Large E Symbol -->
+            <VFEPD_LargeDecalSymbolE.label>símbolo grande de E</VFEPD_LargeDecalSymbolE.label>
+            <VFEPD_LargeDecalSymbolE.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolE.description>
+
+        <!-- Large F Symbol -->
+            <VFEPD_LargeDecalSymbolF.label>símbolo grande de E</VFEPD_LargeDecalSymbolF.label>
+            <VFEPD_LargeDecalSymbolF.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolF.description>
+
+        <!-- Large G Symbol -->
+            <VFEPD_LargeDecalSymbolG.label>símbolo grande de G</VFEPD_LargeDecalSymbolG.label>
+            <VFEPD_LargeDecalSymbolG.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolG.description>
+
+        <!-- Large H Symbol -->
+            <VFEPD_LargeDecalSymbolH.label>símbolo grande de H</VFEPD_LargeDecalSymbolH.label>
+            <VFEPD_LargeDecalSymbolH.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolH.description>
+
+        <!-- Large I Symbol -->
+            <VFEPD_LargeDecalSymbolI.label>símbolo grande de I</VFEPD_LargeDecalSymbolI.label>
+            <VFEPD_LargeDecalSymbolI.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolI.description>
+
+        <!-- Large J Symbol -->
+            <VFEPD_LargeDecalSymbolJ.label>símbolo grande de J</VFEPD_LargeDecalSymbolJ.label>
+            <VFEPD_LargeDecalSymbolJ.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolJ.description>
+
+        <!-- Large K Symbol -->
+            <VFEPD_LargeDecalSymbolK.label>símbolo grande de K</VFEPD_LargeDecalSymbolK.label>
+            <VFEPD_LargeDecalSymbolK.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolK.description>
+
+        <!-- Large L Symbol -->
+            <VFEPD_LargeDecalSymbolL.label>símbolo grande de L</VFEPD_LargeDecalSymbolL.label>
+            <VFEPD_LargeDecalSymbolL.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolL.description>
+
+        <!-- Large M Symbol -->
+            <VFEPD_LargeDecalSymbolM.label>símbolo grande de M</VFEPD_LargeDecalSymbolM.label>
+            <VFEPD_LargeDecalSymbolM.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolM.description>
+
+        <!-- Large N Symbol -->
+            <VFEPD_LargeDecalSymbolN.label>símbolo grande de N</VFEPD_LargeDecalSymbolN.label>
+            <VFEPD_LargeDecalSymbolN.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolN.description>
+
+        <!-- Large O Symbol -->
+            <VFEPD_LargeDecalSymbolO.label>símbolo grande de O</VFEPD_LargeDecalSymbolO.label>
+            <VFEPD_LargeDecalSymbolO.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolO.description>
+
+        <!-- Large P Symbol -->
+            <VFEPD_LargeDecalSymbolP.label>símbolo grande de P</VFEPD_LargeDecalSymbolP.label>
+            <VFEPD_LargeDecalSymbolP.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolP.description>
+
+        <!-- Large Q Symbol -->
+            <VFEPD_LargeDecalSymbolQ.label>símbolo grande de Q</VFEPD_LargeDecalSymbolQ.label>
+            <VFEPD_LargeDecalSymbolQ.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolQ.description>
+
+        <!-- Large V Symbol -->
+            <VFEPD_LargeDecalSymbolV.label>símbolo grande de V</VFEPD_LargeDecalSymbolV.label>
+            <VFEPD_LargeDecalSymbolV.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolV.description>
+
+        <!-- Large R Symbol -->
+            <VFEPD_LargeDecalSymbolR.label>símbolo grande de R</VFEPD_LargeDecalSymbolR.label>
+            <VFEPD_LargeDecalSymbolR.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolR.description>
+
+        <!-- Large S Symbol -->
+            <VFEPD_LargeDecalSymbolS.label>símbolo grande de S</VFEPD_LargeDecalSymbolS.label>
+            <VFEPD_LargeDecalSymbolS.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolS.description>
+
+        <!-- Large T Symbol -->
+            <VFEPD_LargeDecalSymbolT.label>símbolo grande de T</VFEPD_LargeDecalSymbolT.label>
+            <VFEPD_LargeDecalSymbolT.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolT.description>
+
+        <!-- Large U Symbol -->
+            <VFEPD_LargeDecalSymbolU.label>símbolo grande de U</VFEPD_LargeDecalSymbolU.label>
+            <VFEPD_LargeDecalSymbolU.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolU.description>
+
+        <!-- Large W Symbol -->
+            <VFEPD_LargeDecalSymbolW.label>símbolo grande de W</VFEPD_LargeDecalSymbolW.label>
+            <VFEPD_LargeDecalSymbolW.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolW.description>
+
+        <!-- Large X Symbol -->
+            <VFEPD_LargeDecalSymbolX.label>símbolo grande de X</VFEPD_LargeDecalSymbolX.label>
+            <VFEPD_LargeDecalSymbolX.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolX.description>
+
+        <!-- Large Y Symbol -->
+            <VFEPD_LargeDecalSymbolY.label>símbolo grande de Y</VFEPD_LargeDecalSymbolY.label>
+            <VFEPD_LargeDecalSymbolY.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolY.description>
+
+        <!-- Large Z Symbol -->
+            <VFEPD_LargeDecalSymbolZ.label>símbolo grande de Z</VFEPD_LargeDecalSymbolZ.label>
+            <VFEPD_LargeDecalSymbolZ.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolZ.description>
+
+        <!-- Large 1 Symbol -->
+            <VFEPD_LargeDecalSymbolOne.label>símbolo grande de 1</VFEPD_LargeDecalSymbolOne.label>
+            <VFEPD_LargeDecalSymbolOne.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolOne.description>
+
+        <!-- Large 2 Symbol -->
+            <VFEPD_LargeDecalSymbolTwo.label>símbolo grande de 2</VFEPD_LargeDecalSymbolTwo.label>
+            <VFEPD_LargeDecalSymbolTwo.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolTwo.description>
+
+        <!-- Large 3 Symbol -->
+            <VFEPD_LargeDecalSymbolThree.label>símbolo grande de 3</VFEPD_LargeDecalSymbolThree.label>
+            <VFEPD_LargeDecalSymbolThree.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolThree.description>
+
+        <!-- Large 4 Symbol -->
+            <VFEPD_LargeDecalSymbolFour.label>símbolo grande de 4</VFEPD_LargeDecalSymbolFour.label>
+            <VFEPD_LargeDecalSymbolFour.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolFour.description>
+
+        <!-- Large 5 Symbol -->
+            <VFEPD_LargeDecalSymbolFive.label>símbolo grande de 5</VFEPD_LargeDecalSymbolFive.label>
+            <VFEPD_LargeDecalSymbolFive.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolFive.description>
+
+        <!-- Large 6 Symbol -->
+            <VFEPD_LargeDecalSymbolSix.label>símbolo grande de 6</VFEPD_LargeDecalSymbolSix.label>
+            <VFEPD_LargeDecalSymbolSix.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolSix.description>
+
+        <!-- Large 7 Symbol -->
+            <VFEPD_LargeDecalSymbolSeven.label>símbolo grande de 7</VFEPD_LargeDecalSymbolSeven.label>
+            <VFEPD_LargeDecalSymbolSeven.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolSeven.description>
+
+        <!-- Large 8 Symbol -->
+            <VFEPD_LargeDecalSymbolEight.label>símbolo grande de 8</VFEPD_LargeDecalSymbolEight.label>
+            <VFEPD_LargeDecalSymbolEight.description>Um grande decalque de piso..</VFEPD_LargeDecalSymbolEight.description>
+
+        <!-- Large 9 Symbol -->
+            <VFEPD_LargeDecalSymbolNine.label>símbolo grande de 9</VFEPD_LargeDecalSymbolNine.label>
+            <VFEPD_LargeDecalSymbolNine.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolNine.description>
+
+        <!-- Large 0 Symbol -->
+            <VFEPD_LargeDecalSymbolZero.label>símbolo grande de 0</VFEPD_LargeDecalSymbolZero.label>
+            <VFEPD_LargeDecalSymbolZero.description>Um grande decalque de piso.</VFEPD_LargeDecalSymbolZero.description>
+
+        <!-- Large Armory Decal -->
+            <VFEPD_LargeDecalWordArmory.label>decalque grande de arsenal</VFEPD_LargeDecalWordArmory.label>
+            <VFEPD_LargeDecalWordArmory.description>Um grande decalque de piso.</VFEPD_LargeDecalWordArmory.description>
+
+        <!-- Large Barracks Decal -->
+            <VFEPD_LargeDecalWordBarracks.label>decalque grande de quartel</VFEPD_LargeDecalWordBarracks.label>
+            <VFEPD_LargeDecalWordBarracks.description>Um grande decalque de piso.</VFEPD_LargeDecalWordBarracks.description>
+
+        <!-- Large Block Decal -->
+            <VFEPD_LargeDecalWordBlock.label>decalque grande de quadra</VFEPD_LargeDecalWordBlock.label>
+            <VFEPD_LargeDecalWordBlock.description>Um grande decalque de piso.</VFEPD_LargeDecalWordBlock.description>
+
+        <!-- Large Cafeteria Decal -->
+            <VFEPD_LargeDecalWordCafeteria.label>decalque grande de cantina</VFEPD_LargeDecalWordCafeteria.label>
+            <VFEPD_LargeDecalWordCafeteria.description>Um grande decalque de piso.</VFEPD_LargeDecalWordCafeteria.description>
+
+        <!-- Large Cargo Decal -->
+            <VFEPD_LargeDecalWordCargo.label>decalque grande de carga</VFEPD_LargeDecalWordCargo.label>
+            <VFEPD_LargeDecalWordCargo.description>Um grande decalque de piso.</VFEPD_LargeDecalWordCargo.description>
+
+        <!-- Large Chamber Decal -->
+            <VFEPD_LargeDecalWordChamber.label>decalque grande de câmara</VFEPD_LargeDecalWordChamber.label>
+            <VFEPD_LargeDecalWordChamber.description>Um grande decalque de piso.</VFEPD_LargeDecalWordChamber.description>
+
+        <!-- Large Climate Decal -->
+            <VFEPD_LargeDecalWordClimate.label>decalque grande de clima</VFEPD_LargeDecalWordClimate.label>
+            <VFEPD_LargeDecalWordClimate.description>Um grande decalque de piso.</VFEPD_LargeDecalWordClimate.description>
+
+        <!-- Large Command Decal -->
+            <VFEPD_LargeDecalWordCommand.label>decalque grande de comando</VFEPD_LargeDecalWordCommand.label>
+            <VFEPD_LargeDecalWordCommand.description>Um grande decalque de piso.</VFEPD_LargeDecalWordCommand.description>
+
+        <!-- Large Control Decal -->
+            <VFEPD_LargeDecalWordControl.label>decalque grande de controle</VFEPD_LargeDecalWordControl.label>
+            <VFEPD_LargeDecalWordControl.description>Um grande decalque de piso.</VFEPD_LargeDecalWordControl.description>
+
+        <!-- Large Engineer Decal -->
+            <VFEPD_LargeDecalWordEngineer.label>decalque grande de engenharia</VFEPD_LargeDecalWordEngineer.label>
+            <VFEPD_LargeDecalWordEngineer.description>Um grande decalque de piso.</VFEPD_LargeDecalWordEngineer.description>
+
+        <!-- Large Farming Decal -->
+            <VFEPD_LargeDecalWordFarming.label>decalque grande de agricultura</VFEPD_LargeDecalWordFarming.label>
+            <VFEPD_LargeDecalWordFarming.description>Um grande decalque de piso.</VFEPD_LargeDecalWordFarming.description>
+
+        <!-- Large Freezer Decal -->
+            <VFEPD_LargeDecalWordFreezer.label>decalque grande de refrigerador</VFEPD_LargeDecalWordFreezer.label>
+            <VFEPD_LargeDecalWordFreezer.description>Um grande decalque de piso.</VFEPD_LargeDecalWordFreezer.description>
+
+        <!-- Large Fridge Decal -->
+            <VFEPD_LargeDecalWordFridge.label>decalque grande de frigorífico</VFEPD_LargeDecalWordFridge.label>
+            <VFEPD_LargeDecalWordFridge.description>Um grande decalque de piso.</VFEPD_LargeDecalWordFridge.description>
+
+        <!-- Large Hangar Decal -->
+            <VFEPD_LargeDecalWordHangar.label>decalque grande de hangar</VFEPD_LargeDecalWordHangar.label>
+            <VFEPD_LargeDecalWordHangar.description>Um grande decalque de piso.</VFEPD_LargeDecalWordHangar.description>
+
+        <!-- Large Hospital Decal -->
+            <VFEPD_LargeDecalWordHospital.label>decalque grande de hospital</VFEPD_LargeDecalWordHospital.label>
+            <VFEPD_LargeDecalWordHospital.description>Um grande decalque de piso.</VFEPD_LargeDecalWordHospital.description>
+
+        <!-- Large Kill Decal -->
+            <VFEPD_LargeDecalWordKill.label>decalque grande de matança</VFEPD_LargeDecalWordKill.label>
+            <VFEPD_LargeDecalWordKill.description>Um grande decalque de piso.</VFEPD_LargeDecalWordKill.description>
+
+        <!-- Large Kitchen Decal -->
+            <VFEPD_LargeDecalWordKitchen.label>decalque grande de cozinha</VFEPD_LargeDecalWordKitchen.label>
+            <VFEPD_LargeDecalWordKitchen.description>Um grande decalque de piso.</VFEPD_LargeDecalWordKitchen.description>
+
+        <!-- Large Landing Decal -->
+            <VFEPD_LargeDecalWordLanding.label>decalque grande de aterrisagem</VFEPD_LargeDecalWordLanding.label>
+            <VFEPD_LargeDecalWordLanding.description>Um grande decalque de piso.</VFEPD_LargeDecalWordLanding.description>
+
+        <!-- Large Medical Decal -->
+            <VFEPD_LargeDecalWordMedical.label>decalque grande de medicina</VFEPD_LargeDecalWordMedical.label>
+            <VFEPD_LargeDecalWordMedical.description>Um grande decalque de piso.</VFEPD_LargeDecalWordMedical.description>
+
+        <!-- Large Mess Decal -->
+            <VFEPD_LargeDecalWordMess.label>decalque grande de bagunça</VFEPD_LargeDecalWordMess.label>
+            <VFEPD_LargeDecalWordMess.description>Um grande decalque de piso.</VFEPD_LargeDecalWordMess.description>
+
+        <!-- Large Morgue Decal -->
+            <VFEPD_LargeDecalWordMorgue.label>decalque grande de necrotério</VFEPD_LargeDecalWordMorgue.label>
+            <VFEPD_LargeDecalWordMorgue.description>Um grande decalque de piso.</VFEPD_LargeDecalWordMorgue.description>
+
+        <!-- Large Mortar Decal -->
+            <VFEPD_LargeDecalWordMortar.label>decalque grande de morteiro</VFEPD_LargeDecalWordMortar.label>
+            <VFEPD_LargeDecalWordMortar.description>Um grande decalque de piso.</VFEPD_LargeDecalWordMortar.description>
+
+        <!-- Large Play Decal -->
+            <VFEPD_LargeDecalWordPlay.label>decalque grande de jogo</VFEPD_LargeDecalWordPlay.label>
+            <VFEPD_LargeDecalWordPlay.description>Um grande decalque de piso.</VFEPD_LargeDecalWordPlay.description>
+
+        <!-- Large Prison Decal -->
+            <VFEPD_LargeDecalWordPrison.label>decalque grande de prisão</VFEPD_LargeDecalWordPrison.label>
+            <VFEPD_LargeDecalWordPrison.description>Um grande decalque de piso.</VFEPD_LargeDecalWordPrison.description>
+
+        <!-- Large Reactor Decal -->
+            <VFEPD_LargeDecalWordReactor.label>decalque grande de reator</VFEPD_LargeDecalWordReactor.label>
+            <VFEPD_LargeDecalWordReactor.description>Um grande decalque de piso.</VFEPD_LargeDecalWordReactor.description>
+
+        <!-- Large Recreation Decal -->
+            <VFEPD_LargeDecalWordRecreation.label>decalque grande de recreação</VFEPD_LargeDecalWordRecreation.label>
+            <VFEPD_LargeDecalWordRecreation.description>Um grande decalque de piso.</VFEPD_LargeDecalWordRecreation.description>
+
+        <!-- Large Refinery Decal -->
+            <VFEPD_LargeDecalWordRefinery.label>decalque grande de refinaria</VFEPD_LargeDecalWordRefinery.label>
+            <VFEPD_LargeDecalWordRefinery.description>Um grande decalque de piso.</VFEPD_LargeDecalWordRefinery.description>
+
+        <!-- Large Relax Decal -->
+            <VFEPD_LargeDecalWordRelax.label>decalque grande de relaxamento</VFEPD_LargeDecalWordRelax.label>
+            <VFEPD_LargeDecalWordRelax.description>Um grande decalque de piso.</VFEPD_LargeDecalWordRelax.description>
+
+        <!-- Large Research Decal -->
+            <VFEPD_LargeDecalWordResearch.label>decalque grande de pesquisa</VFEPD_LargeDecalWordResearch.label>
+            <VFEPD_LargeDecalWordResearch.description>Um grande decalque de piso.</VFEPD_LargeDecalWordResearch.description>
+
+        <!-- Large Security Decal -->
+            <VFEPD_LargeDecalWordSecurity.label>decalque grande de segurança</VFEPD_LargeDecalWordSecurity.label>
+            <VFEPD_LargeDecalWordSecurity.description>Um grande decalque de piso.</VFEPD_LargeDecalWordSecurity.description>
+
+        <!-- Large Shipping Decal -->
+            <VFEPD_LargeDecalWordShipping.label>decalque grande de expedição</VFEPD_LargeDecalWordShipping.label>
+            <VFEPD_LargeDecalWordShipping.description>Um grande decalque de piso.</VFEPD_LargeDecalWordShipping.description>
+
+        <!-- Large Sleeping Decal -->
+            <VFEPD_LargeDecalWordSleeping.label>decalque grande de dormitório</VFEPD_LargeDecalWordSleeping.label>
+            <VFEPD_LargeDecalWordSleeping.description>Um grande decalque de piso.</VFEPD_LargeDecalWordSleeping.description>
+
+        <!-- Large Smelting Decal -->
+            <VFEPD_LargeDecalWordSmelting.label>decalque grande de fundição</VFEPD_LargeDecalWordSmelting.label>
+            <VFEPD_LargeDecalWordSmelting.description>Um grande decalque de piso.</VFEPD_LargeDecalWordSmelting.description>
+
+        <!-- Large Storage Decal -->
+            <VFEPD_LargeDecalWordStorage.label>decalque grande de estoque</VFEPD_LargeDecalWordStorage.label>
+            <VFEPD_LargeDecalWordStorage.description>Um grande decalque de piso.</VFEPD_LargeDecalWordStorage.description>
+
+        <!-- Large Warning Decal -->
+            <VFEPD_LargeDecalWordWarning.label>decalque grande de aviso</VFEPD_LargeDecalWordWarning.label>
+            <VFEPD_LargeDecalWordWarning.description>Um grande decalque de piso.</VFEPD_LargeDecalWordWarning.description>
+
+        <!-- Large Workshop Decal -->
+            <VFEPD_LargeDecalWordWorkshop.label>decalque grande de oficina</VFEPD_LargeDecalWordWorkshop.label>
+            <VFEPD_LargeDecalWordWorkshop.description>Um grande decalque de piso.</VFEPD_LargeDecalWordWorkshop.description>
+
+        <!-- Large Base Decal -->
+            <VFEPD_LargeDecalWordSmallBase.label>decalque grande de base</VFEPD_LargeDecalWordSmallBase.label>
+            <VFEPD_LargeDecalWordSmallBase.description>Um grande decalque de piso.</VFEPD_LargeDecalWordSmallBase.description>
+
+        <!-- Large Bay Decal -->
+            <VFEPD_LargeDecalWordSmallBay.label>decalque grande de baía</VFEPD_LargeDecalWordSmallBay.label>
+            <VFEPD_LargeDecalWordSmallBay.description>Um grande decalque de piso.</VFEPD_LargeDecalWordSmallBay.description>
+
+        <!-- Large Box Decal -->
+            <VFEPD_LargeDecalWordSmallBox.label>decalque grande de guarita</VFEPD_LargeDecalWordSmallBox.label>
+            <VFEPD_LargeDecalWordSmallBox.description>Um grande decalque de piso.</VFEPD_LargeDecalWordSmallBox.description>
+
+        <!-- Large Cell Decal -->
+            <VFEPD_LargeDecalWordSmallCell.label>decalque grande de cela</VFEPD_LargeDecalWordSmallCell.label>
+            <VFEPD_LargeDecalWordSmallCell.description>Um grande decalque de piso.</VFEPD_LargeDecalWordSmallCell.description>
+
+        <!-- Large Clear Decal -->
+            <VFEPD_LargeDecalWordSmallClear.label>decalque grande de evidência</VFEPD_LargeDecalWordSmallClear.label>
+            <VFEPD_LargeDecalWordSmallClear.description>Um grande decalque de piso.</VFEPD_LargeDecalWordSmallClear.description>
+
+        <!-- Large Dock Decal -->
+            <VFEPD_LargeDecalWordSmallDock.label>decalque grande de doca</VFEPD_LargeDecalWordSmallDock.label>
+            <VFEPD_LargeDecalWordSmallDock.description>Um grande decalque de piso.</VFEPD_LargeDecalWordSmallDock.description>
+
+        <!-- Large Gas Decal -->
+            <VFEPD_LargeDecalWordSmallGas.label>decalque grande de gás</VFEPD_LargeDecalWordSmallGas.label>
+            <VFEPD_LargeDecalWordSmallGas.description>Um grande decalque de piso.</VFEPD_LargeDecalWordSmallGas.description>
+
+        <!-- Large Hall Decal -->
+            <VFEPD_LargeDecalWordSmallHall.label>decalque grande de salão</VFEPD_LargeDecalWordSmallHall.label>
+            <VFEPD_LargeDecalWordSmallHall.description>Um grande decalque de piso.</VFEPD_LargeDecalWordSmallHall.description>
+
+        <!-- Large Keep Decal -->
+            <VFEPD_LargeDecalWordSmallKeep.label>decalque grande de guarda</VFEPD_LargeDecalWordSmallKeep.label>
+            <VFEPD_LargeDecalWordSmallKeep.description>Um grande decalque de piso.</VFEPD_LargeDecalWordSmallKeep.description>
+
+        <!-- Large Lab Decal -->
+            <VFEPD_LargeDecalWordSmallLab.label>decalque grande de laboratório</VFEPD_LargeDecalWordSmallLab.label>
+            <VFEPD_LargeDecalWordSmallLab.description>Um grande decalque de piso.</VFEPD_LargeDecalWordSmallLab.description>
+
+        <!-- Large Pad Decal -->
+            <VFEPD_LargeDecalWordSmallPad.label>decalque grande de bloco</VFEPD_LargeDecalWordSmallPad.label>
+            <VFEPD_LargeDecalWordSmallPad.description>Um grande decalque de piso.</VFEPD_LargeDecalWordSmallPad.description>
+
+        <!-- Large Room Decal -->
+            <VFEPD_LargeDecalWordSmallRoom.label>decalque grande de sala</VFEPD_LargeDecalWordSmallRoom.label>
+            <VFEPD_LargeDecalWordSmallRoom.description>Um grande decalque de piso.</VFEPD_LargeDecalWordSmallRoom.description>
+
+        <!-- Large Wing Decal -->
+            <VFEPD_LargeDecalWordSmallWing.label>decalque grande de ala</VFEPD_LargeDecalWordSmallWing.label>
+            <VFEPD_LargeDecalWordSmallWing.description>Um grande decalque de piso.</VFEPD_LargeDecalWordSmallWing.description>
+
+        <!-- Large Zone Decal -->
+            <VFEPD_LargeDecalWordSmallZone.label>decalque grande de zona</VFEPD_LargeDecalWordSmallZone.label>
+            <VFEPD_LargeDecalWordSmallZone.description>Um grande decalque de piso.</VFEPD_LargeDecalWordSmallZone.description>
+
+        <!-- Arrow Long Symbol -->
+            <VFEPD_DecalArrowLong.label>símbolo de seta grande</VFEPD_DecalArrowLong.label>
+            <VFEPD_DecalArrowLong.description>Um decalque de piso.</VFEPD_DecalArrowLong.description>
+
+        <!-- Arrow Short Symbol -->
+            <VFEPD_DecalArrowShort.label>símbolo de seta pequena</VFEPD_DecalArrowShort.label>
+            <VFEPD_DecalArrowShort.description>Um decalque de piso.</VFEPD_DecalArrowShort.description>
+
+        <!-- Arrow Wide Symbol -->
+            <VFEPD_DecalArrowWide.label>símbolo de seta ampla</VFEPD_DecalArrowWide.label>
+            <VFEPD_DecalArrowWide.description>Um decalque de piso.</VFEPD_DecalArrowWide.description>
+
+        <!-- Decal Line Double -->
+            <VFEPD_DecalLineDouble.label>decalque de linha dupla</VFEPD_DecalLineDouble.label>
+            <VFEPD_DecalLineDouble.description>Um decalque de piso.</VFEPD_DecalLineDouble.description>
+
+        <!-- Decal Line Double Inner Corner -->
+            <VFEPD_DecalLineDoubleCornerInner.label>decalque de linha dupla de canto interno</VFEPD_DecalLineDoubleCornerInner.label>
+            <VFEPD_DecalLineDoubleCornerInner.description>Um decalque de piso.</VFEPD_DecalLineDoubleCornerInner.description>
+
+        <!-- Decal Line Double Outer Corner -->
+            <VFEPD_DecalLineDoubleCornerOuter.label>decalque de linha dupla de canto externo</VFEPD_DecalLineDoubleCornerOuter.label>
+            <VFEPD_DecalLineDoubleCornerOuter.description>Um decalque de piso.</VFEPD_DecalLineDoubleCornerOuter.description>
+
+        <!-- Decal Line Thin -->
+            <VFEPD_DecalLineThin.label>decalque de linha fina</VFEPD_DecalLineThin.label>
+            <VFEPD_DecalLineThin.description>Um decalque de piso.</VFEPD_DecalLineThin.description>
+
+        <!-- Decal Line Thin Inner Corner -->
+            <VFEPD_DecalLineThinCornerInner.label>decalque de linha fina de canto interno</VFEPD_DecalLineThinCornerInner.label>
+            <VFEPD_DecalLineThinCornerInner.description>Um decalque de piso.</VFEPD_DecalLineThinCornerInner.description>
+
+        <!-- Decal Line Thin Outer Corner -->
+            <VFEPD_DecalLineThinCornerOuter.label>decalque de linha fina de canto externo</VFEPD_DecalLineThinCornerOuter.label>
+            <VFEPD_DecalLineThinCornerOuter.description>Um decalque de piso.</VFEPD_DecalLineThinCornerOuter.description>
+
+        <!-- A Symbol -->
+            <VFEPD_DecalSymbolA.label>símbolo de A</VFEPD_DecalSymbolA.label>
+            <VFEPD_DecalSymbolA.description>Um decalque de piso.</VFEPD_DecalSymbolA.description>
+
+        <!-- B Symbol -->
+            <VFEPD_DecalSymbolB.label>símbolo de B</VFEPD_DecalSymbolB.label>
+            <VFEPD_DecalSymbolB.description>Um decalque de piso.</VFEPD_DecalSymbolB.description>
+
+        <!-- C Symbol -->
+            <VFEPD_DecalSymbolC.label>símbolo de C</VFEPD_DecalSymbolC.label>
+            <VFEPD_DecalSymbolC.description>Um decalque de piso.</VFEPD_DecalSymbolC.description>
+
+        <!-- D Symbol -->
+            <VFEPD_DecalSymbolD.label>símbolo de D</VFEPD_DecalSymbolD.label>
+            <VFEPD_DecalSymbolD.description>Um decalque de piso.</VFEPD_DecalSymbolD.description>
+
+        <!-- E Symbol -->
+            <VFEPD_DecalSymbolE.label>símbolo de E</VFEPD_DecalSymbolE.label>
+            <VFEPD_DecalSymbolE.description>Um decalque de piso.</VFEPD_DecalSymbolE.description>
+
+        <!-- F Symbol -->
+            <VFEPD_DecalSymbolF.label>símbolo de F</VFEPD_DecalSymbolF.label>
+            <VFEPD_DecalSymbolF.description>Um decalque de piso.</VFEPD_DecalSymbolF.description>
+
+        <!-- G Symbol -->
+            <VFEPD_DecalSymbolG.label>símbolo de G</VFEPD_DecalSymbolG.label>
+            <VFEPD_DecalSymbolG.description>Um decalque de piso.</VFEPD_DecalSymbolG.description>
+
+        <!-- H Symbol -->
+            <VFEPD_DecalSymbolH.label>símbolo de H</VFEPD_DecalSymbolH.label>
+            <VFEPD_DecalSymbolH.description>Um decalque de piso.</VFEPD_DecalSymbolH.description>
+
+        <!-- I Symbol -->
+            <VFEPD_DecalSymbolI.label>símbolo de I</VFEPD_DecalSymbolI.label>
+            <VFEPD_DecalSymbolI.description>Um decalque de piso.</VFEPD_DecalSymbolI.description>
+
+        <!-- J Symbol -->
+            <VFEPD_DecalSymbolJ.label>símbolo de J</VFEPD_DecalSymbolJ.label>
+            <VFEPD_DecalSymbolJ.description>Um decalque de piso.</VFEPD_DecalSymbolJ.description>
+
+        <!-- K Symbol -->
+            <VFEPD_DecalSymbolK.label>símbolo de K</VFEPD_DecalSymbolK.label>
+            <VFEPD_DecalSymbolK.description>Um decalque de piso.</VFEPD_DecalSymbolK.description>
+
+        <!-- L Symbol -->
+            <VFEPD_DecalSymbolL.label>símbolo de L</VFEPD_DecalSymbolL.label>
+            <VFEPD_DecalSymbolL.description>Um decalque de piso.</VFEPD_DecalSymbolL.description>
+
+        <!-- M Symbol -->
+            <VFEPD_DecalSymbolM.label>símbolo de M</VFEPD_DecalSymbolM.label>
+            <VFEPD_DecalSymbolM.description>Um decalque de piso.</VFEPD_DecalSymbolM.description>
+
+        <!-- N Symbol -->
+            <VFEPD_DecalSymbolN.label>símbolo de N</VFEPD_DecalSymbolN.label>
+            <VFEPD_DecalSymbolN.description>Um decalque de piso.</VFEPD_DecalSymbolN.description>
+
+        <!-- O Symbol -->
+            <VFEPD_DecalSymbolO.label>símbolo de O</VFEPD_DecalSymbolO.label>
+            <VFEPD_DecalSymbolO.description>Um decalque de piso.</VFEPD_DecalSymbolO.description>
+
+        <!-- P Symbol -->
+            <VFEPD_DecalSymbolP.label>símbolo de P</VFEPD_DecalSymbolP.label>
+            <VFEPD_DecalSymbolP.description>Um decalque de piso.</VFEPD_DecalSymbolP.description>
+
+        <!-- Q Symbol -->
+            <VFEPD_DecalSymbolQ.label>símbolo de Q</VFEPD_DecalSymbolQ.label>
+            <VFEPD_DecalSymbolQ.description>Um decalque de piso.</VFEPD_DecalSymbolQ.description>
+
+        <!-- V Symbol -->
+            <VFEPD_DecalSymbolV.label>símbolo de V</VFEPD_DecalSymbolV.label>
+            <VFEPD_DecalSymbolV.description>Um decalque de piso.</VFEPD_DecalSymbolV.description>
+
+        <!-- R Symbol -->
+            <VFEPD_DecalSymbolR.label>símbolo de R</VFEPD_DecalSymbolR.label>
+            <VFEPD_DecalSymbolR.description>Um decalque de piso.</VFEPD_DecalSymbolR.description>
+
+        <!-- S Symbol -->
+            <VFEPD_DecalSymbolS.label>símbolo de S</VFEPD_DecalSymbolS.label>
+            <VFEPD_DecalSymbolS.description>Um decalque de piso.</VFEPD_DecalSymbolS.description>
+
+        <!-- T Symbol -->
+            <VFEPD_DecalSymbolT.label>símbolo de T</VFEPD_DecalSymbolT.label>
+            <VFEPD_DecalSymbolT.description>Um decalque de piso.</VFEPD_DecalSymbolT.description>
+
+        <!-- U Symbol -->
+            <VFEPD_DecalSymbolU.label>símbolo de U</VFEPD_DecalSymbolU.label>
+            <VFEPD_DecalSymbolU.description>Um decalque de piso.</VFEPD_DecalSymbolU.description>
+
+        <!-- W Symbol -->
+            <VFEPD_DecalSymbolW.label>símbolo de W</VFEPD_DecalSymbolW.label>
+            <VFEPD_DecalSymbolW.description>Um decalque de piso.</VFEPD_DecalSymbolW.description>
+
+        <!-- X Symbol -->
+            <VFEPD_DecalSymbolX.label>símbolo de X</VFEPD_DecalSymbolX.label>
+            <VFEPD_DecalSymbolX.description>Um decalque de piso.</VFEPD_DecalSymbolX.description>
+
+        <!-- Y Symbol -->
+            <VFEPD_DecalSymbolY.label>símbolo de Y</VFEPD_DecalSymbolY.label>
+            <VFEPD_DecalSymbolY.description>Um decalque de piso.</VFEPD_DecalSymbolY.description>
+
+        <!-- Z Symbol -->
+            <VFEPD_DecalSymbolZ.label>símbolo de Z</VFEPD_DecalSymbolZ.label>
+            <VFEPD_DecalSymbolZ.description>Um decalque de piso.</VFEPD_DecalSymbolZ.description>
+
+        <!-- 1 Symbol -->
+            <VFEPD_DecalSymbolOne.label>símbolo de 1</VFEPD_DecalSymbolOne.label>
+            <VFEPD_DecalSymbolOne.description>Um decalque de piso.</VFEPD_DecalSymbolOne.description>
+
+        <!-- 2 Symbol -->
+            <VFEPD_DecalSymbolTwo.label>símbolo de 2</VFEPD_DecalSymbolTwo.label>
+            <VFEPD_DecalSymbolTwo.description>Um decalque de piso.</VFEPD_DecalSymbolTwo.description>
+
+        <!-- 3 Symbol -->
+            <VFEPD_DecalSymbolThree.label>símbolo de 3</VFEPD_DecalSymbolThree.label>
+            <VFEPD_DecalSymbolThree.description>Um decalque de piso.</VFEPD_DecalSymbolThree.description>
+
+        <!-- 4 Symbol -->
+            <VFEPD_DecalSymbolFour.label>símbolo de 4</VFEPD_DecalSymbolFour.label>
+            <VFEPD_DecalSymbolFour.description>Um decalque de piso.</VFEPD_DecalSymbolFour.description>
+
+        <!-- 5 Symbol -->
+            <VFEPD_DecalSymbolFive.label>símbolo de 5</VFEPD_DecalSymbolFive.label>
+            <VFEPD_DecalSymbolFive.description>Um decalque de piso.</VFEPD_DecalSymbolFive.description>
+
+        <!-- 6 Symbol -->
+            <VFEPD_DecalSymbolSix.label>símbolo de 6</VFEPD_DecalSymbolSix.label>
+            <VFEPD_DecalSymbolSix.description>Um decalque de piso.</VFEPD_DecalSymbolSix.description>
+
+        <!-- 7 Symbol -->
+            <VFEPD_DecalSymbolSeven.label>símbolo de 7</VFEPD_DecalSymbolSeven.label>
+            <VFEPD_DecalSymbolSeven.description>Um decalque de piso.</VFEPD_DecalSymbolSeven.description>
+
+        <!-- 8 Symbol -->
+            <VFEPD_DecalSymbolEight.label>símbolo de 8</VFEPD_DecalSymbolEight.label>
+            <VFEPD_DecalSymbolEight.description>Um decalque de piso.</VFEPD_DecalSymbolEight.description>
+
+        <!-- 9 Symbol -->
+            <VFEPD_DecalSymbolNine.label>símbolo de 9</VFEPD_DecalSymbolNine.label>
+            <VFEPD_DecalSymbolNine.description>Um decalque de piso.</VFEPD_DecalSymbolNine.description>
+
+        <!-- 0 Symbol -->
+            <VFEPD_DecalSymbolZero.label>símbolo de 0</VFEPD_DecalSymbolZero.label>
+            <VFEPD_DecalSymbolZero.description>Um decalque de piso.</VFEPD_DecalSymbolZero.description>
+
+        <!-- Armory Decal -->
+            <VFEPD_DecalWordArmory.label>decalque de arsenal</VFEPD_DecalWordArmory.label>
+            <VFEPD_DecalWordArmory.description>Um decalque de piso.</VFEPD_DecalWordArmory.description>
+
+        <!-- Barracks Decal -->
+            <VFEPD_DecalWordBarracks.label>decalque de quartel</VFEPD_DecalWordBarracks.label>
+            <VFEPD_DecalWordBarracks.description>Um decalque de piso.</VFEPD_DecalWordBarracks.description>
+
+        <!-- Block Decal -->
+            <VFEPD_DecalWordBlock.label>decalque de quadra</VFEPD_DecalWordBlock.label>
+            <VFEPD_DecalWordBlock.description>Um decalque de piso.</VFEPD_DecalWordBlock.description>
+
+        <!-- Cafeteria Decal -->
+            <VFEPD_DecalWordCafeteria.label>decalque de cantina</VFEPD_DecalWordCafeteria.label>
+            <VFEPD_DecalWordCafeteria.description>Um decalque de piso.</VFEPD_DecalWordCafeteria.description>
+
+        <!-- Cargo Decal -->
+            <VFEPD_DecalWordCargo.label>decalque de carga</VFEPD_DecalWordCargo.label>
+            <VFEPD_DecalWordCargo.description>Um decalque de piso.</VFEPD_DecalWordCargo.description>
+
+        <!-- Chamber Decal -->
+            <VFEPD_DecalWordChamber.label>decalque de câmara</VFEPD_DecalWordChamber.label>
+            <VFEPD_DecalWordChamber.description>Um decalque de piso.</VFEPD_DecalWordChamber.description>
+
+        <!-- Climate Decal -->
+            <VFEPD_DecalWordClimate.label>decalque de clima</VFEPD_DecalWordClimate.label>
+            <VFEPD_DecalWordClimate.description>Um decalque de piso.</VFEPD_DecalWordClimate.description>
+
+        <!-- Command Decal -->
+            <VFEPD_DecalWordCommand.label>decalque de comando</VFEPD_DecalWordCommand.label>
+            <VFEPD_DecalWordCommand.description>Um decalque de piso.</VFEPD_DecalWordCommand.description>
+
+        <!-- Control Decal -->
+            <VFEPD_DecalWordControl.label>decalque de controle</VFEPD_DecalWordControl.label>
+            <VFEPD_DecalWordControl.description>Um decalque de piso.</VFEPD_DecalWordControl.description>
+
+        <!-- Engineer Decal -->
+            <VFEPD_DecalWordEngineer.label>decalque de engenharia</VFEPD_DecalWordEngineer.label>
+            <VFEPD_DecalWordEngineer.description>Um decalque de piso.</VFEPD_DecalWordEngineer.description>
+
+        <!-- Farming Decal -->
+            <VFEPD_DecalWordFarming.label>decalque de agricultura</VFEPD_DecalWordFarming.label>
+            <VFEPD_DecalWordFarming.description>Um decalque de piso.</VFEPD_DecalWordFarming.description>
+
+        <!-- Freezer Decal -->
+            <VFEPD_DecalWordFreezer.label>decalque de refrigerador</VFEPD_DecalWordFreezer.label>
+            <VFEPD_DecalWordFreezer.description>Um decalque de piso.</VFEPD_DecalWordFreezer.description>
+
+        <!-- Fridge Decal -->
+            <VFEPD_DecalWordFridge.label>decalque de frigorífico</VFEPD_DecalWordFridge.label>
+            <VFEPD_DecalWordFridge.description>Um decalque de piso.</VFEPD_DecalWordFridge.description>
+
+        <!-- Hangar Decal -->
+            <VFEPD_DecalWordHangar.label>decalque de hangar</VFEPD_DecalWordHangar.label>
+            <VFEPD_DecalWordHangar.description>Um decalque de piso.</VFEPD_DecalWordHangar.description>
+
+        <!-- Hospital Decal -->
+            <VFEPD_DecalWordHospital.label>decalque de hospital</VFEPD_DecalWordHospital.label>
+            <VFEPD_DecalWordHospital.description>Um decalque de piso.</VFEPD_DecalWordHospital.description>
+
+        <!-- Kill Decal -->
+            <VFEPD_DecalWordKill.label>decalque de matança</VFEPD_DecalWordKill.label>
+            <VFEPD_DecalWordKill.description>Um decalque de piso.</VFEPD_DecalWordKill.description>
+
+        <!-- Kitchen Decal -->
+            <VFEPD_DecalWordKitchen.label>decalque de cozinha</VFEPD_DecalWordKitchen.label>
+            <VFEPD_DecalWordKitchen.description>Um decalque de piso.</VFEPD_DecalWordKitchen.description>
+
+        <!-- Landing Decal -->
+            <VFEPD_DecalWordLanding.label>decalque de aterrisagem</VFEPD_DecalWordLanding.label>
+            <VFEPD_DecalWordLanding.description>Um decalque de piso.</VFEPD_DecalWordLanding.description>
+
+        <!-- Medical Decal -->
+            <VFEPD_DecalWordMedical.label>decalque de medicina</VFEPD_DecalWordMedical.label>
+            <VFEPD_DecalWordMedical.description>Um decalque de piso.</VFEPD_DecalWordMedical.description>
+
+        <!-- Mess Decal -->
+            <VFEPD_DecalWordMess.label>decalque de bagunça</VFEPD_DecalWordMess.label>
+            <VFEPD_DecalWordMess.description>Um decalque de piso.</VFEPD_DecalWordMess.description>
+
+        <!-- Morgue Decal -->
+            <VFEPD_DecalWordMorgue.label>decalque de necrotério</VFEPD_DecalWordMorgue.label>
+            <VFEPD_DecalWordMorgue.description>Um decalque de piso.</VFEPD_DecalWordMorgue.description>
+
+        <!-- Mortar Decal -->
+            <VFEPD_DecalWordMortar.label>decalque de morteiro</VFEPD_DecalWordMortar.label>
+            <VFEPD_DecalWordMortar.description>Um decalque de piso.</VFEPD_DecalWordMortar.description>
+
+        <!-- Play Decal -->
+            <VFEPD_DecalWordPlay.label>decalque de jogo</VFEPD_DecalWordPlay.label>
+            <VFEPD_DecalWordPlay.description>Um decalque de piso.</VFEPD_DecalWordPlay.description>
+
+        <!-- Prison Decal -->
+            <VFEPD_DecalWordPrison.label>decalque de prisão</VFEPD_DecalWordPrison.label>
+            <VFEPD_DecalWordPrison.description>Um decalque de piso.</VFEPD_DecalWordPrison.description>
+
+        <!-- Reactor Decal -->
+            <VFEPD_DecalWordReactor.label>decalque de reator</VFEPD_DecalWordReactor.label>
+            <VFEPD_DecalWordReactor.description>Um decalque de piso.</VFEPD_DecalWordReactor.description>
+
+        <!-- Recreation Decal -->
+            <VFEPD_DecalWordRecreation.label>decalque de recreação</VFEPD_DecalWordRecreation.label>
+            <VFEPD_DecalWordRecreation.description>Um decalque de piso.</VFEPD_DecalWordRecreation.description>
+
+        <!-- Refinery Decal -->
+            <VFEPD_DecalWordRefinery.label>decalque de refinaria</VFEPD_DecalWordRefinery.label>
+            <VFEPD_DecalWordRefinery.description>Um decalque de piso.</VFEPD_DecalWordRefinery.description>
+
+        <!-- Relax Decal -->
+            <VFEPD_DecalWordRelax.label>decalque de relaxamento</VFEPD_DecalWordRelax.label>
+            <VFEPD_DecalWordRelax.description>Um decalque de piso.</VFEPD_DecalWordRelax.description>
+
+        <!-- Research Decal -->
+            <VFEPD_DecalWordResearch.label>decalque de pesquisa</VFEPD_DecalWordResearch.label>
+            <VFEPD_DecalWordResearch.description>Um decalque de piso.</VFEPD_DecalWordResearch.description>
+
+        <!-- Security Decal -->
+            <VFEPD_DecalWordSecurity.label>decalque de segurança</VFEPD_DecalWordSecurity.label>
+            <VFEPD_DecalWordSecurity.description>Um decalque de piso.</VFEPD_DecalWordSecurity.description>
+
+        <!-- Shipping Decal -->
+            <VFEPD_DecalWordShipping.label>decalque de expedição</VFEPD_DecalWordShipping.label>
+            <VFEPD_DecalWordShipping.description>Um decalque de piso.</VFEPD_DecalWordShipping.description>
+
+        <!-- Sleeping Decal -->
+            <VFEPD_DecalWordSleeping.label>decalque de dormitório</VFEPD_DecalWordSleeping.label>
+            <VFEPD_DecalWordSleeping.description>Um decalque de piso.</VFEPD_DecalWordSleeping.description>
+
+        <!-- Smelting Decal -->
+            <VFEPD_DecalWordSmelting.label>decalque de fundição</VFEPD_DecalWordSmelting.label>
+            <VFEPD_DecalWordSmelting.description>Um decalque de piso.</VFEPD_DecalWordSmelting.description>
+
+        <!-- Storage Decal -->
+            <VFEPD_DecalWordStorage.label>decalque de estoque</VFEPD_DecalWordStorage.label>
+            <VFEPD_DecalWordStorage.description>Um decalque de piso.</VFEPD_DecalWordStorage.description>
+
+        <!-- Warning Decal -->
+            <VFEPD_DecalWordWarning.label>decalque de aviso</VFEPD_DecalWordWarning.label>
+            <VFEPD_DecalWordWarning.description>Um decalque de piso.</VFEPD_DecalWordWarning.description>
+
+        <!-- Workshop Decal -->
+            <VFEPD_DecalWordWorkshop.label>decalque de oficina</VFEPD_DecalWordWorkshop.label>
+            <VFEPD_DecalWordWorkshop.description>Um decalque de piso.</VFEPD_DecalWordWorkshop.description>
+
+        <!-- Base Decal -->
+            <VFEPD_DecalWordSmallBase.label>decalque de base</VFEPD_DecalWordSmallBase.label>
+            <VFEPD_DecalWordSmallBase.description>Um decalque de piso.</VFEPD_DecalWordSmallBase.description>
+
+        <!-- Bay Decal -->
+            <VFEPD_DecalWordSmallBay.label>decalque de baía</VFEPD_DecalWordSmallBay.label>
+            <VFEPD_DecalWordSmallBay.description>Um decalque de piso.</VFEPD_DecalWordSmallBay.description>
+
+        <!-- Box Decal -->
+            <VFEPD_DecalWordSmallBox.label>decalque de guarita</VFEPD_DecalWordSmallBox.label>
+            <VFEPD_DecalWordSmallBox.description>Um decalque de piso.</VFEPD_DecalWordSmallBox.description>
+
+        <!-- Cell Decal -->
+            <VFEPD_DecalWordSmallCell.label>decalque de cela</VFEPD_DecalWordSmallCell.label>
+            <VFEPD_DecalWordSmallCell.description>Um decalque de piso.</VFEPD_DecalWordSmallCell.description>
+
+        <!-- Clear Decal -->
+            <VFEPD_DecalWordSmallClear.label>decalque de evidência</VFEPD_DecalWordSmallClear.label>
+            <VFEPD_DecalWordSmallClear.description>Um decalque de piso.</VFEPD_DecalWordSmallClear.description>
+
+        <!-- Dock Decal -->
+            <VFEPD_DecalWordSmallDock.label>decalque de doca</VFEPD_DecalWordSmallDock.label>
+            <VFEPD_DecalWordSmallDock.description>Um decalque de piso.</VFEPD_DecalWordSmallDock.description>
+
+        <!-- Gas Decal -->
+            <VFEPD_DecalWordSmallGas.label>decalque de gás</VFEPD_DecalWordSmallGas.label>
+            <VFEPD_DecalWordSmallGas.description>Um decalque de piso.</VFEPD_DecalWordSmallGas.description>
+
+        <!-- Hall Decal -->
+            <VFEPD_DecalWordSmallHall.label>decalque de salão</VFEPD_DecalWordSmallHall.label>
+            <VFEPD_DecalWordSmallHall.description>Um decalque de piso.</VFEPD_DecalWordSmallHall.description>
+
+        <!-- Keep Decal -->
+            <VFEPD_DecalWordSmallKeep.label>decalque de guarda</VFEPD_DecalWordSmallKeep.label>
+            <VFEPD_DecalWordSmallKeep.description>Um decalque de piso.</VFEPD_DecalWordSmallKeep.description>
+
+        <!-- Lab Decal -->
+            <VFEPD_DecalWordSmallLab.label>decalque de laboratório</VFEPD_DecalWordSmallLab.label>
+            <VFEPD_DecalWordSmallLab.description>Um decalque de piso.</VFEPD_DecalWordSmallLab.description>
+
+        <!-- Pad Decal -->
+            <VFEPD_DecalWordSmallPad.label>decalque de bloco</VFEPD_DecalWordSmallPad.label>
+            <VFEPD_DecalWordSmallPad.description>Um decalque de piso.</VFEPD_DecalWordSmallPad.description>
+
+        <!-- Room Decal -->
+            <VFEPD_DecalWordSmallRoom.label>decalque de sala</VFEPD_DecalWordSmallRoom.label>
+            <VFEPD_DecalWordSmallRoom.description>Um decalque de piso.</VFEPD_DecalWordSmallRoom.description>
+
+        <!-- Wing Decal -->
+            <VFEPD_DecalWordSmallWing.label>decalque de ala</VFEPD_DecalWordSmallWing.label>
+            <VFEPD_DecalWordSmallWing.description>Um decalque de piso.</VFEPD_DecalWordSmallWing.description>
+
+        <!-- Zone Decal -->
+            <VFEPD_DecalWordSmallZone.label>decalque de zona</VFEPD_DecalWordSmallZone.label>
+            <VFEPD_DecalWordSmallZone.description>Um decalque de piso.</VFEPD_DecalWordSmallZone.description>
+
+        <!-- Empty Food Boxes -->
+            <VFEPD_FoodBox.label>caixas de comida vazias</VFEPD_FoodBox.label>
+            <VFEPD_FoodBox.description>Uma pilha de caixas de comida vazias.</VFEPD_FoodBox.description>
+
+        <!-- Large Hay Bale -->
+            <VFEPD_HayBaleLarge.label>fardo de feno grande</VFEPD_HayBaleLarge.label>
+            <VFEPD_HayBaleLarge.description>Um rolo de feno grande.</VFEPD_HayBaleLarge.description>
+
+        <!-- Medium Hay Bale -->
+            <VFEPD_HayBaleMedium.label>fardo de feno médio</VFEPD_HayBaleMedium.label>
+            <VFEPD_HayBaleMedium.description>Um rolo de feno médio.</VFEPD_HayBaleMedium.description>
+
+        <!-- Small Hay Bale -->
+            <VFEPD_HayBaleSmall.label>fardo de feno pequeno</VFEPD_HayBaleSmall.label>
+            <VFEPD_HayBaleSmall.description>Um rolo de feno pequeno.</VFEPD_HayBaleSmall.description>
+
+        <!-- Hedge -->
+            <VFEPD_Hedge.label>cerca viva</VFEPD_Hedge.label>
+            <VFEPD_Hedge.description>Uma cerca natural.</VFEPD_Hedge.description>
+
+        <!-- Wooden Logs -->
+            <VFEPD_WoodenLogs.label>toras de madeira</VFEPD_WoodenLogs.label>
+            <VFEPD_WoodenLogs.description>Uma pilha pequena e transitável de toras de madeira.</VFEPD_WoodenLogs.description>
+
+        <!-- Large Wooden Logs -->
+            <VFEPD_WoodenLogsLarge.label>toras grandes de madeira</VFEPD_WoodenLogsLarge.label>
+            <VFEPD_WoodenLogsLarge.description>Uma pilha grande e intransponível de toras de madeira.</VFEPD_WoodenLogsLarge.description>
+
+        <!-- Wooden Wagon -->
+            <VFEPD_WoodenWagon.label>carroça de madeira</VFEPD_WoodenWagon.label>
+            <VFEPD_WoodenWagon.description>Uma grande carroça estacionária para transportar mercadorias.</VFEPD_WoodenWagon.description>
+
+        <!-- Dirt -->
+            <VFEPD_FilthDirt.label>sujeira</VFEPD_FilthDirt.label>
+            <VFEPD_FilthDirt.description>Uma pequena quantidade de sujeira.</VFEPD_FilthDirt.description>
+
+        <!-- Animal Filth -->
+            <VFEPD_FilthAnimalFilth.label>sujeira animal</VFEPD_FilthAnimalFilth.label>
+            <VFEPD_FilthAnimalFilth.description>Uma pequena quantidade de sujeira animal.</VFEPD_FilthAnimalFilth.description>
+
+        <!-- Sand -->
+            <VFEPD_FilthSand.label>areia</VFEPD_FilthSand.label>
+            <VFEPD_FilthSand.description>Uma pequena quantidade de areia.</VFEPD_FilthSand.description>
+
+        <!-- Trash -->
+            <VFEPD_FilthTrash.label>lixo</VFEPD_FilthTrash.label>
+            <VFEPD_FilthTrash.description>Uma pequena quantidade de lixo.</VFEPD_FilthTrash.description>
+
+        <!-- Rock Rubble -->
+            <VFEPD_FilthRubbleRock.label>entulho de rocha</VFEPD_FilthRubbleRock.label>
+            <VFEPD_FilthRubbleRock.description>Uma pequena quantidade de entulho de rocha.</VFEPD_FilthRubbleRock.description>
+
+        <!-- Scattered Slag -->
+            <VFEPD_FilthRubbleSlag.label>escória espalhada</VFEPD_FilthRubbleSlag.label>
+            <VFEPD_FilthRubbleSlag.description>Uma pequena quantidade de escória espalhada.</VFEPD_FilthRubbleSlag.description>
+
+        <!-- Scattered Sandbags -->
+            <VFEPD_FilthRubbleSandbags.label>sacos de areia espalhados</VFEPD_FilthRubbleSandbags.label>
+            <VFEPD_FilthRubbleSandbags.description>Uma pequena quantidade de sacos de areia espalhados.</VFEPD_FilthRubbleSandbags.description>
+
+        <!-- Blood -->
+            <VFEPD_FilthBlood.label>sangue</VFEPD_FilthBlood.label>
+            <VFEPD_FilthBlood.description>Um respingo de sangue.</VFEPD_FilthBlood.description>
+
+        <!-- Bugblood -->
+            <VFEPD_FilthBugBlood.label>sangue de inseto</VFEPD_FilthBugBlood.label>
+            <VFEPD_FilthBugBlood.description>Um respingo de sangue de inseto.</VFEPD_FilthBugBlood.description>
+
+        <!-- Machine Bits -->
+            <VFEPD_FilthMachineBits.label>pedaços de máquinas</VFEPD_FilthMachineBits.label>
+            <VFEPD_FilthMachineBits.description>Um monte de pedaços de máquina.</VFEPD_FilthMachineBits.description>
+
+        <!-- Amniotic Fluid -->
+            <VFEPD_FilthAmnioticFluid.label>flúido amniótico</VFEPD_FilthAmnioticFluid.label>
+            <VFEPD_FilthAmnioticFluid.description>Uma poça de fluído amniótico.</VFEPD_FilthAmnioticFluid.description>
+
+        <!-- Slime -->
+            <VFEPD_FilthSlime.label>lodo</VFEPD_FilthSlime.label>
+            <VFEPD_FilthSlime.description>Um respingo de lodo.</VFEPD_FilthSlime.description>
+
+        <!-- Vomit -->
+            <VFEPD_FilthVomit.label>vômito</VFEPD_FilthVomit.label>
+            <VFEPD_FilthVomit.description>Uma pequena poça de vômito.</VFEPD_FilthVomit.description>
+
+        <!-- Firefoam -->
+            <VFEPD_FilthFireFoam.label>espuma contra fogo</VFEPD_FilthFireFoam.label>
+            <VFEPD_FilthFireFoam.description>Uma grande pilha de espuma contra fogo.</VFEPD_FilthFireFoam.description>
+
+        <!-- Chemfuel Puddle -->
+            <VFEPD_FilthChemfuel.label>poça de combustível químico</VFEPD_FilthChemfuel.label>
+            <VFEPD_FilthChemfuel.description>Uma poça de combustível químico inflamável.</VFEPD_FilthChemfuel.description>
+
+        <!-- Corpse Bile -->
+            <VFEPD_FilthCorpseBile.label>bile de cadáver</VFEPD_FilthCorpseBile.label>
+            <VFEPD_FilthCorpseBile.description>Um pequeno respingo de bile de cadáver.</VFEPD_FilthCorpseBile.description>
+
+        <!-- Ash -->
+            <VFEPD_FilthAsh.label>cinzas</VFEPD_FilthAsh.label>
+            <VFEPD_FilthAsh.description>Um monte de cinzas.</VFEPD_FilthAsh.description>
+
+        <!-- ATM -->
+            <VFEPD_SteelATM.label>caixa eletrônico de aço</VFEPD_SteelATM.label>
+            <VFEPD_SteelATM.description>Uma máquina distribuidora de dinheiro não funcional.</VFEPD_SteelATM.description>
+            <VFEPD_PlasteelATM.label>caixa eletrônico de plastiaço</VFEPD_PlasteelATM.label>
+            <VFEPD_PlasteelATM.description>Uma máquina distribuidora de dinheiro não funcional.</VFEPD_PlasteelATM.description>
+            <VFEPD_SilverATM.label>caixa eletrônico de prata</VFEPD_SilverATM.label>
+            <VFEPD_SilverATM.description>Uma máquina distribuidora de dinheiro não funcional.</VFEPD_SilverATM.description>
+            <VFEPD_WoodenATM.label>caixa eletrônico de madeira</VFEPD_WoodenATM.label>
+            <VFEPD_WoodenATM.description>Uma máquina distribuidora de dinheiro não funcional.</VFEPD_WoodenATM.description>
+
+        <!-- Bookshelf -->
+            <VFEPD_SteelBookshelf.label>estante de aço</VFEPD_SteelBookshelf.label>
+            <VFEPD_SteelBookshelf.description>Uma estante contendo uma variedade de livros e publicações ilegíveis.</VFEPD_SteelBookshelf.description>
+            <VFEPD_PlasteelBookshelf.label>estante de plastiaço</VFEPD_PlasteelBookshelf.label>
+            <VFEPD_PlasteelBookshelf.description>Uma estante contendo uma variedade de livros e publicações ilegíveis.</VFEPD_PlasteelBookshelf.description>
+            <VFEPD_SilverBookshelf.label>estante de prata</VFEPD_SilverBookshelf.label>
+            <VFEPD_SilverBookshelf.description>Uma estante contendo uma variedade de livros e publicações ilegíveis.</VFEPD_SilverBookshelf.description>
+            <VFEPD_WoodenBookshelf.label>estante de madeira</VFEPD_WoodenBookshelf.label>
+            <VFEPD_WoodenBookshelf.description>Uma estante contendo uma variedade de livros e publicações ilegíveis.</VFEPD_WoodenBookshelf.description>
+
+        <!-- Cupboard -->
+            <VFEPD_SteelCupboard.label>guarda-louça de aço</VFEPD_SteelCupboard.label>
+            <VFEPD_SteelCupboard.description>Um grande armário vazio.</VFEPD_SteelCupboard.description>
+            <VFEPD_PlasteelCupboard.label>guarda-louça de plastiaço</VFEPD_PlasteelCupboard.label>
+            <VFEPD_PlasteelCupboard.description>Um grande armário vazio.</VFEPD_PlasteelCupboard.description>
+            <VFEPD_SilverCupboard.label>guarda-louça de prata</VFEPD_SilverCupboard.label>
+            <VFEPD_SilverCupboard.description>Um grande armário vazio.</VFEPD_SilverCupboard.description>
+            <VFEPD_WoodenCupboard.label>guarda-louça de madeira</VFEPD_WoodenCupboard.label>
+            <VFEPD_WoodenCupboard.description>Um grande armário vazio.</VFEPD_WoodenCupboard.description>
+
+        <!-- Double Cupboard  -->
+            <VFEPD_SteelCupboardDouble.label>guarda-louça duplo de aço</VFEPD_SteelCupboardDouble.label>
+            <VFEPD_SteelCupboardDouble.description>Um grande armário duplo vazio.</VFEPD_SteelCupboardDouble.description>
+            <VFEPD_PlasteelCupboardDouble.label>guarda-louça duplo de plastiaço</VFEPD_PlasteelCupboardDouble.label>
+            <VFEPD_PlasteelCupboardDouble.description>Um grande armário duplo vazio.</VFEPD_PlasteelCupboardDouble.description>
+            <VFEPD_SilverCupboardDouble.label>sguarda-louça duplo de prata</VFEPD_SilverCupboardDouble.label>
+            <VFEPD_SilverCupboardDouble.description>Um grande armário duplo vazio.</VFEPD_SilverCupboardDouble.description>
+            <VFEPD_WoodenCupboardDouble.label>guarda-louça duplo de madeira</VFEPD_WoodenCupboardDouble.label>
+            <VFEPD_WoodenCupboardDouble.description>Um grande armário duplo vazio.</VFEPD_WoodenCupboardDouble.description>
+
+        <!-- Cupboard With Plates -->
+            <VFEPD_SteelCupboardPlates.label>guarda-louça de aço com pratos</VFEPD_SteelCupboardPlates.label>
+            <VFEPD_SteelCupboardPlates.description>Um grande armário com alguns pratos.</VFEPD_SteelCupboardPlates.description>
+            <VFEPD_PlasteelCupboardPlates.label>guarda-louça de plastiaço com pratos</VFEPD_PlasteelCupboardPlates.label>
+            <VFEPD_PlasteelCupboardPlates.description>Um grande armário com alguns pratos.</VFEPD_PlasteelCupboardPlates.description>
+            <VFEPD_SilverCupboardPlates.label>guarda-louça de prata com pratos</VFEPD_SilverCupboardPlates.label>
+            <VFEPD_SilverCupboardPlates.description>Um grande armário com alguns pratos.</VFEPD_SilverCupboardPlates.description>
+            <VFEPD_WoodenCupboardPlates.label>guarda-louça de madeira com pratos</VFEPD_WoodenCupboardPlates.label>
+            <VFEPD_WoodenCupboardPlates.description>Um grande armário com alguns pratos.</VFEPD_WoodenCupboardPlates.description>
+
+        <!-- Steel Narrow Cupboard -->
+            <VFEPD_SteelCupboardNarrow.label>guarda-louça estreito de aço</VFEPD_SteelCupboardNarrow.label>
+            <VFEPD_SteelCupboardNarrow.description>Um armário estreito vazio.</VFEPD_SteelCupboardNarrow.description>
+            <VFEPD_PlasteelCupboardNarrow.label>guarda-louça estreito de plastiaço</VFEPD_PlasteelCupboardNarrow.label>
+            <VFEPD_PlasteelCupboardNarrow.description>Um armário estreito vazio.</VFEPD_PlasteelCupboardNarrow.description>
+            <VFEPD_SilverCupboardNarrow.label>guarda-louça estreito de prata</VFEPD_SilverCupboardNarrow.label>
+            <VFEPD_SilverCupboardNarrow.description>Um armário estreito vazio.</VFEPD_SilverCupboardNarrow.description>
+            <VFEPD_WoodenCupboardNarrow.label>guarda-louça estreito de madeira</VFEPD_WoodenCupboardNarrow.label>
+            <VFEPD_WoodenCupboardNarrow.description>Um armário estreito vazio.</VFEPD_WoodenCupboardNarrow.description>
+
+        <!-- Steel Tall Cabinet -->
+            <VFEPD_SteelTallCabinet.label>armário alto de aço</VFEPD_SteelTallCabinet.label>
+            <VFEPD_SteelTallCabinet.description>Uma unidade de armário alto.</VFEPD_SteelTallCabinet.description>
+            <VFEPD_PlasteelTallCabinet.label>armário alto de plastiaço</VFEPD_PlasteelTallCabinet.label>
+            <VFEPD_PlasteelTallCabinet.description>Uma unidade de armário alto.</VFEPD_PlasteelTallCabinet.description>
+            <VFEPD_SilverTallCabinet.label>armário alto de prata</VFEPD_SilverTallCabinet.label>
+            <VFEPD_SilverTallCabinet.description>Uma unidade de armário alto.</VFEPD_SilverTallCabinet.description>
+            <VFEPD_WoodenTallCabinet.label>armário alto de madeira</VFEPD_WoodenTallCabinet.label>
+            <VFEPD_WoodenTallCabinet.description>Uma unidade de armário alto.</VFEPD_WoodenTallCabinet.description>
+
+        <!-- Short Cupboard -->
+            <VFEPD_SteelShortCupboard.label>guarda-louça baixo de aço</VFEPD_SteelShortCupboard.label>
+            <VFEPD_SteelShortCupboard.description>Um armário baixo vazio.</VFEPD_SteelShortCupboard.description>
+            <VFEPD_PlasteelShortCupboard.label>guarda-louça baixo de plastiaço</VFEPD_PlasteelShortCupboard.label>
+            <VFEPD_PlasteelShortCupboard.description>Um armário baixo vazio.</VFEPD_PlasteelShortCupboard.description>
+            <VFEPD_SilverShortCupboard.label>guarda-louça baixo de prata</VFEPD_SilverShortCupboard.label>
+            <VFEPD_SilverShortCupboard.description>Um armário baixo vazio.</VFEPD_SilverShortCupboard.description>
+            <VFEPD_WoodenShortCupboard.label>guarda-louça baixo de madeira</VFEPD_WoodenShortCupboard.label>
+            <VFEPD_WoodenShortCupboard.description>Um armário baixo vazio.</VFEPD_WoodenShortCupboard.description>
+
+        <!-- Short Cupboard With Plates -->
+            <VFEPD_SteelShortCupboardPlates.label>guarda-louça baixo de aço com pratos</VFEPD_SteelShortCupboardPlates.label>
+            <VFEPD_SteelShortCupboardPlates.description>Um armário baixo com alguns pratos.</VFEPD_SteelShortCupboardPlates.description>
+            <VFEPD_PlasteelShortCupboardPlates.label>guarda-louça baixo de plastiaço com pratos</VFEPD_PlasteelShortCupboardPlates.label>
+            <VFEPD_PlasteelShortCupboardPlates.description>Um armário baixo com alguns pratos.</VFEPD_PlasteelShortCupboardPlates.description>
+            <VFEPD_SilverShortCupboardPlates.label>guarda-louça baixo de prata com pratos</VFEPD_SilverShortCupboardPlates.label>
+            <VFEPD_SilverShortCupboardPlates.description>Um armário baixo com alguns pratos.</VFEPD_SilverShortCupboardPlates.description>
+            <VFEPD_WoodenShortCupboardPlates.label>guarda-louça baixo de madeira com pratos</VFEPD_WoodenShortCupboardPlates.label>
+            <VFEPD_WoodenShortCupboardPlates.description>Um armário baixo com alguns pratos.</VFEPD_WoodenShortCupboardPlates.description>
+
+        <!-- Desk -->
+            <VFEPD_Desk.label>escrivaninha</VFEPD_Desk.label>
+            <VFEPD_Desk.description>Uma grande mesa.</VFEPD_Desk.description>
+
+        <!-- Coffe Table -->
+            <VFEPD_CoffeeTable.label>mesa de centro (2x1)</VFEPD_CoffeeTable.label>
+            <VFEPD_CoffeeTable.description>Uma mesa de centro.</VFEPD_CoffeeTable.description>
+            <VFEPD_CoffeeTableSmall.label>mesa de centro (1x1)</VFEPD_CoffeeTableSmall.label>
+            <VFEPD_CoffeeTableSmall.description>Uma mesa de centro.</VFEPD_CoffeeTableSmall.description>
+
+        <!-- Divider -->
+            <VFEPD_SteelDivider.label>divisória de aço</VFEPD_SteelDivider.label>
+            <VFEPD_SteelDivider.description>Uma divisória alta e intransponível.</VFEPD_SteelDivider.description> 
+            <VFEPD_PlasteelDivider.label>divisória de plastiaço</VFEPD_PlasteelDivider.label>
+            <VFEPD_PlasteelDivider.description>Uma divisória alta e intransponível.</VFEPD_PlasteelDivider.description>
+            <VFEPD_SilverDivider.label>divisória de prata</VFEPD_SilverDivider.label>
+            <VFEPD_SilverDivider.description>Uma divisória alta e intransponível.</VFEPD_SilverDivider.description>
+            <VFEPD_WoodenDivider.label>divisória de madeira</VFEPD_WoodenDivider.label>
+            <VFEPD_WoodenDivider.description>Uma divisória alta e intransponível.</VFEPD_WoodenDivider.description>
+
+        <!-- Plank Divider -->
+            <VFEPD_SteelPlankDivider.label>divisória ripada de aço</VFEPD_SteelPlankDivider.label>
+            <VFEPD_SteelPlankDivider.description>Uma divisória alta e intransponível.</VFEPD_SteelPlankDivider.description>
+            <VFEPD_PlasteelPlankDivider.label>divisória ripada de plastiaço</VFEPD_PlasteelPlankDivider.label>
+            <VFEPD_PlasteelPlankDivider.description>Uma divisória alta e intransponível.</VFEPD_PlasteelPlankDivider.description>
+            <VFEPD_SilverPlankDivider.label>divisória ripada de prata</VFEPD_SilverPlankDivider.label>
+            <VFEPD_SilverPlankDivider.description>Uma divisória alta e intransponível.</VFEPD_SilverPlankDivider.description>
+            <VFEPD_WoodenPlankDivider.label>divisória ripada de madeira</VFEPD_WoodenPlankDivider.label>
+            <VFEPD_WoodenPlankDivider.description>Uma divisória alta e intransponível.</VFEPD_WoodenPlankDivider.description>
+
+        <!-- Mirror -->
+            <VFEPD_SteelMirror.label>espelho de aço</VFEPD_SteelMirror.label>
+            <VFEPD_SteelMirror.description>Um espelho vertical.</VFEPD_SteelMirror.description>
+            <VFEPD_PlasteelMirror.label>espelho de plastiaço</VFEPD_PlasteelMirror.label>
+            <VFEPD_PlasteelMirror.description>Um espelho vertical.</VFEPD_PlasteelMirror.description>
+            <VFEPD_SilverMirror.label>espelho de prata</VFEPD_SilverMirror.label>
+            <VFEPD_SilverMirror.description>Um espelho vertical.</VFEPD_SilverMirror.description>
+            <VFEPD_WoodenMirror.label>espelho de madeira</VFEPD_WoodenMirror.label>
+            <VFEPD_WoodenMirror.description>Um espelho vertical.</VFEPD_WoodenMirror.description>
+
+        <!-- Vending Machine -->
+            <VFEPD_SteelVendingMachine.label>máquina de vendas de aço</VFEPD_SteelVendingMachine.label>
+            <VFEPD_SteelVendingMachine.description>Uma máquina de vendas automática não funcional.</VFEPD_SteelVendingMachine.description>
+            <VFEPD_PlasteelVendingMachine.label>máquina de vendas de plastiaço</VFEPD_PlasteelVendingMachine.label>
+            <VFEPD_PlasteelVendingMachine.description>Uma máquina de vendas automática não funcional.</VFEPD_PlasteelVendingMachine.description>
+            <VFEPD_SilverVendingMachine.label>máquina de vendas de prata</VFEPD_SilverVendingMachine.label>
+            <VFEPD_SilverVendingMachine.description>Uma máquina de vendas automática não funcional.</VFEPD_SilverVendingMachine.description>
+            <VFEPD_WoodenVendingMachine.label>máquina de vendas de madeira</VFEPD_WoodenVendingMachine.label>
+            <VFEPD_WoodenVendingMachine.description>Uma máquina de vendas automática não funcional.</VFEPD_WoodenVendingMachine.description>
+
+        <!-- Washing Machine -->
+            <VFEPD_WashingMachine.label>máquina de lavar</VFEPD_WashingMachine.label>
+            <VFEPD_WashingMachine.description>Uma máquina de lavar.</VFEPD_WashingMachine.description>
+
+        <!-- Warehouse Shelf -->
+            <VFEPD_WarehouseShelfEmpty.label>prateleira de armazém</VFEPD_WarehouseShelfEmpty.label>
+            <VFEPD_WarehouseShelfEmpty.description>Uma prateleira de armazém vazia intransponível.</VFEPD_WarehouseShelfEmpty.description>
+
+        <!-- Warehouse Shelf With Boxes -->
+            <VFEPD_WarehouseShelfBoxes.label>prateleira de armazém com caixas</VFEPD_WarehouseShelfBoxes.label>
+            <VFEPD_WarehouseShelfBoxes.description>Uma prateleira de armazém intransponível com caixas.</VFEPD_WarehouseShelfBoxes.description>
+
+        <!-- Bin Bag -->
+            <VFEPD_BinBag.label>saco de lixo</VFEPD_BinBag.label>
+            <VFEPD_BinBag.description>Uma bolsa preta contendo vários tipos de lixo.</VFEPD_BinBag.description>
+
+        <!-- Large Wooden Box -->
+            <VFEPD_BoxLarge.label>caixote de madeira grande</VFEPD_BoxLarge.label>
+            <VFEPD_BoxLarge.description>Uma caixa de madeira grande com variados conteúdos.</VFEPD_BoxLarge.description>
+
+        <!-- Small Wooden Box -->
+            <VFEPD_BoxSmall.label>caixote de madeira pequena</VFEPD_BoxSmall.label>
+            <VFEPD_BoxSmall.description>Uma caixa de madeira pequena com variados conteúdos.</VFEPD_BoxSmall.description>
+
+        <!-- Large Cardboard Box -->
+            <VFEPD_CardboardBoxLarge.label>caixa de papelão grande</VFEPD_CardboardBoxLarge.label>
+            <VFEPD_CardboardBoxLarge.description>Uma caixa de papelão grande com variados conteúdos.</VFEPD_CardboardBoxLarge.description>
+
+        <!-- Small Cardboard Box -->
+            <VFEPD_CardboardBoxSmall.label>caixa de papelão pequena</VFEPD_CardboardBoxSmall.label>
+            <VFEPD_CardboardBoxSmall.description>Uma caixa de papelão pequena com variados conteúdos.</VFEPD_CardboardBoxSmall.description>
+
+        <!-- Brick Pile -->
+            <VFEPD_BrickPile.label>pilha de tijolos</VFEPD_BrickPile.label>
+            <VFEPD_BrickPile.description>Uma pilha de tijolos.</VFEPD_BrickPile.description>
+
+        <!-- Barrel -->
+            <VFEPD_BarrelGreen.label>barril verde</VFEPD_BarrelGreen.label>
+            <VFEPD_BarrelGreen.description>Um barril metálico verde.</VFEPD_BarrelGreen.description>
+            <VFEPD_BarrelGrey.label>barril cinza</VFEPD_BarrelGrey.label>
+            <VFEPD_BarrelGrey.description>Um barril metálico cinza.</VFEPD_BarrelGrey.description>
+            <VFEPD_BarrelRed.label>barril vermelho</VFEPD_BarrelRed.label>
+            <VFEPD_BarrelRed.description>Um barril metálico vermelho.</VFEPD_BarrelRed.description>
+            <VFEPD_BarrelYellow.label>barril amarelo</VFEPD_BarrelYellow.label>
+            <VFEPD_BarrelYellow.description>Um barril metálico amarelo.</VFEPD_BarrelYellow.description>
+            <VFEPD_BarrelBlue.label>barril azul</VFEPD_BarrelBlue.label>
+            <VFEPD_BarrelBlue.description>Um barril metálico azul.</VFEPD_BarrelBlue.description>
+
+        <!-- Pallet With Cardbooard Boxes -->
+            <VFEPD_PalletCardboard.label>palete com caixas de papelão</VFEPD_PalletCardboard.label>
+            <VFEPD_PalletCardboard.description>Um grande palete com várias caixas de papelão.</VFEPD_PalletCardboard.description>
+
+        <!-- Pallet With Wooden Boxes -->
+            <VFEPD_PalletBoxes.label>palete com caixotes de madeira</VFEPD_PalletBoxes.label>
+            <VFEPD_PalletBoxes.description>Um grande palete com vários caixotes de madeira.</VFEPD_PalletBoxes.description>
+
+        <!-- Pallet -->
+            <VFEPD_Pallet.label>palete</VFEPD_Pallet.label>
+            <VFEPD_Pallet.description>Um grande palete.</VFEPD_Pallet.description>
+
+        <!-- Pallet With Barrels -->
+            <VFEPD_PalletBarrelGreen.label>palete com barris verdes</VFEPD_PalletBarrelGreen.label>
+            <VFEPD_PalletBarrelGreen.description>Barris metálicos verdes em um palete de madeira.</VFEPD_PalletBarrelGreen.description>
+            <VFEPD_PalletBarrelGrey.label>palete com barris cinzas</VFEPD_PalletBarrelGrey.label>
+            <VFEPD_PalletBarrelGrey.description>Barris metálicos cinzas em um palete de madeira.</VFEPD_PalletBarrelGrey.description>
+            <VFEPD_PalletBarrelRed.label>palete com barris vermelhos</VFEPD_PalletBarrelRed.label>
+            <VFEPD_PalletBarrelRed.description>Barris metálicos vermelhos em um palete de madeira.</VFEPD_PalletBarrelRed.description>
+            <VFEPD_PalletBarrelYellow.label>palete com barris amarelos</VFEPD_PalletBarrelYellow.label>
+            <VFEPD_PalletBarrelYellow.description>Barris metálicos amarelos em um palete de madeira.</VFEPD_PalletBarrelYellow.description>
+            <VFEPD_PalletBarrelBlue.label>palete com barris azuis</VFEPD_PalletBarrelBlue.label>
+            <VFEPD_PalletBarrelBlue.description>Barris metálicos azuis em um palete de madeira.</VFEPD_PalletBarrelBlue.description>
+
+        <!-- Cargo Container -->
+            <VFEPD_ContainerGreen.label>contêiner de carga verde</VFEPD_ContainerGreen.label>
+            <VFEPD_ContainerGreen.description>Um contêiner metálico de carga verde. Intransitável. Incapaz de suportar telhados.</VFEPD_ContainerGreen.description>
+            <VFEPD_ContainerGrey.label>contêiner de carga cinza</VFEPD_ContainerGrey.label>
+            <VFEPD_ContainerGrey.description>Um contêiner metálico de carga cinza. Intransitável. Incapaz de suportar telhados.</VFEPD_ContainerGrey.description>
+            <VFEPD_ContainerRed.label>contêiner de carga vermelho</VFEPD_ContainerRed.label>
+            <VFEPD_ContainerRed.description>Um contêiner metálico de carga vermelho. Intransitável. Incapaz de suportar telhados.</VFEPD_ContainerRed.description>
+            <VFEPD_ContainerYellow.label>contêiner de carga amarelo</VFEPD_ContainerYellow.label>
+            <VFEPD_ContainerYellow.description>Um contêiner metálico de carga amarelo. Intransitável. Incapaz de suportar telhados.</VFEPD_ContainerYellow.description>
+            <VFEPD_ContainerBlue.label>contêiner de carga azul</VFEPD_ContainerBlue.label>
+            <VFEPD_ContainerBlue.description>Um contêiner metálico de carga azul. Intransitável. Incapaz de suportar telhados.</VFEPD_ContainerBlue.description>
+
+        <!-- Stack of Pipes -->
+            <VFEPD_Pipes.label>pilha de canos</VFEPD_Pipes.label>
+            <VFEPD_Pipes.description>Uma grande pilha de canos industriais.</VFEPD_Pipes.description>
+
+        <!-- Stack of Planks -->
+            <VFEPD_Planks.label>pilha de tábuas</VFEPD_Planks.label>
+            <VFEPD_Planks.description>Uma grande pilha de tábuas de madeira.</VFEPD_Planks.description>
+
+        <!-- Cone -->
+            <VFEPD_Cone.label>cone</VFEPD_Cone.label>
+            <VFEPD_Cone.description>Um cone de rua industrial.</VFEPD_Cone.description>
+
+        <!-- Concrete Bags -->
+            <VFEPD_ConcreteBags.label>sacos de concreto</VFEPD_ConcreteBags.label>
+            <VFEPD_ConcreteBags.description>Uma grande pilha de sacos de concreto.</VFEPD_ConcreteBags.description>
+
+        <!-- Water Tank -->
+            <VFEPD_WaterTank.label>caixa d'água</VFEPD_WaterTank.label>
+            <VFEPD_WaterTank.description>Uma caixa d'água industrial.</VFEPD_WaterTank.description>
+
+        <!-- Ventilation Shaft -->
+            <VFEPD_VentilationShaft.label>poço de ventilação</VFEPD_VentilationShaft.label>
+            <VFEPD_VentilationShaft.description>Um poço para um sistema de ventilação.</VFEPD_VentilationShaft.description>
+
+        <!-- Eletrical Cabinet -->
+            <VFEPD_ElectricalCabinet.label>cabine elétrica</VFEPD_ElectricalCabinet.label>
+            <VFEPD_ElectricalCabinet.description>Um pequeno armário de metal contendo circuitos elétricos e fusíveis.</VFEPD_ElectricalCabinet.description>
+
+        <!-- Lockers -->
+            <VFEPD_Lockers.label>armários</VFEPD_Lockers.label>
+            <VFEPD_Lockers.description>Uma unidade de armário de metal, permitindo que trabalhadores guardem seus pertences valiosos.</VFEPD_Lockers.description>
+
+        <!-- Gas Tank -->
+            <VFEPD_GasTank.label>tanque de gás</VFEPD_GasTank.label>
+            <VFEPD_GasTank.description>Um grande tanque de gás metálico.</VFEPD_GasTank.description>
+
+        <!-- Brewing Barrel -->
+            <VFEPD_BrewingBarrel.label>barril de fermentação</VFEPD_BrewingBarrel.label>
+            <VFEPD_BrewingBarrel.description>Um grande barril de fermentação vazio.</VFEPD_BrewingBarrel.description>
+
+        <!-- Cooker -->
+            <VFEPD_Cooker.label>fogão</VFEPD_Cooker.label>
+            <VFEPD_Cooker.description>Um fogão.</VFEPD_Cooker.description>
+
+        <!-- Microwave -->
+            <VFEPD_Microwave.label>micro-ondas</VFEPD_Microwave.label>
+            <VFEPD_Microwave.description>Um dispositivo de micro-ondas de mesa.</VFEPD_Microwave.description>
+
+        <!-- Oven -->
+            <VFEPD_Oven.label>forno</VFEPD_Oven.label>
+            <VFEPD_Oven.description>Um grande forno.</VFEPD_Oven.description>
+
+        <!-- Fridge -->
+            <VFEPD_Fridge.label>geladeira</VFEPD_Fridge.label>
+            <VFEPD_Fridge.description>Uma grande geladeira com um refrigerador embutido.</VFEPD_Fridge.description>
+
+        <!-- Water Dispenser -->
+            <VFEPD_WaterDispenser.label>bebedouro</VFEPD_WaterDispenser.label>
+            <VFEPD_WaterDispenser.description>Um grande bebedouro de água potável de coluna.</VFEPD_WaterDispenser.description>
+
+        <!-- Food Trolley -->
+            <VFEPD_FoodTrolley.label>carrinho de comida</VFEPD_FoodTrolley.label>
+            <VFEPD_FoodTrolley.description>Um carrinho de quatro rodas para pratos vazios e bandejas de comida.</VFEPD_FoodTrolley.description>
+
+        <!-- Kitchen Surface -->
+            <VFEPD_KitchenSurface.label>bancada de cozinha</VFEPD_KitchenSurface.label>
+            <VFEPD_KitchenSurface.description>Uma bancada de cozinha simples com uma tábua de cortar.</VFEPD_KitchenSurface.description>
+
+        <!-- Kitchen Surface Empty -->
+            <VFEPD_KitchenSurfaceEmpty.label>bancada de cozinha vazia</VFEPD_KitchenSurfaceEmpty.label>
+            <VFEPD_KitchenSurfaceEmpty.description>Uma bancada de cozinha simples.</VFEPD_KitchenSurfaceEmpty.description>
+
+        <!-- Kitchen Sink -->
+            <VFEPD_KitchenSink.label>pia de cozinha</VFEPD_KitchenSink.label>
+            <VFEPD_KitchenSink.description>Uma longa pia de cozinha.</VFEPD_KitchenSink.description>
+
+        <!-- Wine Rack -->
+            <VFEPD_WineRack.label>prateleira de vinhos</VFEPD_WineRack.label>
+            <VFEPD_WineRack.description>Uma prateleira de armazenamento de vinhos.</VFEPD_WineRack.description>
+
+        <!-- Mop Bucket -->
+            <VFEPD_MopBucket.label>balde de esfregão</VFEPD_MopBucket.label>
+            <VFEPD_MopBucket.description>Um balde de esfregão esterilizado. Ideal para limpeza.</VFEPD_MopBucket.description>
+
+        <!-- Cooking Appliances -->
+            <VFEPD_CookingAppliances.label>panela</VFEPD_CookingAppliances.label>
+            <VFEPD_CookingAppliances.description>Um único aparelho de cozinha.</VFEPD_CookingAppliances.description>
+
+        <!-- Cutting Board -->
+            <VFEPD_CuttingBoard.label>tábua de cortar</VFEPD_CuttingBoard.label>
+            <VFEPD_CuttingBoard.description>Uma tábua de madeira.</VFEPD_CuttingBoard.description>
+
+        <!-- Knives -->
+            <VFEPD_Knives.label>facas</VFEPD_Knives.label>
+            <VFEPD_Knives.description>Um conjunto de facas de cozinha.</VFEPD_Knives.description>
+
+        <!-- Dinner Set -->
+            <VFEPD_DinnerSet.label>conjunto de jantar</VFEPD_DinnerSet.label>
+            <VFEPD_DinnerSet.description>Um jogo de jantar simples contendo todos os utensílios necessários.</VFEPD_DinnerSet.description>
+
+        <!-- Spices -->
+            <VFEPD_Spices.label>especiarias</VFEPD_Spices.label>
+            <VFEPD_Spices.description>Uma grande variedade de especiarias.</VFEPD_Spices.description>
+
+        <!-- Anvil -->
+            <VFEPD_Anvil.label>bigorna</VFEPD_Anvil.label>
+            <VFEPD_Anvil.description>Uma bigorna de forja pesada.</VFEPD_Anvil.description>
+
+        <!-- Empty Armor Stand -->
+            <VFEPD_ArmorStandEmpty.label>suporte de armadura vazio</VFEPD_ArmorStandEmpty.label>
+            <VFEPD_ArmorStandEmpty.description>Um suporte de armadura. Atualmente não há nenhuma armadura nele.</VFEPD_ArmorStandEmpty.description>
+
+        <!-- Full Armor Stand -->
+            <VFEPD_ArmorStandFull.label>suporte de armadura completo</VFEPD_ArmorStandFull.label>
+            <VFEPD_ArmorStandFull.description>Um suporte de armadura. Há uma armadura de placas nele.</VFEPD_ArmorStandFull.description>
+
+        <!-- Arrow Cage -->
+            <VFEPD_ArrowCage.label>cesta de flechas</VFEPD_ArrowCage.label>
+            <VFEPD_ArrowCage.description>Uma pequena cesta de metal com flechas.</VFEPD_ArrowCage.description>
+
+        <!-- Banner -->
+            <VFEPD_Banner.label>estandarte</VFEPD_Banner.label>
+            <VFEPD_Banner.description>Um estandarte decorativo pendurado em uma moldura de madeira vertical.</VFEPD_Banner.description>
+
+        <!-- Empty Brazier -->
+            <VFEPD_BrazierEmpty.label>braseiro vazio</VFEPD_BrazierEmpty.label>
+            <VFEPD_BrazierEmpty.description>Uma mobília em forma de tigela usada para manter o fogo.</VFEPD_BrazierEmpty.description>
+
+        <!-- Empty Bucket -->
+            <VFEPD_BucketEmpty.label>balde vazio</VFEPD_BucketEmpty.label>
+            <VFEPD_BucketEmpty.description>Um balde de madeira.</VFEPD_BucketEmpty.description>
+
+        <!-- Water Bucket -->
+            <VFEPD_BucketwithWater.label>balde de água</VFEPD_BucketwithWater.label>
+            <VFEPD_BucketwithWater.description>Um balde de madeira cheio de água.</VFEPD_BucketwithWater.description>
+
+        <!-- Cage Brazier -->
+            <VFEPD_CageBrazier.label>cesta</VFEPD_CageBrazier.label>
+            <VFEPD_CageBrazier.description>Uma cesta de metal em forma de braseiro vazio.</VFEPD_CageBrazier.description>
+
+        <!-- Wooden Chest -->
+            <VFEPD_WoodenChest.label>baú de madeira</VFEPD_WoodenChest.label>
+            <VFEPD_WoodenChest.description>Um baú de madeira de tamanho médio.</VFEPD_WoodenChest.description>
+
+        <!-- Large Wooden Chest -->
+            <VFEPD_WoodenChestLarge.label>baú grande de madeira</VFEPD_WoodenChestLarge.label>
+            <VFEPD_WoodenChestLarge.description>Um grande baú de madeira.</VFEPD_WoodenChestLarge.description>
+
+        <!-- Empty Weapon Rack -->
+            <VFEPD_WeaponRackEmpty.label>porta-armas vazio</VFEPD_WeaponRackEmpty.label>
+            <VFEPD_WeaponRackEmpty.description>Um longo suporte para armas. Não há nenhuma arma nele.</VFEPD_WeaponRackEmpty.description>
+
+        <!-- Sword Weapon Rack -->
+            <VFEPD_WeaponRackSwords.label>porta-armas com espadas</VFEPD_WeaponRackSwords.label>
+            <VFEPD_WeaponRackSwords.description>Um longo suporte para armas. Há uma seleção de espadas nele.</VFEPD_WeaponRackSwords.description>
+
+        <!-- Spears Weapon Rack -->
+            <VFEPD_WeaponRackSpears.label>porta-armas com lanças</VFEPD_WeaponRackSpears.label>
+            <VFEPD_WeaponRackSpears.description>Um longo suporte para armas. Há uma seleção de lanças nele.</VFEPD_WeaponRackSpears.description>
+
+        <!-- Wooden Sign -->
+            <VFEPD_WoodenSign.label>placa de madeira</VFEPD_WoodenSign.label>
+            <VFEPD_WoodenSign.description>Um poste alto com placas apontando em diferentes direções.</VFEPD_WoodenSign.description>
+
+        <!-- Tanning Rack -->
+            <VFEPD_TanningRack.label>sapateira de couro</VFEPD_TanningRack.label>
+            <VFEPD_TanningRack.description>Uma sapateira com uma pele nela.</VFEPD_TanningRack.description>
+
+        <!-- Wooden Platform -->
+            <VFEPD_WoodenPlatform.label>plataforma de madeira</VFEPD_WoodenPlatform.label>
+            <VFEPD_WoodenPlatform.description>Uma plataforma de madeira.</VFEPD_WoodenPlatform.description>
+
+        <!-- Cage Platform -->
+            <VFEPD_CagePlatform.label>plataforma de aço</VFEPD_CagePlatform.label>
+            <VFEPD_CagePlatform.description>Uma plataforma de aço.</VFEPD_CagePlatform.description>
+
+        <!-- Glowstool -->
+            <VFEPD_Glowstool.label>brilhanco</VFEPD_Glowstool.label>
+            <VFEPD_Glowstool.description>Um pequeno cogumelo marrom falso, normalmente encontrado em cavernas. Cheira a um trapo velho e sujo tirado da barriga de um muffalo podre - mas tem um gosto surpreendentemente bom quando cozido.</VFEPD_Glowstool.description>
+
+        <!-- Agarilux -->
+            <VFEPD_Agarilux.label>agariluz</VFEPD_Agarilux.label>
+            <VFEPD_Agarilux.description>Um cogumelo roxo enorme e falso. Seu tamanho e saliências brilhantes tornam esse fungo bonito de se olhar.</VFEPD_Agarilux.description>
+
+        <!-- Bryolux -->
+            <VFEPD_Bryolux.label>brioluz</VFEPD_Bryolux.label>
+            <VFEPD_Bryolux.description>Um musgo azul falso normalmente encontrado em cavernas profundas e escuras. É pegajoso, com fibras emaranhadas, o que retarda qualquer pessoa que ande sobre ele.</VFEPD_Bryolux.description>
+
+        <!-- Rose -->
+            <VFEPD_Rose.label>rosa</VFEPD_Rose.label>
+            <VFEPD_Rose.description>Uma bela flor cultivada falsa, a rosa é um símbolo do amor desde a antiguidade da Terra.</VFEPD_Rose.description>
+
+        <!-- Daylily -->
+            <VFEPD_Daylily.label>hemerocallis</VFEPD_Daylily.label>
+            <VFEPD_Daylily.description>Uma flor falsa cultivada com pétalas largas e uma vida útil curta. Os hemerocallis são muito bonitos, mas devem ser replantados com frequência.</VFEPD_Daylily.description>
+
+        <!-- Rice Plant -->
+            <VFEPD_Rice.label>planta de arroz</VFEPD_Rice.label>
+            <VFEPD_Rice.description>Uma safra falsa, curta e de crescimento rápido que rende pequenos grãos comestíveis. Sua grande produção nutricional e facilidade de cultivo a tornaram o centro econômico de muitas grandes civilizações. Embora o arroz cresça rapidamente, é sensível à fertilidade do solo e não se dá bem em solos pobres.</VFEPD_Rice.description>
+
+        <!-- Potato Plant -->
+            <VFEPD_Potato.label>planta de batata</VFEPD_Potato.label>
+            <VFEPD_Potato.description>Um tubérculo falso e altamente nutritivo. Batatas crescem bem, mesmo em solos um tanto pobres, e formam uma deliciosa camada externa crocante quando fritas em óleo.</VFEPD_Potato.description>
+
+        <!-- Corn Plant -->
+            <VFEPD_Corn.label>planta de milho</VFEPD_Corn.label>
+            <VFEPD_Corn.description>Uma planta de grãos altos falsos que produz espigas de sementes macias e comestíveis. Embora o milho leve muito tempo para crescer, rende muito alimento em comparação com outras culturas. O milho colhido leva muito tempo para estragar.</VFEPD_Corn.description>
+
+        <!-- Strawberry Plant -->
+            <VFEPD_Strawberry.label>planta de morango</VFEPD_Strawberry.label>
+            <VFEPD_Strawberry.description>Uma planta falsa e baixa, semelhante a um arbusto, que produz morangos frágeis, mas deliciosos. Embora não seja tão produtivo em termos de caloria quanto outras safras, os morangos são deliciosos mesmo quando crus.</VFEPD_Strawberry.description>
+
+        <!-- Haygrass -->
+            <VFEPD_Haygrass.label>feno</VFEPD_Haygrass.label>
+            <VFEPD_Haygrass.description>Uma falsa mistura de gramíneas ricas em nutrientes que produzem grandes quantidades de feno. O feno é comestível para animais, mas não para humanos.</VFEPD_Haygrass.description>
+
+        <!-- Cotton Plant -->
+            <VFEPD_Cotton.label>planta de algodão</VFEPD_Cotton.label>
+            <VFEPD_Cotton.description>Uma safra falsa de tamanho médio que rende finas fibras de algodão branco. Usados ​​para fabricação de tecidos.</VFEPD_Cotton.description>
+
+        <!-- Devilstrand -->
+            <VFEPD_Devilstrand.label>fio do diabo</VFEPD_Devilstrand.label>
+            <VFEPD_Devilstrand.description>Este falso cogumelo frágil foi geneticamente modificado para produzir uma rede de seda que é difícil de rasgar e macia ao toque. Embora o cogumelo demore muito para crescer, apenas os tecidos exóticos e ultra-tecnológicos superam as fibras do diabo.\n\nAlguns dizem que ele é chamado de fio do diabo por causa de sua cor vermelha. Outros acham que deve seu nome à ganância que inspira nas pessoas.</VFEPD_Devilstrand.description>
+
+        <!-- Healroot -->
+            <VFEPD_Healroot.label>raiz da cura</VFEPD_Healroot.label>
+            <VFEPD_Healroot.description>Uma planta falsa de crescimento lento que produz fitoterápicos quando colhida. Semear e colher raízes da cura são tarefas muito trabalhosas por causa de seus brotos delicados.\n\nA raiz da cura foi cultivada seletivamente por séculos por colonos. Às vezes também é chamada de "mão do curandeiro" pelas tribos - um apelido que deve às suas cinco principais virtudes medicinais.</VFEPD_Healroot.description>
+
+        <!-- Hop Plant -->
+            <VFEPD_Hops.label>planta de lúpulo</VFEPD_Hops.label>
+            <VFEPD_Hops.description>Uma safra com flores falsas que rende lúpulo, um ingrediente essencial da cerveja.</VFEPD_Hops.description>
+
+        <!-- Smokeleaf Plant -->
+            <VFEPD_Smokeleaf.label>planta de folha de fumo</VFEPD_Smokeleaf.label>
+            <VFEPD_Smokeleaf.description>Uma safra de folhas falsas cultivada para os efeitos psicológicos de produtos químicos em suas folhas. Folhas-de-fumo podem ser preparadas em juntas no local de fabricação e fazem o usuário se sentir relaxado, mas reduz a motivação e pode ser viciante.</VFEPD_Smokeleaf.description>
+
+        <!-- Psychoid Plant -->
+            <VFEPD_Psychoid.label>planta psicóide</VFEPD_Psychoid.label>
+            <VFEPD_Psychoid.description>Uma planta com folhas falsas que gera o composto químico psiquita. Originalmente desenvolvido como um mecanismo de defesa para afastar animais herbívoros ao superestimá-los e adoecê-los, a droga pode ser extraída e refinada em várias formas para uso recreativo. Viciante.</VFEPD_Psychoid.description>
+
+        <!-- Burned Tree -->
+            <VFEPD_BurnedTree.label>árvore queimada</VFEPD_BurnedTree.label>
+            <VFEPD_BurnedTree.description>Um toco de árvore queimado falso. É feio e não produz madeira utilizável.</VFEPD_BurnedTree.description>
+
+        <!-- Willow Tree -->
+            <VFEPD_WillowTree.label>salgueiro</VFEPD_WillowTree.label>
+            <VFEPD_WillowTree.description>Uma das árvores de sombra de crescimento mais rápido, os salgueiros falsos proporcionam uma bela copa frondosa. Não rende muita madeira utilizável.</VFEPD_WillowTree.description>
+
+        <!-- Cypress Tree -->
+            <VFEPD_CypressTree.label>cipreste</VFEPD_CypressTree.label>
+            <VFEPD_CypressTree.description>Uma árvore conífera falsa e alta, frequentemente encontrada em pântanos. Apesar de seu crescimento lento, o plantio dessas árvores pode ser lucrativo como um investimento de baixo esforço e longo prazo, porque rendem muita madeira utilizável.</VFEPD_CypressTree.description>
+
+        <!-- Maple Tree -->
+            <VFEPD_MapleTree.label>carvalho silvestre</VFEPD_MapleTree.label>
+            <VFEPD_MapleTree.description>Uma falsa árvore comum de tamanho médio, facilmente identificável por sua folha distinta de três pontas.</VFEPD_MapleTree.description>
+
+        <!-- Chokevine -->
+            <VFEPD_Chokevine.label>videira sufocante</VFEPD_Chokevine.label>
+            <VFEPD_Chokevine.description>Uma massa falsa e emaranhada de vinhas pontiagudas que se enrolam em grandes massas ao longo do solo. A videira sufocante desacelera qualquer um que passar por cima dela. Várias tribos geraram, de forma independente, histórias de videiras sufocantes estrangulando crianças até a morte durante a noite, como uma forma de assustar os menores para que voltassem para casa antes de escurecer.</VFEPD_Chokevine.description>
+
+        <!-- Oak Tree -->
+            <VFEPD_OakTree.label>carvalho</VFEPD_OakTree.label>
+            <VFEPD_OakTree.description>Uma árvore de madeira falsa. Carvalhos demoram muito para crescer, mas sua madeira é tão forte que 'carvalho' é usado como uma metáfora para força em muitas culturas.</VFEPD_OakTree.description>
+
+        <!-- Poplar Tree -->
+            <VFEPD_PoplarTree.label>choupo</VFEPD_PoplarTree.label>
+            <VFEPD_PoplarTree.description>Uma falsa árvore de madeira macia que cresce muito rápido. Infelizmente, sua madeira é fraca e, portanto, produz menos material útil do que as árvores de madeira dura.</VFEPD_PoplarTree.description>
+
+        <!-- Pine Tree -->
+            <VFEPD_PineTree.label>pinheiro</VFEPD_PineTree.label>
+            <VFEPD_PineTree.description>Uma grande conífera falsa coberta com pinhas espinhosas. Cresce em uma forma cônica distinta.</VFEPD_PineTree.description>
+
+        <!-- Birch Tree -->
+            <VFEPD_BirchTree.label>árvore de vidoeiro</VFEPD_BirchTree.label>
+            <VFEPD_BirchTree.description>Uma falsa árvore de bioma temperado conhecida por sua casca fina e branca como papel.</VFEPD_BirchTree.description>
+
+        <!-- Teak Tree -->
+            <VFEPD_TeakTree.label>árvore de teca</VFEPD_TeakTree.label>
+            <VFEPD_TeakTree.description>Uma árvore de madeira falsa excepcionalmente forte que cresce em climas quentes. Como a madeira de teca é tão durável e resistente à água, foi usada para formar a quilha de navios à vela de madeira nos tempos antigos.</VFEPD_TeakTree.description>
+
+        <!-- Cecropia Tree -->
+            <VFEPD_CecropiaTree.label>cecropia</VFEPD_CecropiaTree.label>
+            <VFEPD_CecropiaTree.description>Uma das árvores mais comuns da floresta tropical. A cecropia cresce muito rápido, mas produz pouca madeira utilizável.</VFEPD_CecropiaTree.description>
+
+        <!-- Palm Tree -->
+            <VFEPD_PalmTree.label>palmeira</VFEPD_PalmTree.label>
+            <VFEPD_PalmTree.description>Uma falsa árvore tropical com um tronco alto e nu encimado por um cacho de folhas muito largas. Infelizmente, esta variedade não produz cocos comestíveis.</VFEPD_PalmTree.description>
+
+        <!-- Bamboo Tree -->
+            <VFEPD_BambooTree.label>árvore de bambu</VFEPD_BambooTree.label>
+            <VFEPD_BambooTree.description>Uma falsa planta semelhante a uma árvore de crescimento rápido que cresce em bosques densos. O bambu pode ser colhido para um material semelhante a madeira. A planta em si não é bonita.</VFEPD_BambooTree.description>
+
+        <!-- Drago Tree -->
+            <VFEPD_DragoTree.label>árvore dragão</VFEPD_DragoTree.label>
+            <VFEPD_DragoTree.description>Uma falsa árvore do deserto resistente com folhas grossas e pontudas no topo.</VFEPD_DragoTree.description>
+
+        <!-- Saguaro Cactus -->
+            <VFEPD_SaguaroCactus.label>cacto saguaro</VFEPD_SaguaroCactus.label>
+            <VFEPD_SaguaroCactus.description>Um grande cacto falso, nativo de ambientes áridos da Terra. Embora não seja uma árvore, produz uma pequena quantidade de material fibroso que pode ser usado como madeira.</VFEPD_SaguaroCactus.description>
+
+        <!-- Agave -->
+            <VFEPD_Agave.label>agave</VFEPD_Agave.label>
+            <VFEPD_Agave.description>Uma falsa planta do deserto com folhas grandes, flores e caules comestíveis.</VFEPD_Agave.description>
+
+        <!-- Pincushion Cactus -->
+            <VFEPD_PincushionCactus.label>cacto almofada-de-alfinetes</VFEPD_PincushionCactus.label>
+            <VFEPD_PincushionCactus.description>Um cacto curto falso. É assim chamado porque se assemelha a uma almofada de alfinetes.</VFEPD_PincushionCactus.description>
+
+        <!-- Short Grass -->
+            <VFEPD_GrassShort.label>grama curta</VFEPD_GrassShort.label>
+            <VFEPD_GrassShort.description>Grama selvagem falsa. Cresce em qualquer lugar onde haja pouca luz e solo minimamente fértil.</VFEPD_GrassShort.description>
+
+        <!-- Long Grass -->
+            <VFEPD_GrassLong.label>grama alta</VFEPD_GrassLong.label>
+            <VFEPD_GrassLong.description>Grama alta selvagem falsa. Retarda qualquer um que se mova sobre ela.</VFEPD_GrassLong.description>
+
+        <!-- Bush -->
+            <VFEPD_Bush.label>arbusto</VFEPD_Bush.label>
+            <VFEPD_Bush.description>Um arbusto curto e falso.</VFEPD_Bush.description>
+
+        <!-- Brambles -->
+            <VFEPD_Brambles.label>silvas</VFEPD_Brambles.label>
+            <VFEPD_Brambles.description>Brotos falsos, emaranhados, espinhosos e lenhosos, cobertos por folhas. As silvas crescem em grupos e atrasam qualquer pessoa que se mova por cima delas.</VFEPD_Brambles.description>
+
+        <!-- Berry Bush -->
+            <VFEPD_BerryBush.label>arbusto de framboesa</VFEPD_BerryBush.label>
+            <VFEPD_BerryBush.description>Uma falsa planta selvagem espessa que rende deliciosas frutas silvestres. Bagas podem ser cozidas, mas também são boas para comer, mesmo quando cruas.</VFEPD_BerryBush.description>
+
+        <!-- Alocasia -->
+            <VFEPD_Alocasia.label>alocasia</VFEPD_Alocasia.label>
+            <VFEPD_Alocasia.description>Uma planta tropical falsa. Suas folhas extremamente largas são um significante comumente reconhecido de florestas tropicais.</VFEPD_Alocasia.description>
+
+        <!-- Clivia -->
+            <VFEPD_Clivia.label>clivia</VFEPD_Clivia.label>
+            <VFEPD_Clivia.description>Uma planta incomum com flores altas e bonitas. Alguns a chamam de 'lírio do mato'.</VFEPD_Clivia.description>
+
+        <!-- Giant Rafflesia -->    
+            <VFEPD_Rafflesia.label>rafflesia gigante</VFEPD_Rafflesia.label>
+            <VFEPD_Rafflesia.description>Uma flor rara e gigante que pode ser encontrada nas selvas fumegantes. Você pensaria que uma flor gigante seria linda, mas esta parece e cheira a carne podre.</VFEPD_Rafflesia.description>
+
+        <!-- Advanced Rotor -->
+            <VFEPD_AdvancedRotor.label>rotor avançado</VFEPD_AdvancedRotor.label>
+            <VFEPD_AdvancedRotor.description>Uma unidade de rotor avançada.</VFEPD_AdvancedRotor.description>
+
+        <!-- Rotor -->
+            <VFEPD_Rotor.label>rotor</VFEPD_Rotor.label>
+            <VFEPD_Rotor.description>Uma unidade de rotor.</VFEPD_Rotor.description>
+
+        <!-- Battery -->
+            <VFEPD_Battery.label>bateria</VFEPD_Battery.label>
+            <VFEPD_Battery.description>Um dispositivo simples que armazena energia. Essa está fora de serviço.</VFEPD_Battery.description>
+
+        <!-- Exhaust -->
+            <VFEPD_Exhaust.label>exaustor</VFEPD_Exhaust.label>
+            <VFEPD_Exhaust.description>Uma porta de exaustão para os fumos do industrialismo.</VFEPD_Exhaust.description>
+
+        <!-- Small Exhaust -->
+            <VFEPD_SmallExhaust.label>exaustor pequeno</VFEPD_SmallExhaust.label>
+            <VFEPD_SmallExhaust.description>Uma porta de exaustão pequena para os fumos do industrialismo.</VFEPD_SmallExhaust.description>
+
+        <!-- Generator -->
+            <VFEPD_Generator.label>gerador</VFEPD_Generator.label>
+            <VFEPD_Generator.description>Uma unidade de gerador muito básica.</VFEPD_Generator.description>
+
+        <!-- Industrial Generator -->
+            <VFEPD_IndustrialGenerator.label>greador industrial</VFEPD_IndustrialGenerator.label>
+            <VFEPD_IndustrialGenerator.description>Uma grande unidade de gerador.</VFEPD_IndustrialGenerator.description>
+
+        <!-- Generator Unit -->
+            <VFEPD_GeneratorUnitLarge.label>unidade de gerador</VFEPD_GeneratorUnitLarge.label>
+            <VFEPD_GeneratorUnitLarge.description>Uma parte de uma unidade de gerador industrial.</VFEPD_GeneratorUnitLarge.description>
+
+        <!-- Small Generator Unit -->
+            <VFEPD_GeneratorUnitSmall.label>unidade de gerador pequena</VFEPD_GeneratorUnitSmall.label>
+            <VFEPD_GeneratorUnitSmall.description>Uma parte pequena de uma unidade de gerador industrial.</VFEPD_GeneratorUnitSmall.description>
+
+        <!-- Gas Storage Unit -->
+            <VFEPD_GasStorageUnit.label>unidade de armazenamento de gás</VFEPD_GasStorageUnit.label>
+            <VFEPD_GasStorageUnit.description>Uma unidade de armazenamento de gás de estilo industrial.</VFEPD_GasStorageUnit.description>
+
+        <!-- Toxic Waste Barrel -->
+            <VFEPD_ToxicWasteBarrel.label>barril de lixo tóxico</VFEPD_ToxicWasteBarrel.label>
+            <VFEPD_ToxicWasteBarrel.description>Um pequeno barril com lixo tóxico.</VFEPD_ToxicWasteBarrel.description>
+
+        <!-- Power Converter -->
+            <VFEPD_PowerConverter.label>conversor de energia</VFEPD_PowerConverter.label>
+            <VFEPD_PowerConverter.description>Uma grande unidade de conversor de energia.</VFEPD_PowerConverter.description>
+
+        <!-- Large Chemfuel Tank -->
+            <VFEPD_ChemfuelTank.label>tanque grande de combustível químico</VFEPD_ChemfuelTank.label>
+            <VFEPD_ChemfuelTank.description>Um grande tanque cheio de combustível químico.</VFEPD_ChemfuelTank.description>
+
+        <!-- Large Liquid Tank -->
+            <VFEPD_LiquidTank.label>tanque grande de líquido</VFEPD_LiquidTank.label>
+            <VFEPD_LiquidTank.description>A large tank filled with water-based liquid.</VFEPD_LiquidTank.description>
+
+        <!-- Large Steel Tank -->
+            <VFEPD_SteelTank.label>tanque grande de aço</VFEPD_SteelTank.label>
+            <VFEPD_SteelTank.description>Um grande tanque de aço.</VFEPD_SteelTank.description>
+
+        <!-- Coal Burner -->
+            <VFEPD_CoalBurner.label>queimador de carvão</VFEPD_CoalBurner.label>
+            <VFEPD_CoalBurner.description>Um queimador de carvão de estilo industrial.</VFEPD_CoalBurner.description>
+
+        <!-- Power Pole -->
+            <VFEPD_PowerPole.label>poste de energia</VFEPD_PowerPole.label>
+            <VFEPD_PowerPole.description>Um poste alto para suporte de cabos.</VFEPD_PowerPole.description>
+
+        <!-- Data Console -->
+            <VFEPD_DataConsole.label>console de dados</VFEPD_DataConsole.label>
+            <VFEPD_DataConsole.description>Um console de dados avançado que aceita vários tipos diferentes de formatação de arquivo.</VFEPD_DataConsole.description>
+
+        <!-- Data Conveyor -->
+            <VFEPD_DataConveyor.label>transportador de dados</VFEPD_DataConveyor.label>
+            <VFEPD_DataConveyor.description>Uma grande caixa contendo cabos e tubos para transferência de dados.</VFEPD_DataConveyor.description>
+
+        <!-- Display Screen -->
+            <VFEPD_DisplayScreen.label>tela de exibição</VFEPD_DisplayScreen.label>
+            <VFEPD_DisplayScreen.description>Uma grande tela de exibição de dados.</VFEPD_DisplayScreen.description>
+
+        <!-- Display Table -->
+            <VFEPD_DisplayTable.label>mesa de exibição</VFEPD_DisplayTable.label>
+            <VFEPD_DisplayTable.description>Uma tela acoplada a uma grande mesa.</VFEPD_DisplayTable.description>
+
+        <!-- Long Command Console -->
+            <VFEPD_LongCommandConsole.label>console de comandos</VFEPD_LongCommandConsole.label>
+            <VFEPD_LongCommandConsole.description>Um console com vários módulos de comando diferentes.</VFEPD_LongCommandConsole.description>
+
+        <!-- Planning Screen -->
+            <VFEPD_PlanningScreen.label>tela de planejamento</VFEPD_PlanningScreen.label>
+            <VFEPD_PlanningScreen.description>Uma tela de vidro, ideal para o planejamento de cenários de combate.</VFEPD_PlanningScreen.description>
+
+        <!-- Planning Table -->
+            <VFEPD_PlanningTable.label>mesa de planejamento</VFEPD_PlanningTable.label>
+            <VFEPD_PlanningTable.description>Uma tela de planejamento acoplada a uma grande mesa.</VFEPD_PlanningTable.description>
+
+        <!-- Triple Display Dashboard -->
+            <VFEPD_TripleDisplay.label>painel de exibição triplo</VFEPD_TripleDisplay.label>
+            <VFEPD_TripleDisplay.description>Um grande painel com várias telas de exibição, para informações atualizadas.</VFEPD_TripleDisplay.description>
+
+        <!-- Spacer Container -->
+            <VFEPD_SpacerContainer.label>contêiner espacial</VFEPD_SpacerContainer.label>
+            <VFEPD_SpacerContainer.description>Uma caixa de tamanho médio, triplamente selada e protegida por senha.</VFEPD_SpacerContainer.description>
+
+        <!-- Spacrer Container Large -->
+            <VFEPD_SpacerContainerLarge.label>contêiner espacial grande</VFEPD_SpacerContainerLarge.label>
+            <VFEPD_SpacerContainerLarge.description>Uma caixa grande, triplamente selada e protegida por senha.</VFEPD_SpacerContainerLarge.description>
+
+        <!-- Spacer Container Stack -->
+            <VFEPD_SpacerContainerStack.label>pilha de contêineres espaciais</VFEPD_SpacerContainerStack.label>
+            <VFEPD_SpacerContainerStack.description>Uma grande pilha de caixas de diferentes tamanhos, triplamente seladas e protegidas por senha.</VFEPD_SpacerContainerStack.description>
+
+        <!-- Advanced Storage Device -->
+            <VFEPD_SpacerStorage.label>dispositivo de armazenamento avançado</VFEPD_SpacerStorage.label>
+            <VFEPD_SpacerStorage.description>Um grande dispositivo de armazenamento avançado com várias câmaras.</VFEPD_SpacerStorage.description>
+
+        <!-- Switch Panel -->
+            <VFEPD_SwitchPanel.label>painel de interruptores</VFEPD_SwitchPanel.label>
+            <VFEPD_SwitchPanel.description>Um painel de tamanho médio contendo várias alavancas e interruptores.</VFEPD_SwitchPanel.description>
+
+        <!-- Server Rack -->
+            <VFEPD_ServerRack.label>servidor</VFEPD_ServerRack.label>
+            <VFEPD_ServerRack.description>Um grande servidor, contendo vários discos rígidos e componentes avançados de computador.</VFEPD_ServerRack.description>
+
+        <!-- Sensor Platform -->
+            <VFEPD_SensorPlatform.label>plataforma de sensor</VFEPD_SensorPlatform.label>
+            <VFEPD_SensorPlatform.description>Uma pequena plataforma contendo uma variedade de sensores.</VFEPD_SensorPlatform.description>
+
+        <!-- Personal Console -->
+            <VFEPD_PersonalConsole.label>console pessoal</VFEPD_PersonalConsole.label>
+            <VFEPD_PersonalConsole.description>Um pequeno console de comunicação pessoal futurista.</VFEPD_PersonalConsole.description>
+
+        <!-- Superpod -->
+            <VFEPD_Superpod.label>super cápsula de transporte</VFEPD_Superpod.label>
+            <VFEPD_Superpod.description>Uma cápsula de transporte descartável grande. Inoperante.</VFEPD_Superpod.description>
+
+        <!-- Skip -->
+            <VFEPD_SkipBlack.label>capitão preto</VFEPD_SkipBlack.label>
+            <VFEPD_SkipBlack.description>Uma espaçonave leve fora de serviço, permitindo que os usuários viajem confortavelmente por uma curta distância.</VFEPD_SkipBlack.description>
+            <VFEPD_SkipWhite.label>capitão branco</VFEPD_SkipWhite.label>
+            <VFEPD_SkipWhite.description>Uma espaçonave leve fora de serviço, permitindo que os usuários viajem confortavelmente por uma curta distância.</VFEPD_SkipWhite.description>
+            <VFEPD_SkipSilver.label>capitão prata</VFEPD_SkipSilver.label>
+            <VFEPD_SkipSilver.description>Uma espaçonave leve fora de serviço, permitindo que os usuários viajem confortavelmente por uma curta distância.</VFEPD_SkipSilver.description>
+            <VFEPD_SkipBlue.label>capitão azul</VFEPD_SkipBlue.label>
+            <VFEPD_SkipBlue.description>Uma espaçonave leve fora de serviço, permitindo que os usuários viajem confortavelmente por uma curta distância.</VFEPD_SkipBlue.description>
+            <VFEPD_SkipRed.label>capitão vermelho</VFEPD_SkipRed.label>
+            <VFEPD_SkipRed.description>Uma espaçonave leve fora de serviço, permitindo que os usuários viajem confortavelmente por uma curta distância.</VFEPD_SkipRed.description>
+
+        <!-- Gunship -->
+            <VFEPD_AlbatrossBlack.label>caça preto</VFEPD_AlbatrossBlack.label>
+            <VFEPD_AlbatrossBlack.description>Uma grande  espaçonave de transporte multi-pessoal inoperante.</VFEPD_AlbatrossBlack.description>
+            <VFEPD_AlbatrossWhite.label>caça branco</VFEPD_AlbatrossWhite.label>
+            <VFEPD_AlbatrossWhite.description>Uma grande  espaçonave de transporte multi-pessoal inoperante.</VFEPD_AlbatrossWhite.description>
+            <VFEPD_AlbatrossSilver.label>caça prata</VFEPD_AlbatrossSilver.label>
+            <VFEPD_AlbatrossSilver.description>Uma grande  espaçonave de transporte multi-pessoal inoperante.</VFEPD_AlbatrossSilver.description>
+            <VFEPD_AlbatrossBlue.label>caça azul</VFEPD_AlbatrossBlue.label>
+            <VFEPD_AlbatrossBlue.description>Uma grande  espaçonave de transporte multi-pessoal inoperante.</VFEPD_AlbatrossBlue.description>
+            <VFEPD_AlbatrossRed.label>caça vermelho</VFEPD_AlbatrossRed.label>
+            <VFEPD_AlbatrossRed.description>Uma grande  espaçonave de transporte multi-pessoal inoperante.</VFEPD_AlbatrossRed.description>
+
+        <!-- Forklift -->
+            <VFEPD_CarForklift.label>empilhadeira</VFEPD_CarForklift.label>
+            <VFEPD_CarForklift.description>Uma empilhadeira de estilo industrial.</VFEPD_CarForklift.description>
+
+        <!-- Delivery Truck -->
+            <VFEPD_CarDeliveryBlack.label>caminhão de entrega preto</VFEPD_CarDeliveryBlack.label>
+            <VFEPD_CarDeliveryBlack.description>Um grande caminhão de entrega.</VFEPD_CarDeliveryBlack.description>
+            <VFEPD_CarDeliveryWhite.label>caminhão de entrega branco</VFEPD_CarDeliveryWhite.label>
+            <VFEPD_CarDeliveryWhite.description>Um grande caminhão de entrega.</VFEPD_CarDeliveryWhite.description>
+            <VFEPD_CarDeliverySilver.label>caminhão de entrega prata</VFEPD_CarDeliverySilver.label>
+            <VFEPD_CarDeliverySilver.description>Um grande caminhão de entrega.</VFEPD_CarDeliverySilver.description>
+            <VFEPD_CarDeliveryBlue.label>caminhão de entrega azul</VFEPD_CarDeliveryBlue.label>
+            <VFEPD_CarDeliveryBlue.description>Um grande caminhão de entrega.</VFEPD_CarDeliveryBlue.description>
+            <VFEPD_CarDeliveryRed.label>caminhão de entrega vermelho</VFEPD_CarDeliveryRed.label>
+            <VFEPD_CarDeliveryRed.description>Um grande caminhão de entrega.</VFEPD_CarDeliveryRed.description>
+
+        <!-- Family Car -->
+            <VFEPD_CarFamilyBlack.label>carro de família preto</VFEPD_CarFamilyBlack.label>
+            <VFEPD_CarFamilyBlack.description>Um carro de família.</VFEPD_CarFamilyBlack.description>
+            <VFEPD_CarFamilyWhite.label>carro de família branco</VFEPD_CarFamilyWhite.label>
+            <VFEPD_CarFamilyWhite.description>Um carro de família.</VFEPD_CarFamilyWhite.description>
+            <VFEPD_CarFamilySilver.label>carro de família prata</VFEPD_CarFamilySilver.label>
+            <VFEPD_CarFamilySilver.description>Um carro de família.</VFEPD_CarFamilySilver.description>
+            <VFEPD_CarFamilyBlue.label>carro de família azul</VFEPD_CarFamilyBlue.label>
+            <VFEPD_CarFamilyBlue.description>Um carro de família.</VFEPD_CarFamilyBlue.description>
+            <VFEPD_CarFamilyRed.label>carro de família vermelho</VFEPD_CarFamilyRed.label>
+            <VFEPD_CarFamilyRed.description>Um carro de família.</VFEPD_CarFamilyRed.description>
+
+        <!-- Pickup Truck -->
+            <VFEPD_CarPickupBlack.label>caminhonete preta</VFEPD_CarPickupBlack.label>
+            <VFEPD_CarPickupBlack.description>Uma caminhonete.</VFEPD_CarPickupBlack.description>
+            <VFEPD_CarPickupWhite.label>caminhonete branca</VFEPD_CarPickupWhite.label>
+            <VFEPD_CarPickupWhite.description>Uma caminhonete.</VFEPD_CarPickupWhite.description>
+            <VFEPD_CarPickupSilver.label>caminhonete prata</VFEPD_CarPickupSilver.label>
+            <VFEPD_CarPickupSilver.description>Uma caminhonete.</VFEPD_CarPickupSilver.description>
+            <VFEPD_CarPickupBlue.label>caminhonete azul</VFEPD_CarPickupBlue.label>
+            <VFEPD_CarPickupBlue.description>Uma caminhonete.</VFEPD_CarPickupBlue.description>
+            <VFEPD_CarPickupRed.label>caminhonete vermelha</VFEPD_CarPickupRed.label>
+            <VFEPD_CarPickupRed.description>Uma caminhonete.</VFEPD_CarPickupRed.description>
+
+        <!-- Vintage Car -->
+            <VFEPD_CarVintageBlack.label>carro antigo vermelho</VFEPD_CarVintageBlack.label>
+            <VFEPD_CarVintageBlack.description>Um carro antigo.</VFEPD_CarVintageBlack.description>
+            <VFEPD_CarVintageWhite.label>carro antigo branco</VFEPD_CarVintageWhite.label>
+            <VFEPD_CarVintageWhite.description>Um carro antigo.</VFEPD_CarVintageWhite.description>
+            <VFEPD_CarVintageSilver.label>carro antigo prata</VFEPD_CarVintageSilver.label>
+            <VFEPD_CarVintageSilver.description>Um carro antigo.</VFEPD_CarVintageSilver.description>
+            <VFEPD_CarVintageBlue.label>carro antigo azul</VFEPD_CarVintageBlue.label>
+            <VFEPD_CarVintageBlue.description>Um carro antigo.</VFEPD_CarVintageBlue.description>
+            <VFEPD_CarVintageRed.label>carro antigo vermelho</VFEPD_CarVintageRed.label>
+            <VFEPD_CarVintageRed.description>Um carro antigo.</VFEPD_CarVintageRed.description>
+
     <!-- Vanilla Furniture Expanded - Security -->
         <!-- Deployable Barrier -->
             <VFES_DeployableBarrier.label>barreira submersível</VFES_DeployableBarrier.label>
@@ -1789,8 +3426,8 @@
 
     <!-- Vanilla Hair Expanded -->
         <!-- Barber's Table -->
-            <VHE_Filth_Hair.label>mesa de barbearia</VHE_Filth_Hair.label>
-            <VHE_Filth_Hair.description>Uma mesa equipada com diversos utensílios adequados para o corte de cabelos e barbas.</VHE_Filth_Hair.description>
+            <VHE_TableBarber.label>mesa de barbearia</VHE_TableBarber.label>
+            <VHE_TableBarber.description>Uma mesa equipada com diversos utensílios adequados para o corte de cabelos e barbas.</VHE_TableBarber.description>
 
     <!-- VFE - Mechanoids : Add-On -->
         <!-- Mender Charging Station -->

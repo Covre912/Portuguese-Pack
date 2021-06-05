@@ -467,6 +467,51 @@
             <VFE_Manufacturing.label>manufatura</VFE_Manufacturing.label>
             <VFE_Manufacturing.description>Construir bancadas de manufatura e centros de trabalho eficientes.</VFE_Manufacturing.description>
 
+    <!-- Vanilla Furniture Expanded - Props And Decor -->
+        <!-- Industrial Props -->
+            <IndustrialProps.label>decorações industriais</IndustrialProps.label>
+            <IndustrialProps.description>Desbloqueia adereços e decorações industriais.</IndustrialProps.description>
+
+        <!-- Vehicle Props -->
+            <VehicleProps.label>decorações automóveis</VehicleProps.label>
+            <VehicleProps.description>Desbloqueia uma ampla seleção de decorações de veículos terrestres.</VehicleProps.description>
+
+        <!-- Plant props -->
+            <PlantProps.label>decorações vegetais</PlantProps.label>
+            <PlantProps.description>Desbloqueia uma seleção de plantas e árvores falsas.</PlantProps.description>
+
+        <!-- Medieval Props -->
+            <MedievalProps.label>decorações medievais</MedievalProps.label>
+            <MedievalProps.description>Desbloqueia uma série de decorações de inspiração medieval.</MedievalProps.description>
+
+        <!-- Farm Props -->
+            <FarmProps.label>decorações agrícolas</FarmProps.label>
+            <FarmProps.description>Concede acesso a uma seleção de decorações relacionadas à agricultura.</FarmProps.description>
+
+        <!-- Power Props -->
+            <PowerProps.label>decorações enérgicas</PowerProps.label>
+            <PowerProps.description>Desbloqueia uma série de geradores e outras decorações baseadas em energia.</PowerProps.description>
+
+        <!-- Kitchen Props -->
+            <KitchenProps.label>decorações culinárias</KitchenProps.label>
+            <KitchenProps.description>Desbloqueia uma seleção de decorações baseadas em cozinha.</KitchenProps.description>
+
+        <!-- Decals -->
+            <DecalsProps.label>decalques</DecalsProps.label>
+            <DecalsProps.description>Desbloqueia um grande número de decalques personalizáveis.</DecalsProps.description>
+
+        <!-- Furniture -->
+            <FurnitureProps.label>decorações mobiliárias</FurnitureProps.label>
+            <FurnitureProps.description>Garante acesso a uma variedade de decorações de móveis.</FurnitureProps.description>
+
+        <!-- Spaceship Props -->
+            <SpaceshipProps.label>decorações de espaçonaves</SpaceshipProps.label>
+            <SpaceshipProps.description>Desbloqueia uma seleção de decorações de espaçonaves.</SpaceshipProps.description>
+
+        <!-- Spacer Props -->
+            <SpacerProps.label>decorações espaciais</SpacerProps.label>
+            <SpacerProps.description>Desbloqueia um grande número de adereços e decorações espaciais.</SpacerProps.description>
+
     <!-- Vanilla Furniture Expanded - Spacer Module -->
         <!-- Spaver Furniture -->
             <SpacerFurniture.label>móveis espaciais</SpacerFurniture.label>

@@ -8,6 +8,9 @@
 		<li>Ludeon.RimWorld</li>
 		<li>roolo.RunAndGun</li>
 	</loadAfter>
+	<loadBefore>
+		<li>Krkr.RocketMan</li>
+	</loadBefore>
 	<description>
 
 This mod aims to add portuguese translation to some mods :)
@@ -112,6 +115,7 @@ Supported Mods:
 - Vanilla Furniture Expanded - Medical Module
 - Vanilla Furniture Expanded - Power
 - Vanilla Furniture Expanded - Production
+- Vanilla Furniture Expanded - Props and Decor
 - Vanilla Furniture Expanded - Security
 - Vanilla Furniture Expanded - Spacer Module
 - Vanilla Hair Expanded
