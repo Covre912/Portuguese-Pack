@@ -58,6 +58,9 @@
     <!-- Vanilla Expanded Framework -->
         <VFEC_Shields.label>escudos</VFEC_Shields.label>
 
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <VFEI_BodyPartsInsect.label>insectoide</VFEI_BodyPartsInsect.label>
+
     <!-- Vanilla Factions Expanded - Vikings -->
         <WeaponsMeleeCrypto.label>cripto-armas</WeaponsMeleeCrypto.label>
         <WeaponsRangedCrypto.label>cripto-armas</WeaponsRangedCrypto.label>

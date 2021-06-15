@@ -35,6 +35,12 @@
         <EquipSecondary.reportString>equipando TargetA.</EquipSecondary.reportString>
         <EquipSecondaryComba.reportString>equipando TargetA.</EquipSecondaryComba.reportString>
 
+    <!-- Smart Medicine -->
+        <StockUp.reportString>estocando TargetA.</StockUp.reportString>
+        <StockDown.reportString>devolvendo a TargetA.</StockDown.reportString>
+        <StockUpOnMedicine.reportString>estocando TargetA.</StockUpOnMedicine.reportString>
+        <StockDownOnMedicine.reportString>devolvendo a TargetA.</StockDownOnMedicine.reportString>
+
     <!-- Rim-Effect: Core -->
         <RE_UseAbility.reportString>fazendo algo.</RE_UseAbility.reportString>
         <RE_PyjakNuzzle.reportString>acariciando TargetA.</RE_PyjakNuzzle.reportString>
@@ -72,6 +78,13 @@
         <VEF_DestroyItem.reportString>destruindo um item.</VEF_DestroyItem.reportString>
         <VEF_LayExplodingEgg.reportString>botando ovos.</VEF_LayExplodingEgg.reportString>
         <VEF_IngestWeird.reportString>consumindo TargetA.</VEF_IngestWeird.reportString>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <VFEI_IngestWeird.reportString>consumindo TargetA.</VFEI_IngestWeird.reportString>
+        <VFEI_InsertFirstGenomeJob.reportString>inserindo genoma.</VFEI_InsertFirstGenomeJob.reportString>
+        <VFEI_InsertSecondGenomeJob.reportString>inserindo genoma.</VFEI_InsertSecondGenomeJob.reportString>
+        <VFEI_InsertThirdGenomeJob.reportString>inserindo genoma.</VFEI_InsertThirdGenomeJob.reportString>
+        <InsectFlee.reportString>saindo do mapa.</InsectFlee.reportString>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <VFEM_EquipShield.reportString>equipando TargetA.</VFEM_EquipShield.reportString>

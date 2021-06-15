@@ -25,6 +25,17 @@
             <WMH_Monsters.pawnSingular>monstro</WMH_Monsters.pawnSingular>
             <WMH_Monsters.pawnsPlural>monstros</WMH_Monsters.pawnsPlural>
 
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- New Squad -->
+            <VFE_PlayerOutpost.label>Novo Esquadrão</VFE_PlayerOutpost.label>
+            <VFE_PlayerOutpost.description>Um pequeno esquadrão de mercenários, prontos para o combate.</VFE_PlayerOutpost.description>
+            <VFE_PlayerOutpost.pawnsPlural>mercenários</VFE_PlayerOutpost.pawnsPlural>
+
+        <!-- Insect Hive -->
+            <VFEI_Insect.label>colmeia insectoide</VFEI_Insect.label>
+            <VFEI_Insect.description>Resultado de um experimento que deu errado em toda a galáxia, essa monstruosa mente coletiva fez deste planeta seu lar. Dividida em castas, sua sociedade depende de uma rainha gigante.\n\nEstes insetóides não estão interessados ​​em diplomacia. Eles tentarão eliminar qualquer coisa que considerem uma ameaça.</VFEI_Insect.description>
+            <VFEI_Insect.pawnsPlural>insetos</VFEI_Insect.pawnsPlural>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Swarm -->
             <VFE_Mechanoid.label>enxame mecanóide</VFE_Mechanoid.label>

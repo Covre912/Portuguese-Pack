@@ -4,7 +4,7 @@
     <!-- [HLX] ReGrowth - Core -->
         <!-- Dust Devils -->
             <RG_DevilDusts.label>redemoinhos de poeira</RG_DevilDusts.label>
-            <RG_DevilDusts.letterLabel>Redemoinhos de Poeira</RG_DevilDusts.letterLabel>
+            <RG_DevilDusts.letterLabel>Redemoinhos de poeira</RG_DevilDusts.letterLabel>
             <RG_DevilDusts.letterText>Um grupo de redemoinhos fortes, bem formados e de vida relativamente curta se formou ao redor do mapa. Eles vão danificar qualquer animal e pessoa que entrar nele.</RG_DevilDusts.letterText>
 
     <!-- [HLX] ReGrowth - Mutated Animals Pack -->
@@ -56,7 +56,7 @@
             <Quest_City_Defend.questParts.1.letter>Atacantes fugindo</Quest_City_Defend.questParts.1.letter>
             <Quest_City_Defend.questParts.1.message>{0} estão pegando suas coisas e fugindo. {2} foi defendida com sucesso.</Quest_City_Defend.questParts.1.message>
             <Quest_City_Defend.questParts.2.letter>Cidade capturada</Quest_City_Defend.questParts.2.letter>
-            <Quest_City_Defend.questParts.2.message>{2} foi capturada por {0}.<Quest_City_Defend.questParts.2.message>
+            <Quest_City_Defend.questParts.2.message>{2} foi capturada por {0}.</Quest_City_Defend.questParts.2.message>
 
         <!-- Prsion Break -->
             <Quest_City_PrisonBreak.label>missão fuga da prisão</Quest_City_PrisonBreak.label>
@@ -67,19 +67,19 @@
             <Quest_City_PrisonBreak.EnterCityLabel>Fuga da Prisão</Quest_City_PrisonBreak.EnterCityLabel>
 
         <!-- Hostages -->
-            <Quest_City_Hostages.label>resgate de reféns<Quest_City_Hostages.label>
-            <Quest_City_Hostages.letterText>Criminosos em {0} ocuparam uma construção e estão mantendo {1} cidadãos de refém. As autoridades locais foram incapazes de negociar os termos. Se você resgatá-los, eles ficarão felizes em se juntar à sua facção. \n\nEsteja avisado: os captores provavelmente executarão seus reféns se provocados diretamente.<Quest_City_Hostages.letterText>
-            <Quest_City_Hostages.letterLabel>Resgate de reféns<Quest_City_Hostages.letterLabel>
-            <Quest_City_Hostages.questParts.0.letter>Reféns resgatados<Quest_City_Hostages.questParts.0.letter>
-            <Quest_City_Hostages.questParts.0.message>Você libertou os reféns com sucesso.<Quest_City_Hostages.questParts.0.message>
-            <Quest_City_Hostages.questParts.1.letter>Reféns perdidos<Quest_City_Hostages.questParts.1.letter>
-            <Quest_City_Hostages.questParts.1.message>Você foi incapaz de resgatar os reféns.<Quest_City_Hostages.questParts.1.letter>
+            <Quest_City_Hostages.label>resgate de reféns</Quest_City_Hostages.label>
+            <Quest_City_Hostages.letterText>Criminosos em {0} ocuparam uma construção e estão mantendo {1} cidadãos de refém. As autoridades locais foram incapazes de negociar os termos. Se você resgatá-los, eles ficarão felizes em se juntar à sua facção. \n\nEsteja avisado: os captores provavelmente executarão seus reféns se provocados diretamente.</Quest_City_Hostages.letterText>
+            <Quest_City_Hostages.letterLabel>Resgate de reféns</Quest_City_Hostages.letterLabel>
+            <Quest_City_Hostages.questParts.0.letter>Reféns resgatados</Quest_City_Hostages.questParts.0.letter>
+            <Quest_City_Hostages.questParts.0.message>Você libertou os reféns com sucesso.</Quest_City_Hostages.questParts.0.message>
+            <Quest_City_Hostages.questParts.1.letter>Reféns perdidos</Quest_City_Hostages.questParts.1.letter>
+            <Quest_City_Hostages.questParts.1.message>Você foi incapaz de resgatar os reféns.</Quest_City_Hostages.questParts.1.message>
 
     <!-- RimEffect: Core -->
         <!-- Spectre -->
             <RE_SpectreJoins.label>espectro</RE_SpectreJoins.label>
             <RE_SpectreJoins.letterText>Sentindo problemas, um espectro misterioso chegou.\n\nEspectros são agentes aos quais foi confiada a autoridade extraordinária do Conselho da Cidadela, incluindo o poder de vida e morte sobre os habitantes da galáxia. Será ele(a) capaz de acertar as coisas nessas bandas antes de prosseguir para uma nova missão?</RE_SpectreJoins.letterText>
-            <RE_SpectreJoins.letterLabel>espectro</RE_SpectreJoins.letterLabel>
+            <RE_SpectreJoins.letterLabel>Espectro</RE_SpectreJoins.letterLabel>
 
         <!-- Pyjaks -->
             <RE_PyjaksJoins.label>pijaques</RE_PyjaksJoins.label>
@@ -95,53 +95,53 @@
         <!-- Ice Age-->
             <VEE_IceAge.label>era do gelo</VEE_IceAge.label>
             <VEE_IceAge.letterText>A composição atmosférica do planeta mudou drasticamente, resultando em uma queda de temperatura significante.\n\nFlora e fauna estão sofrendo por essas mudanças à medida que os biomas mudam para suas contrapartes mais frias. Recursos se tornam escarços, forçando facções a conflitos.\n\nIsso durará de uma estação a vários anos. (Mudanças visuais só apareceram ao recarregar o jogo salvo atual)</VEE_IceAge.letterText>
-            <VEE_IceAge.letterLabel>Era do Gelo</VEE_IceAge.letterLabel>
+            <VEE_IceAge.letterLabel>Era do gelo</VEE_IceAge.letterLabel>
 
         <!-- Global Warming -->
             <VEE_GlobalWarming.label>aquecimento global</VEE_GlobalWarming.label>
             <VEE_GlobalWarming.letterText>Temperaturas globais subitamente subiram a níveis perigosos.\n\nFlora e fauna estão sofrendo por essas mudanças à medida que os biomas mudam para suas contrapartes mais quentes. Recursos se tornam escarços, forçando facções a conflitos.\n\nIsso durará de uma estação a vários anos. (Mudanças visuais só apareceram ao recarregar o jogo salvo atual)</VEE_GlobalWarming.letterText>
-            <VEE_GlobalWarming.letterLabel>Aquecimento Global</VEE_GlobalWarming.letterLabel>
+            <VEE_GlobalWarming.letterLabel>Aquecimento global</VEE_GlobalWarming.letterLabel>
 
         <!-- Psychic Rain -->
             <VEE_PsychicRain.label>chuva psíquica</VEE_PsychicRain.label>
             <VEE_PsychicRain.letterText>Uma entidade psíquica perigosa causou um distúrbio a níveis subatômicos, ressoando através de todas as partículas da atmosfera.\n\nUma chuva supernatural aparentemente sem fim começou, alterando a própria composição do tempo. Qualquer pessoa ou criatura não sob um teto irá envelhecer significamente mais rápido.\n\nIsso durará de uma estação a vários anos.</VEE_PsychicRain.letterText>
-            <VEE_PsychicRain.letterLabel>Chuva Psíquica</VEE_PsychicRain.letterLabel>
+            <VEE_PsychicRain.letterLabel>Chuva psíquica</VEE_PsychicRain.letterLabel>
 
         <!-- Long Night -->
             <VEE_LongNight.label>noite longa</VEE_LongNight.label>
             <VEE_LongNight.letterText>Uma entidade espacial de tamanho inimaginável cobriu uma estrela local, resultando em um longo eclipse.\n\nApavorados com esse fenômeno supernatural, outras facções irão usar esse tempo para fazer guerras e conflitos ao longo do planeta.\n\nIsso durará de uma estação a vários anos.</VEE_LongNight.letterText>
-            <VEE_LongNight.letterLabel>Noite Longa</VEE_LongNight.letterLabel>
+            <VEE_LongNight.letterLabel>Noite longa</VEE_LongNight.letterLabel>
 
         <!-- Psychic Bloom -->
             <VEE_PsychicBloom.label>floração psíquica</VEE_PsychicBloom.label>
             <VEE_PsychicBloom.letterText>Um forte pulso psíquico emitido por uma entidade há muito esquecida mudou a própria estrutura genética da flora local. Enquanto o céu se encheu com auroras aparentemente sem fim, flores coloridas começaram a brotar por toda parte.\n\nTodos os colonos irão ganhar um buff positivo de humor pelo tempo do evento. As flores se espalhando rapidamente vão crescer por cima de tudo, incluindo seus campos.\n\nIsso durará de alguns dias a uma estação.</VEE_PsychicBloom.letterText>
-            <VEE_PsychicBloom.letterLabel>Floração Psíquica</VEE_PsychicBloom.letterLabel>
+            <VEE_PsychicBloom.letterLabel>Floração psíquica</VEE_PsychicBloom.letterLabel>
 
         <!-- Hail Storm -->
             <VEE_HailStorm.label>chuva de granizo</VEE_HailStorm.label>
             <VEE_HailStorm.letterText>Uma chuva de granizo anômala de pequena escala está devastando a área local. Qualquer pessoa ou criatura não sob um teto corre o risco de se ferir por pelotas de gelo.</VEE_HailStorm.letterText>
-            <VEE_HailStorm.letterLabel>Chuva de Granizo</VEE_HailStorm.letterLabel>
+            <VEE_HailStorm.letterLabel>Chuva de granizo</VEE_HailStorm.letterLabel>
 
         <!-- Meteorite Shower -->
             <VEE_MeteoriteShower.label>chuva de meteoros</VEE_MeteoriteShower.label>
             <VEE_MeteoriteShower.letterText>Vários meteoritos grandes colidiram com o chão na área. Eles deixaram pra trás grandes amontoados de recursos.</VEE_MeteoriteShower.letterText>
-            <VEE_MeteoriteShower.letterLabel>Chuva de Meteoros</VEE_MeteoriteShower.letterLabel>
+            <VEE_MeteoriteShower.letterLabel>Chuva de meteoros</VEE_MeteoriteShower.letterLabel>
 
         <!-- Animal Pod Crash -->
             <VEE_AnimalPodCrash.label>queda de cápsula de transporte de animal</VEE_AnimalPodCrash.label>
 
         <!-- Wanderer Join Traitor -->
-            <VEE_WandererJoinTraitor.label>andarilho junta-se</VEE_WandererJoinTraitor.label>
-            <VEE_WandererJoinTraitor.letterLabel>Wanderer joins</VEE_WandererJoinTraitor.letterLabel>
-            <VEE_WandererJoinTraitor.letterText>Um {PAWN_kind} chamado {PAWN_nameDef} chegou e está se juntando à colônia. {PAWN_pronoun} é um {PAWN_title}.\n\n[PAWN_pronoun] está disposto a contribuir, mas não sairá voluntariamente. Se você não quer {PAWN_nameDef}, você pode banir {PAWN_objective}, vender {PAWN_objective} a escravidão, ou simplesmente matar {PAWN_objective}. Porém, seus outros colonistas podem achar isso perturbador.</VEE_WandererJoinTraitor.letterText>
+            <VEE_WandererJoinTraitor.label>aldeão se junta</VEE_WandererJoinTraitor.label>
+            <VEE_WandererJoinTraitor.letterLabel>Aldeão se junta: {PAWN_nameDef}</VEE_WandererJoinTraitor.letterLabel>
+            <VEE_WandererJoinTraitor.letterText>Um(a) {PAWN_title} chamado {PAWN_nameDef} chegou e está se juntando à colônia.\n\n[PAWN_pronoun] está disposto a contribuir, mas não sairá voluntariamente. Se você não quiser {PAWN_nameDef}, pode banir {PAWN_pronoun}, vender {PAWN_pronoun} como escravo, ou simplesmente matar {PAWN_pronoun}. No entanto, seus outros colonos podem achar isso perturbador.</VEE_WandererJoinTraitor.letterText>
 
         <!-- Space Battle -->
             <VEE_SpaceBattle.label>batalha espacial</VEE_SpaceBattle.label>
             <VEE_SpaceBattle.letterText>Várias naves espaciais enormes engajaram em combate na órbita do planeta. Tiros perdidos e destroços podem impactar o chão na área. Isso pode levar a grandes incêndios.</VEE_SpaceBattle.letterText>
-            <VEE_SpaceBattle.letterLabel>Batalha Espacial</VEE_SpaceBattle.letterLabel>
+            <VEE_SpaceBattle.letterLabel>Batalha espacial</VEE_SpaceBattle.letterLabel>
 
         <!-- Shuttle Crash -->
-             <VEE_ShuttleCrash.label>queda de nave</VEE_ShuttleCrash.label>
+             <VEE_ShuttleCrash.label>queda de transporte</VEE_ShuttleCrash.label>
 
         <!-- Earthquake -->
             <VEE_Earthquake.label>terremoto</VEE_Earthquake.label>
@@ -185,36 +185,60 @@
         <!-- Reinforcements -->
             <VSE_Reinforcements.label>reforços</VSE_Reinforcements.label>
 
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- Infested Chunk Crash -->
+            <VFEI_InfestedSmallShipPartDrop.label>queda de pedaço de espaçonave infestado</VFEI_InfestedSmallShipPartDrop.label>
+            <VFEI_InfestedSmallShipPartDrop.letterText>Uma série de pequenos pedaços de uma espaçonave antiga caiu nas proximidades.\nParece estar coberto de biomassa e de geleia de inseto. Bizarros barulhos de insetos podem ser ouvidos dentro da carcaça.\nDestrua-o o mais rápido possível.</VFEI_InfestedSmallShipPartDrop.letterText>
+            <VFEI_InfestedSmallShipPartDrop.letterLabel>Queda de pedaço de espaçonave infestado</VFEI_InfestedSmallShipPartDrop.letterLabel>
+
+        <!-- Infested Ship Crash -->
+            <VFEI_InfestedShipPartDrop.label>queda de espaçonave infestada</VFEI_InfestedShipPartDrop.label>
+            <VFEI_InfestedShipPartDrop.letterText>Um grande pedaço de uma espaçonave antiga caiu nas proximidades.\nParece estar coberta de biomassa e de geleia de inseto. Bizarros barulhos de insetos podem ser ouvidos dentro da carcaça.\nDestrua-a o mais rápido possível.</VFEI_InfestedShipPartDrop.letterText>
+            <VFEI_InfestedShipPartDrop.letterLabel>Queda de espaçonave infestada</VFEI_InfestedShipPartDrop.letterLabel>
+
+        <!-- Infested Ship Module Crash -->
+            <VFEI_InfestedShipModuleDrop.label>queda de módulo de espaçonave infestado</VFEI_InfestedShipModuleDrop.label>
+            <VFEI_InfestedShipModuleDrop.letterText>Um segmento misterioso de uma espaçonave há muito destruída caiu nas proximidades.\nParece estar coberta de biomassa e de geleia de inseto. Bizarros barulhos de insetos podem ser ouvidos dentro da carcaça.\nDestrua-a o mais rápido possível.</VFEI_InfestedShipModuleDrop.letterText>
+            <VFEI_InfestedShipModuleDrop.letterLabel>Queda de módulo de espaçonave infestado</VFEI_InfestedShipModuleDrop.letterLabel>
+
+        <!-- Large Infestation -->
+            <VFEI_GiantInfestation.label>infestação pródiga</VFEI_GiantInfestation.label>
+            <VFEI_GiantInfestation.letterText>Insetos gigantes estão cavando túneis em sua direção! Eles romperão em alguns segundos para montar colmeias.\n\nAs colmeias irão gerar mais insetos e mais colmeias.\n\nSe você não quiser que os insetos infestem toda a área, destrua as colmeias. Mas cuidado - os insetos defenderão sua casa.\n\nEssa infestação parece ser bem grande e liderada por uma rainha!</VFEI_GiantInfestation.letterText>
+            <VFEI_GiantInfestation.letterLabel>Infestação pródiga</VFEI_GiantInfestation.letterLabel>
+
+        <!-- Raid -->
+            <VFEI_FirstInsectoidRaid.label>invasão</VFEI_FirstInsectoidRaid.label>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Ship Destroyed -->
-            <VFEM_MechShipDestroyed.label>Nave mecanóide destruída</VFEM_MechShipDestroyed.label>
+            <VFEM_MechShipDestroyed.label>Nave mecanoide destruída</VFEM_MechShipDestroyed.label>
             <VFEM_MechShipDestroyed.letterLabel>{FACTION_name} destruiu {1}</VFEM_MechShipDestroyed.letterLabel>
             <VFEM_MechShipDestroyed.letterText>Por meio de estratégias inteligentes, com grande número de baixas e incrível perseverança, {FACTION_name} conseguiu destruir {1}.</VFEM_MechShipDestroyed.letterText>
 
         <!-- Ship Landing Frigate -->
             <VFEM_ShipLandFrigate.label>aterrisagem de nave fragata</VFEM_ShipLandFrigate.label>
             <VFEM_ShipLandFrigate.letterLabel>Nave aterrisada: Fragata</VFEM_ShipLandFrigate.letterLabel>
-            <VFEM_ShipLandFrigate.letterText>{0} enviou uma nova nave para pousar no planeta.\n\nUma pequena nave frequentemente usada para operações de reconhecimento terrestre. Possui defesas mínimas. Quando destruída, a presença de mecanóide na superfície será reduzida.\n\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanóide.</VFEM_ShipLandFrigate.letterText>
+            <VFEM_ShipLandFrigate.letterText>{0} enviou uma nova nave para pousar no planeta.\n\nUma pequena nave frequentemente usada para operações de reconhecimento terrestre. Possui defesas mínimas. Quando destruída, a presença de mecanoide na superfície será reduzida.\n\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanoide.</VFEM_ShipLandFrigate.letterText>
 
         <!-- Ship Landing Destroyer -->
             <VFEM_ShipLandDestroyer.label>aterrisagem de nave contratorpedeira</VFEM_ShipLandDestroyer.label>
-            <VFEM_ShipLandDestroyer.letterLabel>Nave aterrisada: contratorpedeiro</VFEM_ShipLandDestroyer.letterLabel>
-            <VFEM_ShipLandDestroyer.letterText>{0} enviou uma nova nave para pousar no planeta.\n\nO contratorpedeiro é uma nave de tamanho médio que geralmente serve como defensor da colmeia mecanóide. Não tem defesas de curto alcance. Quando destruída, a presença de mecanóide na superfície será reduzida.\n\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanóide.</VFEM_ShipLandDestroyer.letterText>
+            <VFEM_ShipLandDestroyer.letterLabel>Nave aterrisada: Contratorpedeiro</VFEM_ShipLandDestroyer.letterLabel>
+            <VFEM_ShipLandDestroyer.letterText>{0} enviou uma nova nave para pousar no planeta.\n\nO contratorpedeiro é uma nave de tamanho médio que geralmente serve como defensor da colmeia mecanoide. Não tem defesas de curto alcance. Quando destruída, a presença de mecanoide na superfície será reduzida.\n\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanoide.</VFEM_ShipLandDestroyer.letterText>
 
         <!-- Ship Landing Cruiser -->
             <VFEM_ShipLandCruiser.label>aterrisagem de nave cruzadora</VFEM_ShipLandCruiser.label>
-            <VFEM_ShipLandCruiser.letterLabel>Nave aterrisada: cruzador</VFEM_ShipLandCruiser.letterLabel>
-            <VFEM_ShipLandCruiser.letterText>{0} enviou uma nova nave para pousar no planeta.\n\nO cruzador é uma nave de tamanho médio geralmente servindo como uma grande parte de uma frota mecanóide. Tem uma série de medidas defensivas de curto alcance, mas carece de armamento de longo alcance. Quando destruída, a presença de mecanóide na superfície será reduzida.\b\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanóide.</VFEM_ShipLandCruiser.letterText>
+            <VFEM_ShipLandCruiser.letterLabel>Nave aterrisada: Cruzador</VFEM_ShipLandCruiser.letterLabel>
+            <VFEM_ShipLandCruiser.letterText>{0} enviou uma nova nave para pousar no planeta.\n\nO cruzador é uma nave de tamanho médio geralmente servindo como uma grande parte de uma frota mecanoide. Tem uma série de medidas defensivas de curto alcance, mas carece de armamento de longo alcance. Quando destruída, a presença de mecanoide na superfície será reduzida.\b\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanoide.</VFEM_ShipLandCruiser.letterText>
 
         <!-- Ship Landing Troopship -->
             <VFEM_ShipLandTroopship.label>aterrisagem de nave transportadora</VFEM_ShipLandTroopship.label>
-            <VFEM_ShipLandTroopship.letterLabel>Nave aterrisada: transportador</VFEM_ShipLandTroopship.letterLabel>
-            <VFEM_ShipLandTroopship.letterText>{0} enviou uma nova nave para pousar no planeta.\n\nA nave é uma grande nave-fábrica mecanóide, capaz de produzir grandes quantidades de mecanóides prontos para o combate em muito pouco tempo. Quando destruída, a presença de mecanóide na superfície será reduzida.\n\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanóide.</VFEM_ShipLandTroopship.letterText>
+            <VFEM_ShipLandTroopship.letterLabel>Nave aterrisada: Transportador</VFEM_ShipLandTroopship.letterLabel>
+            <VFEM_ShipLandTroopship.letterText>{0} enviou uma nova nave para pousar no planeta.\n\nA nave é uma grande nave-fábrica mecanoide, capaz de produzir grandes quantidades de mecanoides prontos para o combate em muito pouco tempo. Quando destruída, a presença de mecanoide na superfície será reduzida.\n\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanoide.</VFEM_ShipLandTroopship.letterText>
 
         <!-- Ship Landing Carrier -->
             <VFEM_ShipLandCarrier.label>aterrisagem de nave carregadora</VFEM_ShipLandCarrier.label>
-            <VFEM_ShipLandCarrier.letterLabel>Nave aterrisada: carregador</VFEM_ShipLandCarrier.letterLabel>
-            <VFEM_ShipLandCarrier.letterText>{0} enviou uma nova nave para pousar no planeta\n\nO carregador é a maior nave da colmeia mecanóide, fortemente protegida e com vários meios de produzir novas unidades mecanóides prontas para o combate. Quando destruída, a presença de mecanóide na superfície será reduzida.\n\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanóide.</VFEM_ShipLandCarrier.letterText>
+            <VFEM_ShipLandCarrier.letterLabel>Nave aterrisada: Carregador</VFEM_ShipLandCarrier.letterLabel>
+            <VFEM_ShipLandCarrier.letterText>{0} enviou uma nova nave para pousar no planeta\n\nO carregador é a maior nave da colmeia mecanoide, fortemente protegida e com vários meios de produzir novas unidades mecanoides prontas para o combate. Quando destruída, a presença de mecanoide na superfície será reduzida.\n\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanoide.</VFEM_ShipLandCarrier.letterText>
 
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- None Shall Pass -->
@@ -267,7 +291,7 @@
     <!-- Vanilla Storytellers Expanded - Perry Persistent -->
         <!-- Man In The Coat -->
             <VSE_ManInTheCoatJoin.label>homem de casaco</VSE_ManInTheCoatJoin.label>
-            <VSE_ManInTheCoatJoin.letterLabel>Homem de Casaco</VSE_ManInTheCoatJoin.letterLabel>
+            <VSE_ManInTheCoatJoin.letterLabel>Homem de casaco</VSE_ManInTheCoatJoin.letterLabel>
             <VSE_ManInTheCoatJoin.letterText>Percebendo problemas, um misterioso [PAWN_kind] chegou.\n\n[PAWN_pronoun] poderá investigar a situação atual e encerrar o caso?</VSE_ManInTheCoatJoin.letterText>
 
 </LanguageData>

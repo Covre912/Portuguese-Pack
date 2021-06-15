@@ -537,6 +537,53 @@
             <AEXP_AntleredQuadruped.corePart.parts.12.customLabel>perna traseira direita</AEXP_AntleredQuadruped.corePart.parts.12.customLabel>
             <AEXP_AntleredQuadruped.corePart.parts.12.parts.0.customLabel>casco traseiro direito</AEXP_AntleredQuadruped.corePart.parts.12.parts.0.customLabel>
 
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- Boomtick -->
+            <VFEI_Boomtick.label>carrabum</VFEI_Boomtick.label>
+            <VFEI_Boomtick.corePart.parts.0.customLabel>élitro esquerdo</VFEI_Boomtick.corePart.parts.0.customLabel>
+            <VFEI_Boomtick.corePart.parts.1.customLabel>élitro direito</VFEI_Boomtick.corePart.parts.1.customLabel>
+            <VFEI_Boomtick.corePart.parts.4.parts.0.parts.1.customLabel>olho esquerdo</VFEI_Boomtick.corePart.parts.4.parts.0.parts.1.customLabel>
+            <VFEI_Boomtick.corePart.parts.4.parts.0.parts.2.customLabel>olho direito</VFEI_Boomtick.corePart.parts.4.parts.0.parts.2.customLabel>
+            <VFEI_Boomtick.corePart.parts.4.parts.0.parts.3.customLabel>antena esquerda</VFEI_Boomtick.corePart.parts.4.parts.0.parts.3.customLabel>
+            <VFEI_Boomtick.corePart.parts.4.parts.0.parts.4.customLabel>antena direita</VFEI_Boomtick.corePart.parts.4.parts.0.parts.4.customLabel>
+            <VFEI_Boomtick.corePart.parts.5.customLabel>perna dianteira esquerda</VFEI_Boomtick.corePart.parts.5.customLabel>
+            <VFEI_Boomtick.corePart.parts.6.customLabel>perna dianteira direita</VFEI_Boomtick.corePart.parts.6.customLabel>
+            <VFEI_Boomtick.corePart.parts.7.customLabel>perna média esquerda</VFEI_Boomtick.corePart.parts.7.customLabel>
+            <VFEI_Boomtick.corePart.parts.8.customLabel>perna média direita</VFEI_Boomtick.corePart.parts.8.customLabel>
+            <VFEI_Boomtick.corePart.parts.9.customLabel>perna traseira esquerda</VFEI_Boomtick.corePart.parts.9.customLabel>
+            <VFEI_Boomtick.corePart.parts.10.customLabel>perna traseira direita</VFEI_Boomtick.corePart.parts.10.customLabel>
+            <VFEI_Boomtick.corePart.parts.11.customLabel>saco explosivo</VFEI_Boomtick.corePart.parts.11.customLabel>
+
+        <!-- Scorpionlike Body -->
+            <VFEI_ScorpionLike.label>corpo semelhante ao de escorpião</VFEI_ScorpionLike.label>
+            <VFEI_ScorpionLike.corePart.parts.3.parts.0.parts.1.customLabel>olho esquerdo</VFEI_ScorpionLike.corePart.parts.3.parts.0.parts.1.customLabel>
+            <VFEI_ScorpionLike.corePart.parts.3.parts.0.parts.2.customLabel>olho direito</VFEI_ScorpionLike.corePart.parts.3.parts.0.parts.2.customLabel>
+            <VFEI_ScorpionLike.corePart.parts.3.parts.0.parts.3.customLabel>antena esquerda</VFEI_ScorpionLike.corePart.parts.3.parts.0.parts.3.customLabel>
+            <VFEI_ScorpionLike.corePart.parts.3.parts.0.parts.4.customLabel>antena direita</VFEI_ScorpionLike.corePart.parts.3.parts.0.parts.4.customLabel>
+            <VFEI_ScorpionLike.corePart.parts.4.customLabel>perna dianteira esquerda</VFEI_ScorpionLike.corePart.parts.4.customLabel>
+            <VFEI_ScorpionLike.corePart.parts.5.customLabel>perna dianteira direita</VFEI_ScorpionLike.corePart.parts.5.customLabel>
+            <VFEI_ScorpionLike.corePart.parts.6.customLabel>perna média esquerda</VFEI_ScorpionLike.corePart.parts.6.customLabel>
+            <VFEI_ScorpionLike.corePart.parts.7.customLabel>perna média direita</VFEI_ScorpionLike.corePart.parts.7.customLabel>
+            <VFEI_ScorpionLike.corePart.parts.8.customLabel>perna traseira esquerda</VFEI_ScorpionLike.corePart.parts.8.customLabel>
+            <VFEI_ScorpionLike.corePart.parts.9.customLabel>perna traseira direita</VFEI_ScorpionLike.corePart.parts.9.customLabel>
+
+        <!-- Wargling -->
+            <VFEI_Wargling.label>mariwarg</VFEI_Wargling.label>
+            <VFEI_Wargling.corePart.parts.0.customLabel>élitro esquerdo</VFEI_Wargling.corePart.parts.0.customLabel>
+            <VFEI_Wargling.corePart.parts.1.customLabel>élitro direito</VFEI_Wargling.corePart.parts.1.customLabel>
+            <VFEI_Wargling.corePart.parts.4.parts.0.parts.1.customLabel>olho esquerdo</VFEI_Wargling.corePart.parts.4.parts.0.parts.1.customLabel>
+            <VFEI_Wargling.corePart.parts.4.parts.0.parts.2.customLabel>olho direito</VFEI_Wargling.corePart.parts.4.parts.0.parts.2.customLabel>
+            <VFEI_Wargling.corePart.parts.4.parts.0.parts.3.customLabel>antena esquerda</VFEI_Wargling.corePart.parts.4.parts.0.parts.3.customLabel>
+            <VFEI_Wargling.corePart.parts.4.parts.0.parts.4.customLabel>antena direita</VFEI_Wargling.corePart.parts.4.parts.0.parts.4.customLabel>
+            <VFEI_Wargling.corePart.parts.5.customLabel>garra dianteira esquerda</VFEI_Wargling.corePart.parts.5.customLabel>
+            <VFEI_Wargling.corePart.parts.6.customLabel>garra dianteira direita</VFEI_Wargling.corePart.parts.6.customLabel>
+            <VFEI_Wargling.corePart.parts.7.customLabel>perna dianteira esquerda</VFEI_Wargling.corePart.parts.7.customLabel>
+            <VFEI_Wargling.corePart.parts.8.customLabel>perna dianteira direita</VFEI_Wargling.corePart.parts.8.customLabel>
+            <VFEI_Wargling.corePart.parts.9.customLabel>perna média esquerda</VFEI_Wargling.corePart.parts.9.customLabel>
+            <VFEI_Wargling.corePart.parts.10.customLabel>perna média direita</VFEI_Wargling.corePart.parts.10.customLabel>
+            <VFEI_Wargling.corePart.parts.11.customLabel>perna traseira esquerda</VFEI_Wargling.corePart.parts.11.customLabel>
+            <VFEI_Wargling.corePart.parts.12.customLabel>perna traseira direita</VFEI_Wargling.corePart.parts.12.customLabel>
+
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Odin -->
             <VFEV_Odin.label>odin</VFEV_Odin.label>

@@ -69,8 +69,8 @@
             </RE_LodiakShuttleCrash1.questDescriptionRules.rulesStrings>
             <RE_LodiakShuttleCrash1.root.nodes.10.node.nodes.0.label>Missão concluída: [resolvedQuestName]</RE_LodiakShuttleCrash1.root.nodes.10.node.nodes.0.label>
             <RE_LodiakShuttleCrash1.root.nodes.10.node.nodes.0.text>Você chegou ao local do acidente do transporte.</RE_LodiakShuttleCrash1.root.nodes.10.node.nodes.0.text>
-            <RE_LodiakShuttleCrash1.root.nodes.11.node.nodes.0.label>A missão expirou: [resolvedQuestName]</RE_LodiakShuttleCrash1.root.nodes.11.node.nodes.0.label>
-            <RE_LodiakShuttleCrash1.root.nodes.11.node.nodes.0.text>A espaçonave foi encontrada por outros. A missão [resolvedQuestName] expirou.</RE_LodiakShuttleCrash1.root.nodes.11.node.nodes.0.text>
+            <RE_LodiakShuttleCrash1.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</RE_LodiakShuttleCrash1.LetterLabelQuestExpired.slateRef>
+            <RE_LodiakShuttleCrash1.LetterTextQuestExpired.slateRef>A espaçonave foi encontrada por outros. A missão [resolvedQuestName] expirou.</RE_LodiakShuttleCrash1.LetterTextQuestExpired.slateRef>
             <RE_LodiakShuttleCrash2.questNameRules.rulesStrings>
                 <li>questName->Transporte [adjective]</li>
                 <li>adjective->Quebrado</li>
@@ -83,8 +83,8 @@
             </RE_LodiakShuttleCrash2.questDescriptionRules.rulesStrings>
             <RE_LodiakShuttleCrash2.root.nodes.10.node.nodes.0.label>Missão concluída: [resolvedQuestName]</RE_LodiakShuttleCrash2.root.nodes.10.node.nodes.0.label>
             <RE_LodiakShuttleCrash2.root.nodes.10.node.nodes.0.text>Você chegou ao local do acidente do transporte.</RE_LodiakShuttleCrash2.root.nodes.10.node.nodes.0.text>
-            <RE_LodiakShuttleCrash2.root.nodes.11.node.nodes.0.label>A missão expirou: [resolvedQuestName]</RE_LodiakShuttleCrash2.root.nodes.11.node.nodes.0.label>
-            <RE_LodiakShuttleCrash2.root.nodes.11.node.nodes.0.text>A espaçonave foi encontrada por outros. A missão [resolvedQuestName] expirou.</RE_LodiakShuttleCrash2.root.nodes.11.node.nodes.0.text>
+            <RE_LodiakShuttleCrash2.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</RE_LodiakShuttleCrash2.LetterLabelQuestExpired.slateRef>
+            <RE_LodiakShuttleCrash2.LetterTextQuestExpired.slateRef>A espaçonave foi encontrada por outros. A missão [resolvedQuestName] expirou.</RE_LodiakShuttleCrash2.LetterTextQuestExpired.slateRef>
             <RE_LodiakShuttleCrash3.questNameRules.rulesStrings>
                 <li>questName->Transporte [adjective]</li>
                 <li>adjective->Quebrado</li>
@@ -97,8 +97,8 @@
             </RE_LodiakShuttleCrash3.questDescriptionRules.rulesStrings>
             <RE_LodiakShuttleCrash3.root.nodes.10.node.nodes.0.label>Missão concluída: [resolvedQuestName]</RE_LodiakShuttleCrash3.root.nodes.10.node.nodes.0.label>
             <RE_LodiakShuttleCrash3.root.nodes.10.node.nodes.0.text>Você chegou ao local da queda do transporte e derrotou as forças hostis.</RE_LodiakShuttleCrash3.root.nodes.10.node.nodes.0.text>
-            <RE_LodiakShuttleCrash3.root.nodes.11.node.nodes.0.label>A missão expirou: [resolvedQuestName]</RE_LodiakShuttleCrash3.root.nodes.11.node.nodes.0.label>
-            <RE_LodiakShuttleCrash3.root.nodes.11.node.nodes.0.text>A espaçonave foi encontrada por outros. A missão [resolvedQuestName] expirou.</RE_LodiakShuttleCrash3.root.nodes.11.node.nodes.0.text>
+            <RE_LodiakShuttleCrash3.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</RE_LodiakShuttleCrash3.LetterLabelQuestExpired.slateRef>
+            <RE_LodiakShuttleCrash3.LetterTextQuestExpired.slateRef>A espaçonave foi encontrada por outros. A missão [resolvedQuestName] expirou.</RE_LodiakShuttleCrash3.LetterTextQuestExpired.slateRef>
 
         <!-- Prothean Beacon -->
             <RE_ProtheanBeacon.questNameRules.rulesStrings>
@@ -299,7 +299,7 @@
             <WMH_Fleder_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Fleder_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
 
         <!-- Fogler -->
-            <WMH_Fleder_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Fogler_MonsterEncounterQuest.questNameRules.rulesStrings>
                 <li>questName->[contract] de [monster] de [asker_nameDef]</li>
                 <li>monster->caça</li>
                 <li>monster->caça ao monstro</li>
@@ -308,16 +308,16 @@
                 <li>contract->missão</li>
                 <li>contract->cometimento</li>
                 <li>contract->tarefa</li>
-            </WMH_Fleder_MonsterEncounterQuest.questNameRules.rulesStrings>
-            <WMH_Fleder_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            </WMH_Fogler_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <WMH_Fogler_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
                 <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], perdeu vários grupos de caça em uma densa névoa que cerca a área local. Todas as pistas apontam para uma família de Nevolosos.\n\nNevolosos têm braços e garras poderosos como megaranhas geneticamente modificadas, mas o que os torna verdadeiramente perigosos é seu domínio do engano, da ilusão e da desorientação. Quando em perigo, um nevoloso libera uma densa nuvem de fumaça, tornando todos os ataques à distância inúteis.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Necrófago\n\nSe tivermos sucesso, [allRewardsDescriptions]</li>
-            </WMH_Fleder_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
-            <WMH_Fleder_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Fleder_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
-            <WMH_Fleder_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Fleder_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
-            <WMH_Fleder_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Fleder_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
-            <WMH_Fleder_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Fleder_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
-            <WMH_Fleder_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Fleder_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
-            <WMH_Fleder_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Fleder_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
+            </WMH_Fogler_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <WMH_Fogler_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</WMH_Fogler_MonsterEncounterQuest.LetterLabelQuestExpired.slateRef>
+            <WMH_Fogler_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>Os monstros deixaram esta área, e você não ouvirá falar deles até que eles façam suas próximas vítimas. A missão [resolvedQuestName] expirou.</WMH_Fogler_MonsterEncounterQuest.LetterTextQuestExpired.slateRef>
+            <WMH_Fogler_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>O pagamento chegou</WMH_Fogler_MonsterEncounterQuest.LetterLabelPaymentArrived.slateRef>
+            <WMH_Fogler_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>Você derrotou os monstros!\n\nO pagamento de [asker_faction_name] chegou.</WMH_Fogler_MonsterEncounterQuest.LetterTextPaymentArrived.slateRef>
+            <WMH_Fogler_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</WMH_Fogler_MonsterEncounterQuest.LetterLabelFavorReceiver.slateRef>
+            <WMH_Fogler_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</WMH_Fogler_MonsterEncounterQuest.LetterTextFavorReceiver.slateRef>
 
         <!-- Ghoul -->
             <WMH_Ghoul_MonsterEncounterQuest.questNameRules.rulesStrings>
@@ -524,7 +524,7 @@
                 <li>factory->Área de Manufura</li>
             </VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings>
             <VFE_OpportunitySite_AbandonedFactory.questDescriptionRules.rulesStrings>
-                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos enviou uma mensagem. Aparentemente, [siteFaction_pawnsPlural] com base em uma fábrica abandonada próxima estão invadindo suas caravanas. A fábrica é controlada por [siteFaction_name]. Pode ser uma grande oportunidade para obter elementos de fábrica e componentes mecanóides.\n\n[asker_nameDef] está nos pedindo para eliminar a ameaça e não se preocupa com o destino das peças das máquinas. [asker_label] diz que [sitePart0_description].</li>
+                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos enviou uma mensagem. Aparentemente, [siteFaction_pawnsPlural] com base em uma fábrica abandonada próxima estão invadindo suas caravanas. A fábrica é controlada por [siteFaction_name]. Pode ser uma grande oportunidade para obter elementos de fábrica e componentes mecanoides.\n\n[asker_nameDef] está nos pedindo para eliminar a ameaça e não se preocupa com o destino das peças das máquinas. [asker_label] diz que [sitePart0_description].</li>
             </VFE_OpportunitySite_AbandonedFactory.questDescriptionRules.rulesStrings>
             <VFE_OpportunitySite_AbandonedFactory.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFE_OpportunitySite_AbandonedFactory.LetterLabelQuestExpired.slateRef>
             <VFE_OpportunitySite_AbandonedFactory.LetterTextQuestExpired.slateRef>Os bandidos fizeram as malas e seguiram em frente. A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_AbandonedFactory.LetterTextQuestExpired.slateRef>
@@ -568,22 +568,22 @@
         <!-- Mechanoid Attack Party -->
             <VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings>
 				<li>questName->Salvando o povo de [asker_faction_name]</li>
-				<li>questName->Cerco de mecanóides em [asker_faction_name]</li>
+				<li>questName->Cerco de mecanoides em [asker_faction_name]</li>
 				<li>questName->[asker_faction_name] Sob Cerco</li>
 				<li>questName->[asker_faction_name] Sob Ataque</li>
             </VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings>
             <VFE_OpportunitySite_MechanoidAttackParty.questDescriptionRules.rulesStrings>
-				<li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], diz que o posto avançado [asker_possessive] está sob ataque de mecanóides.\n\n[asker_nameDef] não tem ninguém de sobra para ajudá-los, mas diz que se você conseguir chegar ao posto avançado a tempo, os homens que você salvar podem escolher se juntar a você.\n\nVocê pode esperar que os defensores estejam em grande desvantagem numérica e feridos.</li>
+				<li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], diz que o posto avançado [asker_possessive] está sob ataque de mecanoides.\n\n[asker_nameDef] não tem ninguém de sobra para ajudá-los, mas diz que se você conseguir chegar ao posto avançado a tempo, os homens que você salvar podem escolher se juntar a você.\n\nVocê pode esperar que os defensores estejam em grande desvantagem numérica e feridos.</li>
             </VFE_OpportunitySite_MechanoidAttackParty.questDescriptionRules.rulesStrings>
             <VFE_OpportunitySite_MechanoidAttackParty.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFE_OpportunitySite_MechanoidAttackParty.LetterLabelQuestExpired.slateRef>
-            <VFE_OpportunitySite_MechanoidAttackParty.LetterTextQuestExpired.slateRef>O posto avançado caiu para a força de ataque mecanóide. A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_MechanoidAttackParty.LetterTextQuestExpired.slateRef>
-            <VFE_OpportunitySite_MechanoidAttackParty.LetterLabelMechsAreDefeated.slateRef>Mecanóides derrotados</VFE_OpportunitySite_MechanoidAttackParty.LetterLabelMechsAreDefeated.slateRef>
-            <VFE_OpportunitySite_MechanoidAttackParty.LetterTextMechsAreDefeated.slateRef>Todos os mecanóides da área foram derrotados.</VFE_OpportunitySite_MechanoidAttackParty.LetterTextMechsAreDefeated.slateRef>
+            <VFE_OpportunitySite_MechanoidAttackParty.LetterTextQuestExpired.slateRef>O posto avançado caiu para a força de ataque mecanoide. A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_MechanoidAttackParty.LetterTextQuestExpired.slateRef>
+            <VFE_OpportunitySite_MechanoidAttackParty.LetterLabelMechsAreDefeated.slateRef>Mecanoides derrotados</VFE_OpportunitySite_MechanoidAttackParty.LetterLabelMechsAreDefeated.slateRef>
+            <VFE_OpportunitySite_MechanoidAttackParty.LetterTextMechsAreDefeated.slateRef>Todos os mecanoides da área foram derrotados.</VFE_OpportunitySite_MechanoidAttackParty.LetterTextMechsAreDefeated.slateRef>
 
         <!-- Mechanoid Ship Landing -->
             <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings>
-				<li>questName(priority=1)->[intel] de [asker_nameDef] sobre [landing] Mecanóide</li>
-				<li>questName->[landing] Mecanóide</li>
+				<li>questName(priority=1)->[intel] de [asker_nameDef] sobre [landing] Mecanoide</li>
+				<li>questName->[landing] Mecanoide</li>
 				<li>intel->Informação</li>
 				<li>intel->Indicação</li>
 				<li>intel->Aviso</li>
@@ -595,18 +595,18 @@
 				<li>landing->Nave</li>
             </VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings>
             <VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings>
-				<li>questDescription(askerIsNull==true)->Obtivemos informações criptografadas sobre uma nave mecanóide que se aproxima, planejando pousar não muito longe de [map_definite]. O protocolo desta nave não permite o pouso se o local contiver hostis. Este local é protegido por forças mecanóides, mas destruir os quatro faróis de pouso será o suficiente para impedir a nave de pousar.\n\nFalhas ao fazer isso resultarão na nave mecanóide chegando à superfície, aumentando a presença mecanóide na área.</li>
-				<li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], informou-nos de uma nave mecanóide que pretende pousar não muito longe daqui. O protocolo desta nave não permite o pouso se o local contiver hostis. Este local é protegido por forças mecanóide, mas destruir os quatro faróis de pouso será o suficiente para impedir a nave de pousar.\n\nFalhas ao fazer isso resultarão na nave mecanóide chegando à superfície, aumentando a presença mecanóide na área.</li>
+				<li>questDescription(askerIsNull==true)->Obtivemos informações criptografadas sobre uma nave mecanoide que se aproxima, planejando pousar não muito longe de [map_definite]. O protocolo desta nave não permite o pouso se o local contiver hostis. Este local é protegido por forças mecanoides, mas destruir os quatro faróis de pouso será o suficiente para impedir a nave de pousar.\n\nFalhas ao fazer isso resultarão na nave mecanoide chegando à superfície, aumentando a presença mecanoide na área.</li>
+				<li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], informou-nos de uma nave mecanoide que pretende pousar não muito longe daqui. O protocolo desta nave não permite o pouso se o local contiver hostis. Este local é protegido por forças mecanoide, mas destruir os quatro faróis de pouso será o suficiente para impedir a nave de pousar.\n\nFalhas ao fazer isso resultarão na nave mecanoide chegando à superfície, aumentando a presença mecanoide na área.</li>
             </VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings>
             <VFE_OpportunitySite_MechanoidShipLanding.LetterLabelAllMechBeaconsDestroyed.slateRef>Faróis de Pouso Destruídos</VFE_OpportunitySite_MechanoidShipLanding.LetterLabelAllMechBeaconsDestroyed.slateRef>
             <VFE_OpportunitySite_MechanoidShipLanding.LetterTextAllMechBeaconsDestroyed.slateRef>Todos os faróis de pouso foram destruídos.</VFE_OpportunitySite_MechanoidShipLanding.LetterTextAllMechBeaconsDestroyed.slateRef>
             <VFE_OpportunitySite_MechanoidShipLanding.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFE_OpportunitySite_MechanoidShipLanding.LetterLabelQuestExpired.slateRef>
-            <VFE_OpportunitySite_MechanoidShipLanding.LetterTextQuestExpired.slateRef>A nave mecanóide pousou. A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_MechanoidShipLanding.LetterTextQuestExpired.slateRef>
+            <VFE_OpportunitySite_MechanoidShipLanding.LetterTextQuestExpired.slateRef>A nave mecanoide pousou. A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_MechanoidShipLanding.LetterTextQuestExpired.slateRef>
 
         <!-- Mechanoid Storage Pickup -->
             <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings>
-                <li>questName(priority=1)->[intel] de [asker_nameDef] sobre [storage] Mecanóide</li>
-                <li>questName->[storage] Mecanóide</li>
+                <li>questName(priority=1)->[intel] de [asker_nameDef] sobre [storage] Mecanoide</li>
+                <li>questName->[storage] Mecanoide</li>
                 <li>intel->Informação</li>
                 <li>intel->Indicação</li>
                 <li>intel->Aviso</li>
@@ -618,8 +618,8 @@
                 <li>storage->Suprimentos</li>
             </VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings>
             <VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings>
-                <li>questDescription(askerIsNull==true)->Interceptamos a comunicação criptografada sobre uma grande quantidade de recursos brutos no valor de [itemStashContentsValue] prontos para coleta não muito longe de [map_definite]. A coleção consiste em:\n\n[itemStashContents]\n\nParece que os mecanóides estão guardando o local antes que os recursos sejam coletados e enviados para a órbita.</li>
-                <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], informou-nos de um recurso mecanóide [itemStashContentsValue] não muito longe de nós. A coleção consiste em:\n\n[itemStashContents]\n\n[asker_label] nos informa que os mecanóides estão guardando o local antes que os recursos sejam coletados e enviados para a órbita.</li>
+                <li>questDescription(askerIsNull==true)->Interceptamos a comunicação criptografada sobre uma grande quantidade de recursos brutos no valor de [itemStashContentsValue] prontos para coleta não muito longe de [map_definite]. A coleção consiste em:\n\n[itemStashContents]\n\nParece que os mecanoides estão guardando o local antes que os recursos sejam coletados e enviados para a órbita.</li>
+                <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], informou-nos de um recurso mecanoide [itemStashContentsValue] não muito longe de nós. A coleção consiste em:\n\n[itemStashContents]\n\n[asker_label] nos informa que os mecanoides estão guardando o local antes que os recursos sejam coletados e enviados para a órbita.</li>
             </VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings>
             <VFE_OpportunitySite_MechanoidStoragePickup.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFE_OpportunitySite_MechanoidStoragePickup.LetterLabelQuestExpired.slateRef>
             <VFE_OpportunitySite_MechanoidStoragePickup.LetterTextQuestExpired.slateRef>Comunicações interceptadas indicam que o estoque de itens foi colocado em órbita.A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_MechanoidStoragePickup.LetterTextQuestExpired.slateRef>
@@ -793,8 +793,8 @@
                 <li>hunt->Caçada</li>
             </VFEV_OdinHunt.questNameRules.rulesStrings>
             <VFEV_OdinHunt.questDescriptionRules.rulesStrings>
-                <li>questDescription(askerIsNull==true)->Interceptamos mensagens sobre a localização de um local de um Odin próximo a [map_definite].\n\nUm mecanoide monolótico fortificado teorizado por ter a capacidade de causar quedas de raios por meio de manipulação ambiental e descarga estática. Braços laminados serrilhados são emparelhados com ressonadores de pulso PEM capazes de desativar os eletrônicos próximos. Aqueles que são corajosos o suficiente para lutar contra este mecanóide à queima-roupa são rapidamente despachados por relâmpagos de alta voltagem.\n\nDurante as guerras mecanoide, o próprio avistamento de Odin é conhecido por gerar uma demanda por retirada. Muito poucos o encontraram e sobreviveram para relatar.</li>
-                <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] tem relatórios que avistaram um Odin nas proximidades. Embora não planejem caçar a fera, estão desafiando você a caçá-la.\n\nUm mecanoide monolótico fortificado teorizado por ter a capacidade de causar quedas de raios por meio de manipulação ambiental e descarga estática. Braços laminados serrilhados são emparelhados com ressonadores de pulso PEM capazes de desativar os eletrônicos próximos. Aqueles que são corajosos o suficiente para lutar contra este mecanóide à queima-roupa são rapidamente despachados por relâmpagos de alta voltagem.\n\nDurante as guerras mecanoide, o próprio avistamento de Odin é conhecido por gerar uma demanda por retirada. Muito poucos o encontraram e sobreviveram para relatar.</li>
+                <li>questDescription(askerIsNull==true)->Interceptamos mensagens sobre a localização de um local de um Odin próximo a [map_definite].\n\nUm mecanoide monolótico fortificado teorizado por ter a capacidade de causar quedas de raios por meio de manipulação ambiental e descarga estática. Braços laminados serrilhados são emparelhados com ressonadores de pulso PEM capazes de desativar os eletrônicos próximos. Aqueles que são corajosos o suficiente para lutar contra este mecanoide à queima-roupa são rapidamente despachados por relâmpagos de alta voltagem.\n\nDurante as guerras mecanoide, o próprio avistamento de Odin é conhecido por gerar uma demanda por retirada. Muito poucos o encontraram e sobreviveram para relatar.</li>
+                <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] tem relatórios que avistaram um Odin nas proximidades. Embora não planejem caçar a fera, estão desafiando você a caçá-la.\n\nUm mecanoide monolótico fortificado teorizado por ter a capacidade de causar quedas de raios por meio de manipulação ambiental e descarga estática. Braços laminados serrilhados são emparelhados com ressonadores de pulso PEM capazes de desativar os eletrônicos próximos. Aqueles que são corajosos o suficiente para lutar contra este mecanoide à queima-roupa são rapidamente despachados por relâmpagos de alta voltagem.\n\nDurante as guerras mecanoide, o próprio avistamento de Odin é conhecido por gerar uma demanda por retirada. Muito poucos o encontraram e sobreviveram para relatar.</li>
             </VFEV_OdinHunt.questDescriptionRules.rulesStrings>
             <VFEV_OdinHunt.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFEV_OdinHunt.LetterLabelQuestExpired.slateRef>
             <VFEV_OdinHunt.LetterTextQuestExpired.slateRef>O Odin foi encontrado por outros. A missão [resolvedQuestName] expirou.</VFEV_OdinHunt.LetterTextQuestExpired.slateRef>

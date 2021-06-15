@@ -2,46 +2,35 @@
 <LanguageData>
 
     <!-- [HLX] ReGrowth - Mutated Animals Pack -->
-        <!-- Heads -->
-            <RG-WF_LeftHeadAttackTool.label>cabeça esquerda</RG-WF_LeftHeadAttackTool.label>
-            <RG-WF_RightHeadAttackTool.label>cabeça direita</RG-WF_RightHeadAttackTool.label>
+        <RG-WF_LeftHeadAttackTool.label>cabeça esquerda</RG-WF_LeftHeadAttackTool.label>
+        <RG-WF_RightHeadAttackTool.label>cabeça direita</RG-WF_RightHeadAttackTool.label>
 
     <!-- Jewelry -->
-        <!-- Ears -->
-            <Ears.label>orelhas</Ears.label>
+        <Ears.label>orelhas</Ears.label>
 
     <!-- Race to the Rim -->
-        <!-- Tail -->
-            <RttR_FirstTailAttackTool.label>cauda</RttR_FirstTailAttackTool.label>
-            <RttR_SecondTailAttackTool.label>cauda</RttR_SecondTailAttackTool.label>
-            <RttR_ThirdTailAttackTool.label>cauda</RttR_ThirdTailAttackTool.label>
+        <RttR_FirstTailAttackTool.label>cauda</RttR_FirstTailAttackTool.label>
+        <RttR_SecondTailAttackTool.label>cauda</RttR_SecondTailAttackTool.label>
+        <RttR_ThirdTailAttackTool.label>cauda</RttR_ThirdTailAttackTool.label>
 
     <!-- RimWorld - Witcher Monster Hunt -->
-        <!-- Pseudopods -->
-            <WMH_Pseudopods.label>pseudópodes</WMH_Pseudopods.label>
-
-        <!-- Tail -->
-            <WMH_TailAttackTool.label>cauda</WMH_TailAttackTool.label>
+        <WMH_Pseudopods.label>pseudópodes</WMH_Pseudopods.label>
+        <WMH_TailAttackTool.label>cauda</WMH_TailAttackTool.label>
 
     <!-- Vanilla Animals Expanded - Australia -->
-        <!-- Rear Left Claws -->
-            <AEXP_RearLeftClaws.label>garra esquerda</AEXP_RearLeftClaws.label>
-
-        <!-- Rear Right Claws -->
-            <AEXP_RearRightClaws.label>garra direita</AEXP_RearRightClaws.label>
-
-        <!-- Rear Left Spur -->
-            <AEXP_RearLeftSpur.label>pata esquerda</AEXP_RearLeftSpur.label>
-
-        <!-- Rear Right Spur -->
-            <AEXP_RearRightSpur.label>pata direita</AEXP_RearRightSpur.label>
+        <AEXP_RearLeftClaws.label>garra esquerda</AEXP_RearLeftClaws.label>
+        <AEXP_RearRightClaws.label>garra direita</AEXP_RearRightClaws.label>
+        <AEXP_RearLeftSpur.label>pata esquerda</AEXP_RearLeftSpur.label>
+        <AEXP_RearRightSpur.label>pata direita</AEXP_RearRightSpur.label>
 
     <!-- Vanilla Animals Expanded - Ice Sheet -->
-        <!-- Fore-Flippers -->
-            <AEXP_ForeFlipers.label>nadadeiras</AEXP_ForeFlipers.label>
+        <AEXP_ForeFlipers.label>nadadeiras</AEXP_ForeFlipers.label>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <VFEI_Sting.label>ferrão</VFEI_Sting.label>
+        <VFEI_PincerAttackTool.label>pinça</VFEI_PincerAttackTool.label>
 
     <!-- Xenohumans - Anthromorphs -->
-        <!-- Tail -->
-            <ATK_Tail.label>cauda</ATK_Tail.label>
+        <ATK_Tail.label>cauda</ATK_Tail.label>
 
 </LanguageData>

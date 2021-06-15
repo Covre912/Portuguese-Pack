@@ -884,11 +884,116 @@
                 <li>r_art_name->[book_general] [SocialSkill] e [SocialSkill][maybe_cont], mas também vai em profundidade sobre [SocialSkill]. É [book_context][maybe_writingstyles]. O estudo deste livro aumenta a habilidade de tiro.</li>
             </ArtDescription_BookSocialDesc.rulePack.rulesStrings>
 
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- Faction -->
+            <VFEI_NamerFactionInsect.rulepack.rulesStrings>
+                <li>r_name->Colmeia [groupname]</li>
+            </VFEI_NamerFactionInsect.rulepack.rulesStrings>
+            <VFEI_NamerFactionInsect.rulePack.rulesFiles>
+                <li>groupname->Words/Insect</li>
+            </VFEI_NamerFactionInsect.rulePack.rulesFiles>
+
+        <!-- Settlement -->
+            <VFEI_NamerSettlementInsectoid.rulePack.rulesStrings>
+                <li>r_name(p=12)->[townname_wordgen]</li>
+                <li>r_name(p=6)->[townname_fixed]</li>
+                <li>r_name(p=4)->[townname_combo]</li>
+                <li>r_name->[townname_near]</li>
+                <li>topicalnoun->[Vegetable]</li>
+                <li>topicalnoun->[Game]</li>
+                <li>topicalnoun->[BodyPart]</li>
+                <li>townname_combo->[topicalnoun] [TerrainFeature]</li>
+                <li>townname_combo->[TerrainFeature] de [topicalnoun]</li>
+                <li>townname_combo(p=2)->[TerrainFeature] de [concept_positive]</li>
+                <li>townname_combo(p=2)->[TerrainFeature] [concept_positive]</li>
+                <li>townname_combo(p=2)->[Community] [concept_positive]</li>
+                <li>townname_combo(p=3)->[TerrainFeature] de [Character]</li>
+                <li>townname_combo(p=3)->[Community] de [Character]</li>
+                <li>townname_near->[nearnameinitial]-em-[TerrainFeature]</li>
+                <li>townname_near->[nearnameinitial]-ao-longo-de-[TerrainFeature]</li>
+                <li>townname_near->[nearnameinitial]-sobre-[TerrainFeature]</li>
+                <li>nearnameinitial->[townname_wordgen]</li>
+                <li>nearnameinitial->[Community]</li>
+                <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+                <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+                <li>townname_wordgen(p=2)->[SylE][townend]</li>
+                <li>townname_wordgen(p=2)->[SylE][SylE][townend]</li>
+                <li>townname_wordgen->[TerrainFeature][townend]</li>
+                <li>townname_wordgen->[topicalnoun][townend]</li>
+                <li>townend->ville</li>
+                <li>townend->town</li>
+                <li>townend->hurst</li>
+                <li>townend->bourne</li>
+                <li>townend->brad</li>
+                <li>townend->dale</li>
+                <li>townend->hope</li>
+                <li>townend->ing</li>
+                <li>townend->ness</li>
+                <li>townend->mere</li>
+                <li>townend->shaw</li>
+                <li>townend->wick</li>
+                <li>townend->ton</li>
+                <li>townend->ston</li>
+                <li>townend->os</li>
+                <li>townend->den</li>
+                <li>townend->tas</li>
+                <li>townend->wood</li>
+                <li>townend->land</li>
+                <li>townend->worth</li>
+                <li>townend->roon</li>
+                <li>townend->ron</li>
+                <li>townend->well</li>
+                <li>r_name(p=4)->[townname_combo]</li>
+                <li>r_name->[townname_wordgen]</li>
+                <li>townname_combo->[geography] [AnimalBadass]</li>
+                <li>townname_combo->[geography] de [AnimalBadass]</li>
+                <li>townname_combo->[geography] [ConceptBadass]</li>
+                <li>townname_combo->[geography] de [ConceptBadass]</li>
+                <li>townname_combo->[geography] [PersonBadass]</li>
+                <li>townname_combo->[geography] de [PersonBadass]</li>
+                <li>townname_combo->[geography] de [Enemy]</li>
+                <li>townname_combo->[geography] [Enemy]</li>
+                <li>townname_combo->[geography] de [Weapon]</li>
+                <li>townname_combo->[geography] [Weapon]</li>
+                <li>townname_combo->[geography] [ColorBadass]</li>
+                <li>geography(p=2)->[TerrainFeature]</li>
+                <li>geography->[Community]</li>
+                <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+                <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+                <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
+                <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
+                <li>townendevil->vast</li>
+                <li>townendevil->varg</li>
+                <li>townendevil->vix</li>
+                <li>townendevil->tor</li>
+                <li>townendevil->tear</li>
+                <li>townendevil->cut</li>
+                <li>townendevil->lop</li>
+                <li>townendevil->oze</li>
+                <li>townendevil->ozzle</li>
+                <li>townendevil->latch</li>
+                <li>townendevil->lock</li>
+                <li>townendevil->burn</li>
+                <li>townendevil->sear</li>
+                <li>townendevil->shank</li>
+                <li>townendevil->hurt</li>
+                <li>townendevil->vash</li>
+                <li>townendevil->warg</li>
+                <li>townendevil->wug</li>
+                <li>townendevil->thot</li>
+                <li>townendevil->thard</li>
+                <li>townendevil->thad</li>
+            </VFEI_NamerSettlementInsectoid.rulePack.rulesStrings>
+            <VFEI_NamerSettlementInsectoid.rulepack.rulesFiles>
+                <li>townname_fixed->Names/OutlanderTown</li>
+                <li>concept_positive->Words/Nouns/Concepts_Positive</li>
+            </VFEI_NamerSettlementInsectoid.rulepack.rulesFiles>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Hive -->
             <VFE_NamerFactionMechanoid.rulePack.rulesStrings>
                 <li>r_name->[fmechpart] [smechpart] [mechhive] [natoalphabet]</li>
-                <li>mechhive->mecanóide</li>
+                <li>mechhive->mecanoide</li>
                 <li>fmechpart->universal</li>
                 <li>fmechpart->poderoso(a)</li>
                 <li>fmechpart->reativo(a)</li>

@@ -831,6 +831,25 @@
             <Aurora.stages.0.label>aurora linda</Aurora.stages.0.label>
             <Aurora.stages.0.description>A vista é incrível.</Aurora.stages.0.description>
 
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- Royal Jelly -->
+            <VFEI_RoyalJellyWithdrawal.stages.1.label>abstinência de geleia real</VFEI_RoyalJellyWithdrawal.stages.1.label>
+            <VFEI_RoyalJellyWithdrawal.stages.1.description>Nunca pensei que iria querer tanto aquela geleia insectoide suculenta.</VFEI_RoyalJellyWithdrawal.stages.1.description>
+            <VFEI_AteRoyalJelly.stages.0.label>consumiu geleia real</VFEI_AteRoyalJelly.stages.0.label>
+            <VFEI_AteRoyalJelly.stages.0.description>Comi geleia real, é uma delícia!</VFEI_AteRoyalJelly.stages.0.description>
+
+        <!-- Insectoid Queen -->
+            <VFEI_SeenInsectoidQueen.stages.0.label>viu uma rainha insectoide</VFEI_SeenInsectoidQueen.stages.0.label>
+            <VFEI_SeenInsectoidQueen.stages.0.description>Esta rainha insectoide é nojenta. Está estremecendo meu corpo e minha alma.</VFEI_SeenInsectoidQueen.stages.0.description>
+
+        <!-- Cuterpillar -->
+            <VFEI_SeenCuterpillar.stages.0.label>viu uma lagraciosa</VFEI_SeenCuterpillar.stages.0.label>
+            <VFEI_SeenCuterpillar.stages.0.description>Esse pequeno insectoide sempre traz um sorriso para meu rosto.</VFEI_SeenCuterpillar.stages.0.description>
+
+        <!-- Sticky -->
+            <VFEI_Sticky.stages.0.label>pegajoso</VFEI_Sticky.stages.0.label>
+            <VFEI_Sticky.stages.0.description>Estou pegajoso(a)! Não gosto disso.</VFEI_Sticky.stages.0.description>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Wine -->
             <VFEM_DrankWine.stages.0.label>bebeu vinho horrível</VFEM_DrankWine.stages.0.label>

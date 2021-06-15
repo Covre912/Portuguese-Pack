@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageInfo>
-    <friendlyNameNative>Portugûes (Brasileiro)</friendlyNameNative>
-    <friendlyNameEnglish>Portuguese (Brazilian)</friendlyNameEnglish>
+    <friendlyNameNative>Português Brasileiro</friendlyNameNative>
+    <friendlyNameEnglish>Brazilian Portuguese</friendlyNameEnglish>
     <canBeTiny>true</canBeTiny>
+    <languageWorkerClass>LanguageWorker_Portuguese</languageWorkerClass>
     <credits>
 
         <li Class="CreditRecord_Role">

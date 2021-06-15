@@ -3,15 +3,15 @@
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- First Warning -->
-            <firstWarning.label>Aviso de Atualização Mecanóide</firstWarning.label>
-            <firstWarning.description>Os mecanóides estão próximos de obter massa crítica antes de receberem uma atualização de hardware. Destrua suas naves para detê-los.</firstWarning.description>
+            <firstWarning.label>Aviso de atualização mecanoide</firstWarning.label>
+            <firstWarning.description>Os mecanoides estão próximos de obter massa crítica antes de receberem uma atualização de hardware. Destrua suas naves para detê-los.</firstWarning.description>
 
         <!-- Second Warning -->
-            <secondWarning.label>Atualização Mecanóide Iminente</secondWarning.label>
-            <secondWarning.description>Os mecanóides obterão massa crítica e receber uma atualização de hardware em breve, se você não destruir suas naves.</secondWarning.description>
+            <secondWarning.label>Atualização mecanoide iminente</secondWarning.label>
+            <secondWarning.description>Os mecanoides obterão massa crítica e receber uma atualização de hardware em breve, se você não destruir suas naves.</secondWarning.description>
 
         <!-- Third Warning -->
-            <thirdWarning.label>Atualização Mecanóide Concluída</thirdWarning.label>
-            <thirdWarning.description>Os mecanóides obtiveram massa crítica e receberam uma atualização de hardware. Destrua as naves mecanóides para diminuir sua presença.</thirdWarning.description>
+            <thirdWarning.label>Atualização mecanoide concluída</thirdWarning.label>
+            <thirdWarning.description>Os mecanoides obtiveram massa crítica e receberam uma atualização de hardware. Destrua as naves mecanoides para diminuir sua presença.</thirdWarning.description>
 
 </LanguageData>

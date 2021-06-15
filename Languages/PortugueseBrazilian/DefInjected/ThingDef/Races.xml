@@ -832,6 +832,155 @@
             <AEXP_Porcupine.tools.1.label>garra direita</AEXP_Porcupine.tools.1.label>
             <AEXP_Porcupine.tools.3.label>cabeça</AEXP_Porcupine.tools.3.label>
 
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- Insectoid Queen -->
+            <VFEI_Insectoid_Queen.label>rainha insectoide</VFEI_Insectoid_Queen.label>
+            <VFEI_Insectoid_Queen.description>Um insectoide gigante, geneticamente modificado, responsável pela criação de novas crias. Uma mãe para os insetos em sua colmeia, uma rainha não faz trabalhos pesados ​​e tenta evitar o combate, se possível. Tão enorme quanto um thrumbo adulto, a rainha instila medo na maioria dos oponentes. Sua espessa armadura quitinosa a torna difícil de matar, enquanto lâminas longas e mortais podem rasgar a proteções de plastiaço em segundos. Apesar de ser bastante lenta em terreno aberto, uma rainha insectoide é capaz de criar novas larvas em um ritmo rápido.</VFEI_Insectoid_Queen.description>
+            <VFEI_Insectoid_Queen.tools.0.label>garra cefálica</VFEI_Insectoid_Queen.tools.0.label>
+            <VFEI_Insectoid_Queen.tools.1.label>cabeça</VFEI_Insectoid_Queen.tools.1.label>
+
+        <!-- Royal Megaspider -->
+            <VFEI_Insectoid_RoyalMegaspider.label>megaranha real</VFEI_Insectoid_RoyalMegaspider.label>
+            <VFEI_Insectoid_RoyalMegaspider.description>Na verdade, não é uma aranha, a megaranha real é uma cria natural do tamanho de um rinoceronte da própria rainha insectoide, servindo não apenas como guarda-costas, mas também como parceira primária. Projetada não para o trabalho, mas apenas para o combate, sua espessa armadura quitinosa a torna difícil de matar, enquanto suas longas lâminas mortais permitem que mate intrusos facilmente.</VFEI_Insectoid_RoyalMegaspider.description>
+            <VFEI_Insectoid_RoyalMegaspider.tools.0.label>garra cefálica</VFEI_Insectoid_RoyalMegaspider.tools.0.label>
+            <VFEI_Insectoid_RoyalMegaspider.tools.1.label>cabeça</VFEI_Insectoid_RoyalMegaspider.tools.1.label>
+
+        <!-- Gigalocust -->
+            <VFEI_Insectoid_Gigalocust.label>gigafanhoto</VFEI_Insectoid_Gigalocust.label>
+            <VFEI_Insectoid_Gigalocust.description>A genetically-engineered hunter drone the size of an elephant. It can fly over long distances, dropping down on unsuspecting targets, ripping them to shreds with its several sets of ripper-blades and sharp mandibles. Serving as special servants of the insectoid queen, these monstrosities are deadly, fast and nigh indestructible.</VFEI_Insectoid_Gigalocust.description>
+            <VFEI_Insectoid_Gigalocust.tools.0.label>garra cefálica</VFEI_Insectoid_Gigalocust.tools.0.label>
+            <VFEI_Insectoid_Gigalocust.tools.1.label>cabeça</VFEI_Insectoid_Gigalocust.tools.1.label>
+
+        <!-- Megapede -->
+            <VFEI_Insectoid_Megapede.label>megapeia</VFEI_Insectoid_Megapede.label>
+            <VFEI_Insectoid_Megapede.description>Um insectoide gigante e pesado que desliza sobre dezenas de pequenas pernas. Sua espessa armadura de quitina e mandíbulas afiadas do tamanho da presa de um elefante o tornam uma excelente máquina de cerco.</VFEI_Insectoid_Megapede.description>
+            <VFEI_Insectoid_Megapede.tools.0.label>garra cefálica</VFEI_Insectoid_Megapede.tools.0.label>
+            <VFEI_Insectoid_Megapede.tools.1.label>mandíbulas</VFEI_Insectoid_Megapede.tools.1.label>
+            <VFEI_Insectoid_Megapede.tools.2.label>cabeça</VFEI_Insectoid_Megapede.tools.2.label>
+
+        <!-- Larvae -->
+            <VFEI_Insectoid_Larvae.label>larva</VFEI_Insectoid_Larvae.label>
+            <VFEI_Insectoid_Larvae.description>A forma juvenil de um insectoide, as larvas são inofensivas, lentas e fáceis de matar. Passado algum tempo, sofre uma metamorfose, transformando-se num insectoide adulto qualquer.</VFEI_Insectoid_Larvae.description>
+            <VFEI_Insectoid_Larvae.tools.0.label>garra cefálica</VFEI_Insectoid_Larvae.tools.0.label>
+
+        <!-- Vat-Grown Boomtick -->
+            <VFEI_VatgrownBoomtick.label>carrabum genético</VFEI_VatgrownBoomtick.label>
+            <VFEI_VatgrownBoomtick.description>Um pequeno carrapato geneticamente modificado carregando um saco de produtos químicos explosivos. Sua velocidade e mandíbulas afiadas são suficientes para assustar a maioria dos predadores, e o fato de explodir ao morrer é o golpe final para quem não tem medo. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatgrownBoomtick.description>
+            <VFEI_VatgrownBoomtick.tools.0.label>mandíbulas</VFEI_VatgrownBoomtick.tools.0.label>
+            <VFEI_VatgrownBoomtick.tools.1.label>cabeça</VFEI_VatgrownBoomtick.tools.1.label>
+
+        <!-- Vat-Grown Cuterpillar -->
+            <VFEI_VatGrownCuterpillar.label>lagraciosa genética</VFEI_VatGrownCuterpillar.label>
+            <VFEI_VatGrownCuterpillar.description>Um pequeno insectoide feito quase inteiramente de geleia real. Sua aparência macia e bela é suficiente para que os humanos queiram passar cada minuto ao seu redor. Lagraciosas são muito valiosas no mercado negro. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatGrownCuterpillar.description>
+            <VFEI_VatGrownCuterpillar.tools.0.label>mandíbulas</VFEI_VatGrownCuterpillar.tools.0.label>
+            <VFEI_VatGrownCuterpillar.tools.1.label>cabeça</VFEI_VatGrownCuterpillar.tools.1.label>
+
+        <!-- Vat-Grown Gigascorpion -->
+            <VFEI_VatGrownGigascorpion.label>grandescorpião genético</VFEI_VatGrownGigascorpion.label>
+            <VFEI_VatGrownGigascorpion.description>Uma criatura do tamanho de um carro consistindo quase inteiramente de músculos, placas de quitina espessa, garras e um ferrão. Este insectoide é rápido, ágil e capaz de infligir picadas venenosas a seus inimigos. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatGrownGigascorpion.description>
+            <VFEI_VatGrownGigascorpion.tools.0.label>pinça esquerda</VFEI_VatGrownGigascorpion.tools.0.label>
+            <VFEI_VatGrownGigascorpion.tools.1.label>pinça direita</VFEI_VatGrownGigascorpion.tools.1.label>
+            <VFEI_VatGrownGigascorpion.tools.3.label>cabeça</VFEI_VatGrownGigascorpion.tools.3.label>
+
+        <!-- Vat-Grown Gigawig -->
+            <VFEI_VatGrownGigawig.label>penorme genético</VFEI_VatGrownGigawig.label>
+            <VFEI_VatGrownGigawig.description>Um enorme insectoide que consiste em vários segmentos de placas duras de quitina, com grandes garras que permitem cavar através de rocha para desenterrar minerais e minérios. Frequentemente usado para trbalho em pedreiras e minas, o penorme cava regularmente no solo, consumindo pedras e deixando metais valiosos prontos para serem coletados. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatGrownGigawig.description>
+            <VFEI_VatGrownGigawig.tools.0.label>mandíbulas</VFEI_VatGrownGigawig.tools.0.label>
+            <VFEI_VatGrownGigawig.tools.1.label>cabeça</VFEI_VatGrownGigawig.tools.1.label>
+
+        <!-- Vat-Grown Megacricket -->
+            <VFEI_VatGrownMegacricket.label>grilossal genético</VFEI_VatGrownMegacricket.label>
+            <VFEI_VatGrownMegacricket.description>Uma combinação de um grilo e um caruncho de tamanho médio, os grilossais se alimentam de árvores e vegetação. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatGrownMegacricket.description>
+            <VFEI_VatGrownMegacricket.tools.0.label>mandíbulas</VFEI_VatGrownMegacricket.tools.0.label>
+            <VFEI_VatGrownMegacricket.tools.1.label>cabeça</VFEI_VatGrownMegacricket.tools.1.label>
+
+        <!-- Vat-Grown Milkbeetle -->
+            <VFEI_VatGrownMilkbeetle.label>leitesouro genético</VFEI_VatGrownMilkbeetle.label>
+            <VFEI_VatGrownMilkbeetle.description>Um grande animal de gado criado por bioengenharia, os leitesouros produzem leite insectoide espesso em um grande saco em suas costas. Embora seja moderadamente blindado, as placas de quitina podem ser removidas com segurança à medida que voltam a crescer rapidamente. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatGrownMilkbeetle.description>
+            <VFEI_VatGrownMilkbeetle.tools.0.label>mandíbulas</VFEI_VatGrownMilkbeetle.tools.0.label>
+            <VFEI_VatGrownMilkbeetle.tools.1.label>cabeça</VFEI_VatGrownMilkbeetle.tools.1.label>
+
+        <!-- Vat-Grown Monstrosity -->
+            <VFEI_VatGrownMonstrosity.label>monstruosidade genética</VFEI_VatGrownMonstrosity.label>
+            <VFEI_VatGrownMonstrosity.description>Resultado de um experimento fracassado, essa monstruosidade genética é um insectoide quase indestrutível, com todo o seu corpo consistindo de quitina espessa e músculos fortes, capaz de regenerar membros em um ritmo rápido. Por causa de órgãos subdesenvolvidos, esta criatura é incapaz de sobreviver mais do que algumas horas, mas sua velocidade, força e agilidade são suficientes para encerrar uma série de laboratórios de pesquisa ao longo da galáxia.</VFEI_VatGrownMonstrosity.description>
+            <VFEI_VatGrownMonstrosity.tools.0.label>garra cefálica</VFEI_VatGrownMonstrosity.tools.0.label>
+            <VFEI_VatGrownMonstrosity.tools.1.label>mandíbulas</VFEI_VatGrownMonstrosity.tools.1.label>
+            <VFEI_VatGrownMonstrosity.tools.2.label>cabeça</VFEI_VatGrownMonstrosity.tools.2.label>
+
+        <!-- Vat-Grown Princess -->
+            <VFEI_VatGrownPrincess.label>princesa genética</VFEI_VatGrownPrincess.label>
+            <VFEI_VatGrownPrincess.description>Um insectoide gigante, geneticamente modificado, responsável pela criação de grandes quantidades de ovos insectoides. Uma mera sombra de uma rainha insectoide real, uma princesa é lenta, totalmente incapaz de lidar com situações de combate, e não tão intimidante quanto a contraparte natural. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatGrownPrincess.description>
+            <VFEI_VatGrownPrincess.tools.0.label>mandíbulas</VFEI_VatGrownPrincess.tools.0.label>
+            <VFEI_VatGrownPrincess.tools.1.label>cabeça</VFEI_VatGrownPrincess.tools.1.label>
+
+        <!-- Vat-Grown Royal Larva -->
+            <VFEI_VatgrownRoyalLarva.label>larva real genética</VFEI_VatgrownRoyalLarva.label>
+            <VFEI_VatgrownRoyalLarva.description>Uma grande larva modificada por bioengenharia contendo um saco de geleia insectoide real. Seu propósito natural é se tornar alimento para outras castas insetcoides, portanto, não desempenha nenhum papel importante em sua sociedade. Quando abatido, o saco de geleia real pode ser preparado com segurança para consumo. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatgrownRoyalLarva.description>
+            <VFEI_VatgrownRoyalLarva.tools.0.label>mandíbulas</VFEI_VatgrownRoyalLarva.tools.0.label>
+            <VFEI_VatgrownRoyalLarva.tools.1.label>cabeça</VFEI_VatgrownRoyalLarva.tools.1.label>
+
+        <!-- Vat-Grown Royal Maggot -->
+            <VFEI_VatGrownRoyalMaggot.label>verme real genético</VFEI_VatGrownRoyalMaggot.label>
+            <VFEI_VatGrownRoyalMaggot.description>Um insectoide longo, lento e repugnante semelhante a um verme, com um grande saco de geleia insetoide real em suas costas. O verme real deixa um rastro nojento de gosma insectoide por onde passa, mas regularmente produz torrões de geleia real, pronta para o consumo. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatGrownRoyalMaggot.description>
+            <VFEI_VatGrownRoyalMaggot.tools.0.label>mandíbulas</VFEI_VatGrownRoyalMaggot.tools.0.label>
+            <VFEI_VatGrownRoyalMaggot.tools.1.label>cabeça</VFEI_VatGrownRoyalMaggot.tools.1.label>
+
+        <!-- Vat-Grown Spiderweaver -->
+            <VFEI_VatGrownSpiderweaver.label>tecelaranha genética</VFEI_VatGrownSpiderweaver.label>
+            <VFEI_VatGrownSpiderweaver.description>Uma aranha insectoide produzida por bioengenharia do tamanho de um urso. Projetada para a produção de uma bela seda insectoide e às vezes empregada em combate, sua espessa armadura quitinosa torna-a difícil de matar, enquanto suas mandíbulas afiadas permitem que rasgue os inimigos em pedaços. No entanto, é bastante lenta em terreno aberto. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatGrownSpiderweaver.description>
+            <VFEI_VatGrownSpiderweaver.tools.0.label>garra cefálica</VFEI_VatGrownSpiderweaver.tools.0.label>
+            <VFEI_VatGrownSpiderweaver.tools.1.label>cabeça</VFEI_VatGrownSpiderweaver.tools.1.label>
+
+        <!-- Vat-Grown Titanbeetle -->
+            <VFEI_VatGrownTitanbeetle.label>tisouro genético</VFEI_VatGrownTitanbeetle.label>
+            <VFEI_VatGrownTitanbeetle.description>Um insectoide gigante, parecido com um besouro, reconhecido por sua capacidade de quebrar rochas sólidas em pedaços menores e mais fáceis de transportar. É fortemente blindado para salvá-lo de eventuais avalanches, enquanto seu chifre mortal permite que elimine rapidamente predadores em potencial com um único golpe. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatGrownTitanbeetle.description>
+            <VFEI_VatGrownTitanbeetle.tools.0.label>garra cefálica</VFEI_VatGrownTitanbeetle.tools.0.label>
+            <VFEI_VatGrownTitanbeetle.tools.1.label>mandíbulas</VFEI_VatGrownTitanbeetle.tools.1.label>
+            <VFEI_VatGrownTitanbeetle.tools.2.label>cabeça</VFEI_VatGrownTitanbeetle.tools.2.label>
+
+        <!-- Vat-Grown Gigacolust -->
+            <VFEI_VatGrownGigalocust.label>gigafanhoto genético</VFEI_VatGrownGigalocust.label>
+            <VFEI_VatGrownGigalocust.description>Um gigafanhoto é um drone caçador geneticamente modificado do tamanho de um elefante. Ele pode rapidamente fechar distâncias para seus inimigos, rasgando-os em pedaços com seus vários conjuntos de lâminas e mandíbulas afiadas. Servindo como servos especiais da rainha insectoide, essas monstruosidades são mortais, rápidas e quase indestrutíveis. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatGrownGigalocust.description>
+            <VFEI_VatGrownGigalocust.tools.0.label>garra cefálica</VFEI_VatGrownGigalocust.tools.0.label>
+            <VFEI_VatGrownGigalocust.tools.1.label>cabeça</VFEI_VatGrownGigalocust.tools.1.label>
+    
+        <!-- Vat-Grown Megapede -->    
+            <VFEI_VatGrownMegapede.label>megapeia genética</VFEI_VatGrownMegapede.label>
+            <VFEI_VatGrownMegapede.description>Um insectoide gigante e pesado que desliza sobre dezenas de pequenas pernas. Sua espessa armadura de quitina e mandíbulas afiadas do tamanho da presa de um elefante o tornam uma excelente máquina de cerco. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatGrownMegapede.description>
+            <VFEI_VatGrownMegapede.tools.0.label>garra cefálica</VFEI_VatGrownMegapede.tools.0.label>
+            <VFEI_VatGrownMegapede.tools.1.label>mandíbulas</VFEI_VatGrownMegapede.tools.1.label>
+            <VFEI_VatGrownMegapede.tools.2.label>cabeça</VFEI_VatGrownMegapede.tools.2.label>
+
+        <!-- Vat-Grown Megascarab -->
+            <VFEI_VatGrownMegascarab.label>megaescaravelho genético</VFEI_VatGrownMegascarab.label>
+            <VFEI_VatGrownMegascarab.description>Um grande escaravelho geneticamente modificado. Outrora a casta operária de um ecossistema artificial de insectoides projetado para lutar contra invasões mecanoides, agora é geralmente visto sem seus primos mais mortíferos. Ainda assim, seu tamanho e casca rígida o tornam perigoso quando ataca. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatGrownMegascarab.description>
+            <VFEI_VatGrownMegascarab.tools.0.label>mandíbulas</VFEI_VatGrownMegascarab.tools.0.label>
+            <VFEI_VatGrownMegascarab.tools.1.label>cabeça</VFEI_VatGrownMegascarab.tools.1.label>
+
+        <!-- Vat-Grown Megaspider -->
+            <VFEI_VatgrownMegaspider.label>megaranha genética</VFEI_VatgrownMegaspider.label>
+            <VFEI_VatgrownMegaspider.description>Na verdade, não é uma aranha, mas sim um insectoide gigante geneticamente modificado do tamanho de um urso. Projetado para trabalho pesado e combate, sua espessa armadura quitinosa torna-a difícil de matar, enquanto suas longas lâminas mortais a tornam mortal. No entanto, é bastante lenta em terreno aberto. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatgrownMegaspider.description>
+            <VFEI_VatgrownMegaspider.tools.0.label>garra cefálica</VFEI_VatgrownMegaspider.tools.0.label>
+            <VFEI_VatgrownMegaspider.tools.1.label>cabeça</VFEI_VatgrownMegaspider.tools.1.label>
+
+        <!-- Vat-Grown Spelopede -->
+            <VFEI_VatGrownSpelopede.label>espelópede genético</VFEI_VatGrownSpelopede.label>
+            <VFEI_VatGrownSpelopede.description>Um insectoide da bioengenharia de tamanho médio. O espelópede é a casta média de uma colmeia, cuidando da maioria das tarefas de trabalho e também lutando com suas garras escavadoras. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatGrownSpelopede.description>
+            <VFEI_VatGrownSpelopede.tools.0.label>garra cefálica</VFEI_VatGrownSpelopede.tools.0.label>
+            <VFEI_VatGrownSpelopede.tools.1.label>cabeça</VFEI_VatGrownSpelopede.tools.1.label>
+
+        <!-- Vat-Grown Wargling -->
+            <VFEI_VatGrownWargling.label>mariwarg genética</VFEI_VatGrownWargling.label>
+            <VFEI_VatGrownWargling.description>Um insectoide de combate do tamanho de um cachorro, geralmente encarregado de defender propriedades. Sua velocidade combinada com mandíbulas fortes e vários apêndices afiados permitem que enfrente rapidamente agressores muito maiores. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatGrownWargling.description>
+            <VFEI_VatGrownWargling.tools.0.label>mandíbulas</VFEI_VatGrownWargling.tools.0.label>
+            <VFEI_VatGrownWargling.tools.3.label>cabeça</VFEI_VatGrownWargling.tools.3.label>
+
+        <!-- Vat-Grown Worker Ant -->
+            <VFEI_VatGrownWorkerAnt.label>formigartífice genética</VFEI_VatGrownWorkerAnt.label>
+            <VFEI_VatGrownWorkerAnt.description>Uma formiga de tamanho médio, projetada pela bioengenharia. É a casta média de uma colmeia, responsável pela distribuição de recursos e entrega de alimentos. As formigartífices são capazes de transportar grandes volumes de materiais por longas distâncias com facilidade. Uma criatura genética é incapaz de se reproduzir e sua vida útil é significativamente reduzida.</VFEI_VatGrownWorkerAnt.description>
+            <VFEI_VatGrownWorkerAnt.tools.0.label>mandíbulas</VFEI_VatGrownWorkerAnt.tools.0.label>
+            <VFEI_VatGrownWorkerAnt.tools.1.label>cabeça</VFEI_VatGrownWorkerAnt.tools.1.label>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Advanced Centipede -->
             <VFE_Mech_AdvancedCentipede.label>centopéia avançada</VFE_Mech_AdvancedCentipede.label>

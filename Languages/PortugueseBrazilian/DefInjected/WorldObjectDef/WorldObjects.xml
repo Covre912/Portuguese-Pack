@@ -22,6 +22,11 @@
             <City_Compromised.label>cidade arruinada</City_Compromised.label>
             <City_Compromised.description>Uma cidade perigosa, sem leis e controlada por gangues.</City_Compromised.description>
 
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- Teleporter Beam -->
+            <VFEI_TTraveling.label>feixe de teletransporte</VFEI_TTraveling.label>
+            <VFEI_TTraveling.description>Feixe de teletransporte.</VFEI_TTraveling.description>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Frigate -->
             <VFEM_Frigate.label>fragata mecanóide</VFEM_Frigate.label>

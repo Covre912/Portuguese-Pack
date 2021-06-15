@@ -740,6 +740,111 @@
             <Hunter.labelFemale>caçadora</Hunter.labelFemale>
             <Hunter.labelFemalePlural>caçadoras</Hunter.labelFemalePlural>
 
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- Anti-Riot Unit -->
+            <VFEI_RiotUnit.label>unidade anti-choque</VFEI_RiotUnit.label>
+            <VFEI_RiotUnit.labelPlural>unidades anti-choque</VFEI_RiotUnit.labelPlural>
+
+        <!-- Mercenary -->
+            <VFE_Mercenary.label>mercenário</VFE_Mercenary.label>
+            <VFE_Mercenary.labelPlural>mercenários</VFE_Mercenary.labelPlural>
+
+        <!-- Insectoid Queen -->
+            <VFEI_Insectoid_Queen.label>rainha insectoide</VFEI_Insectoid_Queen.label>
+            <VFEI_Insectoid_Queen.labelPlural>rainhas insectoides</VFEI_Insectoid_Queen.labelPlural>
+
+        <!-- Royal Megaspider -->
+            <VFEI_Insectoid_RoyalMegaspider.label>megaranha real</VFEI_Insectoid_RoyalMegaspider.label>
+            <VFEI_Insectoid_RoyalMegaspider.labelPlural>megaranhas reais</VFEI_Insectoid_RoyalMegaspider.labelPlural>
+
+        <!-- Gigacolust -->
+            <VFEI_Insectoid_Gigalocust.label>gigafanhoto</VFEI_Insectoid_Gigalocust.label>
+            <VFEI_Insectoid_Gigalocust.labelPlural>gigafanhotos</VFEI_Insectoid_Gigalocust.labelPlural>
+
+        <!-- Megapede -->
+            <VFEI_Insectoid_Megapede.label>megapeia</VFEI_Insectoid_Megapede.label>
+            <VFEI_Insectoid_Megapede.labelPlural>megapeias</VFEI_Insectoid_Megapede.labelPlural>
+
+        <!-- Larvae -->
+            <VFEI_Insectoid_Larvae.label>larva</VFEI_Insectoid_Larvae.label>
+            <VFEI_Insectoid_Larvae.labelPlural>larvas</VFEI_Insectoid_Larvae.labelPlural>
+
+        <!-- Vat-Grown Boomtick -->
+            <VFEI_VatgrownBoomtick.label>carrabum genético</VFEI_VatgrownBoomtick.label>
+            <VFEI_VatgrownBoomtick.labelPlural>carrabuns genéticos</VFEI_VatgrownBoomtick.labelPlural>
+
+        <!-- Vat-Grown Cuterpillar -->
+            <VFEI_VatGrownCuterpillar.label>lagraciosa genética</VFEI_VatGrownCuterpillar.label>
+            <VFEI_VatGrownCuterpillar.labelPlural>lagraciosas genéticas</VFEI_VatGrownCuterpillar.labelPlural>
+
+        <!-- Vat-Grown Gigascorpion -->
+            <VFEI_VatGrownGigascorpion.label>grandescorpião genético</VFEI_VatGrownGigascorpion.label>
+            <VFEI_VatGrownGigascorpion.labelPlural>grandescorpiões genéticos</VFEI_VatGrownGigascorpion.labelPlural>
+
+        <!-- Vat-Grown Gigawig -->
+            <VFEI_VatGrownGigawig.label>penorme genético</VFEI_VatGrownGigawig.label>
+            <VFEI_VatGrownGigawig.labelPlural>penormes genéticos</VFEI_VatGrownGigawig.labelPlural>
+
+        <!-- Vat-Grown Megacricket -->
+            <VFEI_VatGrownMegacricket.label>grilossal genético</VFEI_VatGrownMegacricket.label>
+            <VFEI_VatGrownMegacricket.labelPlural>grilossais genéticos</VFEI_VatGrownMegacricket.labelPlural>
+
+        <!-- Vat-Grown Milkbeetle -->
+            <VFEI_VatGrownMilkbeetle.label>leitesouro genético</VFEI_VatGrownMilkbeetle.label>
+            <VFEI_VatGrownMilkbeetle.labelPlural>leitesouros genéticos</VFEI_VatGrownMilkbeetle.labelPlural>
+
+        <!-- Vat-Grown Monstrosity -->
+            <VFEI_VatGrownMonstrosity.label>monstruosidade genética</VFEI_VatGrownMonstrosity.label>
+            <VFEI_VatGrownMonstrosity.labelPlural>monstruosidades genéticas</VFEI_VatGrownMonstrosity.labelPlural>
+
+        <!-- Vat-Grown Princess -->
+            <VFEI_VatGrownPrincess.label>princesa genética</VFEI_VatGrownPrincess.label>
+            <VFEI_VatGrownPrincess.labelPlural>princesas genéticas</VFEI_VatGrownPrincess.labelPlural>
+
+        <!-- Vat-Grown Royal Larva -->
+            <VFEI_VatgrownRoyalLarva.label>larva real genética</VFEI_VatgrownRoyalLarva.label>
+            <VFEI_VatgrownRoyalLarva.labelPlural>larvas reais genéticas</VFEI_VatgrownRoyalLarva.labelPlural>
+
+        <!-- Vat-Grown Royal Maggot -->
+            <VFEI_VatGrownRoyalMaggot.label>verme real genético</VFEI_VatGrownRoyalMaggot.label>
+            <VFEI_VatGrownRoyalMaggot.labelPlural>vermes reais genéticos</VFEI_VatGrownRoyalMaggot.labelPlural>
+
+        <!-- Vat-Grown Spiderweaver -->
+            <VFEI_VatGrownSpiderweaver.label>tecelaranha genética</VFEI_VatGrownSpiderweaver.label>
+            <VFEI_VatGrownSpiderweaver.labelPlural>tecelaranhas genéticas</VFEI_VatGrownSpiderweaver.labelPlural>
+
+        <!-- Vat-Grown Titanbeetle -->
+            <VFEI_VatGrownTitanbeetle.label>tisouro genético</VFEI_VatGrownTitanbeetle.label>
+            <VFEI_VatGrownTitanbeetle.labelPlural>tisouros genéticos</VFEI_VatGrownTitanbeetle.labelPlural>
+
+        <!-- Vat-Grown Gigalocust -->
+            <VFEI_VatGrownGigalocust.label>gigafanhoto genético</VFEI_VatGrownGigalocust.label>
+            <VFEI_VatGrownGigalocust.labelPlural>gigafanhotos genéticos</VFEI_VatGrownGigalocust.labelPlural>
+
+        <!-- Vat-Grown Megapede -->
+            <VFEI_VatGrownMegapede.label>megapeia genética</VFEI_VatGrownMegapede.label>
+            <VFEI_VatGrownMegapede.labelPlural>megapeias genéticas</VFEI_VatGrownMegapede.labelPlural>
+
+        <!-- Vat-Grown Megascarab -->
+            <VFEI_VatGrownMegascarab.label>megaescaravelho genético</VFEI_VatGrownMegascarab.label>
+            <VFEI_VatGrownMegascarab.labelPlural>megaescaravelhos genéticos</VFEI_VatGrownMegascarab.labelPlural>
+
+        <!-- Vat-Grown Megaspider -->
+            <VFEI_VatgrownMegaspider.label>megaranha genética</VFEI_VatgrownMegaspider.label>
+            <VFEI_VatgrownMegaspider.labelPlural>megaranhas genéticas</VFEI_VatgrownMegaspider.labelPlural>
+
+        <!-- Vat-Grown Spelopede -->
+            <VFEI_VatGrownSpelopede.label>espelópede genético</VFEI_VatGrownSpelopede.label>
+            <VFEI_VatGrownSpelopede.labelPlural>espelópedes genéticos</VFEI_VatGrownSpelopede.labelPlural>
+
+        <!-- Vat-Grown Wargling -->
+            <VFEI_VatGrownWargling.label>mariwarg genética</VFEI_VatGrownWargling.label>
+            <VFEI_VatGrownWargling.labelPlural>mariwargs genéticas</VFEI_VatGrownWargling.labelPlural>
+
+        <!-- Vat-Grown Worker Ant -->
+            <VFEI_VatGrownWorkerAnt.label>formigartífice genética</VFEI_VatGrownWorkerAnt.label>
+            <VFEI_VatGrownWorkerAnt.labelPlural>formigartífices genéticas</VFEI_VatGrownWorkerAnt.labelPlural>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Advanced Centipede -->
             <VFE_Mech_AdvancedCentipede.label>centopéia avançada</VFE_Mech_AdvancedCentipede.label>

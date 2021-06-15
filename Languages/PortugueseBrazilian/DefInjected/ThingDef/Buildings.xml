@@ -617,18 +617,78 @@
 
     <!-- Vanilla Events Expanded -->
         <!-- Ship Chunk -->
-            <VEE_ShipChunkHuman.label>pedaço de nave</VEE_ShipChunkHuman.label>
-            <VEE_ShipChunkHuman.description>Um pedaço de uma nave espacial. Pode ser desconstruído para render recursos úteis.</VEE_ShipChunkHuman.description>
+            <VEE_ShipChunkHuman.label>pedaço de espaçonave</VEE_ShipChunkHuman.label>
+            <VEE_ShipChunkHuman.description>Um pedaço de uma espaçonave espacial. Pode ser desconstruído para render recursos úteis.</VEE_ShipChunkHuman.description>
 
         <!-- Shuttle -->
-            <VEE_Shuttle.label>pedaço de nave</VEE_Shuttle.label>
-            <VEE_Shuttle.description>Um pedaço de uma nave auxiliar. Pode ser desconstruído para render recursos úteis.</VEE_Shuttle.description>
+            <VEE_Shuttle.label>transporte</VEE_Shuttle.label>
+            <VEE_Shuttle.description>Um pedaço de um transporte. Pode ser desconstruído para render recursos úteis.</VEE_Shuttle.description>
 
         <!-- Shuttle Chunk -->
-            <ShuttleChunkIncoming.label>pedaço de nave</ShuttleChunkIncoming.label>
+            <ShuttleChunkIncoming.label>pedaço de espaçonave</ShuttleChunkIncoming.label>
 
         <!-- Slag Incoming -->
             <SlagIncoming.label>escória</SlagIncoming.label>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- Teleporter -->
+            <VFEI_TeleporterTraveler.label>teletransportador</VFEI_TeleporterTraveler.label>
+
+        <!-- Infested Crashed Ship Module -->
+            <VFEI_InfestedCrashedShipModule.label>módulo de espaçonave acidentada infestado</VFEI_InfestedCrashedShipModule.label>
+            <VFEI_InfestedCrashedShipModule.description>Um segmento misterioso de uma espaçonave destruída há muito tempo. Pode conter materiais exóticos, computadores e até núcleos de personalidade IA. Parece estar completamente coberto de biomassa e de geleia de inseto. É quase certo que esses velhos destroços podem conter grandes perigos.</VFEI_InfestedCrashedShipModule.description>
+
+        <!-- Infested Crashed Ship Part -->
+            <VFEI_InfestedCrashedShipPart.label>parte de espaçonave acidentada infestada</VFEI_InfestedCrashedShipPart.label>
+            <VFEI_InfestedCrashedShipPart.description>Um pedaço misterioso de uma espaçonave. Pode conter materiais exóticos, computadores e até núcleos de personalidade IA. Parece estar coberto de biomassa e de geleia de inseto. Bizarros barulhos de insetos podem ser ouvidos dentro da carcaça.</VFEI_InfestedCrashedShipPart.description>
+
+        <!-- Infested Ship Chunk -->
+            <VFEI_InfestedShipChunk.label>pedaço de espaçonave infestado</VFEI_InfestedShipChunk.label>
+            <VFEI_InfestedShipChunk.description>Um pedaço de uma espaçonave coberto de biomassa e de geleia de inseto. Bizarros barulhos de insetos podem ser ouvidos dentro da carcaça. Pode ser desconstruído por aço e componentes úteis.</VFEI_InfestedShipChunk.description>
+
+        <!-- Meteorite -->
+            <VFEI_InsectMeteoriteIncoming.label>meteorito</VFEI_InsectMeteoriteIncoming.label>
+
+        <!-- Bio-Engineering Incubator -->
+            <VFEI_BioengineeringIncubator.label>incubadora de bioengenharia</VFEI_BioengineeringIncubator.label>
+            <VFEI_BioengineeringIncubator.description>Um tanque ultra-tecnológico conectado a sistemas avançados de suporte de vida. Frequentemente usada para experimentos legais, a incubadora é capaz de misturar genomas e criar modificações genéticas na forma de criaturas vivas.</VFEI_BioengineeringIncubator.description>
+
+        <!-- Mote -->
+            <VFEI_Mote.label>partícula</VFEI_Mote.label>
+            <VFEI_Mote.description>Não se preocupe comigo, eu sou inútil para você.</VFEI_Mote.description>
+
+        <!-- Tunnel -->
+            <VFEI_TunnelHiveSpawner.label>túnel</VFEI_TunnelHiveSpawner.label>
+
+        <!-- Large Hive -->
+            <VFEI_LargeHive.label>colmeia grande</VFEI_LargeHive.label>
+            <VFEI_LargeHive.description>Uma enorme colmeia de insectoides. Se despertado, irá gerar outros insetos e colmeias com o tempo, bem como uma deliciosa e valiosa geleia de inseto.</VFEI_LargeHive.description>
+
+        <!-- Cocoon -->
+            <VFEI_InsectoidLarvaeCocoon.label>casulo</VFEI_InsectoidLarvaeCocoon.label>
+            <VFEI_InsectoidLarvaeCocoon.description>Um casulo insectoide.</VFEI_InsectoidLarvaeCocoon.description>
+
+        <!-- Small Burrow -->
+            <VFEI_BurrowSmall.label>toca pequena</VFEI_BurrowSmall.label>
+            <VFEI_BurrowSmall.description>Uma toca levando a uma teia de túneis insectoides. Gerará ondas de castas inferiores de insetos periodicamente até ser destruída.</VFEI_BurrowSmall.description>
+
+        <!-- Medium Burrow -->
+            <VFEI_BurrowMedium.label>toca média</VFEI_BurrowMedium.label>
+            <VFEI_BurrowMedium.description>Uma toca levando a uma teia de túneis insectoides. Gerará ondas de castas medianas de insetos periodicamente até ser destruída.</VFEI_BurrowMedium.description>
+
+        <!-- Royal Burrow -->
+            <VFEI_BurrowRoyal.label>toca real</VFEI_BurrowRoyal.label>
+            <VFEI_BurrowRoyal.description>Uma toca levando a uma teia de túneis insectoides. Gerará ondas de castas superiores de insetos periodicamente até ser destruída.</VFEI_BurrowRoyal.description>
+
+        <!-- Sonic Infestation Repeller -->
+            <VFEI_SonicInfestationRepeller.label>repelente de infestação sônica</VFEI_SonicInfestationRepeller.label>
+            <VFEI_SonicInfestationRepeller.description>Um grande dispositivo ultra-tecnológico capaz de emitir um pulso sônico que repele movimentos insectoides. Embora remova significativamente o risco de infestações, enfurece rainhas e pode desencadear hordas insectoides mais poderosas.</VFEI_SonicInfestationRepeller.description>
+
+        <!-- Skyfaller -->
+            <VFEI_InfestedShipChunkIncoming.label>parte de espaçonave infestada</VFEI_InfestedShipChunkIncoming.label>
+            <VFEI_InfestedShipPartIncoming.label>parte de espaçonave infestada</VFEI_InfestedShipPartIncoming.label>
+            <VFEI_InfestedShipModuleIncoming.label>parte de espaçonave infestada</VFEI_InfestedShipModuleIncoming.label>
+            <VFEI_GigalocustIncoming.label>gigafanhoto</VFEI_GigalocustIncoming.label>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Factory Hopper -->
@@ -765,7 +825,7 @@
 
         <!-- Terraformer -->
             <VFE_MechanoidTerraformer.label>terraformador</VFE_MechanoidTerraformer.label>
-            <VFE_MechanoidTerraformer.description>Um dispositivo ultratecnológico de destruição em massa, o terraformador mecanóide coleta o oxigênio disponível e extrai gases tóxicos em seu lugar. O veneno vazando para o solo ao redor lentamente transforma o planeta em um deserto árido.</VFE_MechanoidTerraformer.description>
+            <VFE_MechanoidTerraformer.description>Um dispositivo ultra-tecnológico de destruição em massa, o terraformador mecanóide coleta o oxigênio disponível e extrai gases tóxicos em seu lugar. O veneno vazando para o solo ao redor lentamente transforma o planeta em um deserto árido.</VFE_MechanoidTerraformer.description>
 
         <!-- Heavy Machinery -->
             <VFE_HeavyMachinery.label>maquinário pesado</VFE_HeavyMachinery.label>
@@ -777,7 +837,7 @@
 
         <!-- Climate Adjuster -->
             <VFE_ClimateAdjuster.label>ajustador climático</VFE_ClimateAdjuster.label>
-            <VFE_ClimateAdjuster.description>Um dispositivo ultratecnológico acoplado a uma nave mecanóide para controlar o clima. Usando produtos químicos e campos exóticos para manipular a atmosfera, ele altera a temperatura nesta região do mundo.</VFE_ClimateAdjuster.description>
+            <VFE_ClimateAdjuster.description>Um dispositivo ultra-tecnológico acoplado a uma nave mecanóide para controlar o clima. Usando produtos químicos e campos exóticos para manipular a atmosfera, ele altera a temperatura nesta região do mundo.</VFE_ClimateAdjuster.description>
 
         <!-- EMI Dynamo -->
             <VFE_EMIDynamo.label>dínamo IEM</VFE_EMIDynamo.label>
@@ -1169,6 +1229,10 @@
             <Table_Royal3x3c.description>Uma mesa de aparência impressionante, completa com uma borda externa dourada e extremidades arredondadas, adequada para os ricos.</Table_Royal3x3c.description>
             <Table_Royal2x4c.label>mesa real (2x4)</Table_Royal2x4c.label>
             <Table_Royal2x4c.description>Uma mesa de aparência impressionante, completa com uma borda externa dourada e extremidades arredondadas, adequada para os ricos.</Table_Royal2x4c.description>
+
+        <!-- Air Conditioning Unit -->
+            <AirConditioningUnit.label>ar condicionado</AirConditioningUnit.label>
+            <AirConditioningUnit.description>Uma máquina de refrigeração de ar que se encaixa na parede. Faz a exaustão do ar frio sem forçar o ar quente para outra sala. Pode ser usado para resfriar ambientes durante o verão ou para criar um frigorífico.</AirConditioningUnit.description>
 
     <!-- Vanilla Furniture Expanded - Art -->
         <!-- Archotech Sculpture -->
@@ -2958,7 +3022,7 @@
             <VFEPD_Clivia.description>Uma planta incomum com flores altas e bonitas. Alguns a chamam de 'lírio do mato'.</VFEPD_Clivia.description>
 
         <!-- Giant Rafflesia -->    
-            <VFEPD_Rafflesia.label>rafflesia gigante</VFEPD_Rafflesia.label>
+            <VFEPD_Rafflesia.label>raflésia gigante</VFEPD_Rafflesia.label>
             <VFEPD_Rafflesia.description>Uma flor rara e gigante que pode ser encontrada nas selvas fumegantes. Você pensaria que uma flor gigante seria linda, mas esta parece e cheira a carne podre.</VFEPD_Rafflesia.description>
 
         <!-- Advanced Rotor -->
@@ -3221,7 +3285,7 @@
             <VFES_TurretDoubleAutocannon_Top.description>Um canhão automático duplo de grande calibre projetado para ser acoplado a uma torreta.</VFES_TurretDoubleAutocannon_Top.description>
 
         <!-- Rocket Turret -->
-            <VFES_Turret_TriRocket.label>´canhão de mísseis</VFES_Turret_TriRocket.label>
+            <VFES_Turret_TriRocket.label>canhão de mísseis</VFES_Turret_TriRocket.label>
             <VFES_Turret_TriRocket.description>Um canhão pesado capaz de lançar uma barragem de superfície autopropelida de mísseis. Impossível disparar contra alvos próximos e pode explodir quando danificada.</VFES_Turret_TriRocket.description>
             <VFES_Turret_TriRocket.comps.5.fuelLabel>Tiros até recarga</VFES_Turret_TriRocket.comps.5.fuelLabel>
             <VFES_Turret_TriRocket.comps.5.fuelGizmoLabel>estoque de mísseis</VFES_Turret_TriRocket.comps.5.fuelGizmoLabel>
@@ -3312,11 +3376,11 @@
 
         <!-- Small Shield Generator -->
             <VFES_ShieldGenerator_Small.label>gerador de escudo pequeno</VFES_ShieldGenerator_Small.label>
-            <VFES_ShieldGenerator_Small.description>Um dispositivo ultratecnológico que projeta um campo de energia potente ao redor de si mesmo, mas consome uma grande quantidade de energia quando ativo. Funciona através de paredes.\n\nOs geradores de escudo só são ativados quando há uma ameaça ativa presente, como uma invasão ou um cerco. Caso contrário, eles permanecem em um estado inativo e consomem muito menos energia.\n\nPode incendiar a área circundante se dano suficiente for absorvido em um curto período de tempo.</VFES_ShieldGenerator_Small.description>
+            <VFES_ShieldGenerator_Small.description>Um dispositivo ultra-tecnológico que projeta um campo de energia potente ao redor de si mesmo, mas consome uma grande quantidade de energia quando ativo. Funciona através de paredes.\n\nOs geradores de escudo só são ativados quando há uma ameaça ativa presente, como uma invasão ou um cerco. Caso contrário, eles permanecem em um estado inativo e consomem muito menos energia.\n\nPode incendiar a área circundante se dano suficiente for absorvido em um curto período de tempo.</VFES_ShieldGenerator_Small.description>
 
         <!-- Large Shield Generator -->
             <VFES_ShieldGenerator_Large.label>gerador de escudo grande</VFES_ShieldGenerator_Large.label>
-            <VFES_ShieldGenerator_Large.description>Um dispositivo ultratecnológico que projeta um grande campo de energia potente ao redor de si mesmo, mas consome uma grande quantidade de energia quando ativo. Funciona através de paredes.\n\nOs geradores de escudo só são ativados quando há uma ameaça ativa presente, como uma invasão ou um cerco. Caso contrário, eles permanecem em um estado inativo e consomem muito menos energia.\n\nPode incendiar a área circundante se dano suficiente for absorvido em um curto período de tempo.</VFES_ShieldGenerator_Large.description>
+            <VFES_ShieldGenerator_Large.description>Um dispositivo ultra-tecnológico que projeta um grande campo de energia potente ao redor de si mesmo, mas consome uma grande quantidade de energia quando ativo. Funciona através de paredes.\n\nOs geradores de escudo só são ativados quando há uma ameaça ativa presente, como uma invasão ou um cerco. Caso contrário, eles permanecem em um estado inativo e consomem muito menos energia.\n\nPode incendiar a área circundante se dano suficiente for absorvido em um curto período de tempo.</VFES_ShieldGenerator_Large.description>
 
         <!-- Archotech Shield Generator -->
             <VFES_ShieldGenerator_Archotech.label>gerador de escudo archotech</VFES_ShieldGenerator_Archotech.label>

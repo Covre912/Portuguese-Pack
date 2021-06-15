@@ -2,7 +2,9 @@
 <LanguageData>
 
     <!-- Allow Tool -->
-        <!-- Weapon Glint -->
-            <MoteWeaponGlint.label>brilho da arma</MoteWeaponGlint.label>
+        <MoteWeaponGlint.label>brilho da arma</MoteWeaponGlint.label>
+
+    <!-- ReGrowth: Core -->
+        <RG_DustDevil.label>redemoinho de poeira</RG_DustDevil.label>
 
 </LanguageData>

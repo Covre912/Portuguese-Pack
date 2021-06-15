@@ -1320,6 +1320,82 @@
             <VCE_MakeHumanSurimi.description>Transforme a carne humana em uma pasta indistinta que imita a textura de lagosta, caranguejo ou outro marisco. O gosto é outra história...</VCE_MakeHumanSurimi.description>
             <VCE_MakeHumanSurimi.jobString>Fazendo surimi humano.</VCE_MakeHumanSurimi.jobString>
 
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- Drone Genome -->
+            <VFEI_InstallDroneGenome.label>instalar genoma reprodutor</VFEI_InstallDroneGenome.label>
+            <VFEI_InstallDroneGenome.description>Instala um genoma reprodutor.</VFEI_InstallDroneGenome.description>
+            <VFEI_InstallDroneGenome.jobString>Instalando genoma reprodutor.</VFEI_InstallDroneGenome.jobString>
+
+        <!-- Insectoid Leg -->
+            <VFEI_InstallInsectoidLeg.label>instalar perna insectoide</VFEI_InstallInsectoidLeg.label>
+            <VFEI_InstallInsectoidLeg.description>Instala uma perna insectoide.</VFEI_InstallInsectoidLeg.description>
+            <VFEI_InstallInsectoidLeg.jobString>Instalando perna insectoide.</VFEI_InstallInsectoidLeg.jobString>
+
+        <!-- Insectoid Arm -->
+            <VFEI_InstallInsectoidArm.label>instalar braço insectoide</VFEI_InstallInsectoidArm.label>
+            <VFEI_InstallInsectoidArm.description>Instala um braço insectoide.</VFEI_InstallInsectoidArm.description>
+            <VFEI_InstallInsectoidArm.jobString>Instalando braço insectoide.</VFEI_InstallInsectoidArm.jobString>
+
+        <!-- Compound Eye -->
+            <VFEI_InstallCompoundEye.label>instalar olho composto</VFEI_InstallCompoundEye.label>
+            <VFEI_InstallCompoundEye.description>Instala um olho composto.</VFEI_InstallCompoundEye.description>
+            <VFEI_InstallCompoundEye.jobString>Instalando olho composto.</VFEI_InstallCompoundEye.jobString>
+
+        <!-- Mandibles -->
+            <VFEI_InstallMandibles.label>instalar mandíbulas</VFEI_InstallMandibles.label>
+            <VFEI_InstallMandibles.description>Instala mandíbulas.</VFEI_InstallMandibles.description>
+            <VFEI_InstallMandibles.jobString>Instalando mandíbulas.</VFEI_InstallMandibles.jobString>
+
+        <!-- Jelly Sac -->
+            <VFEI_InstallJellySac.label>instalar saco gelatinoso</VFEI_InstallJellySac.label>
+            <VFEI_InstallJellySac.description>Instala um saco gelatinoso.</VFEI_InstallJellySac.description>
+            <VFEI_InstallJellySac.jobString>Instalando saco gelatinoso.</VFEI_InstallJellySac.jobString>
+
+        <!-- Warrior Genome -->
+            <VFEI_InstallWarriorGenome.label>instalar genoma operário</VFEI_InstallWarriorGenome.label>
+            <VFEI_InstallWarriorGenome.description>Instala um genoma operário.</VFEI_InstallWarriorGenome.description>
+            <VFEI_InstallWarriorGenome.jobString>Instalando genoma operário.</VFEI_InstallWarriorGenome.jobString>
+
+        <!-- Venom Gland -->
+            <VFEI_InstallVenomGland.label>instalar glândula venenosa</VFEI_InstallVenomGland.label>
+            <VFEI_InstallVenomGland.description>Instala uma glândula venenosa.</VFEI_InstallVenomGland.description>
+            <VFEI_InstallVenomGland.jobString>Instalando glândula venenosa.</VFEI_InstallVenomGland.jobString>
+
+        <!-- Pneumatic Claw -->
+            <VFEI_InstallPneumaticClaw.label>instalar garra pneumática</VFEI_InstallPneumaticClaw.label>
+            <VFEI_InstallPneumaticClaw.description>Instala uma garra pneumática.</VFEI_InstallPneumaticClaw.description>
+            <VFEI_InstallPneumaticClaw.jobString>Instalando garra pneumática.</VFEI_InstallPneumaticClaw.jobString>
+
+        <!-- Antenna -->
+            <VFEI_InstallAntenna.label>instalar antena</VFEI_InstallAntenna.label>
+            <VFEI_InstallAntenna.description>Instala uma antena.</VFEI_InstallAntenna.description>
+            <VFEI_InstallAntenna.jobString>Instalando antena.</VFEI_InstallAntenna.jobString>
+
+        <!-- Predator Stomach -->
+            <VFEI_InstallPredatorStomach.label>instalar estômago predador</VFEI_InstallPredatorStomach.label>
+            <VFEI_InstallPredatorStomach.description>Instala um estômago predador.</VFEI_InstallPredatorStomach.description>
+            <VFEI_InstallPredatorStomach.jobString>Instalando estômago predador.</VFEI_InstallPredatorStomach.jobString>
+
+        <!-- Royal Genome -->
+            <VFEI_InstallRoyalGenome.label>instalar genoma real</VFEI_InstallRoyalGenome.label>
+            <VFEI_InstallRoyalGenome.description>Instala um genoma real.</VFEI_InstallRoyalGenome.description>
+            <VFEI_InstallRoyalGenome.jobString>Instalando genoma real.</VFEI_InstallRoyalGenome.jobString>
+
+        <!-- Pheronome Secretor -->
+            <VFEI_InstallPheromoneSecretor.label>instalar secretor de feromônios</VFEI_InstallPheromoneSecretor.label>
+            <VFEI_InstallPheromoneSecretor.description>Instala um secretor de feromônios.</VFEI_InstallPheromoneSecretor.description>
+            <VFEI_InstallPheromoneSecretor.jobString>Instalando secretor de feromônios.</VFEI_InstallPheromoneSecretor.jobString>
+
+        <!-- Ventricular Sleeve -->
+            <VFEI_InstallVentricularSleeve.label>instalar corpo ventricular</VFEI_InstallVentricularSleeve.label>
+            <VFEI_InstallVentricularSleeve.description>Instala um corpo ventricular.</VFEI_InstallVentricularSleeve.description>
+            <VFEI_InstallVentricularSleeve.jobString>Instalando corpo ventricular.</VFEI_InstallVentricularSleeve.jobString>
+
+        <!-- Synaptic Cerebellum -->
+            <VFEI_InstallSynapticCerebellum.label>instalar cerebelo sináptico</VFEI_InstallSynapticCerebellum.label>
+            <VFEI_InstallSynapticCerebellum.description>Instala um cerebelo sináptico.</VFEI_InstallSynapticCerebellum.description>
+            <VFEI_InstallSynapticCerebellum.jobString>Instalando cerebelo sináptico.</VFEI_InstallSynapticCerebellum.jobString>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Grape Must -->
             <VFEM_Make_Must.label>fazer mosto de uva</VFEM_Make_Must.label>

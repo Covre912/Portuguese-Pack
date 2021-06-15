@@ -17,6 +17,9 @@
         <VFEC_PlayerPawnsArriveMethodEdge.label>método de chegada do colono</VFEC_PlayerPawnsArriveMethodEdge.label>
         <VFEC_AddStartingStructure.label>adicionar estrutura personalizada ao mapa inicial</VFEC_AddStartingStructure.label>
 
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <ScenPart_PlayerPawnsArriveMethodEdge.label>método de chegada do colono</ScenPart_PlayerPawnsArriveMethodEdge.label>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <VFEM_StartingPackAnimal.label>começar com animal(is) de carga</VFEM_StartingPackAnimal.label>
 

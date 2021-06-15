@@ -20,4 +20,9 @@
             <VFE_Mechanoids_Power.label>energia</VFE_Mechanoids_Power.label>
             <VFE_Mechanoids_Power.description>A energia representa o estado da bateria interna de um robô. Se ficar muito baixa, o robô interromperá a execução de tarefas e retornará à sua estação para recarregar.</VFE_Mechanoids_Power.description>
 
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- Royal Jelly Addiction -->
+            <VFEI_Chemical_RoyalJelly.label>geleia real</VFEI_Chemical_RoyalJelly.label>
+            <VFEI_Chemical_RoyalJelly.description>Por ter desenvolvido uma dependência por geleia real, esta pessoa precisa consumir regularmente a droga para evitar os sintomas de abstinência.</VFEI_Chemical_RoyalJelly.description>
+
 </LanguageData>

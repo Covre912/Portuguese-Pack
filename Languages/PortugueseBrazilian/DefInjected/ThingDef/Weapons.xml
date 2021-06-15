@@ -248,7 +248,6 @@
             <RE_Gun_N7Pistol.description>Uma pistola com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, seus projéteis se estilhaçam no impacto para aumentar o dano ao alvo.</RE_Gun_N7Pistol.description>
             <RE_Gun_N7Pistol.tools.0.label>cano</RE_Gun_N7Pistol.tools.0.label>
 
-
         <!-- N7 Anti-Materiel Rifle -->
             <REN7_Gun_N7AntimaterielRifle.label>rifle anti-material aeroespacial</REN7_Gun_N7AntimaterielRifle.label>
             <REN7_Gun_N7AntimaterielRifle.description>Um rifle anti-material com acelerador de massa. Dispara balas iluminadas por campos de efeito de massa usando eletromagnetismo de precisão, seus projéteis se estilhaçam no impacto para aumentar o dano ao alvo.</REN7_Gun_N7AntimaterielRifle.description>
@@ -274,6 +273,40 @@
             <REN7_MeleeWeapon_N7Blade.tools.0.label>cabo</REN7_MeleeWeapon_N7Blade.tools.0.label>
             <REN7_MeleeWeapon_N7Blade.tools.1.label>ponta</REN7_MeleeWeapon_N7Blade.tools.1.label>
             <REN7_MeleeWeapon_N7Blade.tools.2.label>lâmina</REN7_MeleeWeapon_N7Blade.tools.2.label>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- PLasmacutter -->
+            <VFE_Gun_Plasmacutter.label>pistola-de-plasma</VFE_Gun_Plasmacutter.label>
+            <VFE_Gun_Plasmacutter.description>Uma pistola de mineração com projéteis de metal envoltos em plasma, mantidos no lugar por um campo de energia. Os alvos são cortados pelo núcleo, bem como queimados pelo revestimento de plasma.</VFE_Gun_Plasmacutter.description>
+            <VFE_Gun_Plasmacutter.tools.0.label>coronha</VFE_Gun_Plasmacutter.tools.0.label>
+            <VFE_Gun_Plasmacutter.tools.1.label>cano</VFE_Gun_Plasmacutter.tools.1.label>
+            <Bullet_Plasmacutter.label>tiro de cortador-de-plasma</Bullet_Plasmacutter.label>
+
+        <!-- Plasmapiercer -->
+            <VFE_Gun_Plasmapiercer.label>rifle-de-plasma pesado</VFE_Gun_Plasmapiercer.label>
+            <VFE_Gun_Plasmapiercer.description>Um rifle pesado capaz de disparar projéteis de metal cobertos de plasma e mantidos no lugar por um campo de energia. Esses raios são excelentes para deter alvos maiores, capazes de derrubar a maioria dos inimigos de tamanho humano.</VFE_Gun_Plasmapiercer.description>
+            <VFE_Gun_Plasmapiercer.tools.0.label>coronha</VFE_Gun_Plasmapiercer.tools.0.label>
+            <VFE_Gun_Plasmapiercer.tools.1.label>cano</VFE_Gun_Plasmapiercer.tools.1.label>
+            <Bullet_Plasmapiercer.label>tiro perfurador-de-plasma</Bullet_Plasmapiercer.label>
+
+        <!-- Plasmabeam Rifle -->
+            <VFE_Gun_PlasmabeamRifle.label>rifle-de-plasma</VFE_Gun_PlasmabeamRifle.label>
+            <VFE_Gun_PlasmabeamRifle.description>Um rifle capaz de disparar projéteis de metal cobertos de gás superaquecido, mantido no lugar por um campo de energia. Os tiros disparados deste rifle queimam tudo o que acertam, mas devido à sua instabilidade, é muito difícil disparar com precisão em longas distâncias.</VFE_Gun_PlasmabeamRifle.description>
+            <VFE_Gun_PlasmabeamRifle.tools.0.label>coronha</VFE_Gun_PlasmabeamRifle.tools.0.label>
+            <VFE_Gun_PlasmabeamRifle.tools.1.label>cano</VFE_Gun_PlasmabeamRifle.tools.1.label>
+            <Bullet_PlasmaBeam.label>plasma beam</Bullet_PlasmaBeam.label>
+
+        <!-- Plasma Scattergun -->
+            <VFE_Gun_PlasmaScattergun.label>espingarda-de-plasma</VFE_Gun_PlasmaScattergun.label>
+            <VFE_Gun_PlasmaScattergun.description>Uma espingarda capaz de disparar fragmentos de metal derretido, mantidos neste estado graças ao gás superaquecido. Inflige um grande número de queimaduras aos inimigos, na maioria das vezes eliminando ameaças com um único tiro. Devido à natureza instável dos projéteis, seu alcance é muito curto.</VFE_Gun_PlasmaScattergun.description>
+            <VFE_Gun_PlasmaScattergun.tools.0.label>coronha</VFE_Gun_PlasmaScattergun.tools.0.label>
+            <VFE_Gun_PlasmaScattergun.tools.1.label>cano</VFE_Gun_PlasmaScattergun.tools.1.label>
+            <Bullet_PlasmaScatter.label>tiro de espingarda-de-plasma</Bullet_PlasmaScatter.label>
+
+        <!-- Plasmasaw -->
+            <VFE_Plasmasaw.label>serra-de-plasma</VFE_Plasmasaw.label>
+            <VFE_Plasmasaw.description>Uma serra neo-industrial de núcleo metálico com uma corrente de plasma, mantida no lugar por um campo de energia. Os alvos são cortados pelo núcleo e também queimados pela corrente de plasma.</VFE_Plasmasaw.description>
+            <VFE_Plasmasaw.tools.0.label>corrente</VFE_Plasmasaw.tools.0.label>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Handheld Mini-Turret -->
@@ -541,6 +574,7 @@
             <VWE_Bow_Long.tools.0.label>arco</VWE_Bow_Long.tools.0.label>
             <VWE_Arrow_Long.label>flecha de arco longo</VWE_Arrow_Long.label>
 
+        <!-- Charge Pistol -->
             <VWE_Gun_ChargePistol.label>pistola de carga</VWE_Gun_ChargePistol.label>
             <VWE_Gun_ChargePistol.description>Uma pistola com tiros carregados. A tecnologia de carga por pulso carrega cada projétil com energia instável ao deixar o cano. Liberada no impacto, a energia carregada aumenta muito o dano causado.\n\nEsta pistola de disparo de três tiros é uma arma muito eficaz implantada em todos os regimentos imperiais.</VWE_Gun_ChargePistol.description>
             <VWE_Gun_ChargePistol.tools.0.label>cano</VWE_Gun_ChargePistol.tools.0.label>
@@ -587,7 +621,7 @@
         <!-- Crossbow -->
             <VWE_Bow_Crossbow.label>besta</VWE_Bow_Crossbow.label>
             <VWE_Bow_Crossbow.description>A besta é uma arma de longo alcance em princípio semelhante a um arco, consistindo em um conjunto semelhante a um arco montado horizontalmente em uma estrutura principal, que é portátil.\n\nEsta arma da primitiva pode enviar uma flecha até mesmo através do material mais forte.</VWE_Bow_Crossbow.description>
-            <VWE_Bow_Crossbow.tools.0.label>besta</VWE_Bow_Crossbow.0.label>
+            <VWE_Bow_Crossbow.tools.0.label>besta</VWE_Bow_Crossbow.tools.0.label>
             <VWE_Arrow_Bolt.label>flecha de besta</VWE_Arrow_Bolt.label>
 
         <!-- Musket -->
@@ -614,7 +648,7 @@
         <!-- Whip -->
             <VWE_Tool_Whip.label>chicote</VWE_Tool_Whip.label>
             <VWE_Tool_Whip.description>Uma ferramenta tradicional usada para bater em animais para treinar orientação e obediência.\n\nPode ser usado em pessoas.</VWE_Tool_Whip.description>
-            <VWE_Tool_Whip.tools.0.label>chicote<VWE_Tool_Whip.tools.0.label>
+            <VWE_Tool_Whip.tools.0.label>chicote</VWE_Tool_Whip.tools.0.label>
             <VWE_WhipSlash.label>chicotada</VWE_WhipSlash.label>
 
     <!-- Vanilla Weapons Expanded - Coilguns -->

@@ -146,6 +146,18 @@
             <VCE_DoBillsSushi.verb>cozinhar</VCE_DoBillsSushi.verb>
             <VCE_DoBillsSushi.gerund>cozinhando em</VCE_DoBillsSushi.gerund>
 
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- Insert Genome -->
+            <VFEI_InsertFirstGenome.label>inserindo genoma na incubadora</VFEI_InsertFirstGenome.label>
+            <VFEI_InsertFirstGenome.verb>inserir genoma na incubadora</VFEI_InsertFirstGenome.verb>
+            <VFEI_InsertFirstGenome.gerund>inserindo genoma na incubadora</VFEI_InsertFirstGenome.gerund>
+            <VFEI_InsertSecondGenome.label>inserindo genoma na incubadora</VFEI_InsertSecondGenome.label>
+            <VFEI_InsertSecondGenome.verb>inserir genoma na incubadora</VFEI_InsertSecondGenome.verb>
+            <VFEI_InsertSecondGenome.gerund>inserindo genoma na incubadora</VFEI_InsertSecondGenome.gerund>
+            <VFEI_InsertThirdGenome.label>inserindo genoma na incubadora</VFEI_InsertThirdGenome.label>
+            <VFEI_InsertThirdGenome.verb>inserir genoma na incubadora</VFEI_InsertThirdGenome.verb>
+            <VFEI_InsertThirdGenome.gerund>inserindo genoma na incubadora</VFEI_InsertThirdGenome.gerund>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Take Wine -->
             <VFEM_TakeBeerOutOfWineBarrel.label>retirar vinho dos barris</VFEM_TakeBeerOutOfWineBarrel.label>

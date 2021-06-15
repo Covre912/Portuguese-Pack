@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- Smart Medicine -->
+        <UnlimitedSurgery.headerTip>Cirurgia usa a melhor medicina</UnlimitedSurgery.headerTip>
+
     <!-- Work Tab -->
-            <Mood.headerTip>Humor</Mood.headerTip>
-            <Job.headerTip>Atividade</Job.headerTip>
-            <Favourite.headerTip>Favorito</Favourite.headerTip>
+        <Mood.headerTip>Humor</Mood.headerTip>
+        <Job.headerTip>Atividade</Job.headerTip>
+        <Favourite.headerTip>Favorito</Favourite.headerTip>
 
 </LanguageData>

@@ -35,7 +35,7 @@
             <AlteredCarbon.childhood>Infância</AlteredCarbon.childhood>
             <AlteredCarbon.adulthood>Idade Adulta</AlteredCarbon.adulthood>
             <AlteredCarbon.ageChronologicalTicks>Idade Cronológica</AlteredCarbon.ageChronologicalTicks>
-            <AlteredCarbon.ExtractStack>Extrair Cartucho</AlteredCarbon.ExtractStack>
+            <AlteredCarbon.ExtractStack>Extrair cartucho</AlteredCarbon.ExtractStack>
             <AlteredCarbon.DuplicateStack>Duplicar Cartucho</AlteredCarbon.DuplicateStack>
             <AlteredCarbon.WipeStack>Limpar Cartucho</AlteredCarbon.WipeStack>
             <AlteredCarbon.DestroyStack>Destruir Cartucho</AlteredCarbon.DestroyStack>
@@ -397,13 +397,13 @@
             <ForceMenuButtonText>Forçar</ForceMenuButtonText>
 
         <!-- Adjust Force Radius -->
-            <IncreaseForceRadius>Aumentar Raio</IncreaseForceRadius>
+            <IncreaseForceRadius>Aumentar raio</IncreaseForceRadius>
             <IncreaseForceRadiusDesc>Aumenta a distância de busca para o trabalho forçado (o raio atual é {0})</IncreaseForceRadiusDesc>
-            <DecreaseForceRadius>Diminuir Raio</DecreaseForceRadius>
+            <DecreaseForceRadius>Diminuir raio</DecreaseForceRadius>
             <DecreaseForceRadiusDesc>Diminui a distância de busca para o trabalho forçado (o raio atual é {0})</DecreaseForceRadiusDesc>
 
         <!-- Building Smart -->
-            <BuildingSmart>Construção Inteligente</BuildingSmart>
+            <BuildingSmart>Construção inteligente</BuildingSmart>
             <BuildingSmartDesc>Construção inteligente evita que colonos se prendam, mas é mais lenta</BuildingSmartDesc>
             <BuildingSmartDefaultTitle>Construção inteligente está agora em trabalhos Atchung!</BuildingSmartDefaultTitle>
             <BuildingSmartDefaultExplained>Define o padrão de como os novos trabalhos escolhem sua ordem de construção</BuildingSmartDefaultExplained>
@@ -1116,7 +1116,7 @@
     <!-- Follow Me -->
         <!-- Follow Me -->
             <FollowMe.Cancel>Não mais seguindo {0}.</FollowMe.Cancel>
-            <FollowMe.Follow>Seguinda {0}.</FollowMe.Follow>
+            <FollowMe.Follow>Seguindo {0}.</FollowMe.Follow>
             <Fluffy.FollowMe>Follow Me!</Fluffy.FollowMe>
 
         <!-- Reject -->
@@ -1663,92 +1663,73 @@
             <SexDrive>Desejo sexual:</SexDrive>
             <RomanticDrive>Desejo romântico:</RomanticDrive>
 
+    <!-- Share The Load -->
+        <TD.SettingDeliverAny>Entregar os recursos mesmo que não haja o suficiente para terminar a construção</TD.SettingDeliverAny>
+        <TD.SettingBlockingJobs>Deixe outros trabalhos limpos para projetos</TD.SettingBlockingJobs>
+        <TD.SettingBlockingJobsDesc>Os agricultores e mineradores limparão as coisas para os projetos.</TD.SettingBlockingJobsDesc>
+        <TD.ShareTheLoad>Share The Load</TD.ShareTheLoad>
+
     <!-- Simple sidearms -->
-        <!-- Active Title -->
-            <ActiveTab_desc></ActiveTab_desc>
-            <ActiveTab_title>Configuração</ActiveTab_title>
-
-        <!-- Tool Auto Switch -->
-            <ToolAutoSwitch_desc>Os colonos trocar de ferramentas/armas com bônus para seu trabalho atual?</ToolAutoSwitch_desc>
-            <ToolAutoSwitch_title>Ferramentas</ToolAutoSwitch_title>
-
-        <!-- Best Melee Weapon -->
-            <OptimalMelee_desc>Os colonos devem trocar automaticamente para uma arma corpo-a-corpo com DPS mais alto?</OptimalMelee_desc>
-            <OptimalMelee_title>Melhor Arma Corpo-a-Corpo</OptimalMelee_title>
-
-        <!-- CQC -->
-            <CQCAutoSwitch_desc>Should pawns switch to their melee sidearms when attacked in melee?</CQCAutoSwitch_desc>
-            <CQCAutoSwitch_title>Combate Corpo-a-Corpo</CQCAutoSwitch_title>
-            <CQCFistSwitch_desc>Os colonos devem alterar mesmo quando não estão usando uma arma?</CQCFistSwitch_desc>
-            <CQCFistSwitch_title>Combate Desarmado</CQCFistSwitch_title>
-            <CQCTargetOnly_desc>Os colonos devem reagir apenas aos ataques de seu alvo atual?</CQCTargetOnly_desc>
-            <CQCTargetOnly_title>Ataques do Alvo</CQCTargetOnly_title>
-
-        <!-- Drop Mode -->
-            <DropMode_desc>Em que situações os colonos são forçados a largar a arma em vez de movê-la para o inventário?</DropMode_desc>
-            <DropMode_title>Critério de Arma</DropMode_title>
-
-        <!-- Re-Equip Best-->
-            <ReEquipBest_desc>Depois de largar uma arma, o auto-reequipamento encontrará a melhor arma disponível.</ReEquipBest_desc>
-            <ReEquipBest_title>Re-Equipar Melhor</ReEquipBest_title>
-
-        <!-- Limit Carry Info -->
-            <LimitCarryInfo_desc></LimitCarryInfo_desc>
-            <LimitCarryInfo_title>*Limitado pela capacidade de transporte</LimitCarryInfo_title>
-
-        <!-- CE Override -->
-            <CEOverrideInfo_desc></CEOverrideInfo_desc>
-            <CEOverrideInfo_title>Desativado em favor do sistema CE.</CEOverrideInfo_title>
-
-        <!-- Limit Mode -->
-            <LimitModeAmountMelee_desc>Que restrições existem em todas as armas de combate corpo-a-corpo.</LimitModeAmountMelee_desc>
-            <LimitModeAmountMelee_title>Total de Armas Brancas</LimitModeAmountMelee_title>
-            <LimitModeAmountRanged_desc>Que restrições existem em todas as armas de longo alcance.</LimitModeAmountRanged_desc>
-            <LimitModeAmountRanged_title>Total de Armas de Alcance</LimitModeAmountRanged_title>
-            <LimitModeAmount_desc>Que restrições existem em todas as armas.</LimitModeAmount_desc>
-            <LimitModeAmount_title>Total de Armas</LimitModeAmount_title>
-            <LimitModeSingleMelee_desc>Quais são as restrições para armas de combate corpo-a-corpo individuais.</LimitModeSingleMelee_desc>
-            <LimitModeSingleMelee_title>Arma Branca Única Corpo-a-Corpo</LimitModeSingleMelee_title>
-            <LimitModeSingleRanged_desc>Que restrições existem para armas de alcance individuais.</LimitModeSingleRanged_desc>
-            <LimitModeSingleRanged_title>Arma de Alcance Única</LimitModeSingleRanged_title>
-            <LimitModeSingle_desc>Que restrições existem para armas individuais.</LimitModeSingle_desc>
-            <LimitModeSingle_title>Arma Única</LimitModeSingle_title>
-            <LimitModeAmountTotal_title>Total</LimitModeAmountTotal_title>
-            <LimitModeAmountTotal_desc>Que restrições existem em todas as armas.</LimitModeAmountTotal_desc>
-
-        <!-- Maximum Mass-->
-            <MaximumMassAmountAbsolute_desc>Massa máxima total de armas secundárias que um colono pode carregar.</MaximumMassAmountAbsolute_desc>
-            <MaximumMassAmountAbsolute_title>Máx. Massa de Armas</MaximumMassAmountAbsolute_title>
-            <MaximumMassAmountRelative_desc>A porcentagem de massa total máxima de armas secundárias que um colono pode carregar em relação à sua capacidade de carga.</MaximumMassAmountRelative_desc>
-            <MaximumMassAmountRelative_title>Máx. Porcentagem de Massa de Armas</MaximumMassAmountRelative_title>
-            <MaximumMassSingleAbsolute_desc>Massa máxima de uma única arma que um colobo pode carregar.</MaximumMassSingleAbsolute_desc>
-            <MaximumMassSingleAbsolute_title>Máx. Massa por Arma</MaximumMassSingleAbsolute_title>
-            <MaximumMassSingleRelative_desc>Porcentagem máxima de massa de uma única arma que um colono pode carregar em relação à sua capacidade de carga.</MaximumMassSingleRelative_desc>
-            <MaximumMassSingleRelative_title>Máx. Porcentagem de Massa por Arma</MaximumMassSingleRelative_title>
-
-        <!-- Maximum Slots -->
-            <MaximumSlots_desc>Quantas armas um colono pode carregar.</MaximumSlots_desc>
-            <MaximumSlots_title>Espaços</MaximumSlots_title>
-
-        <!-- Ranged Combat Auto Switch -->
-            <RangedCombatAutoSwitchMaxWarmup_desc>Qual é o limite após o qual um colono se recusará a interromper seu ataque para mudar para outra arma?</RangedCombatAutoSwitchMaxWarmup_desc>
-            <RangedCombatAutoSwitchMaxWarmup_title>Porcentagem Máxima de Aquecimento</RangedCombatAutoSwitchMaxWarmup_title>
-            <RangedCombatAutoSwitch_desc>Os colonos devem mudar para armas de longo alcance adequadas ao atacar à distância?</RangedCombatAutoSwitch_desc>
-            <RangedCombatAutoSwitch_title>Melhor Arma de Alcance</RangedCombatAutoSwitch_title>
-
-        <!-- Separate Modes -->
-            <SeparateModes_desc>As armas corpo-a-corpo e de alcance devem ter restrições compartilhadas ou separadas?</SeparateModes_desc>
-            <SeparateModes_title>Separar Corpo-a-Corpo/Alcance</SeparateModes_title>
-            <SidearmSelection_desc></SidearmSelection_desc>
-            <SidearmSelection_title>Seleção de Arma</SidearmSelection_title>
-            <SingleshotAutoSwitch_desc>Os colonos devem mudar de arma depois de gastar armas de uso único?</SingleshotAutoSwitch_desc>
-            <SingleshotAutoSwitch_title>Troca Automática</SingleshotAutoSwitch_title>
-            <SpeedSelectionBiasMelee_desc>A preferência do colono para selecionar armas com velocidade de ataque mais rápida.</SpeedSelectionBiasMelee_desc>
-            <SpeedSelectionBiasMelee_title>Preferência de Velocidade (Corpo-a-Corpo)</SpeedSelectionBiasMelee_title>
-            <SpeedSelectionBiasRanged_desc>A preferência do colono para selecionar armas com aquecimento mais rápido.</SpeedSelectionBiasRanged_desc>
-            <SpeedSelectionBiasRanged_title>Preferência de Velocidade (Alcance)</SpeedSelectionBiasRanged_title>
-            <WeaponMatch_desc>Estas são as armas que correspondem aos critérios fornecidos.</WeaponMatch_desc>
-            <WeaponMatch_title></WeaponMatch_title>
+        <ActiveTab_desc></ActiveTab_desc>
+        <ActiveTab_title>Configuração</ActiveTab_title>
+        <ToolAutoSwitch_desc>Os colonos trocar de ferramentas/armas com bônus para seu trabalho atual?</ToolAutoSwitch_desc>
+        <ToolAutoSwitch_title>Ferramentas</ToolAutoSwitch_title>
+        <OptimalMelee_desc>Os colonos devem trocar automaticamente para uma arma corpo-a-corpo com DPS mais alto?</OptimalMelee_desc>
+        <OptimalMelee_title>Melhor Arma Corpo-a-Corpo</OptimalMelee_title>
+        <CQCAutoSwitch_desc>Should pawns switch to their melee sidearms when attacked in melee?</CQCAutoSwitch_desc>
+        <CQCAutoSwitch_title>Combate Corpo-a-Corpo</CQCAutoSwitch_title>
+        <CQCFistSwitch_desc>Os colonos devem alterar mesmo quando não estão usando uma arma?</CQCFistSwitch_desc>
+        <CQCFistSwitch_title>Combate Desarmado</CQCFistSwitch_title>
+        <CQCTargetOnly_desc>Os colonos devem reagir apenas aos ataques de seu alvo atual?</CQCTargetOnly_desc>
+        <CQCTargetOnly_title>Ataques do Alvo</CQCTargetOnly_title>
+        <DropMode_desc>Em que situações os colonos são forçados a largar a arma em vez de movê-la para o inventário?</DropMode_desc>
+        <DropMode_title>Critério de Arma</DropMode_title>
+        <ReEquipBest_desc>Depois de largar uma arma, o auto-reequipamento encontrará a melhor arma disponível.</ReEquipBest_desc>
+        <ReEquipBest_title>Re-Equipar Melhor</ReEquipBest_title>
+        <LimitCarryInfo_desc></LimitCarryInfo_desc>
+        <LimitCarryInfo_title>*Limitado pela capacidade de transporte</LimitCarryInfo_title>
+        <CEOverrideInfo_desc></CEOverrideInfo_desc>
+        <CEOverrideInfo_title>Desativado em favor do sistema CE.</CEOverrideInfo_title>
+        <LimitModeAmountMelee_desc>Que restrições existem em todas as armas de combate corpo-a-corpo.</LimitModeAmountMelee_desc>
+        <LimitModeAmountMelee_title>Total de Armas Brancas</LimitModeAmountMelee_title>
+        <LimitModeAmountRanged_desc>Que restrições existem em todas as armas de longo alcance.</LimitModeAmountRanged_desc>
+        <LimitModeAmountRanged_title>Total de Armas de Alcance</LimitModeAmountRanged_title>
+        <LimitModeAmount_desc>Que restrições existem em todas as armas.</LimitModeAmount_desc>
+        <LimitModeAmount_title>Total de Armas</LimitModeAmount_title>
+        <LimitModeSingleMelee_desc>Quais são as restrições para armas de combate corpo-a-corpo individuais.</LimitModeSingleMelee_desc>
+        <LimitModeSingleMelee_title>Arma Branca Única Corpo-a-Corpo</LimitModeSingleMelee_title>
+        <LimitModeSingleRanged_desc>Que restrições existem para armas de alcance individuais.</LimitModeSingleRanged_desc>
+        <LimitModeSingleRanged_title>Arma de Alcance Única</LimitModeSingleRanged_title>
+        <LimitModeSingle_desc>Que restrições existem para armas individuais.</LimitModeSingle_desc>
+        <LimitModeSingle_title>Arma Única</LimitModeSingle_title>
+        <LimitModeAmountTotal_title>Total</LimitModeAmountTotal_title>
+        <LimitModeAmountTotal_desc>Que restrições existem em todas as armas.</LimitModeAmountTotal_desc>
+        <MaximumMassAmountAbsolute_desc>Massa máxima total de armas secundárias que um colono pode carregar.</MaximumMassAmountAbsolute_desc>
+        <MaximumMassAmountAbsolute_title>Máx. Massa de Armas</MaximumMassAmountAbsolute_title>
+        <MaximumMassAmountRelative_desc>A porcentagem de massa total máxima de armas secundárias que um colono pode carregar em relação à sua capacidade de carga.</MaximumMassAmountRelative_desc>
+        <MaximumMassAmountRelative_title>Máx. Porcentagem de Massa de Armas</MaximumMassAmountRelative_title>
+        <MaximumMassSingleAbsolute_desc>Massa máxima de uma única arma que um colobo pode carregar.</MaximumMassSingleAbsolute_desc>
+        <MaximumMassSingleAbsolute_title>Máx. Massa por Arma</MaximumMassSingleAbsolute_title>
+        <MaximumMassSingleRelative_desc>Porcentagem máxima de massa de uma única arma que um colono pode carregar em relação à sua capacidade de carga.</MaximumMassSingleRelative_desc>
+        <MaximumMassSingleRelative_title>Máx. Porcentagem de Massa por Arma</MaximumMassSingleRelative_title>
+        <MaximumSlots_desc>Quantas armas um colono pode carregar.</MaximumSlots_desc>
+        <MaximumSlots_title>Espaços</MaximumSlots_title>
+        <RangedCombatAutoSwitchMaxWarmup_desc>Qual é o limite após o qual um colono se recusará a interromper seu ataque para mudar para outra arma?</RangedCombatAutoSwitchMaxWarmup_desc>
+        <RangedCombatAutoSwitchMaxWarmup_title>Porcentagem Máxima de Aquecimento</RangedCombatAutoSwitchMaxWarmup_title>
+        <RangedCombatAutoSwitch_desc>Os colonos devem mudar para armas de longo alcance adequadas ao atacar à distância?</RangedCombatAutoSwitch_desc>
+        <RangedCombatAutoSwitch_title>Melhor Arma de Alcance</RangedCombatAutoSwitch_title>
+        <SeparateModes_desc>As armas corpo-a-corpo e de alcance devem ter restrições compartilhadas ou separadas?</SeparateModes_desc>
+        <SeparateModes_title>Separar Corpo-a-Corpo/Alcance</SeparateModes_title>
+        <SidearmSelection_desc></SidearmSelection_desc>
+        <SidearmSelection_title>Seleção de Arma</SidearmSelection_title>
+        <SingleshotAutoSwitch_desc>Os colonos devem mudar de arma depois de gastar armas de uso único?</SingleshotAutoSwitch_desc>
+        <SingleshotAutoSwitch_title>Troca Automática</SingleshotAutoSwitch_title>
+        <SpeedSelectionBiasMelee_desc>A preferência do colono para selecionar armas com velocidade de ataque mais rápida.</SpeedSelectionBiasMelee_desc>
+        <SpeedSelectionBiasMelee_title>Preferência de Velocidade (Corpo-a-Corpo)</SpeedSelectionBiasMelee_title>
+        <SpeedSelectionBiasRanged_desc>A preferência do colono para selecionar armas com aquecimento mais rápido.</SpeedSelectionBiasRanged_desc>
+        <SpeedSelectionBiasRanged_title>Preferência de Velocidade (Alcance)</SpeedSelectionBiasRanged_title>
+        <WeaponMatch_desc>Estas são as armas que correspondem aos critérios fornecidos.</WeaponMatch_desc>
+        <WeaponMatch_title></WeaponMatch_title>
 
         <!-- Sidearm Spawn Chance -->
             <SidearmSpawnChance_desc>A chance de qualquer colono que gere com uma arma secundária.</SidearmSpawnChance_desc>
@@ -1925,6 +1906,49 @@
             <SidearmsNeolithicExtension_desc></SidearmsNeolithicExtension_desc>
             <SidearmsNeolithicExtension_title>Armas consideradas neolíticas</SidearmsNeolithicExtension_title>
 
+    <!-- Smart Medicine -->
+        <TD.SettingDoctorInv>Usar medicina do inventário do médico</TD.SettingDoctorInv>
+        <TD.SettingPatientInv>Usar medicina do inventário do paciente</TD.SettingPatientInv>
+        <TD.SettingNearby>... Mas usa medicinas próximas</TD.SettingNearby>
+        <TD.SettingNearbyDesc>Isso também verifica se há medicina a caminho do paciente </TD.SettingNearbyDesc>
+        <TD.SettingNearbyDist>Quão longe caminhar para encontrar medicina nas proximidades</TD.SettingNearbyDist>
+        <TD.SpacesFormat>{0:0} espaços</TD.SpacesFormat>
+        <TD.SettingNearbyDistDesc>Esta é apenas uma substituição para o estoque de medicina - se não houver medicina no estoque, os colonos caminharão até o final do mapa para pegá-la</TD.SettingNearbyDistDesc>
+        <TD.SettingOtherInv>Largar medicina do inventário de colonos próximos</TD.SettingOtherInv>
+        <TD.SettingAnimalInv>Largar a medicina do inventário de animais próximos</TD.SettingAnimalInv>
+        <TD.SettingOtherAnyDist>... Não importa quão longe</TD.SettingOtherAnyDist>
+        <TD.SettingOtherAnyDistDesc>Marque para usar uma medicina melhor de outra pessoa distante, mas ao custo de caminhar</TD.SettingOtherAnyDistDesc>
+        <TD.SettingOtherDist>Quão longe caminhar para pegá-la</TD.SettingOtherDist>
+        <TD.SettingMinimal>Usar o mínimo de medicina para atendimento não urgente</TD.SettingMinimal>
+        <TD.SettingMinimalDesc>Atendimento urgente é qualquer doença ou ferimento com sangramento, chance de infecção ou efeitos permanentes - guarde uma medicina valiosa apenas para estes</TD.SettingMinimalDesc>
+        <TD.SettingNoMed>Nenhuma medicina para cuidados não urgentes</TD.SettingNoMed>
+        <TD.SettingNoMedDesc>O mesmo que acima, mas sem medicina, cada lesão é tratada uma de cada vez</TD.SettingNoMedDesc>
+        <TD.SettingMedicineGoodEnough>... inclua medicinas que sejam bons o suficiente:</TD.SettingMedicineGoodEnough>
+        <TD.SettingStockUp>Estoque de medicina &amp; drogas</TD.SettingStockUp>
+        <TD.SettingStockUpDesc>As configurações de estoque estão na guia equipamento do colono</TD.SettingStockUpDesc>
+        <TD.SettingFieldTendingNoBeds>Médicos tratam os pacientes se não houver leitos disponíveis</TD.SettingFieldTendingNoBeds>
+        <TD.SettingFieldTendingNoBedsDesc>O paciente deve estar descansando, derrubado ou alistado</TD.SettingFieldTendingNoBedsDesc>
+        <TD.SettingFieldTendingAlways>Médicos sempre podem tratar, com ou sem cama</TD.SettingFieldTendingAlways>
+        <TD.SettingFieldTendingAlwaysDesc>Colonos priorizarão ir para a cama, mas você pode selecionar os pacientes para mantê-los no lugar.</TD.SettingFieldTendingAlwaysDesc>
+        <TD.SmartMedicine>Medicina Inteligente</TD.SmartMedicine>
+        <TD.StockUpSettings>Configurações de estoque</TD.StockUpSettings>
+        <TD.StockUpSettingsForPawn>Configurações de estoque para {0}</TD.StockUpSettingsForPawn>
+        <TD.ClearStockUp>Limpar todas as configurações de estoque</TD.ClearStockUp>
+        <TD.CancelCopyStockUp>Cancelar a cópia das configurações de {0}</TD.CancelCopyStockUp>
+        <TD.CopyStockUpFrom>Copiar configurações de estoque de {0}</TD.CopyStockUpFrom>
+        <TD.SettingsMedicineGoodEnoughDesc>Por exemplo, se a medicina natural faz um trabalho tão bom quanto a industrial, usa a natural</TD.SettingsMedicineGoodEnoughDesc>
+        <TD.SettingStockUpEnough>Estoque apenas se houver disponibilidade suficiente:</TD.SettingStockUpEnough>
+        <TD.SettingStockUpEnoughDesc>Por exemplo, a 150%, os estoques precisam ter o suficiente para todos estocarem até 100%, mais 50% extra</TD.SettingStockUpEnoughDesc>
+        <TD.SettingStockUpReturn>Devolva os itens se não houver disponibilidade suficiente</TD.SettingStockUpReturn>
+        <TD.Paused>Pausado</TD.Paused>
+        <TD.NotEnoughStockUp>Não há disponibilidade suficiente para estocar</TD.NotEnoughStockUp>
+        <TD.SettingGlobalSurgeryUnlimited>As configurações médicas padrão para um novo jogo têm 'cirurgia usa melhor medicina' marcada</TD.SettingGlobalSurgeryUnlimited>
+        <TD.SettingGlobalSurgeryUnlimitedDesc>Durante um jogo, esta configuração não é usada - o padrão para novos colonos está ao lado de outros padrões médicos acessíveis na guia Saúde</TD.SettingGlobalSurgeryUnlimitedDesc>
+        <TD.DefaultSurgeryUnlimited>Cirurgia usa a melhor medicina disponível</TD.DefaultSurgeryUnlimited>
+        <TD.PawnSettingSurgeryUnlimited>Cirurgia usa melhor</TD.PawnSettingSurgeryUnlimited>
+        <TD.DefaultCare>Atendimento padrão</TD.DefaultCare>
+        <TD.RemoveTempTendDesc>Remova isso</TD.RemoveTempTendDesc>
+
     <!-- Race to the Rim -->
     	<!-- Animal Products -->
 	        <RttR_GronckleIron>Produção de Ferro Gronckel</RttR_GronckleIron>
@@ -1939,7 +1963,7 @@
 	        <RttR_RandomDragon>Dragão aleatório</RttR_RandomDragon>
 
 	    <!-- Events -->
-	        <RttR_FuryEventLetterLabel>Os Sons de um Fúria</RttR_FuryEventLetterLabel>
+	        <RttR_FuryEventLetterLabel>Os sons de um fúria</RttR_FuryEventLetterLabel>
 	        <RttR_FuryEventLetter>Ao longe, vêm os ecos de um grito revelador. O Fúria está por perto. Ele cuidará da sua própria vida enquanto você cuidar da sua.</RttR_FuryEventLetter>
 	
 	    <!-- Mod Settings -->
@@ -2015,6 +2039,23 @@
 	
         <!-- Dialog -->
             <RandomPlus.Dialog.Close>Fechar</RandomPlus.Dialog.Close>
+
+    <!-- Recipe Icons -->
+        <RecipeIconsTitle>Recipe Icons</RecipeIconsTitle>
+        <RecipeIconsEnableTooltipName>Habilitar dicas</RecipeIconsEnableTooltipName>
+        <RecipeIconsEnableTooltipDesc>Mostra uma janela com informações estendidas de receita ao passar o mouse sobre uma tarefa.</RecipeIconsEnableTooltipDesc>
+        <RecipeIconsDisableSmallMenusName>Desativar menus flutuantes pequenos</RecipeIconsDisableSmallMenusName>
+        <RecipeIconsDisableSmallMenusDesc>Evite que os menus mudem para o modo pequeno quando eles têm muitos itens.</RecipeIconsDisableSmallMenusDesc>
+        <RecipeIconsRecipeTooltipConsumes>Consome:</RecipeIconsRecipeTooltipConsumes>
+        <RecipeIconsRecipeTooltipProduces>Produz:</RecipeIconsRecipeTooltipProduces>
+        <RecipeIconsRecipeTooltipExample>exemplo para</RecipeIconsRecipeTooltipExample>
+        <RecipeIconsRecipeTooltipRequires>Requer:</RecipeIconsRecipeTooltipRequires>
+        <RecipeIconsRecipeTooltipWhere>Onde</RecipeIconsRecipeTooltipWhere>
+        <RecipeIconsRecipeTooltipIsAnyOf>é algum de:</RecipeIconsRecipeTooltipIsAnyOf>
+
+    <!-- Replace Stuff -->
+        <TD.SettingsCornerBuildable>Os ladrilhos de canto são edificáveis ​​e lavráveis ​​de dentro</TD.SettingsCornerBuildable>
+        <TD.SettingsCornerBuildableDesc>Isso pode às vezes causar problemas de caminho estranhos - desligue-o para consertar isso.</TD.SettingsCornerBuildableDesc>
 
     <!-- ResearchPal - Forked -->
         <!-- Category -->
@@ -2656,7 +2697,7 @@
             <VAEE.Cancel>Cancelar</VAEE.Cancel>
 
         <!-- Extint Animals Passes -->
-	        <VAEE.LetterLabelExtintAnimalsPasses>Animais em Extinção</VAEE.LetterLabelExtintAnimalsPasses>
+	        <VAEE.LetterLabelExtintAnimalsPasses>Animais em extinção</VAEE.LetterLabelExtintAnimalsPasses>
 	        <VAEE.LetterExtintAnimalsPasses>Um par de {0}, criticamente ameaçados de extinção, vagam pela área.\n\nPodem facilmente ser vítimas de predadores maiores, mas você pode domesticá-los e trazê-los para um local seguro.\n\nLibertar animais ameaçados de extinção aumentará as relações com outras facções.</VAEE.LetterExtintAnimalsPasses>
 
         <!-- Settings -->
@@ -2839,7 +2880,7 @@
             <SpaceBattle>Várias naves espaciais enormes engajaram em combate na órbita do planeta. Tiros perdidos e destroços podem impactar o chão na área. Isso pode levar a grandes incêndios.</SpaceBattle>
 
         <!-- Shuttle Crash -->
-            <ShuttleCrashLabel>Queda de Nave</ShuttleCrashLabel>
+            <ShuttleCrashLabel>Queda de transporte</ShuttleCrashLabel>
             <ShuttleCrash>Uma nave vinda na direção do planeta está caindo por perto. Se a tripulação sobreviver o impacto, eles estarão gravemente feridos. A nave caída pode ser desconstruída por recursos úteis.\n\nA tripulação não é afiliada com nenhuma facção, o que significa que podem ser resgatados e podem se juntar a você livremente, ou serem capturados para fins de recrutamento ou escravidão.</ShuttleCrash>
 
         <!-- Earthquake -->
@@ -3139,6 +3180,82 @@
         <!-- Weapon Requires Powered Armor -->
             <VWE.CannotEquipHeavy>Arma requer armação de exoesqueleto</VWE.CannotEquipHeavy>
 
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <VFEI_InsertFirstGenomeDesc>Selecione o primeiro genoma para a incubadora de bioengenharia.</VFEI_InsertFirstGenomeDesc>
+        <None_InsertFirstGenome>Primeiro genoma: Nenhum</None_InsertFirstGenome>
+        <VFEI_RoyalGenome_InsertFirstGenome>Primeiro genoma: Real</VFEI_RoyalGenome_InsertFirstGenome>
+        <VFEI_WarriorGenome_InsertFirstGenome>Primeiro genoma: Operário</VFEI_WarriorGenome_InsertFirstGenome>
+        <VFEI_DroneGenome_InsertFirstGenome>Primeiro genoma: Reprodutor</VFEI_DroneGenome_InsertFirstGenome>
+        <VFEI_InsertSecondGenomeDesc>Selecione o segundo genoma para a incubadora de bioengenharia.</VFEI_InsertSecondGenomeDesc>
+        <None_InsertSecondGenome>Segundo genoma: Nenhum</None_InsertSecondGenome>
+        <VFEI_RoyalGenome_InsertSecondGenome>Segundo genoma: Real</VFEI_RoyalGenome_InsertSecondGenome>
+        <VFEI_WarriorGenome_InsertSecondGenome>Segundo genoma: Operário</VFEI_WarriorGenome_InsertSecondGenome>
+        <VFEI_DroneGenome_InsertSecondGenome>Segundo genoma: Reprodutor</VFEI_DroneGenome_InsertSecondGenome>
+        <VFEI_InsertThirdGenomeDesc>Selecione o terceiro genoma para a incubadora de bioengenharia.</VFEI_InsertThirdGenomeDesc>
+        <None_InsertThirdGenome>Terceiro genoma: Nenhum</None_InsertThirdGenome>
+        <VFEI_RoyalGenome_InsertThirdGenome>Terceiro genoma: Real</VFEI_RoyalGenome_InsertThirdGenome>
+        <VFEI_WarriorGenome_InsertThirdGenome>Terceiro genoma: Operário</VFEI_WarriorGenome_InsertThirdGenome>
+        <VFEI_DroneGenome_InsertThirdGenome>Terceiro genoma: Reprodutor</VFEI_DroneGenome_InsertThirdGenome>
+        <VFEI_RoyalGenome>Genoma real</VFEI_RoyalGenome>
+        <VFEI_WarriorGenome>Genoma operário</VFEI_WarriorGenome>
+        <VFEI_DroneGenome>Genoma reprodutor</VFEI_DroneGenome>
+        <VFEI_None>Vazio</VFEI_None>
+        <VFEI_NoGeneticMaterial>Não há material genético deste tipo presente no mapa</VFEI_NoGeneticMaterial>
+        <VFEI_SelectAtLeastOne>Pelo menos um dos três espaços da incubadora deve ser preenchido com material genético</VFEI_SelectAtLeastOne>
+        <VFEI_StartInsertion>Inserir genes</VFEI_StartInsertion>
+        <VFEI_StartInsertionDesc>Ordene que seus colonos comecem a inserir material genético na incubadora.</VFEI_StartInsertionDesc>
+        <VFEI_RemoveAllGenes>Remover genes</VFEI_RemoveAllGenes>
+        <VFEI_RemoveAllGenesDesc>Esvazie a incubadora, removendo todos os genes que ainda possam estar armazenados nela.</VFEI_RemoveAllGenesDesc>
+        <VFEI_CancelJobs>Cancelar inserção</VFEI_CancelJobs>
+        <VFEI_CancelJobsDesc>Cancela a inserção dos genes.</VFEI_CancelJobsDesc>
+        <VFEI_Engage>Ativar incubadora</VFEI_Engage>
+        <VFEI_EngageDesc>Ative a incubadora para criar um novo insetcoide a partir dos materiais genéticos inseridos.</VFEI_EngageDesc>
+        <VFEI_NoGenesFound>Seus colonos não conseguiram recuperar o material genético</VFEI_NoGenesFound>
+        <VFEI_WaitTillJobsEnd>O material genético ainda está sendo levado para a incubadora</VFEI_WaitTillJobsEnd>
+        <VFEI_IncubationInProgress>Incubação em andamento. Um(a) {0} será produzido(a) em: </VFEI_IncubationInProgress>
+        <VFEI_CombinationNoResults>Esta combinação não produz resultados</VFEI_CombinationNoResults>
+        <VFEI_NotPowered>A incubadora de bioengenharia não está ligada no momento</VFEI_NotPowered>
+        <VFEI_IncubationFailurePower>Um progresso de incubação falhou devido à falta de energia</VFEI_IncubationFailurePower>
+        <VFEI_FailureMonstrosity>Algo deu catastroficamente errado com o andamento da incubação!</VFEI_FailureMonstrosity>
+        <VFEI_FailureDeath>Algo deu errado com o andamento da incubação. O insetcoide emerge morto</VFEI_FailureDeath>
+        <VFEI_FailureDisease>Algo deu errado com o andamento da incubação. O insectoide emerge doente</VFEI_FailureDisease>
+        <VFEI_BlackHiveGenome_InsertFirstGenome>Primeiro genoma: Colmeia negra</VFEI_BlackHiveGenome_InsertFirstGenome>
+        <VFEI_BlackHiveGenome_InsertSecondGenome>Segundo genoma: Colmeia negra</VFEI_BlackHiveGenome_InsertSecondGenome>
+        <VFEI_BlackHiveGenome_InsertThirdGenome>Terceiro genoma: Colmeia negra</VFEI_BlackHiveGenome_InsertThirdGenome>
+        <VFEI_BlackHiveGenome>Genoma de colmeia negra</VFEI_BlackHiveGenome>
+        <VFEI_MonstrosityTimeToLive>Degeneração celular em: {0}</VFEI_MonstrosityTimeToLive>
+        <LarvaeTimeSpawn>{0} antes da próxima larva desovar.</LarvaeTimeSpawn>
+        <InsectSpawned>Os insetos chegaram e estão atacando.</InsectSpawned>
+        <InsectsArriveIn>{0} chegam em {1}</InsectsArriveIn>
+        <CocoonInsectSpawnIn>{0} antes da desova dos insetos.</CocoonInsectSpawnIn>
+        <NoMoreSpawningAllowed>A rainha está descansando.</NoMoreSpawningAllowed>
+        <LetterLabelForcedTame>{1_kind} foi domesticado(a) à força</LetterLabelForcedTame>
+        <LetterArtifactTame>{0} tornou-se domesticado(a).</LetterArtifactTame>
+        <LetterLabelForcedTameFail>{1_kind} a domesticação forçada falhou</LetterLabelForcedTameFail>
+        <LetterArtifactTameFail>A domesticação de {0} falhou, levando o animal à loucura.</LetterArtifactTameFail>
+        <LetterLabelForcedRecruit>{0} está se juntando à sua facção.</LetterLabelForcedRecruit>
+        <LetterArtifactRecruit>{0} foi pacificado(a) e está se juntando à sua facção!</LetterArtifactRecruit>
+        <GoodWillAffectedByArtifact>A boa vontade com a facção alvo caiu em 50 devido ao uso de um artefato em um de seus membros.</GoodWillAffectedByArtifact>
+        <MutationOutcome>Resultado de mutação</MutationOutcome>
+        <MutationOutcomeLetter>Mutação desenvolvida: {0}.</MutationOutcomeLetter>
+        <FailedMutation>A mutação falhou!</FailedMutation>
+        <FailedMutationLetter>A mutação falhou, nenhuma parte do corpo poderia crescer.</FailedMutationLetter>
+        <InfestationNegated>Uma infestação foi evitada.</InfestationNegated>
+        <TransformationLLabel>Transformação!</TransformationLLabel>
+        <TransformationLetter>Devido a uma abstinência de geleia real, {0} foi transformad{0_gender ? o : a} em uma megaranha. {0_pronoun} ainda faz parte da sua facção e não atacará ninguém.</TransformationLetter>
+        <TeleportButton>Teletransportar</TeleportButton>
+        <TeleportHere>Teletransportar aqui.</TeleportHere>
+        <TeleportDesc>Teletransporte todos os itens e colonos escolhidos para o destino.</TeleportDesc>
+        <TeleportDestInvalid>O destino do teletransporte é inválido.</TeleportDestInvalid>
+        <TeleportDestTooFar>O destino do teletransporte é muito longe!</TeleportDestTooFar>
+        <TeleportWillDestroy>O teletransporte para este destino resultará na perda de conteúdo.</TeleportWillDestroy>
+        <TeleportDestroyed>Como não houve colonos teletransportados, o teletransporte falhou e o conteúdo foi perdido.</TeleportDestroyed>
+        <TeleportDone>Teletransporte bem-sucedido.</TeleportDone>
+        <TeleportDoneCAdded>O teletransporte foi bem-sucedido, o conteúdo foi adicionado à caravana.</TeleportDoneCAdded>
+        <SName>Vanilla Factions Expanded - Insectoids</SName>
+        <PusleLabel>Efeito de pulso repelente:</PusleLabel>
+        <PusleTooltip>Habilite ou desabilite o efeito de pulso do repelente de infestação sônica.</PusleTooltip>
+
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Long Range Missile -->
             <VFEM_SiloNoTarget>Atualmente sem alvo</VFEM_SiloNoTarget>
@@ -3249,7 +3366,7 @@
             <ProtectionFeeNotEnoughSilver>Prata insuficiente</ProtectionFeeNotEnoughSilver>
 
         <!-- Drunk Muffalo -->
-            <DrunkMuffaloTitle>Múfalos Bêbados</DrunkMuffaloTitle>
+            <DrunkMuffaloTitle>Múfalos bêbados</DrunkMuffaloTitle>
             <DrunkMuffaloMessage>Uma pequena manada de múfalos chegou na área. Parece que eles encontraram um estoque secreto de jägermeister antes, o que os faz ansiar ainda mais. Cuidado com suas travessuras.</DrunkMuffaloMessage>
 
         <!-- Chemshine Barrel -->

@@ -465,6 +465,24 @@
             <VAE_Apparel_RoyalSiegeArmor.label>armadura de fuzileiro pesada de prestígio</VAE_Apparel_RoyalSiegeArmor.label>
             <VAE_Apparel_RoyalSiegeArmor.description>Uma armadura pesada, projetada para aumentar a proteção enquanto mantém a mobilidade. Placas em tecido de plastiaço em camadas pesadas, emparelhadas com um emissor de escudo de energia embutido, param a maioria dos ataques. Assistentes neuro-meméticos permitem que um humano use esta armadura sem imobilizá-lo completamente.\n\nUma armadura de prestígio cara e bonita como essa, geralmente é feita para aqueles com alto status. Os fios eltex incorporados também aumentam a sensibilidade psíquica do usuário.</VAE_Apparel_RoyalSiegeArmor.description>
 
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- Archotech Shield Belt -->
+            <VFEI_Apparel_ArchotechShieldBelt.label>cinto de escudo archotech</VFEI_Apparel_ArchotechShieldBelt.label>
+            <VFEI_Apparel_ArchotechShieldBelt.description>Um dispositivo de escudo psíquico feito por uma IA superior, que cobre o usuário com uma bolha impenetrável. Ele parará qualquer projétil em movimento rápido ou ataque de energia. Não faz nada contra ataques corpo-a-corpo ou tiros à queima-roupa. Esta versão avançada tem maior capacidade, mas não possui mecanismo de recarga.</VFEI_Apparel_ArchotechShieldBelt.description>
+
+        <!-- Riot Armor -->
+            <VFE_Apparel_RiotArmor.label>armadura de choque</VFE_Apparel_RiotArmor.label>
+            <VFE_Apparel_RiotArmor.description>Uma jaqueta grossa com placas de armadura inseridas no peito, braços, pernas e costas. Muito eficaz na proteção contra danos contundentes.</VFE_Apparel_RiotArmor.description>
+
+        <!-- Riot Helmet -->
+            <VFE_Apparel_RiotHelmet.label>capacete de choque</VFE_Apparel_RiotHelmet.label>
+            <VFE_Apparel_RiotHelmet.description>Um capacete de combate pesado com uma placa que cobre o rosto. Eficaz na proteção contra danos contundentes.</VFE_Apparel_RiotHelmet.description>
+
+        <!-- Riot Shield -->
+            <VFEI_Shield_Riot.label>escudo de choque</VFEI_Shield_Riot.label>
+            <VFEI_Shield_Riot.description>Um escudo industrial pesado feito de aço reforçado. Fornece muita proteção contra danos contundentes.</VFEI_Shield_Riot.description>
+            <VFEI_Shield_Riot.tools.0.label>centro</VFEI_Shield_Riot.tools.0.label>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Light Plate Helmet -->
             <VFEM_Apparel_PlateHelmetLight.label>capacete de placas leve</VFEM_Apparel_PlateHelmetLight.label>

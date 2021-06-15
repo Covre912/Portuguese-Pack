@@ -365,7 +365,7 @@
             <WMH_ToxicBuildup.stages.1.label>inicial</WMH_ToxicBuildup.stages.1.label>
             <WMH_ToxicBuildup.stages.2.label>leve</WMH_ToxicBuildup.stages.2.label>
             <WMH_ToxicBuildup.stages.3.label>moderado</WMH_ToxicBuildup.stages.3.label>
-            <WMH_ToxicBuildup.stages.4.label>sério</WMH_ToxicBuildup.stages.4.label>
+            <WMH_ToxicBuildup.stages.4.label>grave</WMH_ToxicBuildup.stages.4.label>
             <WMH_ToxicBuildup.stages.5.label>extremo</WMH_ToxicBuildup.stages.5.label>
 
         <!-- Uncontrollabe Vomiting -->
@@ -502,11 +502,9 @@
             <VBE_IcedCoffeeHigh.description>A cafeína encontrada naturalmente no café, uma vez que é metabolizada, aumenta os estímulos no sistema nervoso, suprimindo a vontade de dormir e também limpando a mente. Aumenta a velocidade de aprendizagem em 15% e redução de 15% na taxa de queda em repouso. O café quente reduz a hipotermia, o frio reduz a insolação.</VBE_IcedCoffeeHigh.description>
             <VBE_IcedCoffeeHigh.labelNoun>embriaguez de café</VBE_IcedCoffeeHigh.labelNoun>
 
-        <!-- Caffeine Tolerance -->
+        <!-- Caffeine -->
             <VBE_CaffeineTolerance.label>tolerância à cafeína</VBE_CaffeineTolerance.label>
             <VBE_CaffeineTolerance.description>Uma tolerância acumulada à cafeína. Quanto mais grave for essa tolerância, mais cafeína será necessária para obter o mesmo efeito.</VBE_CaffeineTolerance.description>
-
-        <!-- Caffeine Addiction -->
             <VBE_CaffeineAddiction.label>vício em cafeína</VBE_CaffeineAddiction.label>
             <VBE_CaffeineAddiction.description>Um vício químico em cafeína. O uso prolongado da cafeína causou adaptações neurológicas no nível celular, de modo que o cérebro não pode mais funcionar adequadamente sem a droga.\n\nSem doses regulares de cafeína, os sintomas de abstinência começarão. No entanto, a abstinência prolongada forçará o cérebro a se adaptar ao seu estado normal, resolvendo o vício.</VBE_CaffeineAddiction.description>
             <VBE_CaffeineAddiction.stages.1.label>abstinência</VBE_CaffeineAddiction.stages.1.label>
@@ -531,12 +529,8 @@
             <VBE_DeluxeTobaccoHigh.label>viajando no tabaco de alta qualidade</VBE_DeluxeTobaccoHigh.label>
             <VBE_DeluxeTobaccoHigh.description>Nicotina na corrente sanguínea. Gera uma sensação suave de bem-estar difuso.</VBE_DeluxeTobaccoHigh.description>
             <VBE_DeluxeTobaccoHigh.labelNoun>embriaguez de tabaco de alta qualidade</VBE_DeluxeTobaccoHigh.labelNoun>
-
-        <!-- Tobacco Tolerance -->
             <VBE_TobaccoTolerance.label>tolerância ao tabaco</VBE_TobaccoTolerance.label>
-            <VBE_TobaccoTolerance.description>Uma tolerância acumulada ao tabaco. Quanto mais grave for essa tolerância, mais tabaco será necessária para obter o mesmo efeito.</VBE_TobaccoTolerance.description>
-
-        <!-- Tobacco Dependence -->
+            <VBE_TobaccoTolerance.description>Uma tolerância acumulada ao tabaco. Quanto mais grave for essa tolerância, mais tabaco será necessário para obter o mesmo efeito.</VBE_TobaccoTolerance.description>
             <VBE_TobaccoAddiction.label>vício em tabaco</VBE_TobaccoAddiction.label>
             <VBE_TobaccoAddiction.description>Um vício químico em tabaco. O uso prolongado do tabaco causou adaptações neurológicas no nível celular, de modo que o cérebro não pode mais funcionar adequadamente sem a droga.\n\nSem doses regulares de tabaco, os sintomas de abstinência começarão. No entanto, a abstinência prolongada forçará o cérebro a se adaptar ao seu estado normal, resolvendo o vício.</VBE_TobaccoAddiction.description>
             <VBE_TobaccoAddiction.stages.1.label>abstinência</VBE_TobaccoAddiction.stages.1.label>
@@ -771,6 +765,114 @@
             <VEF_LightSustenance.stages.2.label>níveis de luz muito baixos</VEF_LightSustenance.stages.2.label>
             <VEF_LightSustenance.stages.3.label>falta de luz solar</VEF_LightSustenance.stages.3.label>
             <VEF_LightSustenance.stages.4.label>falta extrema de sustentação</VEF_LightSustenance.stages.4.label>
+
+    <!-- Vanilla Factions Expanded - Insectoids --> 
+        <!-- Royal Jelly -->
+            <VFEI_RoyalJellyHigh.label>viajando na geleia real</VFEI_RoyalJellyHigh.label>
+            <VFEI_RoyalJellyHigh.description>Viajando na geleia real.</VFEI_RoyalJellyHigh.description>
+            <VFEI_RoyalJellyHigh.labelNoun>uma viagem na geleia real</VFEI_RoyalJellyHigh.labelNoun>
+            <VFEI_RoyalJellyTolerance.label>tolerância à geleia real</VFEI_RoyalJellyTolerance.label>
+            <VFEI_RoyalJellyTolerance.description>Uma tolerância acumulada à geleia real. Quanto mais grave for essa tolerância, mais geleia real será necessária para obter o mesmo efeito.</VFEI_RoyalJellyTolerance.description>
+            <VFEI_RoyalJellyAddiction.label>vício em geleia real</VFEI_RoyalJellyAddiction.label>
+            <VFEI_RoyalJellyAddiction.description>Um vício químico em geleia real. O uso prolongado da geleia real causou adaptações neurológicas no nível celular, de modo que o cérebro não pode mais funcionar adequadamente sem a droga.\n\nSem doses regulares de geleia os sintomas de abstinência começarão. No entanto, a abstinência prolongada forçará o cérebro a se adaptar ao seu estado normal, resolvendo o vício.</VFEI_RoyalJellyAddiction.description>
+            <VFEI_RoyalJellyAddiction.stages.1.label>abstinência</VFEI_RoyalJellyAddiction.stages.1.label>
+
+        <!-- Plasmapiercer Shock -->
+            <VFEI_TempDown.label>choque</VFEI_TempDown.label>
+            <VFEI_TempDown.description>O choque do rifle-de-plasma pesado que pode derrubar a maioria das criaturas.</VFEI_TempDown.description>
+            <VFEI_TempDown.stages.0.label>inicial</VFEI_TempDown.stages.0.label>
+            <VFEI_TempDown.stages.1.label>inicial</VFEI_TempDown.stages.1.label>
+            <VFEI_TempDown.stages.2.label>leve</VFEI_TempDown.stages.2.label>
+            <VFEI_TempDown.stages.3.label>moderado</VFEI_TempDown.stages.3.label>
+            <VFEI_TempDown.stages.4.label>grave</VFEI_TempDown.stages.4.label>
+            <VFEI_TempDown.stages.5.label>extremo</VFEI_TempDown.stages.5.label>
+
+        <!-- Toxic Buildup -->
+            <VFEI_ToxicBuildup.label>acúmulo tóxico</VFEI_ToxicBuildup.label>
+            <VFEI_ToxicBuildup.description>Toxinas na corrente sanguínea. Isso pode vir de várias fontes, incluindo toxinas ambientais, picadas venenosas ou armas envenenadas.\n\nEm altas doses, o acúmulo de tóxicos é letal. Mesmo em doses baixas, pode gerar câncer.\n\nAo contrário do aumento tóxico normal, criaturas que morrem com esse dano tóxico podem ser esquartejadas.</VFEI_ToxicBuildup.description>
+            <VFEI_ToxicBuildup.stages.0.label>inicial</VFEI_ToxicBuildup.stages.0.label>
+            <VFEI_ToxicBuildup.stages.1.label>inicial</VFEI_ToxicBuildup.stages.1.label>
+            <VFEI_ToxicBuildup.stages.2.label>leve</VFEI_ToxicBuildup.stages.2.label>
+            <VFEI_ToxicBuildup.stages.3.label>moderado</VFEI_ToxicBuildup.stages.3.label>
+            <VFEI_ToxicBuildup.stages.4.label>grave</VFEI_ToxicBuildup.stages.4.label>
+            <VFEI_ToxicBuildup.stages.5.label>extremo</VFEI_ToxicBuildup.stages.5.label>
+
+        <!-- Drone Genome -->
+            <VFEI_DroneGenome.label>genoma reprodutor</VFEI_DroneGenome.label>
+            <VFEI_DroneGenome.description>Um genoma reprodutor instalado.</VFEI_DroneGenome.description>
+            <VFEI_DroneGenome.labelNoun>um genoma reprodutor</VFEI_DroneGenome.labelNoun>
+
+        <!-- Insectoid Leg -->
+            <VFEI_InsectoidLeg.label>perna insectoide</VFEI_InsectoidLeg.label>
+            <VFEI_InsectoidLeg.description>Um apêndice articulado de um insetoide, consistindo em vários segmentos cobertos por quitina. Embora seja dolorosa, esta perna tem uma grande resistência.</VFEI_InsectoidLeg.description>
+            <VFEI_InsectoidLeg.labelNoun>uma perna insectoide</VFEI_InsectoidLeg.labelNoun>
+
+        <!-- Insectoid Arm -->
+            <VFEI_InsectoidArm.label>braço insectoide</VFEI_InsectoidArm.label>
+            <VFEI_InsectoidArm.description>Um apêndice articulado de um insetoide, consistindo em vários segmentos cobertos por quitina. Embora seja doloroso, este braço tem uma grande resistência.</VFEI_InsectoidArm.description>
+            <VFEI_InsectoidArm.labelNoun>um braço insectoide</VFEI_InsectoidArm.labelNoun>
+
+        <!-- Compound Eye -->
+            <VFEI_CompoundEye.label>olho composto</VFEI_CompoundEye.label>
+            <VFEI_CompoundEye.description>Um olho que consiste em milhares de unidades fotorreceptoras individuais que têm um grande campo de visão e ajudam na detecção de movimentos rápidos, no entanto, seu alcance de visibilidade é significativamente reduzido. Embora seja doloroso, este olho tem uma grande resistência.</VFEI_CompoundEye.description>
+            <VFEI_CompoundEye.labelNoun>um olho composto</VFEI_CompoundEye.labelNoun>
+
+        <!-- Mandibles -->
+            <VFEI_Mandibles.label>mandíbulas</VFEI_Mandibles.label>
+            <VFEI_Mandibles.description>Um par de apêndices situados nas laterais da boca, ajudando a triturar e cortar a comida. Embora sejam significativamente desconfortáveis, as mandíbulas insectoides aumentam significativamente a velocidade de alimentação.</VFEI_Mandibles.description>
+            <VFEI_Mandibles.labelNoun>mandíbula</VFEI_Mandibles.labelNoun>
+
+        <!-- Jelly Sac -->
+            <VFEI_JellySac.label>saco gelatinoso</VFEI_JellySac.label>
+            <VFEI_JellySac.description>Um órgão semelhante a um tubo que cresce dentro do corpo. Permite que os humanos produzam pequenas quantidades de geleia de inseto ao longo do tempo. É extremamente doloroso, exigindo aprimoramento médico para que a pessoa consiga viver.</VFEI_JellySac.description>
+            <VFEI_JellySac.labelNoun>um saco gelatinoso</VFEI_JellySac.labelNoun>
+
+        <!-- Warrior Genome -->
+            <VFEI_WarriorGenome.label>genoma operário</VFEI_WarriorGenome.label>
+            <VFEI_WarriorGenome.description>Um genoma operário instalado.</VFEI_WarriorGenome.description>
+            <VFEI_WarriorGenome.labelNoun>um genoma operário</VFEI_WarriorGenome.labelNoun>
+
+        <!-- Venom Gland -->
+            <VFEI_VenomGland.label>glândula venenosa</VFEI_VenomGland.label>
+            <VFEI_VenomGland.description>Uma glândula semelhante a um saco, enfiada sob a língua, que secreta ácido, liquefazendo e permitindo consumir com segurança até mesmo os alimentos mais perigosos. A superestimulação dessa glândula permite que o usuário lance um ataque de cuspe ácido de curto alcance, eficaz em perfurar armaduras.</VFEI_VenomGland.description>
+            <VFEI_VenomGland.comps.0.tools.0.label>glândula venenosa</VFEI_VenomGland.comps.0.tools.0.label>
+            <VFEI_VenomGland.labelNoun>glândula venenosa</VFEI_VenomGland.labelNoun>
+
+        <!-- Pneumatic Claw -->
+            <VFEI_PneumaticClaw.label>garra pneumática</VFEI_PneumaticClaw.label>
+            <VFEI_PneumaticClaw.description>Um poderoso braço de pinça pneumático, capaz de exercer repetidamente grande pressão sobre o alvo à custa de habilidades motoras.</VFEI_PneumaticClaw.description>
+            <VFEI_PneumaticClaw.comps.0.tools.0.label>garra</VFEI_PneumaticClaw.comps.0.tools.0.label>
+            <VFEI_PneumaticClaw.labelNoun>garra pneumática</VFEI_PneumaticClaw.labelNoun>
+
+        <!-- Antenna -->
+            <VFEI_Antenna.label>antena</VFEI_Antenna.label>
+            <VFEI_Antenna.description>Um órgão sensorial delgado e móvel que serve para complementar a visão e a consciência locacional. Um sujeito com esta mutação não sofrerá mais com as penalidades da escuridão, no entanto, a sobrecarga sensorial torna a socialização muito difícil.</VFEI_Antenna.description>
+            <VFEI_Antenna.labelNoun>antena</VFEI_Antenna.labelNoun>
+
+        <!-- Predator Stomach -->
+            <VFEI_PredatorStomach.label>estômago predador</VFEI_PredatorStomach.label>
+            <VFEI_PredatorStomach.description>Uma alternativa estomacal altamente eficiente, embora básica. Indivíduos com essa mutação são capazes de viver mais tempo com menos comida.</VFEI_PredatorStomach.description>
+            <VFEI_PredatorStomach.labelNoun>estômago predador</VFEI_PredatorStomach.labelNoun>
+
+        <!-- Royal Genome -->
+            <VFEI_RoyalGenome.label>genoma real</VFEI_RoyalGenome.label>
+            <VFEI_RoyalGenome.description>Um genoma real instalado.</VFEI_RoyalGenome.description>
+            <VFEI_RoyalGenome.labelNoun>um genoma real</VFEI_RoyalGenome.labelNoun>
+
+        <!-- Pheronome Secretor -->
+            <VFEI_PheromoneSecretor.label>secretor de feromônios</VFEI_PheromoneSecretor.label>
+            <VFEI_PheromoneSecretor.description>Glândulas insetóides que vazam lentamente feromônios incolores, inodoros, mas pegajosos, notáveis por induzir uma euforia leve nas pessoas próximas.</VFEI_PheromoneSecretor.description>
+            <VFEI_PheromoneSecretor.labelNoun>secretor de feromônios</VFEI_PheromoneSecretor.labelNoun>
+
+        <!-- Ventricular Sleeve -->
+            <VFEI_VentricularSleeve.label>corpo ventricular</VFEI_VentricularSleeve.label>
+            <VFEI_VentricularSleeve.description>Uma mutação do coração e da artéria que faz com que o sangue coagule em um material semelhante a um gel rico em oxigênio. Em caso de laceração ou mesmo perda de membros, o gel cauterizará a ferida imediatamente. Infelizmente, exerce forte pressão sobre a biologia cardiovascular humana.</VFEI_VentricularSleeve.description>
+            <VFEI_VentricularSleeve.labelNoun>corpo ventricular</VFEI_VentricularSleeve.labelNoun>
+
+        <!-- Synaptic Cerebellum -->
+            <VFEI_SynapticCerebellum.label>cerebelo sináptico</VFEI_SynapticCerebellum.label>
+            <VFEI_SynapticCerebellum.description>Um cérebro insectoide particularmente sensível a sinapses psíquicas residuais. Uma criatura com essa mutação possui profundo pensamento coletivo e sensibilidade psíquica, mas mal é capaz de formar sentenças coesas.</VFEI_SynapticCerebellum.description>
+            <VFEI_SynapticCerebellum.labelNoun>cerebelo sináptico</VFEI_SynapticCerebellum.labelNoun>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Faster Moviment -->

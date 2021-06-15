@@ -102,6 +102,15 @@
             <VEF_SecondaryAcidBurn.label>ácido</VEF_SecondaryAcidBurn.label>
             <VEF_SecondaryAcidBurn.deathMessage>{0} foi corroíd{0_gender ? o : a} até a morte.</VEF_SecondaryAcidBurn.deathMessage>
 
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- Psychic -->
+            <VFEI_PsychicNoDamage.label>psique</VFEI_PsychicNoDamage.label>
+            <VFEI_PsychicNoDamage.deathMessage>{0} foi mort{0_gender ? o : a}.</VFEI_PsychicNoDamage.deathMessage>
+
+        <!-- Toxic Sting -->
+            <VFEI_ToxicSting.label>picada tóxica</VFEI_ToxicSting.label>
+            <VFEI_ToxicSting.deathMessage>{0} foi picad{0_gender ? o : a} até a morte.</VFEI_ToxicSting.deathMessage>
+
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Cut -->
             <VFEV_Cut.label>corte</VFEV_Cut.label>

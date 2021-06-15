@@ -1392,7 +1392,7 @@
 
 		<!-- Insect Cheese -->
 			<VCE_InsectCheese.label>queijo de inseto</VCE_InsectCheese.label>
-			<VCE_InsectCheese.description>Um queijo de cheiro forte que lembra o Roquefort. O queijo de inseto é branco, picante, quebradiço e ligeiramente úmido.</VCE_InsectCheese.description>
+			<VCE_InsectCheese.description>Um queijo de cheiro forte que lembra o roquefort. O queijo de inseto é branco, picante, quebradiço e ligeiramente úmido.</VCE_InsectCheese.description>
 
 		<!-- Ketchup -->
 			<VCE_Ketchup.label>ketchup</VCE_Ketchup.label>
@@ -1483,6 +1483,112 @@
 		<!-- Oshizushi (Gourmet) -->
 			<VCE_Oshizushi.label>oshizushi (gourmet)</VCE_Oshizushi.label>
 			<VCE_Oshizushi.description>Uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, até elaborada, de um sushi esteticamente equilibrado, embora em pequena quantidade. Em oshizushi, uma peça em forma de bloco é formada usando um molde de madeira. O chef forra o fundo do molde com as coberturas, cobre-os com arroz japonês e, em seguida, pressiona a tampa do molde para baixo para criar um bloco retilíneo compacto. O bloco é removido do molde e então cortado em pedaços pequenos.</VCE_Oshizushi.description>
+
+	<!-- Vanilla Factions Expanded - Insectoids -->
+		<!-- Chitin -->
+			<VFEI_Chitin.label>quitina</VFEI_Chitin.label>
+			<VFEI_Chitin.description>Uma composição extremamente espessa de minerais raros e biomassa, comumente encontrada em uma forma de exoesqueletos de insetos.</VFEI_Chitin.description>
+
+		<!-- Spidersilk -->
+			<VFEI_Spidersilk.label>seda</VFEI_Spidersilk.label>
+			<VFEI_Spidersilk.description>Um tecido muito delicado que parece brilhar pela forma única como reflete os raios de luz. É muito inflamável e oferece pouca proteção, mas sua beleza o torna extremamente valiosa.</VFEI_Spidersilk.description>
+
+		<!-- Royal Insect Jelly -->
+			<VFEI_RoyalInsectJelly.label>geleia de inseto real</VFEI_RoyalInsectJelly.label>
+			<VFEI_RoyalInsectJelly.description>Uma geleia dourada e brilhante usada pelas rainhas para criar novas desovas. É suave, luxuosa e traz alegria para quem a consome. Devido à sua composição biológica única, aumenta a imunidade e nutre quem a prova.</VFEI_RoyalInsectJelly.description>
+
+		<!-- Insect Milk -->
+			<VFEI_InsectMilk.label>leite de inseto</VFEI_InsectMilk.label>
+			<VFEI_InsectMilk.description>Leite de um insectoide.</VFEI_InsectMilk.description>
+
+		<!-- Insect Eggs -->
+			<VFEI_EggInsectoidUnfertilized.label>ovo de insectoide (não fert.)</VFEI_EggInsectoidUnfertilized.label>
+			<VFEI_EggInsectoidUnfertilized.description>Ovo de insectoide não fertilizado. Pode ser comido cru, mas fica muito melhor cozinhado.</VFEI_EggInsectoidUnfertilized.description>
+
+		<!-- Drone Genetic Material -->
+			<VFEI_DroneGenome.label>material genético reprodutor</VFEI_DroneGenome.label>
+			<VFEI_DroneGenome.description>Material genético de várias espécies diferentes de animais reprodutores, misturado em uma carga útil de DNA.\n\nQuando administrado a um humano, este genoma pode ter um efeito aleatório.</VFEI_DroneGenome.description>
+
+		<!-- Warrior Genetic Material -->
+			<VFEI_WarriorGenome.label>material genético operário</VFEI_WarriorGenome.label>
+			<VFEI_WarriorGenome.description>Material genético de várias espécies diferentes de animais operários, misturado em uma carga útil de DNA.\n\nQuando administrado a um humano, este genoma pode ter um efeito aleatório.</VFEI_WarriorGenome.description>
+
+		<!-- Royal Genetic Material -->
+			<VFEI_RoyalGenome.label>material genético real</VFEI_RoyalGenome.label>
+			<VFEI_RoyalGenome.description>Material genético de várias espécies diferentes de animais reais, misturado em uma carga útil de DNA.\n\nQuando administrado a um humano, este genoma pode ter um efeito aleatório.</VFEI_RoyalGenome.description>
+
+		<!-- Psychic Pacifier -->
+			<VFEI_Artifacts_PsychicPacifier.label>pacificador psíquico</VFEI_Artifacts_PsychicPacifier.label>
+			<VFEI_Artifacts_PsychicPacifier.description>Um artefato de uso único que direciona uma explosão de pacificação psíquica para um personagem, fazendo-o entrar em sua facção. Existe um grande risco de danos cerebrais. Funciona a longas distâncias e através de paredes.</VFEI_Artifacts_PsychicPacifier.description>
+
+		<!-- Psychic Animal Tamer -->
+			<VFEI_Artifacts_PsychicAnimalTamer.label>domesticador psíquico</VFEI_Artifacts_PsychicAnimalTamer.label>
+			<VFEI_Artifacts_PsychicAnimalTamer.description>Um domador de animais psíquico de uso único. Oprime a mente do alvo com uma terrível persuasão, levando-o a um estado transcendental, no qual fica confiante e interessado em domesticadores. Existe um risco de danos cerebrais. Funciona a longas distâncias e através de paredes.</VFEI_Artifacts_PsychicAnimalTamer.description>
+
+		<!-- Archotech Eraser -->
+			<VFEI_Artifacts_ArchotechEraser.label>apagador archotech</VFEI_Artifacts_ArchotechEraser.label>
+			<VFEI_Artifacts_ArchotechEraser.description>Um artefato de uso único que utiliza um núcleo vanométrico para apagar tudo em um grande raio da existência. Precisa ser acionado manualmente.</VFEI_Artifacts_ArchotechEraser.description>
+
+		<!-- Archotech Teleporter -->
+			<VFEI_Artifacts_ArchotechTeleporter.label>teletransportador archotech</VFEI_Artifacts_ArchotechTeleporter.label>
+			<VFEI_Artifacts_ArchotechTeleporter.description>Um artefato de uso único que permite transportar até 500 kg de massa de um lugar para qualquer outro do planeta. Não pode ser usado para interagir com outras facções.</VFEI_Artifacts_ArchotechTeleporter.description>
+
+		<!-- Psychic Warhead -->
+			<VFEI_Shell_PsychicWarhead.label>ogiva psíquica</VFEI_Shell_PsychicWarhead.label>
+			<VFEI_Shell_PsychicWarhead.description>Uma ogiva de uma era há muito esquecida. Após a detonação, libera um forte drone psíquico, enviando todos os animais e humanóides ao seu alcance em uma fúria frenética. Pode ser disparada com morteiros. Explode quando danificada.</VFEI_Shell_PsychicWarhead.description>
+			<VFEI_Bullet_Shell_PsychicWarhead.label>ogiva psíquica</VFEI_Bullet_Shell_PsychicWarhead.label>
+
+		<!-- Insectoid Leg -->
+			<VFEI_InsectoidLeg.label>perna insectoide</VFEI_InsectoidLeg.label>
+			<VFEI_InsectoidLeg.description>Um apêndice articulado de um insetoide, consistindo em vários segmentos cobertos por quitina. Embora seja dolorosa, esta perna tem uma grande resistência.</VFEI_InsectoidLeg.description>
+
+		<!-- Insectoid Arm -->
+			<VFEI_InsectoidArm.label>braço insectoide</VFEI_InsectoidArm.label>
+			<VFEI_InsectoidArm.description>Um apêndice articulado de um insetoide, consistindo em vários segmentos cobertos por quitina. Embora seja doloroso, este braço tem uma grande resistência.</VFEI_InsectoidArm.description>
+
+		<!-- Compound Eye -->
+			<VFEI_CompoundEye.label>olho composto</VFEI_CompoundEye.label>
+			<VFEI_CompoundEye.description>Um olho que consiste em milhares de unidades fotorreceptoras individuais que têm um grande campo de visão e ajudam na detecção de movimentos rápidos, no entanto, seu alcance de visibilidade é significativamente reduzido. Embora seja doloroso, este olho tem uma grande resistência.</VFEI_CompoundEye.description>
+
+		<!-- Mandibles -->
+			<VFEI_Mandibles.label>mandíbulas</VFEI_Mandibles.label>
+			<VFEI_Mandibles.description>Um par de apêndices situados nas laterais da boca, ajudando a triturar e cortar a comida. Embora sejam significativamente desconfortáveis, as mandíbulas insectoides aumentam significativamente a velocidade de alimentação.</VFEI_Mandibles.description>
+
+		<!-- Jelly Sac -->
+			<VFEI_JellySac.label>saco gelatinoso</VFEI_JellySac.label>
+			<VFEI_JellySac.description>Um órgão semelhante a um tubo que cresce dentro do corpo. Permite que os humanos produzam pequenas quantidades de geleia de inseto ao longo do tempo. É extremamente doloroso, exigindo aprimoramento médico para que a pessoa consiga viver.</VFEI_JellySac.description>
+
+		<!-- Venom Gland -->
+			<VFEI_VenomGland.label>glândula venenosa</VFEI_VenomGland.label>
+			<VFEI_VenomGland.description>Uma glândula semelhante a um saco, enfiada sob a língua, que secreta ácido, liquefazendo e permitindo consumir com segurança até mesmo os alimentos mais perigosos. A superestimulação dessa glândula permite que o usuário lance um ataque de cuspe ácido de curto alcance, eficaz em perfurar armaduras.</VFEI_VenomGland.description>
+
+		<!-- Pneumatic claw -->
+			<VFEI_PneumaticClaw.label>garra pneumática</VFEI_PneumaticClaw.label>
+			<VFEI_PneumaticClaw.description>Um poderoso braço de pinça pneumático, capaz de exercer repetidamente grande pressão sobre o alvo à custa de habilidades motoras.</VFEI_PneumaticClaw.description>
+
+		<!-- Antenna -->
+			<VFEI_Antenna.label>antena</VFEI_Antenna.label>
+			<VFEI_Antenna.description>Um órgão sensorial delgado e móvel que serve para complementar a visão e a consciência locacional. Um sujeito com esta mutação não sofrerá mais com as penalidades da escuridão, no entanto, a sobrecarga sensorial torna a socialização muito difícil.</VFEI_Antenna.description>
+
+		<!-- Predator Stomach -->
+			<VFEI_PredatorStomach.label>estômago predador</VFEI_PredatorStomach.label>
+			<VFEI_PredatorStomach.description>Uma alternativa estomacal altamente eficiente, embora básica. Indivíduos com essa mutação são capazes de viver mais tempo com menos comida.</VFEI_PredatorStomach.description>
+
+		<!-- Pheronome Secretor -->
+			<VFEI_PheromoneSecretor.label>secretor de feromônios</VFEI_PheromoneSecretor.label>
+			<VFEI_PheromoneSecretor.description>Glândulas insetóides que vazam lentamente feromônios incolores, inodoros, mas pegajosos, notáveis por induzir uma euforia leve nas pessoas próximas.</VFEI_PheromoneSecretor.description>
+
+		<!-- Ventricular Sleeve -->
+			<VFEI_VentricularSleeve.label>corpo ventricular</VFEI_VentricularSleeve.label>
+			<VFEI_VentricularSleeve.description>Uma mutação do coração e da artéria que faz com que o sangue coagule em um material semelhante a um gel rico em oxigênio. Em caso de laceração ou mesmo perda de membros, o gel cauterizará a ferida imediatamente. Infelizmente, exerce forte pressão sobre a biologia cardiovascular humana.</VFEI_VentricularSleeve.description>
+
+		<!-- Synaptic Cerebellum -->
+			<VFEI_SynapticCerebellum.label>cerebelo sináptico</VFEI_SynapticCerebellum.label>
+			<VFEI_SynapticCerebellum.description>Um cérebro insectoide particularmente sensível a sinapses psíquicas residuais. Uma criatura com essa mutação possui profundo pensamento coletivo e sensibilidade psíquica, mas mal é capaz de formar sentenças coesas.</VFEI_SynapticCerebellum.description>
+
+		<!-- Black Hive Genetic Material -->
+			<VFEI_BlackHiveGenome.label>material genético de colmeia negra</VFEI_BlackHiveGenome.label>
+			<VFEI_BlackHiveGenome.description>Um frasco de material genético extraído de um insectoide da Colmeia Negra.\n\nO material genético da colmeia negra não é viável em todas as combinações e não se combinará de forma alguma com o genoma real.</VFEI_BlackHiveGenome.description>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Component -->
