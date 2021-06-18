@@ -163,6 +163,16 @@
             <RttR_Zippleback.lifeStages.2.label>ziperarepiante adolescente</RttR_Zippleback.lifeStages.2.label>
             <RttR_Zippleback.lifeStages.2.labelPlural>ziperarepiantes adolescentes</RttR_Zippleback.lifeStages.2.labelPlural>
 
+        <!-- Skrill -->
+            <RttR_Skrill.label>estridente</RttR_Skrill.label>
+            <RttR_Skrill.labelPlural>estridnetes</RttR_Skrill.labelPlural>
+            <RttR_Skrill.lifeStages.0.label>estridente filhote</RttR_Skrill.lifeStages.0.label>
+            <RttR_Skrill.lifeStages.0.labelPlural>estridentes filhotes</RttR_Skrill.lifeStages.0.labelPlural>
+            <RttR_Skrill.lifeStages.1.label>estridente jovem</RttR_Skrill.lifeStages.1.label>
+            <RttR_Skrill.lifeStages.1.labelPlural>estridentes jovens</RttR_Skrill.lifeStages.1.labelPlural>
+            <RttR_Skrill.lifeStages.2.label>estridente adolescente</RttR_Skrill.lifeStages.2.label>
+            <RttR_Skrill.lifeStages.2.labelPlural>estridentes adolescentes</RttR_Skrill.lifeStages.2.labelPlural>
+
     <!-- RimEffect: Core -->
         <!-- Marine -->
             <RE_Alliance_Marine.label>fuzileiro</RE_Alliance_Marine.label>
@@ -639,7 +649,7 @@
     <!-- Vanilla Animals Expanded - Ice Sheet -->
         <!-- Penguim -->
             <AEXP_Penguin.label>pinguim</AEXP_Penguin.label>
-            <AEXP_Penguin.labelPlural>puinguins</AEXP_Penguin.labelPlural>
+            <AEXP_Penguin.labelPlural>pinguins</AEXP_Penguin.labelPlural>
 
         <!-- Seal -->
             <AEXP_Seal.label>foca</AEXP_Seal.label>

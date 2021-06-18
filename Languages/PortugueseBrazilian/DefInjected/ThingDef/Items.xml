@@ -492,6 +492,10 @@
   			<RttR_EggTripleStrykeFertilized.label>ovo de ataque triplo (fert.)</RttR_EggTripleStrykeFertilized.label>
   			<RttR_EggTripleStrykeFertilized.description>Ovo de ataque triplo fertilizado. Se tudo ocorrer bem, ele deve eclodir um ataque triplo bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</RttR_EggTripleStrykeFertilized.description>
 
+		<!-- Skrill Egg -->
+			<RttR_EggSkrillFertilized.label>ovo de estridente (fert.)</RttR_EggSkrillFertilized.label>
+			<RttR_EggSkrillFertilized.description>Ovo de estridente fertilizado. Se tudo ocorrer bem, ele deve eclodir um estridente bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</RttR_EggSkrillFertilized.description>
+
 		<!-- Raw Fish -->
 			<RttR_RawFish.label>peixe cru</RttR_RawFish.label>
 			<RttR_RawFish.description>Peixe cru. Um dragão engenhoso pescou isso.</RttR_RawFish.description>
@@ -525,11 +529,11 @@
 
 		<!-- Flightmare Dragon Scales -->
 			<RttR_FlightmareDragonScales.label>escamas de pesadelo voador</RttR_FlightmareDragonScales.label>
-			<RttR_FlightmareDragonScales.description>Fracamente brilhantes, escamas duras sobrepostas com um brilho metálico brilhante. Bom para isolamento frio e contra ataques de fogo.</RttR_FlightmareDragonScales.description>
+			<RttR_FlightmareDragonScales.description>Fracamente brilhantes, escamas duras sobrepostas com um brilho metálico. Bom para isolamento frio e contra ataques de fogo.</RttR_FlightmareDragonScales.description>
 
 		<!-- Fury Dragon Scales -->
 			<RttR_FuryDragonScales.label>escamas de fúria</RttR_FuryDragonScales.label>
-			<RttR_FuryDragonScales.description>Escalas duras sobrepostas com um brilho metálico brilhante. Excepcionalmente resistente ao fogo.</RttR_FuryDragonScales.description>
+			<RttR_FuryDragonScales.description>Escalas duras sobrepostas com um brilho metálico. Excepcionalmente resistente ao fogo.</RttR_FuryDragonScales.description>
 
 		<!-- Gronckle Dragon Scales -->
 			<RttR_GronckleDragonScales.label>escamas de gronckel</RttR_GronckleDragonScales.label>
@@ -541,39 +545,43 @@
 
 		<!-- Nadder Dragon Sclaes -->
 			<RttR_NadderDragonScales.label>escamas de nadder</RttR_NadderDragonScales.label>
-			<RttR_NadderDragonScales.description>Escalas duras sobrepostas com um brilho metálico brilhante. Excepcionalmente durável em combate.</RttR_NadderDragonScales.description>
+			<RttR_NadderDragonScales.description>Escalas duras sobrepostas com um brilho metálico. Excepcionalmente durável em combate.</RttR_NadderDragonScales.description>
 
 		<!-- Nightmare Dragon Scales -->
 			<RttR_NightmareDragonScales.label>escamas de pesadelo monstruoso</RttR_NightmareDragonScales.label>
-			<RttR_NightmareDragonScales.description>Escalas duras sobrepostas com um brilho metálico brilhante. Excepcionalmente durável em combate.</RttR_NightmareDragonScales.description>
+			<RttR_NightmareDragonScales.description>Escalas duras sobrepostas com um brilho metálico. Excepcionalmente durável em combate.</RttR_NightmareDragonScales.description>
 
 		<!-- Rumblehorn Dragon Scales -->
 			<RttR_RumblehornDragonScales.label>escamas de chifre estrondoso</RttR_RumblehornDragonScales.label>
-			<RttR_RumblehornDragonScales.description>Escalas duras sobrepostas com um brilho metálico brilhante. Excepcionalmente durável em combate.</RttR_RumblehornDragonScales.description>
+			<RttR_RumblehornDragonScales.description>Escalas duras sobrepostas com um brilho metálico. Excepcionalmente durável em combate.</RttR_RumblehornDragonScales.description>
 
 		<!-- Scauldron Dragon Scales -->
 			<RttR_ScauldronDragonScales.label>escamas de escalderível</RttR_ScauldronDragonScales.label>
-			<RttR_ScauldronDragonScales.description>Escalas duras sobrepostas com um brilho metálico brilhante. Excepcionalmente durável em combate.</RttR_ScauldronDragonScales.description>
+			<RttR_ScauldronDragonScales.description>Escalas duras sobrepostas com um brilho metálico. Excepcionalmente durável em combate.</RttR_ScauldronDragonScales.description>
 
 		<!-- Stormcutter Dragon Scales -->
 			<RttR_StormcutterDragonScales.label>escamas de corta tormenta</RttR_StormcutterDragonScales.label>
-			<RttR_StormcutterDragonScales.description>Escalas duras sobrepostas com um brilho metálico brilhante. Excepcionalmente durável em combate.</RttR_StormcutterDragonScales.description>
+			<RttR_StormcutterDragonScales.description>Escalas duras sobrepostas com um brilho metálico. Excepcionalmente durável em combate.</RttR_StormcutterDragonScales.description>
 
 		<!-- Terrible Terror Dragon Scales -->
 			<RttR_TerribleTerrorDragonScales.label>escamas de terror terrível</RttR_TerribleTerrorDragonScales.label>
-			<RttR_TerribleTerrorDragonScales.description>Escalas duras sobrepostas com um brilho metálico brilhante. Excepcionalmente durável em combate.</RttR_TerribleTerrorDragonScales.description>
+			<RttR_TerribleTerrorDragonScales.description>Escalas duras sobrepostas com um brilho metálico. Excepcionalmente durável em combate.</RttR_TerribleTerrorDragonScales.description>
 
 		<!-- Zippleback Dragon Scales -->
 			<RttR_ZipplebackDragonScales.label>escamas de ziperarepiante</RttR_ZipplebackDragonScales.label>
-			<RttR_ZipplebackDragonScales.description>Escalas duras sobrepostas com um brilho metálico brilhante. Excepcionalmente durável em combate.</RttR_ZipplebackDragonScales.description>
+			<RttR_ZipplebackDragonScales.description>Escalas duras sobrepostas com um brilho metálico. Excepcionalmente durável em combate.</RttR_ZipplebackDragonScales.description>
 
 		<!-- Razorwhip Dragon Scales -->
 			<RttR_RazorwhipDragonScales.label>escamas de chicote-cortante</RttR_RazorwhipDragonScales.label>
-			<RttR_RazorwhipDragonScales.description>Escalas sobrepostas extremamente duras com um brilho metálico brilhante. As mais fortes de todas as escamas de dragão, oferecem defesas imbatíveis contra ataques afiados.</RttR_RazorwhipDragonScales.description>
+			<RttR_RazorwhipDragonScales.description>Escalas sobrepostas extremamente duras com um brilho metálico. As mais fortes de todas as escamas de dragão, oferecem defesas imbatíveis contra ataques afiados.</RttR_RazorwhipDragonScales.description>
 
 		<!-- Triple Stryke Dragon Scales -->
 			<RttR_TripleStrykeDragonScales.label>escamas de ataque triplo</RttR_TripleStrykeDragonScales.label>
 			<RttR_TripleStrykeDragonScales.description>Uma substância quitinosa semelhante a escamas. Não é tão bom em isolamento quanto outras escamas de dragão, mas excelente em capacidades defensivas.</RttR_TripleStrykeDragonScales.description>
+
+		<!-- Skrill Dragon Scales -->
+			<RttR_SkrillDragonScales.label>escamas de estridente</RttR_SkrillDragonScales.label>
+			<RttR_SkrillDragonScales.description>Escalas duras sobrepostas com um brilho metálico. Excepcionalmente durável em combate.</RttR_SkrillDragonScales.description>
 
 		<!-- Mixed Dragon Scales-->
 			<RttR_PatchedDragonScales.label>escamas misturadas</RttR_PatchedDragonScales.label>
@@ -1526,11 +1534,11 @@
 			<VFEI_Artifacts_PsychicAnimalTamer.description>Um domador de animais psíquico de uso único. Oprime a mente do alvo com uma terrível persuasão, levando-o a um estado transcendental, no qual fica confiante e interessado em domesticadores. Existe um risco de danos cerebrais. Funciona a longas distâncias e através de paredes.</VFEI_Artifacts_PsychicAnimalTamer.description>
 
 		<!-- Archotech Eraser -->
-			<VFEI_Artifacts_ArchotechEraser.label>apagador archotech</VFEI_Artifacts_ArchotechEraser.label>
+			<VFEI_Artifacts_ArchotechEraser.label>apagador arquotecnológico</VFEI_Artifacts_ArchotechEraser.label>
 			<VFEI_Artifacts_ArchotechEraser.description>Um artefato de uso único que utiliza um núcleo vanométrico para apagar tudo em um grande raio da existência. Precisa ser acionado manualmente.</VFEI_Artifacts_ArchotechEraser.description>
 
 		<!-- Archotech Teleporter -->
-			<VFEI_Artifacts_ArchotechTeleporter.label>teletransportador archotech</VFEI_Artifacts_ArchotechTeleporter.label>
+			<VFEI_Artifacts_ArchotechTeleporter.label>teletransportador arquotecnológico</VFEI_Artifacts_ArchotechTeleporter.label>
 			<VFEI_Artifacts_ArchotechTeleporter.description>Um artefato de uso único que permite transportar até 500 kg de massa de um lugar para qualquer outro do planeta. Não pode ser usado para interagir com outras facções.</VFEI_Artifacts_ArchotechTeleporter.description>
 
 		<!-- Psychic Warhead -->
@@ -1592,8 +1600,8 @@
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Component -->
-            <VFE_ComponentMechanoid.label>componente mecanóide</VFE_ComponentMechanoid.label>
-            <VFE_ComponentMechanoid.description>Processadores e nano-calculadoras muito avançados, usados ​​com frequência na criação de tecnologia mecanóide.</VFE_ComponentMechanoid.description>
+            <VFE_ComponentMechanoid.label>componente mecanoide</VFE_ComponentMechanoid.label>
+            <VFE_ComponentMechanoid.description>Processadores e nano-calculadoras muito avançados, usados ​​com frequência na criação de tecnologia mecanoide.</VFE_ComponentMechanoid.description>
 
         <!-- Processed Meat -->
             <VFEM_ProcessedMeat.label>carne processada</VFEM_ProcessedMeat.label>
@@ -1658,6 +1666,14 @@
 		<!-- Cow Wool -->
 			<VFEV_WoolCow.label>lã de vaca</VFEV_WoolCow.label>
 			<VFEV_WoolCow.description>Lã de vaca. Fornece uma quantidade decente de isolamento.</VFEV_WoolCow.description>
+
+		<!-- Mead -->
+			<VFEV_Mead.label>hidromel</VFEV_Mead.label>
+			<VFEV_Mead.description>Uma bebida semelhante ao vinho, feita de mel fermentado e água, envelhecida em um simples barril. Esta bebida doce e crocante é conhecida por ser amamentada ao longo do tempo e tem a reputação de ser particularmente reconfortante.</VFEV_Mead.description>
+			<VFEV_Mead.ingestible.ingestCommandString>Beber {0}</VFEV_Mead.ingestible.ingestCommandString>
+			<VFEV_Mead.ingestible.ingestReportString>Bebendo {0}.</VFEV_Mead.ingestible.ingestReportString>
+			<VFEV_Mead.tools.0.label>frasco</VFEV_Mead.tools.0.label>
+			<VFEV_Mead.tools.1.label>gargalo</VFEV_Mead.tools.1.label>
 
     <!-- Vanilla Fishing Expanded -->
         <!-- Anchovy -->

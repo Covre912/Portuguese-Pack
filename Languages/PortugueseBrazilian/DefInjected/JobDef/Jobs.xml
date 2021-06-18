@@ -69,14 +69,14 @@
         <VFEC_EquipShield.reportString>equipando TargetA.</VFEC_EquipShield.reportString>
         <VFE_Mechanoids_RepairMachine.reportString>reconstruindo máquina.</VFE_Mechanoids_RepairMachine.reportString>
         <VFE_Mechanoids_AttachTurret.reportString>anexando torre.</VFE_Mechanoids_AttachTurret.reportString>
-        <VFE_Mechanoids_Recharge.reportString>recarregando.<VFE_Mechanoids_Recharge.reportString>
+        <VFE_Mechanoids_Recharge.reportString>recarregando.</VFE_Mechanoids_Recharge.reportString>
         <IP_InsertFirstIngredient.reportString>inserindo ingrediente.</IP_InsertFirstIngredient.reportString>
         <IP_InsertSecondIngredient.reportString>inserindo ingrediente.</IP_InsertSecondIngredient.reportString>
         <IP_InsertThirdIngredient.reportString>inserindo ingrediente.</IP_InsertThirdIngredient.reportString>
         <IP_RemoveProduct.reportString>removendo o produto finalizado.</IP_RemoveProduct.reportString>
         <VEF_AnimalResource.reportString>coletando recursos animais de TargetA.</VEF_AnimalResource.reportString>
         <VEF_DestroyItem.reportString>destruindo um item.</VEF_DestroyItem.reportString>
-        <VEF_LayExplodingEgg.reportString>botando ovos.</VEF_LayExplodingEgg.reportString>
+        <VEF_LayExplodingEgg.reportString>botando ovos.</VEF_LayExplodingEgg.reportString> 
         <VEF_IngestWeird.reportString>consumindo TargetA.</VEF_IngestWeird.reportString>
 
     <!-- Vanilla Factions Expanded - Insectoids -->

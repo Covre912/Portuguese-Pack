@@ -8,42 +8,42 @@
 
     <!-- Vanilla Events Expanded -->
         <!-- Ice Age -->
-            <IceAge.label>Era do Gelo</IceAge.label>
+            <IceAge.label>era do gelo</IceAge.label>
             <IceAge.description>A composição atmosférica do planeta mudou drasticamente, resultando em uma queda de temperatura significante.\n\nFlora e fauna estão sofrendo por essas mudanças à medida que os biomas mudam para suas contrapartes mais frias. Recursos se tornam escassos, forçando facções a conflitos.\n\nIsso durará de uma estação a vários anos.</IceAge.description>
             <IceAge.endMessage>A era do gelo está chegando ao fim.</IceAge.endMessage>
 
         <!-- Global Warming -->
-            <GlobalWarming.label>Aquecimento Global</GlobalWarming.label>
+            <GlobalWarming.label>aquecimento global</GlobalWarming.label>
             <GlobalWarming.description>Temperaturas globais subitamente subiram a níveis perigosos.\n\nFlora e fauna estão sofrendo por essas mudanças à medida que os biomas mudam para suas contrapartes mais quentes. Recursos se tornam escarços, forçando facções a conflitos.\n\nIsso durará de uma estação a vários anos.</GlobalWarming.description>
             <GlobalWarming.endMessage>O aquecimento global está chegando ao fim.</GlobalWarming.endMessage>
 
         <!-- Psychic Rain -->
-            <PsychicRain.label>Chuva Psíquica</PsychicRain.label>
+            <PsychicRain.label>chuva psíquica</PsychicRain.label>
             <PsychicRain.description>Uma entidade psíquica perigosa causou um distúrbio a níveis subatômicos, ressoando através de todas as partículas da atmosfera.\n\nUma chuva supernatural aparentemente sem fim começou, alterando a própria composição do tempo. Qualquer pessoa ou criatura não sob um teto irá envelhecer significamente mais rápido.\n\nIsso durará de uma estação a vários anos.</PsychicRain.description>
             <PsychicRain.endMessage>A chuva psíquica está chegando ao fim.</PsychicRain.endMessage>
 
         <!-- Long Night -->
-            <LongNight.label>Noite Longa</LongNight.label>
+            <LongNight.label>noite longa</LongNight.label>
             <LongNight.description>Uma entidade espacial de tamanho inimaginável cobriu uma estrela local, resultando em um longo eclipse.\n\nApavorados com esse fenômeno supernatural, outras facções irão usar esse tempo para fazer guerras e conflitos ao longo do planeta.\n\nIsso durará de uma estação a vários anos.</LongNight.description>
             <LongNight.endMessage>A noite longa está chegando ao fim.</LongNight.endMessage>
 
         <!-- Psychic Bloom -->
-            <PsychicBloom.label>Floração Psíquica</PsychicBloom.label>
+            <PsychicBloom.label>floração psíquica</PsychicBloom.label>
             <PsychicBloom.description>Um forte pulso psíquico emitido por uma entidade há muito esquecida mudou a própria estrutura genética da flora local. Enquanto o céu se encheu com auroras aparentemente sem fim, flores coloridas começaram a brotar por toda parte.\n\nTodos os colonos irão ganhar um bônus positivo de humor pelo tempo do evento. As flores se espalhando rapidamente vão crescer por cima de tudo, incluindo seus campos.\n\nIsso durará de alguns dias a uma estação.</PsychicBloom.description>
             <PsychicBloom.endMessage>A floração psíquica está chegando ao fim.</PsychicBloom.endMessage>
 
         <!-- Hail Storm -->
-            <HailStorm.label>Chuva de Granizo</HailStorm.label>
+            <HailStorm.label>chuva de granizo</HailStorm.label>
             <HailStorm.description>Uma chuva de granizo anômala de pequena escala está devastando a área local. Qualquer pessoa ou criatura não sob um teto corre o risco de se ferir por pelotas de gelo.</HailStorm.description>
             <HailStorm.endMessage>A chuva de granizo está chegando ao fim.</HailStorm.endMessage>
 
         <!-- Drought -->
-            <Drought.label>Seca</Drought.label>
+            <Drought.label>seca</Drought.label>
             <Drought.description>Uma seca inusitada se estabeleceu.\n\nA seca é devastadora para a vida vegetal e irá destruir rapidamente todas as plantas não plantadas nas hidropônicas. Certifique-se de colher rapidamente todas as plantas que puder.</Drought.description>
             <Drought.endMessage>A seca está chegando ao fim.</Drought.endMessage>
 
         <!-- Space Battle -->
-            <SpaceBattle.label>Batalha espacial</SpaceBattle.label>
+            <SpaceBattle.label>batalha espacial</SpaceBattle.label>
             <SpaceBattle.description>Uma batalha espacial está ocorrendo no céu, pode durar até 1 dia.</SpaceBattle.description>
             <SpaceBattle.endMessage>A batalha espacial está chegando ao fim.</SpaceBattle.endMessage>
 

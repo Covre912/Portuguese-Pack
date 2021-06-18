@@ -348,6 +348,26 @@
             <VFE_AutomatedDefensiveMeasures.label>medidas defensivas automatizadas</VFE_AutomatedDefensiveMeasures.label>
             <VFE_AutomatedDefensiveMeasures.description>Pesquise a capacidade de transformar drones automatizados em armas para uma variedade de propósitos, incluindo plataformas móveis de torre, morteiros e outras contramedidas defensivas.</VFE_AutomatedDefensiveMeasures.description>
 
+        <!-- Aquaponics -->
+            <VFE_Aquaponics.label>aquaponia</VFE_Aquaponics.label>
+            <VFE_Aquaponics.description>Pesquise uma bacia cheia de águas profundas capaz de processar matéria vegetal em uma pasta semelhante a algas para alimentação contínua de peixes. Os peixes vivem em condições de água e temperatura ideais e, portanto, reproduzem-se muito rapidamente.</VFE_Aquaponics.description>
+
+        <!-- Industrial Beekeeping -->
+            <VFE_IndustrialBeekeeping.label>apicultura industrial</VFE_IndustrialBeekeeping.label>
+            <VFE_IndustrialBeekeeping.description>Pesquise um apiário artificial controlado por um robô que permitirá aos apicultores extrair mel muito mais rápido do que o normal.</VFE_IndustrialBeekeeping.description>
+
+        <!-- Industrial Cheesemaking -->
+            <VFE_CheeseMaking.label>queijaria industrial</VFE_CheeseMaking.label>
+            <VFE_CheeseMaking.description>Pesquise um tanque capaz de aquecer rapidamente o leite até que a coalhada comece a se formar e, em seguida, filtrá-los e pressioná-los automaticamente em várias rodas de queijo ao mesmo tempo.</VFE_CheeseMaking.description>
+
+        <!-- Industrial Soups -->
+            <VFE_IndustrialSoups.label>sopas industriais</VFE_IndustrialSoups.label>
+            <VFE_IndustrialSoups.description>Pesquise um tanque muito grande com uma série de lâminas giratórias montadas em direção ao topo. Os funis acoplados podem ser preenchidos com uma variedade de produtos alimentícios crus. Depois disso, eles são aspirados pela parte superior, fatiados e fervidos profundamente em uma variedade de sopas.</VFE_IndustrialSoups.description>
+
+        <!-- Industrial Roasting -->
+            <VFE_IndustrialRoasting.label>torrefação industrial</VFE_IndustrialRoasting.label>
+            <VFE_IndustrialRoasting.description>Pesquise um forno de que torra grãos de café antes de dispensá-los a um moinho que os tritura em pó. Água fervente é então forçada e filtrada através do pó em uma grande quantidade de café.</VFE_IndustrialRoasting.description>
+
     <!-- Vanilla Factions Expanded - Medieval -->
         <!-- Heavy Crossbow -->
             <VFEM_HeavyCrossbow.label>besta pesada</VFEM_HeavyCrossbow.label>

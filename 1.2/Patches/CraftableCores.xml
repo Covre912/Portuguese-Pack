@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+	    <mods>
+		    <li>Craftable Cores</li>
+	    </mods>
+        <match Class="PatchOperationSequence">
+            <operations>
+                
+                <li Class="PatchOperationRemove">
+                    <xpath>Defs/ThingDef[defName = "UnfinishedAIPersonaCore"]</xpath>
+                </li>
+
+                <li Class="PatchOperationRemove">
+                    <xpath>Defs/ThingDef[defName = "UnfinishedTechprofCore"]</xpath>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/RecipeDef[defName = "Make_AIPersonaCore"]/unfinishedThingDef</xpath>
+                    <value>
+                        <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+                    </value>
+                </li>
+
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/RecipeDef[defName = "Make_AIcoreTechprofCore"]/unfinishedThingDef</xpath>
+                    <value>
+                        <unfinishedThingDef>UnfinishedComponent</unfinishedThingDef>
+                    </value>
+                </li>
+            
+            </operations>
+        </match>
+    </Operation>
+
+</Patch>

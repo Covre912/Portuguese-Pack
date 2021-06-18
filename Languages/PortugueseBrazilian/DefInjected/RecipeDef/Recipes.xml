@@ -227,6 +227,17 @@
             <TM_MakeHungerTeasFour.description>Faça chá de rosas com pétalas vermelhas e couro.</TM_MakeHungerTeasFour.description>
             <TM_MakeHungerTeasFour.jobString>Fazendo chá de rosas.</TM_MakeHungerTeasFour.jobString>
 
+    <!-- Craftable Cores -->
+        <!-- AI Persona Core -->
+            <Make_AIPersonaCore.label>fazer núcleo de personalidade IA</Make_AIPersonaCore.label>
+            <Make_AIPersonaCore.description>Faça um núcleo de personalidade IA.</Make_AIPersonaCore.description>
+            <Make_AIPersonaCore.jobString>Fazendo núcleo de personalidade IA.</Make_AIPersonaCore.jobString>
+
+        <!-- Techprof Subpersona Core -->
+            <Make_AIcoreTechprofCore.label>fazer núcleo subpessoa</Make_AIcoreTechprofCore.label>
+            <Make_AIcoreTechprofCore.description>Converta um núcleo de personalidade IA em um</Make_AIcoreTechprofCore.description>
+            <Make_AIcoreTechprofCore.jobString>Fazendo núcleo subpessoa.</Make_AIcoreTechprofCore.jobString>
+
 	<!-- Death Rattle Continued [1.2] -->
 		<!-- Artificial Coma -->
 		  	<ArtificialComa.label>coma artificial</ArtificialComa.label>

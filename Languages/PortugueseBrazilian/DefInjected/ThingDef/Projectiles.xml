@@ -25,6 +25,10 @@
         <!-- Water Breath -->
             <RttR_WaterBreath.label>water breath</RttR_WaterBreath.label>
 
+        <!-- Eletric Shot -->
+            <RttR_SkrillProjectile.label>tiro elétrico</RttR_SkrillProjectile.label>
+            <RttR_SkrillProjectile.description>Um tiro elétrico de alta tensão.</RttR_SkrillProjectile.description>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Rage of Nature -->
             <WMH_LeshyWave.label>fúria da natureza</WMH_LeshyWave.label>

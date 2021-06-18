@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+	    <mods>
+		    <li>Vanilla Furniture Expanded - Power</li>
+	    </mods>
+        <match Class="PatchOperationSequence">
+            <operations>
+                
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName = "VPE_GasSunLamp"]/comps</xpath>
+                    <value>
+                        <comps>
+                            <li Class="CompProperties_Glower">
+                                <overlightRadius>7.0</overlightRadius>
+                                <glowRadius>14</glowRadius>
+                                <glowColor>(90,140,90,0)</glowColor>
+                            </li>
+                            <li Class="GasNetwork.CompProperties_GasTrader">
+                                <compClass>GasNetwork.CompGasTrader</compClass>
+                                <gasConsumption>25</gasConsumption>
+                            </li>
+                            <li Class="CompProperties_Schedule">
+                                <startTime>0.25</startTime>
+                                <endTime>0.8</endTime>
+                                <offMessage>Deligado para o período de descanso das plantas</offMessage>
+                            </li>
+                            <li Class="CompProperties_HeatPusher">
+                                <compClass>GasNetwork.CompGasHeatPusher</compClass>
+                                <heatPerSecond>3</heatPerSecond>
+                            </li>
+                        </comps>
+                    </value>
+                </li>
+            
+            </operations>
+        </match>
+    </Operation>
+
+</Patch>

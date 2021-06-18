@@ -54,6 +54,7 @@
             <RttR_Fury.tools.1.label>garra direita</RttR_Fury.tools.1.label>
             <RttR_Fury.tools.3.label>cabeça</RttR_Fury.tools.3.label>
             <RttR_Fury.verbs.0.label>sopro de fúria</RttR_Fury.verbs.0.label>
+            <RttR_Fury.race.meatLabel>carne de dragão</RttR_Fury.race.meatLabel>
 
         <!-- Gronckle -->
             <RttR_Gronckle.label>gronckel</RttR_Gronckle.label>
@@ -145,6 +146,14 @@
             <RttR_Zippleback.tools.4.label>cabeça</RttR_Zippleback.tools.4.label>
             <RttR_Zippleback.verbs.0.label>sopro de gás de ziperarepiante</RttR_Zippleback.verbs.0.label>
             <RttR_Zippleback.verbs.1.label>sopro flamejante de ziperarepiante</RttR_Zippleback.verbs.1.label>
+
+        <!-- Skrill -->
+            <RttR_Skrill.label>estridente</RttR_Skrill.label>
+            <RttR_Skrill.description></RttR_Skrill.description>
+            <RttR_Skrill.tools.0.label>garra esquerda</RttR_Skrill.tools.0.label>
+            <RttR_Skrill.tools.1.label>garra direita</RttR_Skrill.tools.1.label>
+            <RttR_Skrill.tools.3.label>cabeça</RttR_Skrill.tools.3.label>
+            <RttR_Skrill.verbs.0.label>sopro de estridente</RttR_Skrill.verbs.0.label>
 
     <!-- RimEffect: Core -->
         <!-- Pyjak -->

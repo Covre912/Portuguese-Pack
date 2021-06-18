@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+	    <mods>
+		    <li>Vanilla Furniture Expanded - Medical Module</li>
+	    </mods>
+        <match Class="PatchOperationSequence">
+            <operations>
+                
+                <li Class="PatchOperationReplace">
+                    <xpath>Defs/ThingDef[defName = "Light_Streetlamp"]/comps</xpath>
+                    <value>
+                        <comps>
+                            <li Class="CompProperties_Power">
+                                <compClass>CompPowerTrader</compClass>
+                                <shortCircuitInRain>false</shortCircuitInRain>
+                                <basePowerConsumption>40</basePowerConsumption>
+                            </li>
+                            <li Class="CompProperties_Schedule">
+                                <startTime>0.70</startTime>
+                                <endTime>0.35</endTime>
+                                <offMessage>Desligado durante o dia</offMessage>
+                            </li>
+                            <li Class="CompProperties_Glower">
+                                <glowRadius>20</glowRadius>
+                                <glowColor>(252,187,113,0)</glowColor>
+                            </li>
+                        </comps>
+                    </value>
+                </li>
+            
+            </operations>
+        </match>
+    </Operation>
+
+</Patch>

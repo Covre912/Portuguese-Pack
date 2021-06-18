@@ -1968,6 +1968,9 @@
 	
 	    <!-- Mod Settings -->
 	        <RttR_DisableAnimal>Desabilitar {0}</RttR_DisableAnimal>
+            <RttR_AnimalSpawnMultiplier>Multiplicador de comunalidade</RttR_AnimalSpawnMultiplier>
+            <RttR_AnimalSpawnMultiplierTooltip>Este multiplicador afetará as TODOS os dragões. Por exemplo, se definido como 0,5, os dragões surgirão por metade do valor padrão (que é 1). Se definido como 2, você obterá o dobro do padrão e assim por diante.</RttR_AnimalSpawnMultiplierTooltip>
+            <RttR_Reset>Redefinir multiplicador</RttR_Reset>
 
     <!-- Raids For Me -->
         <!-- Insult -->
@@ -2677,7 +2680,7 @@
             <NotEnoughPoints>Pontos Insuficientes</NotEnoughPoints>
 
         <!-- Random Quest Reward Item -->
-            <RandomQuestRewardItemLetter>Item de Missão</RandomQuestRewardItemLetter>
+            <RandomQuestRewardItemLetter>Item de missão</RandomQuestRewardItemLetter>
             <RandomQuestRewardItem>O item de missão aleatório chegou!</RandomQuestRewardItem>
 
     <!-- Vanilla Animals Expanded - Australia -->
@@ -3119,7 +3122,7 @@
             <IP_FilledWithSecond>O segundo espaço de {0} está preenchido com {1}</IP_FilledWithSecond>
             <IP_FilledWithThird>O teceiro espaço de {0} está preenchido com {1}</IP_FilledWithThird>
             <IP_FilledWithFourth>O quarto espaço de {0} está preenchido com {1}</IP_FilledWithFourth>
-            <IP_IngredientPercentage> (preenchido(a) em {0} de {1})</IP_IngredientPercentage>
+            <IP_IngredientPercentage> ({0} de {1})</IP_IngredientPercentage>
 
         <!-- Processor -->
             <IP_ProcessorWorking>{0} está funcionando: </IP_ProcessorWorking>
@@ -3132,8 +3135,8 @@
             <IP_RemoveProductDesc>Remova {0} de {1}. O produto estará pronto no nível de qualidade atual ({2})</IP_RemoveProductDesc>
 
         <!-- Reset Semiautomatic -->
-            <IP_ResetSemiautomatic>Redefinir Receitas</IP_ResetSemiautomatic>
-            <IP_ResetSemiautomaticDesc>Isso redefinirá o processador depois que o produto atual for concluído, então um novo ingrediente de entrada pode ser escolhido</IP_ResetSemiautomaticDesc>
+            <IP_ResetSemiautomatic>Redefinir receitas</IP_ResetSemiautomatic>
+            <IP_ResetSemiautomaticDesc>Isso redefinirá o processador depois que o produto atual for concluído, então um novo ingrediente de entrada pode ser escolhido.</IP_ResetSemiautomaticDesc>
 
         <!-- No Combination -->
             <IP_NoCombination>Nenhuma combinação encontrada para esses ingredientes</IP_NoCombination>
@@ -3633,11 +3636,11 @@
         <VCE_PlumsDryingCorrectly>Estas ameixas estão secando corretamente (secam em {0})</VCE_PlumsDryingCorrectly>
 
     <!-- Vanilla Plants Expanded - Auto Plow Patch -->
-        <VPE_AutoPlow.ModName>Vanilla Plants Expanded - Auto Plow</VPE_AutoPlow.ModName>
-        <VPE_AutoPlow.RemovalLabel>Marcar para remoção</VPE_AutoPlow.RemovalLabel>
-        <VPE_AutoPlow.RemovalTooltip>Marque o mod para remoção. Carregue seu jogo salvo com esta configuração ativada para remover com segurança o mod do seu save.</VPE_AutoPlow.RemovalTooltip>
-        <VPE_AutoPlow.allowAutoPlow>Permitir aragem automática</VPE_AutoPlow.allowAutoPlow>
-        <VPE_AutoPlow.allowAutoPlowDesc>Permita aragem automática após a colheita.</VPE_AutoPlow.allowAutoPlowDesc>
+        <VPEAutoPlow.ModName>Vanilla Plants Expanded - Auto Plow</VPEAutoPlow.ModName>
+        <VPEAutoPlow.RemovalLabel>Marcar para remoção</VPEAutoPlow.RemovalLabel>
+        <VPEAutoPlow.RemovalTooltip>Marque o mod para remoção. Carregue seu jogo salvo com esta configuração ativada para remover com segurança o mod do seu save.</VPEAutoPlow.RemovalTooltip>
+        <VPEAutoPlow.allowAutoPlow>Permitir aragem automática</VPEAutoPlow.allowAutoPlow>
+        <VPEAutoPlow.allowAutoPlowDesc>Permita aragem automática após a colheita.</VPEAutoPlow.allowAutoPlowDesc>
 
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Aspirations -->
