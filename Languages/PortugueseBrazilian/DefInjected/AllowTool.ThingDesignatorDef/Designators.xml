@@ -28,7 +28,7 @@
 
         <!-- Harvest Fully Grown -->
             <HarvestFullyGrownDesignator.label>Colher (Maduro)</HarvestFullyGrownDesignator.label>
-            <HarvestFullyGrownDesignator.description>Seleciona plantas e árvores maduras para serem coletadas.n\&lt;b&gt;Segure Shift&lt;/b&gt; para incluir apenas plantas.\n&lt;b&gt;Segure Ctrl/Option&lt;/b&gt; para incluir apenas árvores.</HarvestFullyGrownDesignator.description>
+            <HarvestFullyGrownDesignator.description>Seleciona plantas e árvores maduras para serem coletadas.\n&lt;b&gt;Segure Shift&lt;/b&gt; para incluir apenas plantas.\n&lt;b&gt;Segure Ctrl/Option&lt;/b&gt; para incluir apenas árvores.</HarvestFullyGrownDesignator.description>
 
         <!-- Strip Mine Designator -->
             <StripMineDesignator.label>Mineração cruzada</StripMineDesignator.label>

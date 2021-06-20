@@ -1386,13 +1386,21 @@
 
         <!-- Sterile Wall -->
             <Wall_SterileRed.label>parede estéril vermelha</Wall_SterileRed.label>
+            <Wall_SterileRed.description>Uma parede intransponível. Capaz de segurar um telhado. Equipada com propriedades especiais de melhoria de limpeza para criar um ambiente estéril.</Wall_SterileRed.description>
             <Wall_SterileGreen.label>parede estéril verde</Wall_SterileGreen.label>
+            <Wall_SterileGreen.description>Uma parede intransponível. Capaz de segurar um telhado. Equipada com propriedades especiais de melhoria de limpeza para criar um ambiente estéril.</Wall_SterileGreen.description>
             <Wall_SterileBlue.label>parede estéril azul</Wall_SterileBlue.label>
+            <Wall_SterileBlue.description>Uma parede intransponível. Capaz de segurar um telhado. Equipada com propriedades especiais de melhoria de limpeza para criar um ambiente estéril.</Wall_SterileBlue.description>
             <Wall_SterileCream.label>parede estéril creme</Wall_SterileCream.label>
+            <Wall_SterileCream.description>Uma parede intransponível. Capaz de segurar um telhado. Equipada com propriedades especiais de melhoria de limpeza para criar um ambiente estéril.</Wall_SterileCream.description>
             <Wall_SterileDark.label>parede estéril cinza</Wall_SterileDark.label>
+            <Wall_SterileDark.description>Uma parede intransponível. Capaz de segurar um telhado. Equipada com propriedades especiais de melhoria de limpeza para criar um ambiente estéril.</Wall_SterileDark.description>
             <Wall_SterileGold.label>parede estéril amarela</Wall_SterileGold.label>
+            <Wall_SterileGold.description>Uma parede intransponível. Capaz de segurar um telhado. Equipada com propriedades especiais de melhoria de limpeza para criar um ambiente estéril.</Wall_SterileGold.description>
             <Wall_SterileTeal.label>parede estéril verde-azulada</Wall_SterileTeal.label>
+            <Wall_SterileTea.description>Uma parede intransponível. Capaz de segurar um telhado. Equipada com propriedades especiais de melhoria de limpeza para criar um ambiente estéril.cc</Wall_SterileTea.description>
             <Wall_SterileBrown.label>parede estéril marrom</Wall_SterileBrown.label>
+            <Wall_SterileBrown.description>Uma parede intransponível. Capaz de segurar um telhado. Equipada com propriedades especiais de melhoria de limpeza para criar um ambiente estéril.</Wall_SterileBrown.description>
 
     <!-- Vanilla Furniture Expanded - Power -->
         <!-- Advanced Wind Turbine -->

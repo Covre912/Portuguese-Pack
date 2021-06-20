@@ -16,7 +16,7 @@
 
         <!-- Dust Devil -->
             <RG.SandDevilLeftTheMap>Os redemoinhos de poeira deixaram o mapa.</RG.SandDevilLeftTheMap>
-            <RG.SandDevilDissipated>O redemoinho de poeira se dissipou.</RG.SandDevilDissipated>
+            <RG.SandDevilDissipated>Os redemoinhos de poeira se dissiparam.</RG.SandDevilDissipated>
 
     <!-- [HLX] ReGrowth - Mutated Animals Pack -->
         <!-- Deathclaw -->
@@ -398,13 +398,13 @@
 
         <!-- Adjust Force Radius -->
             <IncreaseForceRadius>Aumentar raio</IncreaseForceRadius>
-            <IncreaseForceRadiusDesc>Aumenta a distância de busca para o trabalho forçado (o raio atual é {0})</IncreaseForceRadiusDesc>
+            <IncreaseForceRadiusDesc>Aumenta a distância de busca para o trabalho forçado (o raio atual é {0}).</IncreaseForceRadiusDesc>
             <DecreaseForceRadius>Diminuir raio</DecreaseForceRadius>
-            <DecreaseForceRadiusDesc>Diminui a distância de busca para o trabalho forçado (o raio atual é {0})</DecreaseForceRadiusDesc>
+            <DecreaseForceRadiusDesc>Diminui a distância de busca para o trabalho forçado (o raio atual é {0}).</DecreaseForceRadiusDesc>
 
         <!-- Building Smart -->
             <BuildingSmart>Construção inteligente</BuildingSmart>
-            <BuildingSmartDesc>Construção inteligente evita que colonos se prendam, mas é mais lenta</BuildingSmartDesc>
+            <BuildingSmartDesc>Construção inteligente evita que colonos se prendam, mas é mais lenta.</BuildingSmartDesc>
             <BuildingSmartDefaultTitle>Construção inteligente está agora em trabalhos Atchung!</BuildingSmartDefaultTitle>
             <BuildingSmartDefaultExplained>Define o padrão de como os novos trabalhos escolhem sua ordem de construção</BuildingSmartDefaultExplained>
 
@@ -2695,16 +2695,21 @@
         <!-- Release Into Wild -->
         	<VAEE.ReleaseIntoWild>Libertar</VAEE.ReleaseIntoWild>
 	        <VAEE.ReleaseIntoWildDesc>Liberte este animal para a natureza e aumente as relações com outras facções.</VAEE.ReleaseIntoWildDesc>
-            <VAEE.ReleasingToTheWildMessage>Libertar um animal em extinção melhorou as relações com outras facções em +2.</VAEE.ReleasingToTheWildMessage>
+            <VAEE.ReleasingToTheWildMessage>Libertar um animal em extinção melhorou as relações com outras facções em +2</VAEE.ReleasingToTheWildMessage>
             <VAEE.ReleasingToTheWildConfirmation>Libertar um animal significa que você nunca o verá novamente, pois o animal sairá do mapa.</VAEE.ReleasingToTheWildConfirmation>
             <VAEE.Cancel>Cancelar</VAEE.Cancel>
 
         <!-- Extint Animals Passes -->
 	        <VAEE.LetterLabelExtintAnimalsPasses>Animais em extinção</VAEE.LetterLabelExtintAnimalsPasses>
-	        <VAEE.LetterExtintAnimalsPasses>Um par de {0}, criticamente ameaçados de extinção, vagam pela área.\n\nPodem facilmente ser vítimas de predadores maiores, mas você pode domesticá-los e trazê-los para um local seguro.\n\nLibertar animais ameaçados de extinção aumentará as relações com outras facções.</VAEE.LetterExtintAnimalsPasses>
+	        <VAEE.LetterExtintAnimalsPasses>Um par de unidades de {0}, criticamente ameaçados de extinção, vagam pela área.\n\nPodem facilmente ser vítimas de predadores maiores, mas você pode domesticá-los e trazê-los para um local seguro.\n\nLibertar animais ameaçados de extinção aumentará as relações com outras facções.</VAEE.LetterExtintAnimalsPasses>
 
         <!-- Settings -->
             <VAEE.AddBanishGizmoToAllAnimals>Adicione o botão "Libertar" para todos os animais</VAEE.AddBanishGizmoToAllAnimals>
+
+    <!-- Vanilla Apparel Expanded - Accessories -->
+        <VAEA.IsToo>é também</VAEA.IsToo>
+        <VAEA.Advanced>avançado</VAEA.Advanced>
+        <VAEA.Primitive>primitivo</VAEA.Primitive>
 
     <!-- Vanilla Books Expanded -->
         <!-- Book -->

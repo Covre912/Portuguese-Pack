@@ -27,9 +27,14 @@
             <RE_BioticAbilityCostMultiplier.formatString>{0}</RE_BioticAbilityCostMultiplier.formatString>
 
         <!-- Ability Cooldown Factor -->
-            <RE_AbilityCooldownFactor.label>fator de resfriamento de capacidade</RE_AbilityCooldownFactor.label>
-            <RE_AbilityCooldownFactor.description>Fator de resfriamento de capacidade.</RE_AbilityCooldownFactor.description>
+            <RE_AbilityCooldownFactor.label>fator de recarga de habilidade</RE_AbilityCooldownFactor.label>
+            <RE_AbilityCooldownFactor.description>Fator de recarga de habilidade.</RE_AbilityCooldownFactor.description>
             <RE_AbilityCooldownFactor.formatString>{0}</RE_AbilityCooldownFactor.formatString>
+
+    <!-- Vanilla Apparel Expanded - Accessories -->
+        <!-- Ranged Cooldown Factor -->
+            <VAEA_RangedCooldownFactor.label>fator de recarga de alcance</VAEA_RangedCooldownFactor.label>
+            <VAEA_RangedCooldownFactor.description>O tempo de recarga das armas de longo alcance do usuário é multiplicado por este valor.</VAEA_RangedCooldownFactor.description>
 
     <!-- Vanilla Furniture Expanded -->
         <!-- Hearing Ability -->

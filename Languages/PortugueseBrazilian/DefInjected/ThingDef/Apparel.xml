@@ -344,6 +344,50 @@
             <VAE_Headgear_ChefsToque.label>chapéu de chef</VAE_Headgear_ChefsToque.label>
             <VAE_Headgear_ChefsToque.description>Um chapéu alto, redondo e pregueado geralmente usado pelos chefs.</VAE_Headgear_ChefsToque.description>
 
+    <!-- Vanilla Apparel Expanded - Accessories -->
+        <!-- Backpack -->
+            <VAEA_Apparel_Backpack.label>mochila</VAEA_Apparel_Backpack.label>
+            <VAEA_Apparel_Backpack.description>Uma mochila simples e espaçosa. Aumenta capacidade de suporte do usuário.</VAEA_Apparel_Backpack.description>
+
+        <!-- Battle Banner -->
+            <VAEA_Apparel_BattleBanner.label>estandarte de batalha</VAEA_Apparel_BattleBanner.label>
+            <VAEA_Apparel_BattleBanner.description>Um estandarte de batalha. Dá ao usuário um espírito de luta e confiança. Aumenta a resistência à dor.</VAEA_Apparel_BattleBanner.description>
+
+        <!-- Medic Bag -->
+            <VAEA_Apparel_MedicBag.label>bolsa médica</VAEA_Apparel_MedicBag.label>
+            <VAEA_Apparel_MedicBag.description>Uma bolsa com tudo o que é necessário para o tratamento médico. Aumenta a qualidade de tratamento e a chance de sucesso cirúrgico.</VAEA_Apparel_MedicBag.description>
+
+        <!-- Quiver -->
+            <VAEA_Apparel_Quiver.label>aljava</VAEA_Apparel_Quiver.label>
+            <VAEA_Apparel_Quiver.description>Uma aljava pequena para flechas. Aumenta a taxa de disparo de todas as armas neolíticas e medievais.</VAEA_Apparel_Quiver.description>
+
+        <!-- Tool Belt -->
+            <VAEA_Apparel_ToolBelt.label>cinto de ferramentas</VAEA_Apparel_ToolBelt.label>
+            <VAEA_Apparel_ToolBelt.description>Um cinto de ferramentas simples com tudo o necessário para pregar algumas tábuas ou consertar aparelhos eletrônicos.</VAEA_Apparel_ToolBelt.description>
+
+        <!-- Ammo Pack -->
+            <VAEA_Apparel_AmmoPack.label>carregador</VAEA_Apparel_AmmoPack.label>
+            <VAEA_Apparel_AmmoPack.description>Um carregador com munição. Diminui o tempo de espera de todas as armas de longo alcance em 25%.</VAEA_Apparel_AmmoPack.description>
+
+        <!-- Explosive Belt -->
+            <VAEA_Apparel_ExplosiveBelt.label>cinto explosivo</VAEA_Apparel_ExplosiveBelt.label>
+            <VAEA_Apparel_ExplosiveBelt.description>Um cinto com cartuchos explosivos. Detonará com a morte do usuário.</VAEA_Apparel_ExplosiveBelt.description>
+
+        <!-- Ranged Shield Belt -->
+            <VAEA_Apparel_RangedShieldBelt.label>cinto de escudo de alcance</VAEA_Apparel_RangedShieldBelt.label>
+            <VAEA_Apparel_RangedShieldBelt.description>Um dispositivo de repulsão de projéteis. Tentará parar projéteis ou estilhaços, mas não fará nada contra ataques corpo-a-corpo ou calor. Não impede que o usuário atire e desliga instantaneamente se atingido por PEM.</VAEA_Apparel_RangedShieldBelt.description>
+
+        <!-- Ressurector Belt -->
+            <VAEA_Apparel_RessurectorBelt.label>cinto ressuscitador</VAEA_Apparel_RessurectorBelt.label>
+            <VAEA_Apparel_RessurectorBelt.description>Um cinto contendo uma dose de soro ressurrector. Injecta o soro imediatamente após a morte.</VAEA_Apparel_RessurectorBelt.description>
+
+        <!-- Mini-Turret Pack -->
+            <VAEA_Apparel_MiniTurretPack.label>mini-torreta portátil</VAEA_Apparel_MiniTurretPack.label>
+            <VAEA_Apparel_MiniTurretPack.description>Um pequeno pacote de munição e componentes que controlam uma mini-torreta portátil.</VAEA_Apparel_MiniTurretPack.description>
+            <VAEA_Apparel_MiniTurretPack.comps.0.verbProps.0.label>Arma</VAEA_Apparel_MiniTurretPack.comps.0.verbProps.0.label>
+            <VAEA_Apparel_MiniTurretPack.comps.0.verbProps.0.visualLabel>arma de mini-torreta</VAEA_Apparel_MiniTurretPack.comps.0.verbProps.0.visualLabel>
+            <VAEA_Apparel_MiniTurretPack.comps.0.verbProps.0.description>Uma arma automática portátil simples.</VAEA_Apparel_MiniTurretPack.comps.0.verbProps.0.description>
+
     <!-- Vanilla Armour Expanded -->
         <!-- Plate Boots -->
             <VAE_Footwear_PlateBoots.label>botas de placas</VAE_Footwear_PlateBoots.label>
