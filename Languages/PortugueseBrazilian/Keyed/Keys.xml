@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
+    <!-- [1.2] Wild Animal Sex V6.0 -->
+        <OverpopulationPredatorEntry>Superpopulação de presas atraindo predadores</OverpopulationPredatorEntry>
+        <OverpopulationPredatorEntryDesc>Há uma superpopulação de presas no mapa.\n\nA abundância de presas está atraindo predadores famintos para o mapa.\n\nLimite da população de presas: {0}\nPopulação de presas atual: {1}\nNúmero de presas: {2}\nNúmero de predadores: {3}</OverpopulationPredatorEntryDesc>
+        <PreyPopulationStable>População de presas estável</PreyPopulationStable>
+        <PreyPopulationStableDesc>O ecossistema está equilibrado.\n\nA população de presas está sob controle e não está atraindo predadores adicionais para a região.\n\nLimite da população de presas: {0}\nPopulação de presas atual: {1}\nNúmero de presas: {2}\nNúmero de predadores: {3}</PreyPopulationStableDesc>
+        <WildAnimalSexModSetting>Definição de Limite Populacional de Presas Sexuais de Animais Selvagens</WildAnimalSexModSetting>
+        <preyLimitDesc>Você pode ajustar o limite de população de presas de 1 (limite de população de presas extremamente baixo) a 9 (limite de população de presas muito alto). Defina 10 se quiser animais ilimitados em seu mapa.</preyLimitDesc>
+        <preyLimitField>Limite de População de Presas ( 1 a 10 )</preyLimitField>
+        <showPreyPopulationAlertsLabel>Se você odeia ver o alerta de populaçãode presas estável, desative isso:</showPreyPopulationAlertsLabel>
+        <showOverPopulationAlertsLabel>Se você odeia ver o alerta de superpopulação de presas, desative isso:</showOverPopulationAlertsLabel>
+
     <!-- [HLX] ReGrowth - Core -->
         <!-- Settings -->
             <RG.SpawnLeaves>Gerar folhas</RG.SpawnLeaves>

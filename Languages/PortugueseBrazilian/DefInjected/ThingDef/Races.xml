@@ -10,6 +10,7 @@
             <RG-WF_WastelandDeer.tools.2.label>dentes</RG-WF_WastelandDeer.tools.2.label>
             <RG-WF_WastelandDeer.tools.3.label>cabeça esquerda</RG-WF_WastelandDeer.tools.3.label>
             <RG-WF_WastelandDeer.tools.4.label>cabeça direita</RG-WF_WastelandDeer.tools.4.label>
+            <RG-WF_WastelandDeer.race.meatLabel>carne de veado</RG-WF_WastelandDeer.race.meatLabel>
 
         <!-- Mutated Squirrel -->
             <RG-WF_WastelandSquirrel.label>esquilo mutante</RG-WF_WastelandSquirrel.label>
@@ -29,6 +30,7 @@
         <!-- Mutated Bear -->
             <RG-WF_WastelandBear.label>urso mutante</RG-WF_WastelandBear.label>
             <RG-WF_WastelandBear.description>Um enorme mamífero onívoro transformado por resíduo tóxico. Tendo perdido grande parte de sua pele, não pode mais viver em biomas frios.</RG-WF_WastelandBear.description>
+            <RG-WF_WastelandBear.race.meatLabel>carne de urso</RG-WF_WastelandBear.race.meatLabel>
 
         <!-- Deathclaw -->
             <RG-WF_WastelandDeathclaw.label>garramortal</RG-WF_WastelandDeathclaw.label>
@@ -37,6 +39,7 @@
             <RG-WF_WastelandDeathclaw.tools.1.label>garra esquerda</RG-WF_WastelandDeathclaw.tools.1.label>
             <RG-WF_WastelandDeathclaw.tools.2.label>garra direita</RG-WF_WastelandDeathclaw.tools.2.label>
             <RG-WF_WastelandDeathclaw.tools.4.label>cabeça</RG-WF_WastelandDeathclaw.tools.4.label>
+            <RG-WF_WastelandDeathclaw.race.meatLabel>carne de garramortal</RG-WF_WastelandDeathclaw.race.meatLabel>
 
     <!-- Race to the Rim -->
         <!-- Fligthmare -->

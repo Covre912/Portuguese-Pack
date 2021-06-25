@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- [1.2] Wild Animal Sex V6.0 -->
+        <NewMate.reportString>acasalando com TargetA.</NewMate.reportString>
+
     <!-- [HLX] Ultratech: Altered Carbon -->
         <AC_ExtractStack.reportString>extraindo cartucho cortical de TargetA.</AC_ExtractStack.reportString>
         <AC_WipeStack.reportString>limpando cartucho cortical.</AC_WipeStack.reportString>
