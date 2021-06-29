@@ -38,6 +38,23 @@
             <AC_BrainTemplatePsycaster.label>tipo do corpo (psycast)</AC_BrainTemplatePsycaster.label>
             <AC_BrainTemplatePsycaster.description>Este corpo foi criado especificamente para um psycaster.</AC_BrainTemplatePsycaster.description>
 
+    <!-- 1-2-3 Personalities -->
+        <!-- Kind -->
+            <SP_Hediff_AnimalKind.label>personalidade (gentil)</SP_Hediff_AnimalKind.label>
+            <SP_Hediff_AnimalKind.description>Este animal tem uma personalidade gentil. Ele irá acariciar os colonos com mais frequência.</SP_Hediff_AnimalKind.description>
+
+        <!-- Intense -->
+            <SP_Hediff_AnimalIntense.label>personalidade (intensa)</SP_Hediff_AnimalIntense.label>
+            <SP_Hediff_AnimalIntense.description>Este animal tem uma personalidade intensa. Ele causará mais dano quando atacar.</SP_Hediff_AnimalIntense.description>
+
+        <!-- Energetic-->
+            <SP_Hediff_AnimalEnergetic.label>personalidade (enérgica)</SP_Hediff_AnimalEnergetic.label>
+            <SP_Hediff_AnimalEnergetic.description>Este animal tem uma personalidade enérgica. Ele se moverá mais rápido.</SP_Hediff_AnimalEnergetic.description>
+
+        <!-- Calm -->
+            <SP_Hediff_AnimalCalm.label>personalidade (calma)</SP_Hediff_AnimalCalm.label>
+            <SP_Hediff_AnimalCalm.description>Este animal tem uma personalidade calma. Seu movimento constante permite transportar mais itens e carregar mais massa em caravanas.</SP_Hediff_AnimalCalm.description>
+
     <!-- A Dog Said... Animal Prosthetics -->
         <!--Limbs-->
             <ProstheticTail.label>cauda protética</ProstheticTail.label>
@@ -435,15 +452,15 @@
 
     <!-- Sauced Meals -->
         <!-- Simple Meal -->
-            <SM_AteSaucedSimpleMeal.label>consumiu comida simples temperada (de refeição)</SM_AteSaucedSimpleMeal.label>
+            <SM_AteSaucedSimpleMeal.label>consumiu comida simples temperada</SM_AteSaucedSimpleMeal.label>
             <SM_AteSaucedSimpleMeal.description>Este colono consumiu alimentos simples com condimentos.</SM_AteSaucedSimpleMeal.description>
 
         <!-- Fine Meal -->
-            <SM_AteSaucedFineMeal.label>consumiu comida boa temperada (de refeição)</SM_AteSaucedFineMeal.label>
+            <SM_AteSaucedFineMeal.label>consumiu comida boa temperada</SM_AteSaucedFineMeal.label>
             <SM_AteSaucedFineMeal.description>Este colono consumiu alimentos bons com condimentos.</SM_AteSaucedFineMeal.description>
 
         <!-- Lavish Meal -->
-            <SM_AteSaucedLavishMeal.label>consumiu comida luxuosa temperada (de refeição)</SM_AteSaucedLavishMeal.label>
+            <SM_AteSaucedLavishMeal.label>consumiu comida luxuosa temperada</SM_AteSaucedLavishMeal.label>
             <SM_AteSaucedLavishMeal.description>Este colono consumiu alimentos luxuosos com condimentos.</SM_AteSaucedLavishMeal.description>
 
     <!-- Vanilla Brewing Expanded -->
@@ -562,15 +579,15 @@
             <VBE_CiderAsIngredient.description>Este colono bebeu um coquetel que tinha sidra como um de seus ingredientes. Diminui ligeiramente o acúmulo tóxico.</VBE_CiderAsIngredient.description>
 
         <!-- Luciferium Powder -->
-            <VBE_ConsumedLuciferiumPowder.label>consumiu pó de lucifério (de refeição)</VBE_ConsumedLuciferiumPowder.label>
+            <VBE_ConsumedLuciferiumPowder.label>consumiu pó de lucifério</VBE_ConsumedLuciferiumPowder.label>
             <VBE_ConsumedLuciferiumPowder.description>Um pó muito fino feito de lucifério. Tão diluído que o medicamento certamente não curará nenhuma ferida, mas revigorará consideravelmente seu consumidor.</VBE_ConsumedLuciferiumPowder.description>
 
         <!-- Go-Juice Stock -->
-            <VBE_ConsumedGoStock.label>consumiu gelatina de suco-turbo (de refeição)</VBE_ConsumedGoStock.label>
+            <VBE_ConsumedGoStock.label>consumiu gelatina de suco-turbo</VBE_ConsumedGoStock.label>
             <VBE_ConsumedGoStock.description>Um cubo gelatinizado de suco-turbo, que pode ser digerido em vez de injetado. Tão diluído que o medicamento não bloqueará tanta dor e as vantagens de combate serão muito mais sutis.</VBE_ConsumedGoStock.description>
 
         <!-- Wake-Up Powder -->
-            <VBE_ConsumedWakeupPowder.label>consumiu pó de despertar (de refeição)</VBE_ConsumedWakeupPowder.label>
+            <VBE_ConsumedWakeupPowder.label>consumiu pó de despertar</VBE_ConsumedWakeupPowder.label>
             <VBE_ConsumedWakeupPowder.description>Uma forma de despertar triturada em pó, surpreendentemente doce e às vezes usada como substituto do açúcar em sobremesas ou dissolvida em um expresso matinal. Tão diluída que a droga não será tão estimulante. Observe que, embora não vicie, o pó para despertar ainda apresenta risco (embora muito pequeno) de ataque cardíaco.</VBE_ConsumedWakeupPowder.description>
 
         <!-- Cider -->
@@ -600,7 +617,7 @@
             <VBE_YuenYeungHigh.description>A cafeína encontrada naturalmente no café, uma vez metabolizada, aumenta os estímulos no sistema nervoso, suprimindo a vontade de dormir e também limpando a mente. Aumenta a velocidade de aprendizagem em 15%, reduz em 13% a taxa de queda em repouso e aumenta a velocidade de ganho de imunidade em 15%.</VBE_YuenYeungHigh.description>
 
         <!-- Mint -->
-            <VCE_ConsumedMintLeaves.label>consumiu hortelã (de refeição)</VCE_ConsumedMintLeaves.label>
+            <VCE_ConsumedMintLeaves.label>consumiu hortelã</VCE_ConsumedMintLeaves.label>
             <VCE_ConsumedMintLeaves.description>Consumiu algumas folhas de hortelã. O hálito fresco aumenta o impacto social em 10%.</VCE_ConsumedMintLeaves.description>
 
         <!-- Mint Coffee -->
@@ -637,39 +654,39 @@
 
     <!-- Vanilla Cooking Expanded -->
         <!-- Mayo -->
-            <VCE_ConsumedMayo.label>consumiu maionese (de refeição)</VCE_ConsumedMayo.label>
+            <VCE_ConsumedMayo.label>consumiu maionese</VCE_ConsumedMayo.label>
             <VCE_ConsumedMayo.description>A maionese é uma emulsão espessa de ovo, óleo e outras ervas. Tem um sabor agradável e é muito calórica. Reduz a taxa de fome em 15% por 24 horas.</VCE_ConsumedMayo.description>
 
         <!-- Agave Nectar -->
-            <VCE_ConsumedAgave.label>consumiu néctar de agave (de refeição)</VCE_ConsumedAgave.label>
+            <VCE_ConsumedAgave.label>consumiu néctar de agave</VCE_ConsumedAgave.label>
             <VCE_ConsumedAgave.description>O néctar de agave é um néctar fino e semidoce, conhecido por suas propriedades cicatrizantes e antiinflamatórias. Dá um aumento de velocidade de ganho de imunidade de 15% por 24 horas.</VCE_ConsumedAgave.description>
 
         <!-- Spices -->
-            <VCE_ConsumedSpices.label>consumiu especiarias (de refeição)</VCE_ConsumedSpices.label>
+            <VCE_ConsumedSpices.label>consumiu especiarias</VCE_ConsumedSpices.label>
             <VCE_ConsumedSpices.description>Consumiu uma variedade de especiarias aromáticas e picantes. Aumenta as estatísticas de manipulação por 24 horas.</VCE_ConsumedSpices.description>
 
         <!-- Well Fed -->
-            <VCE_WellFed.label>bem alimentado (de refeição grelhada)</VCE_WellFed.label>
+            <VCE_WellFed.label>bem alimentado</VCE_WellFed.label>
             <VCE_WellFed.description>Comi uma carne grelhada deliciosa e farta. Reduz a taxa de fome em 35% por 12 horas.</VCE_WellFed.description>
-            <VCE_WellFedSimple.label>bem alimentado (de refeição grelhada)</VCE_WellFedSimple.label>
+            <VCE_WellFedSimple.label>bem alimentado</VCE_WellFedSimple.label>
             <VCE_WellFedSimple.description>Comi uma carne grelhada deliciosa e farta. Reduz a taxa de fome em 35% por 12 horas.</VCE_WellFedSimple.description>
-            <VCE_WellFedFine.label>bem alimentado (de refeição grelhada)</VCE_WellFedFine.label>
+            <VCE_WellFedFine.label>bem alimentado</VCE_WellFedFine.label>
             <VCE_WellFedFine.description>Comi uma carne grelhada deliciosa e farta. Reduz a taxa de fome em 35% por 12 horas.</VCE_WellFedFine.description>
-            <VCE_WellFedLavish.label>bem alimentado (de refeição grelhada)</VCE_WellFedLavish.label>
+            <VCE_WellFedLavish.label>bem alimentado</VCE_WellFedLavish.label>
             <VCE_WellFedLavish.description>Comi uma carne grelhada deliciosa e farta. Reduz a taxa de fome em 35% por 12 horas.</VCE_WellFedLavish.description>
-            <VCE_WellFedGourmet.label>bem alimentado (de refeição grelhada)</VCE_WellFedGourmet.label>
+            <VCE_WellFedGourmet.label>bem alimentado</VCE_WellFedGourmet.label>
             <VCE_WellFedGourmet.description>Comi uma carne grelhada deliciosa e farta. Reduz a taxa de fome em 35% por 12 horas.</VCE_WellFedGourmet.description>
 
         <!-- Resurrector Nanites -->
-            <VCE_ConsumedDigestibleResurrectorNanites.label>consumiu nanites ressuscitadores (de refeição)</VCE_ConsumedDigestibleResurrectorNanites.label>
+            <VCE_ConsumedDigestibleResurrectorNanites.label>consumiu nanites ressuscitadores</VCE_ConsumedDigestibleResurrectorNanites.label>
             <VCE_ConsumedDigestibleResurrectorNanites.description>Nanites ressuscitadores ressuscitarão essa pessoa enquanto o efeito estiver ativo. O efeito dura 12 horas.</VCE_ConsumedDigestibleResurrectorNanites.description>
 
         <!-- Sugar -->
-            <VCE_SugarRush.label>consumiu açúcar (de refeição)</VCE_SugarRush.label>
+            <VCE_SugarRush.label>consumiu açúcar</VCE_SugarRush.label>
             <VCE_SugarRush.description>O açúcar é facilmente convertido em energia pelo corpo, o que pode resultar em uma explosão de energia. Aumenta as estatísticas de movimento em 15% por 24 horas.</VCE_SugarRush.description>
 
         <!-- Gourmet -->
-            <VCE_AteGourmetMeal.label>consumiu comida gourmet (de refeição)</VCE_AteGourmetMeal.label>
+            <VCE_AteGourmetMeal.label>consumiu comida gourmet</VCE_AteGourmetMeal.label>
             <VCE_AteGourmetMeal.description>Este colono consumiu uma comida incrível.</VCE_AteGourmetMeal.description>
 
         <!-- Cholesterol -->
@@ -701,32 +718,32 @@
             <GR_MechaCheeseHediff.description>Mecanitas ativas no corpo. Melhoram o funcionamento do corpo em todos os aspectos.</GR_MechaCheeseHediff.description>
 
         <!-- Hot Sauce -->
-            <VCE_ConsumedHotSauce.label>consumiu molho de pimenta (de refeição)</VCE_ConsumedHotSauce.label>
+            <VCE_ConsumedHotSauce.label>consumiu molho de pimenta</VCE_ConsumedHotSauce.label>
             <VCE_ConsumedHotSauce.description>Consumido um molho picante potente feito de pimenta e outras especiarias. Embora molhos picantes particularmente fortes machuquem no início, são conhecidos por amortecer a dor e causar um suor quente logo após o consumo. Aumenta a resistência à dor e à temperatura fria por 24 horas.</VCE_ConsumedHotSauce.description>
 
     <!-- Vanilla Cooking Expanded - Sushi -->
         <!-- Soy Sauce -->
-            <VCE_ConsumedSoySauce.label>consumiu molho shoyu (de refeição)</VCE_ConsumedSoySauce.label>
+            <VCE_ConsumedSoySauce.label>consumiu molho shoyu</VCE_ConsumedSoySauce.label>
             <VCE_ConsumedSoySauce.description>Uma pasta fermentada de soja. O molho shoyu pode ser adicionado diretamente à comida e é usado como sabor de sal na culinária, além de fornecer um sabor umami rico. O molho de soja contém 10 vezes mais antioxidantes do que o vinho tinto e pode ajudar a prevenir doenças cardiovasculares.</VCE_ConsumedSoySauce.description>
 
         <!-- Wasabi -->
-            <VCE_ConsumedWasabi.label>consumiu wasabi (de refeição)</VCE_ConsumedWasabi.label>
+            <VCE_ConsumedWasabi.label>consumiu wasabi</VCE_ConsumedWasabi.label>
             <VCE_ConsumedWasabi.description>Uma pasta feita de rizomas de wasabi moídos e usada como condimento picante para sushi e outros alimentos. Tem um sabor semelhante ao da mostarda picante, e não à pimenta, pois estimula mais o nariz do que a língua.</VCE_ConsumedWasabi.description>
 
         <!-- Simple Sushi -->
-            <VCE_AteSimpleSushi.label>consumiu sushi simples (de refeição)</VCE_AteSimpleSushi.label>
+            <VCE_AteSimpleSushi.label>consumiu sushi simples </VCE_AteSimpleSushi.label>
             <VCE_AteSimpleSushi.description>Comi um sushi delicioso.</VCE_AteSimpleSushi.description>
 
         <!-- Fine Sushi -->
-            <VCE_AteFineSushi.label>consumiu sushi bom (de refeição)</VCE_AteFineSushi.label>
+            <VCE_AteFineSushi.label>consumiu sushi bom</VCE_AteFineSushi.label>
             <VCE_AteFineSushi.description>Comi uma refeição de sushi deliciosa.</VCE_AteFineSushi.description>
 
         <!-- Lavish Sushi -->
-            <VCE_AteLavishSushi.label>consumiu sushi luxuoso (de refeição)</VCE_AteLavishSushi.label>
+            <VCE_AteLavishSushi.label>consumiu sushi luxuoso</VCE_AteLavishSushi.label>
             <VCE_AteLavishSushi.description>Comi uma refeição de sushi deliciosa.</VCE_AteLavishSushi.description>
 
         <!-- Gourmet Sushi -->
-            <VCE_AteGourmetSushi.label>consumiu sushi gourmet (de refeição)</VCE_AteGourmetSushi.label>
+            <VCE_AteGourmetSushi.label>consumiu sushi gourmet</VCE_AteGourmetSushi.label>
             <VCE_AteGourmetSushi.description>Comi uma refeição de sushi deliciosa.</VCE_AteGourmetSushi.description>
 
     <!-- Vanilla Events Expanded -->

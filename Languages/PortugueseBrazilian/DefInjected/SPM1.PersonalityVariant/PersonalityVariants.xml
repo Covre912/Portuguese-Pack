@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- 1-2-3 Personalities -->
+        <SP_Animal_Chonk.label>agressivamente fofo(a)</SP_Animal_Chonk.label>
+        <SP_Animal_ResidentSleeper.label>napeiro(a)</SP_Animal_ResidentSleeper.label>
+        <SP_Animal_FeetBump.label>gordinho(a)</SP_Animal_FeetBump.label>
+        <SP_Animal_LapRegular.label>flexível</SP_Animal_LapRegular.label>
+        <SP_Animal_StaringContestChampion.label>campeão(ã) de um concurso secreto</SP_Animal_StaringContestChampion.label>
+        <SP_Animal_HorriblySlowStalker.label>terrivelmente lento(a)</SP_Animal_HorriblySlowStalker.label>
+        <SP_Animal_Sunbather.label>um(a) banhista</SP_Animal_Sunbather.label>
+        <SP_Animal_BedDweller.label>sonolento(a)</SP_Animal_BedDweller.label>
+        <SP_Animal_BlepSpecialist.label>um(a) especialista em línguas mortas</SP_Animal_BlepSpecialist.label>
+        <SP_Animal_Loner.label>solitário(a)</SP_Animal_Loner.label>
+        <SP_Animal_Sleepyhead.label>dorminhoco(a)</SP_Animal_Sleepyhead.label>
+        <SP_Animal_Laggard.label>preguiçoso(a)</SP_Animal_Laggard.label>
+        <SP_Animal_Slowpoke.label>lento(a)</SP_Animal_Slowpoke.label>
+        <SP_Animal_DillyDallyer.label>indeciso(a)</SP_Animal_DillyDallyer.label>
+        <SP_Animal_Landmark.label>um(a) descobridor(a)</SP_Animal_Landmark.label>
+        <SP_Animal_CEO.label>CEO de uma empresa fantasma</SP_Animal_CEO.label>
+        <SP_Animal_WalkiesAddict.label>viciado(a) em caminhadas</SP_Animal_WalkiesAddict.label>
+        <SP_Animal_Runner.label>um(a) corredor(a)</SP_Animal_Runner.label>
+        <SP_Animal_Howler.label>sonâmbulo(a)</SP_Animal_Howler.label>
+        <SP_Animal_ShowOff.label>exibido(a)</SP_Animal_ShowOff.label>
+        <SP_Animal_ClubMember.label>membro(a) de um clube secreto</SP_Animal_ClubMember.label>
+        <SP_Animal_MessyGobbler.label>nojento(a)</SP_Animal_MessyGobbler.label>
+        <SP_Animal_Escapist.label>escapista</SP_Animal_Escapist.label>
+        <SP_Animal_Sprinter.label>velocista</SP_Animal_Sprinter.label>
+        <SP_Animal_LegHumper.label>estranhamente educado(a)</SP_Animal_LegHumper.label>
+        <SP_Animal_Ambusher.label>um(a) emboscador(a)</SP_Animal_Ambusher.label>
+        <SP_Animal_Smudge.label>sujo(a)</SP_Animal_Smudge.label>
+        <SP_Animal_ZoomiesFanatic.label>fanático(a)</SP_Animal_ZoomiesFanatic.label>
+        <SP_Animal_Mudmobile.label>barroso(a)</SP_Animal_Mudmobile.label>
+        <SP_Animal_Quicksilver.label>inquieto(a)</SP_Animal_Quicksilver.label>
+        <SP_Animal_Flash.label>veloz</SP_Animal_Flash.label>
+        <SP_Animal_Fleabag.label>pulguento(a)</SP_Animal_Fleabag.label>
+        <SP_Animal_UnLeashable.label>incontrolável</SP_Animal_UnLeashable.label>
+        <SP_Animal_WaggingMachine.label>uma máquina</SP_Animal_WaggingMachine.label>
+        <SP_Animal_BadBoy.label>mau(á)</SP_Animal_BadBoy.label>
+        <SP_Animal_Mischief.label>travesso(a)</SP_Animal_Mischief.label>
+        <SP_Animal_FussyEater.label>espalhafatoso(a)</SP_Animal_FussyEater.label>
+        <SP_Animal_Bully.label>valente</SP_Animal_Bully.label>
+        <SP_Animal_HouseplantEater.label>botânico(a)</SP_Animal_HouseplantEater.label>
+        <SP_Animal_ShoeGnawer.label>um(a) roedor(a)</SP_Animal_ShoeGnawer.label>
+        <SP_Animal_TerritorialWarlord.label>territorial</SP_Animal_TerritorialWarlord.label>
+        <SP_Animal_BarkingEnthusiast.label>entusiasta</SP_Animal_BarkingEnthusiast.label>
+        <SP_Animal_FeetBiter.label>um(a) devorador(a)</SP_Animal_FeetBiter.label>
+        <SP_Animal_NeighbourChaser.label>um(a) caçador(a)</SP_Animal_NeighbourChaser.label>
+        <SP_Animal_GreedyFetcher.label>ganancioso(a)</SP_Animal_GreedyFetcher.label>
+        <SP_Animal_PerpetualSnarler.label>rosnador(a)</SP_Animal_PerpetualSnarler.label>
+        <SP_Animal_FancyPurebred.label>de raça pura</SP_Animal_FancyPurebred.label>
+        <SP_Animal_MoodyDiva.label>temperamental</SP_Animal_MoodyDiva.label>
+        <SP_Animal_Rascal.label>malandro(a)</SP_Animal_Rascal.label>
+        <SP_Animal_Stalker.label>um(a) perseguidor(a)</SP_Animal_Stalker.label>
+        <SP_Animal_SpoiledPup.label>mimado(a)</SP_Animal_SpoiledPup.label>
+        <SP_Animal_GoodBoy.label>gentil</SP_Animal_GoodBoy.label>
+        <SP_Animal_Hugger.label>carinhoso(a)</SP_Animal_Hugger.label>
+        <SP_Animal_PackLeader.label>um(a) líder</SP_Animal_PackLeader.label>
+        <SP_Animal_BestFriend.label>amigável</SP_Animal_BestFriend.label>
+        <SP_Animal_Snuggler.label>aconchegante</SP_Animal_Snuggler.label>
+        <SP_Animal_Floof.label>fofo(a)</SP_Animal_Floof.label>
+        <SP_Animal_PoopProducer.label>um(a) produtor(a)</SP_Animal_PoopProducer.label>
+        <SP_Animal_Yelper.label>barulhento(a)</SP_Animal_Yelper.label>
+        <SP_Animal_Alpha.label>alfa</SP_Animal_Alpha.label>
+        <SP_Animal_ToyHoarder.label>um(a) colecionador(a)</SP_Animal_ToyHoarder.label>
+        <SP_Animal_DirtCarrier.label>um(a) faxineiro(a)</SP_Animal_DirtCarrier.label>
+        <SP_Animal_ExhibitionVeteran.label>um(a) veterano(a)</SP_Animal_ExhibitionVeteran.label>
+        <SP_Animal_Fondling.label>amável</SP_Animal_Fondling.label>
+        <SP_Animal_GoodestBoy.label>incrível</SP_Animal_GoodestBoy.label>
+        <SP_Animal_Runt.label>pequeno(a)</SP_Animal_Runt.label>
+        <SP_Animal_CutiePie.label>fofinho(a)</SP_Animal_CutiePie.label>
+        <SP_Animal_CutenessOverload.label>fofuxo(a)</SP_Animal_CutenessOverload.label>
+        <SP_Reformer.label>reformista</SP_Reformer.label>
+        <SP_Idealist.label>idealista</SP_Idealist.label>
+        <SP_Activist.label>ativista</SP_Activist.label>
+        <SP_Perfectionist.label>perfeccionista</SP_Perfectionist.label>
+        <SP_Helper.label>ajudante</SP_Helper.label>
+        <SP_Companion.label>acompanhante</SP_Companion.label>
+        <SP_Host.label>hospedeiro(a)</SP_Host.label>
+        <SP_Caregiver.label>cuidador(a)</SP_Caregiver.label>
+        <SP_Achiever.label>empreendedor(a)</SP_Achiever.label>
+        <SP_Charmer.label>encantador(a)</SP_Charmer.label>
+        <SP_Professional.label>profissional</SP_Professional.label>
+        <SP_Performer.label>artista</SP_Performer.label>
+        <SP_Individualist.label>individualista</SP_Individualist.label>
+        <SP_Romantic.label>romântico(a)</SP_Romantic.label>
+        <SP_Free_Spirit.label>espírito livre</SP_Free_Spirit.label>
+        <SP_Creative.label>criativo(a)</SP_Creative.label>
+        <SP_Investigator.label>investigador(a)</SP_Investigator.label>
+        <SP_Philosopher.label>filósofo(a)</SP_Philosopher.label>
+        <SP_Troubleshooter.label>solucionador(a)</SP_Troubleshooter.label>
+        <SP_Thinker.label>pensador(a)</SP_Thinker.label>
+        <SP_Loyalist.label>legalista</SP_Loyalist.label>
+        <SP_Guardian.label>defensor(a)</SP_Guardian.label>
+        <SP_Confidant.label>confidente</SP_Confidant.label>
+        <SP_Iconoclast.label>iconoclasta</SP_Iconoclast.label>
+        <SP_Enthusiast.label>entusiasta</SP_Enthusiast.label>
+        <SP_Pathfinder.label>descobridor(a)</SP_Pathfinder.label>
+        <SP_Opportunist.label>oportunista</SP_Opportunist.label>
+        <SP_Adventurer.label>aventureiro(a)</SP_Adventurer.label>
+        <SP_Challenger.label>desafiador(a)</SP_Challenger.label>
+        <SP_Protector.label>protetor(a)</SP_Protector.label>
+        <SP_Nonconformist.label>dissidente</SP_Nonconformist.label>
+        <SP_Diplomat.label>diplomata</SP_Diplomat.label>
+        <SP_Peacemaker.label>pacificador(a)</SP_Peacemaker.label>
+        <SP_Advisor.label>orientador(a)</SP_Advisor.label>
+        <SP_Negotiator.label>negociador(a)</SP_Negotiator.label>
+        <SP_Teacher.label>tutor(a)</SP_Teacher.label>
+
+</LanguageData>

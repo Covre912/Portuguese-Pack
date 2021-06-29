@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- 1-2-3 Personalities -->
+        <SP_AnimalRoot_Kind.label>gentil</SP_AnimalRoot_Kind.label>
+        <SP_AnimalRoot_Intense.label>intensa</SP_AnimalRoot_Intense.label>
+        <SP_AnimalRoot_Energetic.label>enérgica</SP_AnimalRoot_Energetic.label>
+        <SP_AnimalRoot_Calm.label>calma</SP_AnimalRoot_Calm.label>
+
+</LanguageData>

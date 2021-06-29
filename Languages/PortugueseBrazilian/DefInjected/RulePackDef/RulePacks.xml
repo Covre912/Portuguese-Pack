@@ -1,6 +1,470 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- 1-2-3 Personalities -->
+        <!-- Animal Personality Description -->
+            <SP_AnimalPersonalityDesc.rulePack.rulesStrings>
+                <li>main->[PAWN_nameDef] é um animal de natureza [ROOT_labelCol].</li>
+                <li>secondary->[PAWN_pronoun] é conhecido(a) por ser [VAR_labelCol].</li>
+            </SP_AnimalPersonalityDesc.rulePack.rulesStrings>
+        
+        <!-- Personality Description -->
+            <SP_PersonalityDesc.rulepack.rulesStrings>
+                <li>main->[PAWN_nameDef] é [VAR_labelCol] e depende principalmente de seus [DRIVE_labelCol].</li>
+                <li>psychoMain->[PAWN_nameDef] é um(a) &lt;color=#de2316&gt;maldito(a) psicopata&lt;/color&gt;.</li>
+                <li>psychoSecondary->[PAWN_pronoun] [likes] se esgueirar à noite e ver as pessoas dormirem.</li>
+                <li>likes(p=2)->gosta de</li>
+                <li>likes->ama</li>
+                <li>psychoSecondary-></li>
+                <li>psychoSecondary->[PAWN_pronoun] é uma pessoa realmente assustadora.</li>
+                <li>psychoSecondary->Ninguém sabe o que pensar d[PAWN_pronoun], [but] todos concordam que se sentem desconfortáveis ​​perto d[PAWN_pronoun].</li>
+                <li>but(p=2)->mas</li>
+                <li>but->ainda</li>
+                <li>psychoSecondary->[PAWN_pronoun] vagou à beira da loucura e [madness].</li>
+                <li>madness->colocou um pedaço dentro de si</li>
+                <li>madness->caiu no abismo</li>
+                <li>psychoSecondary->[PAWN_pronoun] está sonhando acordado(a) em destruir outros colonos.</li>
+                <li>psychoSecondary->[PAWN_pronoun] desaparece repetidamente e murmura sob seu fôlego: [quoteweird]</li>
+                <li>quoteweird->“O que foi, será. O que será, foi.”</li>
+                <li>quoteweird->“Ab Hoc Possum Videre Domum Tuum.”</li>
+                <li>quoteweird->“Sic mundus creatus est.”</li>
+                <li>quoteweird->&lt;color=#54bf11&gt;"Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn."&lt;/color&gt;</li>
+                <li>psychoSecondary->[PAWN_pronoun] tem um transtorno de personalidade anti-social avançado.</li>
+                <li>psychoSecondary->[PAWN_pronoun] tem um amigo imaginário [ima_friend]</li>
+                <li>ima_friend->com uma faca e sem rosto</li>
+                <li>ima_friend->com muitos rostos</li>
+                <li>ima_friend->sempre o(a) assistindo</li>
+                <li>psychoSecondary->[sometimes1] [PAWN_pronoun] ouve sussurros sinistros e faz o que eles dizem.</li>
+                <li>psychoSecondary->[sometimes1] [PAWN_pronoun] acorda tarde da noite e começa a rir.</li>
+                <li>psychoSecondary->[PAWN_pronoun] está convencido de que outros colonos [plotting].</li>
+                <li>plotting(p=2)->estão conspirando contra [PAWN_pronoun]</li>
+                <li>plotting->são reptilianos disfarçados</li>
+                <li>plotting->estão escondendo algo d[PAWN_pronoun]</li>
+                <li>psychoSecondary(p=0.5)->&lt;color=#54bf11&gt;"Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn."&lt;/color&gt;</li>
+                <li>psychoSecondary->[PAWN_pronoun] vê o mundo através de lentes mórbidas. Para [PAWN_pronoun], o cheiro de sangue é tão agradável quanto a fragrância das flores.</li>
+                <li>psychoSecondary->[PAWN_pronoun] adora os [wickedthing].</li>
+                <li>wickedthing->sons de gritos e ossos quebrados</li>
+                <li>wickedthing->padrões feitos pelo fluxo de sangue recém-derramado</li>
+                <li>psychoSecondary->[PAWN_pronoun] [likespsycho] [animalspsycho] com grande paixão e um sorriso malicioso em seu rosto.</li>  
+                <li>likespsycho->gosta de</li>
+                <li>likespsycho->ama</li>
+                <li>animalspsycho->matar roedores</li>
+                <li>animalspsycho->comer insetos</li>
+                <li>animalspsycho->matar pássaros</li>
+                <li>animalspsycho->comer aranhas</li>
+                <li>animalspsycho->dissecar restos mortais</li>
+                <li>desc1->[PAWN_nameDef] é bem conhecido(a) por seu comportamento [TRAIT_labelCol].</li>
+                <li>desc1->Colonos consideram que [PAWN_nameDef] seja uma pessoa [very1] [TRAIT_labelCol].</li>
+                <li>very1(p=3)->muito</li>
+                <li>very1->consideravelmente</li>
+                <li>very1->notavelmente</li>
+                <li>very1->extremamente</li>
+                <li>very1->excepcionalmente</li>
+                <li>very1->extraordinariamente</li>
+                <li>desc1->A maior parte do tempo, [PAWN_nameDef] é [very2] [TRAIT_labelCol].</li>
+                <li>very2(p=3)->muito</li>
+                <li>very2->consideravelmente</li>
+                <li>very2->notavelmente</li>
+                <li>very2->extremamente</li>
+                <li>very2->excepcionalmente</li>
+                <li>very2->extraordinariamente</li>
+                <li>desc1->É quase impossível ser mais [TRAIT_labelCol] que [PAWN_nameDef].</li>
+                <li>desc1->[PAWN_nameDef] detém a merecida reputação de ser [being_most] [TRAIT_labelCol] na colônia.</li>
+                <li>being_most->uma das pessoas mais</li>
+                <li>being_most->a pessoa mais</li>
+                <li>being_most->simplismente a pessoa mais</li>
+                <li>desc1->Sobre tudo, [PAWN_nameDef] é [very2] [TRAIT_labelCol].</li>
+                <li>desc1->Geralmente, [PAWN_nameDef] é [very2] [TRAIT_labelCol].</li>
+                <li>desc1->[PAWN_nameDef] é inacreditavelmente [TRAIT_labelCol].</li>
+                <li>desc1->Perguntar se [PAWN_nameDef] é [TRAIT_labelCol] é como perguntar se no Brasil fala-se espanhol. Sim. Sim, [PAWN_pronoun] é.</li>
+                <li>desc1->Se você gosta da companhia de uma pessoa [TRAIT_labelCol], [hang_around] [PAWN_nameDef][not_disappointed].</li>
+                <li>hang_around->passeie com</li>
+                <li>hang_around->fique com</li>
+                <li>not_disappointed-> e você não ficará desapontado(a)</li>
+                <li>not_disappointed-></li>
+                <li>desc1->[PAWN_nameDef] é conhecido(a) por ser [very2] [TRAIT_labelCol].</li>
+                <li>desc1->[PAWN_nameDef] é conhecido(a) por ser [TRAIT_labelCol] sobre tudo.</li>
+                <li>desc1->[PAWN_nameDef] poderia ser chamado(a) de muitas coisas, [but] [TRAIT_labelCol] é o que as pessoas descobrem sobre [PAWN_pronoun] primeiro.</li>
+                <li>desc1->Não passa um único dia sem [PAWN_nameDef] lembrar a todos como [TRAIT_labelCol] [PAWN_pronoun] é.</li>
+                <li>desc1->Alguns o(a) odeiam, alguns o(a) amam por quanto [TRAIT_labelCol] [PAWN_pronoun] é.[middleground]</li>
+                <li>middleground-> Não há meio termo.</li>
+                <li>middleground-></li>
+                <li>desc1->Cedo ou tarde, [PAWN_nameDef] oprime a todos sendo [notoriously].</li>
+                <li>notoriously(p=2)->[TRAIT_labelCol] o dia inteiro</li>
+                <li>notoriously->notoriamente [TRAIT_labelCol]</li>
+                <li>notoriously->dolorosamente [TRAIT_labelCol]</li>
+                <li>desc1->[time] com [PAWN_nameDef] é suficiente para decobrir quanto [TRAIT_labelCol] [PAWN_pronoun] é.</li>
+                <li>time->Cinco minutor</li>
+                <li>time->Uma hora</li>
+                <li>time->Uma tarde</li>
+                <li>desc1->[PAWN_nameDef] é [probably]o colono mais [TRAIT_labelCol].</li>
+                <li>probably(p=2)->provavelmente </li>
+                <li>probably-></li>
+                <li>desc1->[assumption] [PAWN_nameDef] é o colono mais [TRAIT_labelCol].</li>
+                <li>assumption->Pode-se supor que</li>
+                <li>assumption->Sem dúvida,</li>
+                <li>assumption->Com certeza,</li>
+                <li>desc1->Ao longo dos anos, [PAWN_nameDef] cresceu para ser uma pessoa [very1] [TRAIT_labelCol]. É sua segunda natureza agora.</li>
+                <li>desc1->[PAWN_nameDef] alcançou a maestria em ser [TRAIT_labelCol].</li>
+                <li>desc1->Nada descreve [PAWN_nameDef] melhor que [TRAIT_labelCol].</li>
+                <li>desc1->Com sua atitude [very1] [TRAIT_labelCol], [PAWN_nameDef] não pode ser confundido(a) com mais ninguém.</li>
+                <li>desc1->Ser [TRAIT_labelCol] está sujeito a [character] de [PAWN_nameDef].</li>
+                <li>character->personagem</li>
+                <li>character->natureza</li>
+                <li>character->personalidade</li>
+                <li>character->psique</li>
+                <li>desc1->[PAWN_nameDef] é uma definição ambulante de uma pessoa [TRAIT_labelCol].</li>
+                <li>desc2->[sometimes1], [PAWN_pronoun] pode ser também [quite] [TRAIT_labelCol].</li>
+                <li>sometimes1->De tempos em tempos</li>
+                <li>sometimes1(p=2)->Às vezes</li>
+                <li>sometimes1->Ocasionalmente</li>
+                <li>sometimes1->De vez em quando</li>
+                <li>sometimes1->Agora e novamente</li>
+                <li>sometimes1->De vez em quando</li>
+                <li>sometimes1->Muito raramente</li>
+                <li>quite(p=3)->bastante</li>
+                <li>quite->razoavelmente</li>
+                <li>quite->realmente</li>
+                <li>quite->um tanto</li>
+                <li>quite->um pouco</li>
+                <li>quite(p=0.5)->um poquinho</li>
+                <li>desc2->[sometimes1] [PAWN_pronoun] é [quite] [TRAIT_labelCol].</li>
+                <li>desc2->[PAWN_pronoun] pode ser [TRAIT_labelCol] também.</li>
+                <li>desc2->Embora não seja tão óbvio, [PAWN_pronoun] é também [quite] [TRAIT_labelCol].</li>
+                <li>desc2->[PAWN_pronoun] pode ser [weirdly] [TRAIT_labelCol] no trabalho.</li>
+                <li>weirdly->estranhamente</li>
+                <li>weirdly->irritantemente</li>
+                <li>weirdly->espantosamente</li>
+                <li>weirdly->surpreendentemente</li>
+                <li>weirdly(p=2)->incomumente</li>
+                <li>desc2->[PAWN_pronoun] é [notably] mais [TRAIT_labelCol] na presença de [strangers].</li>
+                <li>notably->notavelmente</li>
+                <li>notably->visivelmente</li>
+                <li>notably->surpreendentemente</li>
+                <li>strangers(p=2)->estranhos</li>
+                <li>strangers->refugiados</li>
+                <li>strangers->prisioneiros</li>
+                <li>desc2->[PAWN_pronoun] é [notably] mais [TRAIT_labelCol] ao lidar com [traders].</li>
+                <li>traders(p=2)->comerciantes</li>
+                <li>traders->caravaneiros</li>
+                <li>desc2->[PAWN_pronoun] pode ser [weirdly] [TRAIT_labelCol] durante seu tempo livre.</li>
+                <li>desc2->[PAWN_pronoun] torna-se [TRAIT_labelCol] sob pressão.</li>
+                <li>desc2->[PAWN_pronoun] é também [quite] [TRAIT_labelCol] e [PAWN_pronoun] [likes] ser assim.</li>
+                <li>desc2->[PAWN_pronoun] é [TRAIT_labelCol] durante [argument].</li>
+                <li>argument->uma discussão</li>
+                <li>argument->uma briga</li>
+                <li>argument->um debate</li>
+                <li>argument->uma disputa</li>
+                <li>desc2->[PAWN_pronoun] tenta não ser [TRAIT_labelCol][mixed_results].</li>
+                <li>mixed_results->, mas é o que é</li>
+                <li>mixed_results->, mas falha miseravelmente</li>
+                <li>mixed_results->. Não houve muito progresso até agora</li>
+                <li>desc2->[PAWN_pronoun] tenta ser menos [TRAIT_labelCol][mixed_results].</li>
+                <li>desc2->[PAWN_pronoun] pode se tornar [weirdly] mais [TRAIT_labelCol] quando está [bored].</li>
+                <li>bored->entediado(a)</li>
+                <li>bored->cansado(a)</li>
+                <li>bored->incomodado(a) o suficiente</li>
+                <li>desc2->[PAWN_pronoun] age de forma [TRAIT_labelCol] [first_meeting].</li>
+                <li>first_meeting->durante suas primeiras reuniões</li>
+                <li>first_meeting->antes de quebrar o gelo</li>
+                <li>first_meeting->até que [PAWN_pronoun] decida ser si mesmo(a).</li>
+                <li>desc2->[PAWN_pronoun] é mais [TRAIT_labelCol] perto de pessoas [agebehavior].</li>
+                <li>agebehavior->da sua idade</li>
+                <li>agebehavior->mais velhas</li>
+                <li>agebehavior->mais novas</li>
+                <li>desc2->[PAWN_pronoun] começa a se comportar de forma mais [TRAIT_labelCol] na presença do [sexbehavior].</li>
+                <li>sexbehavior->sexo oposto</li>
+                <li>sexbehavior->mesmo sexo</li>
+                <li>desc2->[PAWN_pronoun] se torna [TRAIT_labelCol] quando se encontra com [group].</li>
+                <li>group->seus amigos</li>
+                <li>group->seus parentes</li>
+                <li>group->visitantes</li>
+                <li>group->estranhos</li>
+                <li>desc2->Durante conversas [serious], [PAWN_pronoun] intencionalmente tenta ser [TRAIT_labelCol].</li>
+                <li>serious->sérias</li>
+                <li>serious->importantes</li>
+                <li>desc2->Sob certas circunstâncias, [PAWN_pronoun] permite-se ser [TRAIT_labelCol].</li>
+                <li>desc2->[PAWN_pronoun] torna-se [TRAIT_labelCol] qunado [stressing_sit].</li>
+                <li>stressing_sit(p=3)->está encostado(a) em um canto</li>
+                <li>stressing_sit(p=2)->empurrado(a) contra a parede</li>
+                <li>stressing_sit->confrontado(a) abertamente</li>
+                <li>desc2->[sometimes1], [PAWN_pronoun] mostra seu lado [TRAIT_labelCol].</li>
+                <li>desc2->[PAWN_pronoun] pode ser [weirdly] [TRAIT_labelCol] algumas horas.</li>
+                <li>desc2->[PAWN_pronoun] torna-se [TRAIT_labelCol] quando pode.</li>
+                <li>desc2->[PAWN_pronoun] tenta ser mais [TRAIT_labelCol] que [PAWN_pronoun] realmente é, quando pensa que isso será bem recebido.</li>
+                <li>desc2(p=2)->Há muitas [situations] onde [PAWN_pronoun] [shows_that] [alsotraitcol].</li>
+                <li>situations->situações</li>
+                <li>situations->circunstâncias</li>
+                <li>situations->ocasiões</li>
+                <li>shows_that->mostra que é</li>
+                <li>shows_that->acaba por ser</li>
+                <li>alsotraitcol->também é [TRAIT_labelCol]</li>
+                <li>alsotraitcol->é [TRAIT_labelCol] também</li>
+                <li>desc2->Às vezes, [PAWNpronoun] também mostra seu lado [TRAIT_labelCol].</li>
+                <li>desc2->Depois de algumas [beers], sua natureza [TRAIT_labelCol] emerge.</li>
+                <li>beers->cervejas</li>
+                <li>beers->bebidas</li>
+                <li>desc2->[PAWN_pronoun] tenta não mostrar isso[publicly], mas [PAWN_pronoun] também é [alsotraitcol].</li>
+                <li>publicly-> plublicamente</li>
+                <li>publicly-> em público</li>
+                <li>publicly-></li>
+                <li>desc2->[PAWN_pronoun] é conhecido(a) por ser [TRAIT_labelCol] ao lidar com [matters].</li>
+                <li>matters->assuntos oficiais</li>
+                <li>matters->assuntos triviais</li>
+                <li>matters->questões pessoais</li>
+                <li>desc2->Quanto mais tempo [PAWN_pronoun] gasta [somewhere], mais [TRAIT_labelCol] [PAWN_pronoun] se torna.</li>
+                <li>somewhere->fora da colônia</li>
+                <li>somewhere->sozinho(a)</li>
+                <li>somewhere->trabalhando</li>
+                <li>desc3->Lá no fundo, [PAWN_pronoun] também é [alsotraitcol].</li>
+                <li>desc3->Apenas amigos mais próximos sabem sobre seu lado [TRAIT_labelCol].</li>
+                <li>desc3->[PAWN_nameDef] costumava ser [TRAIT_labelCol]. Talvez [PAWN_pronoun] ainda seja, apenas muito menos.</li>
+                <li>desc3->[PAWN_pronoun] não costumava ser particularmente [TRAIT_labelCol], mas isso mudou [after].</li>
+                <li>after->após um acidente</li>
+                <li>after->recentemente</li>
+                <li>after->em algum ponto</li>
+                <li>desc3->Diz se que [PAWN_pronoun] está se tornando cada vez mais [TRAIT_labelCol].</li>
+                <li>desc3->[sometimes1], [PAWN_pronoun] torna-se estranhamente [TRAIT_labelCol].</li>
+                <li>desc3->Surpreendentemente para muitos, [PAWN_pronoun] pode ser muito [TRAIT_labelCol].</li>
+                <li>desc3->Given enough time, [PAWN_pronoun] turns out to be [TRAIT_labelCol] person.</li>
+                <li>desc3->[PAWN_nameDef] [likes] mencionar como [PAWN_pronoun] era [TRAIT_labelCol] quando era [child].</li>
+                <li>child->uma criança</li>
+                <li>child->menor</li>
+                <li>child->jovem</li>
+                <li>desc3->É perturbador como [PAWN_nameDef] se considera [TRAIT_labelCol]. Poucos pensam isso sobre [PAWN_pronoun].</li>
+                <li>desc3->[sometimes1], [PAWN_pronoun] [nocontrol] o quanto [TRAIT_labelCol] [PAWN_pronoun] é.</li>
+                <li>nocontrol->não pode controlar</li>
+                <li>nocontrol->perde o controle sobre</li>
+                <li>desc3->[sometimes1] [PAWN_pronoun] desaparece e murmura sob sua respiração: [quoteweird]</li>
+                <li>desc3->Há alguma coisa [disturbing] sobre [PAWN_pronoun].</li>
+                <li>disturbing(p=2)->perturbadora</li>
+                <li>disturbing->sinistra</li>
+                <li>desc3->[PAWN_nameDef] foi visto(a) [susactivity].</li>
+                <li>susactivity->vagando pela colônia à noite</li>
+                <li>susactivity->conversando sozinho(a)</li>
+                <li>susactivity->conversando sozinho(a) em uma língua [bizarre]</li>
+                <li>susactivity->alimentando animais de estimação com substâncias estranhas</li>
+                <li>susactivity->espionando outros colonos</li>
+                <li>bizarre(p=2)->estranha</li>
+                <li>bizarre->bizarra</li>
+                <li>bizarre->esquisita</li>
+                <li>bizarre->exótica</li>
+                <li>bizarre->peculiar</li>
+                <li>desc3(p=0.5)->[PAWN_nameDef] gagueja de vez em quando.</li>
+                <li>desc3->[PAWN_nameDef] [gestures].</li>
+                <li>gestures->gesticula muito</li>
+                <li>gestures->gesticula com entusiasmo</li>
+                <li>gestures(p=0.5)->gesticula como um louco</li>
+                <li>desc3->[PAWN_nameDef] tem hábitos que tenta esconder.</li>
+                <li>desc3->[PAWN_nameDef] prefere falar [talkingpref].</li>
+                <li>talkingpref->em linguagem de sinais</li>
+                <li>talkingpref->em voz baixa</li>
+                <li>talkingpref->em particular</li>
+                <li>talkingpref->em público</li>
+                <li>desc3->[PAWN_nameDef] tem um sotaque bizarro.</li>
+                <li>desc3->[PAWN_nameDef] tem um [littlenotebook] [suspicious] onde [PAWN_pronoun] escreve todos os tipos de coisas.</li>
+                <li>suspicious->suspeito</li>
+                <li>suspicious->secreto</li>
+                <li>suspicious->misterioso</li>
+                <li>littlenotebook->caderninho</li>
+                <li>littlenotebook->bloco de anotações</li>
+                <li>littlenotebook->caderno vermelho-sangue</li>
+                <li>littlenotebook->diário</li>
+                <li>desc3->[PAWN_nameDef] [deeplooks].</li>
+                <li>deeplooks->olha com interlocutores profundamente</li>
+                <li>deeplooks->olha com interlocutores profundamente como se estivesse vendo suas almas</li>
+                <li>deeplooks->tem um olhar penetrante</li>
+                <li>desc3->[PAWN_nameDef] começa a [grumpy] quando está [whenwhat].</li>
+                <li>grumpy->encenar</li>
+                <li>grumpy->ser mal-humorado(a)</li>
+                <li>grumpy->ser teimoso(a)</li>
+                <li>whenwhat->sem café</li>
+                <li>whenwhat->privado(a) de sono</li>
+                <li>whenwhat->cansado(a)</li>
+                <li>desc3->[PAWN_nameDef] perde o foco quando está [whenwhat].</li>
+                <li>desc3->[PAWN_nameDef] é um dos colonos que usam apertos de mão bizarros.</li>
+                <li>desc3->[PAWN_nameDef] [likes] passar tempo [colonyroom].</li>
+                <li>colonyroom->na sala de recreação</li>
+                <li>colonyroom->na sala de jantar</li>
+                <li>colonyroom->no seu quarto</li>
+                <li>colonyroom->ao ar livre</li>
+                <li>colonyroom->dentro de casa</li>
+                <li>colonyroom->com seus amigos</li>
+                <li>desc3->[PAWN_nameDef] sempre carrega [memorandum].[memento]</li>
+                <li>memorandum->uma pequena estatueta de madeira</li>
+                <li>memorandum->um pingente ornamentado</li>
+                <li>memorandum->um amuleto distinto</li>
+                <li>memorandum->um relógio de bolso com a foto de alguém</li>
+                <li>memorandum->uma relíquia de família</li>
+                <li>memento(p=2)-></li>
+                <li>memento-> Uma lembrança do passado.</li>
+                <li>memento-> Uma lembrança preciosa do passado.</li>
+                <li>desc3->[PAWN_nameDef] [humms] de vez em quando.</li>
+                <li>humms->idealiza humanidades e ciências sociais</li>
+                <li>humms->sussura sozinho(a)</li>
+                <li>humms->canta sozinho(a)</li>
+                <li>humms(p=0.1)->uiva</li>
+                <li>desc3(p=2)->[PAWN_nameDef] [mannerism1].</li>
+                <li>mannerism1->conta muitas anedotas</li>
+                <li>mannerism1->conhece muitas palavras curiosas</li>
+                <li>mannerism1->fala de uma maneira altamente formal</li>
+                <li>mannerism1->fala de uma maneira altamente informal</li>
+                <li>mannerism1->ri muito</li>
+                <li>mannerism1->faz longas pausas quando [PAWN_pronoun] fala</li>
+                <li>mannerism1->[likes] usar gírias</li>
+                <li>desc3->[PAWN_nameDef] tem uma [voice].</li>
+                <li>voice->voz grave</li>
+                <li>voice->voz suave</li>
+                <li>voice->voz melodiosa</li>
+                <li>voice->voz monótona</li>
+                <li>voice->voz muito alta</li>
+                <li>desc3->[PAWN_nameDef] [humour].</li>
+                <li>humour->ri alto de piadas</li>
+                <li>humour->tem uma risada nervosa</li>
+                <li>humour->tem uma risada agradável</li>
+                <li>humour->tem um senso de humor bizarro</li>
+                <li>humour->tem senso de humor negro</li>
+                <li>humour->não tem senso de humor</li>
+                <li>desc3(p=2)->[PAWN_nameDef] [likes_to_wear].</li>
+                <li>likes_to_wear(p=2)->[likes] vestir roupas [clothing]</li>
+                <li>likes_to_wear->prefere vestir roupas [clothing]</li>
+                <li>likes_to_wear->veste roupas [clothing] sempre que possível</li>
+                <li>likes_to_wear(p=0.1)->se lamboseia em roupas [clothing]</li>
+                <li>clothing->formais</li>
+                <li>clothing->práticas</li>
+                <li>clothing->extravagantes</li>
+                <li>clothing->superdimensionadas</li>
+                <li>clothing->subdimensionadas</li>
+                <li>clothing->coloridas</li>
+                <li>clothing->excêntricas</li>
+                <li>clothing->casuais</li>
+                <li>clothing->elegantes</li>
+                <li>clothing->militares</li>
+                <li>clothing->confortáveis</li>
+                <li>desc3->[PAWN_nameDef] [fears] [fear].</li>
+                <li>fears(p=0.5)->tem medo de</li>
+                <li>fears->teme</li>
+                <li>fears(p=0.5)->sem assusta com</li>
+                <li>fear->afogamento</li>
+                <li>fear->aranhas</li>
+                <li>fear->répteis</li>
+                <li>fear->silêncio</li>
+                <li>fear->cegueira</li>
+                <li>fear->o que o futuro trará</li>
+                <li>fear->solidão</li>
+                <li>desc3->[PAWN_nameDef] pensou sobre isso e [agrees] que alguns [warcrimes] são justificados.</li>
+                <li>agrees->concorda</li>
+                <li>agrees->acredita</li>
+                <li>agrees->está convencido</li>
+                <li>warcrimes(p=2)->crimes de guerra</li>
+                <li>warcrimes->casos de roubo</li>
+                <li>warcrimes->casos de comer sem mesa</li>
+                <li>desc3->[PAWN_nameDef] se sente melhor quando [feels_best].</li>
+                <li>feels_best->está num grupo</li>
+                <li>feels_best->é líder de grupo</li>
+                <li>feels_best->pode confiar nas pessoas em seu redor</li>
+                <li>feels_best->ninguém o(a) pressiona</li>
+                <li>desc3->Durante lutas inevitáveis, [PAWN_nameDef] gosta de [strategy].</li>
+                <li>strategy->alvejar o inimigo mais forte</li>
+                <li>strategy->mirar no inimigo mais fraco</li>
+                <li>strategy->mirar no maior grupo de inimigos</li>
+                <li>strategy->mirar no inimigo mais próximo</li>
+                <li>strategy->flanquear</li>
+                <li>strategy->confundir o inimigo</li>
+                <li>strategy->proteger seu líder</li>
+                <li>strategy->proteger-se</li>
+                <li>desc3(p=2)->[PAWN_nameDef] [seeks] [goals].</li>
+                <li>seeks->faz o que pode para</li>
+                <li>seeks->amaria</li>
+                <li>seeks->gostaria</li>
+                <li>seeks->fará tudo para</li>
+                <li>goals->ter uma vida melhor</li>
+                <li>goals->alcançar a redenção</li>
+                <li>goals->tornar o mundo um lugar melhor</li>
+                <li>goals->sobreviver</li>
+                <li>goals->fazer a colônia sobreviver</li>
+                <li>goals->encontrar aceitação</li>
+                <li>goals->encontrar glória</li>
+                <li>goals->tornar-se famoso</li>
+                <li>goals->ser livre</li>
+                <li>goals->encontrar amor</li>
+                <li>goals->encontrar sua alma-gêmea</li>
+                <li>goals->encontrar um lugar no mundo</li>
+                <li>goals->encontrar o propósito da vida</li>
+                <li>goals->destruir seus inimigos</li>
+                <li>goals->encontrar justiça</li>
+                <li>goals->aprender o máximo que pode</li>
+                <li>goals->acumular riquezas</li>
+                <li>goals(p=0.1)->alcançar a maestria no Minecraft</li>
+                <li>desc3->[rumorhasit] [PAWN_nameDef] é [hotgossip].</li>
+                <li>rumorhasit->O boato é que</li>
+                <li>rumorhasit->De acordo com muitos,</li>
+                <li>rumorhasit->Diz se que</li>
+                <li>hotgossip->um(a) cultista</li>
+                <li>hotgossip->um(a) viajante do tempo</li>
+                <li>hotgossip->um(a) alienígena em um traje humanoide</li>
+                <li>hotgossip->quem diz ser</li>
+                <li>hotgossip->uma parte da polícia secreta</li>
+                <li>hotgossip->um(a) agente maçônico</li>
+                <li>desc3->[wordonthestreet] [PAWN_nameDef] é [accusation].</li>
+                <li>wordonthestreet->Alguns colonos afirmam que</li>
+                <li>wordonthestreet->A palavra na rua é que</li>
+                <li>wordonthestreet->As pessoas sussurram que</li>
+                <li>accusation->um(a) misantropo(a)</li>
+                <li>accusation->um(a) maluco(a)</li>
+                <li>accusation->um(a) fofoqueiro(a) sem vergonha</li>
+                <li>accusation->um(a) traidor(a)</li>
+                <li>accusation->indigno(a) de confiança</li>
+                <li>accusation->um(a) pervertido(a)</li>
+                <li>desc3(p=0.5)->No passado, [PAWN_nameDef] [questionabledeed], e todos se lembram disso.</li>
+                <li>questionabledeed->fez algumas ostentações absurdas</li>
+                <li>questionabledeed->espalhou segredos</li>
+                <li>questionabledeed->foi preso(a)</li>
+                <li>questionabledeed->urinou em público</li>
+                <li>questionabledeed->tentou adotar um homem adulto</li>
+                <li>questionabledeed->insultou um mendigo</li>
+                <li>questionabledeed->vestiu as roupas do avesso</li>
+                <li>questionabledeed->fez uma tatuagem humilhante</li>
+                <li>desc3->[PAWN_nameDef] é um(a) [enthusiast] [hobby].</li>
+                <li>hobby->arquotecnologia</li>
+                <li>hobby->arte</li>
+                <li>hobby->jogos de cartas</li>
+                <li>hobby->moda</li>
+                <li>hobby->corridas de cavalo</li>
+                <li>hobby->tricô</li>
+                <li>hobby->sudoku</li>
+                <li>hobby->costura</li>
+                <li>hobby->ficção-científica</li>
+                <li>hobby->literatura</li>
+                <li>hobby->mecanoides</li>
+                <li>enthusiast->entusiasta sobre</li>
+                <li>enthusiast->fã de</li>
+                <li>enthusiast->aficionado(a) por</li>
+                <li>enthusiast->maníaco(a) por</li>
+                <li>desc3->[PAWN_nameDef] [appreciates] itens feitos de [material].</li>
+                <li>appreciates->aprecia</li>
+                <li>appreciates->adora</li>
+                <li>appreciates(p=0.1)->fantasia</li>
+                <li>material->ouro</li>
+                <li>material->jade</li>
+                <li>material->prata</li>
+                <li>material->plastiaço</li>
+                <li>desc3->[PAWN_nameDef] tem um sonho recorrente sobre [dream] que [PAWN_pronoun] [likes] falar sobre.</li>
+                <li>dream->cair em piscinas de ácido</li>
+                <li>dream->pisar em armadilhas para ursos</li>
+                <li>dream->ser perseguido(a) por [chasedanimals]</li>
+                <li>chasedanimals->lobos</li>
+                <li>chasedanimals->wargs</li>
+                <li>chasedanimals->thrumbos</li>
+                <li>chasedanimals(p=0.5)->idosos</li>
+                <li>dream->acordar como um repitiliano</li>
+                <li>dream->cair em areia movediça</li>
+                <li>dream->sair do planeta</li>
+                <li>dream->lutar contra estátuas vivas</li>
+                <li>dream->ser torturado(a) no inferno</li>
+                <li>dream(p=0.1)->conhecer o Kitsune</li>
+            </SP_PersonalityDesc.rulepack.rulesStrings>
+
     <!-- Psychology (unofficial 1.1/1.2) -->
         <!-- Random Social Interactions -->
             <Sentence_SocialFightConvoInitiatorStarted.rulePack.rulesStrings>

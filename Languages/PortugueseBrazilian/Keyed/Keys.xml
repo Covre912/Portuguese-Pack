@@ -387,6 +387,29 @@
         <!-- Generation -->
             <SetUpCamp_GeneratingCamp>Gerando acampamento</SetUpCamp_GeneratingCamp>
 
+    <!-- 1-2-3 Personalities -->
+        <SP.LoadingLabel>Personalidades Simples - Módulo 1</SP.LoadingLabel>
+        <SP.PersonalityHeader>Personalidade de {0}</SP.PersonalityHeader>
+        <SP.HiddenPersonality>Oculta: A personalidade desta pessoa ainda não é conhecida.\nReduza sua resistência para revelar sua personalidade.</SP.HiddenPersonality>
+        <SP.HiddenAnimalPersonality>A personalidade deste animal ainda não é conhecida.\nDomestique o animal para descobrir sua natureza.</SP.HiddenAnimalPersonality>
+        <SP.HiddenAnimalOfFactionPersonality>A personalidade deste animal ainda não é conhecida.\nTreine o animal ou espere alguns dias para descobrir sua personalidade.</SP.HiddenAnimalOfFactionPersonality>
+        <SP.AnimalReveal.Training>{0} passou bastante tempo com {1} para entender sua natureza.</SP.AnimalReveal.Training>
+        <SP.AnimalReveal.Time>{0} sentiu-se insegur{0_gender ? o : a} nos últimos dias, mas finalmente aceitou {1} como sua casa. Sua personalidade foi revelada.</SP.AnimalReveal.Time>
+        <SP.PersonalityTabLabel>Personalidade</SP.PersonalityTabLabel>
+        <SPS.Header>Passe o mouse sobre um item para ver uma descrição.\nClique com o botão direito para redefinir para o valor padrão.\nObservação: Algumas configurações requerem uma reinicialização para terem efeito.</SPS.Header>
+        <SPS.ShowAdvanced>Mostrar opções avançadas?</SPS.ShowAdvanced>
+        <SPS.ShowAdvancedDesc>Mostra ou oculta as configurações avançadas.\nAs configurações avançadas só devem ser ajustadas se você souber o que está fazendo.</SPS.ShowAdvancedDesc>
+        <SPS.ResetAll>Redefinir Tudo</SPS.ResetAll>
+        <SPS.Default>Padrão: {0}</SPS.Default>
+        <SPS.Yes>Sim</SPS.Yes>
+        <SPS.No>Não</SPS.No>
+        <SPS.VisualCat>Visual</SPS.VisualCat>
+        <SPS.UseSingleColor>Rótulos de descrição monocromáticos: se ativados, substitui os rótulos de descrição de personalidade multicoloridos por uma única cor, que pode ser mais fácil de ler.\nRequer recarregar o jogo salvo para ter efeito completo.</SPS.UseSingleColor>
+        <SPS.AnimalCat>Animais</SPS.AnimalCat>
+        <SPS.AnimalTicksToReveal>Tempo para revelar animais: o tempo, em ticks, após o qual um animal domesticado revelará automaticamente sua personalidade.\nHá 60 ticks por segundo.</SPS.AnimalTicksToReveal>
+        <SPS.AnimalPersonalityOnTrainChance>Revelação de personalidade na chance de treinamento: A chance percentual de a personalidade de um animal domesticado ser revelada em uma tentativa de treinamento.</SPS.AnimalPersonalityOnTrainChance>
+        <SPS.DoAnimalHediffs>Habilitar bônus de animais: habilita ou desabilita efeitos de animais (bônus).</SPS.DoAnimalHediffs>
+
     <!-- Achtung! -->
         <!-- Positioning Enabled-->
             <PositioningEnabledTitle>Posicionamento Personalizado com o Mouse</PositioningEnabledTitle>
