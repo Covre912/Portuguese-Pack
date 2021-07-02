@@ -94,7 +94,7 @@
                 <li>notoriously->notoriamente [TRAIT_labelCol]</li>
                 <li>notoriously->dolorosamente [TRAIT_labelCol]</li>
                 <li>desc1->[time] com [PAWN_nameDef] é suficiente para decobrir quanto [TRAIT_labelCol] [PAWN_pronoun] é.</li>
-                <li>time->Cinco minutor</li>
+                <li>time->Cinco minutos</li>
                 <li>time->Uma hora</li>
                 <li>time->Uma tarde</li>
                 <li>desc1->[PAWN_nameDef] é [probably]o colono mais [TRAIT_labelCol].</li>
@@ -464,6 +464,12 @@
                 <li>dream->ser torturado(a) no inferno</li>
                 <li>dream(p=0.1)->conhecer o Kitsune</li>
             </SP_PersonalityDesc.rulepack.rulesStrings>
+
+        <!-- Personality Revaeal -->
+            <SP_PersonalityRevealed.rulePack.rulesStrings>
+                <li>talk->[RECRUITER_nameDef] passou tempo suficiente com [PRISONER_nameDef] para entender sua personalidade.</li>
+                <li>psycast->[RECRUITER_nameDef] usou sua palavra de confiança para revelar a personalidade de [PRISONER_nameDef].</li>
+            </SP_PersonalityRevealed.rulePack.rulesStrings>
 
     <!-- Psychology (unofficial 1.1/1.2) -->
         <!-- Random Social Interactions -->

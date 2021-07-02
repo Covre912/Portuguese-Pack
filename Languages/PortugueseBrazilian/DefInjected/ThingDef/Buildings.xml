@@ -1260,7 +1260,7 @@
 
     <!-- Vanilla Furniture Expanded - Art -->
         <!-- Archotech Sculpture -->
-            <VFE_ArchotechSculpture.label>escultura archotech</VFE_ArchotechSculpture.label>
+            <VFE_ArchotechSculpture.label>escultura arquotecnológica</VFE_ArchotechSculpture.label>
             <VFE_ArchotechSculpture.description>Um dispositivo misterioso antigo. Cria imagens detalhadas nas mentes dos colonos ao redor. Funciona através de paredes.</VFE_ArchotechSculpture.description>
 
         <!-- Pottery -->
@@ -1568,7 +1568,7 @@
             <VFE_LargeVanometricPowerCell.description>Gera muita energia livre, para sempre, sem usar combustível. Essa tecnologia é desenvolvida por IAs de alto gabarito e está além da maioria das sociedades do mundo. Enquanto ninguém sabe exatamente como funciona, os estudiosos acreditam que de alguma forma extrai energia diretamente de flutuações da espuma quântica.</VFE_LargeVanometricPowerCell.description>
 
         <!-- Archotech Violence Generator -->
-            <VPE_ArchotechViolenceGenerator.label>gerador de violência archotech</VPE_ArchotechViolenceGenerator.label>
+            <VPE_ArchotechViolenceGenerator.label>gerador de violência arquotecnológico</VPE_ArchotechViolenceGenerator.label>
             <VPE_ArchotechViolenceGenerator.description>Este dispositivo aproveita a energia psíquica que deixam os corpos dos humanóides circundantes, transformando-a diretamente em energia utilizável. Essa tecnologia é desenvolvida por arquotecnológicos e está além da maioria das sociedades do mundo brilhante.</VPE_ArchotechViolenceGenerator.description>
 
     <!-- Vanilla Furniture Expanded - Production -->
@@ -3415,8 +3415,8 @@
             <VFES_ShieldGenerator_Large.description>Um dispositivo ultra-tecnológico que projeta um grande campo de energia potente ao redor de si mesmo, mas consome uma grande quantidade de energia quando ativo. Funciona através de paredes.\n\nOs geradores de escudo só são ativados quando há uma ameaça ativa presente, como uma invasão ou um cerco. Caso contrário, eles permanecem em um estado inativo e consomem muito menos energia.\n\nPode incendiar a área circundante se dano suficiente for absorvido em um curto período de tempo.</VFES_ShieldGenerator_Large.description>
 
         <!-- Archotech Shield Generator -->
-            <VFES_ShieldGenerator_Archotech.label>gerador de escudo archotech</VFES_ShieldGenerator_Archotech.label>
-            <VFES_ShieldGenerator_Archotech.description>Um dispositivo arcotecnológico que projeta um campo de energia muito potente ao redor de si mesmo. Funciona através de paredes.\n\nOs geradores de escudo só são ativados quando há uma ameaça ativa presente, como uma invasão ou um cerco.\n\nPode incendiar a área circundante se dano suficiente for absorvido em um curto período de tempo.</VFES_ShieldGenerator_Archotech.description>
+            <VFES_ShieldGenerator_Archotech.label>gerador de escudo arquotecnológico</VFES_ShieldGenerator_Archotech.label>
+            <VFES_ShieldGenerator_Archotech.description>Um dispositivo arquotecnológico que projeta um campo de energia muito potente ao redor de si mesmo. Funciona através de paredes.\n\nOs geradores de escudo só são ativados quando há uma ameaça ativa presente, como uma invasão ou um cerco.\n\nPode incendiar a área circundante se dano suficiente for absorvido em um curto período de tempo.</VFES_ShieldGenerator_Archotech.description>
 
         <!-- Barrier -->
             <VFES_Barrier.label>barricada</VFES_Barrier.label>

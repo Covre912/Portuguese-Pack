@@ -104,6 +104,35 @@
             <AC_Gun_MACRifle.tools.1.label>coronha</AC_Gun_MACRifle.tools.1.label>
             <AC_Gun_MACRifle.tools.2.label>cano</AC_Gun_MACRifle.tools.2.label>
 
+    <!-- Anbu And Leaf Flak Jacket -->
+        <!-- Tanto -->
+            <MeleeWeapon_Tanto.label>tanto</MeleeWeapon_Tanto.label>
+            <MeleeWeapon_Tanto.description>"O tanto foi projetado principalmente como uma arma de esfaqueamento, mas a lâmina também pode ser usada para cortar."</MeleeWeapon_Tanto.description>
+            <MeleeWeapon_Tanto.tools.0.label>cabo</MeleeWeapon_Tanto.tools.0.label>
+            <MeleeWeapon_Tanto.tools.1.label>ponta</MeleeWeapon_Tanto.tools.1.label>
+            <MeleeWeapon_Tanto.tools.2.label>lâmina</MeleeWeapon_Tanto.tools.2.label>
+
+        <!-- Ninjato -->
+            <MeleeWeapon_Ninjato.label>ninjato</MeleeWeapon_Ninjato.label>
+            <MeleeWeapon_Ninjato.description>Arma preferida que os shinobi gostam de carregar.</MeleeWeapon_Ninjato.description>
+            <MeleeWeapon_Ninjato.tools.0.label>cabo</MeleeWeapon_Ninjato.tools.0.label>
+            <MeleeWeapon_Ninjato.tools.1.label>ponta</MeleeWeapon_Ninjato.tools.1.label>
+            <MeleeWeapon_Ninjato.tools.2.label>lâmina</MeleeWeapon_Ninjato.tools.2.label>
+
+        <!-- Fuma -->
+            <MeleeWeapon_Fuma.label>fuma shuriken</MeleeWeapon_Fuma.label>
+            <MeleeWeapon_Fuma.description>"Fuma Shuriken são grandes armas de projétil de quatro lâminas que possuem nitidez e letalidade preeminentes, no entanto, esta é modificada para se parecer com uma espada"</MeleeWeapon_Fuma.description>
+            <MeleeWeapon_Fuma.tools.0.label>cabo</MeleeWeapon_Fuma.tools.0.label>
+            <MeleeWeapon_Fuma.tools.1.label>ponta</MeleeWeapon_Fuma.tools.1.label>
+            <MeleeWeapon_Fuma.tools.2.label>lâmina</MeleeWeapon_Fuma.tools.2.label>
+
+        <!-- Kunai -->
+            <Weapon_Kunai.label>kunai</Weapon_Kunai.label>
+            <Weapon_Kunai.description>"Ferramenta básica, Nas mãos de um especialista em artes marciais, a kunai pode ser usada como uma arma multifuncional."</Weapon_Kunai.description>
+            <Weapon_Kunai.tools.0.label>ponta</Weapon_Kunai.tools.0.label>
+            <Weapon_Kunai.tools.1.label>lâmina</Weapon_Kunai.tools.1.label>
+            <Bullet_Kunai.label>kunai</Bullet_Kunai.label>
+
     <!-- RimEffect: Core -->
         <!-- Heavy Mass Accelerator -->
             <RE_YMIRMassAccelerator.label>acelerador de massa pesado</RE_YMIRMassAccelerator.label>

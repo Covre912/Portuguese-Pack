@@ -41,5 +41,10 @@
             <creditee>Uslyst</creditee>
         </li>
 
+        <li Class="CreditRecord_Role">
+            <roleKey>Credit_Translator</roleKey>
+            <creditee>Nem te conto</creditee>
+        </li>
+
     </credits>
 </LanguageInfo>

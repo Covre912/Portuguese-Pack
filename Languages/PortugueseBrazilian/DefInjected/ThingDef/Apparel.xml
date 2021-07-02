@@ -15,6 +15,37 @@
             <AC_Apparel_ProtectorateArmor.label>armadura de protetorado</AC_Apparel_ProtectorateArmor.label>
             <AC_Apparel_ProtectorateArmor.description>Uma armadura leve e potente. Placas em tecido de plastiaço em camadas são eficazes para interromper os ataques, com poucas seções de articulação vulneráveis. Assistentes neuro-meméticos permitem que um humano use a armadura e ainda se mova com facilidade.</AC_Apparel_ProtectorateArmor.description>
 
+    <!-- Anbu And Leaf Flak Jacket -->
+        <!-- Headband -->
+            <Apparel_Headband.label>protetor de testa</Apparel_Headband.label>
+            <Apparel_Headband.description>"Os protetores de testa são usados pela maioria dos shinobi e são gravados com o símbolo de sua aldeia."</Apparel_Headband.description>
+
+        <!-- Headband Mask -->
+            <Apparel_Headband_Mask.label>protetor de testa e máscara</Apparel_Headband_Mask.label>
+            <Apparel_Headband_Mask.description>"Os protetores de testa são usados pela maioria dos shinobi e são gravados com o símbolo de sua aldeia."</Apparel_Headband_Mask.description>
+
+        <!-- Anbu Mask -->
+            <Apparel_Anbu_Mask_One.label>máscara Anbu</Apparel_Anbu_Mask_One.label>
+            <Apparel_Anbu_Mask_One.description>"Os Anbu usam máscaras com fendas no lugar dos olhos e o símbolo da aldeia gravado na testa, Estes podem ou não têm padrões sobre eles também."</Apparel_Anbu_Mask_One.description>
+            <Apparel_Anbu_Mask_Two.label>máscara Anbu</Apparel_Anbu_Mask_Two.label>
+            <Apparel_Anbu_Mask_Two.description>"Os Anbu usam máscaras com fendas no lugar dos olhos e o símbolo da aldeia gravado na testa, Estes podem ou não têm padrões sobre eles também."</Apparel_Anbu_Mask_Two.description>
+
+        <!-- Leaf Uniform Apparel -->
+            <Apparel_Leaf_Uniform.label>uniforme da folha</Apparel_Leaf_Uniform.label>
+            <Apparel_Leaf_Uniform.description>"Vestimenta ninja básica emitida na vila da folha. É otimizado para todas as situações, por isso muitos ninjas o usam não apenas em missões, mas também durante o tempo de inatividade."</Apparel_Leaf_Uniform.description>
+
+        <!-- Leaf Flak Vest -->
+            <Apparel_Leaf_Flak_Jacket.label>colete da folha</Apparel_Leaf_Flak_Jacket.label>
+            <Apparel_Leaf_Flak_Jacket.description>"Os coletes da Folha têm vários bolsos e bolsas que podem ser usados para armazenar e acessar rapidamente armas e outros suprimentos. Quando em missões, eles fornecem proteção pelo menos parcial contra danos por trauma de força bruta, estilhaços, outros projéteis e até lâminas."</Apparel_Leaf_Flak_Jacket.description>
+
+        <!-- Leaf Anbu Uniform Apparel -->
+            <Apparel_LeafAnbu_Uniform.label>uniforme Anbu</Apparel_LeafAnbu_Uniform.label>
+            <Apparel_LeafAnbu_Uniform.description>"Vestimenta básica ninja que é emitida da Anbu na vila da folha. Ele é otimizado para todas as situações, por isso muitos ninjas o usam não apenas em missões, mas também durante o tempo de inatividade."</Apparel_LeafAnbu_Uniform.description>
+
+        <!-- Leaf Flak Vest -->
+            <Apparel_Flak_Jacket_AnbuLeaf.label>colete Anbu</Apparel_Flak_Jacket_AnbuLeaf.label>
+            <Apparel_Flak_Jacket_AnbuLeaf.description>"Os coletes Anbu da folha têm vários bolsos que podem ser usados para armazenar e acessar rapidamente armas e outros suprimentos. Quando em missões, eles fornecem proteção pelo menos parcial contra danos por trauma de força bruta, estilhaços, outros projéteis e até lâminas."</Apparel_Flak_Jacket_AnbuLeaf.description>
+
     <!-- Jewelry -->
         <!-- Gold Bracelet -->
             <Jewelry_Bracelet.label>bracelete de ouro</Jewelry_Bracelet.label>
@@ -511,7 +542,7 @@
 
     <!-- Vanilla Factions Expanded - Insectoids -->
         <!-- Archotech Shield Belt -->
-            <VFEI_Apparel_ArchotechShieldBelt.label>cinto de escudo archotech</VFEI_Apparel_ArchotechShieldBelt.label>
+            <VFEI_Apparel_ArchotechShieldBelt.label>cinto de escudo arquotecnológico</VFEI_Apparel_ArchotechShieldBelt.label>
             <VFEI_Apparel_ArchotechShieldBelt.description>Um dispositivo de escudo psíquico feito por uma IA superior, que cobre o usuário com uma bolha impenetrável. Ele parará qualquer projétil em movimento rápido ou ataque de energia. Não faz nada contra ataques corpo-a-corpo ou tiros à queima-roupa. Esta versão avançada tem maior capacidade, mas não possui mecanismo de recarga.</VFEI_Apparel_ArchotechShieldBelt.description>
 
         <!-- Riot Armor -->

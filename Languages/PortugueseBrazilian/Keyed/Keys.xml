@@ -390,7 +390,8 @@
     <!-- 1-2-3 Personalities -->
         <SP.LoadingLabel>Personalidades Simples - Módulo 1</SP.LoadingLabel>
         <SP.PersonalityHeader>Personalidade de {0}</SP.PersonalityHeader>
-        <SP.HiddenPersonality>Oculta: A personalidade desta pessoa ainda não é conhecida.\nReduza sua resistência para revelar sua personalidade.</SP.HiddenPersonality>
+        <SP.HiddenPrisonerPersonality>Oculta: A personalidade desta pessoa ainda não é conhecida.\nReduza sua resistência para revelar sua personalidade.</SP.HiddenPrisonerPersonality>
+        <SP.HiddenPersonality>Oculta: A personalidade desta pessoa é desconhecida, pois ela não é membro de sua facção.</SP.HiddenPersonality>
         <SP.HiddenAnimalPersonality>A personalidade deste animal ainda não é conhecida.\nDomestique o animal para descobrir sua natureza.</SP.HiddenAnimalPersonality>
         <SP.HiddenAnimalOfFactionPersonality>A personalidade deste animal ainda não é conhecida.\nTreine o animal ou espere alguns dias para descobrir sua personalidade.</SP.HiddenAnimalOfFactionPersonality>
         <SP.AnimalReveal.Training>{0} passou bastante tempo com {1} para entender sua natureza.</SP.AnimalReveal.Training>
@@ -404,11 +405,37 @@
         <SPS.Yes>Sim</SPS.Yes>
         <SPS.No>Não</SPS.No>
         <SPS.VisualCat>Visual</SPS.VisualCat>
-        <SPS.UseSingleColor>Rótulos de descrição monocromáticos: se ativados, substitui os rótulos de descrição de personalidade multicoloridos por uma única cor, que pode ser mais fácil de ler.\nRequer recarregar o jogo salvo para ter efeito completo.</SPS.UseSingleColor>
+        <SPS.UseSingleColor>Rótulos de descrição monocromáticos: Se ativados, substitui os rótulos de descrição de personalidade multicoloridos por uma única cor, que pode ser mais fácil de ler.\nRequer recarregar o jogo salvo para ter efeito completo.</SPS.UseSingleColor>
         <SPS.AnimalCat>Animais</SPS.AnimalCat>
         <SPS.AnimalTicksToReveal>Tempo para revelar animais: o tempo, em ticks, após o qual um animal domesticado revelará automaticamente sua personalidade.\nHá 60 ticks por segundo.</SPS.AnimalTicksToReveal>
         <SPS.AnimalPersonalityOnTrainChance>Revelação de personalidade na chance de treinamento: A chance percentual de a personalidade de um animal domesticado ser revelada em uma tentativa de treinamento.</SPS.AnimalPersonalityOnTrainChance>
-        <SPS.DoAnimalHediffs>Habilitar bônus de animais: habilita ou desabilita efeitos de animais (bônus).</SPS.DoAnimalHediffs>
+        <SPS.DoAnimalHediffs>Habilitar bônus de animais: Habilita ou desabilita efeitos de animais (bônus).</SPS.DoAnimalHediffs>
+
+        <SPS.ExtraBioHeight>Altura extra da bio: A altura adicional que é adicionada à janela da bio do personagem, para acomodar a descrição da personalidade. Diminua se a janela sair do topo da tela.</SPS.ExtraBioHeight>
+        <SPS.FreezeDescriptions>Congelar descrições: Em vez de usar um sistema de sementes aleatórias, a descrição da personalidade do personagem é salva com o mapa, garantindo a consistência da descrição ao custo de tamanho de arquivo e tempo de carregamento.\nApós ativado, alterar a opção de descrições monocromáticas não terá nenhum efeito.</SPS.FreezeDescriptions>
+
+        <SP.EditingFor>Personalidade: {0}</SP.EditingFor>
+        <SP.Change>Alterar</SP.Change>
+        <SP.MissingPart>Nenhum(a)</SP.MissingPart>
+        <SP.RootLabel>Raiz: {0}</SP.RootLabel>
+        <SP.VariantLabel>Variante: {0}</SP.VariantLabel>
+        <SP.MainTraitLabel>Traço principal: {0}</SP.MainTraitLabel>
+        <SP.SecondaryTraitLabel>Traço secundário: {0}</SP.SecondaryTraitLabel>
+        <SP.OptionalTraitLabel>Traço opcional: {0}</SP.OptionalTraitLabel>
+        <SP.InvalidWarning>Personalidade inválida! Por favor, crie uma personalidade válida ou isso causará erros graves!\nHumanos precisam de uma raiz, de uma variante, de um traço principal e de um secundário.\nAnimais precisam de uma raiz e de uma variante.</SP.InvalidWarning>
+        <SP.RollNewDescription>Aleatorizar Descrição</SP.RollNewDescription>
+        <SP.TweakDescription>Ajustar Descrição</SP.TweakDescription>
+        <SP.ApplyToCharacter>Aplicar</SP.ApplyToCharacter>
+        <SP.Seeds>Sementes:</SP.Seeds>
+        <SP.AddSeed>Adicionar</SP.AddSeed>
+        <SP.RemoveSeed>Remover</SP.RemoveSeed>
+        <SP.EditPersonality>Personalidade</SP.EditPersonality>
+        <SP.EditPersonalities>Personalidades</SP.EditPersonalities>
+        <SP.Personalities>Personalidades</SP.Personalities>
+        <SP.PrepareCarefullyPatchLabel>Corrigindo para preparação...</SP.PrepareCarefullyPatchLabel>
+        <SP.CharacterEditorPatchLabel>Corrigindo para edição...</SP.CharacterEditorPatchLabel>
+        <SP.DoesNotHavePersonality>Este colono não tem personalidade.</SP.DoesNotHavePersonality>
+        <SP.SeedExplaination>Cada semente muda uma parte específica da descrição.\nDependendo do tipo e comprimento da descrição, alguns valores de semente podem não fazer nada.</SP.SeedExplaination>
 
     <!-- Achtung! -->
         <!-- Positioning Enabled-->
@@ -2586,7 +2613,7 @@
             <WMH_Golem_LetterText>perdeu seu grupo de ataque para uma grande monstruosidade feita de pedra, quase indestrutível com armas convencionais. Um contrato de caça a um Golem foi dado a você.\n\nGolens são matéria irracional trazida à vida por anomalias psíquicas. Golens não usam armas, pois eles não precisam - seus punhos, pesando mais de 45 quilos cada, podem esmagar granito sólido com um golpe. Sua armadura de rocha sólida pode desviar quase todos os ataques.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Elemental\n\n</WMH_Golem_LetterText>
             <WMH_Hym_LetterText>passou por sua terceira eleição nas últimas duas semanas, com todos os líderes anteriores cometendo suicídio. Um contrato foi firmado para cuidar de um Hym que atormenta essas pessoas.\n\nHyms evitam cravar suas garras em suas vítimas. Em vez disso, esgotam sua força diretamente, infligindo sofrimento. Falando em voz que apenas a vítima ouve, Hyms levam-a a cometer atos de violência, agressão e automutilação. Aqueles atormentados por um Hym são incapazes de um sono reparador semanas depois que o Hym se foi.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Espectro\n\n</WMH_Hym_LetterText>
             <WMH_KikimoreQueen_LetterText>não é capaz de enviar caravanas ou grupos de caça devido a um grande ninho de Kikimoras nas proximidades.\n\nAs kikimoras formam colônias, tornando-as semelhantes aos insetos comuns, como as megaranhas. Uma colônia kikimora é governada por uma rainha e organizada em uma espécie de hierarquia social. A mordida da Rainha injeta um veneno paralisante, enquanto sua armadura de quitina a torna quase imune a ataques.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Insectoide\n\n</WMH_KikimoreQueen_LetterText>
-            <WMH_Leshy_LetterText>encontrou vários cadáveres mutilados, emaranhados nas raízes e galhos de árvores e arbustos. Todos os sinais apontam para um Liche, um deus da floresta.\n\nLiche, sendo chamado de criação fracassada de Archotech, usa sua habilidade psíquica inata para controlar as plantas e animais dentro de seu território. Quando um invasor é encontrado, pode convocar matilhas de animais caçadores de humanos. Sempre ficando longe do inimigo, ele pode lançar projéteis de pura energia psíquica.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Relicto\n\n</WMH_Leshy_LetterText>
+            <WMH_Leshy_LetterText>encontrou vários cadáveres mutilados, emaranhados nas raízes e galhos de árvores e arbustos. Todos os sinais apontam para um Liche, um deus da floresta.\n\nLiche, sendo chamado de criação arquotecnlógica fracassada, usa sua habilidade psíquica inata para controlar as plantas e animais dentro de seu território. Quando um invasor é encontrado, pode convocar matilhas de animais caçadores de humanos. Sempre ficando longe do inimigo, ele pode lançar projéteis de pura energia psíquica.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Relicto\n\n</WMH_Leshy_LetterText>
             <WMH_Nekker_LetterText>está relatando caravanas desaparecidas e gado abatido. Todas as pistas apontam para um ninho de Nekkers.\n\nUm nekker solitário é inofensivo. Cinco são perigosos. Dez podem matar até mesmo um veterano das guerras mecanoides. Os Nekkers sempre atacam em grupos e de surpresa. Nekkers são covardes, o que significa que tentarão correr se enfrentarem um grande perigo.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Ogróide\n\n</WMH_Nekker_LetterText>
             <WMH_Werewolf_LetterText>assinou um contrato para a caça de uma pequena matilha de lobisomens que perseguiam fazendeiros e viajantes pobres o suficiente na área local.\n\nNem animal, nem homem, o Lobisomem tira o pior de ambas as espécies: a sede de sangue e a natureza primitiva de um lobo da madeira, e a crueldade e crueldade de um humano. Temidos pelos anciãos tribais, os lobisomens são quase impossíveis de matar devido à rápida regeneração de feridas.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Amaldiçoado\n\n</WMH_Werewolf_LetterText>
             <WMH_Wraith_LetterText>recentemente restringiu a entrada em suas valas comuns devido a luzes bizarras e gritos de tormento. Todas as pistas apontam para um grupo de Aparições.\n\nAparições sofrem uma dor infinita e indescritível. Cheios de raiva e uma sensação de terem sido injustiçados, ambos invejam os vivos e transbordam de um ódio avassalador por eles. Seus fortes ataques de garras podem derrubar até mesmo o mais resistente dos cavaleiros.\n\n&lt;color=#33d733&gt;Classe:&lt;/color&gt; Espectro\n\n</WMH_Wraith_LetterText>
