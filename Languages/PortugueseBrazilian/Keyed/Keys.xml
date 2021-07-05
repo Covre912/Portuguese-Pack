@@ -2563,6 +2563,166 @@
             <RimHUD.TextStyle.Size>Tamanho</RimHUD.TextStyle.Size>
             <RimHUD.TextStyle.Height>Altura</RimHUD.TextStyle.Height>
 
+    <!-- Rim of Madness - Vampires -->
+        <ROMV_VampiresOnly>Apenas vampiros</ROMV_VampiresOnly>
+        <ROMV_VampiresOnlyDesc>Apenas vampiros podem utilizar esta cama.</ROMV_VampiresOnlyDesc>
+        <ROMV_AttemptedDiablerie>{PAWN_labelShort} tentou Diablerie</ROMV_AttemptedDiablerie>
+        <ROMV_VampireDiablerieAttemptedLetter>{PAWN_labelShort} tentou consumir a alma de {VICTIM_labelShort} através do ato proibido de Diablerie! {PAWN_pronoun} agora deve descer {VICTIM_labelShort} em combate para continuar o processo.</ROMV_VampireDiablerieAttemptedLetter>
+        <ROMV_VampireSettingsButton>Abra as configurações de vampiro</ROMV_VampireSettingsButton>
+        <ROMV_VampireSettingsUnavailable>Configurações de vampiro atualmente indisponíveis. Comece um novo jogo ou carregue um jogo para editar as configurações de vampiros.</ROMV_VampireSettingsUnavailable>
+        <ROMV_Slider_SunDimmingTooltip>Diminuir o brilho do sol aumentará a duração das noites neste RimWorld em particular. 10% é o padrão. Aviso: Reduzir muito o sol pode prejudicar a vida selvagem e os ecossistemas.</ROMV_Slider_SunDimmingTooltip>
+        <ROMV_Slider_SunDimming>Porcentagem de escurecimento do sol</ROMV_Slider_SunDimming>
+        <ROMV_Slider_LowestActiveGenTooltip>Esta configuração determina a geração mais baixa possível para os vampiros encontrados fora de caixões antigos imperturbados ou eventos especiais. Números de geração mais altos significam vampiros mais fracos. Números de geração mais baixos significam vampiros mais fortes. A 4ª é a opção mínima aqui, porque a 3ª geração é o ancestral original de cada clã, e da qual existe apenas um. 7 é recomendado.</ROMV_Slider_LowestActiveGenTooltip>
+        <ROMV_Slider_LowestActiveGen>Menor geração ativa</ROMV_Slider_LowestActiveGen>
+        <ROMV_Slider_GlobalSpreadTooltip>Esta configuração determina quanto da população mundial são vampiros. 5% é recomendado.</ROMV_Slider_GlobalSpreadTooltip>
+        <ROMV_Slider_GlobalSpreadRight>100%</ROMV_Slider_GlobalSpreadRight>
+        <ROMV_Slider_GlobalSpreadLeft>0%</ROMV_Slider_GlobalSpreadLeft>
+        <ROMV_Slider_GlobalSpread>Porcentagem de vampirismo global</ROMV_Slider_GlobalSpread>
+        <ROMV_GameMode_Disabled>Desativado</ROMV_GameMode_Disabled>
+        <ROMV_GameMode_DisabledDesc>Os vampiros não surgem no mundo. Os eventos de vampiro são desativados.</ROMV_GameMode_DisabledDesc>
+        <ROMV_GameMode_EventsOnly>Apenas eventos</ROMV_GameMode_EventsOnly>
+        <ROMV_GameMode_EventsOnlyDesc>Os vampiros não aparecem em encontros ou ataques, mas podem aparecer em mapas locais especiais ou em incidentes mundiais.</ROMV_GameMode_EventsOnlyDesc>
+        <ROMV_GameMode_Standard>Padrão</ROMV_GameMode_Standard>
+        <ROMV_GameMode_StandardDesc>A chance de outro personagem que você encontrar ter Vampirismo é de 5%, e o vampiro de geração mais baixa ativo fora dos eventos é a 7ª geração.</ROMV_GameMode_StandardDesc>
+        <ROMV_GameMode_Custom>Personalização</ROMV_GameMode_Custom>
+        <ROMV_GameMode_CustomDesc>Defina a taxa de desova de vampiros e a geração mais baixa de vampiros.</ROMV_GameMode_CustomDesc>
+        <ROMV_CannotPossessVamps>Não importa o quão poderoso seja o dominador, não se pode possuir outro parente.</ROMV_CannotPossessVamps>
+        <ROMV_VampiresArrivalLabel>Vampiros chegaram</ROMV_VampiresArrivalLabel>
+        <ROMV_VampiresArrivalDesc>Um ou mais vampiros chegaram. Pise levemente. Vampiros que chegam: {0}</ROMV_VampiresArrivalDesc>
+        <ROMV_QuestHandleVampire>Nossas informações sugerem que este é um covil de vampiro.</ROMV_QuestHandleVampire>
+        <ROMV_SP_NoAI>Política de luz solar: Sem IA - Isso remove todas as verificações de IA relacionadas à luz solar.</ROMV_SP_NoAI>
+        <ROMV_DeadlyOperationShort>MORTAL</ROMV_DeadlyOperationShort>
+        <ROMV_PowerfulVampireLabel>Vampiro poderoso</ROMV_PowerfulVampireLabel>
+        <ROMV_PowerfulVampireDesc>{0} vampiros de {1} geração. Vampiros poderosos tendem a ser extremamente perigosos, então pise com cuidado.</ROMV_PowerfulVampireDesc>
+        <ROMV_HI_Pain>Dor: x{0}</ROMV_HI_Pain>
+        <ROMV_HI_Senses>Sentidos: +{0}</ROMV_HI_Senses>
+        <ROMV_HI_Vigor>Vigor: +{0}</ROMV_HI_Vigor>
+        <ROMV_LevelUpGhoul>{0} ganhou um nível nas disciplinas de ghoul.</ROMV_LevelUpGhoul>
+        <ROMV_LostGhoulPowers>Enquanto {0} não tem vitae, [PAWN_pronoun] perdeu suas habilidades de ghoul.</ROMV_LostGhoulPowers>
+        <ROMV_GhoulSheet>Habilidades do ghoul</ROMV_GhoulSheet>
+        <ROMV_XPDescGhoul>Ghouls ganham pontos de experiência executando todos os tipos de trabalhos na colônia. No entanto, eles ganham XP pela metade da taxa que os vampiros ganham.</ROMV_XPDescGhoul>
+        <ROMV_DomitorVitaeIsTooWeak>O vitae de {0} é muito fraco para permitir o aprendizado de disciplinas superiores.</ROMV_DomitorVitaeIsTooWeak>
+        <ROMV_GhoulPower_Modern>Atual</ROMV_GhoulPower_Modern>
+        <ROMV_GhoulPower_Old>Velho</ROMV_GhoulPower_Old>
+        <ROMV_GhoulPower_Ancient>Antigo</ROMV_GhoulPower_Ancient>
+        <ROMV_GhoulPower_Primeval>Primitivo</ROMV_GhoulPower_Primeval>
+        <ROMV_GhoulDesc>{0} ghoul da {1} linha de sangue.</ROMV_GhoulDesc>
+        <ROMV_GhoulVitaeDesc>Ghouls possuem sangue mortal e vitae vampírica. Como acontece com os vampiros, a vitae é usada para alimentar habilidades. Ghouls perderão um ponto de vitae por temporada. ghouls especiais, conhecidos como revenants, fabricam sua própria vitae e ganham uma vitae a cada dois dias.</ROMV_GhoulVitaeDesc>
+        <ROMV_CreateGhoul>Causará vício</ROMV_CreateGhoul>
+        <ROMV_GiveVitae>Transformar em ghoul</ROMV_GiveVitae>
+        <ROMV_HI_GhoulImmunities>Previne: efeitos do envelhecimento</ROMV_HI_GhoulImmunities>
+        <ROMV_BondStage_Thrall>Estágio III (servo)</ROMV_BondStage_Thrall>
+        <ROMV_BondStage_SecondTaste>Estágio II (segunda mordida)</ROMV_BondStage_SecondTaste>
+        <ROMV_BondStage_FirstTaste>Estágio I (primeira mordida)</ROMV_BondStage_FirstTaste>
+        <ROMV_BondStage_None>Sem ligação</ROMV_BondStage_None>
+        <ROMV_HI_BondStage>Estágio de ligação de sangue:</ROMV_HI_BondStage>
+        <ROMV_HI_Ghoul>Ghoul</ROMV_HI_Ghoul>
+        <ROMV_HI_GhoulDomitor>Dominador: {0}</ROMV_HI_GhoulDomitor>
+        <ROMV_HI_GhoulRevenant>Revenant</ROMV_HI_GhoulRevenant>
+        <ROMV_HI_GhoulRevenantDesc>Revenants são ghouls hereditários capazes de gerar sua própria vitae a partir de seu sangue ao longo do tempo.</ROMV_HI_GhoulRevenantDesc>
+        <ROMV_BloodBondStrained>{0} Enfraqueceu seu vínculo de sangue com {1}.</ROMV_BloodBondStrained>
+        <ROMV_BloodBondImproved>{0} Fortaleceu um vínculo de sangue com {1}.</ROMV_BloodBondImproved>
+        <ROMV_FailedToAdjustBondStage>O sistema de {0} rejeitou a tentativa de ligação.</ROMV_FailedToAdjustBondStage>
+        <ROMV_FailedToAdjustBondStageLabel>Ligação falhou</ROMV_FailedToAdjustBondStageLabel>
+        <ROMV_FailedToAdjustBondStageDesc>O sistema de {0} ainda está se ajustando à última carga de vitae. Talvez com um pouco mais de tempo, um dia ou mais, então o corpo de {0} estará pronto para fortalecer o vínculo.</ROMV_FailedToAdjustBondStageDesc>
+        <ROMV_FailedToAdjustBondStageDescTwo>O sistema de {0} rejeitou o início de um vínculo de sangue com {1}. Atualmente, {0} ainda tem algum vínculo restante com {2} e não pode se vincular com outro. Para cada estágio do vínculo, pelo menos uma temporada deve passar para que os efeitos do vínculo desapareçam.</ROMV_FailedToAdjustBondStageDescTwo>
+        <ROMV_BecomeAGhoul>{0} tornou-se um ghoul.</ROMV_BecomeAGhoul>
+        <ROMV_BloodBondFormed>{0} agora é um escravo de {1}, após forjar um novo vínculo de sangue.</ROMV_BloodBondFormed>
+        <ROMV_SP_Restricted>Política de Luz Solar: Restrito - Este vampiro não sairá ao ar livre durante o dia, a menos que convocado e forçado a fazê-lo.</ROMV_SP_Restricted>
+        <ROMV_SP_Relaxed>Política de luz solar: Relaxado - Este vampiro pode sair durante o dia quando necessário. Esta opção pode ajudar se você tiver um vampiro preso na luz solar.</ROMV_SP_Relaxed>
+        <ROMV_RestAddedTip>Os vampiros podem descansar durante o dia e estarão totalmente descansados ao cair da noite.</ROMV_RestAddedTip>
+        <ROMV_FeedMode_CurrentType>Tipo Atual</ROMV_FeedMode_CurrentType>
+        <ROMV_FeedMode_TypeAll>Todos humanóides</ROMV_FeedMode_TypeAll>
+        <ROMV_FeedMode_TypePrisonersOnly>Apenas prisioneiros</ROMV_FeedMode_TypePrisonersOnly>
+        <ROMV_LevelUp>{0} ganhou um nível de vampirismo.</ROMV_LevelUp>
+        <ROMV_SoullessHuskOf>Carcaça de {0}</ROMV_SoullessHuskOf>
+        <ROMV_AndroidCoolant>Energia Androide</ROMV_AndroidCoolant>
+        <ROMV_AndroidCoolantVitae>Simulacrae</ROMV_AndroidCoolantVitae>
+        <ROMV_AndroidCoolantVitaeDesc>Depois de tentar processar a energia recém-introduzida e receber estranhamente gotas de sangue de vampiro, os sistemas deste androide sintetizaram uma variante de vitae para permitir o processamento contínuo e a funcionalidade do sistema.</ROMV_AndroidCoolantVitaeDesc>
+        <ROMV_AndroidCoolantDesc>Sem energia, os androides deixarão de funcionar. Curiosamente, ele se comporta de maneira muito semelhante ao sangue. Os vampiros orgânicos que tentam se alimentar de refrigerante, no entanto, podem ter dificuldade em mantê-lo no estômago.</ROMV_AndroidCoolantDesc>
+        <ROMV_AshesOf>Cinzas de {0}</ROMV_AshesOf>
+        <ROMV_NoBloodRemaining>Nenhum ponto de sangue restante.</ROMV_NoBloodRemaining>
+        <ROMV_NightLength>Diminui permanentemente a luz do sol em uma porcentagem, o que prolonga as horas da noite.</ROMV_NightLength>
+        <ROMV_NightLengthBy>O poder do sol é enfraquecido e a noite é prolongada por {0}</ROMV_NightLengthBy>
+        <ROMV_EternalDarkness>Noite prolongada (escuridão eterna)</ROMV_EternalDarkness>
+        <ROMV_CannotPurgeMechanoids>{0} não tem sangue para purgar.</ROMV_CannotPurgeMechanoids>
+        <ROMV_HI_UnusedCapacities>[PAWN_nameDef] esta com os mortos. Seu corpo não precisa da maioria das funções corporais. [PAWN_pronoun] ainda pode forçá-los a funcionar, ao se passar por ser um vivo ou quando for absolutamente necessário.</ROMV_HI_UnusedCapacities>
+        <ROMV_HI_Unused>Nenhuma</ROMV_HI_Unused>
+        <ROMV_HI_Immunities>Previne: efeitos do envelhecimento, doenças, infecções, efeitos da temperatura.</ROMV_HI_Immunities>
+        <ROMV_HI_Vampirism>Vampirismo</ROMV_HI_Vampirism>
+        <ROMV_HI_VampGeneration>Vampiro ({0} geração)</ROMV_HI_VampGeneration>
+        <ROMV_HI_Generation>{0} Geração</ROMV_HI_Generation>
+        <ROMV_HI_VitaeAvailable>{0} Pontos de Sangue Inicial</ROMV_HI_VitaeAvailable>
+        <ROMV_AnimalHerd>Chamado</ROMV_AnimalHerd>
+        <ROMV_AnimalHerdDesc>Sentindo a vontade de forças invisíveis, uma infinidade de animais inundou a área.</ROMV_AnimalHerdDesc>
+        <ROMV_MindBeingRead>Mente sendo lida: {0}</ROMV_MindBeingRead>
+        <ROMV_HediffRemoved>{0} removido</ROMV_HediffRemoved>
+        <ROMV_BloodPoints>Pontos de Sangue: {0}</ROMV_BloodPoints>
+        <ROMV_NotEnoughBloodPoints>Pontos de sangue insuficientes.</ROMV_NotEnoughBloodPoints>
+        <ROMV_VampireSheet>Habilidade de vampiro</ROMV_VampireSheet>
+        <ROMV_CharacterSheet>Personagem</ROMV_CharacterSheet>
+        <ROMV_VampireDesc>{0} vampiro da geração {1} da linha de sangue.</ROMV_VampireDesc>
+        <ROMV_Disciplines>Disciplinas</ROMV_Disciplines>
+        <ROMV_Level>Level</ROMV_Level>
+        <ROMV_PointsAvailable>Pontos disponíveis</ROMV_PointsAvailable>
+        <ROMV_NotEnoughAbilityPoints>Requer {1} pontos de habilidade. Temos {0}.</ROMV_NotEnoughAbilityPoints>
+        <ROMV_XPDesc>Os vampiros ganham pontos de experiência executando todos os tipos de trabalhos na colônia.</ROMV_XPDesc>
+        <ROMV_Feed>Drenar muito sangue(Letal) de {0}</ROMV_Feed>
+        <ROMV_LethalWarning>(Letal)</ROMV_LethalWarning>
+        <ROMV_Sip>Drenar um pouco de sangue de {0}</ROMV_Sip>
+        <ROMV_FeedVampire>Criar vínculo de sangue com {0} </ROMV_FeedVampire>
+        <ROMV_Diablerie>Consumir alma {0} </ROMV_Diablerie>
+        <ROMV_DiablerieNoBenefit>(Sem benefício: geração superior)</ROMV_DiablerieNoBenefit>
+        <ROMV_Embrace>Transformar {0} em vampiro </ROMV_Embrace>
+        <ROMV_CannotEmbrace>Não consigo transformar {0}</ROMV_CannotEmbrace>
+        <ROMV_EnterTorpor>Entrar no estado de torpor (dormir indefinidamente)</ROMV_EnterTorpor>
+        <ROMV_VampireBirthday>{0} atingiu a idade biológica de {1}. {0} colhe os benefícios da imortalidade e não sofre efeitos colaterais ou penalidades pelo envelhecimento.</ROMV_VampireBirthday>
+        <ROMV_Alert_StarvingVampire>Vampiro faminto</ROMV_Alert_StarvingVampire>
+        <ROMV_Alert_StarvingVampireDesc>Existem vampiros famintos em sua colônia. Se eles não se alimentarem rapidamente, eles podem despertar sua besta interior. Estes são os vampiros famintos: {0} Dica! Clique com o botão direito nos caixões para fazer um vampiro entrar em estado de torpor, evitando que ele se transforme na besta.</ROMV_Alert_StarvingVampireDesc>
+        <ROMV_Alert_VampireInTheSun>Vampiro na luz do sol</ROMV_Alert_VampireInTheSun>
+        <ROMV_Alert_VampireInTheSunDesc>Existem vampiros sob a luz direta do sol. Certifique-se de movê-los rapidamente para baixo de um telhado antes que o sol os queime em cinzas. Estes são os vampiros sob a luz do sol: {0}</ROMV_Alert_VampireInTheSunDesc>
+        <ROMV_Caravan_WarningMixedWithVampires>Carregue os vampiros nos caixões ou envie uma caravana só de vampiros.</ROMV_Caravan_WarningMixedWithVampires>
+        <ROMV_EmbracedSuccessfully>{PAWN_labelShort} tornou-se um vampiro, cria de {SIRE_labelShort} da {BLOODLINE_labelCap} sangue.</ROMV_EmbracedSuccessfully>
+        <ROMV_DiablerieSuccessfully>{0} consumiu a alma de {1}.</ROMV_DiablerieSuccessfully>
+        <ROMV_BloodDepletedVamp>O vitae de {0} está quase seca. Alimente-se logo ou a besta aparecerá.</ROMV_BloodDepletedVamp>
+        <ROMV_BloodDepleted>O sangue de {0} secou.</ROMV_BloodDepleted>
+        <ROMV_DeadlyOperation>Esta operação matará {0}</ROMV_DeadlyOperation>
+        <ROMV_DamageSoaked>{0} absorvido</ROMV_DamageSoaked>
+        <ROMV_HI_BodySize>Corpo: {0}</ROMV_HI_BodySize>
+        <ROMV_HI_HealthScale>Saúde: {0}</ROMV_HI_HealthScale>
+        <ROMV_HI_DamageSoaked>Dano: {0}</ROMV_HI_DamageSoaked>
+        <ROMV_HI_Bloodline>Linhagem de sangue: {0}</ROMV_HI_Bloodline>
+        <ROMV_HI_Sire>Criador: {0}</ROMV_HI_Sire>
+        <ROMV_HI_Childer>Crias: {0}</ROMV_HI_Childer>
+        <ROMV_HI_Souls>Almas: {0}</ROMV_HI_Souls>
+        <ROMV_HI_Thralls>Servos: {0}</ROMV_HI_Thralls>
+        <ROMV_HI_None>Nenhuma</ROMV_HI_None>
+        <ROMV_HI_Thinblooded>Sangue fraco. Nota: Sangues fracos não podem fazer novos vampiros, e seus poderes consomem o dobro de vitae.</ROMV_HI_Thinblooded>
+        <ROMV_Thinblooded>Sangue fraco</ROMV_Thinblooded>
+        <ROMV_Vitae>Vitae</ROMV_Vitae>
+        <ROMV_VitaeDesc>Uma vez que o sangue entra no sistema de um vampiro, ele se torna vitae, a fonte do poder de um vampiro. Este sangue infectado com a maldição de Caim pode ser obtido após se alimentar do sangue de outras pessoas. Os vampiros usam um ponto de sangue para evitar que seus corpos mortos-vivos durmam todos os dias. O sangue baixo pode fazer um vampiro libertar sua besta interior.</ROMV_VitaeDesc>
+        <ROMV_BloodTypeAnimal>Sangue de animal</ROMV_BloodTypeAnimal>
+        <ROMV_BloodTypeAverage>Sangue normal</ROMV_BloodTypeAverage>
+        <ROMV_BloodTypeLow>Sangue fraco</ROMV_BloodTypeLow>
+        <ROMV_BloodTypeHigh>Sangue nobre</ROMV_BloodTypeHigh>
+        <ROMV_BloodType_Unavailable>desconhecido</ROMV_BloodType_Unavailable>
+        <ROMV_FeedMode_Tip>Modo de alimentação de sangue, determina o que e como esse vampiro adquire sua vitae sozinho. O modo não letal drenará os alvos, mas nunca os drenará até secar. O modo letal drenará o alvo para o máximo de vitae possível, desconsiderando a segurança da vítima.</ROMV_FeedMode_Tip>
+        <ROMV_FeedMode_CurrentMode>Modo atual</ROMV_FeedMode_CurrentMode>
+        <ROMV_FeedMode_None>Sem IA de alimentação</ROMV_FeedMode_None>
+        <ROMV_FeedMode_AnimalNonLethal>Animal (não letal)</ROMV_FeedMode_AnimalNonLethal>
+        <ROMV_FeedMode_AnimalLethal>Animal (letal)</ROMV_FeedMode_AnimalLethal>
+        <ROMV_FeedMode_HumanoidNonLethal>Humanóide (não letal)</ROMV_FeedMode_HumanoidNonLethal>
+        <ROMV_FeedMode_HumanoidLethal>Humanóide (letal)</ROMV_FeedMode_HumanoidLethal>
+        <ROMV_StartingVampires>Vampiros</ROMV_StartingVampires>
+        <ROMV_MaxVampires>Máximo de vampiros iniciais</ROMV_MaxVampires>
+        <ROMV_VampireGeneration>Faixa de Geração {0}</ROMV_VampireGeneration>
+        <ROMV_StartInCoffins>Em (a) caixão (s)</ROMV_StartInCoffins>
+        <ROMV_Chance>chance</ROMV_Chance>
+        <ROMV_ChanceOf>{0} chance de</ROMV_ChanceOf>
+        <ROMV_UnknownBloodline>Linhagem de sangue desconhecida</ROMV_UnknownBloodline>
+        <ROMV_StartingVampiresSummary>{0} será (a) {1} geração {2} vampiro (s) {3}.</ROMV_StartingVampiresSummary>
+        <ROMV_LimbRegen>{0} de {1} foi regenerado.</ROMV_LimbRegen>
+
     <!-- RimSaves -->
         <!-- RimSaves -->
             <ARS_SettingsGeneralSection>Configurações</ARS_SettingsGeneralSection>

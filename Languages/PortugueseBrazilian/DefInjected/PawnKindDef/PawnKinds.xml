@@ -282,6 +282,79 @@
             <REN7_N7AgentEngineer.label>agente aeroespacial</REN7_N7AgentEngineer.label>
             <REN7_N7AgentEngineer.labelPlural>agentes aeroespaciais</REN7_N7AgentEngineer.labelPlural>
 
+    <!-- Rim of Madness - Vampires -->
+        <!-- Abyssal Arm -->
+            <ROMV_AbyssalArmKind.label>braço abissal</ROMV_AbyssalArmKind.label>
+            <ROMV_AbyssalArmKind.labelPlural>braços abissais</ROMV_AbyssalArmKind.labelPlural>
+
+        <!-- Blood Mist -->
+            <ROMV_BloodMistKind.label>névoa de sangue</ROMV_BloodMistKind.label>
+            <ROMV_BloodMistKind.labelPlural>névoas de sangue</ROMV_BloodMistKind.labelPlural>
+
+        <!-- Mist -->
+            <ROMV_MistKind.label>névoa</ROMV_MistKind.label>
+            <ROMV_MistKind.labelPlural>névoas</ROMV_MistKind.labelPlural>
+
+        <!-- Monstrosity -->
+            <ROMV_MonstrosityA.label>monstruosidade</ROMV_MonstrosityA.label>
+            <ROMV_MonstrosityA.labelPlural>monstruosidades</ROMV_MonstrosityA.labelPlural>
+
+        <!-- Bat -->
+            <ROMV_BatKind.label>morcego</ROMV_BatKind.label>
+            <ROMV_BatKind.labelPlural>morcegos</ROMV_BatKind.labelPlural>
+
+        <!-- Bonded Mortal -->
+            <ROMV_BondedMortalKind.label>mortal vinculado</ROMV_BondedMortalKind.label>
+            <ROMV_BondedMortalKind.labelPlural>mortais ligados</ROMV_BondedMortalKind.labelPlural>
+
+        <!-- Lesser Ghould -->
+            <ROMV_LesserGhoulKind.label>ghoul menor</ROMV_LesserGhoulKind.label>
+            <ROMV_LesserGhoulKind.labelPlural>ghouls menores</ROMV_LesserGhoulKind.labelPlural>
+
+        <!-- Ghoul -->
+            <ROMV_GhoulKind.label>ghoul</ROMV_GhoulKind.label>
+            <ROMV_GhoulKind.labelPlural>ghouls</ROMV_GhoulKind.labelPlural>
+
+        <!-- Thinblood Vampire -->
+            <ROMV_ThinbloodVampireKind.label>vampiro de sangue fraco</ROMV_ThinbloodVampireKind.label>
+            <ROMV_ThinbloodVampireKind.labelPlural>vampiros de sangue fraco</ROMV_ThinbloodVampireKind.labelPlural>
+
+        <!-- Lesser Vampire -->
+            <ROMV_LesserVampireKind.label>vampiro menor</ROMV_LesserVampireKind.label>
+            <ROMV_LesserVampireKind.labelPlural>vampiros menores</ROMV_LesserVampireKind.labelPlural>
+
+        <!-- Vampire -->
+            <ROMV_VampireKind.label>vampiro</ROMV_VampireKind.label>
+            <ROMV_VampireKind.labelPlural>vampiros</ROMV_VampireKind.labelPlural>
+
+        <!-- Greater Vampire -->
+            <ROMV_GreaterVampireKind.label>vampiro maior</ROMV_GreaterVampireKind.label>
+            <ROMV_GreaterVampireKind.labelPlural>vampiros maiores</ROMV_GreaterVampireKind.labelPlural>
+
+        <!-- Ancient Vampire -->
+            <ROMV_AncientVampireKind.label>vampiro ancião</ROMV_AncientVampireKind.label>
+            <ROMV_AncientVampireKind.labelPlural>vampiros anciões</ROMV_AncientVampireKind.labelPlural>
+
+        <!-- First Vampire -->
+            <ROMV_FirstVampireKind.label>primeiro vampiro</ROMV_FirstVampireKind.label>
+            <ROMV_FirstVampireKind.labelPlural>primeiros vampiros</ROMV_FirstVampireKind.labelPlural>
+
+        <!-- Prince Vampire -->
+            <ROMV_PrinceVampireKind.label>príncipe</ROMV_PrinceVampireKind.label>
+            <ROMV_PrinceVampireKind.labelPlural>príncipes</ROMV_PrinceVampireKind.labelPlural>
+            <ROMV_PrinceVampireKind.labelMale>príncipe</ROMV_PrinceVampireKind.labelMale>
+            <ROMV_PrinceVampireKind.labelMalePlural>príncipes</ROMV_PrinceVampireKind.labelMalePlural>
+            <ROMV_PrinceVampireKind.labelFemale>princesa</ROMV_PrinceVampireKind.labelFemale>
+            <ROMV_PrinceVampireKind.labelFemalePlural>princesas</ROMV_PrinceVampireKind.labelFemalePlural>
+
+        <!-- Bat Spectral -->
+            <ROMV_BatSpectralKind.label>morcego espectral</ROMV_BatSpectralKind.label>
+            <ROMV_BatSpectralKind.labelPlural>morcegos espectrais</ROMV_BatSpectralKind.labelPlural>
+
+        <!-- Wolf Spectral -->
+            <ROMV_WolfSpectral.label>lobo espectral</ROMV_WolfSpectral.label>
+            <ROMV_WolfSpectral.labelPlural>lobos espectrais</ROMV_WolfSpectral.labelPlural>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Basilisk -->
             <WMH_Basilisk.label>basilisco</WMH_Basilisk.label>

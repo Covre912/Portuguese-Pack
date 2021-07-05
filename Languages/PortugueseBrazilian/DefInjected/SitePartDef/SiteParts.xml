@@ -30,6 +30,11 @@
             <RE_RogueSite.label>campo VI desonesto</RE_RogueSite.label>
             <RE_RogueSite.description>Uma pequena instalação executada por uma inteligência virtual desonesta.</RE_RogueSite.description>
 
+    <!-- Rim of Madness - Vampires -->
+        <!-- Ancient Vampire Crypt -->
+            <ROMV_AncientVampireCrypt.label>cripta de vampiro antigo</ROMV_AncientVampireCrypt.label>
+            <ROMV_AncientVampireCrypt.description>O local de descanso de um grande e poderoso vampiro.</ROMV_AncientVampireCrypt.description>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Mounster Encounter -->
             <WMH_Basilisk_MonsterEncounterCore.label>encontro de monstro</WMH_Basilisk_MonsterEncounterCore.label>

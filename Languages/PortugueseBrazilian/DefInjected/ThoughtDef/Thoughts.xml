@@ -531,6 +531,93 @@
             <RE_BattelTableLost.stages.0.label>eu perdi...</RE_BattelTableLost.stages.0.label>
             <RE_BattelTableLost.stages.0.description>Eu perdi um jogo bélico..</RE_BattelTableLost.stages.0.description>
 
+    <!-- Rim of Madness - Vampires -->
+        <!-- Vitae -->
+            <ROMV_IDrankVitae.stages.0.label>bebeu vitae</ROMV_IDrankVitae.stages.0.label>
+            <ROMV_IDrankVitae.stages.0.description>Isso foi incrível. Tudo parece melhor agora. Eu ... eu devo ter mais.</ROMV_IDrankVitae.stages.0.description>
+
+        <!-- Vitae Withdrawal -->
+            <ROMV_VitaeWithdrawal.stages.1.label>perca de vitae</ROMV_VitaeWithdrawal.stages.1.label>
+            <ROMV_VitaeWithdrawal.stages.1.description>É como se o mundo tivesse perdido suas cores. Eu odeio isso. Eu quero gritar.</ROMV_VitaeWithdrawal.stages.1.description>
+
+        <!-- Diablerie Attempt -->
+            <ROMV_VampireDiablerieAttemptThought.stages.0.label>fiablerie tentou me consumir</ROMV_VampireDiablerieAttemptThought.stages.0.label>
+            <ROMV_VampireDiablerieAttemptThought.stages.0.description>Algum MONSTRO tentou consumir minha alma!</ROMV_VampireDiablerieAttemptThought.stages.0.description>
+
+        <!-- Blood Bond -->
+            <ROMV_BloodBondSocialBoost.stages.0.label>bebeu o sangue deles</ROMV_BloodBondSocialBoost.stages.0.label>
+            <ROMV_BloodBondEnslavement.stages.0.label>vínculo de sangue</ROMV_BloodBondEnslavement.stages.0.label>
+
+        <!-- Lore -->
+            <ROMV_VampireLoreThought.stages.0.label>conhecimento vampírico adquirido</ROMV_VampireLoreThought.stages.0.label>
+            <ROMV_VampireLoreThought.stages.0.description>Já me sinto mais experiente. Que outros segredos poderia haver, eu me pergunto?</ROMV_VampireLoreThought.stages.0.description>
+
+        <!-- Sire -->
+            <MySireDestroyed.stages.0.label>meu(inha) senhor(a) {0} foi destruído(a)</MySireDestroyed.stages.0.label>
+            <MySireDestroyed.stages.0.description>Meu senhor foi destruído. Ele(a) se foi para sempre.</MySireDestroyed.stages.0.description>
+            <DestroyedMySire.stages.0.label>destruiu meu(inha) senhor(a)</DestroyedMySire.stages.0.label>
+
+        <!-- Blood Bonded One -->
+            <SoldMyBloodBondedOne.stages.0.label>vendido com vínculo de sangue</SoldMyBloodBondedOne.stages.0.label>
+            <SoldMyBloodBondedOne.stages.0.labelSocial>vendeu meu vínculo de sangue</SoldMyBloodBondedOne.stages.0.labelSocial>
+            <SoldMyBloodBondedOne.stages.0.description>Alguém que está ligado a mim foi vendido a um comerciante.</SoldMyBloodBondedOne.stages.0.description>
+
+        <!-- Childe -->
+            <MyChildeDestroyed.stages.0.label>minha cria {0} foi destruída</MyChildeDestroyed.stages.0.label>
+            <MyChildeDestroyed.stages.0.description>Minha cria foi destruída. Eles se foram para sempre.</MyChildeDestroyed.stages.0.description>
+            <DestroyedMyChilde.stages.0.label>destruiu minha cria</DestroyedMyChilde.stages.0.label>
+
+        <!-- Soul -->
+            <ROMV_IConsumedASoul.stages.0.label>consumiu uma alma</ROMV_IConsumedASoul.stages.0.label>
+            <ROMV_IConsumedASoul.stages.0.description>Nunca me senti tão vivo!</ROMV_IConsumedASoul.stages.0.description>
+            <ROMV_ITastedASoul.stages.0.label>provou uma alma</ROMV_ITastedASoul.stages.0.label>
+            <ROMV_ITastedASoul.stages.0.description>Verdadeiramente um sabor divino!</ROMV_ITastedASoul.stages.0.description>
+            <ROMV_AttemptedToConsumeMySoul.stages.0.label>tentaram consumir minha alma</ROMV_AttemptedToConsumeMySoul.stages.0.label>
+            <ROMV_AttemptedToConsumeMySoul.stages.0.description>Algum MONSTRO tentou consumir minha alma!</ROMV_AttemptedToConsumeMySoul.stages.0.description>
+
+        <!-- Kiss -->
+            <ROMV_IGaveTheKiss.stages.0.label>bebeu sangue fresco</ROMV_IGaveTheKiss.stages.0.label>
+            <ROMV_IGaveTheKiss.stages.0.description>É gratificante.</ROMV_IGaveTheKiss.stages.0.description>
+
+        <!-- Bitten by a Vampire -->
+            <ROMV_IWasBittenByAVampire.stages.0.label>mordido por vampiro</ROMV_IWasBittenByAVampire.stages.0.label>
+            <ROMV_IWasBittenByAVampire.stages.0.description>Uau! Que pressa!</ROMV_IWasBittenByAVampire.stages.0.description>
+            <ROMV_IWasBittenByAVampire.stages.1.label>mordido pelo mestre</ROMV_IWasBittenByAVampire.stages.1.label>
+            <ROMV_IWasBittenByAVampire.stages.1.description>Eu dei meu sangue ao mestre.</ROMV_IWasBittenByAVampire.stages.1.description>
+
+        <!-- Guest -->
+            <ROMV_KnowGuestDiedOfBloodLoss.stages.0.label>drenagem justificada</ROMV_KnowGuestDiedOfBloodLoss.stages.0.label>
+            <ROMV_KnowGuestDiedOfBloodLoss.stages.0.description>O sangue de um prisioneiro ou convidado culpado foi drenado. Parecia justificado, mas ainda assim uma maneira brutal de morrer.</ROMV_KnowGuestDiedOfBloodLoss.stages.0.description>
+            <ROMV_KnowGuestDiedOfBloodLoss.stages.1.label>alguém foi drenado até a morte</ROMV_KnowGuestDiedOfBloodLoss.stages.1.label>
+            <ROMV_KnowGuestDiedOfBloodLoss.stages.1.description>Um prisioneiro ou hóspede morreu porque a colônia esvaziou todo o sangue de seu corpo. É horrível.</ROMV_KnowGuestDiedOfBloodLoss.stages.1.description>
+
+        <!-- Colonist -->
+            <ROMV_KnowColonistDiedOfBloodLoss.stages.0.label>drenagem justificada</ROMV_KnowColonistDiedOfBloodLoss.stages.0.label>
+            <ROMV_KnowColonistDiedOfBloodLoss.stages.0.description>O sangue de um colono foi drenado. Parecia justificado, mas ainda assim uma maneira brutal de morrer.</ROMV_KnowColonistDiedOfBloodLoss.stages.0.description>
+            <ROMV_KnowColonistDiedOfBloodLoss.stages.1.label>alguém foi drenado até a morte</ROMV_KnowColonistDiedOfBloodLoss.stages.1.label>
+            <ROMV_KnowColonistDiedOfBloodLoss.stages.1.description>Um prisioneiro ou hóspede morreu porque a colônia esvaziou todo o sangue de seu corpo. É horrível.</ROMV_KnowColonistDiedOfBloodLoss.stages.1.description>
+
+        <!-- Blood Harvesting -->
+            <ROMV_KnowGuestBloodHarvested.stages.0.label>sangue colhido de alguem</ROMV_KnowGuestBloodHarvested.stages.0.label>
+            <ROMV_KnowGuestBloodHarvested.stages.0.description>A colônia tirou sangue de um hóspede ou prisioneiro. É antiético tirar o sangue de alguém quando essa pessoa não tem escolha.</ROMV_KnowGuestBloodHarvested.stages.0.description>
+            <ROMV_MyBloodHarvested.stages.0.label>meu sangue foi colhido</ROMV_MyBloodHarvested.stages.0.label>
+            <ROMV_MyBloodHarvested.stages.0.description>A colônia colheu sangue de mim. Nossa! O que eles pensam que eu sou? Algum tipo de banco de sangue?</ROMV_MyBloodHarvested.stages.0.description>
+
+        <!-- Witness -->
+            <ROMV_WitnessedVampireFeeding.stages.0.label>vampiro se alimentando</ROMV_WitnessedVampireFeeding.stages.0.label>
+            <ROMV_WitnessedVampireFeeding.stages.0.description>Ele(a) chuparou o pescoço daquele cara?</ROMV_WitnessedVampireFeeding.stages.0.description>
+            <ROMV_WitnessedVampireFeedingVisitor.stages.0.label>vampiro se alimentando</ROMV_WitnessedVampireFeedingVisitor.stages.0.label>
+            <ROMV_WitnessedVampireFeedingVisitor.stages.0.description>Alguém deveria acabar com essas coisas.</ROMV_WitnessedVampireFeedingVisitor.stages.0.description>
+            <ROMV_WitnessedVampireEmbrace.stages.0.label>vampiro transmitiu vampirismo</ROMV_WitnessedVampireEmbrace.stages.0.label>
+            <ROMV_WitnessedVampireEmbrace.stages.0.description>Essa pessoa estava viva antes. Então ela morreram. Agora ela é... diferente. Isso é irreal.</ROMV_WitnessedVampireEmbrace.stages.0.description>
+            <ROMV_WitnessedVampireEmbraceVisitor.stages.0.label>vampiro transmitiu vampirismo</ROMV_WitnessedVampireEmbraceVisitor.stages.0.label>
+            <ROMV_WitnessedVampireEmbraceVisitor.stages.0.description>Essas criaturas são abominações. Me agradaria vê-las destruídas.</ROMV_WitnessedVampireEmbraceVisitor.stages.0.description>
+            <ROMV_WitnessedVampireDiablerie.stages.0.label>vampiro consumiu alma</ROMV_WitnessedVampireDiablerie.stages.0.label>
+            <ROMV_WitnessedVampireDiablerie.stages.0.description>O que era isso saindo do corpo deles?!</ROMV_WitnessedVampireDiablerie.stages.0.description>
+            <ROMV_WitnessedVampireDiablerieVisitor.stages.0.label>vampiro consumiu alma</ROMV_WitnessedVampireDiablerieVisitor.stages.0.label>
+            <ROMV_WitnessedVampireDiablerieVisitor.stages.0.description>Prova de que essas coisas devem ser destruídas.</ROMV_WitnessedVampireDiablerieVisitor.stages.0.description>
+
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Hym -->
             <WMH_HymPunchEffect.stages.0.label>atormentado(a) pela culpa</WMH_HymPunchEffect.stages.0.label>

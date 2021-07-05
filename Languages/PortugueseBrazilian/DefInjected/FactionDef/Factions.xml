@@ -19,6 +19,30 @@
             <RE_AlliancePlayerColony.description>Uma colônia de colonos recém-chegados da Aliança.</RE_AlliancePlayerColony.description>
             <RE_AlliancePlayerColony.pawnsPlural>colonos</RE_AlliancePlayerColony.pawnsPlural>
 
+    <!-- Rim of Madness - Vampires -->
+        <!-- Legendary Vampires -->
+            <ROMV_LegendaryVampires.label>inativo</ROMV_LegendaryVampires.label>
+            <ROMV_LegendaryVampires.description>Parentesco lendário, vampiros carregando o poder de moldar ou destruir o mundo.</ROMV_LegendaryVampires.description>
+            <ROMV_LegendaryVampires.pawnsPlural>inativo</ROMV_LegendaryVampires.pawnsPlural>
+
+        <!-- Camarilla -->
+            <ROMV_Camarilla.label>camarilla</ROMV_Camarilla.label>
+            <ROMV_Camarilla.description>A Camarilla é a maior das seitas vampíricas, uma organização livre que ostensivamente representa e protege todos os vampiros. Seu objetivo é manter o status quo da sociedade vampírica; como tal, muito de sua estrutura e tradições refletem a da sociedade Cainita na Europa feudal na Idade das Trevas, e a coloca em desacordo com a agenda do Sabá e dos Anarquistas, que buscam derrubar a sociedade.</ROMV_Camarilla.description>
+            <ROMV_Camarilla.pawnsPlural>estrangeiros</ROMV_Camarilla.pawnsPlural>
+            <ROMV_Camarilla.leaderTitle>príncipe</ROMV_Camarilla.leaderTitle>
+
+        <!-- Anarch -->
+            <ROMV_Anarch.label>anarquista</ROMV_Anarch.label>
+            <ROMV_Anarch.description>Anarquistas são vampiros que rejeitam o status quo da sociedade Cainita. A organização resultante de anarquistas é chamada de Movimento Anarquista.</ROMV_Anarch.description>
+            <ROMV_Anarch.pawnsPlural>anarquistas</ROMV_Anarch.pawnsPlural>
+            <ROMV_Anarch.leaderTitle>barão</ROMV_Anarch.leaderTitle>
+
+        <!-- Sabbat -->
+            <ROMV_Sabbat.label>sabbat</ROMV_Sabbat.label>
+            <ROMV_Sabbat.description>O Sabá é uma organização frouxa de Cainitas que rejeitam as Tradições. Ao contrário da Camarilla, o Sabá acredita nos Antediluvianos e em Caim. Também conhecida como Espada de Caim, pois acreditam que será o exército que Caim usará para destruir os Antediluvianos assim que a Gehenna chegar.</ROMV_Sabbat.description>
+            <ROMV_Sabbat.pawnsPlural>sabbat</ROMV_Sabbat.pawnsPlural>
+            <ROMV_Sabbat.leaderTitle>chefe</ROMV_Sabbat.leaderTitle>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Monsters -->
             <WMH_Monsters.label>monstros</WMH_Monsters.label>

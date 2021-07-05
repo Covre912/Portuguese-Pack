@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Rim of Madness - Vampires -->
+        <ROMV_MistKind.label>Névoa</ROMV_MistKind.label>
+        <ROMV_BatKind.label>Forma de morcego</ROMV_BatKind.label>
+        <ROMV_TenebrousKind.label>Sombra</ROMV_TenebrousKind.label>
+        <ROMV_WarFormKind.label>Forma de guerra</ROMV_WarFormKind.label>
+        <ROMV_ZuloKind.label>Forma zulo</ROMV_ZuloKind.label>
+
+</LanguageData>

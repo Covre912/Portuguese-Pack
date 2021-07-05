@@ -10,6 +10,15 @@
             <AC_Copy.label>cópia</AC_Copy.label>
             <AC_Copy.labelFemale>cópia</AC_Copy.labelFemale>
 
+    <!-- Rim of Madness - Vampires -->
+        <!-- Sire -->
+            <ROMV_Sire.label>criador</ROMV_Sire.label>
+            <ROMV_Sire.labelFemale>criadora</ROMV_Sire.labelFemale>
+
+        <!-- Childe -->
+            <ROMV_Childe.label>cria</ROMV_Childe.label>
+            <ROMV_Childe.labelFemale>cria</ROMV_Childe.labelFemale>
+
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Best Friend -->
             <VSIE_BestFriend.label>melhor amigo</VSIE_BestFriend.label>

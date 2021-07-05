@@ -87,6 +87,12 @@
         <!-- Local Battlefield -->
             <RE_LocalBattlefield.label>campo de batalha local</RE_LocalBattlefield.label>
 
+    <!-- Rim of Madness - Vampires -->
+        <!-- Ancient Vampire Crypt -->
+            <ROMV_QuestAncientVampireCrypt.label>cripta de vampiro antiga</ROMV_QuestAncientVampireCrypt.label>
+            <ROMV_QuestAncientVampireCrypt.letterText>A tumba de um vampiro magnificamente poderoso foi descoberta. Ousamos confrontar a criatura?</ROMV_QuestAncientVampireCrypt.letterText>
+            <ROMV_QuestAncientVampireCrypt.letterLabel>Cripta de vampiro antiga</ROMV_QuestAncientVampireCrypt.letterLabel>
+
     <!-- Vanilla Animals Expanded - Endangered -->
         <!-- Extinct Animals -->
             <AEXP_ExtintAnimalsPasses.label>animais em extinção</AEXP_ExtintAnimalsPasses.label>

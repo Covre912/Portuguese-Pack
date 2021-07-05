@@ -38,7 +38,12 @@
     <!-- Rim-Effect: N7 -->
         <!-- Blunt -->
             <REN7_Blunt.label>pancada</REN7_Blunt.label>
-            <REN7_Blunt.deathMessage>{0} foi mordid{PAWN_gender ? o : a} até a morte.</REN7_Blunt.deathMessage>
+            <REN7_Blunt.deathMessage>{0} foi mordid{0_gender ? o : a} até a morte.</REN7_Blunt.deathMessage>
+
+    <!-- Rim of Madness - Vampires -->
+        <!-- Drain -->
+          <ROMV_Drain.label>dreno</ROMV_Drain.label>
+            <ROMV_Drain.deathMessage>{0} foi drenad{0_gender ? o : a}.</ROMV_Drain.deathMessage>
 
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Virulent Toxic Bite -->

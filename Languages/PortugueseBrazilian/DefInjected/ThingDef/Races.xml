@@ -158,7 +158,7 @@
             <RttR_Skrill.tools.3.label>cabeça</RttR_Skrill.tools.3.label>
             <RttR_Skrill.verbs.0.label>sopro de estridente</RttR_Skrill.verbs.0.label>
 
-    <!-- RimEffect: Core -->
+    <!-- Rim-Effect: Core -->
         <!-- Pyjak -->
             <RE_Pyjak.label>pijaque</RE_Pyjak.label>
             <RE_Pyjak.description>Uma criatura social semelhante a um macaco com extrema adaptabilidade. Essas pequenas criaturas inteligentes são consideradas, na maioria dos lugares, um incômodo invasivo e superam a vida nativa. A curiosidade muitas vezes os torna um aborrecimento para as colônias, já que muitas vezes roubam várias peças tecnológicas porque as acham interessantes.</RE_Pyjak.description>
@@ -195,6 +195,44 @@
             <RE_Mechanoids_YMIR.label>YMIR</RE_Mechanoids_YMIR.label>
             <RE_Mechanoids_YMIR.description>O YMIR, ou Modelo 34-A, é uma enorme máquina de matar projetada para fins anti-infantaria. Vestidos com uma armadura branca como osso com luzes vermelhas, eles são utilizados pelos militares leais como suporte de infantaria, utilizando um escudo poderoso capaz de resistir a fogo pesado.</RE_Mechanoids_YMIR.description>
             <RE_Mechanoids_YMIR.tools.0.label>cabeça</RE_Mechanoids_YMIR.tools.0.label>
+
+    <!-- Rim of Madness - Vampires -->
+        <!-- Abyssal Arm -->
+            <ROMV_AbyssalArmRace.label>braço abissal</ROMV_AbyssalArmRace.label>
+            <ROMV_AbyssalArmRace.description>Um tentáculo enorme e escuro saindo do abismo.</ROMV_AbyssalArmRace.description>
+            <ROMV_AbyssalArmRace.tools.0.label>tentáculo</ROMV_AbyssalArmRace.tools.0.label>
+    
+        <!-- Blood Mist -->
+            <ROMV_BloodMistRace.label>névoa de sangue</ROMV_BloodMistRace.label>
+            <ROMV_BloodMistRace.description>Entidade de sangue latejante que flui pelo ar como uma sombra.</ROMV_BloodMistRace.description>
+            <ROMV_BloodMistRace.tools.0.label>vísceras</ROMV_BloodMistRace.tools.0.label>
+
+        <!-- Mist -->
+            <ROMV_MistRace.label>sombra</ROMV_MistRace.label>
+            <ROMV_MistRace.description>Uma sombra animada.</ROMV_MistRace.description>
+
+        <!-- Monstrosity -->
+            <ROMV_MonstrosityRace.label>monstruosidade</ROMV_MonstrosityRace.label>
+            <ROMV_MonstrosityRace.description>Uma monstruosidade de carne e osso pervertidos.</ROMV_MonstrosityRace.description>
+            <ROMV_MonstrosityRace.tools.0.label>garra esquerda</ROMV_MonstrosityRace.tools.0.label>
+            <ROMV_MonstrosityRace.tools.1.label>garra direita</ROMV_MonstrosityRace.tools.1.label>
+            <ROMV_MonstrosityRace.tools.3.label>cabeça</ROMV_MonstrosityRace.tools.3.label>
+
+        <!-- Bat -->
+            <ROMV_BatRace.label>morcego</ROMV_BatRace.label>
+            <ROMV_BatRace.description>Antes do início da era da edição genética, este animal já foi considerado o único mamífero conhecido capaz de voar.</ROMV_BatRace.description>
+
+        <!-- Bat Spectral -->
+            <ROMV_BatSpectralRace.label>morcego espectral</ROMV_BatSpectralRace.label>
+            <ROMV_BatSpectralRace.description>Uma criatura voadora fantasmagórica que se assemelha a um morcego vampiro.</ROMV_BatSpectralRace.description>
+            <ROMV_BatSpectralRace.tools.0.label>garra esquerda</ROMV_BatSpectralRace.tools.0.label>
+            <ROMV_BatSpectralRace.tools.1.label>garra direita</ROMV_BatSpectralRace.tools.1.label>
+            <ROMV_BatSpectralRace.tools.3.label>cabeça</ROMV_BatSpectralRace.tools.3.label>
+
+        <!-- Wolf Spectral -->
+            <ROMV_WolfSpectralRace.label>lobo espectral</ROMV_WolfSpectralRace.label>
+            <ROMV_WolfSpectralRace.description>Este rosto temível dar arrepios na espinha, pois este lobo parece não ser deste mundo.</ROMV_WolfSpectralRace.description>
+
 
     <!-- RimWorld - Wither Monster Hunt -->
         <!-- Basilisk -->

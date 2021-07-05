@@ -469,6 +469,40 @@
             <RE_PrefabAutoDoorIndustrial.label>porta automática industrial pré-fab.</RE_PrefabAutoDoorIndustrial.label>
             <RE_PrefabAutoDoorIndustrial.description>Uma porta pesada de aço que divide os cômodos. A operação motorizada permite que as pessoas passem pela porta sem serem desaceleradas.</RE_PrefabAutoDoorIndustrial.description>
 
+    <!-- Rim of Madness - Vampires -->
+        <!-- Sealed Coffin -->
+            <ROMV_SealedCoffin.label>caixão selado</ROMV_SealedCoffin.label>
+            <ROMV_SealedCoffin.description>Criado para preservar e selar vampiros com poder significativo.</ROMV_SealedCoffin.description>
+
+        <!-- Simple Coffin -->
+            <ROMV_SimpleCoffin.label>caixão</ROMV_SimpleCoffin.label>
+            <ROMV_SimpleCoffin.description>Um receptáculo funerário para os mortos.</ROMV_SimpleCoffin.description>
+
+        <!-- Royal Coffin -->
+            <ROMV_RoyalCoffin.label>caixão real</ROMV_RoyalCoffin.label>
+            <ROMV_RoyalCoffin.description>Um luxuoso receptáculo funerário ornamentado para os mortos grandemente homenageados.</ROMV_RoyalCoffin.description>
+
+        <!-- Royal Coffin Double -->
+            <ROMV_RoyalCoffinDouble.label>caixão duplo real</ROMV_RoyalCoffinDouble.label>
+            <ROMV_RoyalCoffinDouble.description>Um luxuoso receptáculo funerário ornamentado para os mortos grandemente homenageados. Modificado para permitir que um casal descanse junto. (Buggy por enquanto. Não use isso.)</ROMV_RoyalCoffinDouble.description>
+
+        <!-- Sarcophagus Bed -->
+            <ROMV_SarcophagusBed.label>local de dormir</ROMV_SarcophagusBed.label>
+            <ROMV_SarcophagusBed.description>Designa um local no chão onde as pessoas deveriam dormir. Não é confortável.</ROMV_SarcophagusBed.description>
+
+        <!-- Simple Coffin Bed -->
+            <ROMV_SimpleCoffinBed.label>local de dormir</ROMV_SimpleCoffinBed.label>
+            <ROMV_SimpleCoffinBed.description>Designa um local no chão onde as pessoas deveriam dormir. Não é confortável.</ROMV_SimpleCoffinBed.description>
+
+        <!-- Royal Coffin Bed -->
+            <ROMV_RoyalCoffinBed.label>local de dormir</ROMV_RoyalCoffinBed.label>
+            <ROMV_RoyalCoffinBed.description>Designa um local no chão onde as pessoas deveriam dormir. Não é confortável.</ROMV_RoyalCoffinBed.description>
+
+        <!-- Royal Coffin Double Bed -->
+            <ROMV_RoyalCoffinDoubleBed.label>local de dormir</ROMV_RoyalCoffinDoubleBed.label>
+            <ROMV_RoyalCoffinDoubleBed.description>Designa um local no chão onde as pessoas deveriam dormir.</ROMV_RoyalCoffinDoubleBed.description>
+
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Ghoul Victim -->
             <WMH_GhoulBody.label>vítima de ghoul</WMH_GhoulBody.label>

@@ -683,6 +683,69 @@
 			<RE_SerriceBrandy.ingestible.ingestCommandString>Beber {0}</RE_SerriceBrandy.ingestible.ingestCommandString>
 			<RE_SerriceBrandy.ingestible.ingestReportString>Bebendo {0}.</RE_SerriceBrandy.ingestible.ingestReportString>
 
+	<!-- Rim of Madness - Vampires -->
+		<!-- Corpse -->
+			<ROMV_VampCorpse.label>cadáver</ROMV_VampCorpse.label>
+			<ROMV_VampCorpse.description>Um cadáver.</ROMV_VampCorpse.description>
+
+		<!-- Blood Pack -->
+			<BloodPack_Animal.label>bolsa de sangue (animal)</BloodPack_Animal.label>
+			<BloodPack_Animal.description>Sangue animal coletado para consumo. (1 ponto de sangue)</BloodPack_Animal.description>
+			<BloodPack_Animal.ingestible.ingestCommandString>Beber {0}</BloodPack_Animal.ingestible.ingestCommandString>
+			<BloodPack_Animal.ingestible.ingestReportString>Bebendo {0}.</BloodPack_Animal.ingestible.ingestReportString>
+			<BloodPack_LowBlood.label>pacote de sangue (sangue fraco)</BloodPack_LowBlood.label>
+			<BloodPack_LowBlood.description>Sangue fraco, Sangue que não atende aos padrões régios mais elevados (prostitutas, escravos, sem-teto ou doentes), coletado em um pequeno frasco. (3 pontos de sangue)</BloodPack_LowBlood.description>
+			<BloodPack_LowBlood.ingestible.ingestCommandString>Beber {0}</BloodPack_LowBlood.ingestible.ingestCommandString>
+			<BloodPack_LowBlood.ingestible.ingestReportString>Bebendo {0}.</BloodPack_LowBlood.ingestible.ingestReportString>
+			<BloodPack_AverageBlood.label>pacote de sangue (médio)</BloodPack_AverageBlood.label>
+			<BloodPack_AverageBlood.description>Sangue que não é muito notável para um vampiro robusto nem muito fraco para ser consumido por membros superiores da sociedade vampírica. (3 pontos de sangue)</BloodPack_AverageBlood.description>
+			<BloodPack_AverageBlood.ingestible.ingestCommandString>Beber {0}</BloodPack_AverageBlood.ingestible.ingestCommandString>
+			<BloodPack_AverageBlood.ingestible.ingestReportString>Bebendo {0}.</BloodPack_AverageBlood.ingestible.ingestReportString>
+			<BloodPack_HighBlood.label>pacote de sangue (sangue alto)</BloodPack_HighBlood.label>
+			<BloodPack_HighBlood.description>Sangue alto, Sangue adequado para vampiros reais (o sangue de aristocratas ou indivíduos ricos), armazenado em um pacote. (3 pontos de sangue)</BloodPack_HighBlood.description>
+			<BloodPack_HighBlood.ingestible.ingestCommandString>Beber {0}</BloodPack_HighBlood.ingestible.ingestCommandString>
+			<BloodPack_HighBlood.ingestible.ingestReportString>Bebendo {0}.</BloodPack_HighBlood.ingestible.ingestReportString>
+
+		<!-- Blood Vial -->
+			<BloodVial_LowBlood.label>frasco de sangue (fraco)</BloodVial_LowBlood.label>
+			<BloodVial_LowBlood.description>Sangue fraco, Sangue que não atende aos padrões régios mais elevados, coletado em um pequeno frasco. (1 ponto de sangue)</BloodVial_LowBlood.description>
+			<BloodVial_LowBlood.ingestible.ingestCommandString>Beber {0}</BloodVial_LowBlood.ingestible.ingestCommandString>
+			<BloodVial_LowBlood.ingestible.ingestReportString>Bebendo {0}.</BloodVial_LowBlood.ingestible.ingestReportString>
+			<BloodVial_AverageBlood.label>frasco de sangue (médio)</BloodVial_AverageBlood.label>
+			<BloodVial_AverageBlood.description>Sangue que não é muito notável para um vampiro robusto nem muito baixo para ser consumido por membros superiores da sociedade vampírica. (1 ponto de sangue)</BloodVial_AverageBlood.description>
+			<BloodVial_AverageBlood.ingestible.ingestCommandString>Beber {0}</BloodVial_AverageBlood.ingestible.ingestCommandString>
+			<BloodVial_AverageBlood.ingestible.ingestReportString>Bebendo {0}.</BloodVial_AverageBlood.ingestible.ingestReportString>
+			<BloodVial_HighBlood.label>frasco de sangue (sangue alto)</BloodVial_HighBlood.label>
+			<BloodVial_HighBlood.description>Sangue alto, Sangue adequado para vampiros reais (o sangue de aristocratas ou indivíduos ricos), armazenado em um frasco.</BloodVial_HighBlood.description>
+			<BloodVial_HighBlood.ingestible.ingestCommandString>Beber {0}</BloodVial_HighBlood.ingestible.ingestCommandString>
+			<BloodVial_HighBlood.ingestible.ingestReportString>Bebendo {0}.</BloodVial_HighBlood.ingestible.ingestReportString>
+			<BloodVial_Special.label>frasco de sangue (especial)</BloodVial_Special.label>
+			<BloodVial_Special.description>Sangue especial, Possivelmente obtido de criaturas míticas, armazenado em um frasco.</BloodVial_Special.description>
+			<BloodVial_Special.ingestible.ingestCommandString>Beber {0}</BloodVial_Special.ingestible.ingestCommandString>
+			<BloodVial_Special.ingestible.ingestReportString>Bebendo {0}.</BloodVial_Special.ingestible.ingestReportString>
+
+		<!-- Blood Wine -->
+			<BloodWine_LowBlood.label>vinho de sangue (fraco)</BloodWine_LowBlood.label>
+			<BloodWine_LowBlood.description>Sangue fraco, Sangue que não atende aos padrões régios mais elevados, coletado de um peão embriagado. (1 ponto de sangue)</BloodWine_LowBlood.description>
+			<BloodWine_LowBlood.tools.0.label>vidro</BloodWine_LowBlood.tools.0.label>
+			<BloodWine_LowBlood.ingestible.ingestCommandString>Beber {0}</BloodWine_LowBlood.ingestible.ingestCommandString>
+			<BloodWine_LowBlood.ingestible.ingestReportString>Bebendo {0}.</BloodWine_LowBlood.ingestible.ingestReportString>
+			<BloodWine_AverageBlood.label>vinho de sangue (médio)</BloodWine_AverageBlood.label>
+			<BloodWine_AverageBlood.description>Sangue que não é muito notável para um vampiro robusto nem muito baixo para ser consumido por membros superiores da sociedade vampírica, coletado de um peão embriagado. (1 ponto de sangue)</BloodWine_AverageBlood.description>
+			<BloodWine_AverageBlood.tools.0.label>vidro</BloodWine_AverageBlood.tools.0.label>
+			<BloodWine_AverageBlood.ingestible.ingestCommandString>Beber {0}</BloodWine_AverageBlood.ingestible.ingestCommandString>
+			<BloodWine_AverageBlood.ingestible.ingestReportString>Bebendo {0}.</BloodWine_AverageBlood.ingestible.ingestReportString>
+			<BloodWine_HighBlood.label>vinho de sangue (sangue alto)</BloodWine_HighBlood.label>
+			<BloodWine_HighBlood.description>Sangue alto, Sangue adequado para vampiros reais (o sangue de aristocratas ou indivíduos ricos), coletado de um peão embriagado. (1 ponto de sangue)</BloodWine_HighBlood.description>
+			<BloodWine_HighBlood.tools.0.label>vidro</BloodWine_HighBlood.tools.0.label>
+			<BloodWine_HighBlood.ingestible.ingestCommandString>Beber {0}</BloodWine_HighBlood.ingestible.ingestCommandString>
+			<BloodWine_HighBlood.ingestible.ingestReportString>Bebendo {0}.</BloodWine_HighBlood.ingestible.ingestReportString>
+			<BloodWine_Special.label>vinho de sangue (especial)</BloodWine_Special.label>
+			<BloodWine_Special.description>Sangue especial, possivelmente obtido de criaturas míticas, coletado de um peão embriagado.</BloodWine_Special.description>
+			<BloodWine_Special.tools.0.label>vidro</BloodWine_Special.tools.0.label>
+			<BloodWine_Special.ingestible.ingestCommandString>Beber {0}</BloodWine_Special.ingestible.ingestCommandString>
+			<BloodWine_Special.ingestible.ingestReportString>Bebendo {0}.</BloodWine_Special.ingestible.ingestReportString>
+
 	<!-- RimWorld - Witcher Monster Hunt -->
 		<!-- Rage of Nature Implant -->
 			<WMH_RageOfNatureImplant.label>implante de fúria da natureza</WMH_RageOfNatureImplant.label>

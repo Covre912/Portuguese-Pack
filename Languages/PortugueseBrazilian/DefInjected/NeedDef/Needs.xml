@@ -6,6 +6,15 @@
             <Chemical_Methadone.label>metadona</Chemical_Methadone.label>
             <Chemical_Methadone.description>Por ter desenvolvido uma dependência por metadona, esta pessoa precisa consumir regularmente a droga para evitar os sintomas de abstinência.</Chemical_Methadone.description>
 
+    <!-- Rim of Madness - Vampires -->
+        <!-- Blood -->
+            <ROMV_Blood.label>sangue</ROMV_Blood.label>
+            <ROMV_Blood.description>Rastreia os pontos de sangue de um organismo. Recupera-se uma taxa de 1 por dia. Quando a barra está vazia, o organismo morrerá.</ROMV_Blood.description>
+
+        <!-- Vitae -->
+            <ROMV_Chemical_Vitae.label>sede de vitae</ROMV_Chemical_Vitae.label>
+            <ROMV_Chemical_Vitae.description>Uma degustação de vitae vampírica nunca é suficiente, e agora esse indivíduo precisa consumir sangue vampírico regularmente para evitar sintomas violentos de abstinência.</ROMV_Chemical_Vitae.description>
+
     <!-- Vanilla Brewing Expanded -->
         <!-- Caffeine Addiction -->
             <VBE_Chemical_Caffeine.label>cafeína</VBE_Chemical_Caffeine.label>

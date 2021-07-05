@@ -622,6 +622,16 @@
                 <li>nameB->Reverie</li>
             </NamerFactionBases_SystemsAlliance.rulePack.rulesStrings>
 
+    <!-- Rim of Madness - Vampires -->
+        <!-- Bite Cleaned -->
+            <ROMV_BiteCleaned.rulePack.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [cleaned] [bitemark] de [SUBJECT_definite].</ROMV_BiteCleaned.rulePack.rulesStrings.0>
+            <ROMV_BiteCleaned.rulePack.rulesStrings.1>cleaned->limpou</ROMV_BiteCleaned.rulePack.rulesStrings.1>
+            <ROMV_BiteCleaned.rulePack.rulesStrings.2>cleaned(p=2)->lambeu</ROMV_BiteCleaned.rulePack.rulesStrings.2>
+            <ROMV_BiteCleaned.rulePack.rulesStrings.4>cleaned->encobriu</ROMV_BiteCleaned.rulePack.rulesStrings.4>
+            <ROMV_BiteCleaned.rulePack.rulesStrings.5>bitemark->a mordiade</ROMV_BiteCleaned.rulePack.rulesStrings.5>
+            <ROMV_BiteCleaned.rulePack.rulesStrings.6>bitemark->a evidência de mordida</ROMV_BiteCleaned.rulePack.rulesStrings.6>
+            <ROMV_BiteCleaned.rulePack.rulesStrings.7>bitemark->a marca de mordida</ROMV_BiteCleaned.rulePack.rulesStrings.7>
+
 
     <!-- Vanilla Books Expanded -->
         <!-- Book Description -->

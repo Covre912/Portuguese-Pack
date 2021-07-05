@@ -30,6 +30,9 @@
     <!-- Rim-Effect Core -->
         <RE_Implants.label>implantes</RE_Implants.label>
 
+    <!-- Rim of Madness - Vampires -->
+        <ROMV_Blood.label>bolsas de sangue</ROMV_Blood.label>
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <WMH_Flesh.label>cadáveres de monstros</WMH_Flesh.label>
         <WMH_BuildingsTrophies.label>troféus</WMH_BuildingsTrophies.label>

@@ -76,6 +76,21 @@
             <RE_DominationBerserk.recoveryMessage>a fúria de {0} chegou ao fim.</RE_DominationBerserk.recoveryMessage>
             <RE_DominationBerserk.baseInspectLine>Estado mental: Fúria</RE_DominationBerserk.baseInspectLine>
 
+    <!-- Rim of Madness - Vampires -->
+        <!-- Vampire Beast -->
+            <ROMV_VampireBeast.label>a besta</ROMV_VampireBeast.label>
+            <ROMV_VampireBeast.beginLetter>{0} desencadeou sua besta interior!</ROMV_VampireBeast.beginLetter>
+            <ROMV_VampireBeast.beginLetterLabel>A besta</ROMV_VampireBeast.beginLetterLabel>
+            <ROMV_VampireBeast.recoveryMessage> A fúria de {0} chegou ao fim.</ROMV_VampireBeast.recoveryMessage>
+            <ROMV_VampireBeast.baseInspectLine>Estado mental: Besta</ROMV_VampireBeast.baseInspectLine>
+
+        <!-- Rötschreck -->
+            <ROMV_Rotschreck.label>rötschreck</ROMV_Rotschreck.label>
+            <ROMV_Rotschreck.beginLetter>{0} está fugindo com medo da luz!</ROMV_Rotschreck.beginLetter>
+            <ROMV_Rotschreck.beginLetterLabel>Rötschreck</ROMV_Rotschreck.beginLetterLabel>
+            <ROMV_Rotschreck.recoveryMessage>Os temores de {0} diminuíram.</ROMV_Rotschreck.recoveryMessage>
+            <ROMV_Rotschreck.baseInspectLine>Estado mental: Rötschreck</ROMV_Rotschreck.baseInspectLine>
+
     <!-- Vanilla Expanded Framework -->
         <!-- Xenophobic Rage -->
             <VEF_XenophobicRage.label>raiva xenofóbica</VEF_XenophobicRage.label>

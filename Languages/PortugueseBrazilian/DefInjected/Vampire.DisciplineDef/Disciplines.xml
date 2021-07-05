@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Rim of Madness - Vampires -->
+        <ROMV_Animalism.label>Animalismo</ROMV_Animalism.label>
+        <ROMV_Auspex.label>Astúcia</ROMV_Auspex.label>
+        <ROMV_BloodDiscipline.label>Sangue</ROMV_BloodDiscipline.label>
+        <ROMV_Dominate.label>Dominação</ROMV_Dominate.label>
+        <ROMV_Flight.label>Voo</ROMV_Flight.label>
+        <ROMV_Fortitude.label>Fortitude</ROMV_Fortitude.label>
+        <ROMV_Obfuscation.label>Ofuscação</ROMV_Obfuscation.label>
+        <ROMV_Obtenebration.label>Tenebrosidade</ROMV_Obtenebration.label>
+        <ROMV_Potence.label>Potência</ROMV_Potence.label>
+        <ROMV_Presence.label>Presença</ROMV_Presence.label>
+        <ROMV_Protean.label>Metamorfose</ROMV_Protean.label>
+        <ROMV_Thaumaturgy.label>Taumaturgia</ROMV_Thaumaturgy.label>
+        <ROMV_Vicissitude.label>Vicissitude</ROMV_Vicissitude.label>
+
+</LanguageData>

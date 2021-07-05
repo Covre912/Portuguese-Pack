@@ -151,6 +151,20 @@
             <RE_QuadrupedAnimalWithHoovesAndArms.corePart.parts.13.parts.0.customLabel>casco traseiro esquerdo</RE_QuadrupedAnimalWithHoovesAndArms.corePart.parts.13.parts.0.customLabel>
             <RE_QuadrupedAnimalWithHoovesAndArms.corePart.parts.14.customLabel>perna traseira direita</RE_QuadrupedAnimalWithHoovesAndArms.corePart.parts.14.customLabel>
             <RE_QuadrupedAnimalWithHoovesAndArms.corePart.parts.14.parts.0.customLabel>casco traseiro direito</RE_QuadrupedAnimalWithHoovesAndArms.corePart.parts.14.parts.0.customLabel>
+
+    <!-- Rim of Madness - Vampires -->
+        <!-- Bat -->
+            <ROMV_BatBody.label>morcego</ROMV_BatBody.label>
+            <ROMV_BatBody.corePart.parts.3.customLabel>pulmão esquerdo</ROMV_BatBody.corePart.parts.3.customLabel>
+            <ROMV_BatBody.corePart.parts.4.customLabel>pulmão direito</ROMV_BatBody.corePart.parts.4.customLabel>
+            <ROMV_BatBody.corePart.parts.5.customLabel>rim esquerdo</ROMV_BatBody.corePart.parts.5.customLabel>
+            <ROMV_BatBody.corePart.parts.6.customLabel>rim direito</ROMV_BatBody.corePart.parts.6.customLabel>
+            <ROMV_BatBody.corePart.parts.8.parts.0.parts.1.customLabel>olho esquerdo</ROMV_BatBody.corePart.parts.8.parts.0.parts.1.customLabel>
+            <ROMV_BatBody.corePart.parts.8.parts.0.parts.2.customLabel>olho direito</ROMV_BatBody.corePart.parts.8.parts.0.parts.2.customLabel>
+            <ROMV_BatBody.corePart.parts.9.customLabel>perna esquerda</ROMV_BatBody.corePart.parts.9.customLabel>
+            <ROMV_BatBody.corePart.parts.9.parts.0.customLabel>pé esquerdo</ROMV_BatBody.corePart.parts.9.parts.0.customLabel>
+            <ROMV_BatBody.corePart.parts.10.customLabel>perna direita</ROMV_BatBody.corePart.parts.10.customLabel>
+            <ROMV_BatBody.corePart.parts.10.parts.0.customLabel>pé direito</ROMV_BatBody.corePart.parts.10.parts.0.customLabel>
     
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Jellyfish -->

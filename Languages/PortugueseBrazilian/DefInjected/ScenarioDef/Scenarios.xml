@@ -47,6 +47,13 @@
             <RE_AllianceColony.scenario.parts.16.text>A colônia está em ruínas. Os estoques de alimentos estão quase vazios, a maior parte dos remédios acabou, as paredes estão desmoronando e as defesas estão com defeito. Se as coisas continuarem assim, as chances de atingir a cota de colônia da Aliança são inexistentes.\n\nÉ hora de começar os preparativos necessários.\n\nComece estabelecendo uma zona de cultivo e reparando os danos estruturais nos módulos residenciais. As fontes de energia e as defesas devem ser mantidas em perfeitas condições, e os armários de remédios devem sempre ser estocados se você quiser sobreviver neste mundo cruel.</RE_AllianceColony.scenario.parts.16.text>
             <RE_AllianceColony.scenario.parts.17.structureLabel>Uma colônia leal abandonada</RE_AllianceColony.scenario.parts.17.structureLabel>
 
+    <!-- Rim of Madness - Vampires -->
+        <!-- Strange Cargo -->
+            <ROMV_ScenStrangeCargo.scenario.name>vampiros - estranha carga</ROMV_ScenStrangeCargo.scenario.name>
+            <ROMV_ScenStrangeCargo.scenario.summary>Experiência padrão - com um único vampiro.</ROMV_ScenStrangeCargo.scenario.summary>
+            <ROMV_ScenStrangeCargo.scenario.description>Você acorda após um pouso forçado em um planeta remoto. Olhando ao redor, você vê a si mesmo e outro colono. Entre vocês dois está um caixão selado.</ROMV_ScenStrangeCargo.scenario.description>
+            <ROMV_ScenStrangeCargo.scenario.parts.19.text>Pego de surpresa durante um jogo de RPG improvisado com seu companheiro de bordo, você é sugado para uma cápsula de fuga de emergência. Após a queda, um estranho caixão permanece intacto, não muito longe de outros destroços. Ele irradia uma aura de mistério.</ROMV_ScenStrangeCargo.scenario.parts.19.text>
+
     <!-- Vanilla Factions Expanded - Insectoids -->
         <!-- Mercenary Squad -->
             <VFEI_MercenarySquad.scenario.name>Esquadrão Mercenário</VFEI_MercenarySquad.scenario.name>

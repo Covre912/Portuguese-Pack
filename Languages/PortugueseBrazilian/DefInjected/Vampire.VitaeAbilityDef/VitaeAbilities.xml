@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Rim of Madness - Vampires -->
+        <!-- Beckoning -->
+            <ROMV_Animalism_Beckoning.label>Chamado</ROMV_Animalism_Beckoning.label>
+            <ROMV_Animalism_Beckoning.description>Convoque uma matilha de animais selvagens para vir para sua colônia.</ROMV_Animalism_Beckoning.description>
+
+        <!-- Nightwisp Ravens -->
+            <ROMV_Animalism_NightwispRavens.label>Corvos</ROMV_Animalism_NightwispRavens.label>
+            <ROMV_Animalism_NightwispRavens.description>Os corvos incapacitam a vítima por um curto período de tempo. Qualquer ação tomada contra a vítima dispersará o rebanho e encerrará o efeito prematuramente.</ROMV_Animalism_NightwispRavens.description>
+
+        <!-- Spectral Wolf -->
+            <ROMV_Animalism_SpectralWolf.label>Lobo espectral</ROMV_Animalism_SpectralWolf.label>
+            <ROMV_Animalism_SpectralWolf.description>Um lobo espectral se materializa, ataca o alvo e depois retorna ao éter.</ROMV_Animalism_SpectralWolf.description>
+
+        <!-- Communion -->
+            <ROMV_Animalism_Communion.label>Comunhão</ROMV_Animalism_Communion.label>
+            <ROMV_Animalism_Communion.description>Três morcegos fantasmagóricos procuram alvos, drenando seu sangue, e então entregam o sangue ao seu mestre.</ROMV_Animalism_Communion.description>
+
+        <!-- Heightened Senses -->
+            <ROMV_Auspex_HeightenedSenses.label>Sentidos aguçados</ROMV_Auspex_HeightenedSenses.label>
+            <ROMV_Auspex_HeightenedSenses.description>Melhora temporariamente os sentidos e a habilidade com armas de longo alcance.</ROMV_Auspex_HeightenedSenses.description>
+
+        <!-- Crocodile Tongue -->
+            <ROMV_Auspex_CrocodileTongue.label>Língua de crocodilo</ROMV_Auspex_CrocodileTongue.label>
+            <ROMV_Auspex_CrocodileTongue.description>Concede um bônus temporário para habilidades sociais e troca.</ROMV_Auspex_CrocodileTongue.description>
+
+        <!-- Reveal Illusions -->
+            <ROMV_Auspex_RevealIllusions.label>Revelar ilusões</ROMV_Auspex_RevealIllusions.label>
+            <ROMV_Auspex_RevealIllusions.description>Revela ilusões, dissipa aflições ou revela locais ocultos no mapa.</ROMV_Auspex_RevealIllusions.description>
+
+        <!-- Read Mind -->
+            <ROMV_Auspex_ReadMind.label>Ler mente</ROMV_Auspex_ReadMind.label>
+            <ROMV_Auspex_ReadMind.description>Lê a mente do alvo, descobre seu próximo movimento e evita que machuquem o lançador usando meios normais.</ROMV_Auspex_ReadMind.description>
+
+        <!-- Awaken -->
+            <ROMV_VampiricAwaken.label>Despertar</ROMV_VampiricAwaken.label>
+            <ROMV_VampiricAwaken.description>Usa um único ponto de sangue para tirar o vampiro de um estado de torpor, onde ele pode mais uma vez se juntar ao mundo na morte.</ROMV_VampiricAwaken.description>
+
+        <!-- Resurrection -->
+            <ROMV_VampiricResurrection.label>Ressurreição instantânea</ROMV_VampiricResurrection.label>
+            <ROMV_VampiricResurrection.description>Empurra toda a vitae restante para reanimar o tecido morto, restaurando o vampiro da morte. Isso irá liberar sua besta interior até que seus corpo esteja completamente saciado com sangue.</ROMV_VampiricResurrection.description>
+
+        <!-- Healing -->
+            <ROMV_VampiricHealing.label>Cura vampirica</ROMV_VampiricHealing.label>
+            <ROMV_VampiricHealing.description>Restaura o corpo danificado usando vitae.</ROMV_VampiricHealing.description>
+
+        <!-- Healing Scars -->
+            <ROMV_VampiricHealingScars.label>Curar cicatrizes</ROMV_VampiricHealingScars.label>
+            <ROMV_VampiricHealingScars.description>Restaura o corpo com cicatrizes usando vitae.</ROMV_VampiricHealingScars.description>
+
+        <!-- Regenerate Limb -->
+            <ROMV_RegenerateLimb.label>Regenerar membros</ROMV_RegenerateLimb.label>
+            <ROMV_RegenerateLimb.description>Restaura um membro ou parte do corpo perdido em combate.</ROMV_RegenerateLimb.description>
+
+        <!-- Hunger -->
+            <ROMV_Blood_Hunger.label>Resgate de sangue</ROMV_Blood_Hunger.label>
+            <ROMV_Blood_Hunger.description>Permite que o vampiro consuma o sangue derramado.</ROMV_Blood_Hunger.description>
+
+        <!-- Purge -->
+            <ROMV_Blood_Purge.label>Expurgo Sanguíneo</ROMV_Blood_Purge.label>
+            <ROMV_Blood_Purge.description>Força o alvo a vomitar um pouco de seu sangue no chão.</ROMV_Blood_Purge.description>
+
+        <!-- Stem The Tide -->
+            <ROMV_Blood_StemTheTide.label>Sangue contido</ROMV_Blood_StemTheTide.label>
+            <ROMV_Blood_StemTheTide.description>Impede toda a perda de sangue no alvo.</ROMV_Blood_StemTheTide.description>
+
+        <!-- Unstoppable Tide -->
+            <ROMV_Blood_UnstoppableTide.label>Desejo insaciável</ROMV_Blood_UnstoppableTide.label>
+            <ROMV_Blood_UnstoppableTide.description>Divide parte do corpo do lançador para se tornar uma massa flutuante de vitae que vai consumir o sangue, pele e ossos do alvo, devolvendo ao lançador.</ROMV_Blood_UnstoppableTide.description>
+
+        <!-- Mesmerise -->
+            <ROMV_Dominate_Mesmerise.label>Hipnotizar</ROMV_Dominate_Mesmerise.label>
+            <ROMV_Dominate_Mesmerise.description>Atordoa temporariamente e limpa o estado mental do alvo.</ROMV_Dominate_Mesmerise.description>
+
+        <!-- Sleep -->
+            <ROMV_Dominate_Sleep.label>Adormecer</ROMV_Dominate_Sleep.label>
+            <ROMV_Dominate_Sleep.description>O alvo vai adormecer por cerca de 20 segundos ou mais, ficando completamente incapacitado.</ROMV_Dominate_Sleep.description>
+
+        <!-- Suicide -->
+            <ROMV_Dominate_Suicide.label>Suicídio</ROMV_Dominate_Suicide.label>
+            <ROMV_Dominate_Suicide.description>Você impõe sua vontade sobre a vítima para sofrer um ataque fatal.</ROMV_Dominate_Suicide.description>
+
+        <!-- Possession -->
+            <ROMV_Dominate_Possession.label>Possessão</ROMV_Dominate_Possession.label>
+            <ROMV_Dominate_Possession.description>A vítima ficará temporariamente ao seu lado, até morrer de parada cardíaca.</ROMV_Dominate_Possession.description>
+
+        <!-- Light Weight -->
+            <ROMV_Flight_LightWeight.label>Menos peso</ROMV_Flight_LightWeight.label>
+            <ROMV_Flight_LightWeight.description>Aumenta passivamente a capacidade de carga e reduz o peso para permitir o voo.</ROMV_Flight_LightWeight.description>
+
+        <!-- Wing Buffet -->
+            <ROMV_Flight_WingBuffet.label>Bater de asas</ROMV_Flight_WingBuffet.label>
+            <ROMV_Flight_WingBuffet.description>Tenta derrubar (atordoar) um alvo temporariamente usando um bater de asas com força total no alvo.</ROMV_Flight_WingBuffet.description>
+
+        <!-- Short Flight -->
+            <ROMV_Flight_ShortFlight.label>Voo baixo</ROMV_Flight_ShortFlight.label>
+            <ROMV_Flight_ShortFlight.description>Permite que seu personagem voe no mapa atualmente visível para um destino selecionado.</ROMV_Flight_ShortFlight.description>
+
+        <!-- Sky Fall -->
+            <ROMV_Flight_SkyFall.label>Queda do céu</ROMV_Flight_SkyFall.label>
+            <ROMV_Flight_SkyFall.description>Pega e carrega um personagem para o alto do céu e o joga no chão para causar danos contundentes massivos.</ROMV_Flight_SkyFall.description>
+
+        <!-- Long Flight -->
+            <ROMV_Flight_LongFlight.label>Longo voo</ROMV_Flight_LongFlight.label>
+            <ROMV_Flight_LongFlight.description>Permite que o lançador voe para um local no mapa mundial.</ROMV_Flight_LongFlight.description>
+
+        <!-- Fortitude -->
+            <ROMV_FortitudeI.label>Fortitude I</ROMV_FortitudeI.label>
+            <ROMV_FortitudeI.description>Garante redução de 1 pontos de dano de ataques..</ROMV_FortitudeI.description>
+            <ROMV_FortitudeII.label>Fortitude II</ROMV_FortitudeII.label>
+            <ROMV_FortitudeII.description>Garante redução de 2 pontos de dano de ataques..</ROMV_FortitudeII.description>
+            <ROMV_FortitudeIII.label>Fortitude III</ROMV_FortitudeIII.label>
+            <ROMV_FortitudeIII.description>Garante redução de 3 pontos de dano de ataques..</ROMV_FortitudeIII.description>
+            <ROMV_FortitudeIV.label>Fortitude IV</ROMV_FortitudeIV.label>
+            <ROMV_FortitudeIV.description>Garante redução de 4 pontos de dano de ataques.</ROMV_FortitudeIV.description>
+
+        <!-- Hide -->
+            <ROMV_Obfuscation_Hide.label>Ocultar</ROMV_Obfuscation_Hide.label>
+            <ROMV_Obfuscation_Hide.description>Enquanto eles permanecerem imóveis, o vampiro ficará escondido da vista.</ROMV_Obfuscation_Hide.description>
+
+        <!-- Invisibility -->
+            <ROMV_Obfuscation_Invisibility.label>Invisibilidade</ROMV_Obfuscation_Invisibility.label>
+            <ROMV_Obfuscation_Invisibility.description>Permite movimento invisível desimpedido por 24 segundos. Os ataques acabarão com o efeito. Ataques que quebram a invisibilidade adicionam um bônus de dano de ataque furtivo de 50%.</ROMV_Obfuscation_Invisibility.description>
+
+        <!-- Conceal Other -->
+            <ROMV_Obfuscation_ConcealOther.label>Ocultar a outro</ROMV_Obfuscation_ConcealOther.label>
+            <ROMV_Obfuscation_ConcealOther.description>Concede a outro personagem o efeito de invisibilidade.</ROMV_Obfuscation_ConcealOther.description>
+
+        <!-- Hidden Force -->
+            <ROMV_Obfuscation_HiddenForce.label>Força oculta</ROMV_Obfuscation_HiddenForce.label>
+            <ROMV_Obfuscation_HiddenForce.description>Permite um movimento invisível rápido por 26 segundos. Os ataques acabarão com o efeito. Ataques que quebram a força oculta adicionam um bônus de dano de ataque furtivo de 300%.</ROMV_Obfuscation_HiddenForce.description>
+
+        <!-- Arm Of The Abyss -->
+            <ROMV_Obtenebration_ArmOfTheAbyss.label>Braço do abismo</ROMV_Obtenebration_ArmOfTheAbyss.label>
+            <ROMV_Obtenebration_ArmOfTheAbyss.description>Evoca um tentáculo abissal para proteger uma área e atacar quem estive por perto.</ROMV_Obtenebration_ArmOfTheAbyss.description>
+
+        <!-- Black Metamorphosis -->
+            <ROMV_Obtenebration_BlackMetamorphosis.label>Metamorfose negra</ROMV_Obtenebration_BlackMetamorphosis.label>
+            <ROMV_Obtenebration_BlackMetamorphosis.description>Transforma as sombras em armaduras adicionais e também em melhorias para suas armas.</ROMV_Obtenebration_BlackMetamorphosis.description>
+
+        <!-- Tenebrous Form -->
+            <ROMV_Obtenebration_TenebrousForm.label>Forma tenebrosa</ROMV_Obtenebration_TenebrousForm.label>
+            <ROMV_Obtenebration_TenebrousForm.description>Transforma o lançador em uma sombra negra invulnerável que é imune a todos os danos, exceto a luz solar. O lançador não pode causar dano a alvos com sua forma sombria.</ROMV_Obtenebration_TenebrousForm.description>
+
+        <!-- Enter The Abyss -->
+            <ROMV_Obtenebration_EnterTheAbyss.label>Caminho do abismo</ROMV_Obtenebration_EnterTheAbyss.label>
+            <ROMV_Obtenebration_EnterTheAbyss.description>Permite ao lançador caminhar através do abismo escuro e se teletransportar para qualquer lugar no mapa instantaneamente.</ROMV_Obtenebration_EnterTheAbyss.description>
+
+        <!-- Potence -->
+            <ROMV_PotenceI.label>Potência I</ROMV_PotenceI.label>
+            <ROMV_PotenceI.description>Aumenta passivamente a habilidade corpo a corpo em 3 por nível e a manipulação em 10% por nível.</ROMV_PotenceI.description>
+            <ROMV_PotenceII.label>Potência II</ROMV_PotenceII.label>
+            <ROMV_PotenceII.description>Aumenta passivamente a habilidade corpo a corpo em 3 por nível e a manipulação em 10% por nível.</ROMV_PotenceII.description>
+            <ROMV_PotenceIII.label>Potência III</ROMV_PotenceIII.label>
+            <ROMV_PotenceIII.description>Aumenta passivamente a habilidade corpo a corpo em 3 por nível e a manipulação em 10% por nível.</ROMV_PotenceIII.description>
+            <ROMV_PotenceIV.label>Potência IV</ROMV_PotenceIV.label>
+            <ROMV_PotenceIV.description>Aumenta passivamente a habilidade corpo a corpo em 3 por nível e a manipulação em 10% por nível.</ROMV_PotenceIV.description>
+
+        <!-- Presence -->
+            <ROMV_PresenceI.label>Presença I</ROMV_PresenceI.label>
+            <ROMV_PresenceI.description>Bônus social permanente de +3 para cada nível de presença. Inimigos próximos aumentam o cooldown de ataque em 5%.</ROMV_PresenceI.description>
+            <ROMV_PresenceII.label>Presença II</ROMV_PresenceII.label>
+            <ROMV_PresenceII.description>Bônus social permanente de +3 para cada nível de presença. Inimigos próximos aumentam o cooldown de ataque em 10%.</ROMV_PresenceII.description>
+            <ROMV_PresenceIII.label>Presença III</ROMV_PresenceIII.label>
+            <ROMV_PresenceIII.description>Bônus social permanente de +3 para cada nível de presença. Inimigos próximos aumentam o cooldown de ataque em 12%. Adiciona a opção de diálogo "negociações de paz".</ROMV_PresenceIII.description>
+            <ROMV_PresenceIV.label>Presença IV</ROMV_PresenceIV.label>
+            <ROMV_PresenceIV.description>Bônus social permanente de +3 para cada nível de presença. Inimigos próximos aumentam a recarga de ataque em 15%. Adiciona a opção de diálogo "negociações de paz". Adiciona duas habilidades uma vez por ano, Cessar fogo - interrompe imediatamente um ataque de facção e os envia para casa. Desejo de sangue - reúna sua colônia em uma horda enfurecida capaz de ignorar seus ferimentos (dura 4 horas no jogo).</ROMV_PresenceIV.description>
+
+        <!-- Blood Lust -->
+            <ROMV_Presence_BloodLust.label>Desejo de sangue</ROMV_Presence_BloodLust.label>
+            <ROMV_Presence_BloodLust.description>Habilidade uma vez por semana. Concede a todos os colonos no mesmo mapa com desejo de sangue, uma redução de 66% da dor por 6 horas.</ROMV_Presence_BloodLust.description>
+
+        <!-- Cease Fire -->
+            <ROMV_Presence_CeaseFire.label>Cessar fogo</ROMV_Presence_CeaseFire.label>
+            <ROMV_Presence_CeaseFire.description>Habilidade uma vez por semana. Força todos os inimigos a fugir do mapa.</ROMV_Presence_CeaseFire.description>
+
+        <!-- Bat Form -->
+            <ROMV_Protean_BatForm.label>Forma de morcego</ROMV_Protean_BatForm.label>
+            <ROMV_Protean_BatForm.description>Torne-se um dos filhos da noite e ganhe sua habilidade de voar com grande velocidade.</ROMV_Protean_BatForm.description>
+
+        <!-- Feral Claws -->
+            <ROMV_Protean_FeralClaws.label>Garras ferozes</ROMV_Protean_FeralClaws.label>
+            <ROMV_Protean_FeralClaws.description>As unhas do vampiro crescem em garras longas e temíveis, capazes de rasgar ossos e carne igualmente.</ROMV_Protean_FeralClaws.description>
+
+        <!-- Mist Form -->
+            <ROMV_Protean_MistForm.label>Forma de névoa</ROMV_Protean_MistForm.label>
+            <ROMV_Protean_MistForm.description>Este poder permite que um Membro transforme seu corpo inteiro em uma névoa fina e gelada, tanto imune a danos quanto incapaz de oferecê-los.</ROMV_Protean_MistForm.description>
+
+        <!-- War Form -->
+            <ROMV_Protean_WarForm.label>Forma de guerra</ROMV_Protean_WarForm.label>
+            <ROMV_Protean_WarForm.description>Você assume uma aparência colossal adequada para lutar contra uma horda inimiga.</ROMV_Protean_WarForm.description>
+
+        <!-- Blood Strike -->
+            <ROMV_Thaumaturgy_BloodStrike.label>Golpe de sangue</ROMV_Thaumaturgy_BloodStrike.label>
+            <ROMV_Thaumaturgy_BloodStrike.description>Lança um projétil de sangue no alvo, que pode coletar e devolver sangue ao lançador.</ROMV_Thaumaturgy_BloodStrike.description>
+
+        <!-- Blood Shield -->
+            <ROMV_Thaumaturgy_BloodShield.label>Escudo de sangue</ROMV_Thaumaturgy_BloodShield.label>
+            <ROMV_Thaumaturgy_BloodShield.description>Escudo de sangue cercam o lançador e absorvem vários golpes antes de se dissipar.</ROMV_Thaumaturgy_BloodShield.description>
+
+        <!-- Blood Salvo -->
+            <ROMV_Thaumaturgy_BloodSalvo.label>Salva de sangue</ROMV_Thaumaturgy_BloodSalvo.label>
+            <ROMV_Thaumaturgy_BloodSalvo.description>Lança três projéteis de sangue em uma área de efeito, que podem coletar e retornar o sangue ao lançador.</ROMV_Thaumaturgy_BloodSalvo.description>
+
+        <!-- Blood Boil -->
+            <ROMV_Thaumaturgy_BloodBoil.label>Sangue fervente</ROMV_Thaumaturgy_BloodBoil.label>
+            <ROMV_Thaumaturgy_BloodBoil.description>Faz o sangue do alvo ferver até ele explodi.</ROMV_Thaumaturgy_BloodBoil.description>
+
+        <!-- Perfect Form -->
+            <ROMV_Vicissitude_PerfectForm.label>Forma perfeita</ROMV_Vicissitude_PerfectForm.label>
+            <ROMV_Vicissitude_PerfectForm.description>Moldando o corpo como pudim, essa capacidade reestrutura sua forma por um tempo para torná-la mais atraente.</ROMV_Vicissitude_PerfectForm.description>
+
+        <!-- Corrupt Form -->
+            <ROMV_Vicissitude_CorruptForm.label>Forma corrompida</ROMV_Vicissitude_CorruptForm.label>
+            <ROMV_Vicissitude_CorruptForm.description>Moldando o corpo como pudim, essa habilidade reestrutura a forma de outra pessoa, paralisando-a.</ROMV_Vicissitude_CorruptForm.description>
+
+        <!-- Shape Monstrosity -->
+            <ROMV_Vicissitude_ShapeMonstrosity.label>Forma monstruosa</ROMV_Vicissitude_ShapeMonstrosity.label>
+            <ROMV_Vicissitude_ShapeMonstrosity.description>Moldando o corpo como pudim, essa habilidade reestrutura uma criatura doméstica.</ROMV_Vicissitude_ShapeMonstrosity.description>
+
+        <!-- Become Zulo -->
+            <ROMV_Vicissitude_BecomeZulo.label>Forma zulo</ROMV_Vicissitude_BecomeZulo.label>
+            <ROMV_Vicissitude_BecomeZulo.description>O Zulo é uma monstruosidade quitinosa cravejada de esporas e chifres ósseos, muitas vezes incorporando outras variações menores do próprio desenho do Demônio em sua forma.</ROMV_Vicissitude_BecomeZulo.description>
+
+</LanguageData>

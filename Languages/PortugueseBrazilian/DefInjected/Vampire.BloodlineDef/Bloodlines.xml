@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Rim of Madness - Vampires -->
+        <!-- Witness -->
+            <ROMV_WitnessedVampireFeeding.stages.0.label>vampiro se alimentando</ROMV_WitnessedVampireFeeding.stages.0.label>
+            <ROMV_WitnessedVampireFeeding.stages.0.description>Ele(a) chuparou o pescoço daquele cara?</ROMV_WitnessedVampireFeeding.stages.0.description>
+            <ROMV_WitnessedVampireFeedingVisitor.stages.0.label>vampiro se alimentando</ROMV_WitnessedVampireFeedingVisitor.stages.0.label>
+            <ROMV_WitnessedVampireFeedingVisitor.stages.0.description>Alguém deveria acabar com essas coisas.</ROMV_WitnessedVampireFeedingVisitor.stages.0.description>
+            <ROMV_WitnessedVampireEmbrace.stages.0.label>vampiro transmitiu vampirismo</ROMV_WitnessedVampireEmbrace.stages.0.label>
+            <ROMV_WitnessedVampireEmbrace.stages.0.description>Essa pessoa estava viva antes. Então ela morreram. Agora ela é... diferente. Isso é irreal.</ROMV_WitnessedVampireEmbrace.stages.0.description>
+            <ROMV_WitnessedVampireEmbraceVisitor.stages.0.label>vampiro transmitiu vampirismo</ROMV_WitnessedVampireEmbraceVisitor.stages.0.label>
+            <ROMV_WitnessedVampireEmbraceVisitor.stages.0.description>Essas criaturas são abominações. Me agradaria vê-las destruídas.</ROMV_WitnessedVampireEmbraceVisitor.stages.0.description>
+            <ROMV_WitnessedVampireDiablerie.stages.0.label>vampiro consumiu alma</ROMV_WitnessedVampireDiablerie.stages.0.label>
+            <ROMV_WitnessedVampireDiablerie.stages.0.description>O que era isso saindo do corpo deles?!</ROMV_WitnessedVampireDiablerie.stages.0.description>
+            <ROMV_WitnessedVampireDiablerieVisitor.stages.0.label>vampiro consumiu alma</ROMV_WitnessedVampireDiablerieVisitor.stages.0.label>
+            <ROMV_WitnessedVampireDiablerieVisitor.stages.0.description>Prova de que essas coisas devem ser destruídas.</ROMV_WitnessedVampireDiablerieVisitor.stages.0.description>
+
+
+</LanguageData>

@@ -56,6 +56,43 @@
             <li>rubbedpart->braço</li>
         </RE_Interaction_PyjakNuzzle.logRulesInitiator.rulesStrings>
 
+    <!-- Rim of Madness - Vampires -->
+        <!-- Diablerie Attempt -->
+            <ROMV_VampireDiablerieAttempt.label>tentou consumir minha alma (Diablerie)</ROMV_VampireDiablerieAttempt.label>
+            <ROMV_VampireDiablerieAttempt.logRulesInitiator.rulesStrings>
+                <li>r_logentry->Tentou consumir a alma de [RECIPIENT_nameIndef].</li>
+            </ROMV_VampireDiablerieAttempt.logRulesInitiator.rulesStrings>
+            <ROMV_VampireDiablerieAttempt.logRulesRecipient.rulesStrings>
+                <li>r_logentry->[RECIPIENT_nameIndef] tentou consumir minha alma.</li>
+            </ROMV_VampireDiablerieAttempt.logRulesRecipient.rulesStrings>
+
+        <!-- Unbonded Drink -->
+            <ROMV_VampireUnbondedDrink.label>sangue vampírico compartilhado (vitae)</ROMV_VampireUnbondedDrink.label>
+            <ROMV_VampireUnbondedDrink.logRulesInitiator.rulesStrings>
+                <li>r_logentry->Deu sangue para [RECIPIENT_nameIndef].</li>
+            </ROMV_VampireUnbondedDrink.logRulesInitiator.rulesStrings>
+            <ROMV_VampireUnbondedDrink.logRulesRecipient.rulesStrings>
+                <li>r_logentry->Bebeu sangue de [RECIPIENT_nameIndef].</li>
+            </ROMV_VampireUnbondedDrink.logRulesRecipient.rulesStrings>
+
+        <!-- Bonded Drink -->
+            <ROMV_VampireBondedDrink.label>sangue vampírico compartilhado (vitae)</ROMV_VampireBondedDrink.label>
+            <ROMV_VampireBondedDrink.logRulesInitiator.rulesStrings>
+                <li>r_logentry->Deu sangue para [RECIPIENT_nameIndef].</li>
+            </ROMV_VampireBondedDrink.logRulesInitiator.rulesStrings>
+            <ROMV_VampireBondedDrink.logRulesRecipient.rulesStrings>
+                <li>r_logentry->Bebeu sangue de [RECIPIENT_nameIndef].</li>
+            </ROMV_VampireBondedDrink.logRulesRecipient.rulesStrings>
+
+        <!-- Lore -->
+            <ROMV_VampireLore.label>sabedoria vampírica compartilhada</ROMV_VampireLore.label>
+            <ROMV_VampireLore.logRulesInitiator.rulesStrings>
+                <li>r_logentry->Conhecimento vampírico compartilhado com [RECIPIENT_nameIndef].</li>
+            </ROMV_VampireLore.logRulesInitiator.rulesStrings>
+            <ROMV_VampireLore.logRulesRecipient.rulesStrings>
+                <li>r_logentry->Conhecimento vampírico aprendido de [RECIPIENT_nameIndef].</li>
+            </ROMV_VampireLore.logRulesRecipient.rulesStrings>
+
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Drunk Chitchat -->
             <VFEV_DrunkChitchat.label>bate-papo bêbado</VFEV_DrunkChitchat.label>

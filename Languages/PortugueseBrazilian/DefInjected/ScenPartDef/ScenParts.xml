@@ -10,7 +10,12 @@
         <RescuePrisoners.label>resgatar prisioneiros</RescuePrisoners.label>
 
     <!-- Rim-Effect: Core -->
-        <RE_StartRandomIncidentOfCategory.label>Começar com um desastre aleatório</RE_StartRandomIncidentOfCategory.label>
+        <RE_StartRandomIncidentOfCategory.label>começar com um desastre aleatório</RE_StartRandomIncidentOfCategory.label>
+
+    <!-- Rim of Madness - Vampires -->
+        <ROMV_StartAtNight.label>começa a noite</ROMV_StartAtNight.label>
+        <ROMV_LongerNights.label>noites mais longas</ROMV_LongerNights.label>
+        <ROMV_VampirismChanceStarting.label>vampirismo</ROMV_VampirismChanceStarting.label>
 
     <!-- Vanilla Expanded Framework -->
         <VFEC_ForcedFactionGoodwill.label>relações forçadas de facção</VFEC_ForcedFactionGoodwill.label>

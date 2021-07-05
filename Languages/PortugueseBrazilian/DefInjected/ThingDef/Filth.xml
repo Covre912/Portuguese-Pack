@@ -15,6 +15,11 @@
 		<!-- Scalding Residue -->
   			<RttR_Filth_ScaldingFoam.label>resíduo escaldante</RttR_Filth_ScaldingFoam.label>
 
+	<!-- Rim of Madness - Vampires -->
+		<!-- Hidey Hole -->
+			<ROMV_HideyHole.label>fragmento estranho de sujeira</ROMV_HideyHole.label>
+			<ROMV_HideyHole.description>Parece estar fora do lugar.</ROMV_HideyHole.description>
+
 	<!-- RimWorld - Witcher Monster Hunt -->
 		<!-- Rocks -->
 			<WMH_Filth_Rocks.label>rochas</WMH_Filth_Rocks.label>

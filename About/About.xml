@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Kit's Portuguese Pack</name>
-	<author>Kitsune, vermibvs, junio.king, Rasutei, Sr.dino, LuizFernando6Th, Uslyst</author>
-	<supportedVersions><li>1.2</li></supportedVersions>
+	<author>Kitsune, vermibvs, junio.king, Rasutei, Sr.dino, LuizFernando6Th, Uslyst, Nem te conto</author>
+	<supportedVersions><li>1.2</li><li>1.3</li></supportedVersions>
 	<packageId>KIT.PortuguesePack</packageId>
     <loadAfter>
 		<li>Ludeon.RimWorld</li>
@@ -16,6 +16,7 @@
 This mod aims to add portuguese translation to some mods :)
 
 Supported Mods:
+- 1-2-3 Personalities
 - [1.2] Wild Animal Sex V6.0
 - [HLX] ReGrowth - Boreal Forest Expansion
 - [HLX] ReGrowth - Cold Bog Expansion
@@ -38,7 +39,6 @@ Supported Mods:
 - [SYR] Scar Removal Plus
 - [SYR] Set Up Camp
 - [T] MoreFloors
-- 1-2-3 Personalities
 - A Dog Said... Animal Prosthetics
 - Achtung!
 - Allow Tool
@@ -57,11 +57,11 @@ Supported Mods:
 - EDB Prepare Carefully
 - Everybody Gets One
 - Expanded Materials - Metals
-- Expanded Materials Add-on - Ammunition Module
+- Expanded Materials - Metals
 - Expanded Materials - Plastics
+- Expanded Materials Add-on - Ammunition Module
 - Fallout Traits (Continued)
 - Follow Me
-- Expanded Materials - Metals
 - HugsLib
 - Humanoid Alien Races 2.0
 - Jewelry
@@ -77,10 +77,11 @@ Supported Mods:
 - ReGrowth: Desert Expansion
 - Replace Stuff
 - ResearchPal - Forked
-- RimCities - Citadel Update
+- Rim of Madness - Vampires
 - Rim-Effect: Core
 - Rim-Effect: Extended Cut
 - Rim-Effect: N7
+- RimCities - Citadel Update
 - RimHUD
 - RimSaves
 - RimWorld - Witcher Monster Hunt

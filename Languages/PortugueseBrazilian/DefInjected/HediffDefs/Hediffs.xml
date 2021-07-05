@@ -366,6 +366,315 @@
             <REN7_DarkChannelPainHediff.stages.2.label>extrema</REN7_DarkChannelPainHediff.stages.2.label>
             <REN7_DarkChannelPainHediff.stages.3.label>extrema</REN7_DarkChannelPainHediff.stages.3.label>
 
+    <!-- Rim of Madness - Vampires -->
+        <!-- Coolant Loss -->
+            <ROMV_CoolantLoss.label>perda de energia</ROMV_CoolantLoss.label>
+            <ROMV_CoolantLoss.description>Perda de energia.</ROMV_CoolantLoss.description>
+            <ROMV_CoolantLoss.stages.0.label>menor</ROMV_CoolantLoss.stages.0.label>
+            <ROMV_CoolantLoss.stages.1.label>maior</ROMV_CoolantLoss.stages.1.label>
+            <ROMV_CoolantLoss.stages.2.label>extremo</ROMV_CoolantLoss.stages.2.label>
+            <ROMV_CoolantLoss.labelNoun>perda de energia</ROMV_CoolantLoss.labelNoun>
+
+        <!-- Nightwisp Ravens -->
+            <ROMV_NightwispRavens.label>corvos</ROMV_NightwispRavens.label>
+            <ROMV_NightwispRavens.description>Corvos noturnos.</ROMV_NightwispRavens.description>
+
+        <!-- Heightened Senses -->
+            <ROMV_HeightenedSensesHediff.label>sentidos intensificados (Auspícios)</ROMV_HeightenedSensesHediff.label>
+            <ROMV_HeightenedSensesHediff.description>Sentidos intensificados (Auspícios).</ROMV_HeightenedSensesHediff.description>
+
+        <!-- Crocodile Tongue -->
+            <ROMV_CrocodileTongueHediff.label>língua de crocodilo (Auspícios)</ROMV_CrocodileTongueHediff.label>
+            <ROMV_CrocodileTongueHediff.description>Língua de crocodilo (Auspícios).</ROMV_CrocodileTongueHediff.description>
+
+        <!-- Mind Reading -->
+            <ROMV_MindReadingHediff.label>leitura mental (Auspícios)</ROMV_MindReadingHediff.label>
+            <ROMV_MindReadingHediff.description>Leitura mental (Auspícios).</ROMV_MindReadingHediff.description>
+
+        <!-- Vitae High -->
+            <ROMV_VitaeHigh.label>euforia de vitae</ROMV_VitaeHigh.label>
+            <ROMV_VitaeHigh.description>Alto vitae.</ROMV_VitaeHigh.description>
+            <ROMV_VitaeHigh.labelNoun>um alto vitae</ROMV_VitaeHigh.labelNoun>
+
+        <!-- Vitae Tolerance -->
+            <ROMV_VitaeTolerance.label>tolerância à vitae</ROMV_VitaeTolerance.label>
+            <ROMV_VitaeTolerance.description>Tolerância à vitae.</ROMV_VitaeTolerance.description>
+
+        <!-- Vitae Addicition -->
+            <ROMV_VitaeAddiction.label>vício em vitae</ROMV_VitaeAddiction.label>
+            <ROMV_VitaeAddiction.description>Vício em vitae.</ROMV_VitaeAddiction.description>
+            <ROMV_VitaeAddiction.stages.1.label>cancelamento</ROMV_VitaeAddiction.stages.1.label>
+
+        <!-- Drain -->
+            <ROMV_DrainHediff.label>dreno</ROMV_DrainHediff.label>
+            <ROMV_DrainHediff.description>Dreno.</ROMV_DrainHediff.description>
+
+        <!-- Sleep -->
+            <ROMV_SleepHediff.label>sono (transe profundo)</ROMV_SleepHediff.label>
+            <ROMV_SleepHediff.description>Sono (transe profundo).</ROMV_SleepHediff.description>
+
+        <!-- Possession -->
+            <ROMV_PossessionHediff.label>possesso</ROMV_PossessionHediff.label>
+            <ROMV_PossessionHediff.description>Possesso.</ROMV_PossessionHediff.description>
+
+        <!-- Light Weight -->
+            <ROMV_LightWeightHediff.label>peso leve (vôo)</ROMV_LightWeightHediff.label>
+            <ROMV_LightWeightHediff.description>Peso leve (vôo).</ROMV_LightWeightHediff.description>
+
+        <!-- Fortitude -->
+            <ROMV_FortitudeIHediff.label>fortitude I (absorção de danos)</ROMV_FortitudeIHediff.label>
+            <ROMV_FortitudeIHediff.description>Fortitude I (absorção de danos).</ROMV_FortitudeIHediff.description>
+            <ROMV_FortitudeIIHediff.label>fortitude II (absorção de danos)</ROMV_FortitudeIIHediff.label>
+            <ROMV_FortitudeIIHediff.description>Fortitude II (absorção de danos).</ROMV_FortitudeIIHediff.description>
+            <ROMV_FortitudeIIIHediff.label>fortitude III (absorção de danos)</ROMV_FortitudeIIIHediff.label>
+            <ROMV_FortitudeIIIHediff.description>Fortitude III (absorção de danos).</ROMV_FortitudeIIIHediff.description>
+            <ROMV_FortitudeIVHediff.label>fortitude IV (absorção de danos)</ROMV_FortitudeIVHediff.label>
+            <ROMV_FortitudeIVHediff.description>Fortitude IV (absorção de danos).</ROMV_FortitudeIVHediff.description>
+
+        <!-- Generations Cain -->
+            <ROM_Generations_Caine.label>primeiro vampiro</ROM_Generations_Caine.label>
+            <ROM_Generations_Caine.description>Primeiro vampiro.</ROM_Generations_Caine.description>
+
+        <!-- Generations The Three -->
+            <ROM_Generations_TheThree.label>cria de Caim</ROM_Generations_TheThree.label>
+            <ROM_Generations_TheThree.description>Cria de Caim.</ROM_Generations_TheThree.description>
+
+        <!-- Generations Antediluvian -->
+            <ROM_Generations_Antediluvian.label>antediluvian</ROM_Generations_Antediluvian.label>
+            <ROM_Generations_Antediluvian.description>Antediluvian.</ROM_Generations_Antediluvian.description>
+
+        <!-- Generations Methuselah -->
+            <ROM_Generations_Methuselah.label>methuselah</ROM_Generations_Methuselah.label>
+            <ROM_Generations_Methuselah.description>Methuselah.</ROM_Generations_Methuselah.description>
+
+        <!-- Generations Elder -->
+            <ROM_Generations_Elder.label>ancião</ROM_Generations_Elder.label>
+            <ROM_Generations_Elder.description>Ancião.</ROM_Generations_Elder.description>
+
+        <!-- Generations Ancillae  -->
+            <ROM_Generations_Ancillae.label>ancillae</ROM_Generations_Ancillae.label>
+            <ROM_Generations_Ancillae.description>Ancillae.</ROM_Generations_Ancillae.description>
+
+        <!-- Generations Neonate -->
+            <ROM_Generations_Neonate.label>recém-nascido</ROM_Generations_Neonate.label>
+            <ROM_Generations_Neonate.description>Recém-nascido.</ROM_Generations_Neonate.description>
+
+        <!-- Generations Thinblood -->
+            <ROM_Generations_Thinblood.label>sangue fraco</ROM_Generations_Thinblood.label>
+            <ROM_Generations_Thinblood.description>Sangue fraco.</ROM_Generations_Thinblood.description>
+
+        <!-- Ghoul -->
+            <ROM_GhoulHediff.label>ghoul</ROM_GhoulHediff.label>
+            <ROM_GhoulHediff.description>Um ghoul.</ROM_GhoulHediff.description>
+            <ROM_GhoulHediff.stages.0.label>não ligado</ROM_GhoulHediff.stages.0.label>
+            <ROM_GhoulHediff.stages.1.label>ligado</ROM_GhoulHediff.stages.1.label>
+            <ROM_GhoulHediff.stages.2.label>ligado a sangue antigo</ROM_GhoulHediff.stages.2.label>
+            <ROM_GhoulHediff.stages.3.label>ligado a sangue ancestral</ROM_GhoulHediff.stages.3.label>
+            <ROM_GhoulHediff.stages.4.label>ligado a sangue poderoso</ROM_GhoulHediff.stages.4.label>
+
+        <!-- Vampirism -->
+            <ROM_Vampirism.label>vampirismo</ROM_Vampirism.label>
+            <ROM_Vampirism.description>Vampirismo.</ROM_Vampirism.description>
+
+        <!-- Vampirism Random -->
+            <ROM_VampirismRandom.label>vampirismo (Aleatório)</ROM_VampirismRandom.label>
+            <ROM_VampirismRandom.description>Vampirismo (Aleatório).</ROM_VampirismRandom.description>
+            <ROM_VampirismRandom.stages.0.label>sangue fraco (mais fraco)</ROM_VampirismRandom.stages.0.label>
+            <ROM_VampirismRandom.stages.1.label>10ª a 13ª geração (médio)</ROM_VampirismRandom.stages.1.label>
+            <ROM_VampirismRandom.stages.2.label>7ª a 9ª geração (poderoso)</ROM_VampirismRandom.stages.2.label>
+            <ROM_VampirismRandom.stages.3.label>5ª a 6ª geração (dominado)</ROM_VampirismRandom.stages.3.label>
+
+        <!-- Vampirism Tzimisce -->
+            <ROM_VampirismTzimisce.label>vampirismo (Tzimisce)</ROM_VampirismTzimisce.label>
+            <ROM_VampirismTzimisce.description>Vampirismo (Tzimisce).</ROM_VampirismTzimisce.description>
+            <ROM_VampirismTzimisce.stages.0.label>sangue fraco (mais fraco)</ROM_VampirismTzimisce.stages.0.label>
+            <ROM_VampirismTzimisce.stages.1.label>10ª a 13ª geração (médio)</ROM_VampirismTzimisce.stages.1.label>
+            <ROM_VampirismTzimisce.stages.2.label>7ª a 9ª geração (poderoso)</ROM_VampirismTzimisce.stages.2.label>
+            <ROM_VampirismTzimisce.stages.3.label>5ª a 6ª geração (dominado)</ROM_VampirismTzimisce.stages.3.label>
+
+        <!-- Vampirism Lasombra -->
+            <ROM_VampirismLasombra.label>vampirismo (Lasombra)</ROM_VampirismLasombra.label>
+            <ROM_VampirismLasombra.description>Vampirismo (Lasombra).</ROM_VampirismLasombra.description>
+            <ROM_VampirismLasombra.stages.0.label>sangue fraco (mais fraco)</ROM_VampirismLasombra.stages.0.label>
+            <ROM_VampirismLasombra.stages.1.label>10ª a 13ª Geração (médio)</ROM_VampirismLasombra.stages.1.label>
+            <ROM_VampirismLasombra.stages.2.label>7ª a 9ª geração (poderoso)</ROM_VampirismLasombra.stages.2.label>
+            <ROM_VampirismLasombra.stages.3.label>5ª a 6ª geração (dominado)</ROM_VampirismLasombra.stages.3.label>
+
+        <!-- Vampirism Tremere -->
+            <ROM_VampirismTremere.label>vampirismo (Tremere)</ROM_VampirismTremere.label>
+            <ROM_VampirismTremere.description>Vampirismo (Tremere).</ROM_VampirismTremere.description>
+            <ROM_VampirismTremere.stages.0.label>sangue fraco (mais fraco)</ROM_VampirismTremere.stages.0.label>
+            <ROM_VampirismTremere.stages.1.label>10ª a 13ª geração (médio)</ROM_VampirismTremere.stages.1.label>
+            <ROM_VampirismTremere.stages.2.label>7ª a 9ª geração (poderoso)</ROM_VampirismTremere.stages.2.label>
+            <ROM_VampirismTremere.stages.3.label>5ª a 6ª geração (dominado)</ROM_VampirismTremere.stages.3.label>
+
+        <!-- Vampirism Pijavica -->
+            <ROM_VampirismPijavica.label>vampirismo (Pijavica)</ROM_VampirismPijavica.label>
+            <ROM_VampirismPijavica.description>Vampirismo (Pijavica).</ROM_VampirismPijavica.description>
+            <ROM_VampirismPijavica.stages.0.label>sangue fraco (mais fraco)</ROM_VampirismPijavica.stages.0.label>
+            <ROM_VampirismPijavica.stages.1.label>10ª a 13ª geração (médio)</ROM_VampirismPijavica.stages.1.label>
+            <ROM_VampirismPijavica.stages.2.label>7ª a 9ª geração (poderoso)</ROM_VampirismPijavica.stages.2.label>
+            <ROM_VampirismPijavica.stages.3.label>5ª a 6ª geração (dominado)</ROM_VampirismPijavica.stages.3.label>
+
+        <!-- Vampirism Gargoyle -->
+            <ROM_VampirismGargoyle.label>vampirismo (Gargoyle)</ROM_VampirismGargoyle.label>
+            <ROM_VampirismGargoyle.description>Vampirismo (Gargoyle).</ROM_VampirismGargoyle.description>
+            <ROM_VampirismGargoyle.stages.0.label>sangue fraco (mais fraco)</ROM_VampirismGargoyle.stages.0.label>
+            <ROM_VampirismGargoyle.stages.1.label>10ª a 13ª geração (médio)</ROM_VampirismGargoyle.stages.1.label>
+            <ROM_VampirismGargoyle.stages.2.label>7ª a 9ª geração (poderoso)</ROM_VampirismGargoyle.stages.2.label>
+            <ROM_VampirismGargoyle.stages.3.label>5ª a 6ª geração (dominado)</ROM_VampirismGargoyle.stages.3.label>
+
+        <!-- Vampirism Ventrue -->
+            <ROM_VampirismVentrue.label>vampirismo (Ventrue)</ROM_VampirismVentrue.label>
+            <ROM_VampirismVentrue.description>Vampirismo (Ventrue).</ROM_VampirismVentrue.description>
+            <ROM_VampirismVentrue.stages.0.label>sangue fraco (mais fraco)</ROM_VampirismVentrue.stages.0.label>
+            <ROM_VampirismVentrue.stages.1.label>10ª a 13ª geração (médio)</ROM_VampirismVentrue.stages.1.label>
+            <ROM_VampirismVentrue.stages.2.label>7ª a 9ª geração (poderoso)</ROM_VampirismVentrue.stages.2.label>
+            <ROM_VampirismVentrue.stages.3.label>5ª a 6ª geração (dominado)</ROM_VampirismVentrue.stages.3.label>
+
+        <!-- Vampirism Gangrel -->
+            <ROM_VampirismGangrel.label>vampirismo (Gangrel)</ROM_VampirismGangrel.label>
+            <ROM_VampirismGangrel.description>Vampirismo (Gangrel).</ROM_VampirismGangrel.description>
+            <ROM_VampirismGangrel.stages.0.label>sangue fraco (mais fraco)</ROM_VampirismGangrel.stages.0.label>
+            <ROM_VampirismGangrel.stages.1.label>10ª a 13ª geração (médio)</ROM_VampirismGangrel.stages.1.label>
+            <ROM_VampirismGangrel.stages.2.label>7ª a 9ª geração (poderoso)</ROM_VampirismGangrel.stages.2.label>
+            <ROM_VampirismGangrel.stages.3.label>5ª a 6ª geração (dominado)</ROM_VampirismGangrel.stages.3.label>
+
+        <!-- Vampirism Nosferatu -->
+            <ROM_VampirismNosferatu.label>vampirismo (Nosferatu)</ROM_VampirismNosferatu.label>
+            <ROM_VampirismNosferatu.description>Vampirismo (Nosferatu).</ROM_VampirismNosferatu.description>
+            <ROM_VampirismNosferatu.stages.0.label>sangue fraco (mais fraco)</ROM_VampirismNosferatu.stages.0.label>
+            <ROM_VampirismNosferatu.stages.1.label>10ª a 13ª geração (médio)</ROM_VampirismNosferatu.stages.1.label>
+            <ROM_VampirismNosferatu.stages.2.label>7ª a 9ª geração (poderoso)</ROM_VampirismNosferatu.stages.2.label>
+            <ROM_VampirismNosferatu.stages.3.label>5ª a 6ª geração (dominado)</ROM_VampirismNosferatu.stages.3.label>
+
+        <!-- The Beast -->
+            <ROMV_TheBeast.label>a besta</ROMV_TheBeast.label>
+            <ROMV_TheBeast.description>A besta.</ROMV_TheBeast.description>
+            <ROMV_TheBeast.stages.0.label>o desejo</ROMV_TheBeast.stages.0.label>
+            <ROMV_TheBeast.stages.1.label>faminto</ROMV_TheBeast.stages.1.label>
+            <ROMV_TheBeast.stages.2.label>morrendo de fome</ROMV_TheBeast.stages.2.label>
+            <ROMV_TheBeast.stages.3.label>libertou a besta</ROMV_TheBeast.stages.3.label>
+
+        <!-- Sun Exposure -->
+            <ROMV_SunExposure.label>exposição ao sol</ROMV_SunExposure.label>
+            <ROMV_SunExposure.description>Exposto ao sol.</ROMV_SunExposure.description>
+            <ROMV_SunExposure.stages.0.label>inicial</ROMV_SunExposure.stages.0.label>
+            <ROMV_SunExposure.stages.1.label>menor</ROMV_SunExposure.stages.1.label>
+            <ROMV_SunExposure.stages.2.label>sério</ROMV_SunExposure.stages.2.label>
+            <ROMV_SunExposure.stages.3.label>extremo</ROMV_SunExposure.stages.3.label>
+
+        <!-- Hide -->
+            <ROMV_HideHediff.label>esconder (Ofuscação)</ROMV_HideHediff.label>
+            <ROMV_HideHediff.description>Esconder (Ofuscação).</ROMV_HideHediff.description>
+
+        <!-- Invisibility -->
+            <ROMV_InvisibilityHediff.label>invisibilidade (Ofuscação)</ROMV_InvisibilityHediff.label>
+            <ROMV_InvisibilityHediff.description>Invisibilidade (Ofuscação).</ROMV_InvisibilityHediff.description>
+
+        <!-- Hidden Force -->
+            <ROMV_HiddenForceHediff.label>força oculta (Ofuscação)</ROMV_HiddenForceHediff.label>
+            <ROMV_HiddenForceHediff.description>Força oculta (Ofuscação).</ROMV_HiddenForceHediff.description>
+
+        <!-- Black Metamorphosis -->
+            <ROMV_BlackMetamorphosisHediff.label>metamorfose negra</ROMV_BlackMetamorphosisHediff.label>
+            <ROMV_BlackMetamorphosisHediff.description>Metamorfose negra.</ROMV_BlackMetamorphosisHediff.description>
+
+        <!-- Tenebrous Form -->
+            <ROMV_TenebrousFormHediff.label>forma tenebrosa (Tenebrosidade)</ROMV_TenebrousFormHediff.label>
+            <ROMV_TenebrousFormHediff.description>Forma tenebrosa (Tenebrosidade).</ROMV_TenebrousFormHediff.description>
+
+        <!-- Potence -->
+            <ROMV_PotenceIHediff.label>força sobrenatural (Potência I)</ROMV_PotenceIHediff.label>
+            <ROMV_PotenceIHediff.description>Força sobrenatural (Potência I).</ROMV_PotenceIHediff.description>
+            <ROMV_PotenceIIHediff.label>força sobrenatural (Potência II)</ROMV_PotenceIIHediff.label>
+            <ROMV_PotenceIIHediff.description>Força sobrenatural (Potência II).</ROMV_PotenceIIHediff.description>
+            <ROMV_PotenceIIIHediff.label>força sobrenatural (Potência III)</ROMV_PotenceIIIHediff.label>
+            <ROMV_PotenceIIIHediff.description>Força sobrenatural (Potência III).</ROMV_PotenceIIIHediff.description>
+            <ROMV_PotenceIVHediff.label>força sobrenatural (Potência IV)</ROMV_PotenceIVHediff.label>
+            <ROMV_PotenceIVHediff.description>Força sobrenatural (Potência IV).</ROMV_PotenceIVHediff.description>
+
+        <!-- Presence -->
+            <ROMV_PresenceIHediff.label>atração sobrenatural (Presença I)</ROMV_PresenceIHediff.label>
+            <ROMV_PresenceIHediff.description>Atração sobrenatural (Presença I).</ROMV_PresenceIHediff.description>
+            <ROMV_PresenceIIHediff.label>atração sobrenatural (Presença II)</ROMV_PresenceIIHediff.label>
+            <ROMV_PresenceIIHediff.description>Atração sobrenatural (Presença II).</ROMV_PresenceIIHediff.description>
+            <ROMV_PresenceIIIHediff.label>atração sobrenatural (Presença III)</ROMV_PresenceIIIHediff.label>
+            <ROMV_PresenceIIIHediff.description>Atração sobrenatural (Presença III).</ROMV_PresenceIIIHediff.description>
+            <ROMV_PresenceIVHediff.label>atração sobrenatural (Presença IV)</ROMV_PresenceIVHediff.label>
+            <ROMV_PresenceIVHediff.description>Atração sobrenatural (Presença IV).</ROMV_PresenceIVHediff.description>
+
+        <!-- Presence Cooldown -->
+            <ROMV_PresenceICooldownHediff.label>encantado (Presença I)</ROMV_PresenceICooldownHediff.label>
+            <ROMV_PresenceICooldownHediff.description>Encantado (Presença I).</ROMV_PresenceICooldownHediff.description>
+            <ROMV_PresenceIICooldownHediff.label>encantado (Presença II)</ROMV_PresenceIICooldownHediff.label>
+            <ROMV_PresenceIICooldownHediff.description>Encantado (Presença II).</ROMV_PresenceIICooldownHediff.description>
+            <ROMV_PresenceIIICooldownHediff.label>encantado (Presença III)</ROMV_PresenceIIICooldownHediff.label>
+            <ROMV_PresenceIIICooldownHediff.description>Encantado (Presença III)</ROMV_PresenceIIICooldownHediff.description>
+            <ROMV_PresenceIVCooldownHediff.label>encantado (Presença IV)</ROMV_PresenceIVCooldownHediff.label>
+            <ROMV_PresenceIVCooldownHediff.description>Encantado (Presença IV).</ROMV_PresenceIVCooldownHediff.description>
+
+        <!-- Blood Lust -->
+            <ROMV_Presence_BloodLustHediff.label>sede de sangue</ROMV_Presence_BloodLustHediff.label>
+            <ROMV_Presence_BloodLustHediff.description>Sede de sangue.</ROMV_Presence_BloodLustHediff.description>
+            <ROMV_Presence_BloodLustHediff.stages.0.label>presença IV</ROMV_Presence_BloodLustHediff.stages.0.label>
+
+        <!-- Bat Form -->
+            <ROMV_BatFormHediff.label>forma de morcego (Metamorfose)</ROMV_BatFormHediff.label>
+            <ROMV_BatFormHediff.description>Forma de morcego (Metamorfose).</ROMV_BatFormHediff.description>
+
+        <!-- Mist Form -->
+            <ROMV_MistFormHediff.label>forma de névoa (Metamorfose)</ROMV_MistFormHediff.label>
+            <ROMV_MistFormHediff.description>Forma de névoa (Metamorfose).</ROMV_MistFormHediff.description>
+
+        <!-- War Form -->
+            <ROMV_WarFormHediff.label>forma de guerra (Metamorfose)</ROMV_WarFormHediff.label>
+            <ROMV_WarFormHediff.description>Forma de guerra (Metamorfose).</ROMV_WarFormHediff.description>
+
+        <!-- Blood Shield -->
+            <ROMV_BloodShieldHediff.label>escudo de sangue (Taumaturgia)</ROMV_BloodShieldHediff.label>
+            <ROMV_BloodShieldHediff.description>Escudo de sangue (Taumaturgia).</ROMV_BloodShieldHediff.description>
+
+        <!-- Fangs -->
+            <ROMV_Fangs.label>presas</ROMV_Fangs.label>
+            <ROMV_Fangs.description>Presas.</ROMV_Fangs.description>
+            <ROMV_Fangs.comps.0.tools.0.label>presas</ROMV_Fangs.comps.0.tools.0.label>
+
+        <!-- Feral Claw -->
+            <ROMV_FeralClaw.label>garras ferozes (Metamorfose)</ROMV_FeralClaw.label>
+            <ROMV_FeralClaw.description>Garras ferozes (Metamorfose).</ROMV_FeralClaw.description>
+            <ROMV_FeralClaw.comps.0.tools.0.label>garras ferozes</ROMV_FeralClaw.comps.0.tools.0.label>
+
+        <!-- Perfect Form -->
+            <ROMV_PerfectFormHediff.label>forma perfeita (Vicissitude)</ROMV_PerfectFormHediff.label>
+            <ROMV_PerfectFormHediff.description>Forma perfeita (Vicissitude).</ROMV_PerfectFormHediff.description>
+
+        <!-- Corrupt Form Sight -->
+            <ROMV_CorruptFormHediff_Sight.label>bolsas soltas de pele</ROMV_CorruptFormHediff_Sight.label>
+            <ROMV_CorruptFormHediff_Sight.description>Bolsas soltas de pele.</ROMV_CorruptFormHediff_Sight.description>
+            <ROMV_CorruptFormHediff_Sight.comps.0.labelTendedWell>costurado</ROMV_CorruptFormHediff_Sight.comps.0.labelTendedWell>
+            <ROMV_CorruptFormHediff_Sight.comps.0.labelTendedWellInner>costurado</ROMV_CorruptFormHediff_Sight.comps.0.labelTendedWellInner>
+            <ROMV_CorruptFormHediff_Sight.injuryProps.destroyedLabel>perdido para a corrupção</ROMV_CorruptFormHediff_Sight.injuryProps.destroyedLabel>
+
+        <!-- Corrupt Form Legs -->
+            <ROMV_CorruptFormHediff_Legs.label>osso e carne dividido</ROMV_CorruptFormHediff_Legs.label>
+            <ROMV_CorruptFormHediff_Legs.description>Osso e carne dividido.</ROMV_CorruptFormHediff_Legs.description>
+            <ROMV_CorruptFormHediff_Legs.comps.0.labelTendedWell>cuidou</ROMV_CorruptFormHediff_Legs.comps.0.labelTendedWell>
+            <ROMV_CorruptFormHediff_Legs.comps.0.labelTendedWellInner>cuidou</ROMV_CorruptFormHediff_Legs.comps.0.labelTendedWellInner>
+            <ROMV_CorruptFormHediff_Legs.injuryProps.destroyedLabel>perdido para a corrupção</ROMV_CorruptFormHediff_Legs.injuryProps.destroyedLabel>
+
+        <!-- Corrupt Form Arms -->
+            <ROMV_CorruptFormHediff_Arms.label>ligamentos rompidos</ROMV_CorruptFormHediff_Arms.label>
+            <ROMV_CorruptFormHediff_Arms.description>Ligamentos rompidos.</ROMV_CorruptFormHediff_Arms.description>
+            <ROMV_CorruptFormHediff_Arms.comps.0.labelTendedWell>cuidou</ROMV_CorruptFormHediff_Arms.comps.0.labelTendedWell>
+            <ROMV_CorruptFormHediff_Arms.comps.0.labelTendedWellInner>cuidou</ROMV_CorruptFormHediff_Arms.comps.0.labelTendedWellInner>
+            <ROMV_CorruptFormHediff_Arms.injuryProps.destroyedLabel>perdido para a corrupção</ROMV_CorruptFormHediff_Arms.injuryProps.destroyedLabel>
+
+        <!-- Zulo Form -->
+            <ROMV_ZuloFormHediff.label>forma zulo (Vicissitude)</ROMV_ZuloFormHediff.label>
+            <ROMV_ZuloFormHediff.description>Forma zulo (Vicissitude).</ROMV_ZuloFormHediff.description>
+
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- No Pain Sensitivity -->
             <WMH_NoPain.label>sem sensibilidade à dor</WMH_NoPain.label>

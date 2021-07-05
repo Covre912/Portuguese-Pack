@@ -768,6 +768,29 @@
             <RE_CookMealColonialBulk.description>Cozinhe refeiões extremamente variadas. Usa poucos ingredientes, mas precisa de uma grande variedade deles.</RE_CookMealColonialBulk.description>
             <RE_CookMealColonialBulk.jobString>Cozinhando refeições coloniais.</RE_CookMealColonialBulk.jobString>
 
+    <!-- Rim of Madness - Vampires -->
+        <!-- Blood Pack -->
+            <ROM_TransferBloodPack.label>transferir bolsa de sangue</ROM_TransferBloodPack.label>
+            <ROM_TransferBloodPack.description>Transfira uma bolsa de sangue.</ROM_TransferBloodPack.description>
+            <ROM_TransferBloodPack.jobString>transferindo sangue.</ROM_TransferBloodPack.jobString>
+            <ROM_TransferBloodPackAnimal.label>transferir bolsa de sangue</ROM_TransferBloodPackAnimal.label>
+            <ROM_TransferBloodPackAnimal.description>Transfira uma bolsa de sangue.</ROM_TransferBloodPackAnimal.description>
+            <ROM_TransferBloodPackAnimal.jobString>transferindo sangue.</ROM_TransferBloodPackAnimal.jobString>
+            <ROMV_ExtractBloodPack.label>extrair bolsa de sangue</ROMV_ExtractBloodPack.label>
+            <ROMV_ExtractBloodPack.description>Extraia uma bolsa de sangue.</ROMV_ExtractBloodPack.description>
+            <ROMV_ExtractBloodPack.jobString>extraindo sangue.</ROMV_ExtractBloodPack.jobString>
+
+        <!-- Blood Vial -->
+            <ROMV_ExtractBloodVial.label>extrair frasco de sangue</ROMV_ExtractBloodVial.label>
+            <ROMV_ExtractBloodVial.description>Extraia um frasco de sangue.</ROMV_ExtractBloodVial.description>
+            <ROMV_ExtractBloodVial.jobString>extraindo sangue.</ROMV_ExtractBloodVial.jobString>
+
+        <!-- Blood Wine -->
+            <ROMV_ExtractBloodWine.label>Extrair vinho de sangue</ROMV_ExtractBloodWine.label>
+            <ROMV_ExtractBloodWine.description>Coleta sangue embriagado em uma taça de vinho.</ROMV_ExtractBloodWine.description>
+            <ROMV_ExtractBloodWine.jobString>extraindo sangue.</ROMV_ExtractBloodWine.jobString>
+
+
     <!-- RimWorld - Witcher Monster Hunt -->
         <!-- Rage of Nature Implant -->
             <WMH_InstallRageOfNatureImplant.label>instalar implante de fúria da natureza</WMH_InstallRageOfNatureImplant.label>

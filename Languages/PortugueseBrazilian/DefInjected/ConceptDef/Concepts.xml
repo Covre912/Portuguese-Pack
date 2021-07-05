@@ -69,4 +69,57 @@
             <RE_PrefabWallLamps.label>Lâmpadas de Parefe Pré-fab.</RE_PrefabWallLamps.label>
             <RE_PrefabWallLamps.helpText>As lâmpadas de parede pré-fabr. são colocadas directamente nas paredes e, por isso, são ideais para corredores ou pequenas divisões onde não se pretende desperdiçar espaço com uma luminária.</RE_PrefabWallLamps.helpText>
 
+    <!-- Rim of Madness - Vampires -->
+        <!-- Vamp Diablerie -->
+            <ROMV_VampDiablerie.label>Diablerie</ROMV_VampDiablerie.label>
+            <ROMV_VampDiablerie.helpText>Diablerie é quando um vampiro drena outro vampiro, não só toda a sua vitae, mas também a sua própria alma. Se a vítima tiver uma geração inferior à do atacante, o atacante diminuirá sua geração para corresponder à geração da alma de sua vítima. Esta é a única maneira de fortalecer ainda mais seus vampiros. Eles devem ser abatidos em combate para que suas alma seja consumida.</ROMV_VampDiablerie.helpText>
+
+        <!-- Vamp Generations -->
+            <ROMV_VampGenerations.label>Gerações</ROMV_VampGenerations.label>
+            <ROMV_VampGenerations.helpText>Vampiros têm uma história longa e sórdida que se estende de volta para o primeiro vampiro. Gerações representam o quão longe um vampiro está do primeiro. Quanto maior o número, menos poderosa é a maldição vampírica. A única maneira de diminuir a geração de alguém e se tornar mais poderoso é cometer Diablerie.</ROMV_VampGenerations.helpText>
+
+        <!-- Ghouls Blood Bond -->
+            <ROMV_GhoulsBloodBond.label>Laço de Sangue</ROMV_GhoulsBloodBond.label>
+            <ROMV_GhoulsBloodBond.helpText>Se um bebedor provar vitae do mesmo vampiro em três noites separadas, eles se tornarão ligados por sangue ao vampiro. Eles se tornam absolutamente leais ao seu dominador (mestre), e tornam-se imunes aos poderes de dominação de outros vampiros. Se um vampiro não os alimenta com qualquer vitae durante uma temporada, eles perderão seu vínculo.</ROMV_GhoulsBloodBond.helpText>
+
+        <!-- Ghouls -->
+            <ROMV_Ghouls.label>Ghouls</ROMV_Ghouls.label>
+            <ROMV_Ghouls.helpText>Ghouls são mortais que possuem tanto sangue quanto vitae vampírica. Depois de receber vitae de um dominador (mestre), eles podem resistir a danos e aprender habilidades vampíricas. Após algumas temporadas sem vitae, Ghouls entram em retirada e perdem suas habilidades. Cuidado - Ghouls sem vitae tornam-se bastante violentos.</ROMV_Ghouls.helpText>
+
+        <!-- Vampirism -->
+            <ROMV_Vampirism.label>Vampirismo</ROMV_Vampirism.label>
+            <ROMV_Vampirism.helpText>O vampirismo ocorre a partir de uma infusão de sangue amaldiçoado no recém-falecido. Um vampiro é imune à devastação do tempo e da doença e possui capacidades físicas e sobrenaturais além dos homens mortais conhecidos como "disciplinas". No entanto, eles também são afligidos por uma fome anormal do sangue dos vivos e queimam até as cinzas com o toque da luz do sol. Aqueles aflitos com o vampirismo seguem na noite como único predador natural da humanidade.</ROMV_Vampirism.helpText>
+
+        <!-- Vitae -->
+            <ROMV_Vitae.label>Vitae</ROMV_Vitae.label>
+            <ROMV_Vitae.helpText>Corrompido por sua exposição à maldição do vampiro, vitae é o que o sangue se torna dentro do corpo vampírico. Vitae é o combustível dos poderes vampíricos e permite que os vampiros continuem a animar seus cadáveres. Os vampiros podem manter uma capacidade maior de vitae em seu corpo do que seria fisicamente possível, pois a medida de vitae está no poder que detém, não em seu volume líquido.</ROMV_Vitae.helpText>
+
+        <!-- Bloodlines -->
+            <ROMV_Bloodlines.label>Linhagens De Sangue</ROMV_Bloodlines.label>
+            <ROMV_Bloodlines.helpText>Embora o vampirismo compartilhe várias características entre os parentes, com o tempo a maldição evoluiu, resultando em linhagens distintas. Essas linhagens possuem diferentes disciplinas vampíricas, benefícios, desvantagens e tendem a formar culturas sociais distintas umas das outras.</ROMV_Bloodlines.helpText>
+
+        <!-- Disciplines -->
+            <ROMV_Disciplines.label>Disciplinas</ROMV_Disciplines.label>
+            <ROMV_Disciplines.helpText>As disciplinas são as habilidades sobrenaturais dos vampiros. Diferentes linhagens inventaram ou dominaram diferentes disciplinas ao longo dos tempos, mas todas são ferramentas potentes, tornando até mesmo uma única disciplina devastadora para qualquer criatura viva.</ROMV_Disciplines.helpText>
+
+        <!-- Blood Points -->
+            <ROMV_BloodPoints.label>Pontos de Sangue</ROMV_BloodPoints.label>
+            <ROMV_BloodPoints.helpText>Todas as criaturas vivas têm sangue, seja muito ou pouco. Ter mais sangue não significa necessariamente que a vítima saciará um vampiro faminto. se o sangue da criatura for de boa qualidade, o vampiro obterá mais sustento dele. Por outro lado, se o sangue for de má qualidade, mais será necessário.</ROMV_BloodPoints.helpText>
+
+        <!-- Blood Packs -->
+            <ROMV_BloodPacks.label>Pacotes de sangue</ROMV_BloodPacks.label>
+            <ROMV_BloodPacks.helpText>Vitae pode ser medicamente extraído de um mortal em um ou três pontos de cada vez. Um ponto vai caber em um frasco, e três pontos vão caber apenas em uma bolsa de sangue. Se um vampiro beber deles, eles irão recuperar a vitae como se estivessem se alimentando de um humano.</ROMV_BloodPacks.helpText>
+
+        <!-- The Embrace -->
+            <ROMV_TheEmbrace.label>O abraço</ROMV_TheEmbrace.label>
+            <ROMV_TheEmbrace.helpText>O Abraço é como os vampiros criam neonatos, ou novos vampiros, espalhando sua maldição. Um vampiro começa se alimentando de um mortal, drenando-o até que suas veias sequem. Após sua morte, o senhor dará sua própria vitae aos restos mortais. Uma vez alimentado, o cadáver é reanimado como um vampiro.</ROMV_TheEmbrace.helpText>
+
+        <!-- The Beast -->
+            <ROMV_TheBeast.label>A fera</ROMV_TheBeast.label>
+            <ROMV_TheBeast.helpText>Cada vampiro mantém um instinto predatório sob controle. Quando o vampiro tem pouca vitae em seu corpo (menos de 25%), essa persona violenta assume o controle, orientando-o a se alimentar até que seja saciado sem se importar com a vida humana.</ROMV_TheBeast.helpText>
+
+        <!-- Rötschreck -->
+            <ROMV_Rotschreck.label>Rötschreck</ROMV_Rotschreck.label>
+            <ROMV_Rotschreck.helpText>Rötschreck, ou o medo vermelho, é um pânico cego que resulta da luz do sol ou do fogo. Se um vampiro ficar exposto ao sol por muito tempo, ele fugirá para qualquer sombra disponível em desespero, pois os raios do sol o incendiarão.</ROMV_Rotschreck.helpText>
+
 </LanguageData>
