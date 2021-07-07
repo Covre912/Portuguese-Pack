@@ -2807,6 +2807,41 @@
             <WMH_MonsterClass_Spectre>Espectro</WMH_MonsterClass_Spectre>
             <WMH_MonsterClass_Spectre_Description>A presença de uma aparição instila medo, que afeta diretamente o humor de seus colonos. Prepare-se para colapsos mentais no meio da batalha.</WMH_MonsterClass_Spectre_Description>
 
+    <!-- RPG Style Level Up Mod -->
+        <LvTab_Colonist>Colonos</LvTab_Colonist>
+        <LvTab_Animal>Animais</LvTab_Animal>
+        <LvTab_LVUPButtonDesc>Use a experiência para subir de nível.</LvTab_LVUPButtonDesc>
+        <LvTab_LVUPButton>Subir de nível</LvTab_LVUPButton>
+        <LvTab_Distribute>Distribuir estatísticas\nCom shift esquerdo *10\nCom Ctrl esquerdo *100\nCom Alt esquerdo -1</LvTab_Distribute>
+        <FP_RSLUM.LabelHeaderTip>LabelHeaderTip</FP_RSLUM.LabelHeaderTip>
+        <PawnColumnWorker_STR_Tip_Desc>Força aumenta o dano corpo a corpo, carregar peso e afeta o trabalho duro.</PawnColumnWorker_STR_Tip_Desc>
+        <PawnColumnWorker_DEX_Tip_Desc>Destreza afeta a precisão do corpo a corpo, alcance e trabalho delicado.</PawnColumnWorker_DEX_Tip_Desc>
+        <PawnColumnWorker_CHA_Tip_Desc>Charme afeta trabalhos relacionados a animais e atividades sociais.</PawnColumnWorker_CHA_Tip_Desc>
+        <PawnColumnWorker_CON_Tip_Desc>A constituição afeta a redução de danos, a velocidade de ganho de imunidade e algumas obras artísticas.</PawnColumnWorker_CON_Tip_Desc>
+        <PawnColumnWorker_AGL_Tip_Desc>A agilidade afeta a velocidade de movimento, taxa de evasão corpo a corpo e velocidade de mira.</PawnColumnWorker_AGL_Tip_Desc>
+        <PawnColumnWorker_EXP_Tip_Desc>Quando um colono ganha EXP de habilidade, ele também ganha EXP de nível.</PawnColumnWorker_EXP_Tip_Desc>
+        <PawnColumnWorker_INT_Tip_Desc>A inteligência afeta tarefas que requerem conhecimentos, como cuidados médicos.</PawnColumnWorker_INT_Tip_Desc>
+        <PawnColumnWorker_Level_Tip_Desc>Nível</PawnColumnWorker_Level_Tip_Desc>
+        <PawnColumnWorker_Need_EXP_Tip_Desc>Para subir de nível você precisa dessa quantidade de EXP.</PawnColumnWorker_Need_EXP_Tip_Desc>
+        <PawnColumnWorker_StatPoint_Tip_Desc>Você pode distribuir pontos para estatísticas.</PawnColumnWorker_StatPoint_Tip_Desc>
+        <StatsReport_STAT_STR>Força</StatsReport_STAT_STR>
+        <StatsReport_STAT_AGL>Agilidade</StatsReport_STAT_AGL>
+        <StatsReport_STAT_AGL_Aiming>Agilidade</StatsReport_STAT_AGL_Aiming>
+        <StatsReport_STAT_CHA>Charme</StatsReport_STAT_CHA>
+        <StatsReport_STAT_CON>Constituição</StatsReport_STAT_CON>
+        <StatsReport_STAT_DEX>Destreza</StatsReport_STAT_DEX>
+        <StatsReport_STAT_INT>Inteligência</StatsReport_STAT_INT>
+        <FP_RSLUM_setting_FlatStartingStat>Desativa estatísticas aleatórias. todos os colonos começam com 0 em estatísticas iniciais.</FP_RSLUM_setting_FlatStartingStat>
+        <FP_RSLUM_setting_ColonistPercent>Os colonos obterão essa porcentagem de sua experiência em habilidades. padrão = 80</FP_RSLUM_setting_ColonistPercent>
+        <FP_RSLUM_setting_AnimalEXPPerTick>Os animais receberão essa quantidade de EXP a cada 10 segundos. padrão = 5,00</FP_RSLUM_setting_AnimalEXPPerTick>
+        <FP_RSLUM_setting_Startingstat_min>Estatística inicial aleatória - valor mínimo</FP_RSLUM_setting_Startingstat_min>
+        <FP_RSLUM_setting_Startingstat_max>Estatística inicial aleatória - valor máximo</FP_RSLUM_setting_Startingstat_max>
+        <FP_RSLUM_setting_KillExpMult>Multiplicação de EXP por morte</FP_RSLUM_setting_KillExpMult>
+        <LvTab_reroll>Redistribuir estatísticas</LvTab_reroll>
+        <FP_RSLUM_setting_MaxLevel>Nível máximo</FP_RSLUM_setting_MaxLevel>
+        <FP_RSLUM_setting_LevelScaling>Escala de nível % (depende do nível médio dos colonos) :</FP_RSLUM_setting_LevelScaling>
+        <TabRSLUM>Nível</TabRSLUM>
+
     <!-- RunAndGun -->
         <!-- Tabs -->
             <RG_tab1>Definir pesado/leve...</RG_tab1>

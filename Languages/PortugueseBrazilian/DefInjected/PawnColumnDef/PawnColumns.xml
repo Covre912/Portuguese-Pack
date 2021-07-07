@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+    <!-- RPG Style Level Up Mod -->
+        <FP_RSLUM_Level.label>Nível atual</FP_RSLUM_Level.label>
+        <FP_RSLUM_EXP.label>Obtido</FP_RSLUM_EXP.label>
+        <FP_RSLUM_Need_EXP.label>Requer</FP_RSLUM_Need_EXP.label>
+        <FP_RSLUM_StatPoint.label>Pontos</FP_RSLUM_StatPoint.label>
+        <FP_RSLUM_STR.label>FOR</FP_RSLUM_STR.label>
+        <FP_RSLUM_DEX.label>DEX</FP_RSLUM_DEX.label>
+        <FP_RSLUM_AGL.label>AGL</FP_RSLUM_AGL.label>
+        <FP_RSLUM_CON.label>CON</FP_RSLUM_CON.label>
+        <FP_RSLUM_INT.label>INT</FP_RSLUM_INT.label>
+        <FP_RSLUM_CHA.label>CHA</FP_RSLUM_CHA.label>
+
     <!-- Smart Medicine -->
         <UnlimitedSurgery.headerTip>Cirurgia usa a melhor medicina</UnlimitedSurgery.headerTip>
 

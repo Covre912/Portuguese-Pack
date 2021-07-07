@@ -5,6 +5,10 @@
         <Research.label>pesquisa</Research.label>
         <Research.description>Examine e decida sobre os projetos de pesquisa.</Research.description>
 
+    <!-- RPG Style Level Up Mod -->
+        <RSLUM_tab.label>nível</RSLUM_tab.label>
+        <RSLUM_tab.description>Administre a estatística de colonos.</RSLUM_tab.description>
+
     <!-- Vanilla Achievements Expanded -->
         <Achievements.label>conquistas</Achievements.label>
         <Achievements.description>Desbloqueie conquistas, ganhe pontos, gerencie seu progresso.</Achievements.description>
