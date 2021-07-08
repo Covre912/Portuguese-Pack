@@ -41,7 +41,7 @@ Este programa lhe permite criar arquivos de traduções rapidamente.
 
 #### Repositório
 
-1. Acesse o [repositório principal](https://github.com/KitsuneModder/Portuguese-Pack) e procure a opção **Fork** no menu superior direito. Ela está localizada logo após as opções **Unwatch** e **Unstar**;
+1. Acesse o [repositório principal](https://github.com/KitsuneModder/Portuguese-Pack) e procure a opção **Fork** no menu superior esquerdo/direito. Ela está localizada logo após as opções **Unwatch** e **Unstar**;
 2. No pop-up que irá aparecer, clique no seu nome de usuário (para o qual você quer criar o repositório) e espere o repositório ser criado.
 
 #### Atualização
