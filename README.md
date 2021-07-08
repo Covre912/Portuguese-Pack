@@ -15,4 +15,4 @@ Translators:
 -------------------------
 
 ### ATENÇÃO
-- Antes de começar a traduzir, leia nosso [manual de tradução](https://github.com/KitsuneModder/Portuguese-Pack/blob/master/boaspraticas).
+- Antes de começar a traduzir, leia o [manual de tradução](https://github.com/KitsuneModder/Portuguese-Pack/blob/master/boaspraticas).
