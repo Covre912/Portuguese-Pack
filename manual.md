@@ -19,8 +19,8 @@
 - Aplicativo do GitHub: [GitHub Desktop](https://desktop.github.com/). (2)
 - [RimTrans](https://github.com/RimWorld-zh/RimTrans). (3)
 
-#### (1) Editor de Texto
-Este programas lhe permite fazer modificações nos arquivos da tradução.
+#### (1) Visual Studio Code
+Este programa lhe permite fazer modificações nos arquivos da tradução.
 
 #### (2) GitHub Desktop
 Este é o programa que vai lhe permitir (e auxiliar) adicionar novas traduções ao repositório oficial, como também atualizar seu próprio repositório.
