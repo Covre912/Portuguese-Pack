@@ -3616,61 +3616,50 @@
             <Lighting_MURWallLightOrange.label>lâmpada de parede (laranja)</Lighting_MURWallLightOrange.label>
             <Lighting_MURWallLightOrange.description>Uma luminária projetada para ser montada em uma parede. De cor laranja.</Lighting_MURWallLightOrange.description>
 
-  <!-- As a nice easy first Deep Storage Unit -->
+    <!-- LMW Deep Storage -->
+        <LWM_BigShelf.label>prateleira média</LWM_BigShelf.label>
+        <LWM_BigShelf.description>Esta prateleira comporta o dobro da normal..\n\nOs itens armazenados não se deterioram, mesmo se estiverem do lado de fora.</LWM_BigShelf.description>
 
-  <LWM_BigShelf.label>Prateleira média</LWM_BigShelf.label>
-  <LWM_BigShelf.description>Esta prateleira comporta o dobro da normal..\n\nOs itens armazenados não se deterioram, mesmo se estiverem do lado de fora.</LWM_BigShelf.description>
+        <LWM_VeryBigShelf.label>prateleira grande</LWM_VeryBigShelf.label>
+        <LWM_VeryBigShelf.description>Uma prateleira grande para armazenar itens diversos.\n\nOs itens armazenados não se deterioram, mesmo se estiverem do lado de fora.</LWM_VeryBigShelf.description>
 
-  <LWM_VeryBigShelf.label>Prateleira grande</LWM_VeryBigShelf.label>
-  <LWM_VeryBigShelf.description>Uma prateleira grande para armazenar itens diversos.\n\nOs itens armazenados não se deterioram, mesmo se estiverem do lado de fora.</LWM_VeryBigShelf.description>
+        <LWM_MealRack.label>bandeja de alimentos</LWM_MealRack.label>
+        <LWM_MealRack.description>Colonos deixam refeições aqui para armazenamento.</LWM_MealRack.description>
 
-  <LWM_MealRack.label>Bandeja de alimentos</LWM_MealRack.label>
-  <LWM_MealRack.description>Colonos deixam refeições aqui para armazenamento.</LWM_MealRack.description>
+        <LWM_Food_Basket.label>cesto de vegetais</LWM_Food_Basket.label>
+        <LWM_Food_Basket.description>Um mini-celeiro para armazenar alimentos crus e vegetais.</LWM_Food_Basket.description>
 
-  <LWM_Food_Basket.label>Cesto de vegetais</LWM_Food_Basket.label>
-  <LWM_Food_Basket.description>Um mini-celeiro para armazenar alimentos crus e vegetais.</LWM_Food_Basket.description>
+        <LWM_Meat_Hook.label>gancho de açougue</LWM_Meat_Hook.label>
+        <LWM_Meat_Hook.description>Uma estrutura de metal com vários ganchos pendurados em correntes. Uma manivela simples permite içar várias coisas suspensas no ar. Uma maneira de armazenar os cadáveres de outros animais que você matou, antes de cortá-los e consumir sua carne.\n\nObserve que você só pode colocar um determinado número de cadáveres de gigantes em um espaço, mesmo que os empilhe. O quadro só aguentará um certo peso.</LWM_Meat_Hook.description>
 
-  <LWM_Meat_Hook.label>Gancho de açougue</LWM_Meat_Hook.label>
-  <LWM_Meat_Hook.description>Uma estrutura de metal com vários ganchos pendurados em correntes. Uma manivela simples permite içar várias coisas suspensas no ar. Uma maneira de armazenar os cadáveres de outros animais que você matou, antes de cortá-los e consumir sua carne.
+        <LWM_Hayloft.label>palheiro</LWM_Hayloft.label>
+        <LWM_Hayloft.description>"Um palheiro é um espaço acima de um celeiro, estábulo ou curral. \n\nEssa estrutura pode ser usada para armazenar feno, silagem e vários outros materiais vegetais de pisos úmidos.</LWM_Hayloft.description>
 
-Observe que você só pode colocar um determinado número de cadáveres de gigantes em um espaço, mesmo que os empilhe. O quadro só aguentará um certo peso.</LWM_Meat_Hook.description>
+        <LWM_FabricHamper.label>cesto de tecido</LWM_FabricHamper.label>
+        <LWM_FabricHamper.description>Este é um conjunto de cesto de tecido. Os vários bolsos permitem armazenar grandes quantidades de diversos itens pequenos com facilidade.\n\nSe você realmente deseja armazenar tecidos em bolsas, consulte as configurações do mod!</LWM_FabricHamper.description>
 
-  <LWM_Hayloft.label>Palheiro</LWM_Hayloft.label>
-  <LWM_Hayloft.description>"Um palheiro é um espaço acima de um celeiro, estábulo ou curral. \n\nEssa estrutura pode ser usada para armazenar feno, silagem e vários outros materiais vegetais de pisos úmidos.</LWM_Hayloft.description>
+        <LWM_Pallet.label>palete</LWM_Pallet.label>
+        <LWM_Pallet.description>Uma palete plana para embalar coisas. Não protege contra as intempéries. Às vezes difícil de gerenciar, mas útil mesmo assim.</LWM_Pallet.description>
 
-  <LWM_FabricHamper.label>Cesto de tecido</LWM_FabricHamper.label>
-  <LWM_FabricHamper.description>Este é um conjunto de cesto de tecido. Os vários bolsos permitem armazenar grandes quantidades de diversos itens pequenos com facilidade.\n\nSe você realmente deseja armazenar tecidos em bolsas, consulte as configurações do mod!</LWM_FabricHamper.description>
+        <LWM_Pallet_Covered.label>palete com embalagem</LWM_Pallet_Covered.label>
+        <LWM_Pallet_Covered.description>Uma palete plana para embalar coisas. Embrulhar as coisas em um oleado grosso mantém os itens seguros e organizados. Você pode embalar mais tipos de coisas neste palete porque você pode embalar os itens juntos, embora isso o retarde um pouco.</LWM_Pallet_Covered.description>
 
-  <LWM_Pallet.label>Palete</LWM_Pallet.label>
-  <LWM_Pallet.description>Uma palete plana para embalar coisas. Não protege contra as intempéries. Às vezes difícil de gerenciar, mas útil mesmo assim.</LWM_Pallet.description>
+        <LWM_DeepStorage_Skip.label>caçamba</LWM_DeepStorage_Skip.label>
+        <LWM_DeepStorage_Skip.description>Uma grande lixeira de metal para jogar coisas pesadas. Essas Caçamba não são cobertas; eles estão abertas ao clima.\n\nNota: jogar grandes quantidades de aço àtoa significa que demora um pouco para encontrar o aço desejado mais tarde. Colonos têm que subir e empilhar tudo para que os cachorrinhos possam pegá-lo facilmente.</LWM_DeepStorage_Skip.description>
 
-  <LWM_Pallet_Covered.label>Palete com embalagem</LWM_Pallet_Covered.label>
-  <LWM_Pallet_Covered.description>Uma palete plana para embalar coisas. Embrulhar as coisas em um oleado grosso mantém os itens seguros e organizados. Você pode embalar mais tipos de coisas neste palete porque você pode embalar os itens juntos, embora isso o retarde um pouco.</LWM_Pallet_Covered.description>
+        <LWM_Medicine_Cabinet.label>armário de remédios</LWM_Medicine_Cabinet.label>
+        <LWM_Medicine_Cabinet.description>Um conjunto de armários para estocagem de remédios e drogas. Recomendado: fique de olho nas crianças.</LWM_Medicine_Cabinet.description>
 
-  <LWM_DeepStorage_Skip.label>Caçamba</LWM_DeepStorage_Skip.label>
-  <LWM_DeepStorage_Skip.description>Uma grande lixeira de metal para jogar coisas pesadas. Essas Caçamba não são cobertas; eles estão abertas ao clima.
+        <LWM_Clothing_Rack.label>armário de roupas</LWM_Clothing_Rack.label>
+        <LWM_Clothing_Rack.description>Um armário coberto para guardar roupas para um acesso fácil e rápido e um ambiente organizado.</LWM_Clothing_Rack.description>
 
-Nota: jogar grandes quantidades de aço àtoa significa que demora um pouco para encontrar o aço desejado mais tarde. Colonos têm que subir e empilhar tudo para que os cachorrinhos possam pegá-lo facilmente.</LWM_DeepStorage_Skip.description>
+        <LWM_Safe.label>cofre</LWM_Safe.label>
+        <LWM_Safe.description>Uma caixa segura com chave para armazenar objetos de valor com segurança contra roubo ou danos causados por fogo.\n\nNota: proteção contra incêndio ainda não implementada.</LWM_Safe.description>
 
-  <LWM_Medicine_Cabinet.label>Armário de remédios</LWM_Medicine_Cabinet.label>
-  <LWM_Medicine_Cabinet.description>Um conjunto de armários para estocagem de remédios e drogas. Recomendado: fique de olho nas crianças.</LWM_Medicine_Cabinet.description>
+        <LWM_WeaponsCabinet.label>armário de armas</LWM_WeaponsCabinet.label>
+        <LWM_WeaponsCabinet.description>Um robusto estoque para armazenar várias armas. Os itens armazenados não se deterioram.</LWM_WeaponsCabinet.description>
 
-  <LWM_Clothing_Rack.label>Armário de roupas</LWM_Clothing_Rack.label>
-  <LWM_Clothing_Rack.description>Um armário coberto para guardar roupas para um acesso fácil e rápido e um ambiente organizado.</LWM_Clothing_Rack.description>
-
-  <LWM_Safe.label>Cofre</LWM_Safe.label>
-  <LWM_Safe.description>Uma caixa segura com chave para armazenar objetos de valor com segurança contra roubo ou danos causados por fogo.\n\nNota: proteção contra incêndio ainda não implementada.</LWM_Safe.description>
-
-  <!-- also available for lazy colonists -->
-
-  <LWM_WeaponsCabinet.label>Armário de armas</LWM_WeaponsCabinet.label>
-  <LWM_WeaponsCabinet.description>Um robusto estoque para armazenar várias armas. Os itens armazenados não se deterioram.</LWM_WeaponsCabinet.description>
-
-
-  <!-- or for anyone who builds some good careful metal-working tools -->
-
-  <LWM_WeaponsLocker.label>Estoque de armas</LWM_WeaponsLocker.label>
-  <LWM_WeaponsLocker.description>Um estoque de metal de alta capacidade para armazenar muitas armas com segurança. Os itens armazenados não se deterioram.</LWM_WeaponsLocker.description>
-
+        <LWM_WeaponsLocker.label>estoque de armas</LWM_WeaponsLocker.label>
+        <LWM_WeaponsLocker.description>Um estoque de metal de alta capacidade para armazenar muitas armas com segurança. Os itens armazenados não se deterioram.</LWM_WeaponsLocker.description>
 
 </LanguageData>
