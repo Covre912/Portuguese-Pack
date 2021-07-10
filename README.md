@@ -12,6 +12,7 @@ Translators:
 - LuizFernando6Th
 - Uslyst
 - Nem te conto
+- Pedrinho Gamer 123123
 -------------------------
 
 ### ATENÇÃO
