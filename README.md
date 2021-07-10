@@ -12,6 +12,7 @@ Translators:
 - LuizFernando6Th
 - Uslyst
 - Nem te conto
+- Teste
 -------------------------
 
 ### ATENÇÃO
