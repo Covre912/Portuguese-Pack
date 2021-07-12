@@ -3672,5 +3672,17 @@ Nota: jogar grandes quantidades de aço àtoa significa que demora um pouco para
   <LWM_WeaponsLocker.label>Estoque de armas</LWM_WeaponsLocker.label>
   <LWM_WeaponsLocker.description>Um estoque de metal de alta capacidade para armazenar muitas armas com segurança. Os itens armazenados não se deterioram.</LWM_WeaponsLocker.description>
 
+  <DecorativeTreePot.label>Vaso de árvore decorativa</DecorativeTreePot.label>
+  <DecorativeTreePot.description>Solo estranho especial é adequado apenas para o cultivo de árvores especialmente modificadas. É muito caro e impróprio para o cultivo de plantas normais. O pequeno volume do vaso não permite que as árvores cresçam muito, o que torna possível ficar sob um telhado</DecorativeTreePot.description>
+  <DecorativeTreePot_Blueprint.label>Vaso de árvore decorativa (diagrama)</DecorativeTreePot_Blueprint.label>
+  <DecorativeTreePot_Blueprint_Install.label>Vaso de árvore decorativa (diagrama)</DecorativeTreePot_Blueprint_Install.label>
+  <DecorativeTreePot_Frame.label>Vaso de árvore decorativa (construção)</DecorativeTreePot_Frame.label>
+  <DecorativeTreePot_Frame.description>Solo estranho especial é adequado apenas para o cultivo de árvores especialmente modificadas. É muito caro e impróprio para o cultivo de plantas normais. O pequeno volume do vaso não permite que as árvores cresçam muito, o que torna possível ficar sob um telhado</DecorativeTreePot_Frame.description>
+
+  <SiverTree.label>Árvore de prata</SiverTree.label>
+  <SiverTree.description>É uma árvore decorativa incomum, que aumenta a beleza e dá um pouco de prata</SiverTree.description>
+
+  <PartyTree.label>Árvore de festa</PartyTree.label>
+  <PartyTree.description>O pinheiro macio com um cheiro agradável vai decorar bem qualquer interior. E se você decorar, você pode dar uma festa</PartyTree.description>
 
 </LanguageData>

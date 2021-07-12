@@ -122,4 +122,10 @@
             <ROMV_Rotschreck.label>Rötschreck</ROMV_Rotschreck.label>
             <ROMV_Rotschreck.helpText>Rötschreck, ou o medo vermelho, é um pânico cego que resulta da luz do sol ou do fogo. Se um vampiro ficar exposto ao sol por muito tempo, ele fugirá para qualquer sombra disponível em desespero, pois os raios do sol o incendiarão.</ROMV_Rotschreck.helpText>
 
+  <DW_Penalties.label>Penalidade por dupla empunhadura</DW_Penalties.label>
+  <DW_Penalties.helpText>O empunhamento duplo não vem sem penalidades. Tanto o tempo de espera (tempo em que um peão não pode fazer nada depois de atirar) e a precisão do tiro obtêm uma penalidade que pode ser configurada nas configurações do mod. Esta penalidade depende muito da habilidade (corpo a corpo para armas corpo a corpo e tiro para armas de longo alcance) do peão. Deixar seu peão de habilidade de tiro nível 1 com armas de dupla empunhadura pode não ser uma idéia tão boa!</DW_Penalties.helpText>
+
+  <DW_Settings.label>Dupla empunhadura configurações</DW_Settings.label>
+  <DW_Settings.helpText>Não se esqueça de verificar as configurações do mod para dupla empunhadura. Se houver algo de que você não goste no mod, você provavelmente encontrará uma configuração que resolva seu problema.</DW_Settings.helpText>
+
 </LanguageData>
