@@ -54,7 +54,8 @@
             <VFES_EnergyShieldRadius.label>raio de escudo</VFES_EnergyShieldRadius.label>
             <VFES_EnergyShieldRadius.description>A área coberta quando o escudo de energia está ativo.</VFES_EnergyShieldRadius.description>
 
-  <LWM_DS_Stats.label>Capacidade do deep storage</LWM_DS_Stats.label>
+    <!-- LMW Deep Storage -->
+        <LWM_DS_Stats.label>Capacidade</LWM_DS_Stats.label>
 
 
 </LanguageData>
