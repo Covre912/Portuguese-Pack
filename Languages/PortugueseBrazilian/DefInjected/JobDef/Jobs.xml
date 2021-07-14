@@ -167,4 +167,8 @@
         <Sabotage.reportString>sabotando.</Sabotage.reportString>
         <ExtractZombieSerum.reportString>extraindo soro de zumbi do TargetA.</ExtractZombieSerum.reportString>
 
+  <GoToThrowParty.reportString>dando uma festa.</GoToThrowParty.reportString>
+
+  <DW_EquipOffhand.reportString>Equipando</DW_EquipOffhand.reportString>
+
 </LanguageData>

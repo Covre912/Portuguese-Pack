@@ -687,4 +687,7 @@
             <MAO_AdvancedDroneAssembly.label>montagem avançada de drones</MAO_AdvancedDroneAssembly.label>
             <MAO_AdvancedDroneAssembly.description>Pesquise drones mais avançados, capazes de analisar e processar informações complexas.</MAO_AdvancedDroneAssembly.description>
 
+  <DecorativeTreeResearch.label>árvores decorativas</DecorativeTreeResearch.label>
+  <DecorativeTreeResearch.description>Semeie árvores incomuns em vasos especiais.</DecorativeTreeResearch.description>
+
 </LanguageData>

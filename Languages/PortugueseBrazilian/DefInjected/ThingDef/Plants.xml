@@ -404,4 +404,9 @@
             <VCE_Plant_SweetheartPlant.label>caladium</VCE_Plant_SweetheartPlant.label>
             <VCE_Plant_SweetheartPlant.description>Uma suculenta cultivada com folhas em forma de coração em uma haste alta.</VCE_Plant_SweetheartPlant.description>
 
+  <SiverTree.label>árvore de prata</SiverTree.label>
+  <SiverTree.description>uma árvore decorativa incomum, que aumenta a beleza e dá um pouco de prata</SiverTree.description>
+  <PartyTree.label>árvore de festa</PartyTree.label>
+  <PartyTree.description>Um pinheiro macio com um cheiro agradável vai decorar bem qualquer interior. E se você decorar, você pode dar uma festa</PartyTree.description>
+
 </LanguageData>
