@@ -11,7 +11,7 @@ Translators:
 - Sr.dino
 - LuizFernando6Th
 - Uslyst
-- Nem te conto
+- [Nem te conto](https://github.com/antunes1611)
 -------------------------
 
 ### ATENÇÃO
