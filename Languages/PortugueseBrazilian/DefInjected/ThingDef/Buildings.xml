@@ -3662,4 +3662,7 @@
         <LWM_WeaponsLocker.label>estoque de armas</LWM_WeaponsLocker.label>
         <LWM_WeaponsLocker.description>Um estoque de metal de alta capacidade para armazenar muitas armas com segurança. Os itens armazenados não se deterioram.</LWM_WeaponsLocker.description>
 
+<DecorativeTreePot.label>vaso de árvore decorativo</DecorativeTreePot.label>
+<DecorativeTreePot.description>Solo estranho especial adequado apenas para o cultivo de árvores especialmente modificadas. É muito caro e impróprio para o cultivo de plantas normais. O pequeno volume do vaso não permite que as árvores cresçam muito, o que torna possível ficar sob um telhado.</DecorativeTreePot.description>
+
 </LanguageData>
