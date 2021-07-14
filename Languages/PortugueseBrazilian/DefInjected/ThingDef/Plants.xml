@@ -404,4 +404,17 @@
             <VCE_Plant_SweetheartPlant.label>caladium</VCE_Plant_SweetheartPlant.label>
             <VCE_Plant_SweetheartPlant.description>Uma suculenta cultivada com folhas em forma de coração em uma haste alta.</VCE_Plant_SweetheartPlant.description>
 
+  <DecorativeTreePot.label>vaso de árvore decorativo</DecorativeTreePot.label>
+  <DecorativeTreePot.description>Solo estranho especial adequado apenas para o cultivo de árvores especialmente modificadas. É muito caro e impróprio para o cultivo de plantas normais. O pequeno volume do vaso não permite que as árvores cresçam muito, o que torna possível ficar sob um telhado.</DecorativeTreePot.description>
+  <DecorativeTreePot_Blueprint.label>Vaso de árvore decorativa (diagrama)</DecorativeTreePot_Blueprint.label>
+  <DecorativeTreePot_Blueprint_Install.label>Vaso de árvore decorativa (diagrama)</DecorativeTreePot_Blueprint_Install.label>
+  <DecorativeTreePot_Frame.label>Vaso de árvore decorativa (construção)</DecorativeTreePot_Frame.label>
+  <DecorativeTreePot_Frame.description>Solo estranho especial é adequado apenas para o cultivo de árvores especialmente modificadas. É muito caro e impróprio para o cultivo de plantas normais. O pequeno volume do vaso não permite que as árvores cresçam muito, o que torna possível ficar sob um telhado</DecorativeTreePot_Frame.description>
+
+  <SiverTree.label>Árvore de prata</SiverTree.label>
+  <SiverTree.description>É uma árvore decorativa incomum, que aumenta a beleza e dá um pouco de prata</SiverTree.description>
+
+  <PartyTree.label>Árvore de festa</PartyTree.label>
+  <PartyTree.description>O pinheiro macio com um cheiro agradável vai decorar bem qualquer interior. E se você decorar, você pode dar uma festa</PartyTree.description>
+
 </LanguageData>

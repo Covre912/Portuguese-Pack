@@ -4596,7 +4596,7 @@
   <DW_Setting_NPCDualWieldChance_Title>Chance de empunhar arma secundária NPC / inimigo (%)</DW_Setting_NPCDualWieldChance_Title>
   <DW_Setting_NPCDualWieldChance_Description>Chance de que um determinado NPC (inimigo ou amigo) use empunhadura dupla, desde que não tenha surgido com uma arma de duas mãos.</DW_Setting_NPCDualWieldChance_Description>
 
-  <DW_Message_UnequippedOffHand>{0} largou {1} arma secundária para abrir espaço para uma arma de duas mãos.</DW_Message_UnequippedOffHand>
+  <DW_Message_UnequippedOffHand>{0} largou sua arma secundária para abrir espaço para uma arma de duas mãos.</DW_Message_UnequippedOffHand>
   <DW_HerHis_Male>seu</DW_HerHis_Male>
   <DW_HerHis_Female>sua</DW_HerHis_Female>
   <DW_EquipOffHand>Equipar {0} (secundária)</DW_EquipOffHand>
