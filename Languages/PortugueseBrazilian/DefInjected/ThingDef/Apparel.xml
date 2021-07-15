@@ -699,6 +699,11 @@
             <VWE_Apparel_GrenadeToxicBelt.description>Recipientes de gás letal, causam forte acúmulo tóxico em um período muito curto de tempo. Pode ser recarregado com granadas tóxicas.</VWE_Apparel_GrenadeToxicBelt.description>
             <VWE_Apparel_GrenadeToxicBelt.verbs.0.label>lançar granada tóxica</VWE_Apparel_GrenadeToxicBelt.verbs.0.label>
 
+        <!-- Tear Gas Grenade Belt -->
+            <VWE_Apparel_GrenadeTearGasBelt.label>cinto de granadas de gás lacrimogêneo</VWE_Apparel_GrenadeTearGasBelt.label>
+            <VWE_Apparel_GrenadeTearGasBelt.description>Cilindro moderno contendo um composto especial comumente conhecido como gás lacrimogêneo, preso a um cinto. Pode ser recarregado com granadas de gás lacrimogêneo.</VWE_Apparel_GrenadeTearGasBelt.description>
+            <VWE_Apparel_GrenadeTearGasBelt.verbs.0.label>lançar granada de gás lacrimogêneo</VWE_Apparel_GrenadeTearGasBelt.verbs.0.label>
+
     <!-- Vanilla Weapons Expanded - Heavy Weapons -->
         <!-- Exoskeleton Frame -->
             <VWE_Apparel_Exoframe.label>armação de exoesqueleto</VWE_Apparel_Exoframe.label>

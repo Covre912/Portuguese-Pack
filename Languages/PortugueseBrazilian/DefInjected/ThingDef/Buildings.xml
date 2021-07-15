@@ -1138,6 +1138,11 @@
             <VFEV_FuneralPyre.label>pira funerária</VFEV_FuneralPyre.label>
             <VFEV_FuneralPyre.description>Uma pilha cerimonial de madeira, erguida temporariamente para a realização de funerais honrosos.</VFEV_FuneralPyre.description>
 
+    <!-- Vanilla Expanded Framework -->
+        <!-- Power Conduit -->
+            <KCSG_PowerConduit.label>cabo elétrico</KCSG_PowerConduit.label>
+            <KCSG_PowerConduit.description>Um fardo enterrado de cabos elétricos para distribuir a energia.</KCSG_PowerConduit.description>
+
     <!-- Vanilla Furniture Expanded -->
         <!-- Slab Bed -->
             <Bed_StoneSlab.label>cama de laje</Bed_StoneSlab.label>
@@ -3662,7 +3667,8 @@
         <LWM_WeaponsLocker.label>estoque de armas</LWM_WeaponsLocker.label>
         <LWM_WeaponsLocker.description>Um estoque de metal de alta capacidade para armazenar muitas armas com segurança. Os itens armazenados não se deterioram.</LWM_WeaponsLocker.description>
 
-<DecorativeTreePot.label>vaso de árvore decorativo</DecorativeTreePot.label>
-<DecorativeTreePot.description>Solo estranho especial adequado apenas para o cultivo de árvores especialmente modificadas. É muito caro e impróprio para o cultivo de plantas normais. O pequeno volume do vaso não permite que as árvores cresçam muito, o que torna possível ficar sob um telhado.</DecorativeTreePot.description>
+    <!-- Decorative Trees -->
+        <DecorativeTreePot.label>vaso de árvore decorativo</DecorativeTreePot.label>
+        <DecorativeTreePot.description>Solo estranho especial adequado apenas para o cultivo de árvores especialmente modificadas. É muito caro e impróprio para o cultivo de plantas normais. O pequeno volume do vaso não permite que as árvores cresçam muito, o que torna possível ficar sob um telhado.</DecorativeTreePot.description>
 
 </LanguageData>

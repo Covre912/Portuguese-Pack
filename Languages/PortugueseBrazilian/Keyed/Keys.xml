@@ -2939,14 +2939,6 @@
             <RandomQuestRewardItemLetter>Item de missão</RandomQuestRewardItemLetter>
             <RandomQuestRewardItem>O item de missão aleatório chegou!</RandomQuestRewardItem>
 
-    <!-- Vanilla Animals Expanded - Australia -->
-        <!-- Body Clock -->
-    	    <NocturnalAnimals.BodyClock>Relógio biológico</NocturnalAnimals.BodyClock>
-	        <NocturnalAnimals.BodyClock_Description>Determina quando o animal dorme e quando está acordado.\n\nAnimais diurnos dormem durante a noite e estão acordados durante o dia, enquanto os animais noturnos dormem durante o dia e estão acordados durante a noite. Animais crepusculares são principalmente ativos durante o início da noite.</NocturnalAnimals.BodyClock_Description>
-	        <NocturnalAnimals.BodyClock_Diurnal>Diurno</NocturnalAnimals.BodyClock_Diurnal>
-	        <NocturnalAnimals.BodyClock_Nocturnal>Noturno</NocturnalAnimals.BodyClock_Nocturnal>
-	        <NocturnalAnimals.BodyClock_Crepuscular>Crepuscular</NocturnalAnimals.BodyClock_Crepuscular>
-
     <!-- Vanilla Animals Expanded - Endangered -->
         <!-- Release Into Wild -->
         	<VAEE.ReleaseIntoWild>Libertar</VAEE.ReleaseIntoWild>
@@ -3213,236 +3205,194 @@
             <HPBaseC>Grupo de caça</HPBaseC>
 
     <!-- Vanilla Expanded Framework -->
-        <!-- Shield -->
-            <VanillaFactionsExpanded.EquipShield>Equipar {0} como escudo</VanillaFactionsExpanded.EquipShield>
-            <VanillaFactionsExpanded.EquipWarningShieldUnusable>(inutilizável com {0})</VanillaFactionsExpanded.EquipWarningShieldUnusable>
-            <VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>({0} ficará inutilizável)</VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>
-            <VanillaFactionsExpanded.Protects>Protege</VanillaFactionsExpanded.Protects>
-            <VanillaFactionsExpanded.Protects_Desc>Quais partes do corpo o escudo protege.</VanillaFactionsExpanded.Protects_Desc>
-
-        <!-- Scenario Parts -->
-            <VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>Modificadores de relação de facção</VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>
-            <VanillaFactionsExpanded.NumberRange>{0} a {1}</VanillaFactionsExpanded.NumberRange>
-            <VanillaFactionsExpanded.AllFactions>Todas as facções</VanillaFactionsExpanded.AllFactions>
-            <VanillaFactionsExpanded.AllFactionsIncludingHidden>Todas as facções, incluindo ocultas</VanillaFactionsExpanded.AllFactionsIncludingHidden>
-            <VanillaFactionsExpanded.AlwaysHostile>Sempre hostil</VanillaFactionsExpanded.AlwaysHostile>
-            <VanillaFactionsExpanded.AffectHiddenFactions>Afeta ocultas</VanillaFactionsExpanded.AffectHiddenFactions>
-            <VanillaFactionsExpanded.StartingGoodwill>Iniciando</VanillaFactionsExpanded.StartingGoodwill>
-            <VanillaFactionsExpanded.NaturalGoodwill>Natural</VanillaFactionsExpanded.NaturalGoodwill>
-
-        <!-- Stat Draw Entries -->
-            <VanillaFactionsExpanded.UsableWithShield>Utilizável com escudos</VanillaFactionsExpanded.UsableWithShield>
-            <VanillaFactionsExpanded.UsableWithShield_Desc>Se esta arma pode ou não ser utilizada se o personagem também tiver um escudo equipado.</VanillaFactionsExpanded.UsableWithShield_Desc>
-
-        <!-- New Faction Spawning -->
-            <VanillaFactionsExpanded.FactionTitle>Nova facção: {FactionName}</VanillaFactionsExpanded.FactionTitle>
-            <VanillaFactionsExpanded.ModInfo>Esta facção foi adicionada por {ModName} e atualmente não está presente em seu jogo.</VanillaFactionsExpanded.ModInfo>
-            <VanillaFactionsExpanded.AnUnknownMod>um mod desconhecido</VanillaFactionsExpanded.AnUnknownMod>
-            <VanillaFactionsExpanded.HiddenFactionInfo>Esta é uma facção oculta e não aparecerá na sua lista de facções.</VanillaFactionsExpanded.HiddenFactionInfo>
-            <VanillaFactionsExpanded.RequiredFactionInfo>Marcado como exigido por {ModName}.</VanillaFactionsExpanded.RequiredFactionInfo>
-            <VanillaFactionsExpanded.NonSpawningFactionInfo>Esta facção está marcada como não-gerar e você provavelmente deve simplesmente ignorá-la.</VanillaFactionsExpanded.NonSpawningFactionInfo>
-            <VanillaFactionsExpanded.FactionSelectOption>Selecione como proceder:</VanillaFactionsExpanded.FactionSelectOption>
-            <VanillaFactionsExpanded.FactionButtonAdd>Adicionar a facção</VanillaFactionsExpanded.FactionButtonAdd>
-            <VanillaFactionsExpanded.FactionButtonAddFull>Adicionar a facção com assentamentos</VanillaFactionsExpanded.FactionButtonAddFull>
-            <VanillaFactionsExpanded.FactionButtonSkip>Ignorar</VanillaFactionsExpanded.FactionButtonSkip>
-            <VanillaFactionsExpanded.FactionButtonIgnore>Não pergunte sobre esta facção novamente</VanillaFactionsExpanded.FactionButtonIgnore>
-            <VanillaFactionsExpanded.FactionMessageFailed>Falha ao adicionar a facção.</VanillaFactionsExpanded.FactionMessageFailed>
-            <VanillaFactionsExpanded.FactionMessageFailedFull>Falha ao criar uma facção com assentamentos.</VanillaFactionsExpanded.FactionMessageFailedFull>
-            <VanillaFactionsExpanded.FactionMessageSuccessFull>Adicionou {FactionName} com {Amount} assentamentos.</VanillaFactionsExpanded.FactionMessageSuccessFull>
-            <VanillaFactionsExpanded.FactionMessageSuccess>Adicionou {FactionName}.</VanillaFactionsExpanded.FactionMessageSuccess>
-            <VanillaFactionsExpanded.FactionSettlementsToSpawn>Assentamentos para gerar (recomendados são {0}): {1}</VanillaFactionsExpanded.FactionSettlementsToSpawn>
-            <VanillaFactionsExpanded.FactionMinDistance>A distância mínima das bases do jogador (as recomendadas são {0}): {1}</VanillaFactionsExpanded.FactionMinDistance>
-            <VanillaFactionsExpanded.FactionButtonSpawn>Gerar</VanillaFactionsExpanded.FactionButtonSpawn>
-            <VanillaFactionsExpanded.FactionButtonCancel>Cancelar</VanillaFactionsExpanded.FactionButtonCancel>
-            <VSE.Reinforcements>Assentamentos</VSE.Reinforcements>
-            <VSE.ReinforcementsDesc>Vendo que suas forças sofreram perdas, {FACTION_name} decidiu reforçar sua força de ataque</VSE.ReinforcementsDesc>
-            <VSE.CostGoodwill>custo: {0} de boa vontade</VSE.CostGoodwill>
-
-        <!-- Machines -->
-            <VFEMechForceRecharge>Forçar Recarga</VFEMechForceRecharge>
-            <VFEMechForceRechargeDesc>Solicite que a máquina associada retorne a esta plataforma para carregamento, independentemente do nível atual da bateria.</VFEMechForceRechargeDesc>
-            <VFEMechAttachTurret>Acoplar Torreta</VFEMechAttachTurret>
-            <VFEMechAttachTurretDesc>Construa uma torreta no topo desta plataforma móvel. Isso exigirá que um colono entregue recursos iguais ao custo normal de construção daquela torreta.</VFEMechAttachTurretDesc>
-            <VFEMechMachineDied>Máquina destruída</VFEMechMachineDied>
-            <VFEMechMachineDiedDesc>Uma de suas máquinas foi destruída! Você pode desmontar seus restos em uma mesa de usinagem. Para construir um subistituto, um de seus colonos precisará entregar os seguintes materiais em sua plataforma:\n\n{0}</VFEMechMachineDiedDesc>
-            <VFEMechNoResources>Sem recursos sufiecientes</VFEMechNoResources>
-            <VFEMechNoTurret>Nenhuma torreta móvel ativa</VFEMechNoTurret>
-            <VFEMechReconstruct>Necessário para reconstruir a máquina:</VFEMechReconstruct>
-            <VFEMechTurretResources>Necessário para contruir a torreta:</VFEMechTurretResources>
-            <VFEMechLowerRange>Reduzir alcance</VFEMechLowerRange>
-            <VFEMechLowerRangeDesc>Reduza o número de ladrilhos que esta máquina viajará.</VFEMechLowerRangeDesc>
-            <VFEMechRaiseRange>Aumentar alcance</VFEMechRaiseRange>
-            <VFEMechRaiseRangeDesc>Aumente o número de ladrilhos que esta máquina viajará.</VFEMechRaiseRangeDesc>
-            <VFEMechStopMachine>Parar máquina</VFEMechStopMachine>
-            <VFEMechStopMachineDesc>Pare o progresso desta máquina e force-a a retornar à sua base.</VFEMechStopMachineDesc>
-            <VFEMechStartMachine>Iniciar máquina</VFEMechStartMachine>
-            <VFEMechStartMachineDesc>Inicia esta máquina.</VFEMechStartMachineDesc>
-            <VFEMechMachineHitObstacle>A máquina bateu em um obstáculo!</VFEMechMachineHitObstacle>
-            <VFEMechSetArea>Definir área</VFEMechSetArea>
-            <VFEMechSetAreaDesc>Defina a área permitida para todas as máquinas associadas a esta plataforma.</VFEMechSetAreaDesc>
-
-        <!-- MVCF -->
-            <MVCF.Toggle>Alternar {0}</MVCF.Toggle>
-            <MVCF.ToggleUsing>Alternar usando {0} automaticamente</MVCF.ToggleUsing>
-            <MVCF.ToggleAuto>Alternar uso automático</MVCF.ToggleAuto>
-
-        <!-- Assexual -->
-            <VEF_AsexualHatched>{0} reproduziu-se assexuadamente.</VEF_AsexualHatched>
-            <VEF_AsexualCloning>{0} clonou-se.</VEF_AsexualCloning>
-            <VEF_AsexualHatchedEgg>{0} chocou.</VEF_AsexualHatchedEgg>
-
-        <!-- Not Tameable -->
-            <VEF_NotTameable>Esta criatura é indomável</VEF_NotTameable>
-        
-        <!-- Time To Metamorphosis -->
-            <VEF_TimeToMetamorphosis>Tempo para metamorfose: {0}</VEF_TimeToMetamorphosis>
-
-        <!-- Warning Egg Explodes -->
-            <VEF_WarningEggExplodes>Atenção, este ovo explode ao chocar!</VEF_WarningEggExplodes>
-
-        <!-- Allow Conditions -->
-            <VCE_AllowConditions>Permitir condições crônicas de saúde nos alimentos (diabetes, colesterol e pressão alta)</VCE_AllowConditions>
-
-        <!-- Must Be Installed -->
-            <VCE_MustBeInstalled>O Vanilla Cooking Expanded deve ser instalado para que essas opções tenham algum efeito</VCE_MustBeInstalled>
-
-        <!-- Auto Drill -->
-            <VFE_ChunkToMine>Perfurar por {0}</VFE_ChunkToMine>
-            <VFE_ChunkRandomMine>Perfurar por Pedaços de Pedra Aleatórios</VFE_ChunkRandomMine>
-            <VFE_ChooseMine>Escolha o tipo de pedra para perfurar</VFE_ChooseMine>
-            <VFE_ChooseMineDesc>Escolha o tipo de pedra para perfurar. Você pode escolher qualquer um dos tipos de rocha do mapa ou um tipo aleatório</VFE_ChooseMineDesc>
-            <VFE_RandomRock>Pedaço de pedra aleatório</VFE_RandomRock>
-
-        <!-- Output -->
-            <VFE_PleaseSelectOutput>Selecione o produto da máquina</VFE_PleaseSelectOutput>
-
-        <!-- Needs Water -->
-            <VFE_NeedsWater>Esta estrutura deve ser colocada na água</VFE_NeedsWater>
-
-        <!-- CSG -->
-            <CSGTitle>Geração de estrutura personalizada:</CSGTitle>
-            <CSGLog>Habilitar Debugging Log de geração de estrutura:</CSGLog>
-
-        <!-- Toggable Patches -->
-            <TPTitle>Patches alternáveis:</TPTitle>
-            <NeedRestart>&lt;b&gt;&lt;color=red&gt;Todas as configurações precisam ser reiniciadas para serem aplicadas&lt;/color&gt;&lt;/b&gt;</NeedRestart>
-
-        <!-- Insert -->
-            <IP_InsertFirstItemDesc>Inserir</IP_InsertFirstItemDesc>
-            <IP_InsertSecondItemDesc>Inserir</IP_InsertSecondItemDesc>
-            <IP_InsertThirdItemDesc>Inserir</IP_InsertThirdItemDesc>
-            <IP_InsertFourthItemDesc>Inserir</IP_InsertFourthItemDesc>
-            <IP_InsertVariable>Inserir {0}</IP_InsertVariable>
-            <IP_InsertVariableSecond>Inserir {0} no segundo espaço</IP_InsertVariableSecond>
-            <IP_InsertVariableThird>Inserir {0} no terceiro espaço</IP_InsertVariableThird>
-
-        <!-- Output -->
-            <IP_Output>Produto {0}</IP_Output>
-            <IP_OutputVariable>{0} de {1}</IP_OutputVariable>
-            <IP_OutputDesc>O processador produzirá {0}. Precisa ser alimentado {1}</IP_OutputDesc>
-
-        <!-- Can't Find Thing -->
-            <IP_CantFindThing>Nenhum item desse tipo ({0}) encontrado neste mapa</IP_CantFindThing>
-
-        <!-- Bring -->
-            <IP_BringIngredients>Trazer Ingredientes</IP_BringIngredients>
-            <IP_BringIngredientsDesc>Traga os ingredientes para iniciar o processo</IP_BringIngredientsDesc>
-
-        <!-- Cancel -->
-            <IP_CancelIngredients>Cancelar traz de ingredientes</IP_CancelIngredients>
-            <IP_CancelIngredientsDesc>Cancele o transporte de ingredientes para este processador</IP_CancelIngredientsDesc>
-
-        <!-- No Ingredient Found -->
-            <IP_NoIngredientFound>Nenhum ingrediente encontrado no mapa</IP_NoIngredientFound>
-
-        <!-- Choose -->
-            <IP_ChooseIngredient>Escolha o Ingrediente</IP_ChooseIngredient>
-            <IP_ChooseIngredientSecond>Escolha o Segundo Ingrediente</IP_ChooseIngredientSecond>
-            <IP_ChooseIngredientThird>Escolha o Terceiro Ingrediente</IP_ChooseIngredientThird>
-            <IP_ChooseIngredientFourth>Escolha o Quarto Ingrediente</IP_ChooseIngredientFourth>
-            <IP_ChooseOutput>Escolha o Produto</IP_ChooseOutput>
-
-        <!-- Ingredient Improperly Defined -->
-            <IP_IngredientImproperlyDefined>Um dos ingredientes foi definido incorretamente para funcionar com o processador do item, entre em contato com o autor do mod</IP_IngredientImproperlyDefined>
-
-        <!-- Destroys -->
-            <IP_NoPowerDestroysWarning>{0} precisa de energia para começar a funcionar</IP_NoPowerDestroysWarning>
-            <IP_NoFuelDestroysWarning>{0} precisa ser abastecido para começar a funcionar</IP_NoFuelDestroysWarning>
-            <IP_LightDestroysWarning>{0} precisa ter um nível de luz adequado para começar a funcionar</IP_LightDestroysWarning>
-            <IP_RainDestroysWarning>{0} precisa que não esteja chovendo para começar a funcionar</IP_RainDestroysWarning>
-            <IP_TemperatureDestroysWarning>{0} precisa de uma temperatura adequada ({1} - {2}) para começar a funcionar</IP_TemperatureDestroysWarning>
-            <IP_NoPowerDestroysInitialWarning>O produto está estragando devido a uma falha de energia no processador de itens</IP_NoPowerDestroysInitialWarning>
-            <IP_NoPowerDestroysMessage>O produto estragou devido a uma falha de energia no processador de itens</IP_NoPowerDestroysMessage>
-
-        <!-- Product Finished -->
-            <IP_GenericProductFinished>Um produto concluiu o processamento e está aguardando para ser retirado</IP_GenericProductFinished>
-
-        <!-- Empty / Filled -->
-            <IP_IsEmpty>{0} está vazio(a)</IP_IsEmpty>
-            <IP_FilledWith>{0} está preenchido(a) com {1}</IP_FilledWith>
-            <IP_FilledWithSecond>O segundo espaço de {0} está preenchido com {1}</IP_FilledWithSecond>
-            <IP_FilledWithThird>O teceiro espaço de {0} está preenchido com {1}</IP_FilledWithThird>
-            <IP_FilledWithFourth>O quarto espaço de {0} está preenchido com {1}</IP_FilledWithFourth>
-            <IP_IngredientPercentage> ({0} de {1})</IP_IngredientPercentage>
-
-        <!-- Processor -->
-            <IP_ProcessorWorking>{0} está funcionando: </IP_ProcessorWorking>
-            <IP_ProcessorPaused>{0} está pausado(a): </IP_ProcessorPaused>
-            <IP_ProcessingInProgress>{0} está processando {1}. {2} estará pronto com qualidade {3} em {4}</IP_ProcessingInProgress>
-            <IP_ProcessingInProgressNoQuality>{0} está processando {1}. {2} estará pronto em {3}</IP_ProcessingInProgressNoQuality>
-
-        <!-- Remove Product -->
-            <IP_RemoveProduct>Remover {0} ({1})</IP_RemoveProduct>
-            <IP_RemoveProductDesc>Remova {0} de {1}. O produto estará pronto no nível de qualidade atual ({2})</IP_RemoveProductDesc>
-
-        <!-- Reset Semiautomatic -->
-            <IP_ResetSemiautomatic>Redefinir receitas</IP_ResetSemiautomatic>
-            <IP_ResetSemiautomaticDesc>Isso redefinirá o processador depois que o produto atual for concluído, então um novo ingrediente de entrada pode ser escolhido.</IP_ResetSemiautomaticDesc>
-
-        <!-- No Combination -->
-            <IP_NoCombination>Nenhuma combinação encontrada para esses ingredientes</IP_NoCombination>
-
-        <!-- Auto Quality -->
-            <IP_SetAutoQuality>Defina a qualidade para a extração do produto. Quando o produto atingir essa qualidade, um colono irá extraí-lo automaticamente e levá-lo para uma pilha de estoque, se disponível. Se não for definido, os produtos serão extraídos manualmente ou com qualidade lendária.</IP_SetAutoQuality>
-            <IP_ChooseQualityAuto>Escolha a qualidade automática</IP_ChooseQualityAuto>
-            <IP_QualityAutoIs>Qualidade Automática: {0}</IP_QualityAutoIs>
-            <IP_QualityAutoNot>Desativar Qualidade Automática</IP_QualityAutoNot>
-            <IP_QualityAutoEstablished>Qualidade Automática, o produto será extraído no nível de qualidade: {0}</IP_QualityAutoEstablished>
-
-        <!-- Auto Toggle -->
-            <IP_ToggleAuto>Aquisição de Ingredientes Automática</IP_ToggleAuto>
-            <IP_ToggleAutoDesc>Se definido como ativo, este processador irá automaticamente pegar os ingredientes de funis adjacentes e começará a funcionar automaticamente assim que o produto for removido. Caso contrário, os colonos transportarão os ingredientes para a estrutura, e ela precisará ser ativada manualmente após ser recarregada</IP_ToggleAutoDesc>
-            <IP_ResetFullAuto>Reinicializar a Máquina</IP_ResetFullAuto>
-            <IP_ResetFullAutoDesc>Reinicializa totalmente a máquina e a faz parar. Aviso, isso irá destruir o processo e os itens de entrada</IP_ResetFullAutoDesc>
-
-        <!-- Product Waiting -->
-            <IP_ProductWaiting>Esperando pela retirada</IP_ProductWaiting>
-
-        <!-- Light -->
-            <IP_OutsideLightRange>O processo neste processador está sendo interrompido devido a um nível inadequado de luz e estragará em breve</IP_OutsideLightRange>
-            <IP_SpoiledDueToLight>O produto neste processador estragou devido a um nível inadequado de luz</IP_SpoiledDueToLight>
-
-        <!-- Rain -->
-            <IP_ItRains>O processo neste processador está sendo interrompido devido ao clima e estragará em breve</IP_ItRains>
-            <IP_SpoiledDueToRain>O produto neste processador estragou devido ao clima</IP_SpoiledDueToRain>
-
-        <!-- Temperature -->
-            <IP_WrongTemp>O processo neste processador está sendo interrompido devido a uma temperatura inadequada e estragará em breve</IP_WrongTemp>
-            <IP_SpoiledDueToWrongTemp>O produto neste processador estragou devido a uma temperatura inadequada</IP_SpoiledDueToWrongTemp>
-            <IP_TempRangeInThisMachine>. Este fermentador precisa de uma temperatura entre {0} e {1} ºC</IP_TempRangeInThisMachine>
-
-        <!-- Pause -->
-            <IP_TogglePause>Pausar / Reiniciar</IP_TogglePause>
-            <IP_TogglePauseDesc>Pausar / Reiniciar o processamento desta máquina</IP_TogglePauseDesc>
-
-        <!-- Over Threshold -->
-            <IP_OverThreshold> Esperando que a saída fique vazia. O limite de saída é {0}</IP_OverThreshold>
-
-        <!-- No Recipes Here -->
-            <IP_NoRecipesHere>Nenhuma receita encontrada para esta máquina</IP_NoRecipesHere>
-
-        <!-- Weapon Requires Powered Armor -->
-            <VWE.CannotEquipHeavy>Arma requer armação de exoesqueleto</VWE.CannotEquipHeavy>
+        <VFE_ChangeGraphic>Alterar gráfico</VFE_ChangeGraphic>
+        <VFE_ChangeGraphicDesc>Altere o gráfico desta construção aleatoriamente entre os disponíveis.</VFE_ChangeGraphicDesc>
+        <VFE_RandomOrSequentially>O botão "Alterar gráfico" altera o gráfico aleatoriamente (desmarque para sequencialmente)</VFE_RandomOrSequentially>
+        <VFE_HideRandomizeButton>Oculte o botão "Alterar gráfico"</VFE_HideRandomizeButton>
+        <XPatchFound>{0} patches encontrados</XPatchFound>
+        <FDTitle>Descobrimento de Facções</FDTitle>
+        <NeedToBeInGame>Você primeiro precisa carregar um jogo</NeedToBeInGame>
+        <AskForPopUp>Adicionar facção(ões)</AskForPopUp>
+        <AskForPopUpExplained>Clique aqui para ser perguntado por cada facção se deseja que ela seja adicionada ao seu jogo</AskForPopUpExplained>
+        <CanAddXFaction>{0} facção(ões) pode(m) ser adicionada(s) ao seu salvamento atual</CanAddXFaction>
+        <VWEL_ToggleHotshotLabel>Aquecimento</VWEL_ToggleHotshotLabel>
+        <VWEL_ToggleHotshotDesc>Os tiros disparados aquecem a arma, permitindo maior velocidade de disparo. Superaquecimento pode levar à explosão da bateria.</VWEL_ToggleHotshotDesc>
+        <KCSG.Add>Adicionar</KCSG.Add>
+        <KCSG.Remove>Remover</KCSG.Remove>
+        <KCSG.SpawnNearCenter>Gerar perto do centro</KCSG.SpawnNearCenter>
+        <KCSG.AllowFoggedPosition>Permitir posição embaçada</KCSG.AllowFoggedPosition>
+        <KCSG.SpawnPartOfEnnemyFaction>Gerar parte de facção inimiga</KCSG.SpawnPartOfEnnemyFaction>
+        <VCE_AffectsAllAnimalMods>Essas opções de comportamento animal afetarão todos os mods de animais que compartilham código do Vanilla Expanded Framework</VCE_AffectsAllAnimalMods>
+        <VCE_CorpseDecayingEffectOption>Permitir mecânica de decomposição de cadáveres</VCE_CorpseDecayingEffectOption>
+        <VCE_DigWhenHungryOption>Permitir mecânica de escavação quando faminto</VCE_DigWhenHungryOption>
+        <VCE_DigPeriodicallyOption>Permitir que animais escavem periodicamente</VCE_DigPeriodicallyOption>
+        <VCE_AnimalParticlesOption>Permitir partículas de animais</VCE_AnimalParticlesOption>
+        <VCE_AsexualReproductionOption>Permitir reprodução assexuada</VCE_AsexualReproductionOption>
+        <VFE_AsexualReproductionDisabled>Reprodução assexuada desativada por meio de opções de mod</VFE_AsexualReproductionDisabled>
+        <VCE_BlinkMechanicsOption>Permitir mecânica de "piscar"</VCE_BlinkMechanicsOption>
+        <VCE_BuildPeriodicallyOption>Permitir que animais construam coisas</VCE_BuildPeriodicallyOption>	
+        <VCE_ChargeBatteriesOption>Permitir que animais recarreguem baterias próximas ou reabasteçam</VCE_ChargeBatteriesOption>
+        <VCE_ExplodingEggsOption>Permitir que ovos de animais explodam</VCE_ExplodingEggsOption>
+        <VCE_HoveringOption>Permitir que animais "pairem", ignorando os custos de movimentação do terreno</VCE_HoveringOption>
+        <VCE_GraphicChangingOption>Permitir que animais mudem os gráficos</VCE_GraphicChangingOption>
+        <VCE_EffecterOption>Permitir que animais causem efeitos, estados mentais ou pensamentos</VCE_EffecterOption>
+        <VCE_RegenerationOption>Permitir regeneração de saúde</VCE_RegenerationOption>
+        <VCE_ResurrectionOption>Permitir que animais se ressuscitem automaticamente</VCE_ResurrectionOption>
+        <VCE_UntameableOption>Permitir que alguns animais sejam indomáveis</VCE_UntameableOption>
+        <VEF_TimeToDie>Animal expira em: {0}</VEF_TimeToDie>
+        <VEF_DisableAnimal>Desabilitar {0}</VEF_DisableAnimal>
+    	<NocturnalAnimals.BodyClock>Relógio biológico</NocturnalAnimals.BodyClock>
+	    <NocturnalAnimals.BodyClock_Description>Determina quando o animal dorme e quando está acordado.\n\nAnimais diurnos dormem durante a noite e estão acordados durante o dia, enquanto os animais noturnos dormem durante o dia e estão acordados durante a noite. Animais crepusculares são principalmente ativos durante o início da noite.</NocturnalAnimals.BodyClock_Description>
+	    <NocturnalAnimals.BodyClock_Diurnal>Diurno</NocturnalAnimals.BodyClock_Diurnal>
+	    <NocturnalAnimals.BodyClock_Nocturnal>Noturno</NocturnalAnimals.BodyClock_Nocturnal>
+	    <NocturnalAnimals.BodyClock_Crepuscular>Crepuscular</NocturnalAnimals.BodyClock_Crepuscular>
+        <VanillaFactionsExpanded.EquipShield>Equipar {0} como escudo</VanillaFactionsExpanded.EquipShield>
+        <VanillaFactionsExpanded.EquipWarningShieldUnusable>(inutilizável com {0})</VanillaFactionsExpanded.EquipWarningShieldUnusable>
+        <VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>({0} ficará inutilizável)</VanillaFactionsExpanded.EquipWarningShieldUnusableWithWeapon>
+        <VanillaFactionsExpanded.Protects>Protege</VanillaFactionsExpanded.Protects>
+        <VanillaFactionsExpanded.Protects_Desc>Quais partes do corpo o escudo protege.</VanillaFactionsExpanded.Protects_Desc>
+        <VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>Modificadores de relação de facção</VanillaFactionsExpanded.ScenPart_ForcedFactionRelations>
+        <VanillaFactionsExpanded.NumberRange>{0} a {1}</VanillaFactionsExpanded.NumberRange>
+        <VanillaFactionsExpanded.AllFactions>Todas as facções</VanillaFactionsExpanded.AllFactions>
+        <VanillaFactionsExpanded.AllFactionsIncludingHidden>Todas as facções, incluindo ocultas</VanillaFactionsExpanded.AllFactionsIncludingHidden>
+        <VanillaFactionsExpanded.AlwaysHostile>Sempre hostil</VanillaFactionsExpanded.AlwaysHostile>
+        <VanillaFactionsExpanded.AffectHiddenFactions>Afeta ocultas</VanillaFactionsExpanded.AffectHiddenFactions>
+        <VanillaFactionsExpanded.StartingGoodwill>Iniciando</VanillaFactionsExpanded.StartingGoodwill>
+        <VanillaFactionsExpanded.NaturalGoodwill>Natural</VanillaFactionsExpanded.NaturalGoodwill>
+        <VanillaFactionsExpanded.UsableWithShield>Utilizável com escudos</VanillaFactionsExpanded.UsableWithShield>
+        <VanillaFactionsExpanded.UsableWithShield_Desc>Se esta arma pode ou não ser utilizada se o personagem também tiver um escudo equipado.</VanillaFactionsExpanded.UsableWithShield_Desc>
+        <VanillaFactionsExpanded.FactionTitle>Nova facção: {FactionName}</VanillaFactionsExpanded.FactionTitle>
+        <VanillaFactionsExpanded.ModInfo>Esta facção foi adicionada por {ModName} e atualmente não está presente em seu jogo.</VanillaFactionsExpanded.ModInfo>
+        <VanillaFactionsExpanded.AnUnknownMod>um mod desconhecido</VanillaFactionsExpanded.AnUnknownMod>
+        <VanillaFactionsExpanded.HiddenFactionInfo>Esta é uma facção oculta e não aparecerá na sua lista de facções.</VanillaFactionsExpanded.HiddenFactionInfo>
+        <VanillaFactionsExpanded.RequiredFactionInfo>Marcado como exigido por {ModName}.</VanillaFactionsExpanded.RequiredFactionInfo>
+        <VanillaFactionsExpanded.NonSpawningFactionInfo>Esta facção está marcada como não-gerar e você provavelmente deve simplesmente ignorá-la.</VanillaFactionsExpanded.NonSpawningFactionInfo>
+        <VanillaFactionsExpanded.FactionSelectOption>Selecione como proceder:</VanillaFactionsExpanded.FactionSelectOption>
+        <VanillaFactionsExpanded.FactionButtonAdd>Adicionar a facção</VanillaFactionsExpanded.FactionButtonAdd>
+        <VanillaFactionsExpanded.FactionButtonAddFull>Adicionar a facção com assentamentos</VanillaFactionsExpanded.FactionButtonAddFull>
+        <VanillaFactionsExpanded.FactionButtonSkip>Ignorar</VanillaFactionsExpanded.FactionButtonSkip>
+        <VanillaFactionsExpanded.FactionButtonIgnore>Não pergunte sobre esta facção novamente</VanillaFactionsExpanded.FactionButtonIgnore>
+        <VanillaFactionsExpanded.FactionMessageFailed>Falha ao adicionar a facção.</VanillaFactionsExpanded.FactionMessageFailed>
+        <VanillaFactionsExpanded.FactionMessageFailedFull>Falha ao criar uma facção com assentamentos.</VanillaFactionsExpanded.FactionMessageFailedFull>
+        <VanillaFactionsExpanded.FactionMessageSuccessFull>Adicionou {FactionName} com {Amount} assentamentos.</VanillaFactionsExpanded.FactionMessageSuccessFull>
+        <VanillaFactionsExpanded.FactionMessageSuccess>Adicionou {FactionName}.</VanillaFactionsExpanded.FactionMessageSuccess>
+        <VanillaFactionsExpanded.FactionSettlementsToSpawn>Assentamentos para gerar (recomendados são {0}): {1}</VanillaFactionsExpanded.FactionSettlementsToSpawn>
+        <VanillaFactionsExpanded.FactionMinDistance>A distância mínima das bases do jogador (as recomendadas são {0}): {1}</VanillaFactionsExpanded.FactionMinDistance>
+        <VanillaFactionsExpanded.FactionButtonSpawn>Gerar</VanillaFactionsExpanded.FactionButtonSpawn>
+        <VanillaFactionsExpanded.FactionButtonCancel>Cancelar</VanillaFactionsExpanded.FactionButtonCancel>
+        <VSE.Reinforcements>Assentamentos</VSE.Reinforcements>
+        <VSE.ReinforcementsDesc>Vendo que suas forças sofreram perdas, {FACTION_name} decidiu reforçar sua força de ataque</VSE.ReinforcementsDesc>
+        <VSE.CostGoodwill>custo: {0} de boa vontade</VSE.CostGoodwill>
+        <VFEMechForceRecharge>Forçar Recarga</VFEMechForceRecharge>
+        <VFEMechForceRechargeDesc>Solicite que a máquina associada retorne a esta plataforma para carregamento, independentemente do nível atual da bateria.</VFEMechForceRechargeDesc>
+        <VFEMechAttachTurret>Acoplar Torreta</VFEMechAttachTurret>
+        <VFEMechAttachTurretDesc>Construa uma torreta no topo desta plataforma móvel. Isso exigirá que um colono entregue recursos iguais ao custo normal de construção daquela torreta.</VFEMechAttachTurretDesc>
+        <VFEMechMachineDied>Máquina destruída</VFEMechMachineDied>
+        <VFEMechMachineDiedDesc>Uma de suas máquinas foi destruída! Você pode desmontar seus restos em uma mesa de usinagem. Para construir um subistituto, um de seus colonos precisará entregar os seguintes materiais em sua plataforma:\n\n{0}</VFEMechMachineDiedDesc>
+        <VFEMechNoResources>Sem recursos sufiecientes</VFEMechNoResources>
+        <VFEMechNoTurret>Nenhuma torreta móvel ativa</VFEMechNoTurret>
+        <VFEMechReconstruct>Necessário para reconstruir a máquina:</VFEMechReconstruct>
+        <VFEMechTurretResources>Necessário para contruir a torreta:</VFEMechTurretResources>
+        <VFEMechLowerRange>Reduzir alcance</VFEMechLowerRange>
+        <VFEMechLowerRangeDesc>Reduza o número de ladrilhos que esta máquina viajará.</VFEMechLowerRangeDesc>
+        <VFEMechRaiseRange>Aumentar alcance</VFEMechRaiseRange>
+        <VFEMechRaiseRangeDesc>Aumente o número de ladrilhos que esta máquina viajará.</VFEMechRaiseRangeDesc>
+        <VFEMechStopMachine>Parar máquina</VFEMechStopMachine>
+        <VFEMechStopMachineDesc>Pare o progresso desta máquina e force-a a retornar à sua base.</VFEMechStopMachineDesc>
+        <VFEMechStartMachine>Iniciar máquina</VFEMechStartMachine>
+        <VFEMechStartMachineDesc>Inicia esta máquina.</VFEMechStartMachineDesc>
+        <VFEMechMachineHitObstacle>A máquina bateu em um obstáculo!</VFEMechMachineHitObstacle>
+        <VFEMechSetArea>Definir área</VFEMechSetArea>
+        <VFEMechSetAreaDesc>Defina a área permitida para todas as máquinas associadas a esta plataforma.</VFEMechSetAreaDesc>
+        <MVCF.Toggle>Alternar {0}</MVCF.Toggle>
+        <MVCF.ToggleUsing>Alternar usando {0} automaticamente</MVCF.ToggleUsing>
+        <MVCF.ToggleAuto>Alternar uso automático</MVCF.ToggleAuto>
+        <VEF_AsexualHatched>{0} reproduziu-se assexuadamente.</VEF_AsexualHatched>
+        <VEF_AsexualCloning>{0} clonou-se.</VEF_AsexualCloning>
+        <VEF_AsexualHatchedEgg>{0} chocou.</VEF_AsexualHatchedEgg>
+        <VEF_NotTameable>Esta criatura é indomável</VEF_NotTameable>
+        <VEF_TimeToMetamorphosis>Tempo para metamorfose: {0}</VEF_TimeToMetamorphosis>
+        <VEF_WarningEggExplodes>Atenção, este ovo explode ao chocar!</VEF_WarningEggExplodes>
+        <VCE_AllowConditions>Permitir condições crônicas de saúde nos alimentos (diabetes, colesterol e pressão alta)</VCE_AllowConditions>
+        <VCE_MustBeInstalled>O Vanilla Cooking Expanded deve ser instalado para que essas opções tenham algum efeito</VCE_MustBeInstalled>
+        <VFE_ChunkToMine>Perfurar por {0}</VFE_ChunkToMine>
+        <VFE_ChunkRandomMine>Perfurar por Pedaços de Pedra Aleatórios</VFE_ChunkRandomMine>
+        <VFE_ChooseMine>Escolha o tipo de pedra para perfurar</VFE_ChooseMine>
+        <VFE_ChooseMineDesc>Escolha o tipo de pedra para perfurar. Você pode escolher qualquer um dos tipos de rocha do mapa ou um tipo aleatório</VFE_ChooseMineDesc>
+        <VFE_RandomRock>Pedaço de pedra aleatório</VFE_RandomRock>
+        <VFE_PleaseSelectOutput>Selecione o produto da máquina</VFE_PleaseSelectOutput>
+        <VFE_NeedsWater>Esta estrutura deve ser colocada na água</VFE_NeedsWater>
+        <CSGTitle>Geração de estrutura personalizada:</CSGTitle>
+        <CSGLog>Habilitar o Registro de Depuração de geração de estrutura:</CSGLog>
+        <TPTitle>Patches alternáveis:</TPTitle>
+        <NeedRestart>&lt;b&gt;&lt;color=red&gt;Todas as configurações precisam ser reiniciadas para serem aplicadas&lt;/color&gt;&lt;/b&gt;</NeedRestart>
+        <IP_InsertFirstItemDesc>Inserir</IP_InsertFirstItemDesc>
+        <IP_InsertSecondItemDesc>Inserir</IP_InsertSecondItemDesc>
+        <IP_InsertThirdItemDesc>Inserir</IP_InsertThirdItemDesc>
+        <IP_InsertFourthItemDesc>Inserir</IP_InsertFourthItemDesc>
+        <IP_InsertVariable>Inserir {0}</IP_InsertVariable>
+        <IP_InsertVariableSecond>Inserir {0} no segundo espaço</IP_InsertVariableSecond>
+        <IP_InsertVariableThird>Inserir {0} no terceiro espaço</IP_InsertVariableThird>
+        <IP_Output>Produto {0}</IP_Output>
+        <IP_OutputVariable>{0} de {1}</IP_OutputVariable>
+        <IP_OutputDesc>O processador produzirá {0}. Precisa ser alimentado {1}</IP_OutputDesc>
+        <IP_CantFindThing>Nenhum item desse tipo ({0}) encontrado neste mapa</IP_CantFindThing>
+        <IP_BringIngredients>Trazer Ingredientes</IP_BringIngredients>
+        <IP_BringIngredientsDesc>Traga os ingredientes para iniciar o processo</IP_BringIngredientsDesc>
+        <IP_CancelIngredients>Cancelar traz de ingredientes</IP_CancelIngredients>
+        <IP_CancelIngredientsDesc>Cancele o transporte de ingredientes para este processador</IP_CancelIngredientsDesc>
+        <IP_NoIngredientFound>Nenhum ingrediente encontrado no mapa</IP_NoIngredientFound>
+        <IP_ChooseIngredient>Escolha o Ingrediente</IP_ChooseIngredient>
+        <IP_ChooseIngredientSecond>Escolha o Segundo Ingrediente</IP_ChooseIngredientSecond>
+        <IP_ChooseIngredientThird>Escolha o Terceiro Ingrediente</IP_ChooseIngredientThird>
+        <IP_ChooseIngredientFourth>Escolha o Quarto Ingrediente</IP_ChooseIngredientFourth>
+        <IP_ChooseOutput>Escolha o Produto</IP_ChooseOutput>
+        <IP_IngredientImproperlyDefined>Um dos ingredientes foi definido incorretamente para funcionar com o processador do item, entre em contato com o autor do mod</IP_IngredientImproperlyDefined>
+        <IP_NoPowerDestroysWarning>{0} precisa de energia para começar a funcionar</IP_NoPowerDestroysWarning>
+        <IP_NoFuelDestroysWarning>{0} precisa ser abastecido para começar a funcionar</IP_NoFuelDestroysWarning>
+        <IP_LightDestroysWarning>{0} precisa ter um nível de luz adequado para começar a funcionar</IP_LightDestroysWarning>
+        <IP_RainDestroysWarning>{0} precisa que não esteja chovendo para começar a funcionar</IP_RainDestroysWarning>
+        <IP_TemperatureDestroysWarning>{0} precisa de uma temperatura adequada ({1} - {2}) para começar a funcionar</IP_TemperatureDestroysWarning>
+        <IP_NoPowerDestroysInitialWarning>O produto está estragando devido a uma falha de energia no processador de itens</IP_NoPowerDestroysInitialWarning>
+        <IP_NoPowerDestroysMessage>O produto estragou devido a uma falha de energia no processador de itens</IP_NoPowerDestroysMessage>
+        <IP_GenericProductFinished>Um produto concluiu o processamento e está aguardando para ser retirado</IP_GenericProductFinished>
+        <IP_IsEmpty>{0} está vazio(a)</IP_IsEmpty>
+        <IP_FilledWith>{0} está preenchido(a) com {1}</IP_FilledWith>
+        <IP_FilledWithSecond>O segundo espaço de {0} está preenchido com {1}</IP_FilledWithSecond>
+        <IP_FilledWithThird>O teceiro espaço de {0} está preenchido com {1}</IP_FilledWithThird>
+        <IP_FilledWithFourth>O quarto espaço de {0} está preenchido com {1}</IP_FilledWithFourth>
+        <IP_IngredientPercentage> ({0} de {1})</IP_IngredientPercentage>
+        <IP_ProcessorWorking>{0} está funcionando: </IP_ProcessorWorking>
+        <IP_ProcessorPaused>{0} está pausado(a): </IP_ProcessorPaused>
+        <IP_ProcessingInProgress>{0} está processando {1}. {2} estará pronto com qualidade {3} em {4}</IP_ProcessingInProgress>
+        <IP_ProcessingInProgressNoQuality>{0} está processando {1}. {2} estará pronto em {3}</IP_ProcessingInProgressNoQuality>
+        <IP_RemoveProduct>Remover {0} ({1})</IP_RemoveProduct>
+        <IP_RemoveProductDesc>Remova {0} de {1}. O produto estará pronto no nível de qualidade atual ({2})</IP_RemoveProductDesc>
+        <IP_ResetSemiautomatic>Redefinir receitas</IP_ResetSemiautomatic>
+        <IP_ResetSemiautomaticDesc>Isso redefinirá o processador depois que o produto atual for concluído, então um novo ingrediente de entrada pode ser escolhido.</IP_ResetSemiautomaticDesc>
+        <IP_NoCombination>Nenhuma combinação encontrada para esses ingredientes</IP_NoCombination>
+        <IP_SetAutoQuality>Defina a qualidade para a extração do produto. Quando o produto atingir essa qualidade, um colono irá extraí-lo automaticamente e levá-lo para uma pilha de estoque, se disponível. Se não for definido, os produtos serão extraídos manualmente ou com qualidade lendária.</IP_SetAutoQuality>
+        <IP_ChooseQualityAuto>Escolha a qualidade automática</IP_ChooseQualityAuto>
+        <IP_QualityAutoIs>Qualidade Automática: {0}</IP_QualityAutoIs>
+        <IP_QualityAutoNot>Desativar Qualidade Automática</IP_QualityAutoNot>
+        <IP_QualityAutoEstablished>Qualidade Automática, o produto será extraído no nível de qualidade: {0}</IP_QualityAutoEstablished>
+        <IP_ToggleAuto>Aquisição de Ingredientes Automática</IP_ToggleAuto>
+        <IP_ToggleAutoDesc>Se definido como ativo, este processador irá automaticamente pegar os ingredientes de funis adjacentes e começará a funcionar automaticamente assim que o produto for removido. Caso contrário, os colonos transportarão os ingredientes para a estrutura, e ela precisará ser ativada manualmente após ser recarregada</IP_ToggleAutoDesc>
+        <IP_ResetFullAuto>Reinicializar a Máquina</IP_ResetFullAuto>
+        <IP_ResetFullAutoDesc>Reinicializa totalmente a máquina e a faz parar. Aviso, isso irá destruir o processo e os itens de entrada</IP_ResetFullAutoDesc>
+        <IP_ProductWaiting>Esperando pela retirada</IP_ProductWaiting>
+        <IP_OutsideLightRange>O processo neste processador está sendo interrompido devido a um nível inadequado de luz e estragará em breve</IP_OutsideLightRange>
+        <IP_SpoiledDueToLight>O produto neste processador estragou devido a um nível inadequado de luz</IP_SpoiledDueToLight>
+        <IP_ItRains>O processo neste processador está sendo interrompido devido ao clima e estragará em breve</IP_ItRains>
+        <IP_SpoiledDueToRain>O produto neste processador estragou devido ao clima</IP_SpoiledDueToRain>
+        <IP_WrongTemp>O processo neste processador está sendo interrompido devido a uma temperatura inadequada e estragará em breve</IP_WrongTemp>
+        <IP_SpoiledDueToWrongTemp>O produto neste processador estragou devido a uma temperatura inadequada</IP_SpoiledDueToWrongTemp>
+        <IP_TempRangeInThisMachine>. Este fermentador precisa de uma temperatura entre {0} e {1} ºC</IP_TempRangeInThisMachine>
+        <IP_TogglePause>Pausar / Reiniciar</IP_TogglePause>
+        <IP_TogglePauseDesc>Pausar / Reiniciar o processamento desta máquina</IP_TogglePauseDesc>
+        <IP_OverThreshold> Esperando que a saída fique vazia. O limite de saída é {0}</IP_OverThreshold>
+        <IP_NoRecipesHere>Nenhuma receita encontrada para esta máquina</IP_NoRecipesHere>
+        <VWE.CannotEquipHeavy>Arma requer armação de exoesqueleto</VWE.CannotEquipHeavy>
 
     <!-- Vanilla Factions Expanded - Insectoids -->
         <VFEI_InsertFirstGenomeDesc>Selecione o primeiro genoma para a incubadora de bioengenharia.</VFEI_InsertFirstGenomeDesc>
@@ -4002,11 +3952,6 @@
 
         <!-- Martial Artista -->
             <VTE.VictimDropsEquipmentMartialArtist>{PAWN_nameDef} desarmou {VICTIM_nameDef} em combate corpo a corpo</VTE.VictimDropsEquipmentMartialArtist>
-
-    <!-- Vanilla Weapons Expanded - Laser -->
-        <!-- Weapon Warm-up -->
-            <VWEL_ToggleHotshotLabel>Aquecimento</VWEL_ToggleHotshotLabel>
-            <VWEL_ToggleHotshotDesc>Os tiros disparados aquecem a arma, permitindo maior velocidade de disparo. Superaquecimento pode levar à explosão da bateria.</VWEL_ToggleHotshotDesc>
 
     <!-- VFE - Mechanoids : Unoffical Add-On -->
         <!-- Fish -->
