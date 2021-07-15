@@ -1072,6 +1072,9 @@
         <!-- Trench Floor -->
             <VFES_TrenchTerrain.label>trincheira</VFES_TrenchTerrain.label>
 
+        <!-- Platform -->
+            <VFES_PlatformTerrain.label>plataforma</VFES_PlatformTerrain.label>
+
     <!-- Vanilla Plants Expanded -->
         <!-- Tilled Soil -->
             <VCE_TilledSoil.label>solo arado</VCE_TilledSoil.label>

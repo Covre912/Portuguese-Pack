@@ -1402,7 +1402,7 @@
             <VFE_Sprinkler.label>irrigador</VFE_Sprinkler.label>
             <VFE_Sprinkler.description>Um aspersor de água. Aumenta a velocidade de crescimento das plantas em seu redor.</VFE_Sprinkler.description>
 
-    <!-- Vanilla Furniture Expanded - Medical Module -->
+    <!-- Vanilla Furniture Expanded - Medical -->
         <!-- Operating Table -->
             <Bed_OperatingTable.label>mesa cirúrgica</Bed_OperatingTable.label>
             <Bed_OperatingTable.description>Uma mesa tosca cheia de instrumentos que supostamente tornam a cirurgia mais fácil. A limpeza da mesa é questionável. Melhora ligeiramente os resultados médicos em relação às camas normais.</Bed_OperatingTable.description>
@@ -3507,6 +3507,10 @@
         <!-- Short Wall -->
             <VFES_ShortWall.label>parede curta</VFES_ShortWall.label>
             <VFES_ShortWall.description>Uma parede transitável na altura do peito. Não consegue suportar telhados.</VFES_ShortWall.description>
+
+        <!-- Platform -->
+            <VFES_Platform.label>plataforma</VFES_Platform.label>
+            <VFES_Platform.description>Uma plataforma de madeira longa e estreita. Cruzá-la requer subir e descer, portanto, diminui significativamente a velocidade de movimento. Os soldados no topo da plataforma obtêm um aumento significativo no alcance da arma, mas também recebem uma penalidade de cobertura devido à exposição.</VFES_Platform.description>
 
     <!-- Vanilla Furniture Expanded - Spacer Module -->
         <!-- Advanced Bed -->

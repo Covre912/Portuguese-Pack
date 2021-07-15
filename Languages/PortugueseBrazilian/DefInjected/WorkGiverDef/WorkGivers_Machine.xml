@@ -3,18 +3,18 @@
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Refuel Rocket Silo -->
-            <VFEM_RefuelSilo.label>reabastecer silo de foguete</VFEM_RefuelSilo.label>
+            <VFEM_RefuelSilo.label>reabastece silos de foguetes</VFEM_RefuelSilo.label>
             <VFEM_RefuelSilo.verb>reabastecer</VFEM_RefuelSilo.verb>
             <VFEM_RefuelSilo.gerund>reabastecendo</VFEM_RefuelSilo.gerund>
 
         <!-- Repair Machine -->
-            <VFE_Mechanoids_RepairMachine.label>reparar máquina</VFE_Mechanoids_RepairMachine.label>
+            <VFE_Mechanoids_RepairMachine.label>repara máquinas</VFE_Mechanoids_RepairMachine.label>
             <VFE_Mechanoids_RepairMachine.verb>reparar</VFE_Mechanoids_RepairMachine.verb>
             <VFE_Mechanoids_RepairMachine.gerund>reparando</VFE_Mechanoids_RepairMachine.gerund>
 
         <!-- Attach Turret -->
-            <VFE_Mechanoids_AttachTurret.label>anexar torre</VFE_Mechanoids_AttachTurret.label>
-            <VFE_Mechanoids_AttachTurret.verb>anexar torre a</VFE_Mechanoids_AttachTurret.verb>
-            <VFE_Mechanoids_AttachTurret.gerund>anexando torre a </VFE_Mechanoids_AttachTurret.gerund>
+            <VFE_Mechanoids_AttachTurret.label>anexa torretas</VFE_Mechanoids_AttachTurret.label>
+            <VFE_Mechanoids_AttachTurret.verb>anexar torreta a</VFE_Mechanoids_AttachTurret.verb>
+            <VFE_Mechanoids_AttachTurret.gerund>anexando torreta a</VFE_Mechanoids_AttachTurret.gerund>
 
 </LanguageData>

@@ -402,7 +402,7 @@
             <itsAllDownhillFromHere.description>Sobreviva um ano</itsAllDownhillFromHere.description>
         
         <!-- 10 Hours? Woah! -->
-            <tenHoursWoah.label>10 Horas? Woah!</tenHoursWoah.label>
+            <tenHoursWoah.label>10 Horas? Uau!</tenHoursWoah.label>
             <tenHoursWoah.description>Passe 10 horas jogando a colônia atual</tenHoursWoah.description>
 
         <!-- Wait a Minute -->
@@ -428,6 +428,14 @@
         <!-- In For a Pound -->
             <inForAPound.label>Por Um Real</inForAPound.label>
             <inForAPound.description>Alcance a riqueza de colônia de 1.000.000</inForAPound.description>
+
+        <!-- 4/20 Blaze It -->
+            <fourtwentyblazeIt.label>4/20 Dê um Dois</fourtwentyblazeIt.label>
+            <fourtwentyblazeIt.description>Obtenha 420 folhas-de-fumo</fourtwentyblazeIt.description>
+
+        <!-- Fifty Shades of Grey -->
+            <fiftyShadesOfGrey.label>50 Tons de Cinza</fiftyShadesOfGrey.label>
+            <fiftyShadesOfGrey.description>Faça um colono entrar em uma fúria sádica em um prisioneiro</fiftyShadesOfGrey.description>
 
     <!-- Vanilla Armour Expanded -->
         <!-- JUGGERNAUT! -->
