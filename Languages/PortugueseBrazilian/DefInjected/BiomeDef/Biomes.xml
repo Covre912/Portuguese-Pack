@@ -6,4 +6,9 @@
             <RG-W_Wasteland.label>área devastada</RG-W_Wasteland.label>
             <RG-W_Wasteland.description>Paisagem desolada se recuperando da exposição à radiação e resíduos tóxicos há muitos anos. Poças de lixo tóxico, solo infértil e entulho de construção tornam a vegetação escassa e os animais mais raros.</RG-W_Wasteland.description>
 
+    <!-- ReGrowth: Aspen Forests -->
+        <!-- Aspen Forest -->
+            <RG-AF_AspenForest.label>floresta de álamos</RG-AF_AspenForest.label>
+            <RG-AF_AspenForest.description>Florestas de álamos geneticamente modificados, mantendo suas folhas coloridas quase o ano todo. Apesar dos invernos rigorosos e verões mais frios, as florestas de álamos mantêm uma população diversificada de pequenos e grandes animais.</RG-AF_AspenForest.description>
+
 </LanguageData>
