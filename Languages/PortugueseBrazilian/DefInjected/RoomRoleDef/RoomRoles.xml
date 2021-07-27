@@ -14,4 +14,8 @@
     <!-- Vanilla Furniture Expanded - Power -->
         <VPE_ReactorRoom.label>sala do reator</VPE_ReactorRoom.label>
 
+    <!-- Dubs Bad Hygiene -->
+        <PublicBathroom.label>banheiro público</PublicBathroom.label>
+        <PrivateBathroom.label>banheiro privado</PrivateBathroom.label>
+
 </LanguageData>
