@@ -174,7 +174,7 @@
 
         <DW_EquipOffhand.reportString>Equipando</DW_EquipOffhand.reportString>
 
-        <TriggerFireSprinkler.reportString>ativando TargetA</TriggerFireSprinkler.reportString>
+        <TriggerFireSprinkler.reportString>ativando TargetA.</TriggerFireSprinkler.reportString>
         <emptySeptictank.reportString>esvaziar TargetA</emptySeptictank.reportString>
         <emptyLatrine.reportString>esvaziar TargetA</emptyLatrine.reportString>
 
