@@ -3,7 +3,7 @@
 
   <!-- Dubs Bad Hygiene -->
 
-  <takeShower.reportString>tomar banho com TargetA</takeShower.reportString>
+  <takeShower.reportString>tomando banho com TargetA.</takeShower.reportString>
   <takeBath.reportString>tomando banho</takeBath.reportString>
 
 </LanguageData>
