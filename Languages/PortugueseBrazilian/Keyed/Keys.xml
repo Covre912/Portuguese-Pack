@@ -4721,7 +4721,7 @@
   <dbh.PriorityIndoorCleaning>Priorizar a limpeza interna</dbh.PriorityIndoorCleaning>
   <dbh.PriorityIndoorCleaningTip>Permite um trabalho de limpeza de maior prioridade para limpar primeiro o interior</dbh.PriorityIndoorCleaningTip>
   <dbh.ModRemove>Assistência para remover o mod</dbh.ModRemove>
-  <dbh.ModRemoveDesc>Passos: \n\n1: Salve seu jogo imediatamente após pressionar confirmar \n2: Saia do menu principal, desabilite o mod e reinicie o jogo \n3: carregue seu jogo salvo, ignore quaisquer exceções e salve-o novamente \nCarregue o jogo salvo mais uma vez e não deve haver nenhuma exceção relacionada à falta de defs ou aulas de higiene inadequada!</dbh.ModRemoveDesc>
+  <dbh.ModRemoveDesc>Passos:\n\n1: Salve seu jogo imediatamente após pressionar confirmar\n2: Saia do menu principal, desabilite o mod e reinicie o jogo\n3: carregue seu jogo salvo, ignore quaisquer exceções e salve-o novamente\nCarregue o jogo salvo mais uma vez e não deve haver nenhuma exceção relacionada à falta de defs ou aulas de higiene inadequada!</dbh.ModRemoveDesc>
   <PetsGetThirst>Sede de animal de estimação</PetsGetThirst>
   <PetsGetThirstTip>Animais de estimação estão com sede</PetsGetThirstTip>
   <fixtureQualityRequiresRestart>É necessário reiniciar para adicionar qualidade e composições artísticas.\n\nreiniciar agora?</fixtureQualityRequiresRestart>
@@ -4789,4 +4789,3 @@
   <HeatingCapacity>Capacidade de aquecimento: {0}</HeatingCapacity>
 
 </LanguageData>
-
