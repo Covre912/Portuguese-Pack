@@ -1467,7 +1467,7 @@
 
   			<InstallHygieneEnhancer.label>instalar melhorador de higiene</InstallHygieneEnhancer.label>
   			<InstallHygieneEnhancer.description>Instale um melhorador de higiene.</InstallHygieneEnhancer.description>
-  			<InstallHygieneEnhancer.jobString>Instalando intensificador de higiene.</InstallHygieneEnhancer.jobString>
+  			<InstallHygieneEnhancer.jobString>Instalando melhorador de higiene.</InstallHygieneEnhancer.jobString>
 
   			<Make_ChemfuelFromFecalSludge.label>fazer combustível químico a partir de lodo fecal</Make_ChemfuelFromFecalSludge.label>
   			<Make_ChemfuelFromFecalSludge.description>Faça um lote de combustível químico a partir do lodo fecal.</Make_ChemfuelFromFecalSludge.description>
