@@ -1138,6 +1138,11 @@
             <VFEV_FuneralPyre.label>pira funerária</VFEV_FuneralPyre.label>
             <VFEV_FuneralPyre.description>Uma pilha cerimonial de madeira, erguida temporariamente para a realização de funerais honrosos.</VFEV_FuneralPyre.description>
 
+    <!-- Vanilla Expanded Framework -->
+        <!-- Power Conduit -->
+            <KCSG_PowerConduit.label>cabo elétrico</KCSG_PowerConduit.label>
+            <KCSG_PowerConduit.description>Um fardo enterrado de cabos elétricos para distribuir a energia.</KCSG_PowerConduit.description>
+
     <!-- Vanilla Furniture Expanded -->
         <!-- Slab Bed -->
             <Bed_StoneSlab.label>cama de laje</Bed_StoneSlab.label>
@@ -1397,7 +1402,7 @@
             <VFE_Sprinkler.label>irrigador</VFE_Sprinkler.label>
             <VFE_Sprinkler.description>Um aspersor de água. Aumenta a velocidade de crescimento das plantas em seu redor.</VFE_Sprinkler.description>
 
-    <!-- Vanilla Furniture Expanded - Medical Module -->
+    <!-- Vanilla Furniture Expanded - Medical -->
         <!-- Operating Table -->
             <Bed_OperatingTable.label>mesa cirúrgica</Bed_OperatingTable.label>
             <Bed_OperatingTable.description>Uma mesa tosca cheia de instrumentos que supostamente tornam a cirurgia mais fácil. A limpeza da mesa é questionável. Melhora ligeiramente os resultados médicos em relação às camas normais.</Bed_OperatingTable.description>
@@ -3503,6 +3508,10 @@
             <VFES_ShortWall.label>parede curta</VFES_ShortWall.label>
             <VFES_ShortWall.description>Uma parede transitável na altura do peito. Não consegue suportar telhados.</VFES_ShortWall.description>
 
+        <!-- Platform -->
+            <VFES_Platform.label>plataforma</VFES_Platform.label>
+            <VFES_Platform.description>Uma plataforma de madeira longa e estreita. Cruzá-la requer subir e descer, portanto, diminui significativamente a velocidade de movimento. Os soldados no topo da plataforma obtêm um aumento significativo no alcance da arma, mas também recebem uma penalidade de cobertura devido à exposição.</VFES_Platform.description>
+
     <!-- Vanilla Furniture Expanded - Spacer Module -->
         <!-- Advanced Bed -->
             <Bed_AdvBed.label>cama avançada</Bed_AdvBed.label>
@@ -4168,5 +4177,5 @@
         <DBH_WaterBottle.description>Uma garrafa de água</DBH_WaterBottle.description>
         <DBH_WaterBottle.ingestible.ingestCommandString>Beber {0}</DBH_WaterBottle.ingestible.ingestCommandString>
         <DBH_WaterBottle.ingestible.ingestReportString>Bebendo {0}.</DBH_WaterBottle.ingestible.ingestReportString>
-
+       
 </LanguageData>
