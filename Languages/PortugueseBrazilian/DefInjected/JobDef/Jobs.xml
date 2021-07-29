@@ -179,12 +179,6 @@
         <emptyLatrine.reportString>esvaziando TargetA.</emptyLatrine.reportString>
 
     <!-- Dubs Bad Hygiene -->
-        <!-- <JobDef>
-        <defName>LoadFridge</defName>
-        <driverClass>DubsBadHygiene.JobDriver_LoadFridge</driverClass>
-        <reportString>loading TargetA</reportString>
-        <suspendable>false</suspendable>
-        </JobDef> -->
 
         <LoadWashing.reportString>carregando TargetA</LoadWashing.reportString>
         <UnloadWashing.reportString>descarregando TargetA</UnloadWashing.reportString>
