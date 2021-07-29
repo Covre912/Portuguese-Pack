@@ -2,12 +2,6 @@
 <LanguageData>
 
   <!-- Dubs Bad Hygiene -->
-  <!-- <JobDef>
-    <defName>LoadFridge</defName>
-    <driverClass>DubsBadHygiene.JobDriver_LoadFridge</driverClass>
-    <reportString>carregando TargetA</reportString>
-    <suspendable>false</suspendable>
-  </JobDef> -->
 
   <takeShower.reportString>tomar banho com TargetA</takeShower.reportString>
   <takeBath.reportString>tomando banho</takeBath.reportString>
