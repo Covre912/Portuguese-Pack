@@ -75,7 +75,7 @@
 
     <!-- Vanilla Animals Expanded - Endargered -->
         <AEXP_IngestAnts.reportString>devorando formigas.</AEXP_IngestAnts.reportString>
-        <AEXP_GotoTheWild.reportString>indo para a naturza.</AEXP_GotoTheWild.reportString>
+        <AEXP_GotoTheWild.reportString>indo para à naturza.</AEXP_GotoTheWild.reportString>
 
     <!-- Vanilla Books Expanded -->
         <VBE_ReadBook.reportString>lendo.</VBE_ReadBook.reportString>
@@ -86,7 +86,7 @@
     <!-- Vanilla Expanded Framework -->
         <VFEC_EquipShield.reportString>equipando TargetA.</VFEC_EquipShield.reportString>
         <VFE_Mechanoids_RepairMachine.reportString>reconstruindo máquina.</VFE_Mechanoids_RepairMachine.reportString>
-        <VFE_Mechanoids_AttachTurret.reportString>anexando torre.</VFE_Mechanoids_AttachTurret.reportString>
+        <VFE_Mechanoids_AttachTurret.reportString>anexando torreta.</VFE_Mechanoids_AttachTurret.reportString>
         <VFE_Mechanoids_Recharge.reportString>recarregando.</VFE_Mechanoids_Recharge.reportString>
         <IP_InsertFirstIngredient.reportString>inserindo ingrediente.</IP_InsertFirstIngredient.reportString>
         <IP_InsertSecondIngredient.reportString>inserindo ingrediente.</IP_InsertSecondIngredient.reportString>
@@ -96,6 +96,7 @@
         <VEF_DestroyItem.reportString>destruindo um item.</VEF_DestroyItem.reportString>
         <VEF_LayExplodingEgg.reportString>botando ovos.</VEF_LayExplodingEgg.reportString> 
         <VEF_IngestWeird.reportString>consumindo TargetA.</VEF_IngestWeird.reportString>
+        <VEF_AutoNutrition.reportString>comendo.</VEF_AutoNutrition.reportString>
 
     <!-- Vanilla Factions Expanded - Insectoids -->
         <VFEI_IngestWeird.reportString>consumindo TargetA.</VFEI_IngestWeird.reportString>
@@ -105,11 +106,13 @@
         <InsectFlee.reportString>saindo do mapa.</InsectFlee.reportString>
 
     <!-- Vanilla Factions Expanded - Mechanoids -->
+        <VFEM_Disassemble.reportString>dissimulando TargetA.</VFEM_Disassemble.reportString>
+        <VFEM_RefuelSilo.reportString>reabastecendo TargetA.</VFEM_RefuelSilo.reportString>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
         <VFEM_EquipShield.reportString>equipando TargetA.</VFEM_EquipShield.reportString>
         <VFEM_FillWineBarrel.reportString>preenchendo TargetA.</VFEM_FillWineBarrel.reportString>
         <VFEM_TakeWineOutOfWineBarrel.reportString>retirando vinho de TargetA.</VFEM_TakeWineOutOfWineBarrel.reportString>
-        <VFEM_Disassemble.reportString>dissimulando TargetA.</VFEM_Disassemble.reportString>
-        <VFEM_RefuelSilo.reportString>reabastecendo TargetA.</VFEM_RefuelSilo.reportString>
 
     <!-- Vanilla Factions Expanded - Vikings -->
         <Play_Hnefatafl.reportString>jogando tafl.</Play_Hnefatafl.reportString>
