@@ -273,65 +273,65 @@
             <ExtractZombieSerum.gerund>extraindo</ExtractZombieSerum.gerund>
 
     <!-- Dubs Bad Hygiene -->
-            <PlaceFertilizer.label>fertilizar</PlaceFertilizer.label>
+            <PlaceFertilizer.label>colocar fertilizante</PlaceFertilizer.label>
             <PlaceFertilizer.verb>fertilizar</PlaceFertilizer.verb>
             <PlaceFertilizer.gerund>fertilizando</PlaceFertilizer.gerund>
 
-            <ClearBlockage.label>bloqueio claro</ClearBlockage.label>
-            <ClearBlockage.verb>bloqueio claro</ClearBlockage.verb>
-            <ClearBlockage.gerund>bloqueaando compensação</ClearBlockage.gerund>
+            <ClearBlockage.label>desentupir vaso</ClearBlockage.label>
+            <ClearBlockage.verb>desentupir</ClearBlockage.verb>
+            <ClearBlockage.gerund>desentupindo</ClearBlockage.gerund>
 
-            <DBHAdministerFluids.label>administrar fluidos</DBHAdministerFluids.label>
-            <DBHAdministerFluids.verb>dar bebida</DBHAdministerFluids.verb>
-            <DBHAdministerFluids.gerund>dando bebida</DBHAdministerFluids.gerund>
+            <DBHAdministerFluids.label>dar água</DBHAdministerFluids.label>
+            <DBHAdministerFluids.verb>dar</DBHAdministerFluids.verb>
+            <DBHAdministerFluids.gerund>dando agua</DBHAdministerFluids.gerund>
 
             <washPatient.label>lavar o paciente</washPatient.label>
             <washPatient.verb>lavar</washPatient.verb>
-            <washPatient.gerund>lavando</washPatient.gerund>
+            <washPatient.gerund>lavando paciente</washPatient.gerund>
 
             <DocCleanBedpan.label>limpar a cama</DocCleanBedpan.label>
-            <DocCleanBedpan.verb>limpa</DocCleanBedpan.verb>
+            <DocCleanBedpan.verb>limpar</DocCleanBedpan.verb>
             <DocCleanBedpan.gerund>limpando</DocCleanBedpan.gerund>
 
             <cleanBedpan.label>limpar a cama</cleanBedpan.label>
             <cleanBedpan.verb>limpar</cleanBedpan.verb>
             <cleanBedpan.gerund>limpando</cleanBedpan.gerund>
 
-            <TipSewage.label>despejar esgoto</TipSewage.label>
-            <TipSewage.verb>despejar esgoto</TipSewage.verb>
-            <TipSewage.gerund>despejando esgoto</TipSewage.gerund>
+            <TipSewage.label>esvaziar esgoto</TipSewage.label>
+            <TipSewage.verb>esvaziar</TipSewage.verb>
+            <TipSewage.gerund>esvaziando esgoto</TipSewage.gerund>
 
-            <DrainWaterTank.label>drenar a água</DrainWaterTank.label>
-            <DrainWaterTank.verb>drenar</DrainWaterTank.verb>
-            <DrainWaterTank.gerund>drenando</DrainWaterTank.gerund>
+            <DrainWaterTank.label>derramar a água</DrainWaterTank.label>
+            <DrainWaterTank.verb>derramar</DrainWaterTank.verb>
+            <DrainWaterTank.gerund>drenando água</DrainWaterTank.gerund>
 
-            <DoBillsBurnPit.label>fazer queima em poço</DoBillsBurnPit.label>
+            <DoBillsBurnPit.label>queimar fezes em poço</DoBillsBurnPit.label>
             <DoBillsBurnPit.verb>queimar</DoBillsBurnPit.verb>
-            <DoBillsBurnPit.gerund>queimando</DoBillsBurnPit.gerund>
+            <DoBillsBurnPit.gerund>queimando fezes</DoBillsBurnPit.gerund>
 
-            <RemoveSewage.label>remover esgoto</RemoveSewage.label>
-            <RemoveSewage.verb>remover esgoto</RemoveSewage.verb>
-            <RemoveSewage.gerund>removendo esgoto</RemoveSewage.gerund>
+            <RemoveSewage.label>desentupir esgoto</RemoveSewage.label>
+            <RemoveSewage.verb>desentupir</RemoveSewage.verb>
+            <RemoveSewage.gerund>desentupindo esgoto</RemoveSewage.gerund>
 
-            <UnloadWashing.label>descarregar a lavagem</UnloadWashing.label>
-            <UnloadWashing.verb>descarregar a lavagem</UnloadWashing.verb>
-            <UnloadWashing.gerund>descarregando roupas</UnloadWashing.gerund>
+            <UnloadWashing.label>pegar as roupas</UnloadWashing.label>
+            <UnloadWashing.verb>pegar</UnloadWashing.verb>
+            <UnloadWashing.gerund>pegando as roupas</UnloadWashing.gerund>
 
-            <LoadWashing.label>carregar roupa</LoadWashing.label>
-            <LoadWashing.verb>carregar roupa</LoadWashing.verb>
-            <LoadWashing.gerund>carregando roupas</LoadWashing.gerund>
+            <LoadWashing.label>colocar as roupas</LoadWashing.label>
+            <LoadWashing.verb>colocar</LoadWashing.verb>
+            <LoadWashing.gerund>colocando roupas</LoadWashing.gerund>
 
-            <UnloadComposter.label>descarregar compostor</UnloadComposter.label>
-            <UnloadComposter.verb>descarregar composto</UnloadComposter.verb>
-            <UnloadComposter.gerund>descarregando composto de</UnloadComposter.gerund>
+            <UnloadComposter.label>pegar composto</UnloadComposter.label>
+            <UnloadComposter.verb>pegar</UnloadComposter.verb>
+            <UnloadComposter.gerund>pegando composto</UnloadComposter.gerund>
 
-            <FillComposter.label>encher compostor</FillComposter.label>
-            <FillComposter.verb>encher</FillComposter.verb>
-            <FillComposter.gerund>enchendo</FillComposter.gerund>
+            <FillComposter.label>colocar composto</FillComposter.label>
+            <FillComposter.verb>colocar</FillComposter.verb>
+            <FillComposter.gerund>colocando</FillComposter.gerund>
 
-            <emptySepticTank.label>fossa séptica vazia</emptySepticTank.label>
-            <emptySepticTank.verb>vazio</emptySepticTank.verb>
-            <emptySepticTank.gerund>esvaziar</emptySepticTank.gerund>
+            <emptySepticTank.label>esvaziar fossa</emptySepticTank.label>
+            <emptySepticTank.verb>esvaziar</emptySepticTank.verb>
+            <emptySepticTank.gerund>esvaziando</emptySepticTank.gerund>
 
             <RefillWater.label>encher água</RefillWater.label>
             <RefillWater.verb>encher</RefillWater.verb>
