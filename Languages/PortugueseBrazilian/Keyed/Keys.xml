@@ -4779,7 +4779,7 @@
   <HygieneWiki>Wiki Bad Hygiene</HygieneWiki>
   <HygieneWikiDesc>Vá para o Wiki de Bad Hygiene</HygieneWikiDesc>
   <SurvivalMode>Modo de sobrevivência</SurvivalMode>
-  <SurvivalModeTip>Limita a geração padrão da rede de águas rasas a manchas muito pequenas. Os recursos do terreno não geram mais água e o raio ao redor da água da superfície é reduzido. \n\nNão é necessário um novo jogo; funciona com salvamentos existentes.</SurvivalModeTip>
+  <SurvivalModeTip>Limita a geração padrão da rede de águas rasas a manchas muito pequenas. Os recursos do terreno não geram mais água e o raio ao redor da água da superfície é reduzido.\n\nNão é necessário um novo jogo; funciona com salvamentos existentes.</SurvivalModeTip>
   <HydroponicsLink>Hidroponia</HydroponicsLink>
   <HydroponicsLinkTip>Edifícios em crescimento movidos a energia, como o hidropônico, têm tanques de água que precisam ser preenchidos com canos. As plantas morrem por falta de água em vez de energia, mas os tanques de água só se enchem quando o prédio é alimentado.</HydroponicsLinkTip>
   <ThirstRequiresRestart>É necessário reiniciar para adicionar e remover itens relacionados à sede. \n\nReiniciar agora?</ThirstRequiresRestart>
