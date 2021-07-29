@@ -641,6 +641,6 @@
             <Hygienic.degreeDatas.2.label>anti-higiênico</Hygienic.degreeDatas.2.label>
             <Hygienic.degreeDatas.2.description>[PAWN_nameDef] é muito anti-higiênico e lavará com menos frequência.</Hygienic.degreeDatas.2.description>
             <Hygienic.degreeDatas.3.label>desleixado</Hygienic.degreeDatas.3.label>
-            <Hygienic.degreeDatas.3.description>[PAWN_nameDef] tem padrões de limpeza muito baixos e só lavará quando for absolutamente necessário.</Hygienic.degreeDatas.3.description>
+            <Hygienic.degreeDatas.3.description>[PAWN_nameDef] tem padrões de limpeza muito baixos e só se lavará quando for absolutamente necessário.</Hygienic.degreeDatas.3.description>
 
 </LanguageData>
