@@ -319,7 +319,7 @@
 
             <LoadWashing.label>carregar roupa</LoadWashing.label>
             <LoadWashing.verb>carregar roupa</LoadWashing.verb>
-            <LoadWashing.gerund>carregando roupas lavagem</LoadWashing.gerund>
+            <LoadWashing.gerund>carregando roupas</LoadWashing.gerund>
 
             <UnloadComposter.label>descarregar compostor</UnloadComposter.label>
             <UnloadComposter.verb>descarregar composto</UnloadComposter.verb>
