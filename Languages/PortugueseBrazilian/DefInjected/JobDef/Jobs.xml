@@ -176,7 +176,7 @@
 
         <TriggerFireSprinkler.reportString>ativando TargetA.</TriggerFireSprinkler.reportString>
         <emptySeptictank.reportString>esvaziando TargetA.</emptySeptictank.reportString>
-        <emptyLatrine.reportString>esvaziar TargetA</emptyLatrine.reportString>
+        <emptyLatrine.reportString>esvaziando TargetA.</emptyLatrine.reportString>
 
     <!-- Dubs Bad Hygiene -->
         <!-- <JobDef>
