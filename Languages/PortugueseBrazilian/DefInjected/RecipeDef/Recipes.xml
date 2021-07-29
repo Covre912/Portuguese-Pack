@@ -1471,6 +1471,6 @@
 
   			<Make_ChemfuelFromFecalSludge.label>fazer combustível químico a partir de lodo fecal</Make_ChemfuelFromFecalSludge.label>
   			<Make_ChemfuelFromFecalSludge.description>Faça um lote de combustível químico a partir do lodo fecal.</Make_ChemfuelFromFecalSludge.description>
-  			<Make_ChemfuelFromFecalSludge.jobString>Refinar o combustível químico da lama fecal</Make_ChemfuelFromFecalSludge.jobString>
+  			<Make_ChemfuelFromFecalSludge.jobString>Refinando combustível químico de lama fecal</Make_ChemfuelFromFecalSludge.jobString>
 
 </LanguageData>
