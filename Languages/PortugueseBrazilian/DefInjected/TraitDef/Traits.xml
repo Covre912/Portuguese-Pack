@@ -637,7 +637,7 @@
             <Hygienic.degreeDatas.0.label>germofóbico</Hygienic.degreeDatas.0.label>
             <Hygienic.degreeDatas.0.description>[PAWN_nameDef] é obcecado(a) por germes e se lavará com muito mais frequência do que o normal.</Hygienic.degreeDatas.0.description>
             <Hygienic.degreeDatas.1.label>higiênico</Hygienic.degreeDatas.1.label>
-            <Hygienic.degreeDatas.1.description>[PAWN_nameDef] é muito higiênico e lava com mais frequência.</Hygienic.degreeDatas.1.description>
+            <Hygienic.degreeDatas.1.description>[PAWN_nameDef] é muito higiênico(a) e lava as mãos com frequência.</Hygienic.degreeDatas.1.description>
             <Hygienic.degreeDatas.2.label>anti-higiênico</Hygienic.degreeDatas.2.label>
             <Hygienic.degreeDatas.2.description>[PAWN_nameDef] é muito anti-higiênico(a) e lavará suas mãos com menos frequência.</Hygienic.degreeDatas.2.description>
             <Hygienic.degreeDatas.3.label>desleixado</Hygienic.degreeDatas.3.label>
