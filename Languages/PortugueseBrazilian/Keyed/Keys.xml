@@ -4769,7 +4769,7 @@
   <AllowNonHumanTip>Permite necessidades em colonos não humanos. Você pode desabilitar seres específicos com o filtro de necessidades.</AllowNonHumanTip>
   <dbh.ExtraFeatures>Recursos extras</dbh.ExtraFeatures>
   <DBHLiteMode>Modo facil (simplifica o mod)</DBHLiteMode>
-  <DBHLiteModeTip>Mude o modo para um modo simplificado que remove canos, gerenciamento de água e esgoto e quaisquer edifícios e trabalhos não diretamente relacionados à higiene e sede. \n\nIsso impedirá que muitos defs sejam carregados e exigirá uma reinicialização. \n\nSe você estiver tentando carregar um save com edifícios de higiene existentes, você pode precisar salvar e recarregar após ativar</DBHLiteModeTip>
+  <DBHLiteModeTip>Mude o modo para um modo simplificado que remove canos, gerenciamento de água e esgoto e quaisquer edifícios e trabalhos não diretamente relacionados à higiene e sede.\n\nIsso impedirá que muitos defs sejam carregados e exigirá uma reinicialização.\n\nSe você estiver tentando carregar um save com edifícios de higiene existentes, você pode precisar salvar e recarregar após ativar</DBHLiteModeTip>
   <LiteRequiresRestart>Você deve recarregar o jogo depois de alterar a configuração do modo Lite \n\nSe você está tentando carregar um save com edifícios de higiene existentes você pode precisar salvar e recarregar depois de ativar para limpar os erros</LiteRequiresRestart>
   <PassiveWaterCoolersLink>Refrigeradores passivos usam água</PassiveWaterCoolersLink>
   <PassiveWaterCoolersLinkTip>Os resfriadores passivos têm sua lenha removida e, em vez disso, são preenchidos com água, semelhante a baldes de água.</PassiveWaterCoolersLinkTip>
