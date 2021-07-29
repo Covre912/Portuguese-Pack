@@ -309,7 +309,7 @@
             <DoBillsBurnPit.verb>queimar</DoBillsBurnPit.verb>
             <DoBillsBurnPit.gerund>queimando</DoBillsBurnPit.gerund>
 
-            <RemoveSewage.label>Remover esgoto</RemoveSewage.label>
+            <RemoveSewage.label>remover esgoto</RemoveSewage.label>
             <RemoveSewage.verb>remover esgoto</RemoveSewage.verb>
             <RemoveSewage.gerund>removendo esgoto</RemoveSewage.gerund>
 
