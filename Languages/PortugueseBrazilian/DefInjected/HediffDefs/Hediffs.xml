@@ -1401,7 +1401,7 @@
 
             <BionicBladder.label>bexiga biônica</BionicBladder.label>
             <BionicBladder.description>Uma bexiga biônica instalada.</BionicBladder.description>
-            <BionicBladder.labelNoun>a bexiga biônica</BionicBladder.labelNoun>
+            <BionicBladder.labelNoun>uma bexiga biônica</BionicBladder.labelNoun>
 
             <HygieneEnhancer.label>melhorador de higiene</HygieneEnhancer.label>
             <HygieneEnhancer.description>Um intensificador de higiene instalado.</HygieneEnhancer.description>
