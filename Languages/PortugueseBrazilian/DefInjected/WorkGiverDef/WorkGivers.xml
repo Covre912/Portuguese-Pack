@@ -338,7 +338,7 @@
             <RefillWater.gerund>enchendo</RefillWater.gerund>
 
             <CleanFilthIndoors.label>limpar sujeira dentro de casa</CleanFilthIndoors.label>
-            <CleanFilthIndoors.verb>limpar/limpo</CleanFilthIndoors.verb>
+            <CleanFilthIndoors.verb>limpar</CleanFilthIndoors.verb>
             <CleanFilthIndoors.gerund>limpando</CleanFilthIndoors.gerund>
 
 </LanguageData>
