@@ -189,6 +189,35 @@
             <TM_DarkBerries.label>amora selvagem</TM_DarkBerries.label>
             <TM_DarkBerries.description>Um arbusto compacto e musgoso com uma pequena fruta preta. Amoras têm um sabor suave e salgado que fica na boca por muito tempo e impede as pessoas de sentir sabores, porém é ruim para o organismo.\n\nExistem mitos de que em grandes quantidades elas podem até mesmo curar asma ou doenças cardíacas.</TM_DarkBerries.description>
 
+    <!-- ReGrowth: Aspen Forests -->
+        <!-- Grass -->
+            <RG-AF_Plant_AspenGrass.label>grama</RG-AF_Plant_AspenGrass.label>
+            <RG-AF_Plant_AspenGrass.description>Grama selvagem. Cresce em regiões de floresta de álamos, onde há pouca luz e solo minimamente fértil.</RG-AF_Plant_AspenGrass.description>
+
+        <!-- Fern -->
+            <RG-AF_Plant_AspenFern.label>samambaia</RG-AF_Plant_AspenFern.label>
+            <RG-AF_Plant_AspenFern.description>Um arbusto curto com folhas longas e finas. Cresce em florestas de álamos.</RG-AF_Plant_AspenFern.description>
+
+        <!-- Shrubs -->
+            <RG-AF_Plant_AspenShrubs.label>arbustos</RG-AF_Plant_AspenShrubs.label>
+            <RG-AF_Plant_AspenShrubs.description>Arbustos ralos selvagens com folhas amarelas que crescem em florestas de álamos. Os arbustos demoram muito para crescer, mas são muito resistentes à geada.</RG-AF_Plant_AspenShrubs.description>
+
+        <!-- Aspen Tree -->
+            <RG-AF_Plant_TreeAspenYellow.label>álamo</RG-AF_Plant_TreeAspenYellow.label>
+            <RG-AF_Plant_TreeAspenYellow.description>Uma árvore de bioma frio geneticamente modificada conhecida por sua casca fina e folhas coloridas.</RG-AF_Plant_TreeAspenYellow.description>
+
+        <!-- Deathbell -->
+            <RG-AF_Plant_Deathbell.label>sino da morte</RG-AF_Plant_Deathbell.label>
+            <RG-AF_Plant_Deathbell.description>Uma flor roxa que cresce em grandes cachos. Diz-se que cresce onde mortes infelizes ocorreram no passado.</RG-AF_Plant_Deathbell.description>
+
+        <!-- Mountain Flower -->
+            <RG-AF_Plant_RedMountainFlower.label>flor da montanha</RG-AF_Plant_RedMountainFlower.label>
+            <RG-AF_Plant_RedMountainFlower.description>Uma pequena flor vermelha que cresce em grandes cachos.</RG-AF_Plant_RedMountainFlower.description>
+
+        <!-- Bog Beacon -->
+            <RG-AF_BogBeacon.label>farol do pântano</RG-AF_BogBeacon.label>
+            <RG-AF_BogBeacon.description>Um pequeno cogumelo brilhante que cresce em grupos. Cresce exclusivamente em florestas de álamos.</RG-AF_BogBeacon.description>
+
     <!-- ReGrowth: Desert Expansion -->
         <!-- Flower Cactus -->
             <RG-D_Plant_FlowerCactus.label>cacto</RG-D_Plant_FlowerCactus.label>
@@ -403,5 +432,10 @@
         <!-- Sweethreart -->
             <VCE_Plant_SweetheartPlant.label>caladium</VCE_Plant_SweetheartPlant.label>
             <VCE_Plant_SweetheartPlant.description>Uma suculenta cultivada com folhas em forma de coração em uma haste alta.</VCE_Plant_SweetheartPlant.description>
+
+  <SiverTree.label>árvore de prata</SiverTree.label>
+  <SiverTree.description>uma árvore decorativa incomum, que aumenta a beleza e dá um pouco de prata</SiverTree.description>
+  <PartyTree.label>árvore de festa</PartyTree.label>
+  <PartyTree.description>Um pinheiro macio com um cheiro agradável vai decorar bem qualquer interior. E se você decorar, você pode dar uma festa</PartyTree.description>
 
 </LanguageData>

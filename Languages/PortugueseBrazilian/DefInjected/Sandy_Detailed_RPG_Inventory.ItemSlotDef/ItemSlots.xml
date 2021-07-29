@@ -3,7 +3,7 @@
 
   <ItemSlotShield.label>Escudo</ItemSlotShield.label>
   <ItemSlotTorsoOnSkin.label>Pele</ItemSlotTorsoOnSkin.label>
-  <ItemSlotTorsoShell.label>exterior</ItemSlotTorsoShell.label>
+  <ItemSlotTorsoShell.label>Exterior</ItemSlotTorsoShell.label>
   <ItemSlotTorsoBelt.label>Cinta</ItemSlotTorsoBelt.label>
   <ItemSlotTorsoUnderwearTop.label>Roupa íntima</ItemSlotTorsoUnderwearTop.label>
   <ItemSlotTorsoMiddle.label>Meio</ItemSlotTorsoMiddle.label>
@@ -11,33 +11,33 @@
   <ItemSlotHeadEyes.label>Olhos</ItemSlotHeadEyes.label>
   <ItemSlotHeadTeeth.label>Dentes</ItemSlotHeadTeeth.label>
   <ItemSlotEarsAccessories.label>Acessórios de orelhas</ItemSlotEarsAccessories.label>
-  <ItemSlotNeckShell.label>Pescoço Exterior</ItemSlotNeckShell.label>
+  <ItemSlotNeckShell.label>Pescoço exterior</ItemSlotNeckShell.label>
   <ItemSlotNeckAccessories.label>Acessório de pescoço</ItemSlotNeckAccessories.label>
-  <ItemSlotNeckOverhead.label>Pescoço Superior</ItemSlotNeckOverhead.label>
+  <ItemSlotNeckOverhead.label>Pescoço superior</ItemSlotNeckOverhead.label>
   <ItemSlotWaistShell.label>Cinto exterior</ItemSlotWaistShell.label>
   <ItemSlotWaistBelt.label>Cinto</ItemSlotWaistBelt.label>
   <ItemSlotWaistUnderwear.label>Cinto pele</ItemSlotWaistUnderwear.label>
   <ItemSlotLegsSkin.label>Calças pele</ItemSlotLegsSkin.label>
-  <ItemSlotLegsShell.label>Pernas Exterior</ItemSlotLegsShell.label>
+  <ItemSlotLegsShell.label>Pernas exterior</ItemSlotLegsShell.label>
   <ItemSlotLegsUnderwear.label>Pernas pele</ItemSlotLegsUnderwear.label>
-  <ItemSlotLegsMiddle.label>Pernas Meio</ItemSlotLegsMiddle.label>
-  <ItemSlotFeetOnSkin.label>Pés Pele</ItemSlotFeetOnSkin.label>
-  <ItemSlotFeetShell.label>Pés Exterior</ItemSlotFeetShell.label>
-  <ItemSlotFeetMiddle.label>Pés Meio</ItemSlotFeetMiddle.label>
-  <ItemSlotHandsOnSkin.label>Mãos Pele</ItemSlotHandsOnSkin.label>
-  <ItemSlotHandsShell.label>Mãos Exterior</ItemSlotHandsShell.label>
-  <ItemSlotHandsMiddle.label>Mãos Meio</ItemSlotHandsMiddle.label>
+  <ItemSlotLegsMiddle.label>Pernas meio</ItemSlotLegsMiddle.label>
+  <ItemSlotFeetOnSkin.label>Pés pele</ItemSlotFeetOnSkin.label>
+  <ItemSlotFeetShell.label>Pés exterior</ItemSlotFeetShell.label>
+  <ItemSlotFeetMiddle.label>Pés meio</ItemSlotFeetMiddle.label>
+  <ItemSlotHandsOnSkin.label>Mãos pele</ItemSlotHandsOnSkin.label>
+  <ItemSlotHandsShell.label>Mãos exterior</ItemSlotHandsShell.label>
+  <ItemSlotHandsMiddle.label>Mãos meio</ItemSlotHandsMiddle.label>
   <ItemSlotRightHandAccessories.label>Acessório para a mão direita</ItemSlotRightHandAccessories.label>
   <ItemSlotRightHandShell.label>Mão direita exterior</ItemSlotRightHandShell.label>
   <ItemSlotLeftHandAccessories.label>Acessório para a mão esquerda</ItemSlotLeftHandAccessories.label>
-  <ItemSlotLeftHandVFECOuterShell.label>Especial Exterior para Esquerda</ItemSlotLeftHandVFECOuterShell.label>
-  <ItemSlotLeftHandShell.label>Mão Esquerda Exterior</ItemSlotLeftHandShell.label>
+  <ItemSlotLeftHandVFECOuterShell.label>Especial exterior para esquerda</ItemSlotLeftHandVFECOuterShell.label>
+  <ItemSlotLeftHandShell.label>Mão esquerda exterior</ItemSlotLeftHandShell.label>
   <ItemSlotShouldersShell.label>Ombros</ItemSlotShouldersShell.label>
   <ItemSlotNeckTMCloak_PH.label>Capa</ItemSlotNeckTMCloak_PH.label>
-  <ItemSlotNeckTMArtifact_PH.label>Artefato de Pescoço</ItemSlotNeckTMArtifact_PH.label>
+  <ItemSlotNeckTMArtifact_PH.label>Artefato de pescoço</ItemSlotNeckTMArtifact_PH.label>
   <ItemSlotArmsTMArtifact_PH.label>Artefato de armas</ItemSlotArmsTMArtifact_PH.label>
-  <ItemSlotRightHandTMArtifact_PH.label>Artefato da Mão Direita</ItemSlotRightHandTMArtifact_PH.label>
-  <ItemSlotLeftHandTMArtifact_PH.label>Artefato da Mão Esquerda</ItemSlotLeftHandTMArtifact_PH.label>
+  <ItemSlotRightHandTMArtifact_PH.label>Artefato de mão direita</ItemSlotRightHandTMArtifact_PH.label>
+  <ItemSlotLeftHandTMArtifact_PH.label>Artefato de mão esquerda</ItemSlotLeftHandTMArtifact_PH.label>
   <ItemSlotShouldersCEWebbing_PH.label>Suspensório</ItemSlotShouldersCEWebbing_PH.label>
   <ItemSlotShouldersCEBackpack_PH.label>Mochila</ItemSlotShouldersCEBackpack_PH.label>
   <ItemSlotCEStrappedHead_PH.label>Rosto</ItemSlotCEStrappedHead_PH.label>

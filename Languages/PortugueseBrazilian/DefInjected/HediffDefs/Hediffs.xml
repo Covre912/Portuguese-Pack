@@ -1206,8 +1206,8 @@
             <VFE_FasterMovement.description>Bônus de velocidade de movimento.</VFE_FasterMovement.description>
         
         <!-- Mechanoid Uplink -->
-            <VFE_MechanoidUplink.label>vínculo mecanóide</VFE_MechanoidUplink.label>
-            <VFE_MechanoidUplink.description>Vínculo mecanóide.</VFE_MechanoidUplink.description>
+            <VFE_MechanoidUplink.label>vínculo mecanoide</VFE_MechanoidUplink.label>
+            <VFE_MechanoidUplink.description>Vínculo mecanoide.</VFE_MechanoidUplink.description>
 
     <!-- Vanilla Factions Expanded - Settlers -->
         <!-- Wanted -->

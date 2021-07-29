@@ -144,7 +144,7 @@
 
         <!-- Flame -->
             <VFES_HauntingFlame.label>chama</VFES_HauntingFlame.label>
-            <VFES_HauntingFlame.deathMessage>{0} queimou até a morte .</VFES_HauntingFlame.deathMessage>
+            <VFES_HauntingFlame.deathMessage>{0} queimou até a morte.</VFES_HauntingFlame.deathMessage>
 
     <!-- Vanilla Weapons Expanded -->
         <!-- Extinguish -->
