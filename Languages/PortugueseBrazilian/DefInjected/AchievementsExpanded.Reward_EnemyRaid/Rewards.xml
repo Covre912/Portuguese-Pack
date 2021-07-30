@@ -5,12 +5,4 @@
         <!-- Summon a Raid -->
             <EnemyRaidRewardWitcher.label>Invasão</EnemyRaidRewardWitcher.label>
 
-    <!-- Vanilla Achievements Expanded -->
-        <!-- Summon a Raid -->
-            <EnemyRaidReward.label>Invasão</EnemyRaidReward.label>
-
-    <!-- Vanilla Weapons Expanded -->
-        <!-- Summon a Raid -->
-            <EnemyRaidRewardVE.label>Invasão</EnemyRaidRewardVE.label>
-
 </LanguageData>

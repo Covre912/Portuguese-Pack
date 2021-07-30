@@ -141,24 +141,6 @@
             <VFES_HauntingFlame.label>chama</VFES_HauntingFlame.label>
             <VFES_HauntingFlame.deathMessage>{0} queimou até a morte.</VFES_HauntingFlame.deathMessage>
 
-    <!-- Vanilla Weapons Expanded -->
-        <!-- Extinguish -->
-            <VWE_Extinguish.label>extintor</VWE_Extinguish.label>
-
-        <!-- Toxic Gas -->
-            <Dam_OPToxin.label>Gás Tóxico</Dam_OPToxin.label>
-        
-        <!--  ARL Toxic Gas -->
-            <VWE_ToxicGas.label>ARL_GásTóxico</VWE_ToxicGas.label>
-
-        <!-- Shock -->
-            <VWE_Shock.label>choque</VWE_Shock.label>
-            <VWE_Shock.deathMessage>{0} foi eletrocutad{0_gender ? o : a} até a morte.</VWE_Shock.deathMessage>
-
-        <!-- Flame -->
-            <VWE_HauntingFlame.label>chama</VWE_HauntingFlame.label>
-            <VWE_HauntingFlame.deathMessage>{0} queimou até a morte.</VWE_HauntingFlame.deathMessage>
-
     <!-- Vanilla Weapons Expanded - Non-Lethal -->
         <!-- Tear Gas -->
             <VWENL_TearGas.label>gás lacrimogêneo</VWENL_TearGas.label>

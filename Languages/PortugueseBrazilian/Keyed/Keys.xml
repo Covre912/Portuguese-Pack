@@ -2898,46 +2898,6 @@
             <RG_Dialog_CE_Description>Parece que você está usando a versão mais recente Run and Gun e Combat Extended juntos pela primeira vez. Combat Extended funciona muito bem com Run and Gun, mas não para todas as armas.\nPara obter a melhor experiência, permita que o Combat Extended defina para quais armas o disparo são proibidos. Se você configurou armas proibidas para Run e Gun antes, sua configuração será substituída.</RG_Dialog_CE_Description>
             <RG_Dialog_CE_ConfirmButton>Permitir</RG_Dialog_CE_ConfirmButton>
             <RG_Dialog_CE_DisallowButton>Proibir</RG_Dialog_CE_DisallowButton>
-    
-    <!-- Vanilla Achievements Expanded -->
-        <!-- VAE -->
-            <VAE>Vanilla Achievements Expanded</VAE>
-
-        <!-- Debug Writer -->
-            <DebugWriter>Habilitar DebugWriter</DebugWriter>
-            <DebugWriterConfirmation>Tem certeza de que deseja habilitar o DebugWriter? Isso diminuirá significativamente o desempenho em troca de dados relacionados à Conquista.</DebugWriterConfirmation>
-
-        <!-- Log Info -->
-            <GenerateLogInfo>Enviar Registros</GenerateLogInfo>
-            <GenerateLogInfoTooltip>Envie os registros relacionados às conquistas para um arquivo. Apenas para fins de depuração.</GenerateLogInfoTooltip>
-            <SuccessfulWriteToFile>Registros de conquistas enviados com sucesso para AchievementLog.txt</SuccessfulWriteToFile>
-
-        <!-- Side Bar Info -->
-            <SideBarInfo>Desbloqueie conquistas e ganhe pontos de Narrador que podem resgatados.</SideBarInfo>
-
-        <!-- Points -->
-            <StorytellerPoints>Pontos de Narrador</StorytellerPoints>
-            <PointsRedeem>Resgatar Pontos</PointsRedeem>
-            <PointsAvailable>Disponível: {0}</PointsAvailable>
-            <PointsEarned>Total Ganho: {0}</PointsEarned>
-
-        <!-- Achievements -->
-            <UnlockedDevMode>Desbloqueada com DevMode</UnlockedDevMode>
-            <AchievementLocked>Bloqueada</AchievementLocked>
-            <AchievementsUnlocked>Conquistas Desbloqueadas: {0}</AchievementsUnlocked>
-            <AchievementsTotalUnlocked>Total de Conquistas Desbloqueadas: {0}</AchievementsTotalUnlocked>
-            <AchievementUnlocked>Conquista Desbloqueada!</AchievementUnlocked>
-
-        <!-- Failed -->
-            <FailedRewardEvent>Falhou ao resgatar a recompensa {0}</FailedRewardEvent>
-            <FailedTargetFinder>O mapa deve estar carregado ou objeto alvo selecionado no mapa</FailedTargetFinder>
-            <NoValidMap>O mapa do jogador deve estar à vista para ser resgatado.</NoValidMap>
-            <IncidentNotAvailable>Incidente não disponível no momento.</IncidentNotAvailable>
-            <NotEnoughPoints>Pontos Insuficientes</NotEnoughPoints>
-
-        <!-- Random Quest Reward Item -->
-            <RandomQuestRewardItemLetter>Item de missão</RandomQuestRewardItemLetter>
-            <RandomQuestRewardItem>O item de missão aleatório chegou!</RandomQuestRewardItem>
 
     <!-- Vanilla Animals Expanded - Endangered -->
     	<VAEE.ReleaseIntoWild>Libertar</VAEE.ReleaseIntoWild>

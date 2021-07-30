@@ -10,25 +10,5 @@
 
         <!-- Man in Black Joins -->
             <ManInBlackRewardWitcher.label>Estranho de Preto</ManInBlackRewardWitcher.label>
-
-    <!-- Vanilla Achievements Expanded -->
-        <!-- Summon a Trade Caravan -->
-            <TradeCaravanReward.label>Caravana Comercial</TradeCaravanReward.label>
-        
-        <!-- Spawn Cargo Pods -->
-            <CargoPodsReward.label>Cápsulas de Carga</CargoPodsReward.label>
-
-        <!-- Man in Black Joins -->
-            <ManInBlackReward.label>Estranho de Preto</ManInBlackReward.label>
-
-    <!-- Vanilla Weapons Expanded -->
-        <!-- Summon a Trade Caravan -->
-            <TradeCaravanRewardVE.label>Caravana Comercial</TradeCaravanRewardVE.label>
-
-        <!-- Spawn Cargo Pods -->
-            <CargoPodsRewardVE.label>Cápsulas de Carga</CargoPodsRewardVE.label>
-
-        <!-- Man in Black Joins -->
-            <ManInBlackRewardVE.label>Estranho de Preto</ManInBlackRewardVE.label>
         
 </LanguageData>

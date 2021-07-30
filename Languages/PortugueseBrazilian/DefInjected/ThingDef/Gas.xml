@@ -9,11 +9,6 @@
             <Gas_Helixien.label>gás helixien</Gas_Helixien.label>
             <Gas_Helixien.description>Altamente inflamável e altamente tóxico.</Gas_Helixien.description>
 
-    <!-- Vanilla Weapons Expanded -->
-        <Gas_OPToxin.label>Gás Tóxico</Gas_OPToxin.label>
-        <VWE_ToxicGasCloud.label>gás tóxico</VWE_ToxicGasCloud.label>
-        <VWE_SmokeCloud.label>cortina de fumaça</VWE_SmokeCloud.label>
-
     <!-- Vanilla Weapons Expanded - Non-Lethal -->
         <VWENL_TearGasCloud.label>gás lacrimogêneo</VWENL_TearGasCloud.label>
 

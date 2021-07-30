@@ -1243,45 +1243,6 @@
             <VFE_Sprinkler.label>irrigador</VFE_Sprinkler.label>
             <VFE_Sprinkler.description>Um aspersor de água. Aumenta a velocidade de crescimento das plantas em seu redor.</VFE_Sprinkler.description>
 
-    <!-- Vanilla Furniture Expanded - Medical -->
-        <!-- Operating Table -->
-            <Bed_OperatingTable.label>mesa cirúrgica</Bed_OperatingTable.label>
-            <Bed_OperatingTable.description>Uma mesa tosca cheia de instrumentos que supostamente tornam a cirurgia mais fácil. A limpeza da mesa é questionável. Melhora ligeiramente os resultados médicos em relação às camas normais.</Bed_OperatingTable.description>
-
-        <!-- Cryptosleep Suspender -->
-            <Bed_CryptoBed.label>suspensor de criptosono</Bed_CryptoBed.label>
-            <Bed_CryptoBed.description>Um medicamento que usa o criptosono parcial para desacelerar a degradação de feridas e ajudar a curar o corpo, embora aplique os mesmos efeitos colaterais do criptosono.</Bed_CryptoBed.description>
-
-        <!-- Vitals Centre -->
-            <Facility_VitalsCentre.label>centro vital</Facility_VitalsCentre.label>
-            <Facility_VitalsCentre.description>Um grande centro de monitoramento dos sinais vitais de vários pacientes ao mesmo tempo, aumentando a qualidade do atendimento médico, a chance de sucesso da cirurgia e a velocidade de ganho de imunidade quando colocado nas proximidades de uma cama de hospital ou mesa cirúrgica. Funciona apenas para camas hospitalares ou mesas cirúrgicas - camas normais não serão beneficiadas.</Facility_VitalsCentre.description>
-
-        <!-- Intravenous Drip Stand -->
-            <Facility_IVDrip.label>suporte de gotejamento</Facility_IVDrip.label>
-            <Facility_IVDrip.description>Um sistema de gotejamento intravenoso para entrega rápida de fluidos perdidos a um paciente, ajudando o sistema imunológico e a recuperação da perda de sangue quando colocado diretamente ao lado de uma cama de hospital ou mesa cirúrgica. Funciona apenas para camas hospitalares ou mesas cirúrgicas - camas normais não serão beneficiadas. Colocar mais de um suporte perto da mesma cama não tem efeito.</Facility_IVDrip.description>
-
-        <!-- Research Counter -->
-            <Facility_ResearchCounter.label>contador de pesquisa</Facility_ResearchCounter.label>
-            <Facility_ResearchCounter.description>Uma superfície esterilizada na altura da cintura para a realização de pesquisas sensíveis. Impulsiona as bancadas de pesquisa próximas, além de ajudar a manter a área limpa. Acumula até 20 vezes.</Facility_ResearchCounter.description>
-
-        <!-- Sterile Wall -->
-            <Wall_SterileRed.label>parede estéril vermelha</Wall_SterileRed.label>
-            <Wall_SterileRed.description>Uma parede intransponível. Capaz de segurar um telhado. Equipada com propriedades especiais de melhoria de limpeza para criar um ambiente estéril.</Wall_SterileRed.description>
-            <Wall_SterileGreen.label>parede estéril verde</Wall_SterileGreen.label>
-            <Wall_SterileGreen.description>Uma parede intransponível. Capaz de segurar um telhado. Equipada com propriedades especiais de melhoria de limpeza para criar um ambiente estéril.</Wall_SterileGreen.description>
-            <Wall_SterileBlue.label>parede estéril azul</Wall_SterileBlue.label>
-            <Wall_SterileBlue.description>Uma parede intransponível. Capaz de segurar um telhado. Equipada com propriedades especiais de melhoria de limpeza para criar um ambiente estéril.</Wall_SterileBlue.description>
-            <Wall_SterileCream.label>parede estéril creme</Wall_SterileCream.label>
-            <Wall_SterileCream.description>Uma parede intransponível. Capaz de segurar um telhado. Equipada com propriedades especiais de melhoria de limpeza para criar um ambiente estéril.</Wall_SterileCream.description>
-            <Wall_SterileDark.label>parede estéril cinza</Wall_SterileDark.label>
-            <Wall_SterileDark.description>Uma parede intransponível. Capaz de segurar um telhado. Equipada com propriedades especiais de melhoria de limpeza para criar um ambiente estéril.</Wall_SterileDark.description>
-            <Wall_SterileGold.label>parede estéril amarela</Wall_SterileGold.label>
-            <Wall_SterileGold.description>Uma parede intransponível. Capaz de segurar um telhado. Equipada com propriedades especiais de melhoria de limpeza para criar um ambiente estéril.</Wall_SterileGold.description>
-            <Wall_SterileTeal.label>parede estéril verde-azulada</Wall_SterileTeal.label>
-            <Wall_SterileTea.description>Uma parede intransponível. Capaz de segurar um telhado. Equipada com propriedades especiais de melhoria de limpeza para criar um ambiente estéril.cc</Wall_SterileTea.description>
-            <Wall_SterileBrown.label>parede estéril marrom</Wall_SterileBrown.label>
-            <Wall_SterileBrown.description>Uma parede intransponível. Capaz de segurar um telhado. Equipada com propriedades especiais de melhoria de limpeza para criar um ambiente estéril.</Wall_SterileBrown.description>
-
     <!-- Vanilla Furniture Expanded - Power -->
         <!-- Advanced Wind Turbine -->
             <VFE_AdvancedWindTurbine.label>turbina de vento avançada</VFE_AdvancedWindTurbine.label>

@@ -3,11 +3,5 @@
 
     <!-- RimWorld - Witcher Monster Hunt -->
           <RandomEventRewardWitcher.label>Evento Aleatório</RandomEventRewardWitcher.label>
-
-    <!-- Vanilla Achievements Expanded -->
-        <RandomEventReward.label>Evento Aleatório</RandomEventReward.label>
-
-    <!-- Vanilla Weapons Expanded -->
-        <RandomEventRewardVE.label>Evento Aleatório</RandomEventRewardVE.label>
         
 </LanguageData>

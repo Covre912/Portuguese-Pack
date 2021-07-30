@@ -35,30 +35,4 @@
             <VFE_MeleeWeapon_DaneAxe.tools.0.label>cabo</VFE_MeleeWeapon_DaneAxe.tools.0.label>
             <VFE_MeleeWeapon_DaneAxe.tools.1.label>lâmina</VFE_MeleeWeapon_DaneAxe.tools.1.label>
 
-    <!-- Vanilla Weapons Expanded -->
-        <!-- Pickaxe -->
-            <VWE_MeleeWeapon_Pickaxe.label>picareta</VWE_MeleeWeapon_Pickaxe.label>
-            <VWE_MeleeWeapon_Pickaxe.description>Esta invenção simples é eficaz como uma arma, ao mesmo tempo que é uma ferramenta. Necessita de alguns músculos, mas torna mais confortável cavar montanhas.\n\nO formato da cabeça permite perfurar armaduras grossas.</VWE_MeleeWeapon_Pickaxe.description>
-            <VWE_MeleeWeapon_Pickaxe.tools.0.label>cabo</VWE_MeleeWeapon_Pickaxe.tools.0.label>
-            <VWE_MeleeWeapon_Pickaxe.tools.1.label>ponta</VWE_MeleeWeapon_Pickaxe.tools.1.label>
-
-        <!-- Hammer -->
-            <VWE_MeleeWeapon_Hammer.label>martelo</VWE_MeleeWeapon_Hammer.label>
-            <VWE_MeleeWeapon_Hammer.description>O martelo é uma ferramenta que consiste em uma pesada peça de metal ou pedra na ponta de um cabo. É usado, por exemplo, para pregar pregos em um pedaço de madeira ou parede.\n\nEsta invenção simples é eficaz como uma arma, ao mesmo tempo que é uma ferramenta. Necessita de alguns músculos, mas permite construir com mais facilidade.</VWE_MeleeWeapon_Hammer.description>
-            <VWE_MeleeWeapon_Hammer.tools.0.label>cabo</VWE_MeleeWeapon_Hammer.tools.0.label>
-            <VWE_MeleeWeapon_Hammer.tools.1.label>cabeça</VWE_MeleeWeapon_Hammer.tools.1.label>
-
-        <!-- Battle Axe -->
-            <VWE_MeleeWeapon_BattleAxe.label>machado de batalha</VWE_MeleeWeapon_BattleAxe.label>
-            <VWE_MeleeWeapon_BattleAxe.description>Uma arma poderosa no campo de batalha nas mãos certas. Feito para cortar carne e ossos.\n\nFavorecido pelos clãs berserker, o machado de batalha é uma arma geralmente usada por cavaleiros medievais. Com um golpe poderoso, é capaz de eliminar a maioria dos inimigos perto.</VWE_MeleeWeapon_BattleAxe.description>
-            <VWE_MeleeWeapon_BattleAxe.tools.0.label>cabo</VWE_MeleeWeapon_BattleAxe.tools.0.label>
-            <VWE_MeleeWeapon_BattleAxe.tools.1.label>lâmina</VWE_MeleeWeapon_BattleAxe.tools.1.label>
-
-        <!-- Halberd -->
-            <VWE_MeleeWeapon_Halberd.label>alabarda</VWE_MeleeWeapon_Halberd.label>
-            <VWE_MeleeWeapon_Halberd.description>A alabarda é um pique equipado com uma ponta de machado leve. Devido à ponta afiada em forma de lança, é uma ótima ferramenta contra inimigos com armadura.\n\nUsada para lutar contra cavaleiros na época medieval, graças ao seu comprimento extraordinário.</VWE_MeleeWeapon_Halberd.description>
-            <VWE_MeleeWeapon_Halberd.tools.0.label>cabo</VWE_MeleeWeapon_Halberd.tools.0.label>
-            <VWE_MeleeWeapon_Halberd.tools.1.label>lâmina</VWE_MeleeWeapon_Halberd.tools.1.label>
-            <VWE_MeleeWeapon_Halberd.tools.2.label>ponta</VWE_MeleeWeapon_Halberd.tools.2.label>
-
 </LanguageData>

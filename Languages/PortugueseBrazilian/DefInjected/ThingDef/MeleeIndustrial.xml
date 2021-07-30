@@ -1,44 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <!-- Vanilla Weapons Expanded -->
-        <!-- Shovel -->
-            <VWE_MeleeWeapon_Shovel.label>pá</VWE_MeleeWeapon_Shovel.label>
-            <VWE_MeleeWeapon_Shovel.description>Normalmente usada no campo de batalha para cavar trincheiras, esta pequena pá portátil é uma excelente arma de curto alcance.</VWE_MeleeWeapon_Shovel.description>
-            <VWE_MeleeWeapon_Shovel.tools.0.label>cabo</VWE_MeleeWeapon_Shovel.tools.0.label>
-            <VWE_MeleeWeapon_Shovel.tools.1.label>cabeça</VWE_MeleeWeapon_Shovel.tools.1.label>
-
-        <!-- Baton -->
-            <VWE_MeleeWeapon_Baton.label>cacetete</VWE_MeleeWeapon_Baton.label>
-            <VWE_MeleeWeapon_Baton.description>Um bastão curto de manutenção da paz comumente usado por guardas de prisão e milícia do mundo urbano.</VWE_MeleeWeapon_Baton.description>
-            <VWE_MeleeWeapon_Baton.tools.0.label>cabo</VWE_MeleeWeapon_Baton.tools.0.label>
-            <VWE_MeleeWeapon_Baton.tools.1.label>cabeça</VWE_MeleeWeapon_Baton.tools.1.label>
-
-        <!-- Combat Knife -->
-            <VWE_MeleeWeapon_CombatKnife.label>faca de combate</VWE_MeleeWeapon_CombatKnife.label>
-            <VWE_MeleeWeapon_CombatKnife.description>Uma das ferramentas manufaturadas mais antigas da humanidade. A faca tomou muitas formas, mas o conceito sempre permaneceu o mesmo: um cabo para segurar e uma lâmina afiada para cortar.\n\nA faca de combate é uma arma de combate corpo a corpo padrão para a maioria das forças militares.</VWE_MeleeWeapon_CombatKnife.description>
-            <VWE_MeleeWeapon_CombatKnife.tools.0.label>cabo</VWE_MeleeWeapon_CombatKnife.tools.0.label>
-            <VWE_MeleeWeapon_CombatKnife.tools.1.label>lâmina</VWE_MeleeWeapon_CombatKnife.tools.1.label>
-            <VWE_MeleeWeapon_CombatKnife.tools.2.label>ponta</VWE_MeleeWeapon_CombatKnife.tools.2.label>
-
-        <!-- Wrench -->
-            <VWE_MeleeWeapon_Wrench.label>chave inglesa</VWE_MeleeWeapon_Wrench.label>
-            <VWE_MeleeWeapon_Wrench.description>Um instrumento universal para fazer até as coisas mais robustas funcionarem.\n\nAjuda na construção e na descontruição de mecanóides.</VWE_MeleeWeapon_Wrench.description>
-            <VWE_MeleeWeapon_Wrench.tools.0.label>cabo</VWE_MeleeWeapon_Wrench.tools.0.label>
-            <VWE_MeleeWeapon_Wrench.tools.1.label>cabeça</VWE_MeleeWeapon_Wrench.tools.1.label>
-
-        <!-- Cleaver -->
-            <VWE_MeleeWeapon_Cleaver.label>cutelo</VWE_MeleeWeapon_Cleaver.label>
-            <VWE_MeleeWeapon_Cleaver.description>Uma das ferramentas manufaturadas mais antigas da humanidade. A faca tomou muitas formas, mas o conceito sempre permaneceu o mesmo: um cabo para segurar e uma lâmina afiada para cortar.\n\nEste tipo de faca é comumente usado por chefes para cortar carne e ossos.</VWE_MeleeWeapon_Cleaver.description>
-            <VWE_MeleeWeapon_Cleaver.tools.0.label>cabo</VWE_MeleeWeapon_Cleaver.tools.0.label>
-            <VWE_MeleeWeapon_Cleaver.tools.1.label>lâmina</VWE_MeleeWeapon_Cleaver.tools.1.label>
-
-        <!-- Scalpel -->
-            <VWE_MeleeWeapon_Scalpel.label>bisturi</VWE_MeleeWeapon_Scalpel.label>
-            <VWE_MeleeWeapon_Scalpel.description>Uma das ferramentas manufaturadas mais antigas da humanidade. A faca tomou muitas formas, mas o conceito sempre permaneceu o mesmo: um cabo para segurar e uma lâmina afiada para cortar.\n\nEsta lâmina é comumente usada por cirurgiões devido à sua extrema afiação.</VWE_MeleeWeapon_Scalpel.description>
-            <VWE_MeleeWeapon_Scalpel.tools.0.label>lâmina</VWE_MeleeWeapon_Scalpel.tools.0.label>
-            <VWE_MeleeWeapon_Scalpel.tools.1.label>ponta</VWE_MeleeWeapon_Scalpel.tools.1.label>
-
     <!-- Vanilla Weapons Expanded - Non-Lethal -->
         <!-- Stun Baton -->
             <VWE_MeleeWeapon_StunBaton.label>cacetete de choque</VWE_MeleeWeapon_StunBaton.label>

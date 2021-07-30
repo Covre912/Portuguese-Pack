@@ -1231,11 +1231,6 @@
             <VCEF_CaughtSpecialHediff.label>pescou algo especial recentemente</VCEF_CaughtSpecialHediff.label>
             <VCEF_CaughtSpecialHediff.description>Esta pessoa pescou algo especial.</VCEF_CaughtSpecialHediff.description>
 
-    <!-- Vanilla Furniture Expanded - Medical Module -->
-        <!-- Cryptosleep Sicness -->
-            <Minor_CryptoSickness.label>doença do criptosono (leve)</Minor_CryptoSickness.label>
-            <Minor_CryptoSickness.description>Doença do criptosono leve.</Minor_CryptoSickness.description>
-
     <!-- Vanilla Furniture Expanded - Spacer Module -->
         <!-- Refreshing Sleep -->
             <Bed_RefreshingSleep.label>sono refrescante</Bed_RefreshingSleep.label>
