@@ -102,11 +102,6 @@
             <AEXP_MegascorpionToxicBuildUp.label>mordida venenosa</AEXP_MegascorpionToxicBuildUp.label>
             <AEXP_MegascorpionToxicBuildUp.deathMessage>{0} morreu envenenado.</AEXP_MegascorpionToxicBuildUp.deathMessage>
 
-    <!-- Vanilla Expanded Framework -->
-        <!-- Acid Burn -->
-            <VEF_SecondaryAcidBurn.label>ácido</VEF_SecondaryAcidBurn.label>
-            <VEF_SecondaryAcidBurn.deathMessage>{0} foi corroíd{0_gender ? o : a} até a morte.</VEF_SecondaryAcidBurn.deathMessage>
-
     <!-- Vanilla Factions Expanded - Insectoids -->
         <!-- Psychic -->
             <VFEI_PsychicNoDamage.label>psique</VFEI_PsychicNoDamage.label>

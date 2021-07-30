@@ -308,45 +308,6 @@
                 <li>desc_sentence->Há um(a) [TerrainFeature] no fundo.</li>
             </MentalStateHuntingTrip.rulePack.rulesStrings>
 
-    <!-- Vanilla Furniture Expanded -->
-        <!-- Punching Bag -->
-            <Tale_UsedPunchingBag.label>usou saco de pancadas</Tale_UsedPunchingBag.label>
-            <Tale_UsedPunchingBag.rulePack.rulesStrings>
-                <li>tale_noun->[PAWN_nameDef] descontando sua raiva em um [OBJECT_label]</li>
-                <li>tale_noun->[PAWN_nameDef] olhando com raiva para um [OBJECT_label]</li>
-                <li>tale_noun->[PAWN_nameDef] divertindo-se com um [OBJECT_label]</li>
-                <li>image->[PAWN_nameFull] equilibrado(a) sobre o [OBJECT_label], [circumstance_group]</li>
-                <li>image->[PAWN_nameFull] socando o [OBJECT_label], [circumstance_group]</li>
-                <li>circumstance_phrase->tenso com energia</li>
-                <li>circumstance_phrase->com corpo solto e relaxado</li>
-                <li>circumstance_phrase->massageando suavemente os pulsos </li>
-                <li>circumstance_phrase->com uma expressão sedenta</li>
-                <li>circumstance_phrase->envolvendo as mãos em fita adesiva</li>
-                <li>desc_sentence->Uma aurora [Color] brilha no fundo.</li>
-                <li>desc_sentence->À distância, uma [Community] é visível.</li>
-                <li>desc_sentence->À distância, uma [TerrainFeature] é visível.</li>
-                <li>desc_sentence->As características de [PAWN_nameDef] são exageradas.</li>
-                <li>desc_sentence->[PAWN_nameDef] eleva-se acima da cena.</li>
-            </Tale_UsedPunchingBag.rulePack.rulesStrings>
-
-        <!-- Computer -->
-            <Tale_UsedComputer.label>usou computador</Tale_UsedComputer.label>
-            <Tale_UsedComputer.rulePack.rulesStrings>
-                <li>tale_noun->[PAWN_nameDef] focando fortemente no [OBJECT_label] em sua frente</li>
-                <li>tale_noun->[PAWN_nameDef] olhando com raiva para um [OBJECT_label]</li>
-                <li>tale_noun->[PAWN_nameDef] divertindo-se com um [OBJECT_label]</li>
-                <li>image->[PAWN_nameFull] equilibrado(a) sobre o [OBJECT_label], [circumstance_group]</li>
-                <li>image->[PAWN_nameFull] digitando pesadamente no [OBJECT_label], [circumstance_group]</li>
-                <li>circumstance_phrase->concrentrad(a)</li>
-                <li>circumstance_phrase->com corpo solto e relaxado</li>
-                <li>circumstance_phrase->recostado em sua cadeira</li>
-                <li>desc_sentence->Uma aurora [Color] brilha no fundo.</li>
-                <li>desc_sentence->À distância, uma [Community] é visível.</li>
-                <li>desc_sentence->À distância, um(a) [TerrainFeature] é visível.</li>
-                <li>desc_sentence->[PAWN_nameDef] focado(a) na tela.</li>
-                <li>desc_sentence->[PAWN_nameDef] eleva-se acima da cena.</li>
-            </Tale_UsedComputer.rulePack.rulesStrings>
-
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Bonded Pet Butchered -->
             <VSIE_BondedPetButchered.label>assassinou meu animal de estimação</VSIE_BondedPetButchered.label>

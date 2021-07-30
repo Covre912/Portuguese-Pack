@@ -1068,30 +1068,6 @@
             <MightJoin.label>pode juntar-se</MightJoin.label>
             <MightJoin.description>Pode juntar-se.</MightJoin.description>
 
-    <!-- Vanilla Expanded Framework -->
-        <!-- Acid Buildup -->
-            <VEF_AcidBuildup.label>ácido</VEF_AcidBuildup.label>
-            <VEF_AcidBuildup.description>Um respingo de ácido que continua a causar queimaduras por algum tempo após o ataque inicial.</VEF_AcidBuildup.description>
-            <VEF_AcidBuildup.stages.0.label>leve, queimando</VEF_AcidBuildup.stages.0.label>
-            <VEF_AcidBuildup.stages.1.label>moderado, queimando</VEF_AcidBuildup.stages.1.label>
-            <VEF_AcidBuildup.stages.2.label>sério, queimando</VEF_AcidBuildup.stages.2.label>
-
-        <!-- Acid Burn -->
-            <VEF_AcidBurn.label>ácido</VEF_AcidBurn.label>
-            <VEF_AcidBurn.labelNoun>ácido</VEF_AcidBurn.labelNoun>
-            <VEF_AcidBurn.description>Ácido.</VEF_AcidBurn.description>
-            <VEF_AcidBurn.injuryProps.destroyedLabel>Corroído</VEF_AcidBurn.injuryProps.destroyedLabel>
-            <VEF_AcidBurn.injuryProps.destroyedOutLabel>Corroído</VEF_AcidBurn.injuryProps.destroyedOutLabel>
-
-        <!-- Level of Sunlight -->
-            <VEF_LightSustenance.label>nível de luz solar</VEF_LightSustenance.label>
-            <VEF_LightSustenance.description>Esta criatura se alimenta de luz solar. Níveis inadequados de luz irão matá-la.</VEF_LightSustenance.description>
-            <VEF_LightSustenance.stages.0.label>nível de luz adequado</VEF_LightSustenance.stages.0.label>
-            <VEF_LightSustenance.stages.1.label>níveis de luz baixos</VEF_LightSustenance.stages.1.label>
-            <VEF_LightSustenance.stages.2.label>níveis de luz muito baixos</VEF_LightSustenance.stages.2.label>
-            <VEF_LightSustenance.stages.3.label>falta de luz solar</VEF_LightSustenance.stages.3.label>
-            <VEF_LightSustenance.stages.4.label>falta extrema de sustentação</VEF_LightSustenance.stages.4.label>
-
     <!-- Vanilla Factions Expanded - Insectoids --> 
         <!-- Royal Jelly -->
             <VFEI_RoyalJellyHigh.label>viajando na geleia real</VFEI_RoyalJellyHigh.label>
@@ -1254,13 +1230,6 @@
         <!-- Special -->
             <VCEF_CaughtSpecialHediff.label>pescou algo especial recentemente</VCEF_CaughtSpecialHediff.label>
             <VCEF_CaughtSpecialHediff.description>Esta pessoa pescou algo especial.</VCEF_CaughtSpecialHediff.description>
-
-    <!-- Vanilla Furniture Expanded -->
-        <!-- Learning Boost -->
-            <Computer_LearningBoost.label>bônus de aprendizagem</Computer_LearningBoost.label>
-            <Computer_LearningBoost.stages.0.label>menor</Computer_LearningBoost.stages.0.label>
-            <Computer_LearningBoost.stages.1.label>maior</Computer_LearningBoost.stages.1.label>
-            <Computer_LearningBoost.stages.2.label>máximo</Computer_LearningBoost.stages.2.label>
 
     <!-- Vanilla Furniture Expanded - Medical Module -->
         <!-- Cryptosleep Sicness -->
