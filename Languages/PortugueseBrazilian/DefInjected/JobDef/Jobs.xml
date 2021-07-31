@@ -83,21 +83,6 @@
     <!-- Vanilla Events Expanded -->
         <HuntAndLeave.reportString>caçando TargetA.</HuntAndLeave.reportString>
 
-    <!-- Vanilla Expanded Framework -->
-        <VFEC_EquipShield.reportString>equipando TargetA.</VFEC_EquipShield.reportString>
-        <VFE_Mechanoids_RepairMachine.reportString>reconstruindo máquina.</VFE_Mechanoids_RepairMachine.reportString>
-        <VFE_Mechanoids_AttachTurret.reportString>anexando torreta.</VFE_Mechanoids_AttachTurret.reportString>
-        <VFE_Mechanoids_Recharge.reportString>recarregando.</VFE_Mechanoids_Recharge.reportString>
-        <IP_InsertFirstIngredient.reportString>inserindo ingrediente.</IP_InsertFirstIngredient.reportString>
-        <IP_InsertSecondIngredient.reportString>inserindo ingrediente.</IP_InsertSecondIngredient.reportString>
-        <IP_InsertThirdIngredient.reportString>inserindo ingrediente.</IP_InsertThirdIngredient.reportString>
-        <IP_RemoveProduct.reportString>removendo o produto finalizado.</IP_RemoveProduct.reportString>
-        <VEF_AnimalResource.reportString>coletando recursos animais de TargetA.</VEF_AnimalResource.reportString>
-        <VEF_DestroyItem.reportString>destruindo um item.</VEF_DestroyItem.reportString>
-        <VEF_LayExplodingEgg.reportString>botando ovos.</VEF_LayExplodingEgg.reportString> 
-        <VEF_IngestWeird.reportString>consumindo TargetA.</VEF_IngestWeird.reportString>
-        <VEF_AutoNutrition.reportString>comendo.</VEF_AutoNutrition.reportString>
-
     <!-- Vanilla Factions Expanded - Insectoids -->
         <VFEI_IngestWeird.reportString>consumindo TargetA.</VFEI_IngestWeird.reportString>
         <VFEI_InsertFirstGenomeJob.reportString>inserindo genoma.</VFEI_InsertFirstGenomeJob.reportString>
@@ -127,15 +112,6 @@
 
     <!-- Vanilla Fishing Expanded -->
         <VCEF_FishJob.reportString>pescando em TargetA.</VCEF_FishJob.reportString>
-
-    <!-- Vanilla Furniture Expanded -->
-        <Play_Roulette.reportString>jogando roleta.</Play_Roulette.reportString>
-        <Play_Arcade.reportString>jogando fliperama.</Play_Arcade.reportString>
-        <Play_Piano.reportString>tocando piano.</Play_Piano.reportString>
-        <Play_DartsBoard.reportString>jogando dardos.</Play_DartsBoard.reportString>
-        <Play_PunchingBag.reportString>usando saco de pancadas.</Play_PunchingBag.reportString>
-        <Play_ComputerIndustrial.reportString>usando computador.</Play_ComputerIndustrial.reportString>
-        <Play_ComputerModern.reportString>usando computador.</Play_ComputerModern.reportString>
 
     <!-- Vanilla Furniture Expanded - Power -->
         <VPE_JobPlugHole.reportString>destruindo buraco.</VPE_JobPlugHole.reportString>

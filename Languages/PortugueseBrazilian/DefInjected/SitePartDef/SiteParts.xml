@@ -76,11 +76,6 @@
             <WMHAux_Uwutross_MonsterEncounterCore.label>encontro de monstro</WMHAux_Uwutross_MonsterEncounterCore.label>
             <WMHAux_Uwutross_MonsterEncounterCore.description>O local onde um monstro está vagando.</WMHAux_Uwutross_MonsterEncounterCore.description>
 
-    <!-- Vanilla Expanded Framework -->
-        <!-- Ennemies Presence -->
-            <KCSG_EnnemiesPresence.label>presença de inimigos</KCSG_EnnemiesPresence.label>
-            <KCSG_EnnemiesPresence.description>Inimigos estão presentes neste lugar.</KCSG_EnnemiesPresence.description>
-
     <!-- Vanilla Factions Expanded - Mechanoids -->
         <!-- Mechanoid Attack Party -->
             <VFE_MechanoidAttackParty.label>um posto avançado amigável sob ataque mecanóide</VFE_MechanoidAttackParty.label>

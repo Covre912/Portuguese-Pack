@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-    <!-- Vanilla Weapons Expanded -->
-        <!-- Hatchet -->
-            <VWE_MeleeWeapon_Axe.label>machadinha</VWE_MeleeWeapon_Axe.label>
-            <VWE_MeleeWeapon_Axe.description>Uma cabeça de machado presa a um cabo. Adequado para uma mão, devido ao formato de uma cunha, não requer força significativa para cortar armadura e carne.</VWE_MeleeWeapon_Axe.description>
-            <VWE_MeleeWeapon_Axe.tools.0.label>cabo</VWE_MeleeWeapon_Axe.tools.0.label>
-            <VWE_MeleeWeapon_Axe.tools.1.label>lâmina</VWE_MeleeWeapon_Axe.tools.1.label>
         
     <!-- Vanilla Weapons Expanded - Tribal -->
         <!-- Heavy Club -->

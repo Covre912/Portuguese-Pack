@@ -9,10 +9,6 @@
         <RSLUM_tab.label>nível</RSLUM_tab.label>
         <RSLUM_tab.description>Administre a estatística de colonos.</RSLUM_tab.description>
 
-    <!-- Vanilla Achievements Expanded -->
-        <Achievements.label>conquistas</Achievements.label>
-        <Achievements.description>Desbloqueie conquistas, ganhe pontos, gerencie seu progresso.</Achievements.description>
-
     <!-- VFE - Mechanoids : Tab -->
         <VFEMT_Mechanoids.label>drones</VFEMT_Mechanoids.label>
         <VFEMT_Mechanoids.description>Rastreie e configure os drones da colônia.</VFEMT_Mechanoids.description>

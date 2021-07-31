@@ -91,13 +91,6 @@
             <ROMV_Rotschreck.recoveryMessage>Os temores de {0} diminuíram.</ROMV_Rotschreck.recoveryMessage>
             <ROMV_Rotschreck.baseInspectLine>Estado mental: Rötschreck</ROMV_Rotschreck.baseInspectLine>
 
-    <!-- Vanilla Expanded Framework -->
-        <!-- Xenophobic Rage -->
-            <VEF_XenophobicRage.label>raiva xenofóbica</VEF_XenophobicRage.label>
-            <VEF_XenophobicRage.recoveryMessage>{0} não está mais em raiva xenofóbica.</VEF_XenophobicRage.recoveryMessage>
-            <VEF_XenophobicRage.beginLetter>{0} entrou em raiva xenofóbica.\n\n[PAWN_pronoun] decidiu matar {1}.</VEF_XenophobicRage.beginLetter>
-            <VEF_XenophobicRage.baseInspectLine>Estado mental: Raiva xenofóbica</VEF_XenophobicRage.baseInspectLine>
-
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Enraged -->
             <VFEV_Enraged.label>enfurecido</VFEV_Enraged.label>

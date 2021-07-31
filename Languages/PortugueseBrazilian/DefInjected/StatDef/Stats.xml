@@ -36,11 +36,6 @@
             <VAEA_RangedCooldownFactor.label>fator de recarga de alcance</VAEA_RangedCooldownFactor.label>
             <VAEA_RangedCooldownFactor.description>O tempo de recarga das armas de longo alcance do usuário é multiplicado por este valor.</VAEA_RangedCooldownFactor.description>
 
-    <!-- Vanilla Furniture Expanded -->
-        <!-- Hearing Ability -->
-            <AO_MusicHearingAbility.label>habilidade auditiva</AO_MusicHearingAbility.label>
-            <AO_MusicHearingAbility.description>Quão eficazes são as fontes musicais de diversão, como rádios.</AO_MusicHearingAbility.description>
-
     <!-- Vanilla Furniture Expanded - Security Expanded -->
         <!-- Shield Max Energy -->
             <VFES_EnergyShieldEnergyMax.label>energia máxima de escudo</VFES_EnergyShieldEnergyMax.label>

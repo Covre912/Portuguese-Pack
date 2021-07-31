@@ -3,11 +3,5 @@
 
     <!-- RimWorld - Witcher Monster Hunt -->
         <RandomRewardQuestItemWitcher.label>Item de Missão Aleatório</RandomRewardQuestItemWitcher.label>
-
-    <!-- Vanilla Achievements Expanded -->
-        <RandomRewardQuestItem.label>Item de Missão Aleatório</RandomRewardQuestItem.label>
-
-    <!-- Vanilla Weapons Expanded -->
-        <RandomRewardQuestItemVE.label>Item de Missão Aleatório</RandomRewardQuestItemVE.label>
         
 </LanguageData>
