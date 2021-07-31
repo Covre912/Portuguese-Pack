@@ -733,7 +733,7 @@
             <WaterFiltration.label>filtração de água</WaterFiltration.label>
             <WaterFiltration.description>Construa sistemas de filtragem de água que tratem o abastecimento de água, eliminando o risco de doenças.</WaterFiltration.description>
 
-            <HygieneBionics.label>biônico higiênico</HygieneBionics.label>
+            <HygieneBionics.label>biônico de higiene</HygieneBionics.label>
             <HygieneBionics.description>Crie biônicos que ajudam a processar resíduos corporais e gerenciar a higiene pessoal.</HygieneBionics.description>
 
             <SepticTanks.label>tanques sépticos</SepticTanks.label>

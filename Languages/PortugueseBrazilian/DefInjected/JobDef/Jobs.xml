@@ -205,7 +205,7 @@
         <DrainWaterTankJob.reportString>desentupindo TargetA.</DrainWaterTankJob.reportString>
         <PlaceFertilizer.reportString>fertilizando solo.</PlaceFertilizer.reportString>
 
-        <UseToilet.reportString>TargetA esta se cagando.</UseToilet.reportString>
+        <UseToilet.reportString>TargetA esta defecando.</UseToilet.reportString>
         <haveWildPoo.reportString>defecando ao ar livre.</haveWildPoo.reportString>
         <useWashBucket.reportString>TargetA se lavando.</useWashBucket.reportString>
         <takeShower.reportString>TargetA lavando.</takeShower.reportString>

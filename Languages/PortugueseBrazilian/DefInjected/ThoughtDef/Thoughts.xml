@@ -1337,7 +1337,7 @@
             <HygieneLevel.stages.3.label>limpíssimo</HygieneLevel.stages.3.label>
             <HygieneLevel.stages.3.description>Estou completamente limpo!</HygieneLevel.stages.3.description>
 
-            <BowelLevel.stages.0.label>se cagando</BowelLevel.stages.0.label>
+            <BowelLevel.stages.0.label>defecando</BowelLevel.stages.0.label>
             <BowelLevel.stages.0.description>Eu preciso tanto ir ao banheiro, estou prestes a explodir!</BowelLevel.stages.0.description>
             <BowelLevel.stages.1.label>preciso do banheiro</BowelLevel.stages.1.label>
             <BowelLevel.stages.1.description>Eu preciso ir ao banheiro.</BowelLevel.stages.1.description>
