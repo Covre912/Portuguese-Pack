@@ -272,4 +272,73 @@
             <ExtractZombieSerum.verb>extrair</ExtractZombieSerum.verb>
             <ExtractZombieSerum.gerund>extraindo</ExtractZombieSerum.gerund>
 
+    <!-- Dubs Bad Hygiene -->
+            <PlaceFertilizer.label>colocar fertilizante</PlaceFertilizer.label>
+            <PlaceFertilizer.verb>fertilizar</PlaceFertilizer.verb>
+            <PlaceFertilizer.gerund>fertilizando</PlaceFertilizer.gerund>
+
+            <ClearBlockage.label>desentupir vaso</ClearBlockage.label>
+            <ClearBlockage.verb>desentupir</ClearBlockage.verb>
+            <ClearBlockage.gerund>desentupindo</ClearBlockage.gerund>
+
+            <DBHAdministerFluids.label>dar água</DBHAdministerFluids.label>
+            <DBHAdministerFluids.verb>dar</DBHAdministerFluids.verb>
+            <DBHAdministerFluids.gerund>dando agua</DBHAdministerFluids.gerund>
+
+            <washPatient.label>lavar o paciente</washPatient.label>
+            <washPatient.verb>lavar</washPatient.verb>
+            <washPatient.gerund>lavando paciente</washPatient.gerund>
+
+            <DocCleanBedpan.label>limpar a cama</DocCleanBedpan.label>
+            <DocCleanBedpan.verb>limpar</DocCleanBedpan.verb>
+            <DocCleanBedpan.gerund>limpando</DocCleanBedpan.gerund>
+
+            <cleanBedpan.label>limpar a cama</cleanBedpan.label>
+            <cleanBedpan.verb>limpar</cleanBedpan.verb>
+            <cleanBedpan.gerund>limpando</cleanBedpan.gerund>
+
+            <TipSewage.label>esvaziar esgoto</TipSewage.label>
+            <TipSewage.verb>esvaziar</TipSewage.verb>
+            <TipSewage.gerund>esvaziando esgoto</TipSewage.gerund>
+
+            <DrainWaterTank.label>derramar a água</DrainWaterTank.label>
+            <DrainWaterTank.verb>derramar</DrainWaterTank.verb>
+            <DrainWaterTank.gerund>drenando água</DrainWaterTank.gerund>
+
+            <DoBillsBurnPit.label>queimar fezes em poço</DoBillsBurnPit.label>
+            <DoBillsBurnPit.verb>queimar</DoBillsBurnPit.verb>
+            <DoBillsBurnPit.gerund>queimando fezes</DoBillsBurnPit.gerund>
+
+            <RemoveSewage.label>desentupir esgoto</RemoveSewage.label>
+            <RemoveSewage.verb>desentupir</RemoveSewage.verb>
+            <RemoveSewage.gerund>desentupindo esgoto</RemoveSewage.gerund>
+
+            <UnloadWashing.label>pegar as roupas</UnloadWashing.label>
+            <UnloadWashing.verb>pegar</UnloadWashing.verb>
+            <UnloadWashing.gerund>pegando as roupas</UnloadWashing.gerund>
+
+            <LoadWashing.label>colocar as roupas</LoadWashing.label>
+            <LoadWashing.verb>colocar</LoadWashing.verb>
+            <LoadWashing.gerund>colocando roupas</LoadWashing.gerund>
+
+            <UnloadComposter.label>pegar composto</UnloadComposter.label>
+            <UnloadComposter.verb>pegar</UnloadComposter.verb>
+            <UnloadComposter.gerund>pegando composto</UnloadComposter.gerund>
+
+            <FillComposter.label>colocar composto</FillComposter.label>
+            <FillComposter.verb>colocar</FillComposter.verb>
+            <FillComposter.gerund>colocando</FillComposter.gerund>
+
+            <emptySepticTank.label>esvaziar fossa</emptySepticTank.label>
+            <emptySepticTank.verb>esvaziar</emptySepticTank.verb>
+            <emptySepticTank.gerund>esvaziando</emptySepticTank.gerund>
+
+            <RefillWater.label>encher água</RefillWater.label>
+            <RefillWater.verb>encher</RefillWater.verb>
+            <RefillWater.gerund>enchendo</RefillWater.gerund>
+
+            <CleanFilthIndoors.label>limpar sujeira dentro de casa</CleanFilthIndoors.label>
+            <CleanFilthIndoors.verb>limpar</CleanFilthIndoors.verb>
+            <CleanFilthIndoors.gerund>limpando</CleanFilthIndoors.gerund>
+
 </LanguageData>

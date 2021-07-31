@@ -170,8 +170,49 @@
         <Sabotage.reportString>sabotando.</Sabotage.reportString>
         <ExtractZombieSerum.reportString>extraindo soro de zumbi do TargetA.</ExtractZombieSerum.reportString>
 
-  <GoToThrowParty.reportString>dando uma festa.</GoToThrowParty.reportString>
+        <GoToThrowParty.reportString>dando uma festa.</GoToThrowParty.reportString>
 
-  <DW_EquipOffhand.reportString>Equipando</DW_EquipOffhand.reportString>
+        <DW_EquipOffhand.reportString>Equipando</DW_EquipOffhand.reportString>
+
+        <TriggerFireSprinkler.reportString>ativando TargetA.</TriggerFireSprinkler.reportString>
+        <emptySeptictank.reportString>esvaziando TargetA.</emptySeptictank.reportString>
+        <emptyLatrine.reportString>esvaziando TargetA.</emptyLatrine.reportString>
+
+    <!-- Dubs Bad Hygiene -->
+
+        <LoadWashing.reportString>carregando TargetA.</LoadWashing.reportString>
+        <UnloadWashing.reportString>descarregando TargetA.</UnloadWashing.reportString>
+        <LoadComposter.reportString>o preenchimento TargetA.</LoadComposter.reportString>
+        <UnloadComposter.reportString>removendo fezes de TargetA.</UnloadComposter.reportString>
+        <RemoveSewage.reportString>removendo fezes.</RemoveSewage.reportString>
+        <WatchWashingMachine.reportString>assistindo o ciclo de rotação.</WatchWashingMachine.reportString>
+        <DBHDrinkFromGround.reportString>água potável.</DBHDrinkFromGround.reportString>
+        <DBHDrinkFromBasin.reportString>beber água de TargetA.</DBHDrinkFromBasin.reportString>
+        <DBHPackWaterBottle.reportString>encher garrafa de água de TargetA.</DBHPackWaterBottle.reportString>
+        <DBHStockpileWaterBottles.reportString>armazenar água de TargetA.</DBHStockpileWaterBottles.reportString>
+        <UseToilet.reportString>defecando em TargetA.</UseToilet.reportString>
+        <haveWildPoo.reportString>defecando ao ar livre.</haveWildPoo.reportString>
+        <useWashBucket.reportString>lavando com TargetA.</useWashBucket.reportString>
+        <washAtCell.reportString>lavando</washAtCell.reportString>
+        <washHands.reportString>lavando as mãos em TargetA.</washHands.reportString>
+        <washPatient.reportString>lavando TargetA.</washPatient.reportString>
+        <DBHAdministerFluids.reportString>trazendo água para limpar TargetB.</DBHAdministerFluids.reportString>
+        <RefillTub.reportString>reabastecimento da banheira.</RefillTub.reportString>
+        <RefillWater.reportString>reabastecimento de água.</RefillWater.reportString>
+        <cleanBedpan.reportString>limpando.</cleanBedpan.reportString>
+        <clearBlockage.reportString>entupido.</clearBlockage.reportString>
+        <TipOverSewage.reportString>derramando TargetA.</TipOverSewage.reportString>
+        <DrainWaterTankJob.reportString>desentupindo TargetA.</DrainWaterTankJob.reportString>
+        <PlaceFertilizer.reportString>fertilizando solo.</PlaceFertilizer.reportString>
+
+        <UseToilet.reportString>TargetA esta defecando.</UseToilet.reportString>
+        <haveWildPoo.reportString>defecando ao ar livre.</haveWildPoo.reportString>
+        <useWashBucket.reportString>TargetA se lavando.</useWashBucket.reportString>
+        <takeShower.reportString>TargetA lavando.</takeShower.reportString>
+        <takeBath.reportString>TargetA lavando.</takeBath.reportString>
+        <washHands.reportString>TargetA lavando as mãos.</washHands.reportString>
+        <washPatient.reportString>TargetA lavando.</washPatient.reportString>
+        <cleanBedpan.reportString>limpando.</cleanBedpan.reportString>
+        <clearBlockage.reportString>entupindo.</clearBlockage.reportString>
 
 </LanguageData>

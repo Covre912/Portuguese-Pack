@@ -20,7 +20,9 @@
     <!-- LMW Deep Storage -->
         <Architect_LWM_DS_Storage.label>Guia de Estoque</Architect_LWM_DS_Storage.label>
         <Architect_LWM_DS_Storage.description>Atalhos de teclado para a seção "estoque" do menu do arquiteto</Architect_LWM_DS_Storage.description>
-
-
+        
+    <!-- Dubs Bad Hygiene -->
+        <Architect_Hygiene.label>Guia de Higiene</Architect_Hygiene.label>
+        <Architect_Hygiene.description>Atalhos de teclado para a seção "Higiene" do menu do arquiteto</Architect_Hygiene.description>
 
 </LanguageData>
