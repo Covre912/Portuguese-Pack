@@ -296,4 +296,8 @@
             <VSE_ManInTheCoatJoin.letterLabel>Homem de casaco</VSE_ManInTheCoatJoin.letterLabel>
             <VSE_ManInTheCoatJoin.letterText>Percebendo problemas, um misterioso [PAWN_kind] chegou.\n\n[PAWN_pronoun] poderá investigar a situação atual e encerrar o caso?</VSE_ManInTheCoatJoin.letterText>
 
+    <!-- Dubs Bad Hygiene -->
+            <Dysentery.label>disenteria</Dysentery.label>
+            <Cholera.label>cólera</Cholera.label>
+
 </LanguageData>

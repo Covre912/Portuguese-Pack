@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dubs Bad Hygiene -->
+
+  <takeShower.reportString>tomando banho com TargetA.</takeShower.reportString>
+  <takeBath.reportString>tomando banho.</takeBath.reportString>
+
+</LanguageData>

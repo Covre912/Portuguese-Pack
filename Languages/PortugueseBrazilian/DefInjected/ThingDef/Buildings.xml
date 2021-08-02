@@ -3477,4 +3477,508 @@
         <DecorativeTreePot.label>vaso de árvore decorativo</DecorativeTreePot.label>
         <DecorativeTreePot.description>Solo estranho especial adequado apenas para o cultivo de árvores especialmente modificadas. É muito caro e impróprio para o cultivo de plantas normais. O pequeno volume do vaso não permite que as árvores cresçam muito, o que torna possível ficar sob um telhado.</DecorativeTreePot.description>
 
+    <!-- Dubs Bad Hygiene -->
+        <PitLatrine.label>latrina</PitLatrine.label>
+        <PitLatrine.description>Uma latrina com fossa, é um tipo de banheiro que coleta fezes humanas em um buraco no chão. Não precisa de água.</PitLatrine.description>
+
+        <WashBucket.label>balde de lavagem</WashBucket.label> 
+        <WashBucket.description>Balde de água imunda usada para lavar.</WashBucket.description>  
+
+        <WaterTowerSmall.label>pequena torre de água</WaterTowerSmall.label> 
+        <WaterTowerSmall.description>As torres de água bombeiam e armazenam água subterrânea para uso em instalações sanitárias. Coloque sobre áreas contendo água subterrânea ou próxima a rios, a capacidade é baseada na quantidade de água no raio.</WaterTowerSmall.description> 
+
+        <WaterTower.label>grande torre de água</WaterTower.label> 
+        <WaterTower.description>As torres de água bombeiam e armazenam água subterrânea para uso em instalações sanitárias. Coloque sobre áreas contendo água subterrânea ou próxima a rios, a capacidade é baseada na quantidade de água no raio.</WaterTower.description> 
+
+        <SewageOutlet.label>despejador de esgoto</SewageOutlet.label> 
+        <SewageOutlet.description>Despejador de esgoto que pode ser construída ao longo de um rio e ser canalizada para instalações sanitárias.</SewageOutlet.description> 
+
+        <SewageTreatment.label>tratamento de esgoto</SewageTreatment.label> 
+        <SewageTreatment.description>Lentamente limpa o esgoto ao longo do tempo. O esgoto é direcionado primeiramente às estações de tratamento, onde 90% são removidos, os 10% restantes são enviados para esgoto, se atingir a capacidade total, o esgoto é enviado diretamente para esgoto sem tratamento.</SewageTreatment.description>  
+
+        <Basin.label>pia (branco)</Basin.label> 
+        <Basin.description>Pia do banheiro limpo e simples. Instruções vendidas separadamente.</Basin.description> 
+
+        <BasinStuff.label>pia</BasinStuff.label> 
+        <BasinStuff.description>Pia do banheiro limpo e simples. Instruções vendidas separadamente.</BasinStuff.description>  
+
+        <Toilet.label>vaso sanitário (branco)</Toilet.label> 
+        <Toilet.description>Aparelho de saneamento utilizado para a eliminação de urina e fezes humanas.</Toilet.description> 
+
+        <ToiletStuff.label>vaso sanitário</ToiletStuff.label> 
+        <ToiletStuff.description>Aparelho de saneamento utilizado para a eliminação de urina e fezes humanas.</ToiletStuff.description> 
+
+        <ToiletAdv.label>vaso sanitário (branco)</ToiletAdv.label> 
+        <ToiletAdv.description>Aparelho de saneamento utilizado para a eliminação de urina e fezes humanas.</ToiletAdv.description> 
+
+        <ToiletAdvStuff.label>vaso sanitário</ToiletAdvStuff.label> 
+        <ToiletAdvStuff.description>Aparelho de saneamento utilizado para a eliminação de urina e fezes humanas.</ToiletAdvStuff.description> 
+
+        <Bathtub.label>banheira (branco)</Bathtub.label> 
+        <Bathtub.description>Banheira, um grande recipiente aberto para a água, em que uma pessoa pode lavar seu corpo.</Bathtub.description> 
+
+        <BathtubStuff.label>banheira</BathtubStuff.label> 
+        <BathtubStuff.description>Banheira, um grande recipiente aberto para a água, em que uma pessoa pode lavar seu corpo.</BathtubStuff.description>  
+
+        <Shower.label>chuveiro (branco)</Shower.label> 
+        <Shower.description>Possui um grande ducha de 110mm 4 pulverizado para relaxar os músculos doloridos.</Shower.description> 
+
+        <ShowerStuff.label>chuveiro</ShowerStuff.label> 
+        <ShowerStuff.description>Possui um grande ducha de 110mm 4 pulverizado para relaxar os músculos doloridos.</ShowerStuff.description> 
+
+        <ShowerAdv.label>chuveiro de elétrico (Branco)</ShowerAdv.label> 
+        <ShowerAdv.description>Possui um grande ducha de 110mm 4 pulverizado para relaxar os músculos doloridos.</ShowerAdv.description> 
+
+        <ShowerAdvStuff.label>chuveiro de elétrico</ShowerAdvStuff.label> 
+        <ShowerAdvStuff.description>Possui um grande ducha de 110mm 4 pulverizado para relaxar os músculos doloridos.</ShowerAdvStuff.description> 
+
+        <sewagePipeStuff.label>encanamento</sewagePipeStuff.label>
+        <sewagePipeStuff.description>Encanamento Encanamento para conexões.</sewagePipeStuff.description>
+        <sewagePipeStuff_Blueprint.label>encanamento (planta)</sewagePipeStuff_Blueprint.label>
+        <sewagePipeStuff_Frame.label>encanamento (edifício)</sewagePipeStuff_Frame.label>
+        <sewagePipeStuff_Frame.description>Canalizações para conectar coisas canalizadas.</sewagePipeStuff_Frame.description>
+
+        <plumbingValve.label>válvula de canalização</plumbingValve.label>
+        <plumbingValve.description>Abre ou fecha conexões entre canos.</plumbingValve.description>
+        <plumbingValve_Blueprint.label>válvula de encanamento (planta)</plumbingValve_Blueprint.label>
+        <plumbingValve_Blueprint_Install.label>válvula de encanamento (planta)</plumbingValve_Blueprint_Install.label>
+        <plumbingValve_Frame.label>válvula de encanamento (edifício)</plumbingValve_Frame.label>
+        <plumbingValve_Frame.description>Abre ou fecha conexões entre tubos.</plumbingValve_Frame.description>
+
+        <airPipe.label>tubo de ar-condicionado</airPipe.label>
+        <airPipe.description>Tubulação para conexão de aparelhos de ar condicionado.</airPipe.description>
+        <airPipe_Blueprint.label>tubo de ar-condicionado (planta)</airPipe_Blueprint.label>
+        <airPipe_Frame.label>tubo de ar-condicionado (prédio)</airPipe_Frame.label>
+        <airPipe_Frame.description>Tubulação para conexão de aparelhos de ar condicionado.</airPipe_Frame.description>
+
+        <sewagePipe.label>encanamento (Branco)</sewagePipe.label> 
+        <sewagePipe.description>Encanamento para conexões.</sewagePipe.description> 
+
+        <sewagePipeStuff.label>encanamento</sewagePipeStuff.label> 
+        <sewagePipeStuff.description>Encanamento Encanamento para conexões.</sewagePipeStuff.description> 
+
+        <ImmersionHeater.label>aquecedor</ImmersionHeater.label> 
+        <ImmersionHeater.description>Aquecedor elétrico de imersão, fornece calor para radiadores e tanques de armazenamento de água quente. Pode ser controlado por termostatos em salas ou lojas térmicas</ImmersionHeater.description> 
+
+        <FueledBoiler.label>fogão multicombustível</FueledBoiler.label> 
+        <FueledBoiler.description>Fogão multicombustível, fornece calor para radiadores e armazéns térmicos. Alimentado por madeira ou chemfuel.</FueledBoiler.description> 
+
+        <SolarHeater.label>painel solar</SolarHeater.label> 
+        <SolarHeater.description>Converte a luz do sol em calor para aquecer a água em uma caldeira ou loja térmica.</SolarHeater.description> 
+
+        <HotWaterTank.label>tanque de calor</HotWaterTank.label> 
+        <HotWaterTank.description>Tanque para armazenamento de água quente, requer a mesma capacidade de aquecimento de um radiador, conectar a uma caldeira ou fogão multi-combustível para aquecer a água, é construído com um termostato quando usado com uma caldeira elétrica.</HotWaterTank.description> 
+
+        <Thermostat.label>termostato</Thermostat.label> 
+        <Thermostat.description>Controla todas as caldeiras conectadas, alternando-as entre os modos de energia completa e inativa, se vários termostatos são usados, então apenas 1 precisa estar abaixo da temperatura para ativar as caldeiras. Caldeiras e depósitos térmicos também são equipados com termostatos para controlar a temperatura da água.</Thermostat.description> 
+
+        <Radiator.label>radiador</Radiator.label> 
+        <Radiator.description>Tão poderoso quanto um aquecedor elétrico para salas de aquecimento.</Radiator.description> 
+
+        <RadiatorStuffed.label>radiador</RadiatorStuffed.label> 
+        <RadiatorStuffed.description>Tão poderoso quanto um aquecedor elétrico para salas de aquecimento.</RadiatorStuffed.description> 
+
+        <ToiletStallDoor.label>porta do box</ToiletStallDoor.label>
+        <ToiletStallDoor.description>Porta de box que apenas bloqueia a linha de visão das pessoas que usam louças sanitárias. Não cria novas salas nem evita a perda de calor.</ToiletStallDoor.description>
+        <ToiletStallDoor_Blueprint.label>stall door (blueprint)</ToiletStallDoor_Blueprint.label>
+        <ToiletStallDoor_Frame.label>stall door (building)</ToiletStallDoor_Frame.label>
+        <ToiletStallDoor_Frame.description>Thin door which only blocks line of sight to people using bathroom fixtures. Does not create new rooms or prevent heat loss.</ToiletStallDoor_Frame.description>
+
+        <PitLatrine.label>latrina</PitLatrine.label>
+        <PitLatrine.description>Uma latrina com fossa, é um tipo de banheiro que coleta fezes humanas em um buraco no chão. Não precisa de água.</PitLatrine.description>
+        <PitLatrine_Blueprint.label>latrine (blueprint)</PitLatrine_Blueprint.label>
+        <PitLatrine_Blueprint_Install.label>latrine (blueprint)</PitLatrine_Blueprint_Install.label>
+        <PitLatrine_Frame.label>latrine (building)</PitLatrine_Frame.label>
+        <PitLatrine_Frame.description>A pit latrine that collects faeces in a hole in the ground. Must be emptied manually, or can be plumbed.\n14L per use</PitLatrine_Frame.description>
+
+        <PrimitiveWell.label>poço</PrimitiveWell.label>
+        <PrimitiveWell.description>Acessa água subterrânea. A água deve ser transportada para um reservatório de água antes de poder ser usada para lavar ou beber.</PrimitiveWell.description>
+        <PrimitiveWell_Blueprint.label>primitive well (blueprint)</PrimitiveWell_Blueprint.label>
+        <PrimitiveWell_Frame.label>primitive well (building)</PrimitiveWell_Frame.label>
+        <PrimitiveWell_Frame.description>Accesses ground water. Water must be hauled to a water tub before it can be used for washing or drinking.</PrimitiveWell_Frame.description>
+
+        <WashBucket.label>balde de água</WashBucket.label>
+        <WashBucket.description>Balde de água usada para lavar.</WashBucket.description>
+        <WashBucket_Blueprint.label>water tub (blueprint)</WashBucket_Blueprint.label>
+        <WashBucket_Blueprint_Install.label>water tub (blueprint)</WashBucket_Blueprint_Install.label>
+        <WashBucket_Frame.label>water tub (building)</WashBucket_Frame.label>
+        <WashBucket_Frame.description>Tub of water used for personal hygiene. Must be regularly refilled with fresh water, also fills with rain water. Can also be used for drinking if thirst is enabled.</WashBucket_Frame.description>
+
+        <WaterTrough.label>cocho de água</WaterTrough.label>
+        <WaterTrough.description>Por meio de bebedouro usado pelos animais, uma caixa de serviço com válvula de esfera enche automaticamente a água quando o nível está baixo, também reabastece na chuva.</WaterTrough.description>
+        <WaterTrough_Blueprint.label>Water Trough (blueprint)</WaterTrough_Blueprint.label>
+        <WaterTrough_Blueprint_Install.label>Water Trough (blueprint)</WaterTrough_Blueprint_Install.label>
+        <WaterTrough_Frame.label>Water Trough (building)</WaterTrough_Frame.label>
+        <WaterTrough_Frame.description>Trough of water used by animals, a service box with a ballcock valve automatically refills the water when the level is low, also refills in rain.</WaterTrough_Frame.description>
+
+        <LitterBox.label>caixa de areia</LitterBox.label>
+        <LitterBox.description>Uma caixa interna de coleta de fezes e urina para pequenos animais.</LitterBox.description>
+        <LitterBox_Blueprint.label>litter box (blueprint)</LitterBox_Blueprint.label>
+        <LitterBox_Blueprint_Install.label>litter box (blueprint)</LitterBox_Blueprint_Install.label>
+        <LitterBox_Frame.label>litter box (building)</LitterBox_Frame.label>
+        <LitterBox_Frame.description>An indoor faeces and urine collection box for small animals.</LitterBox_Frame.description>
+
+        <BurnPit.label>buraco de queimar</BurnPit.label>
+        <BurnPit.description>Elimina o lodo fecal, queimando-o como combustível. Também pode ser usado para descartar cadáveres ou outros detritos. Os colonos podem ficar doentes se passarem muito tempo perto da queima de resíduos.</BurnPit.description>
+        <BurnPit_Blueprint.label>burn pit (blueprint)</BurnPit_Blueprint.label>
+        <BurnPit_Frame.label>burn pit (building)</BurnPit_Frame.label>
+        <BurnPit_Frame.description>Eliminates fecal sludge by burning it as fuel. Can also be used for disposing of corpses or other detritus. Colonists may become sick if they spend too long near burning waste.</BurnPit_Frame.description>
+
+        <Fountain.label>bebedouro</Fountain.label>
+        <Fountain.description>Um bebedouro de água usada para beber e lavar.</Fountain.description>
+        <Fountain_Blueprint.label>fountain (blueprint)</Fountain_Blueprint.label>
+        <Fountain_Blueprint_Install.label>fountain (blueprint)</Fountain_Blueprint_Install.label>
+        <Fountain_Frame.label>fountain (building)</Fountain_Frame.label>
+        <Fountain_Frame.description>A water fountain used for drinking and washing.</Fountain_Frame.description>
+
+        <BasinStuff.label>pia</BasinStuff.label>
+        <BasinStuff.description>Pia do banheiro limpo e simples. Instruções vendidas separadamente.</BasinStuff.description>
+        <BasinStuff_Blueprint.label>basin (blueprint)</BasinStuff_Blueprint.label>
+        <BasinStuff_Blueprint_Install.label>basin (blueprint)</BasinStuff_Blueprint_Install.label>
+        <BasinStuff_Frame.label>basin (building)</BasinStuff_Frame.label>
+        <BasinStuff_Frame.description>Clean and simple bathroom basin for keeping your hands clean after using the toilet.</BasinStuff_Frame.description>
+
+        <KitchenSink.label>pia da cozinha</KitchenSink.label>
+        <KitchenSink.description>Tudo menos uma pia de cozinha. Aumenta a limpeza do quarto.</KitchenSink.description>
+        <KitchenSink_Blueprint.label>kitchen sink (blueprint)</KitchenSink_Blueprint.label>
+        <KitchenSink_Blueprint_Install.label>kitchen sink (blueprint)</KitchenSink_Blueprint_Install.label>
+        <KitchenSink_Frame.label>kitchen sink (building)</KitchenSink_Frame.label>
+        <KitchenSink_Frame.description>Everything but a kitchen sink. Increases room cleanliness.</KitchenSink_Frame.description>
+
+        <ToiletStuff.label>vaso sanitário</ToiletStuff.label>
+        <ToiletStuff.description>Aparelho de saneamento utilizado para a eliminação de urina e fezes humanas.</ToiletStuff.description>
+        <ToiletStuff_Blueprint.label>toilet (blueprint)</ToiletStuff_Blueprint.label>
+        <ToiletStuff_Blueprint_Install.label>toilet (blueprint)</ToiletStuff_Blueprint_Install.label>
+        <ToiletStuff_Frame.label>toilet (building)</ToiletStuff_Frame.label>
+        <ToiletStuff_Frame.description>Sanitation fixture used for the disposal of human urine and faeces.\n14L per use</ToiletStuff_Frame.description>
+
+        <ToiletAdv.description>aparelho de saneamento utilizado para a eliminação de urina e fezes humanas.</ToiletAdv.description>
+        <ToiletAdv_Blueprint.label>ToiletAdv (blueprint)</ToiletAdv_Blueprint.label>
+        <ToiletAdv_Blueprint_Install.label>ToiletAdv (blueprint)</ToiletAdv_Blueprint_Install.label>
+        <ToiletAdv_Frame.label>ToiletAdv (building)</ToiletAdv_Frame.label>
+        <ToiletAdv_Frame.description>Twice as water efficient as a standard toilet. Provides the optimum multi-functional experience with automatic cleansing and deodorization.\n7L per use</ToiletAdv_Frame.description>
+
+        <ToiletAdvStuff.label>vaso sanitário</ToiletAdvStuff.label>
+        <ToiletAdvStuff.description>Aparelho de saneamento utilizado para a eliminação de urina e fezes humanas.</ToiletAdvStuff.description>
+        <ToiletAdvStuff_Blueprint.label>smart toilet (blueprint)</ToiletAdvStuff_Blueprint.label>
+        <ToiletAdvStuff_Blueprint_Install.label>smart toilet (blueprint)</ToiletAdvStuff_Blueprint_Install.label>
+        <ToiletAdvStuff_Frame.label>smart toilet (building)</ToiletAdvStuff_Frame.label>
+        <ToiletAdvStuff_Frame.description>Twice as water efficient as a standard toilet. Provides the optimum multi-functional experience with automatic cleansing and deodorization.\n7L per use</ToiletAdvStuff_Frame.description>
+
+        <BathtubStuff.label>banheira</BathtubStuff.label>
+        <BathtubStuff.description>Banheira, um grande recipiente aberto para a água, em que uma pessoa pode lavar seu corpo.</BathtubStuff.description>
+        <BathtubStuff_Blueprint.label>bathtub (blueprint)</BathtubStuff_Blueprint.label>
+        <BathtubStuff_Blueprint_Install.label>bathtub (blueprint)</BathtubStuff_Blueprint_Install.label>
+        <BathtubStuff_Frame.label>bathtub (building)</BathtubStuff_Frame.label>
+        <BathtubStuff_Frame.description>Slow to use, but very comfortable. Can be heated by placing an adjacent campfire or log boiler, or via plumbed hot water tanks. Does not require a sewage outlet.\n190L per wash</BathtubStuff_Frame.description>
+
+        <ShowerStuff.label>chuveiro</ShowerStuff.label>
+        <ShowerStuff.description>Possui um grande ducha de 110mm 4 pulverizado para relaxar os músculos doloridos.</ShowerStuff.description>
+        <ShowerStuff_Blueprint.label>shower (blueprint)</ShowerStuff_Blueprint.label>
+        <ShowerStuff_Blueprint_Install.label>shower (blueprint)</ShowerStuff_Blueprint_Install.label>
+        <ShowerStuff_Frame.label>shower (building)</ShowerStuff_Frame.label>
+        <ShowerStuff_Frame.description>Simple shower. Requires water from water towers. Can be heated via plumbed hot water tanks. Does not require a sewage outlet.\n65L per wash</ShowerStuff_Frame.description>
+
+        <ShowerSimple.label>chuveiro simples</ShowerSimple.label>
+        <ShowerSimple.description>Chuveiro simples. Requer água de torres de água. Pode ser aquecido através de tanques de água quente canalizados. Não requer saída de esgoto. \n65L por lavagem</ShowerSimple.description>
+        <ShowerSimple_Blueprint.label>simple shower (blueprint)</ShowerSimple_Blueprint.label>
+        <ShowerSimple_Blueprint_Install.label>simple shower (blueprint)</ShowerSimple_Blueprint_Install.label>
+        <ShowerSimple_Frame.label>simple shower (building)</ShowerSimple_Frame.label>
+        <ShowerSimple_Frame.description>Simple shower. Requires water from water towers. Can be heated via plumbed hot water tanks. Does not require a sewage outlet.\n65L per wash</ShowerSimple_Frame.description>
+
+        <ShowerAdvStuff.label>chuveiro de elétrico</ShowerAdvStuff.label>
+        <ShowerAdvStuff.description>Possui um grande ducha de 110mm 4 pulverizado para relaxar os músculos doloridos.</ShowerAdvStuff.description>
+        <ShowerAdvStuff_Blueprint.label>power shower (blueprint)</ShowerAdvStuff_Blueprint.label>
+        <ShowerAdvStuff_Blueprint_Install.label>power shower (blueprint)</ShowerAdvStuff_Blueprint_Install.label>
+        <ShowerAdvStuff_Frame.label>power shower (building)</ShowerAdvStuff_Frame.label>
+        <ShowerAdvStuff_Frame.description>Heats water on demand and does not need a hot water tank, cleans twice as fast\n90L per wash</ShowerAdvStuff_Frame.description>
+
+        <IrrigationSprinkler.label>irrigador</IrrigationSprinkler.label>
+        <IrrigationSprinkler.description>Irriga a área circundante toda manhã para melhorar a fertilidade do solo durante o dia. Requer grandes quantidades de água das torres de água durante a pulverização</IrrigationSprinkler.description>
+
+        <plumbingValve.label>válvula de canalização</plumbingValve.label>
+        <plumbingValve.description>Abre ou fecha conexões entre canos.</plumbingValve.description>
+
+  <!-- <ThingDef ParentName="BasedHygieneMom">
+	  <description>Fonte de água usada para alegria e beleza, deve ser preenchida com água.</description>
+	  <thingClass>DubsBadHygiene.Building_WaterFeature</thingClass>
+	  <defName>DBHWaterFeature</defName>
+	  <label>Water feature</label>
+	  <stuffCategories>
+		  <li>Stony</li>
+	  </stuffCategories>
+	  <costStuffCount>450</costStuffCount>
+	  <altitudeLayer>FloorEmplacement</altitudeLayer>
+	  <uiIconPath>DBH/UI/water_feature</uiIconPath>
+	  <graphicData>
+		  <drawSize>(5,5)</drawSize>
+		  <texPath>DBH/Things/Building/water_feature</texPath>
+		  <graphicClass>Graphic_Single</graphicClass>
+		  <shaderType>CutoutComplex</shaderType>
+	  </graphicData>
+	  <statBases>
+		  <MaxHitPoints>1500</MaxHitPoints>
+		  <WorkToBuild>10000</WorkToBuild>
+		  <Flammability>0</Flammability>
+		  <Beauty>200</Beauty>
+		  <Comfort>0.6</Comfort>
+		  <JoyGainFactor>1</JoyGainFactor>
+		  <Mass>100</Mass>
+	  </statBases>
+	  <building>
+		  <ai_chillDestination>true</ai_chillDestination>
+	  </building>
+	  <comps>
+		  <li Class="DubsBadHygiene.CompProperties_Pipe">
+			  <mode>Sewage</mode>
+		  </li>
+		  <li>
+			  <compClass>CompColorable</compClass>
+		  </li>
+	  </comps>
+	  <fillPercent>0.15</fillPercent>
+	  <size>(3, 3)</size>
+	  <passability>PassThroughOnly</passability>
+	  <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+	  <pathCost>0</pathCost>
+	  <rotatable>true</rotatable>
+	  <researchPrerequisites>
+		  <li MayRequire="dbhlitemode">SwimmingPools</li>
+	  </researchPrerequisites>
+	  <tickerType>Normal</tickerType>
+	  <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+  </ThingDef> -->
+
+        <DBHSwimmingPool.label>piscina</DBHSwimmingPool.label>
+        <DBHSwimmingPool.description>Piscina usada para hidroterapia, relaxamento ou lazer. Deve ser enchido com água das torres de água primeiro.</DBHSwimmingPool.description>
+        <DBHSwimmingPool_Blueprint.label>swimming pool (blueprint)</DBHSwimmingPool_Blueprint.label>
+        <DBHSwimmingPool_Frame.label>swimming pool (building)</DBHSwimmingPool_Frame.label>
+        <DBHSwimmingPool_Frame.description>Swimming pool used for hydrotherapy, relaxation, or pleasure. Must be filled with water from water towers first.</DBHSwimmingPool_Frame.description>
+
+        <HotTub.label>jacuzzi</HotTub.label>
+        <HotTub.description>Banheira de hidromassagem usada para hidroterapia, relaxamento ou prazer. Preenchido com água de torres de água no primeiro uso. Autoaquecido e não necessita de esgoto sanitário.</HotTub.description>
+        <HotTub_Blueprint.label>hot tub (blueprint)</HotTub_Blueprint.label>
+        <HotTub_Blueprint_Install.label>hot tub (blueprint)</HotTub_Blueprint_Install.label>
+        <HotTub_Frame.label>hot tub (building)</HotTub_Frame.label>
+        <HotTub_Frame.description>Hot tub used for hydrotherapy, relaxation, or pleasure. Filled with water from water towers on first use. Self-heated and does not require a sewage outlet.</HotTub_Frame.description>
+
+        <WashingMachine.label>máquina de lavar</WashingMachine.label>
+        <WashingMachine.description>Lava roupas tão bem que nem dá para perceber que alguém morreu usando isso!</WashingMachine.description>
+        <WashingMachine_Blueprint.label>washing machine (blueprint)</WashingMachine_Blueprint.label>
+        <WashingMachine_Blueprint_Install.label>washing machine (blueprint)</WashingMachine_Blueprint_Install.label>
+        <WashingMachine_Frame.label>washing machine (building)</WashingMachine_Frame.label>
+        <WashingMachine_Frame.description>Washes clothes so well that you can't even tell someone died wearing it!</WashingMachine_Frame.description>
+
+        <WaterWellInlet.label>poço de água</WaterWellInlet.label>
+        <WaterWellInlet.description>Acessa à água subterrânea que pode ser bombeada por bombas de água. A presença de esgoto ou outra poluição reduzirá a qualidade da água e pode causar contaminação.</WaterWellInlet.description>
+        <WaterWellInlet_Blueprint.label>water well (blueprint)</WaterWellInlet_Blueprint.label>
+        <WaterWellInlet_Frame.label>water well (building)</WaterWellInlet_Frame.label>
+        <WaterWellInlet_Frame.description>Accesses ground water which can be pumped by water pumps. The presence of sewage or other pollution will reduce water quality and can cause contamination.</WaterWellInlet_Frame.description>
+
+        <DeepWaterWellInlet.label>poço de água profunda</DeepWaterWellInlet.label>
+        <DeepWaterWellInlet.description>Acessa a uma grande área de água subterrânea que pode ser bombeada por bombas de água. Poços profundos não são afetados pela poluição.</DeepWaterWellInlet.description>
+        <DeepWaterWellInlet_Blueprint.label>deep water well (blueprint)</DeepWaterWellInlet_Blueprint.label>
+        <DeepWaterWellInlet_Frame.label>deep water well (building)</DeepWaterWellInlet_Frame.label>
+        <DeepWaterWellInlet_Frame.description>Accesses a large area of ground water which can be pumped by water pumps. Deep wells are unaffected by pollution.</DeepWaterWellInlet_Frame.description>
+
+        <WaterButt.label>barril de água</WaterButt.label>
+        <WaterButt.description>Armazena água para uso em instalações hidráulicas. Se a água contida ficar contaminada, o tanque deve ser drenado.</WaterButt.description>
+        <WaterButt_Blueprint.label>water butt (blueprint)</WaterButt_Blueprint.label>
+        <WaterButt_Blueprint_Install.label>water butt (blueprint)</WaterButt_Blueprint_Install.label>
+        <WaterButt_Frame.label>water butt (building)</WaterButt_Frame.label>
+        <WaterButt_Frame.description>Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.</WaterButt_Frame.description>
+
+        <WaterTowerS.label>torre de água</WaterTowerS.label>
+        <WaterTowerS.description>Armazena água para uso em instalações hidráulicas. Se a água contida ficar contaminada, o tanque deve ser drenado.</WaterTowerS.description>
+        <WaterTowerS_Blueprint.label>water tower (blueprint)</WaterTowerS_Blueprint.label>
+        <WaterTowerS_Frame.label>water tower (building)</WaterTowerS_Frame.label>
+        <WaterTowerS_Frame.description>Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.</WaterTowerS_Frame.description>
+
+        <WaterTowerL.label>enorme torre de água</WaterTowerL.label>
+        <WaterTowerL.description>Armazena água para uso em instalações hidráulicas. Se a água contida ficar contaminada, o tanque deve ser drenado.</WaterTowerL.description>
+        <WaterTowerL_Blueprint.label>huge water tower (blueprint)</WaterTowerL_Blueprint.label>
+        <WaterTowerL_Frame.label>huge water tower (building)</WaterTowerL_Frame.label>
+        <WaterTowerL_Frame.description>Stores water for use by plumbed fixtures. If the contained water becomes contaminated, the tank must be drained.</WaterTowerL_Frame.description>
+
+        <WindPump.label>bomba de vento</WindPump.label>
+        <WindPump.description>Bombeia água de poços para torres de água. Capacidade de bombeamento: 3000 L / dia.</WindPump.description>
+        <WindPump_Blueprint.label>wind pump (blueprint)</WindPump_Blueprint.label>
+        <WindPump_Frame.label>wind pump (building)</WindPump_Frame.label>
+        <WindPump_Frame.description>Pumps water from wells to water towers. Pumping capacity: 3000 L/day.</WindPump_Frame.description>
+
+        <ElectricPump.label>bomba elétrica</ElectricPump.label>
+        <ElectricPump.description>Bombeia água de poços para torres de água. Capacidade de bombeamento: 1500 L / dia.</ElectricPump.description>
+        <ElectricPump_Blueprint.label>electric pump (blueprint)</ElectricPump_Blueprint.label>
+        <ElectricPump_Blueprint_Install.label>electric pump (blueprint)</ElectricPump_Blueprint_Install.label>
+        <ElectricPump_Frame.label>electric pump (building)</ElectricPump_Frame.label>
+        <ElectricPump_Frame.description>Pumps water from wells to water towers. Pumping capacity: 1500 L/day.</ElectricPump_Frame.description>
+
+        <PumpingStation.label>estação de bombeamento</PumpingStation.label>
+        <PumpingStation.description>Bombeia água de poços para torres de água. Capacidade de bombeamento: 10000 L / dia.</PumpingStation.description>
+        <PumpingStation_Blueprint.label>pumping station (blueprint)</PumpingStation_Blueprint.label>
+        <PumpingStation_Frame.label>pumping station (building)</PumpingStation_Frame.label>
+        <PumpingStation_Frame.description>Pumps water from wells to water towers. Pumping capacity: 10000 L/day.</PumpingStation_Frame.description>
+
+        <SewageOutlet.label>despejador de esgoto</SewageOutlet.label>
+        <SewageOutlet.description>Despejador de esgoto que pode ser construída ao longo de um rio e ser canalizada para instalações sanitárias.</SewageOutlet.description>
+        <SewageOutlet_Blueprint.label>sewage outlet (blueprint)</SewageOutlet_Blueprint.label>
+        <SewageOutlet_Frame.label>sewage outlet (building)</SewageOutlet_Frame.label>
+        <SewageOutlet_Frame.description>Can be placed anywhere. Sewage will pool and spread on land or disperse in water. Sewage cleans up over time; the presence of trees, water, or rain will speed this up.</SewageOutlet_Frame.description>
+
+        <SewageSepticTank.label>tanque séptico</SewageSepticTank.label>
+        <SewageSepticTank.description>Limpa lentamente o esgoto ao longo do tempo. O esgoto é direcionado primeiro para as fossas sépticas. Se atingir a capacidade máxima, o excesso de esgoto é encaminhado para esgoto.</SewageSepticTank.description>
+        <SewageSepticTank_Blueprint.label>septic tank (blueprint)</SewageSepticTank_Blueprint.label>
+        <SewageSepticTank_Frame.label>septic tank (building)</SewageSepticTank_Frame.label>
+        <SewageSepticTank_Frame.description>Slowly cleans sewage over time. Sewage is directed to septic tanks first. If it reaches full capacity, excess sewage is sent to sewage outlets.</SewageSepticTank_Frame.description>
+
+        <SewageTreatment.label>tratamento de esgoto</SewageTreatment.label>
+        <SewageTreatment.description>Lentamente limpa o esgoto ao longo do tempo. O esgoto é direcionado primeiramente às estações de tratamento, onde 90% são removidos, os 10% restantes são enviados para esgoto, se atingir a capacidade total, o esgoto é enviado diretamente para esgoto sem tratamento.</SewageTreatment.description>
+        <SewageTreatment_Blueprint.label>sewage treatment (blueprint)</SewageTreatment_Blueprint.label>
+        <SewageTreatment_Frame.label>sewage treatment (building)</SewageTreatment_Frame.label>
+        <SewageTreatment_Frame.description>Slowly cleans sewage over time. If it reaches full capacity then excess sewage is sent directly to sewage outlets without treatment.</SewageTreatment_Frame.description>
+
+        <WaterTreatment.label>tratamento de água</WaterTreatment.label>
+        <WaterTreatment.description>Limpa 99,99% dos germes! Filtra a água existente nas torres de armazenamento e qualquer água utilizada pelas instalações, eliminando o risco de doenças.</WaterTreatment.description>
+        <WaterTreatment_Blueprint.label>water treatment (blueprint)</WaterTreatment_Blueprint.label>
+        <WaterTreatment_Frame.label>water treatment (building)</WaterTreatment_Frame.label>
+        <WaterTreatment_Frame.description>Cleans 99.99% of germs! Filters existing water in storage towers, and any water used by fixtures, eliminating the risk of disease.</WaterTreatment_Frame.description>
+
+        <Thermostat.label>termostato</Thermostat.label>
+        <Thermostat.description>Controla todas os aquecedores conectados, alternando-as entre os modos de energia completa e inativa, se vários termostatos são usados, então apenas 1 precisa estar abaixo da temperatura para ativar os aquecedores. aquecedor e tanque de calor também são equipados com termostatos para controlar a temperatura da água.</Thermostat.description>
+        <Thermostat_Blueprint.label>thermostat (blueprint)</Thermostat_Blueprint.label>
+        <Thermostat_Blueprint_Install.label>thermostat (blueprint)</Thermostat_Blueprint_Install.label>
+        <Thermostat_Frame.label>thermostat (building)</Thermostat_Frame.label>
+        <Thermostat_Frame.description>Used to control electric and gas boilers. More than one can be placed. Connects via standard plumbing.</Thermostat_Frame.description>
+
+        <LogBoiler.label>aquecedor de madeira</LogBoiler.label>
+        <LogBoiler.description>Produz 2.000 unidades de aquecimento para o aquecedor encanados e tanques de água quente. Aquece o quarto e os banheiros adjacentes. Requer toras de madeira como combustível.</LogBoiler.description>
+        <LogBoiler_Blueprint.label>log boiler (blueprint)</LogBoiler_Blueprint.label>
+        <LogBoiler_Blueprint_Install.label>log boiler (blueprint)</LogBoiler_Blueprint_Install.label>
+        <LogBoiler_Frame.label>log boiler (building)</LogBoiler_Frame.label>
+        <LogBoiler_Frame.description>Produces 2000 heating units for piped radiators and hot water tanks. Heats the room and adjacent baths. Requires wood logs for fuel.</LogBoiler_Frame.description>
+
+        <GasBoiler.label>aquecedor de água à Gas</GasBoiler.label>
+        <GasBoiler.description>Produz 2.000 unidades de aquecimento para radiadores e tanques de água quente. Requer combustível químico para combustível. Pode ser controlado por termostatos.</GasBoiler.description>
+        <GasBoiler_Blueprint.label>gas boiler (blueprint)</GasBoiler_Blueprint.label>
+        <GasBoiler_Blueprint_Install.label>gas boiler (blueprint)</GasBoiler_Blueprint_Install.label>
+        <GasBoiler_Frame.label>gas boiler (building)</GasBoiler_Frame.label>
+        <GasBoiler_Frame.description>Produces 2000 heating units for radiators and hot water tanks. Requires chemfuel for fuel. Can be controlled by thermostats.</GasBoiler_Frame.description>
+
+        <ElectricBoiler.label>aquecedor eletrico</ElectricBoiler.label>
+        <ElectricBoiler.description>Produz uma quantidade variável de unidades de aquecimento para radiadores e tanques de água quente. Configuração de potência controlada manualmente. Pode ser controlado por termostatos.</ElectricBoiler.description>
+        <ElectricBoiler_Blueprint.label>electric boiler (blueprint)</ElectricBoiler_Blueprint.label>
+        <ElectricBoiler_Blueprint_Install.label>electric boiler (blueprint)</ElectricBoiler_Blueprint_Install.label>
+        <ElectricBoiler_Frame.label>electric boiler (building)</ElectricBoiler_Frame.label>
+        <ElectricBoiler_Frame.description>Produces a variable amount of heating units for radiators and hot water tanks. Manually controlled power setting. Can be controlled by thermostats.</ElectricBoiler_Frame.description>
+
+        <SolarHeater.label>painel solar</SolarHeater.label>
+        <SolarHeater.description>Converte a luz do sol em calor para aquecer a água em uma aquecedor ou tanque de calor.</SolarHeater.description>
+        <SolarHeater_Blueprint.label>solar heater (blueprint)</SolarHeater_Blueprint.label>
+        <SolarHeater_Frame.label>solar heater (building)</SolarHeater_Frame.label>
+        <SolarHeater_Frame.description>Uses sunlight to heat hot water tanks and radiators. 0-2000 units of heating power depending on light level and ambient temperature.</SolarHeater_Frame.description>
+
+        <HotWaterTank.label>tanque de calor</HotWaterTank.label>
+        <HotWaterTank.description>Tanque para armazenamento de água quente, requer a mesma capacidade de aquecimento de um radiador, conectar a uma caldeira ou fogão multi-combustível para aquecer a água, é construído com um termostato quando usado com uma caldeira elétrica.</HotWaterTank.description>
+        <HotWaterTank_Blueprint.label>hot water tank (blueprint)</HotWaterTank_Blueprint.label>
+        <HotWaterTank_Blueprint_Install.label>hot water tank (blueprint)</HotWaterTank_Blueprint_Install.label>
+        <HotWaterTank_Frame.label>hot water tank (building)</HotWaterTank_Frame.label>
+        <HotWaterTank_Frame.description>Stores hot running water for showers and baths. Connect to any boiler to heat.</HotWaterTank_Frame.description>
+
+        <RadiatorStuffed.label>radiador</RadiatorStuffed.label>
+        <RadiatorStuffed.description>Tão poderoso quanto um aquecedor elétrico para salas de aquecimento.</RadiatorStuffed.description>
+        <RadiatorStuffed_Blueprint.label>radiator (blueprint)</RadiatorStuffed_Blueprint.label>
+        <RadiatorStuffed_Blueprint_Install.label>radiator (blueprint)</RadiatorStuffed_Blueprint_Install.label>
+        <RadiatorStuffed_Frame.label>radiator (building)</RadiatorStuffed_Frame.label>
+        <RadiatorStuffed_Frame.description>Heats rooms using hot water. Requires 100 heating units.</RadiatorStuffed_Frame.description>
+
+        <RadiatorLarge.label>grande radiador</RadiatorLarge.label>
+        <RadiatorLarge.description>Três vezes a saída de um radiador padrão. Útil para salas maiores. Requer 300 unidades de aquecimento.</RadiatorLarge.description>
+        <RadiatorLarge_Blueprint.label>large radiator (blueprint)</RadiatorLarge_Blueprint.label>
+        <RadiatorLarge_Blueprint_Install.label>large radiator (blueprint)</RadiatorLarge_Blueprint_Install.label>
+        <RadiatorLarge_Frame.label>large radiator (building)</RadiatorLarge_Frame.label>
+        <RadiatorLarge_Frame.description>Three times the output of a standard radiator. Useful for larger rooms. Requires 300 heating units.</RadiatorLarge_Frame.description>
+
+        <CeilingFan.label>ventilador de teto 2x2</CeilingFan.label>
+        <CeilingFan.description>Resfria uma sala pela circulação de ar. Inclui uma lâmpada embutida.</CeilingFan.description>
+        <CeilingFan_Blueprint.label>ceiling fan 2x2 (blueprint)</CeilingFan_Blueprint.label>
+        <CeilingFan_Blueprint_Install.label>ceiling fan 2x2 (blueprint)</CeilingFan_Blueprint_Install.label>
+        <CeilingFan_Frame.label>ceiling fan 2x2 (building)</CeilingFan_Frame.label>
+        <CeilingFan_Frame.description>Cools a room by circulating air. Includes a built-in lamp.</CeilingFan_Frame.description>
+
+        <CeilingFanS.label>ventilador de teto 1x1</CeilingFanS.label>
+        <CeilingFanS.description>Resfria uma sala pela circulação de ar. Inclui uma lâmpada embutida.</CeilingFanS.description>
+        <CeilingFanS_Blueprint.label>ceiling fan 1x1 (blueprint)</CeilingFanS_Blueprint.label>
+        <CeilingFanS_Blueprint_Install.label>ceiling fan 1x1 (blueprint)</CeilingFanS_Blueprint_Install.label>
+        <CeilingFanS_Frame.label>ceiling fan 1x1 (building)</CeilingFanS_Frame.label>
+        <CeilingFanS_Frame.description>Cools a room by circulating air. Includes a built-in lamp.</CeilingFanS_Frame.description>
+
+        <AirConOutdoorUnit.label>unidade externa de ar-condicionado</AirConOutdoorUnit.label>
+        <AirConOutdoorUnit.description>Unidade de ar condicionado multi-split. Coloque ao ar livre e canalize para unidades internas ou unidades congeladoras. Seleção do modo de energia com capacidade de 100-1000 unidades de resfriamento.</AirConOutdoorUnit.description>
+        <AirConOutdoorUnit_Blueprint.label>air-con outdoor unit (blueprint)</AirConOutdoorUnit_Blueprint.label>
+        <AirConOutdoorUnit_Blueprint_Install.label>air-con outdoor unit (blueprint)</AirConOutdoorUnit_Blueprint_Install.label>
+        <AirConOutdoorUnit_Frame.label>air-con outdoor unit (building)</AirConOutdoorUnit_Frame.label>
+        <AirConOutdoorUnit_Frame.description>Multi-split air conditioner unit. Place outdoors and pipe to indoor units or freezer units. Power mode selection with 100-1000 cooling units capacity.</AirConOutdoorUnit_Frame.description>
+
+        <AirconIndoorUnit.label>unidade interna de ar-condicionado</AirconIndoorUnit.label>
+        <AirconIndoorUnit.description>Unidade de ar-condicionado interno para quartos. Conecte a unidades de ar-condicionado externas. Requer 100 unidades de resfriamento.</AirconIndoorUnit.description>
+        <AirconIndoorUnit_Blueprint.label>air-con indoor unit (blueprint)</AirconIndoorUnit_Blueprint.label>
+        <AirconIndoorUnit_Blueprint_Install.label>air-con indoor unit (blueprint)</AirconIndoorUnit_Blueprint_Install.label>
+        <AirconIndoorUnit_Frame.label>air-con indoor unit (building)</AirconIndoorUnit_Frame.label>
+        <AirconIndoorUnit_Frame.description>Indoor air-con unit for rooms. Connect to outdoor air-con units. Requires 100 cooling units.</AirconIndoorUnit_Frame.description>
+
+        <FreezerUnit.label>unidade de freezer walk-in</FreezerUnit.label>
+        <FreezerUnit.description>Unidade de freezer para a criação de um freezer walk-in. Conecte a unidades de ar-condicionado externas. Requer 300 unidades de resfriamento.</FreezerUnit.description>
+        <FreezerUnit_Blueprint.label>walk-in freezer unit (blueprint)</FreezerUnit_Blueprint.label>
+        <FreezerUnit_Blueprint_Install.label>walk-in freezer unit (blueprint)</FreezerUnit_Blueprint_Install.label>
+        <FreezerUnit_Frame.label>walk-in freezer unit (building)</FreezerUnit_Frame.label>
+        <FreezerUnit_Frame.description>Freezer unit for creating a walk-in freezer. Connect to outdoor air-con units. Requires 300 cooling units.</FreezerUnit_Frame.description>
+
+        <IrrigationSprinkler.label>irrigador</IrrigationSprinkler.label>
+        <IrrigationSprinkler.description>Irriga a área circundante toda manhã para melhorar a fertilidade do solo durante o dia. Requer grandes quantidades de água das torres de água durante a pulverização</IrrigationSprinkler.description>
+        <IrrigationSprinkler_Blueprint.label>irrigation sprinkler (blueprint)</IrrigationSprinkler_Blueprint.label>
+        <IrrigationSprinkler_Blueprint_Install.label>irrigation sprinkler (blueprint)</IrrigationSprinkler_Blueprint_Install.label>
+        <IrrigationSprinkler_Frame.label>irrigation sprinkler (building)</IrrigationSprinkler_Frame.label>
+        <IrrigationSprinkler_Frame.description>Waters the surrounding area once every morning to improve the fertility of the soil through the day. Uses 1000L each morning at max radius.</IrrigationSprinkler_Frame.description>
+
+        <FireSprinkler.label>extintor de incêndio</FireSprinkler.label>
+        <FireSprinkler.description>Disparado por fogo ou alta temperatura. Apaga as chamas com um jato de água.</FireSprinkler.description>
+        <FireSprinkler.comps.2.useLabel>Trigger fire sprinkler</FireSprinkler.comps.2.useLabel>
+        <FireSprinkler_Blueprint.label>fire sprinkler (blueprint)</FireSprinkler_Blueprint.label>
+        <FireSprinkler_Blueprint_Install.label>fire sprinkler (blueprint)</FireSprinkler_Blueprint_Install.label>
+        <FireSprinkler_Frame.label>fire sprinkler (building)</FireSprinkler_Frame.label>
+        <FireSprinkler_Frame.description>Triggered by fire or high temperature. Douses flames with a spray of water.</FireSprinkler_Frame.description>
+
+        <BiosolidsComposter.label>composto de biossólido</BiosolidsComposter.label>
+        <BiosolidsComposter.description>Um compostor para transformar esgoto em fertilizante para aumentar a fertilidade de terrenos escaváveis.</BiosolidsComposter.description>
+        <BiosolidsComposter_Blueprint.label>biosolids composter (blueprint)</BiosolidsComposter_Blueprint.label>
+        <BiosolidsComposter_Blueprint_Install.label>biosolids composter (blueprint)</BiosolidsComposter_Blueprint_Install.label>
+        <BiosolidsComposter_Frame.label>biosolids composter (building)</BiosolidsComposter_Frame.label>
+        <BiosolidsComposter_Frame.description>A composter for turning sewage into fertilizer for increasing the fertility of diggable terrain.</BiosolidsComposter_Frame.description>
+
+        <FilthUrine.label>urina</FilthUrine.label>
+        <FilthUrine.description>Urina no chão.</FilthUrine.description>
+
+        <FilthFaeces.label>merda</FilthFaeces.label>
+        <RawSewage.label>merda fresca</RawSewage.label>
+
+        <BionicBladder.label>bexiga biônica</BionicBladder.label>
+        <BionicBladder.description>Uma bexiga artificial avançada. Um sistema de reciclagem química quebra os resíduos do corpo em moléculas que são recicladas com o restante liberado como gás, a desvantagem disso é que ele fornece gás ao usuário.</BionicBladder.description>
+
+        <HygieneEnhancer.label>melhorador de higiene</HygieneEnhancer.label>
+        <HygieneEnhancer.description>Libera mecanismos que quebram as células mortas da pele e outros detritos da pele e do cabelo, liberando-os inofensivamente no ar.</HygieneEnhancer.description>
+
+        <BedPan.label>pinico</BedPan.label>
+        <BedPan.description>Um receptáculo usado por um paciente acamado para urina e fezes.</BedPan.description>
+
+        <Biosolids.label>biossólido</Biosolids.label>
+        <Biosolids.description>Quando devidamente tratada e processada, o lodo de esgoto torna-se um biossólido que oferece um pequeno aumento na fertilidade do terreno. Útil para ambientes hostis com espaço limitado para cultivo. O biossólido também aumenta muito a fertilidade da areia, o que pode torná-la fértil quando combinado com irrigação.</Biosolids.description>
+
+        <FecalSludge.label>merda</FecalSludge.label>
+        <FecalSludge.description>Um barril cheio de merda. Pode ser despejado, queimado ou compostado em biossólido.</FecalSludge.description>
+
+        <DBH_WaterBottle.label>garrafa de agua</DBH_WaterBottle.label>
+        <DBH_WaterBottle.description>Uma garrafa de água</DBH_WaterBottle.description>
+        <DBH_WaterBottle.ingestible.ingestCommandString>Beber {0}</DBH_WaterBottle.ingestible.ingestCommandString>
+        <DBH_WaterBottle.ingestible.ingestReportString>Bebendo {0}.</DBH_WaterBottle.ingestible.ingestReportString>
+
 </LanguageData>
