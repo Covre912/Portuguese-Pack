@@ -18,4 +18,8 @@
     <!-- LMW Deep Storage -->
         <LWM_DS_Storage.label>Estoque</LWM_DS_Storage.label>
 
+    <!-- Dubs Bad Hygiene -->
+  <Hygiene.label>saneamento</Hygiene.label>
+  <Hygiene.description>Construções para higiene dos colonos.</Hygiene.description>
+
 </LanguageData>

@@ -13,4 +13,10 @@
     <!-- Vanilla Cooking Expanded -->
         <VCE_Confectionery.label>consumo de sobremesas</VCE_Confectionery.label>
 
+    <!-- Vanilla Furniture Expanded -->
+        <Gaming_Electronic.label>jogos eletrônicos</Gaming_Electronic.label>
+
+    <!-- Dubs Bad Hygiene -->
+        <Hydrotherapy.label>hidroterapia</Hydrotherapy.label>
+
 </LanguageData>

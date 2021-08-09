@@ -72,4 +72,8 @@
         <Zombies.label>zumbis</Zombies.label>
         <ZombieSerum.label>soro</ZombieSerum.label>
 
+    <!-- Dubs Bad Hygiene -->
+        <Waste.label>resíduos fecais</Waste.label>
+        <BuildingsHygiene.label>higiene</BuildingsHygiene.label>
+
 </LanguageData>

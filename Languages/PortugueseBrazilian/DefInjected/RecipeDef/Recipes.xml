@@ -1460,4 +1460,17 @@
   			<CureZombieInfection.description>Remove uma infecção de zumbi em estágio inicial de uma parte do corpo. Requer um soro de zumbi (melhor porcentagem dá menos risco de falha).</CureZombieInfection.description>
   			<CureZombieInfection.jobString>Curando infecção zumbi.</CureZombieInfection.jobString>
 
+    <!-- Dubs Bad Hygiene -->
+  			<InstallBionicBladder.label>instalar bexiga biônica</InstallBionicBladder.label>
+  			<InstallBionicBladder.description>Instale uma bexiga biônica.</InstallBionicBladder.description>
+  			<InstallBionicBladder.jobString>Instalando a bexiga biônica.</InstallBionicBladder.jobString>
+
+  			<InstallHygieneEnhancer.label>instalar melhorador de higiene</InstallHygieneEnhancer.label>
+  			<InstallHygieneEnhancer.description>Instale um melhorador de higiene.</InstallHygieneEnhancer.description>
+  			<InstallHygieneEnhancer.jobString>Instalando melhorador de higiene.</InstallHygieneEnhancer.jobString>
+
+  			<Make_ChemfuelFromFecalSludge.label>fazer combustível químico a partir de lodo fecal</Make_ChemfuelFromFecalSludge.label>
+  			<Make_ChemfuelFromFecalSludge.description>Faça um lote de combustível químico a partir do lodo fecal.</Make_ChemfuelFromFecalSludge.description>
+  			<Make_ChemfuelFromFecalSludge.jobString>Refinando combustível químico de lama fecal</Make_ChemfuelFromFecalSludge.jobString>
+
 </LanguageData>

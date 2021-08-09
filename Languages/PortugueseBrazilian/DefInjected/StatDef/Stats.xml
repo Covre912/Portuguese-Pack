@@ -52,5 +52,14 @@
     <!-- LMW Deep Storage -->
         <LWM_DS_Stats.label>Capacidade</LWM_DS_Stats.label>
 
+    <!-- Dubs Bad Hygiene -->
+        <ThirstRateMultiplier.label>fator de taxa de sede</ThirstRateMultiplier.label>
+        <ThirstRateMultiplier.description>Um multiplicador da rapidez com que uma criatura fica com sede.</ThirstRateMultiplier.description>
+
+        <HygieneRateMultiplier.label>fator de taxa de higiene</HygieneRateMultiplier.label>
+        <HygieneRateMultiplier.description>Um multiplicador da rapidez com que o nível de higiene de uma criatura cai.</HygieneRateMultiplier.description>
+
+        <BladderRateMultiplier.label>fator de taxa de bexiga</BladderRateMultiplier.label>
+        <BladderRateMultiplier.description>Um multiplicador da rapidez com que o nível da bexiga de uma criatura cai.</BladderRateMultiplier.description>
 
 </LanguageData>
