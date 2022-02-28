@@ -410,35 +410,6 @@
             <AEXP_BlackBear.label>urso-negro</AEXP_BlackBear.label>
             <AEXP_BlackBear.description>Um mamífero onívoro de tamanho médio adaptado para climas frios. A gordura e o pêlo dos ursos os mantêm aquecidos no inverno.\n\nEmbora sua dieta normal consista de peixes, frutas vermelhas, mel e carne de restos mortais, o urso-negro é capaz de usar sua força maciça e garras mortais para matar presas vivas. Eles são surpreendentemente rápidos para criaturas tão pesadas.</AEXP_BlackBear.description>
 
-    <!-- Vanilla Animals Expanded - Desert -->
-        <!-- Hyena -->
-            <AEXP_Hyena.label>hiena</AEXP_Hyena.label>
-            <AEXP_Hyena.description>Um grande carnívoro parecido com um cão, encontrado em matagais e desertos. O riso produzido por esses animais pode semear o medo durante as longas noites no deserto.</AEXP_Hyena.description>
-            <AEXP_Hyena.tools.0.label>garra esquerda</AEXP_Hyena.tools.0.label>
-            <AEXP_Hyena.tools.1.label>garra direita</AEXP_Hyena.tools.1.label>
-            <AEXP_Hyena.tools.3.label>cabeça</AEXP_Hyena.tools.3.label>
-
-        <!-- Desert Tortoise -->
-            <AEXP_DesertTortoise.label>tartaruga do deserto</AEXP_DesertTortoise.label>
-            <AEXP_DesertTortoise.description>Este réptil que vive no deserto com uma blindagem pesada é conhecido por sua velocidade de movimento lenta e sua concha extremamente dura, tornando-o difícil de matar. As tartarugas do deserto, apesar de seus pequenos tamanhos, são ótimos animais de combate.</AEXP_DesertTortoise.description>
-            <AEXP_DesertTortoise.tools.0.label>bico</AEXP_DesertTortoise.tools.0.label>
-            <AEXP_DesertTortoise.tools.1.label>cabeça</AEXP_DesertTortoise.tools.1.label>
-
-        <!-- Lion -->
-            <AEXP_Lion.label>leão</AEXP_Lion.label>
-            <AEXP_Lion.description>Rei do reino animal, o leão é um gato musculoso, de peito largo, cabeça curta e juba proeminente. Sendo os maiores felinos, os leões são excelentes animais de combate.</AEXP_Lion.description>
-            <AEXP_Lion.tools.0.label>garra esquerda</AEXP_Lion.tools.0.label>
-            <AEXP_Lion.tools.1.label>garra direita</AEXP_Lion.tools.1.label>
-            <AEXP_Lion.tools.3.label>cabeça</AEXP_Lion.tools.3.label>
-
-        <!-- Gila Monster -->
-            <AEXP_GilaMonster.label>monstro-de-gila</AEXP_GilaMonster.label>
-            <AEXP_GilaMonster.description>Um lagarto grande e lento, encontrado principalmente no deserto, conhecido por sua mordida altamente venenosa, que inflige um forte acúmulo tóxico em sua presa. Os forasteiros até hoje acreditam em contos que afirmam que este lagarto é uma cria do inferno, e que seu hálito é letal.</AEXP_GilaMonster.description>
-            <AEXP_GilaMonster.tools.0.label>garra esquerda</AEXP_GilaMonster.tools.0.label>
-            <AEXP_GilaMonster.tools.1.label>garra direita</AEXP_GilaMonster.tools.1.label>
-            <AEXP_GilaMonster.tools.2.label>dentes</AEXP_GilaMonster.tools.2.label>
-            <AEXP_GilaMonster.tools.3.label>cabeça</AEXP_GilaMonster.tools.3.label>
-
     <!-- Vanilla Animals Expanded - Endangered -->
         <!-- Black-Footed Ferret -->
             <AEXP_BlackFootedFerret.label>doninha-de-patas-pretas</AEXP_BlackFootedFerret.label>
@@ -516,27 +487,6 @@
             <AEXP_Pangolin.tools.0.label>garra esquerda</AEXP_Pangolin.tools.0.label>
             <AEXP_Pangolin.tools.1.label>garra direita</AEXP_Pangolin.tools.1.label>
             <AEXP_Pangolin.tools.3.label>cabeça</AEXP_Pangolin.tools.3.label>
-
-    <!-- Vanilla Animals Expanded - Extreme Desert -->
-        <!-- Camel -->
-            <AEXP_Camel.label>camelo</AEXP_Camel.label>
-            <AEXP_Camel.description>Um grande mamífero terrestre adaptado a ambientes áridos. Caseiro desde os tempos antigos, sua lã e couro são excepcionalmente bons como isolantes do calor do deserto, e seu leite é bastante nutritivo. Pode ser usado como um animal de carga, mas suas duas corcovas o tornam extremamente desconfortável para cavalgar.</AEXP_Camel.description>
-            <AEXP_Camel.tools.0.label>casco esquerdo</AEXP_Camel.tools.0.label>
-            <AEXP_Camel.tools.1.label>casco direito</AEXP_Camel.tools.1.label>
-            <AEXP_Camel.tools.3.label>cabeça</AEXP_Camel.tools.3.label>
-
-        <!-- Rattlesnake -->
-            <AEXP_Rattlesnake.label>cascavel</AEXP_Rattlesnake.label>
-            <AEXP_Rattlesnake.description>Uma cobra altamente venenosa, cujo nome vem de um chocalho na ponta da cauda. O som gerado soa como um alerta para qualquer predador, porém caso não funcione, as presas do veneno da cascavel infligem uma toxina extremamente dolorosa.</AEXP_Rattlesnake.description>
-            <AEXP_Rattlesnake.tools.0.label>presas venenosas</AEXP_Rattlesnake.tools.0.label>
-            <AEXP_Rattlesnake.tools.1.label>cabeça</AEXP_Rattlesnake.tools.1.label>
-
-        <!-- Megascorpion -->
-            <AEXP_Megascorpion.label>megaescorpião</AEXP_Megascorpion.label>
-            <AEXP_Megascorpion.description>Um escorpião gigante geneticamente modificado. Uma vez criado como uma ferramenta de assassinato perfeita, não é frequentemente visto retornando ao seu habitat natural - o deserto. Um veneno muito potente em seu ferrão o ajuda a atacar presas ainda maiores.</AEXP_Megascorpion.description>
-            <AEXP_Megascorpion.tools.0.label>ferrão</AEXP_Megascorpion.tools.0.label>
-            <AEXP_Megascorpion.tools.1.label>mandíbulas</AEXP_Megascorpion.tools.1.label>
-            <AEXP_Megascorpion.tools.2.label>cabeça</AEXP_Megascorpion.tools.2.label>
 
     <!-- Vanilla Animals Expanded - Ice Sheet -->
         <!-- Penguin -->

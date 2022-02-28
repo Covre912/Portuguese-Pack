@@ -407,11 +407,6 @@
             <VFE_GasExtraction.label>extração de gás</VFE_GasExtraction.label>
             <VFE_GasExtraction.description>Aprenda sobre o gás helixien e sua capacidade de agir como combustível.</VFE_GasExtraction.description>
 
-    <!-- Vanilla Furniture Expanded - Production -->
-        <!-- Manufacturing -->
-            <VFE_Manufacturing.label>manufatura</VFE_Manufacturing.label>
-            <VFE_Manufacturing.description>Construir bancadas de manufatura e centros de trabalho eficientes.</VFE_Manufacturing.description>
-
     <!-- Vanilla Furniture Expanded - Props And Decor -->
         <!-- Industrial Props -->
             <IndustrialProps.label>decorações industriais</IndustrialProps.label>

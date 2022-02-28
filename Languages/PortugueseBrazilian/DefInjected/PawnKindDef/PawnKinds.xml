@@ -460,35 +460,6 @@
             <AEXP_BlackBear.label>urso-negro</AEXP_BlackBear.label>
             <AEXP_BlackBear.labelPlural>ursos-negros</AEXP_BlackBear.labelPlural>
 
-    <!-- Vanilla Animals Expanded - Desert -->
-        <!-- Hyena -->
-            <AEXP_Hyena.label>hiena</AEXP_Hyena.label>
-            <AEXP_Hyena.labelPlural>hienas</AEXP_Hyena.labelPlural>
-            <AEXP_Hyena.lifeStages.0.label>hiena filhote</AEXP_Hyena.lifeStages.0.label>
-            <AEXP_Hyena.lifeStages.0.labelPlural>hienas filhotes</AEXP_Hyena.lifeStages.0.labelPlural>
-
-        <!-- Desert Tortoise -->
-            <AEXP_DesertTortoise.label>tartaruga do deserto</AEXP_DesertTortoise.label>
-            <AEXP_DesertTortoise.labelPlural>tartarugas do deserto</AEXP_DesertTortoise.labelPlural>
-
-        <!-- Lion -->
-            <AEXP_Lion.label>leão</AEXP_Lion.label>
-            <AEXP_Lion.labelMale>leão</AEXP_Lion.labelMale>
-            <AEXP_Lion.labelFemale>leoa</AEXP_Lion.labelFemale>
-            <AEXP_Lion.labelPlural>leões</AEXP_Lion.labelPlural>
-            <AEXP_Lion.labelMalePlural>leões</AEXP_Lion.labelMalePlural>
-            <AEXP_Lion.labelFemalePlural>leoas</AEXP_Lion.labelFemalePlural>
-            <AEXP_Lion.lifeStages.0.label>leão filhote</AEXP_Lion.lifeStages.0.label>
-            <AEXP_Lion.lifeStages.0.labelMale>leão filhote</AEXP_Lion.lifeStages.0.labelMale>
-            <AEXP_Lion.lifeStages.0.labelFemale>leoa filhote</AEXP_Lion.lifeStages.0.labelFemale>
-            <AEXP_Lion.lifeStages.0.labelPlural>leões filhotes</AEXP_Lion.lifeStages.0.labelPlural>
-            <AEXP_Lion.lifeStages.0.labelMalePlural>leões filhotes</AEXP_Lion.lifeStages.0.labelMalePlural>
-            <AEXP_Lion.lifeStages.0.labelFemalePlural>leoas filhotes</AEXP_Lion.lifeStages.0.labelFemalePlural>
-
-        <!-- Gila Monster -->
-            <AEXP_GilaMonster.label>monstro-de-gila</AEXP_GilaMonster.label>
-            <AEXP_GilaMonster.labelPlural>monstros-de-gila</AEXP_GilaMonster.labelPlural>
-
     <!-- Vanilla Animals Expanded - Endangered -->
         <!-- Black-Footed Ferret -->
             <AEXP_BlackFootedFerret.label>doninha-de-patas-pretas</AEXP_BlackFootedFerret.label>
@@ -537,21 +508,6 @@
         <!-- Pangolin -->
             <AEXP_Pangolin.label>pangolim-gigante</AEXP_Pangolin.label>
             <AEXP_Pangolin.labelPlural>pangolins-gigantes</AEXP_Pangolin.labelPlural>
-
-    <!-- Vanilla Animals Expanded - Extreme Desert -->
-        <!-- Camel -->
-            <AEXP_Camel.label>camelo</AEXP_Camel.label>
-            <AEXP_Camel.labelPlural>camelos</AEXP_Camel.labelPlural>
-            <AEXP_Camel.lifeStages.0.label>camelo filhote</AEXP_Camel.lifeStages.0.label>
-            <AEXP_Camel.lifeStages.0.labelPlural>camelos filhotes</AEXP_Camel.lifeStages.0.labelPlural>
-
-        <!-- Rattlesnake -->
-            <AEXP_Rattlesnake.label>cascavel</AEXP_Rattlesnake.label>
-            <AEXP_Rattlesnake.labelPlural>cascavéis</AEXP_Rattlesnake.labelPlural>
-
-        <!-- Megascorpion -->
-            <AEXP_Megascorpion.label>megaescorpião</AEXP_Megascorpion.label>
-            <AEXP_Megascorpion.labelPlural>megaescorpiões</AEXP_Megascorpion.labelPlural>
 
     <!-- Vanilla Animals Expanded - Ice Sheet -->
         <!-- Penguim -->

@@ -90,18 +90,6 @@
             <WMH_RockBomb.label>rocha</WMH_RockBomb.label>
             <WMH_RockBomb.deathMessage>{0} morreu esmagad{0_gender ? o : a} por uma rocha enorme.</WMH_RockBomb.deathMessage>
 
-    <!-- Vanilla Animals Expanded - Desert -->
-        <!-- Venomous Bite -->
-            <AEXP_GilaToxicBuildUp.label>mordida venenosa</AEXP_GilaToxicBuildUp.label>
-            <AEXP_GilaToxicBuildUp.deathMessage>{0} morreu envenenado.</AEXP_GilaToxicBuildUp.deathMessage>
-
-    <!-- Vanilla Animals Expanded - Extreme Desert -->
-        <!-- Venomous Bite -->
-            <AEXP_RattleSnakeToxicBuildUp.label>mordida venenosa</AEXP_RattleSnakeToxicBuildUp.label>
-            <AEXP_RattleSnakeToxicBuildUp.deathMessage>{0} morreu envenenado.</AEXP_RattleSnakeToxicBuildUp.deathMessage>
-            <AEXP_MegascorpionToxicBuildUp.label>mordida venenosa</AEXP_MegascorpionToxicBuildUp.label>
-            <AEXP_MegascorpionToxicBuildUp.deathMessage>{0} morreu envenenado.</AEXP_MegascorpionToxicBuildUp.deathMessage>
-
     <!-- Vanilla Factions Expanded - Insectoids -->
         <!-- Psychic -->
             <VFEI_PsychicNoDamage.label>psique</VFEI_PsychicNoDamage.label>
