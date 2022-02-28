@@ -772,21 +772,6 @@
 			<SM_SaucedMealLavish.label>refeição luxuosa temperada</SM_SaucedMealLavish.label>
 			<SM_SaucedMealLavish.description>Uma obra-prima das artes culinárias, esta refeição temperada nutre o corpo, a mente e a alma.</SM_SaucedMealLavish.description>
 
-	<!-- Vanilla Animals Expanded - Arid Shrubland -->
-		<!-- Crocodile Egg -->
-			<AEXP_EggCrocodileUnfertilized.label>ovo de crocodilo (não fert.)</AEXP_EggCrocodileUnfertilized.label>
-			<AEXP_EggCrocodileUnfertilized.description>Ovo de crocodilo não fertilizado. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggCrocodileUnfertilized.description>
-			<AEXP_EggCrocodileFertilized.label>ovo de crocodilo (fert.)</AEXP_EggCrocodileFertilized.label>
-			<AEXP_EggCrocodileFertilized.description>Ovo de crocodilo fertilizado. Se tudo ocorrer bem, ele deve eclodir um crocodilo bebê. Pode ser comido cru, mas fica muito melhor cozinhado.</AEXP_EggCrocodileFertilized.description>
-
-		<!-- Hippopotamus Leather -->
-			<AEXP_Leather_Hippopotamus.label>couro de hipopótamo</AEXP_Leather_Hippopotamus.label>
-			<AEXP_Leather_Hippopotamus.description>Um couro grosso de um hipopótamo. Não só é extremamente durável, mas também fornece um isolamento térmico considerável.</AEXP_Leather_Hippopotamus.description>
-
-		<!-- Wildebeest Pelt -->
-			<AEXP_Leather_Wildebeest.label>pele de gnu</AEXP_Leather_Wildebeest.label>
-			<AEXP_Leather_Wildebeest.description>Uma grossa mas esfarelada pele e couro de gnu. Embora forneça algum grau de proteção contra danos, a longevidade geral do item diminui.</AEXP_Leather_Wildebeest.description>
-
 	<!-- Vanilla Animals Expanded - Australia -->
 		<!-- Platypus Egg -->
 			<AEXP_EggPlatypusFertilized.label>ovo de ornitorrinco (fert.)</AEXP_EggPlatypusFertilized.label>
