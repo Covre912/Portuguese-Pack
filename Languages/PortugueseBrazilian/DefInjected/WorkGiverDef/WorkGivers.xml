@@ -251,12 +251,6 @@
             <VPE_WorkGiverPluggingPond.verb>preencher</VPE_WorkGiverPluggingPond.verb>
             <VPE_WorkGiverPluggingPond.gerund>preenchendo</VPE_WorkGiverPluggingPond.gerund>
 
-    <!-- Vanilla Furniture Expanded - Security -->
-        <!-- Traps -->
-            <VFES_ConstructRearmTrap.label>armar armadilhar</VFES_ConstructRearmTrap.label>
-            <VFES_ConstructRearmTrap.verb>armar</VFES_ConstructRearmTrap.verb>
-            <VFES_ConstructRearmTrap.gerund>armando</VFES_ConstructRearmTrap.gerund>
-
     <!-- Zombieland -->
         <!-- Extract Zombie Serum -->
             <ExtractZombieSerum.label>extrair soro de cadáveres de zumbis</ExtractZombieSerum.label>
