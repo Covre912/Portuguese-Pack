@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-    <!-- Vanilla Furniture Expanded - Security Module -->
-        <!-- Traps Rearmed -->
-            <VFES_TrapsRearmed.label>Armadilhas Armadas</VFES_TrapsRearmed.label>
-            <VFES_TrapsRearmed.description>O número de armadilhas que armei.</VFES_TrapsRearmed.description>
-
-</LanguageData>

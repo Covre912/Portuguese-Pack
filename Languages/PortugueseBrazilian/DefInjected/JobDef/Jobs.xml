@@ -116,9 +116,6 @@
     <!-- Vanilla Furniture Expanded - Power -->
         <VPE_JobPlugHole.reportString>destruindo buraco.</VPE_JobPlugHole.reportString>
 
-    <!-- Vanilla Furniture Expanded - Security -->
-        <VFES_RearmTrap.reportString>armando TargetA.</VFES_RearmTrap.reportString>
-
     <!-- Vanilla Hair Expanded -->
         <VHE_ChangeHairstyle.reportString>cortando o cabelo em TargetA.</VHE_ChangeHairstyle.reportString>
 

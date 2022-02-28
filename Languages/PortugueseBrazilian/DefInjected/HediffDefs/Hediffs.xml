@@ -1239,23 +1239,6 @@
             <Bed_RefreshingSleep.stages.1.label>maior</Bed_RefreshingSleep.stages.1.label>
             <Bed_RefreshingSleep.stages.2.label>máximo</Bed_RefreshingSleep.stages.2.label>
 
-    <!-- Vanilla Furniture Expanded - Security Module -->
-        <!-- Splinter -->
-            <VFES_Stab.label>flechada</VFES_Stab.label>
-            <VFES_Stab.labelNoun>uma flechada</VFES_Stab.labelNoun>
-            <VFES_Stab.description>Um ferimento de flecha.</VFES_Stab.description>
-            <VFES_Stab.comps.0.labelTendedWell>enfaixada</VFES_Stab.comps.0.labelTendedWell>
-            <VFES_Stab.comps.0.labelTendedWell>saturada</VFES_Stab.comps.0.labelTendedWell>
-            <VFES_Stab.comps.0.labelSolidTendedWell>fixada</VFES_Stab.comps.0.labelSolidTendedWell>
-            <VFES_Stab.comps.2.permanentLabel>cicatriz de flechada</VFES_Stab.comps.2.permanentLabel>
-            <VFES_Stab.injuryProps.destroyedLabel>destruído</VFES_Stab.injuryProps.destroyedLabel>
-            <VFES_Stab.injuryProps.destroyedOutLabel>cortado fora</VFES_Stab.injuryProps.destroyedOutLabel>
-
-        <!-- Dazzled -->
-            <VFES_Dazzled.label>ofuscado</VFES_Dazzled.label>
-            <VFES_Dazzled.labelNoun>um olho ofuscado</VFES_Dazzled.labelNoun>
-            <VFES_Dazzled.description>Comprometimento significativo da visão como resultado da superexposição à luz.</VFES_Dazzled.description>
-
     <!-- Vanilla Traits Expanded -->
         <!-- Rebelling -->
             <VTE_SlowWorkSpeed.label>Rebelando</VTE_SlowWorkSpeed.label>

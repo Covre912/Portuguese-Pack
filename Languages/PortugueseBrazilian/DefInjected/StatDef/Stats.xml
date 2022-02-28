@@ -36,19 +36,6 @@
             <VAEA_RangedCooldownFactor.label>fator de recarga de alcance</VAEA_RangedCooldownFactor.label>
             <VAEA_RangedCooldownFactor.description>O tempo de recarga das armas de longo alcance do usuário é multiplicado por este valor.</VAEA_RangedCooldownFactor.description>
 
-    <!-- Vanilla Furniture Expanded - Security Expanded -->
-        <!-- Shield Max Energy -->
-            <VFES_EnergyShieldEnergyMax.label>energia máxima de escudo</VFES_EnergyShieldEnergyMax.label>
-            <VFES_EnergyShieldEnergyMax.description>A energia máxima que um gerador de escudo pode ter ao mesmo tempo. Mais energia absorve mais danos.</VFES_EnergyShieldEnergyMax.description>
-
-        <!-- Shield Recharge Rate -->
-            <VFES_EnergyShieldRechargeRate.label>taxa de recarga de escudo</VFES_EnergyShieldRechargeRate.label>
-            <VFES_EnergyShieldRechargeRate.description>A taxa na qual um escudo ganha energia, desde que não seja quebrado.</VFES_EnergyShieldRechargeRate.description>
-
-        <!-- Shield Radius -->
-            <VFES_EnergyShieldRadius.label>raio de escudo</VFES_EnergyShieldRadius.label>
-            <VFES_EnergyShieldRadius.description>A área coberta quando o escudo de energia está ativo.</VFES_EnergyShieldRadius.description>
-
     <!-- LMW Deep Storage -->
         <LWM_DS_Stats.label>Capacidade</LWM_DS_Stats.label>
 

@@ -1068,13 +1068,6 @@
             <VFE_FactoryPath.label>caminho de fábrica</VFE_FactoryPath.label>
             <VFE_FactoryPath.description>Um caminho de fábrica designado e seguro. Aumenta a velocidade de movimento, mas precisa ser colocado no chão de fábrica.</VFE_FactoryPath.description>
 
-    <!-- Vanilla Furniture Expanded - Security Module -->
-        <!-- Trench Floor -->
-            <VFES_TrenchTerrain.label>trincheira</VFES_TrenchTerrain.label>
-
-        <!-- Platform -->
-            <VFES_PlatformTerrain.label>plataforma</VFES_PlatformTerrain.label>
-
     <!-- Vanilla Plants Expanded -->
         <!-- Tilled Soil -->
             <VCE_TilledSoil.label>solo arado</VCE_TilledSoil.label>
