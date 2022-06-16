@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <!-- Vanilla Factions Expanded - Medieval -->
-        <!-- Claymore -->
-            <VFEM_MeleeWeapon_Claymore.label>espada escocesa antiga</VFEM_MeleeWeapon_Claymore.label>
-            <VFEM_MeleeWeapon_Claymore.description>Uma antiga arma de duas mãos, raramente vista em uso. Muito eficaz em cortar e apunhalar.</VFEM_MeleeWeapon_Claymore.description>
-            <VFEM_MeleeWeapon_Claymore.tools.0.label>cabo</VFEM_MeleeWeapon_Claymore.tools.0.label>
-            <VFEM_MeleeWeapon_Claymore.tools.1.label>ponta</VFEM_MeleeWeapon_Claymore.tools.1.label>
-            <VFEM_MeleeWeapon_Claymore.tools.2.label>lâmina</VFEM_MeleeWeapon_Claymore.tools.2.label>
-
-        <!-- Heavy Mace -->
-            <VFEM_MeleeWeapon_HeavyMace.label>maça pesada</VFEM_MeleeWeapon_HeavyMace.label>
-            <VFEM_MeleeWeapon_HeavyMace.description>Uma maça pesada que consiste em uma haste e uma bola pesada adornada com pontas, muito eficaz em perfurar armaduras. Esta arma é frequentemente usada por cavaleiros ferozes.</VFEM_MeleeWeapon_HeavyMace.description>
-            <VFEM_MeleeWeapon_HeavyMace.tools.0.label>cabo</VFEM_MeleeWeapon_HeavyMace.tools.0.label>
-            <VFEM_MeleeWeapon_HeavyMace.tools.1.label>cabeça</VFEM_MeleeWeapon_HeavyMace.tools.1.label>
-
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Seax -->
             <VFE_MeleeWeapon_Seax.label>saxo</VFE_MeleeWeapon_Seax.label>

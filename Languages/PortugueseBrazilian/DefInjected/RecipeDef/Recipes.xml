@@ -850,115 +850,6 @@
             <SM_CookSaucedMealLavishBulk.description>Cozinhe refeições complexas a partir da combinação de carne e ingredientes vegetais, além de um condimento. Muitos dos ingredientes serão despediçados.</SM_CookSaucedMealLavishBulk.description>
             <SM_CookSaucedMealLavishBulk.jobString>Cozinhando refeições luxosas temperadas.</SM_CookSaucedMealLavishBulk.jobString>
 
-    <!-- Vanilla Brewing Expanded -->
-        <!-- Simple Cocktail -->
-            <VBE_MakeCocktailSimple.label>fazer coquetel simples</VBE_MakeCocktailSimple.label>
-            <VBE_MakeCocktailSimple.description>Faça um coquetel simples rapidamente misturado com uma dupla de ingredientes.</VBE_MakeCocktailSimple.description>
-            <VBE_MakeCocktailSimple.jobString>Fazendo coquetel simples.</VBE_MakeCocktailSimple.jobString>
-
-        <!-- Fine Cocktail -->
-            <VBE_MakeCocktailFine.label>fazer coquetel bom</VBE_MakeCocktailFine.label>
-            <VBE_MakeCocktailFine.description>Faça um coquetel bom, misturado com precisão a partir de vários ingredientes.</VBE_MakeCocktailFine.description>
-            <VBE_MakeCocktailFine.jobString>Fazendo coquetel bom.</VBE_MakeCocktailFine.jobString>
-
-        <!-- Lavish Cocktail -->
-            <VBE_MakeCocktailLavish.label>fazer coquetel luxuoso</VBE_MakeCocktailLavish.label>
-            <VBE_MakeCocktailLavish.description>Faça um coquetel luxoso, misturado com uma grande variedade de ingredientes e gelado à perfeição antes de meticulosamente agitado e servido.</VBE_MakeCocktailLavish.description>
-            <VBE_MakeCocktailLavish.jobString>Fazendo coquetel luxuoso.</VBE_MakeCocktailLavish.jobString>
-
-        <!-- Coffee -->
-            <VBE_MakeCoffee.label>fazer café</VBE_MakeCoffee.label>
-            <VBE_MakeCoffee.description>Faça uma bebida quente e amarga, geralmente complementada com leite e açúcar. Um favorito entre estudantes e funcionários de escritório em toda a galáxia devido ao alto teor de cafeína e aroma agradável.</VBE_MakeCoffee.description>
-            <VBE_MakeCoffee.jobString>Fazendo café.</VBE_MakeCoffee.jobString>
-
-        <!-- Energy Drink -->
-            <VBE_MakeEnergyDrink.label>fazer energético</VBE_MakeEnergyDrink.label>
-            <VBE_MakeEnergyDrink.description>Faça uma bebida azeda e gaseificada com um toque de amargura. A combinação de açúcar e cafeína transmite uma explosão de energia! Sabor residual notável de radiação.</VBE_MakeEnergyDrink.description>
-            <VBE_MakeEnergyDrink.jobString>Fazendo energético.</VBE_MakeEnergyDrink.jobString>
-
-        <!-- Juice -->
-            <VBE_MixJuice.label>fazer suco</VBE_MixJuice.label>
-            <VBE_MixJuice.description>Faça um suco simples feito de algumas frutas.</VBE_MixJuice.description>
-            <VBE_MixJuice.jobString>Fazendo suco.</VBE_MixJuice.jobString>
-
-        <!-- Soda Syrup -->
-            <VBE_MakeSodaSyrup.label>fazer xarope de refrigerante</VBE_MakeSodaSyrup.label>
-            <VBE_MakeSodaSyrup.description>Faça xarope de refrigerante misturando suco natural com xarope de milho rico em frutose.</VBE_MakeSodaSyrup.description>
-            <VBE_MakeSodaSyrup.jobString>Fazendo xarope de refrigerante.</VBE_MakeSodaSyrup.jobString>
-            <VBE_MakeSodaSyrupBulk.label>fazer xarope de refrigerante</VBE_MakeSodaSyrupBulk.label>
-            <VBE_MakeSodaSyrupBulk.description>Fazendo xarope de refrigerante misturando suco natural com xarope de milho rico em frutose.</VBE_MakeSodaSyrupBulk.description>
-
-        <!-- Ambrosia Mush -->
-            <VBE_AmbrosiaMush.label>fazer polpa de ambrosia</VBE_AmbrosiaMush.label>
-            <VBE_AmbrosiaMush.description>Faça ambrosia fatiada e prensada que pode ser deixada sozinha para amadurecer em mosto para ser posteriormente destilada em um licor extremamente fino.</VBE_AmbrosiaMush.description>
-            <VBE_AmbrosiaMush.jobString>Fazendo polpa de ambrosia.</VBE_AmbrosiaMush.jobString>
-
-        <!-- Tequila Must -->
-            <VBE_MakeTequilaMust.label>fazer mosto de tequila</VBE_MakeTequilaMust.label>
-            <VBE_MakeTequilaMust.description>Faça uma mistura fina de seiva de agave com suco e carne de inseto.</VBE_MakeTequilaMust.description>
-            <VBE_MakeTequilaMust.jobString>Fazendo mosto de tequila.</VBE_MakeTequilaMust.jobString>
-            <VBE_MakeTequilaMustFromPears.label>fazer mosto de tequila</VBE_MakeTequilaMustFromPears.label>
-            <VBE_MakeTequilaMustFromPears.description>Faça uma mistura fina de seiva de opúncia com suco e carne de inseto.</VBE_MakeTequilaMustFromPears.description>
-            <VBE_MakeTequilaMustFromPears.jobString>Fazendo mosto de tequila.</VBE_MakeTequilaMustFromPears.jobString>
-
-        <!-- Whiskey Mash -->
-            <VBE_MakeWhiskeyMash.label>fazer mistura de uísque</VBE_MakeWhiskeyMash.label>
-            <VBE_MakeWhiskeyMash.description>Faça uma mistura amilácea e principalmente líquida com pedaços polposos espalhados por toda parte.</VBE_MakeWhiskeyMash.description>
-            <VBE_MakeWhiskeyMash.jobString>Fazendo mistura de uísque.</VBE_MakeWhiskeyMash.jobString>
-            <VBE_MakeWhiskeyMashFromFlour.label>fazer mistura de uísque</VBE_MakeWhiskeyMashFromFlour.label>
-            <VBE_MakeWhiskeyMashFromFlour.description>Faça uma mistura amilácea e principalmente líquida com pedaços polposos espalhados por toda parte.</VBE_MakeWhiskeyMashFromFlour.description>
-            <VBE_MakeWhiskeyMashFromFlour.jobString>Fazendo mistura de uísque.</VBE_MakeWhiskeyMashFromFlour.jobString>
-
-        <!-- Vodka Mash -->
-            <VBE_MakeVodkaMash.label>fazer mistura de vodca</VBE_MakeVodkaMash.label>
-            <VBE_MakeVodkaMash.description>Faça uma mistura espessa e amilácea de batata crua.</VBE_MakeVodkaMash.description>
-            <VBE_MakeVodkaMash.jobString>Fazendo mistura de vodca.</VBE_MakeVodkaMash.jobString>
-
-        <!-- Gin Mush -->
-            <VBE_MakeGinMush.label>fazer polpa de gim</VBE_MakeGinMush.label>
-            <VBE_MakeGinMush.description>Faça uma mistura clara, mas turva, de frutas silvestres e grãos diversos.</VBE_MakeGinMush.description>
-            <VBE_MakeGinMush.jobString>Fazendo polpa de gim.</VBE_MakeGinMush.jobString>
-
-        <!-- Cigarettes -->
-            <VBE_MakeCigarettes.label>fazer cigarros</VBE_MakeCigarettes.label>
-            <VBE_MakeCigarettes.description>Faça um pequeno tubo de papel enrolado recheado com folhas de tabaco.</VBE_MakeCigarettes.description>
-            <VBE_MakeCigarettes.jobString>Fazendo cigarros.</VBE_MakeCigarettes.jobString>
-
-        <!-- Cigars -->
-            <VBE_MakeCigars.label>fazer charutos</VBE_MakeCigars.label>
-            <VBE_MakeCigars.description>Faça uma folha de tabaco seca e gorda recheada até a borda e envolva-a com ouro.</VBE_MakeCigars.description>
-            <VBE_MakeCigars.jobString>Fazendo charutos.</VBE_MakeCigars.jobString>
-
-        <!-- Tea -->
-            <VBE_MakeTea.label>fazer chá</VBE_MakeTea.label>
-            <VBE_MakeTea.description>Faça uma bebida agradável e aromática preparada mergulhando um saco de folhas de chá em água fervente.</VBE_MakeTea.description>
-            <VBE_MakeTea.jobString>Fazendo chá.</VBE_MakeTea.jobString>
-
-        <!-- Luciferium Powder -->
-            <VBE_MakeLuciferiumPowder.label>fazer pó de lucifério</VBE_MakeLuciferiumPowder.label>
-            <VBE_MakeLuciferiumPowder.description>Faça um pó muito fino feito de lucifério. Costuma-se colocar rodelas de bebidas alcoólicas em bares frequentados por ricos e poderosos.</VBE_MakeLuciferiumPowder.description>
-            <VBE_MakeLuciferiumPowder.jobString>Fazendo pó de lucifério.</VBE_MakeLuciferiumPowder.jobString>
-
-        <!-- Go-Juice Stock -->
-            <VBE_MakeGoJuiceStock.label>fazer gelatina de suco-turbo</VBE_MakeGoJuiceStock.label>
-            <VBE_MakeGoJuiceStock.description>Faça um cubo gelatinizado de suco-turbo, capaz de ser digerido em vez de injetado. Embora possa ser usado em qualquer refeição, geralmente é derretido em sopas ou usado como um agente espessante em coquetéis.</VBE_MakeGoJuiceStock.description>
-            <VBE_MakeGoJuiceStock.jobString>Fazendo gelatina de suco-turbo.</VBE_MakeGoJuiceStock.jobString>
-
-        <!-- Wake-Up Powder -->
-            <VBE_MakeWakeUpPowder.label>fazer pó de despertar</VBE_MakeWakeUpPowder.label>
-            <VBE_MakeWakeUpPowder.description>Faça um despertar triturado em pó, surpreendentemente doce e às vezes usado como substituto do açúcar em sobremesas ou dissolvido em um expresso matinal.</VBE_MakeWakeUpPowder.description>
-            <VBE_MakeWakeUpPowder.jobString>Fazendo pó de despertar.</VBE_MakeWakeUpPowder.jobString>
-
-        <!-- Gourmet Cocktail -->
-            <VBE_MakeCocktailGourmet.label>fazer coquetel gourmet</VBE_MakeCocktailGourmet.label>
-            <VBE_MakeCocktailGourmet.description>Faça um coquetel gourmet, onde cada fator, desde a temperatura do vidro, a escolha do instrumento de agitação e o tipo de guarnição, foi calculado com precisão para o máximo de sabor e corpo possível.</VBE_MakeCocktailGourmet.description>
-            <VBE_MakeCocktailGourmet.jobString>Fazendo coquetel gourmet</VBE_MakeCocktailGourmet.jobString>
-
-        <!-- Cider -->
-            <VBE_MakeUnfermentedCider.label>fazer sidra (não ferm.)</VBE_MakeUnfermentedCider.label>
-            <VBE_MakeUnfermentedCider.description>Faça sidra não fermentada em uma garrafa hermética. Se deixado sozinho para desenvolver as bactérias adequadas, o resultado final será uma bebida alcoólica fraca.</VBE_MakeUnfermentedCider.description>
-            <VBE_MakeUnfermentedCider.jobString>Fazendo sidra.</VBE_MakeUnfermentedCider.jobString>
-
     <!-- Vanilla Brewing Expanded - Coffees and Teas -->
         <!-- Coffee -->
             <VBE_MakeCoffeeFast.label>preparar café espresso</VBE_MakeCoffeeFast.label>
@@ -1430,23 +1321,11 @@
             <VFEI_InstallSynapticCerebellum.description>Instala um cerebelo sináptico.</VFEI_InstallSynapticCerebellum.description>
             <VFEI_InstallSynapticCerebellum.jobString>Instalando cerebelo sináptico.</VFEI_InstallSynapticCerebellum.jobString>
 
-    <!-- Vanilla Factions Expanded - Medieval -->
-        <!-- Grape Must -->
-            <VFEM_Make_Must.label>fazer mosto de uva</VFEM_Make_Must.label>
-            <VFEM_Make_Must.description>Faça mosto a partir de uvas.</VFEM_Make_Must.description>
-            <VFEM_Make_Must.jobString>Fazendo mosto.</VFEM_Make_Must.jobString>
-
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Sweetroll -->
             <VFEV_Make_Sweetroll.label>fazer pão doce</VFEV_Make_Sweetroll.label>
             <VFEV_Make_Sweetroll.description>Faça pães doces de mel e ovos.</VFEV_Make_Sweetroll.description>
             <VFEV_Make_Sweetroll.jobString>Fazendo pão doce.</VFEV_Make_Sweetroll.jobString>
-
-    <!-- Vanilla Weapons Expanded - Laser -->
-        <!-- Salvage Laser Weapons -->
-            <Salvage_LaserWeapon.label>recuperar arma laser</Salvage_LaserWeapon.label>
-            <Salvage_LaserWeapon.description>Recupere uma arma laser aleatória de componentes avançados.</Salvage_LaserWeapon.description>
-            <Salvage_LaserWeapon.jobString>Recuperando arma laser.</Salvage_LaserWeapon.jobString>
 
     <!-- Xenohumans - Anthromorphs -->
         <!-- Stabilizer Tail -->

@@ -624,45 +624,6 @@
             <VFE_OpportunitySite_MechanoidStoragePickup.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFE_OpportunitySite_MechanoidStoragePickup.LetterLabelQuestExpired.slateRef>
             <VFE_OpportunitySite_MechanoidStoragePickup.LetterTextQuestExpired.slateRef>Comunicações interceptadas indicam que o estoque de itens foi colocado em órbita.A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_MechanoidStoragePickup.LetterTextQuestExpired.slateRef>
 
-    <!-- Vanilla Factions Expanded - Medieval -->
-        <!-- Castle Ruins -->
-            <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings>
-                <li>questName(priority=1)->[journey] de [asker_nameDef] às [ruins]</li>
-                <li>questName->[stash] nas [ruins]</li>
-                <li>journey->Jornada</li>
-                <li>journey->Expedição</li>
-                <li>journey->Aventura</li>
-                <li>ruins->Ruínas</li>
-                <li>ruins->Ruínas do castelo</li>
-                <li>ruins->Ruínas da fortaleza</li>
-                <li>stash->Pilha</li>
-                <li>stash->Estoque</li>
-                <li>stash->Treasure</li>
-            </VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings>
-            <VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings>
-                <li>questDescription(askerIsNull==true)->Interceptamos mensagens sobre as ruínas de um castelo abandonado que contém um tesouro não muito longe daqui.\n\nParece que [allSitePartsDescriptionsExceptFirst]</li>
-                <li>questDescription(asker_factionLeader==True)->[asker_label], [asker_faction_leaderTitle] de [asker_faction_name], nos informou sobre algumas ruínas de castelo abandonado que podem conter um tesouro não muito longe de nós. Ninguém sabe o que aconteceu aos habitantes anteriores, mas ainda podemos ser capazes de saquear o que sobrou.\n\n[asker_label] diz que [allSitePartsDescriptionsExceptFirst]</li>
-            </VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings>
-            <VFEM_OpportunitySite_CastleRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>A missão expirou: [resolvedQuestName]</VFEM_OpportunitySite_CastleRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
-            <VFEM_OpportunitySite_CastleRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Comunicações interceptadas indicam que o castelo em ruínas foi destruído por outros. A missão [resolvedQuestName] expirou.</VFEM_OpportunitySite_CastleRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
-
-    <!-- Vanilla Factions Expanded - Settlers -->
-        <!-- Caravan Raid -->
-            <VFES_CaravanRaid.questNameRules.rulesStrings>
-                <li>questName->[raid] à Caravana</li>
-                <li>questName->[asker_nameDef] e o(a) [raid] à Caravana</li>
-                <li>raid->Interceptação</li>
-                <li>raid->Ataque</li>
-                <li>raid->Emboscada</li>
-            </VFES_CaravanRaid.questNameRules.rulesStrings>
-            <VFES_CaravanRaid.questDescriptionRules.rulesStrings>
-                <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos mandou uma mensagem. Aparentemente, [siteFaction_pawnsPlural] estão descansando com suas bestas antes de continuarem sua jornada.\n\n[asker_nameDef] nos deu sua localização, se quisermos, podemos atacá-los.</li>
-            </VFES_CaravanRaid.questDescriptionRules.rulesStrings>
-            <VFES_CaravanRaid.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFES_CaravanRaid.LetterLabelQuestExpired.slateRef>
-            <VFES_CaravanRaid.LetterTextQuestExpired.slateRef>Os [siteFaction_pawnsPlural] empacotoram suas coisas e seguiram em frente. A missão [resolvedQuestName] expirou.</VFES_CaravanRaid.LetterTextQuestExpired.slateRef>
-            <VFES_CaravanRaid.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFES_CaravanRaid.LetterLabelQuestFailed.slateRef>
-            <VFES_CaravanRaid.LetterTextQuestFailed.slateRef>Depois de serem descobertos, os [siteFaction_pawnsPlural] saíram. A missão [resolvedQuestName] terminou.</VFES_CaravanRaid.LetterTextQuestFailed.slateRef>
-
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Ancient Ruin -->
             <VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings>

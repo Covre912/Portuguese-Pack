@@ -432,34 +432,6 @@
             <WMH_Wyvern.label>wyvern</WMH_Wyvern.label>
             <WMH_Wyvern.labelPlural>wyverns</WMH_Wyvern.labelPlural>
 
-    <!-- Vanilla Animals Expanded - Australia -->
-        <!-- Boombat -->
-            <AEXP_Boombat.label>bumbate</AEXP_Boombat.label>
-            <AEXP_Boombat.labelPlural>bumbates</AEXP_Boombat.labelPlural>
-
-        <!-- Kangaroo -->
-            <AEXP_Kangaroo.label>canguru</AEXP_Kangaroo.label>
-            <AEXP_Kangaroo.labelPlural>cangurus</AEXP_Kangaroo.labelPlural>
-
-        <!-- Koala -->
-            <AEXP_Koala.label>coala</AEXP_Koala.label>
-            <AEXP_Koala.labelPlural>coalas</AEXP_Koala.labelPlural>
-
-    <!-- Vanilla Animals Expanded - Boreal Forest -->
-        <!-- Otter -->
-            <AEXP_Otter.label>lontra</AEXP_Otter.label>
-            <AEXP_Otter.labelPlural>lontras</AEXP_Otter.labelPlural>
-
-        <!-- Artic Coyote -->
-            <AEXP_ArcticCoyote.label>coiote do ártico</AEXP_ArcticCoyote.label>
-            <AEXP_ArcticCoyote.labelPlural>coiotes do ártico</AEXP_ArcticCoyote.labelPlural>
-            <AEXP_ArcticCoyote.lifeStages.0.label>coiote do ártico filhote</AEXP_ArcticCoyote.lifeStages.0.label>
-            <AEXP_ArcticCoyote.lifeStages.0.labelPlural>coiotes do ártico filhotes</AEXP_ArcticCoyote.lifeStages.0.labelPlural>
-
-        <!-- Black Bear -->
-            <AEXP_BlackBear.label>urso-negro</AEXP_BlackBear.label>
-            <AEXP_BlackBear.labelPlural>ursos-negros</AEXP_BlackBear.labelPlural>
-
     <!-- Vanilla Animals Expanded - Endangered -->
         <!-- Black-Footed Ferret -->
             <AEXP_BlackFootedFerret.label>doninha-de-patas-pretas</AEXP_BlackFootedFerret.label>
@@ -509,19 +481,6 @@
             <AEXP_Pangolin.label>pangolim-gigante</AEXP_Pangolin.label>
             <AEXP_Pangolin.labelPlural>pangolins-gigantes</AEXP_Pangolin.labelPlural>
 
-    <!-- Vanilla Animals Expanded - Ice Sheet -->
-        <!-- Penguim -->
-            <AEXP_Penguin.label>pinguim</AEXP_Penguin.label>
-            <AEXP_Penguin.labelPlural>pinguins</AEXP_Penguin.labelPlural>
-
-        <!-- Seal -->
-            <AEXP_Seal.label>foca</AEXP_Seal.label>
-            <AEXP_Seal.labelPlural>focas</AEXP_Seal.labelPlural>
-
-        <!-- Walrus -->
-            <AEXP_Walrus.label>morsa</AEXP_Walrus.label>
-            <AEXP_Walrus.labelPlural>morsas</AEXP_Walrus.labelPlural>
-
     <!-- Vanilla Animals Expanded - Temperate Forest -->
         <!-- Red Panda -->
             <AEXP_RedPanda.label>panda-vermelho</AEXP_RedPanda.label>
@@ -542,76 +501,6 @@
         <!-- Hedgehog -->
             <AEXP_Hedgehog.label>ouriço</AEXP_Hedgehog.label>
             <AEXP_Hedgehog.labelPlural>ouriços</AEXP_Hedgehog.labelPlural>
-
-    <!-- Vanilla Animals Expanded - Tropical Rainforest -->
-        <!-- Gorilla -->
-            <AEXP_Gorilla.label>gorila</AEXP_Gorilla.label>
-            <AEXP_Gorilla.labelPlural>gorilas</AEXP_Gorilla.labelPlural>
-
-        <!-- Jaguar -->
-            <AEXP_Jaguar.label>onça-pintada</AEXP_Jaguar.label>
-            <AEXP_Jaguar.labelPlural>onças-pintadas</AEXP_Jaguar.labelPlural>
-
-        <!-- Lemur -->
-            <AEXP_Lemur.label>lêmure</AEXP_Lemur.label>
-            <AEXP_Lemur.labelPlural>lêmures</AEXP_Lemur.labelPlural>
-
-        <!-- Mandrill -->
-            <AEXP_Mandrill.label>mandril</AEXP_Mandrill.label>
-            <AEXP_Mandrill.labelPlural>mandris</AEXP_Mandrill.labelPlural>
-
-        <!-- Tapir -->
-            <AEXP_Tapir.label>anta</AEXP_Tapir.label>
-            <AEXP_Tapir.labelPlural>antas</AEXP_Tapir.labelPlural>
-
-        <!-- Tiger -->
-            <AEXP_Tiger.label>tigre</AEXP_Tiger.label>
-            <AEXP_Tiger.labelPlural>tigres</AEXP_Tiger.labelPlural>
-
-    <!-- Vanilla Animals Expanded - Tropical Swamp -->
-        <!-- Alligator -->
-            <AEXP_Alligator.label>jacaré</AEXP_Alligator.label>
-            <AEXP_Alligator.labelPlural>jacarés</AEXP_Alligator.labelPlural>
-
-        <!-- Anaconda -->
-            <AEXP_Anaconda.label>sucuri</AEXP_Anaconda.label>
-            <AEXP_Anaconda.labelPlural>sucuris</AEXP_Anaconda.labelPlural>
-
-        <!-- Indian Elephant -->
-            <AEXP_IndianElephant.label>elefante-indiano</AEXP_IndianElephant.label>
-            <AEXP_IndianElephant.labelPlural>elefantes-indianos</AEXP_IndianElephant.labelPlural>
-            <AEXP_IndianElephant.lifeStages.0.label>elefante-indiano filhote</AEXP_IndianElephant.lifeStages.0.label>
-            <AEXP_IndianElephant.lifeStages.0.labelPlural>elefantes-indianos filhotes</AEXP_IndianElephant.lifeStages.0.labelPlural>
-
-    <!-- Vanilla Animals Expanded - Tundra -->
-        <!-- Musk Ox -->
-            <AEXP_Muskox.label>boi-almiscarado</AEXP_Muskox.label>
-            <AEXP_Muskox.labelPlural>bois-almiscarados</AEXP_Muskox.labelPlural>
-            <AEXP_Muskox.lifeStages.0.label>boi-almiscarado filhote</AEXP_Muskox.lifeStages.0.label>
-            <AEXP_Muskox.lifeStages.0.labelPlural>bois-almiscarados filhotes</AEXP_Muskox.lifeStages.0.labelPlural>
-
-        <!-- Moose -->
-            <AEXP_Moose.label>alce</AEXP_Moose.label>
-            <AEXP_Moose.labelPlural>alces</AEXP_Moose.labelPlural>
-            <AEXP_Moose.lifeStages.0.label>alce filhote</AEXP_Moose.lifeStages.0.label>
-            <AEXP_Moose.lifeStages.0.labelPlural>alces filhotes</AEXP_Moose.lifeStages.0.labelPlural>
-
-        <!-- Megawolverine -->
-            <AEXP_MegaWolverine.label>megaglutão</AEXP_MegaWolverine.label>
-            <AEXP_MegaWolverine.labelPlural>megaglutões</AEXP_MegaWolverine.labelPlural>
-
-        <!-- Porcupine -->
-            <AEXP_Porcupine.label>porco-espinho</AEXP_Porcupine.label>
-            <AEXP_Porcupine.labelPlural>porcos-espinhos</AEXP_Porcupine.labelPlural>
-
-    <!-- Vanilla Events Expanded -->
-        <!-- Hunter -->
-            <Hunter.label>caçador</Hunter.label>
-            <Hunter.labelPlural>caçadores</Hunter.labelPlural>
-            <Hunter.labelMale>caçador</Hunter.labelMale>
-            <Hunter.labelMalePlural>caçadores</Hunter.labelMalePlural>
-            <Hunter.labelFemale>caçadora</Hunter.labelFemale>
-            <Hunter.labelFemalePlural>caçadoras</Hunter.labelFemalePlural>
 
     <!-- Vanilla Factions Expanded - Insectoids -->
         <!-- Anti-Riot Unit -->
@@ -782,68 +671,6 @@
         <!-- Carpenter -->
             <VFE_Mech_Carpenter.label>carpinteiro</VFE_Mech_Carpenter.label>
 
-    <!-- Vanilla Factions Expanded - Medieval -->
-        <!-- Sellsword -->
-            <VFEM_SellSword.label>mercenário</VFEM_SellSword.label>
-            <VFEM_SellSword.labelMale>mercenário</VFEM_SellSword.labelMale>
-            <VFEM_SellSword.labelFemale>mercenária</VFEM_SellSword.labelFemale>
-            <VFEM_SellSword.labelPlural>mercenários</VFEM_SellSword.labelPlural>
-
-        <!-- Black Knight -->
-            <VFEM_BlackKnight.label>cavaleiro negro</VFEM_BlackKnight.label>
-            <VFEM_BlackKnight.labelMale>cavaleiro negro</VFEM_BlackKnight.labelMale>
-            <VFEM_BlackKnight.labelFemale>cavaleira negra</VFEM_BlackKnight.labelFemale>
-            <VFEM_BlackKnight.labelPlural>cavaleiros negros</VFEM_BlackKnight.labelPlural>
-
-        <!-- Knight In The Black -->
-            <VFEM_KnightInBlack.label>cavaleiro sombrio</VFEM_KnightInBlack.label>
-            <VFEM_KnightInBlack.labelMale>cavaleiro sombrio</VFEM_KnightInBlack.labelMale>
-            <VFEM_KnightInBlack.labelFemale>cavaleira sombria</VFEM_KnightInBlack.labelFemale>
-            <VFEM_KnightInBlack.labelPlural>cavaleiros sombiros</VFEM_KnightInBlack.labelPlural>
-
-        <!-- Peasant -->
-            <VFEM_Medieval_Peasant.label>camponês</VFEM_Medieval_Peasant.label>
-            <VFEM_Medieval_Peasant.labelPlural>camponeses</VFEM_Medieval_Peasant.labelPlural>
-
-        <!-- Merchant -->
-            <VFEM_Medieval_Merchant.label>comerciante</VFEM_Medieval_Merchant.label>
-            <VFEM_Medieval_Merchant.labelPlural>comerciantes</VFEM_Medieval_Merchant.labelPlural>
-
-        <!-- Squire -->
-            <VFEM_Medieval_Squire.label>escudeiro</VFEM_Medieval_Squire.label>
-            <VFEM_Medieval_Squire.labelPlural>escudeiros</VFEM_Medieval_Squire.labelPlural>
-
-        <!-- Bowman -->
-            <VFEM_Medieval_Bowman.label>arqueiro</VFEM_Medieval_Bowman.label>
-            <VFEM_Medieval_Bowman.labelPlural>arqueiros</VFEM_Medieval_Bowman.labelPlural>
-
-        <!-- Footsoldier -->
-            <VFEM_Medieval_Footsoldier.label>soldado de infantaria</VFEM_Medieval_Footsoldier.label>
-            <VFEM_Medieval_Footsoldier.labelPlural>soldados de infantaria</VFEM_Medieval_Footsoldier.labelPlural>
-
-        <!-- Knight -->
-            <VFEM_Medieval_Knight.label>cavaleiro</VFEM_Medieval_Knight.label>
-            <VFEM_Medieval_Knight.labelPlural>caveleiros</VFEM_Medieval_Knight.labelPlural>
-
-        <!-- Lord -->
-            <VFEM_Medieval_Lord.label>lorde</VFEM_Medieval_Lord.label>
-            <VFEM_Medieval_Lord.labelPlural>lordes</VFEM_Medieval_Lord.labelPlural>
-
-        <!-- Subject -->
-            <VFEM_Subject.label>subordinado</VFEM_Subject.label>
-            <VFEM_Subject.labelPlural>subordinados</VFEM_Subject.labelPlural>
-
-    <!-- Vanilla Factions Expanded - Settlers -->
-        <!-- Settler -->
-            <Settler.label>colonizador</Settler.label>
-            <Settler.labelPlural>colonizadores</Settler.labelPlural>
-
-        <!-- Bandit -->
-            <VFES_Bandit.label>bandido</VFES_Bandit.label>
-            <VFES_Bandit.labelPlural>bandidos</VFES_Bandit.labelPlural>
-            <Bandit.label>bandido</Bandit.label>
-            <Bandit.labelPlural>bandidos</Bandit.labelPlural>
-
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Human -->
             <VFEV_Member.label>membro</VFEV_Member.label>
@@ -909,11 +736,6 @@
             <VSE_ManInTheCoat.labelPlural>homens de casaco</VSE_ManInTheCoat.labelPlural>
             <VSE_ManInTheCoat.labelMalePlural>homens de casaco</VSE_ManInTheCoat.labelMalePlural>
             <VSE_ManInTheCoat.labelFemalePlural>mulheres de casaco</VSE_ManInTheCoat.labelFemalePlural>
-
-    <!-- Vanilla Weapons Expanded - Laser -->
-        <!-- Mercenary Marine-->
-            <Mercenary_Marine.label>fuzileiro naval mercenário</Mercenary_Marine.label>
-            <Mercenary_Marine.labelPlural>fuzileiros navais mercenários</Mercenary_Marine.labelPlural>
 
     <!-- VFE - Mechanoids : Unoffical Add-On -->
         <!-- Mender -->

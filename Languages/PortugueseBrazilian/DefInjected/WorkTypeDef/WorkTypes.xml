@@ -24,12 +24,4 @@
             <VBE_Writing.description>Execute trabalho de redação.</VBE_Writing.description>
             <VBE_Writing.verb>Escrever em</VBE_Writing.verb>
 
-    <!-- Vanilla Fishing Expanded -->
-        <!-- Fish -->
-	        <VCEF_Fishing.labelShort>Pescar</VCEF_Fishing.labelShort>
-	        <VCEF_Fishing.pawnLabel>Pescador(a)</VCEF_Fishing.pawnLabel>
-	        <VCEF_Fishing.gerundLabel>pescando</VCEF_Fishing.gerundLabel>
-	        <VCEF_Fishing.description>Pesque peixes em áreas de trabalho designadas.</VCEF_Fishing.description>
-	        <VCEF_Fishing.verb>Pescar</VCEF_Fishing.verb>
-
 </LanguageData>

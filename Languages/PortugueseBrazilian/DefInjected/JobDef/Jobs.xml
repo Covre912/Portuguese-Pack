@@ -80,9 +80,6 @@
     <!-- Vanilla Books Expanded -->
         <VBE_ReadBook.reportString>lendo.</VBE_ReadBook.reportString>
 
-    <!-- Vanilla Events Expanded -->
-        <HuntAndLeave.reportString>caçando TargetA.</HuntAndLeave.reportString>
-
     <!-- Vanilla Factions Expanded - Insectoids -->
         <VFEI_IngestWeird.reportString>consumindo TargetA.</VFEI_IngestWeird.reportString>
         <VFEI_InsertFirstGenomeJob.reportString>inserindo genoma.</VFEI_InsertFirstGenomeJob.reportString>
@@ -94,11 +91,6 @@
         <VFEM_Disassemble.reportString>dissimulando TargetA.</VFEM_Disassemble.reportString>
         <VFEM_RefuelSilo.reportString>reabastecendo TargetA.</VFEM_RefuelSilo.reportString>
 
-    <!-- Vanilla Factions Expanded - Medieval -->
-        <VFEM_EquipShield.reportString>equipando TargetA.</VFEM_EquipShield.reportString>
-        <VFEM_FillWineBarrel.reportString>preenchendo TargetA.</VFEM_FillWineBarrel.reportString>
-        <VFEM_TakeWineOutOfWineBarrel.reportString>retirando vinho de TargetA.</VFEM_TakeWineOutOfWineBarrel.reportString>
-
     <!-- Vanilla Factions Expanded - Vikings -->
         <Play_Hnefatafl.reportString>jogando tafl.</Play_Hnefatafl.reportString>
         <Play_TrainingDummy.reportString>treinando.</Play_TrainingDummy.reportString>
@@ -109,15 +101,6 @@
         <VFEV_ChangeFacepaint.reportString>pintando seu rosto em TargetA.</VFEV_ChangeFacepaint.reportString>
         <VFEV_IgniteWithTorches.reportString>acendendo TargetA com tochas.</VFEV_IgniteWithTorches.reportString>
         <VFEV_HypothermiaResponse.reportString>recuperando da hipotermia.</VFEV_HypothermiaResponse.reportString>
-
-    <!-- Vanilla Fishing Expanded -->
-        <VCEF_FishJob.reportString>pescando em TargetA.</VCEF_FishJob.reportString>
-
-    <!-- Vanilla Furniture Expanded - Power -->
-        <VPE_JobPlugHole.reportString>destruindo buraco.</VPE_JobPlugHole.reportString>
-
-    <!-- Vanilla Hair Expanded -->
-        <VHE_ChangeHairstyle.reportString>cortando o cabelo em TargetA.</VHE_ChangeHairstyle.reportString>
 
     <!-- Vanilla Social Interactions Expanded -->
         <VSIE_VentToFriend.reportString>desabafando para TargetA.</VSIE_VentToFriend.reportString>
@@ -134,9 +117,6 @@
         <VSIE_OneStandLovin.reportString>amando.</VSIE_OneStandLovin.reportString>
         <VSIE_WatchTelevisionTogether.reportString>assistindo televisão.</VSIE_WatchTelevisionTogether.reportString>
         <VSIE_HaveMealTogether.reportString>namorando.</VSIE_HaveMealTogether.reportString>
-
-    <!-- Vanilla Traits Expanded -->
-        <VTE_StealItems.reportString>roubando itens do TargetA.</VTE_StealItems.reportString>
 
     <!-- Zombieland -->
         <Stumble.reportString>tropeçando.</Stumble.reportString>

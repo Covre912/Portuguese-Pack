@@ -371,45 +371,6 @@
             <WMH_Wyvern.tools.3.label>cauda</WMH_Wyvern.tools.3.label>
             <WMH_Wyvern.verbs.0.label>cuspe ácido de wyvern</WMH_Wyvern.verbs.0.label>
 
-    <!-- Vanilla Animals Expanded - Australia -->
-        <!-- Boombat -->
-            <AEXP_Boombat.label>bumbate</AEXP_Boombat.label>
-            <AEXP_Boombat.description>Devido a algum experimento insano, esses roedores fofos criam uma poderosa explosão quando mortos.</AEXP_Boombat.description>
-            <AEXP_Boombat.tools.0.label>garra esquerda</AEXP_Boombat.tools.0.label>
-            <AEXP_Boombat.tools.1.label>garra direita</AEXP_Boombat.tools.1.label>
-            <AEXP_Boombat.tools.3.label>cabeça</AEXP_Boombat.tools.3.label>
-
-        <!-- Kangaroo -->
-            <AEXP_Kangaroo.label>canguru</AEXP_Kangaroo.label>
-            <AEXP_Kangaroo.description>O canguru é um grande marsupial de tamanho humano com pernas fortes e braços poderosos. É preferido pelos caçadores tribais devido à sua carne tenra e couro resistente ao calor. Os cangurus são adversários poderosos no combate corpo a corpo e podem ser facilmente treinados para se tornarem super-soldados animais.</AEXP_Kangaroo.description>
-            <AEXP_Kangaroo.tools.3.label>cabeça</AEXP_Kangaroo.tools.3.label>
-
-        <!-- Koala -->
-            <AEXP_Koala.label>coala</AEXP_Koala.label>
-            <AEXP_Koala.description>Coalas são facilmente reconhecíveis por seus corpos robustos e suas grandes cabeças redondas com orelhas fofas. Eles normalmente habitam florestas áridas e temperadas, mas raramente podem ser vistos em áreas tropicais. Favorecidos por famílias reais, os coalas são bons animais domésticos devido à sua doçura.</AEXP_Koala.description>
-            <AEXP_Koala.tools.0.label>garra esquerda</AEXP_Koala.tools.0.label>
-            <AEXP_Koala.tools.1.label>garra direita</AEXP_Koala.tools.1.label>
-            <AEXP_Koala.tools.3.label>cabeça</AEXP_Koala.tools.3.label>
-
-    <!-- Vanilla Animals Expanded - Boreal Forest --> 
-        <!-- Otter -->
-            <AEXP_Otter.label>lontra</AEXP_Otter.label>
-            <AEXP_Otter.description>Mamíferos longos, magros e semi-aquáticos que se alimentam principalmente de peixes e plantas pequenas. Eles são extremamente bons nadadores e podem prender a respiração debaixo d'água por um período prolongado de tempo.</AEXP_Otter.description>
-            <AEXP_Otter.tools.0.label>garra esquerda</AEXP_Otter.tools.0.label>
-            <AEXP_Otter.tools.1.label>garra direita</AEXP_Otter.tools.1.label>
-            <AEXP_Otter.tools.3.label>cabeça</AEXP_Otter.tools.3.label>
-
-        <!-- Artic Coyote -->
-            <AEXP_ArcticCoyote.label>coiote do ártico</AEXP_ArcticCoyote.label>
-            <AEXP_ArcticCoyote.description>Um pequeno canino nativo de tundras e florestas boreais. Capaz de caçar presas muito maiores e costuma ser encontrado em matilhas, semelhante a um lobo.</AEXP_ArcticCoyote.description>
-            <AEXP_ArcticCoyote.tools.0.label>guerra esquerda</AEXP_ArcticCoyote.tools.0.label>
-            <AEXP_ArcticCoyote.tools.1.label>guarra direita</AEXP_ArcticCoyote.tools.1.label>
-            <AEXP_ArcticCoyote.tools.3.label>cabeça</AEXP_ArcticCoyote.tools.3.label>
-
-        <!-- Black Bear -->
-            <AEXP_BlackBear.label>urso-negro</AEXP_BlackBear.label>
-            <AEXP_BlackBear.description>Um mamífero onívoro de tamanho médio adaptado para climas frios. A gordura e o pêlo dos ursos os mantêm aquecidos no inverno.\n\nEmbora sua dieta normal consista de peixes, frutas vermelhas, mel e carne de restos mortais, o urso-negro é capaz de usar sua força maciça e garras mortais para matar presas vivas. Eles são surpreendentemente rápidos para criaturas tão pesadas.</AEXP_BlackBear.description>
-
     <!-- Vanilla Animals Expanded - Endangered -->
         <!-- Black-Footed Ferret -->
             <AEXP_BlackFootedFerret.label>doninha-de-patas-pretas</AEXP_BlackFootedFerret.label>
@@ -488,26 +449,6 @@
             <AEXP_Pangolin.tools.1.label>garra direita</AEXP_Pangolin.tools.1.label>
             <AEXP_Pangolin.tools.3.label>cabeça</AEXP_Pangolin.tools.3.label>
 
-    <!-- Vanilla Animals Expanded - Ice Sheet -->
-        <!-- Penguin -->
-            <AEXP_Penguin.label>pinguim</AEXP_Penguin.label>
-            <AEXP_Penguin.description>Uma ave aquática que não voa, encontrada apenas nas regiões árticas. Frequentemente vistos em bandos enormes, os pinguins são ferozes quando encurralados e podem dominar rapidamente qualquer caçador incompetente.</AEXP_Penguin.description>
-            <AEXP_Penguin.tools.0.label>garras</AEXP_Penguin.tools.0.label>
-            <AEXP_Penguin.tools.1.label>bico</AEXP_Penguin.tools.1.label>
-            <AEXP_Penguin.tools.2.label>cabeça</AEXP_Penguin.tools.2.label>
-
-        <!-- Seal -->
-            <AEXP_Seal.label>foca</AEXP_Seal.label>
-            <AEXP_Seal.description>Um mamífero semi-aquático de tamanho médio, que só vem à costa para comer, acasalar e escapar de predadores. Sendo um caçador agressivo, as focas são capazes de atacar presas muito maiores e são conhecidas pelo canibalismo se a comida for escassa.</AEXP_Seal.description>
-            <AEXP_Seal.tools.0.label>nadadeira esquerda</AEXP_Seal.tools.0.label>
-            <AEXP_Seal.tools.1.label>nadadeira direita</AEXP_Seal.tools.1.label>
-            <AEXP_Seal.tools.3.label>cabeça</AEXP_Seal.tools.3.label>
-
-        <!-- Walrus -->
-            <AEXP_Walrus.label>morsa</AEXP_Walrus.label>
-            <AEXP_Walrus.description>Um grande animal marinho encontrado apenas nas regiões árticas do planeta, a morsa tem presas proeminentes que são um bem de luxo valioso em todo o planeta.</AEXP_Walrus.description>
-            <AEXP_Walrus.tools.1.label>cabeça</AEXP_Walrus.tools.1.label>
-
     <!-- Vanilla Animals Expanded - Temperate Forest -->
         <!-- Red Panda -->
             <AEXP_RedPanda.label>panda-vermelho</AEXP_RedPanda.label>
@@ -543,90 +484,6 @@
             <AEXP_Hedgehog.tools.0.label>garra esquerda</AEXP_Hedgehog.tools.0.label>
             <AEXP_Hedgehog.tools.1.label>garra direita</AEXP_Hedgehog.tools.1.label>
             <AEXP_Hedgehog.tools.3.label>cabeça</AEXP_Hedgehog.tools.3.label>
-
-    <!-- Vanilla Animals Expanded - Tropical Rainforest -->
-        <!-- Gorilla -->
-            <AEXP_Gorilla.label>gorila</AEXP_Gorilla.label>
-            <AEXP_Gorilla.description>Esses macacos herbívoros que vivem no solo são os maiores primatas vivos e são os parentes vivos mais próximos dos humanos, depois dos chimpanzés e bonobos. Como todos os grandes macacos, os braços do gorila são mais longos do que as pernas. Os gorilas costumam ser surpreendentemente tímidos, embora possam mostrar agressividade batendo no peito e atacando caso seu grupo social seja ameaçado.</AEXP_Gorilla.description>
-            <AEXP_Gorilla.tools.0.label>punho esquerdo</AEXP_Gorilla.tools.0.label>
-            <AEXP_Gorilla.tools.1.label>punho direito</AEXP_Gorilla.tools.1.label>
-            <AEXP_Gorilla.tools.3.label>cabeça</AEXP_Gorilla.tools.3.label>
-
-        <!-- Jaguar -->
-            <AEXP_Jaguar.label>onça-pintada</AEXP_Jaguar.label>
-            <AEXP_Jaguar.description>Uma grande espécie de felídeo e o único membro existente da fasmília da pantera. Este gato malhado se parece muito com o leopardo, mas geralmente é maior e mais robusto. A onça-pintada gosta de nadar e é, em grande parte, um predador solitário, oportunista, de perseguição e emboscada no topo da cadeia alimentar.</AEXP_Jaguar.description>
-
-        <!-- Lemur -->
-            <AEXP_Lemur.label>lêmure</AEXP_Lemur.label>
-            <AEXP_Lemur.description>Um pequeno primata, os lêmures são arbóreos e geralmente noturnos. Têm um focinho pontudo, olhos grandes e uma cauda longa. Embora sejam criaturas sociais, tradicionalmente são considerados menos inteligentes do que outros primatas, uma vez que não exibem comportamentos de uso de ferramentas na natureza.</AEXP_Lemur.description>
-            <AEXP_Lemur.tools.0.label>punho esquerdo</AEXP_Lemur.tools.0.label>
-            <AEXP_Lemur.tools.1.label>punho direito</AEXP_Lemur.tools.1.label>
-            <AEXP_Lemur.tools.3.label>cabeça</AEXP_Lemur.tools.3.label>
-
-        <!-- Mandrill -->
-            <AEXP_Mandrill.label>mandril</AEXP_Mandrill.label>
-            <AEXP_Mandrill.description>Mandris são os maiores de todos os macacos. Eles são primatas tímidos e reclusos que vivem apenas em florestas tropicais. Os mandris são extremamente coloridos, talvez mais do que qualquer outro mamífero. Eles são facilmente identificáveis ​​pela pele azul e vermelha em seus rostos.</AEXP_Mandrill.description>
-            <AEXP_Mandrill.tools.0.label>punho esquerdo</AEXP_Mandrill.tools.0.label>
-            <AEXP_Mandrill.tools.1.label>punho direito</AEXP_Mandrill.tools.1.label>
-            <AEXP_Mandrill.tools.3.label>cabeça</AEXP_Mandrill.tools.3.label>
-
-        <!-- Tapir -->
-            <AEXP_Tapir.label>anta</AEXP_Tapir.label>
-            <AEXP_Tapir.description>Um grande mamífero herbívoro, semelhante em forma a um porco, com um tronco de nariz curto, as antas habitam a selva e regiões florestais.</AEXP_Tapir.description>
-            <AEXP_Tapir.tools.1.label>cabeça</AEXP_Tapir.tools.1.label>
-
-        <!-- Tiger -->
-            <AEXP_Tiger.label>tigre</AEXP_Tiger.label>
-            <AEXP_Tiger.description>O tigre é a maior espécie de felinos. É mais reconhecível por suas listras verticais escuras em pele laranja-avermelhada com uma parte inferior mais clara. É um predador ápice, territorial e geralmente solitário. Na natureza, os tigres se alimentam principalmente de mamíferos de grande e médio porte.</AEXP_Tiger.description>
-            <AEXP_Tiger.tools.0.label>garra esquerda</AEXP_Tiger.tools.0.label>
-            <AEXP_Tiger.tools.1.label>garra direita</AEXP_Tiger.tools.1.label>
-            <AEXP_Tiger.tools.3.label>cabeça</AEXP_Tiger.tools.3.label>
-
-    <!-- Vanilla Animals Expanded - Tropical Swamp -->
-        <!-- Alligator -->
-            <AEXP_Alligator.label>jacaré</AEXP_Alligator.label>
-            <AEXP_Alligator.description>O jacaré é um grande réptil que habita os pântanos de água doce. Eles são predadores de ponta e consomem peixes, anfíbios, répteis, pássaros e mamíferos.</AEXP_Alligator.description>
-
-        <!-- Anaconda -->
-            <AEXP_Anaconda.label>sucuri</AEXP_Anaconda.label>
-            <AEXP_Anaconda.description>A sucuri é a espécie de cobra mais pesada e uma das mais longas conhecidas, podendo atingir 5 metros de comprimento. Elas são uma espécie principalmente noturna que tende a passar a maior parte de sua vida na água ou próximas a ela.</AEXP_Anaconda.description>
-            <AEXP_Anaconda.tools.1.label>cabeça</AEXP_Anaconda.tools.1.label>
-
-        <!-- Indian Elephant -->
-            <AEXP_IndianElephant.label>elefante-indiano</AEXP_IndianElephant.label>
-            <AEXP_IndianElephant.description>O elefante indiano é um dos maiores animais terrestres. Em geral, eles são menores, têm orelhas menores, mas crânios relativamente mais largos e trombas maiores do que os elefantes africanos.</AEXP_IndianElephant.description>
-            <AEXP_IndianElephant.tools.0.label>pé esquerdo</AEXP_IndianElephant.tools.0.label>
-            <AEXP_IndianElephant.tools.1.label>pé direito</AEXP_IndianElephant.tools.1.label>
-            <AEXP_IndianElephant.tools.2.label>cabeça</AEXP_IndianElephant.tools.2.label>
-
-    <!-- Vanilla Animals Expanded - Tundra -->
-        <!-- Musk Ox -->
-            <AEXP_Muskox.label>boi-almiscarado</AEXP_Muskox.label>
-            <AEXP_Muskox.description>Os bois-almiscarados são enormes mamíferos semelhantes a búfalos que vagam pelas áreas de tundra em busca de raízes, musgos e líquenes para sustentá-los. Por serem parentes dos múfalos, os bois-almiscarados podem ser usados ​​como animais de carga. Eles são conhecidos por sua pelagem espessa e pelo forte odor emitido durante o cio pelos machos.</AEXP_Muskox.description>
-            <AEXP_Muskox.tools.0.label>cabeça</AEXP_Muskox.tools.0.label>
-            <AEXP_Muskox.tools.1.label>casco esquerdo</AEXP_Muskox.tools.1.label>
-            <AEXP_Muskox.tools.2.label>casco direito</AEXP_Muskox.tools.2.label>
-
-        <!-- Moose -->
-            <AEXP_Moose.label>alce</AEXP_Moose.label>
-            <AEXP_Moose.description>O maior e mais pesado membro da família dos veados, bem adaptado à vida em climas frios. Podem ser facilmente identificados devido ao tamanho de seus chifres e às suas pernas longas e finas. Ao contrário da maioria das outras espécies de veados, os alces não formam rebanhos e são animais solitários. Embora geralmente se movam devagar e sejam sedentários, os alces podem se tornar agressivos e se mover rapidamente se ficarem irritados ou assustados.</AEXP_Moose.description>
-            <AEXP_Moose.tools.0.label>casco esquerdo</AEXP_Moose.tools.0.label>
-            <AEXP_Moose.tools.1.label>casco direito</AEXP_Moose.tools.1.label>
-            <AEXP_Moose.tools.3.label>cabeça</AEXP_Moose.tools.3.label>
-
-        <!-- Megawolverine -->
-            <AEXP_MegaWolverine.label>megaglutão</AEXP_MegaWolverine.label>
-            <AEXP_MegaWolverine.description>Um predador gigante, geneticamente modificado, com patas enormes para rasgar sua presa. O pêlo espesso permite que ele sobreviva aos climas mais frios, enquanto sua força lhe permite caçar até mesmo o maior dos mamíferos para se alimentar.</AEXP_MegaWolverine.description>
-            <AEXP_MegaWolverine.tools.0.label>garra esquerda</AEXP_MegaWolverine.tools.0.label>
-            <AEXP_MegaWolverine.tools.1.label>garra direita</AEXP_MegaWolverine.tools.1.label>
-            <AEXP_MegaWolverine.tools.3.label>cabeça</AEXP_MegaWolverine.tools.3.label>
-
-        <!-- Porcupine -->
-            <AEXP_Porcupine.label>porco-espinho</AEXP_Porcupine.label>
-            <AEXP_Porcupine.description>Um grande roedor com uma capa de espinhos afiados que o protege contra predadores.</AEXP_Porcupine.description>
-            <AEXP_Porcupine.tools.0.label>garra esquerda</AEXP_Porcupine.tools.0.label>
-            <AEXP_Porcupine.tools.1.label>garra direita</AEXP_Porcupine.tools.1.label>
-            <AEXP_Porcupine.tools.3.label>cabeça</AEXP_Porcupine.tools.3.label>
 
     <!-- Vanilla Factions Expanded - Insectoids -->
         <!-- Insectoid Queen -->

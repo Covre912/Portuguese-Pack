@@ -40,13 +40,6 @@
     <!-- Vanilla Books Expanded -->
         <VBE_Books.label>livros</VBE_Books.label>
 
-    <!-- Vanilla Brewing Expanded -->
-        <VBE_Drinks.label>bebidas</VBE_Drinks.label>
-        <VBE_DrinksSimpleSpirits.label>destilados simples</VBE_DrinksSimpleSpirits.label>
-        <VBE_DrinksLuxurySpirits.label>destilados luxuosos</VBE_DrinksLuxurySpirits.label>
-        <VBE_DrinksNonAlcoholic.label>bebidas não alcoólicas</VBE_DrinksNonAlcoholic.label>
-        <VBE_Musts.label>mostos e xaropes</VBE_Musts.label>
-
     <!-- Vanilla Cooking Expanded -->
         <VCE_Condiments.label>condimentos</VCE_Condiments.label>
         <VCE_Cheese.label>queijos</VCE_Cheese.label>
@@ -61,12 +54,6 @@
     <!-- Vanilla Factions Expanded - Vikings -->
         <WeaponsMeleeCrypto.label>cripto-armas</WeaponsMeleeCrypto.label>
         <WeaponsRangedCrypto.label>cripto-armas</WeaponsRangedCrypto.label>
-
-    <!-- Vanilla Fishing Expanded -->
-        <VCEF_RawFishCategory.label>peixes</VCEF_RawFishCategory.label>
-
-    <!-- Vanilla Plants Expanded -->
-        <VCE_Fruit.label>frutas</VCE_Fruit.label>
 
     <!-- Zombieland -->
         <Zombies.label>zumbis</Zombies.label>

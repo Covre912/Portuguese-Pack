@@ -657,79 +657,6 @@
             <VBE_JoyActivityInImpressiveLibraryRoom.stages.9.label>livraria maravilhosamente impressionante</VBE_JoyActivityInImpressiveLibraryRoom.stages.9.label>
             <VBE_JoyActivityInImpressiveLibraryRoom.stages.9.description>Eu me diverti muito em uma livraria maravilhosa. Eu poderia ficar lá para sempre.</VBE_JoyActivityInImpressiveLibraryRoom.stages.9.description>
 
-    <!-- Vanilla Brewing Expanded -->
-        <!-- Coffee -->
-            <VBE_HotCoffeeHigh.stages.0.label>despertar cafeinado</VBE_HotCoffeeHigh.stages.0.label>
-            <VBE_HotCoffeeHigh.stages.0.description>Aquele café atingiu o ponto, agora vamos trabalhar um pouco.</VBE_HotCoffeeHigh.stages.0.description>
-
-        <!-- Iced Coffee -->
-            <VBE_IcedCoffeeHigh.stages.0.label>despertar crio-cafeinado</VBE_IcedCoffeeHigh.stages.0.label>
-            <VBE_IcedCoffeeHigh.stages.0.description>Nada melhor do que café gelado para refrescar-se.</VBE_IcedCoffeeHigh.stages.0.description>
-
-        <!-- Caffeine Addiction -->
-            <VBE_CaffeineWithdrawal.stages.1.label>abstinência cafeínica</VBE_CaffeineWithdrawal.stages.1.label>
-            <VBE_CaffeineWithdrawal.stages.1.description>Deus, estou cansado. Tudo é tão irritante, minhas mãos estão tremendo e minha cabeça está latejando.</VBE_CaffeineWithdrawal.stages.1.description>
-
-        <!-- Energy Drink -->
-            <VBE_EnergyDrinkHigh.stages.0.label>frenético</VBE_EnergyDrinkHigh.stages.0.label>
-            <VBE_EnergyDrinkHigh.stages.0.description>Ufa, aquele energético me fez ricochetear nas paredes!</VBE_EnergyDrinkHigh.stages.0.description>
-
-        <!-- Cigarettes -->
-            <VBE_TobaccoHigh.stages.0.label>suave</VBE_TobaccoHigh.stages.0.label>
-            <VBE_TobaccoHigh.stages.0.description>Esse cigarro era exatamente o que eu precisava, um sabor tão suave.</VBE_TobaccoHigh.stages.0.description>
-
-        <!-- Cigars -->
-            <VBE_DeluxeTobaccoHigh.stages.0.label>bufando no luxo</VBE_DeluxeTobaccoHigh.stages.0.label>
-            <VBE_DeluxeTobaccoHigh.stages.0.description>Um charuto me faz sentir como se tivesse ganhado na vida.</VBE_DeluxeTobaccoHigh.stages.0.description>
-
-        <!-- Tobacco Addiction -->
-            <VBE_TobaccoWithdrawal.stages.1.label>abstinência tabaca</VBE_TobaccoWithdrawal.stages.1.label>
-            <VBE_TobaccoWithdrawal.stages.1.description>Eu realmente gostaria de fumar. Eu mataria alguém por um cigarro.</VBE_TobaccoWithdrawal.stages.1.description>
-
-        <!-- Soda -->
-            <VBE_DrankSoda.stages.0.label>açucarado</VBE_DrankSoda.stages.0.label>
-            <VBE_DrankSoda.stages.0.description>Bebi um refrigerante doce e gasoso, um luxo pequeno, mas bem-vindo.</VBE_DrankSoda.stages.0.description>
-
-        <!-- Tea -->
-            <VBE_DrankTea.stages.0.label>tasse de thé</VBE_DrankTea.stages.0.label>
-            <VBE_DrankTea.stages.0.description>Uma xícara de chá deliciosamente simples realmente ilumina o dia.</VBE_DrankTea.stages.0.description>
-
-        <!-- Cocktail -->
-            <VBE_TequilaAsIngredient.stages.0.label>bebeu coquetel com tequila</VBE_TequilaAsIngredient.stages.0.label>
-            <VBE_TequilaAsIngredient.stages.0.description>Delicioso.</VBE_TequilaAsIngredient.stages.0.description>
-            <VBE_WhiskeyAsIngredient.stages.0.label>bebeu coquetel com uísque</VBE_WhiskeyAsIngredient.stages.0.label>
-            <VBE_WhiskeyAsIngredient.stages.0.description>Delicioso.</VBE_WhiskeyAsIngredient.stages.0.description>
-            <VBE_VodkaAsIngredient.stages.0.label>bebeu coquetel com vodca</VBE_VodkaAsIngredient.stages.0.label>
-            <VBE_VodkaAsIngredient.stages.0.description>Delicioso.</VBE_VodkaAsIngredient.stages.0.description>
-            <VBE_GinAsIngredient.stages.0.label>bebeu coquetel com gim</VBE_GinAsIngredient.stages.0.label>
-            <VBE_GinAsIngredient.stages.0.description>Delicioso.</VBE_GinAsIngredient.stages.0.description>
-            <VBE_AmbrandyAsIngredient.stages.0.label>bebeu coquetel com ambrandia</VBE_AmbrandyAsIngredient.stages.0.label>
-            <VBE_AmbrandyAsIngredient.stages.0.description>Delicioso.</VBE_AmbrandyAsIngredient.stages.0.description>
-            <VBE_RBMeadAsIngredient.stages.0.label>bebeu coquetel com hidromel</VBE_RBMeadAsIngredient.stages.0.label>
-            <VBE_RBMeadAsIngredient.stages.0.description>Delicioso.</VBE_RBMeadAsIngredient.stages.0.description>
-            <VBE_WineAsIngredient.stages.0.label>bebeu coquetel com vinho</VBE_WineAsIngredient.stages.0.label>
-            <VBE_WineAsIngredient.stages.0.description>Delicioso.</VBE_WineAsIngredient.stages.0.description>
-            <VBE_ChemshineAsIngredient.stages.0.label>bebeu coquetel com jägermeister</VBE_ChemshineAsIngredient.stages.0.label>
-            <VBE_ChemshineAsIngredient.stages.0.description>Delicioso.</VBE_ChemshineAsIngredient.stages.0.description>
-            <VBE_CiderAsIngredient.stages.0.label>bebeu coquetel com sidra</VBE_CiderAsIngredient.stages.0.label>
-            <VBE_CiderAsIngredient.stages.0.description>>Delicioso.</VBE_CiderAsIngredient.stages.0.description>
-
-        <!-- Luciferium Powder  -->
-            <VBE_ConsumedLuciferiumPowder.stages.0.label>consumiu pó de lucifério</VBE_ConsumedLuciferiumPowder.stages.0.label>
-            <VBE_ConsumedLuciferiumPowder.stages.0.description>Delicioso.</VBE_ConsumedLuciferiumPowder.stages.0.description>
-
-        <!-- Go-Juice Stock-->
-            <VBE_ConsumedGoStock.stages.0.label>consumiu gelatina de suco-tirbo</VBE_ConsumedGoStock.stages.0.label>
-            <VBE_ConsumedGoStock.stages.0.description>Delicioso.</VBE_ConsumedGoStock.stages.0.description>
-
-        <!-- Wake-Up Powder -->
-            <VBE_ConsumedWakeupPowder.stages.0.label>consumiu pó de despertar</VBE_ConsumedWakeupPowder.stages.0.label>
-            <VBE_ConsumedWakeupPowder.stages.0.description>Delicioso.</VBE_ConsumedWakeupPowder.stages.0.description>
-
-        <!-- Cider -->
-            <VBE_CiderHigh.stages.0.label>calor sidônio</VBE_CiderHigh.stages.0.label>
-            <VBE_CiderHigh.stages.0.description>Só me sinto um pouco mais relaxado depois daquela bebida. Isso é bom.</VBE_CiderHigh.stages.0.description>
-
     <!-- Vanilla Brewing Expanded - Coffees and Teas -->    
         <!-- Black Tea -->
             <VBE_DrankBlackTea.stages.0.label>chá inspirador</VBE_DrankBlackTea.stages.0.label>
@@ -913,11 +840,6 @@
             <VCE_AteFriedSushi.stages.0.label>comeu sushi frito</VCE_AteFriedSushi.stages.0.label>
             <VCE_AteFriedSushi.stages.0.description>Comida gordurosa. Delicioso.</VCE_AteFriedSushi.stages.0.description>
 
-    <!-- Vanilla Events Expanded -->
-        <!-- Aurora -->
-            <Aurora.stages.0.label>aurora linda</Aurora.stages.0.label>
-            <Aurora.stages.0.description>A vista é incrível.</Aurora.stages.0.description>
-
     <!-- Vanilla Factions Expanded - Insectoids -->
         <!-- Royal Jelly -->
             <VFEI_RoyalJellyWithdrawal.stages.1.label>abstinência de geleia real</VFEI_RoyalJellyWithdrawal.stages.1.label>
@@ -936,27 +858,6 @@
         <!-- Sticky -->
             <VFEI_Sticky.stages.0.label>pegajoso</VFEI_Sticky.stages.0.label>
             <VFEI_Sticky.stages.0.description>Estou pegajoso(a)! Não gosto disso.</VFEI_Sticky.stages.0.description>
-
-    <!-- Vanilla Factions Expanded - Medieval -->
-        <!-- Wine -->
-            <VFEM_DrankWine.stages.0.label>bebeu vinho horrível</VFEM_DrankWine.stages.0.label>
-            <VFEM_DrankWine.stages.0.description>Bebi um pouco de mosto que mal teve tempo de fermentar. Nojento.</VFEM_DrankWine.stages.0.description>
-            <VFEM_DrankWine.stages.1.label>bebeu vinho pobre</VFEM_DrankWine.stages.1.label>
-            <VFEM_DrankWine.stages.1.description>Esse vinho poderia ter tido mais alguns dias para fermentar. Não era horrível, mas também não era bom.</VFEM_DrankWine.stages.1.description>
-            <VFEM_DrankWine.stages.2.label>bebeu vinho</VFEM_DrankWine.stages.2.label>
-            <VFEM_DrankWine.stages.3.label>bebeu vinho bom</VFEM_DrankWine.stages.3.label>
-            <VFEM_DrankWine.stages.3.description>Bebi um bom vinho.</VFEM_DrankWine.stages.3.description>
-            <VFEM_DrankWine.stages.4.label>bebeu vinho excelente</VFEM_DrankWine.stages.4.label>
-            <VFEM_DrankWine.stages.4.description>Bebi um bom vinho. Você pode dizer que teve um bom tempo para fermentar.</VFEM_DrankWine.stages.4.description>
-            <VFEM_DrankWine.stages.5.label>bebeu vinho obra-prima</VFEM_DrankWine.stages.5.label>
-            <VFEM_DrankWine.stages.5.description>Aquele vinho era simplesmente incrível! Não existe nada melhor do que isso.</VFEM_DrankWine.stages.5.description>
-            <VFEM_DrankWine.stages.6.label>bebeu vinho lendário</VFEM_DrankWine.stages.6.label>
-            <VFEM_DrankWine.stages.6.description>Eu bebi um dos melhores vinhos que já provei!</VFEM_DrankWine.stages.6.description>
-
-    <!-- Vanilla Factions Expanded - Settlers -->
-        <!-- Chemshined -->
-            <Chemshined.label>energizado</Chemshined.label>
-            <Chemshined.description>Sinto-me energizado, estou pegando fogo, veja!</Chemshined.description>
 
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Successful Hunt! -->
@@ -986,16 +887,6 @@
             <VFEV_AttendedFeast.stages.0.description>Eu me diverti muito no banquete!</VFEV_AttendedFeast.stages.0.description>
             <VFEV_TakingPartInFeast.stages.0.label>participando de um banquete</VFEV_TakingPartInFeast.stages.0.label>
             <VFEV_TakingPartInFeast.stages.0.description>Estou me divertindo!</VFEV_TakingPartInFeast.stages.0.description>
-
-    <!-- Vanilla Fishing Expanded -->
-        <!-- Fishing -->
-            <VCEF_FishingThought.stages.relaxing_fishing_session.label>pescaria relaxante</VCEF_FishingThought.stages.relaxing_fishing_session.label>
-	        <VCEF_FishingThought.stages.relaxing_fishing_session.description>Não há nada melhor para relaxar do que uma bela pescaria.</VCEF_FishingThought.stages.relaxing_fishing_session.description>
-
-    <!-- Vanilla Furniture Expanded - Art -->
-        <!-- Imprited -->
-            <VFE_ArchotechSculptureImprint.stages.0.label>impressionado</VFE_ArchotechSculptureImprint.stages.0.label>
-            <VFE_ArchotechSculptureImprint.stages.0.description>A escultura arcotecnológica me faz ver constantemente uma bela obra de arte. Isso me deixa relaxado(a).</VFE_ArchotechSculptureImprint.stages.0.description>
 
     <!-- Vanilla Social Interactions Expanded -->
         <!-- Inspiration Satisfied -->
@@ -1134,123 +1025,6 @@
             <VFEV_RaidRestlessness.stages.3.description>Tantos luxos ao nosso alcance, mas somos covardes demais para massacrar nossos inimigos e tirar suas riquezas?</VFEV_RaidRestlessness.stages.3.description>
             <VFEV_RaidRestlessness.stages.4.label>inquieto (x4)</VFEV_RaidRestlessness.stages.4.label>
             <VFEV_RaidRestlessness.stages.4.description>Eu perdi todas as esperanças - não há como continuarmos assim, temo que nosso povo e nossa história nunca serão lembrados.</VFEV_RaidRestlessness.stages.4.description>
-
-    <!-- Vanilla Traits Expanded -->
-        <!-- Perfectionist -->
-            <VTE_CreatedLowQualityItem.stages.0.label>criou item de baixa qualidade</VTE_CreatedLowQualityItem.stages.0.label>
-            <VTE_CreatedLowQualityItem.stages.0.description>Eu criei lixo. Eu sinto que não consigo fazer nada certo.</VTE_CreatedLowQualityItem.stages.0.description>
-            <VTE_CouldNotFinishItem.stages.0.label>Não pôde terminar o item</VTE_CouldNotFinishItem.stages.0.label>
-            <VTE_CouldNotFinishItem.stages.0.description>Não consegui terminar meu projeto, simplesmente não estava indo bem.</VTE_CouldNotFinishItem.stages.0.description>
-
-        <!-- Neat -->
-            <VTE_PassionateCleaningWork.stages.0.label>limpando</VTE_PassionateCleaningWork.stages.0.label>
-            <VTE_PassionateCleaningWork.stages.0.description>Na verdade, eu realmente gosto de organizar e limpar o lugar.</VTE_PassionateCleaningWork.stages.0.description>
-
-        <!-- Vengeful -->
-            <VTE_MyRivalsAreAlive.stages.0.label>meus rivais estão vivos</VTE_MyRivalsAreAlive.stages.0.label>
-            <VTE_MyRivalsAreAlive.stages.0.description>Eu os odeio. Por que merecem viver?</VTE_MyRivalsAreAlive.stages.0.description>
-
-        <!-- Technophobe -->
-            <VTE_MechanoidIsKilled.stages.0.label>mecanoide morreu</VTE_MechanoidIsKilled.stages.0.label>
-            <VTE_MechanoidIsKilled.stages.0.description>Essas máquinas do mal não merecem funcionar.</VTE_MechanoidIsKilled.stages.0.description>
-
-       <!-- Squeamish -->
-            <VTE_ObservedManyBlood.stages.0.label>observou muito sangue</VTE_ObservedManyBlood.stages.0.label>
-            <VTE_ObservedManyBlood.stages.0.description>Eu vi muito sangue. Só de lembrar me dá ânsia de vômito.</VTE_ObservedManyBlood.stages.0.description>
-
-        <!-- Couch Potato -->
-            <VTE_WatchedTelevisor.stages.0.label>assistiu televisão recentemente</VTE_WatchedTelevisor.stages.0.label>
-            <VTE_WatchedTelevisor.stages.0.description>Eu tenho que descansar e acompanhar meus programas.</VTE_WatchedTelevisor.stages.0.description>
-
-      <!-- Prodigy -->
-            <VTE_NoDedicatedLaboratory.stages.0.label>sem laboratório dedicado</VTE_NoDedicatedLaboratory.stages.0.label>
-            <VTE_NoDedicatedLaboratory.stages.0.description>Não tenho onde estudar em paz, que chato.</VTE_NoDedicatedLaboratory.stages.0.description>
-
-        <!-- Menagerist -->
-            <VTE_AnimalsInColony.stages.0.label>nenhum animal na colônia</VTE_AnimalsInColony.stages.0.label>
-            <VTE_AnimalsInColony.stages.0.description>Não temos um único animal.</VTE_AnimalsInColony.stages.0.description>
-            <VTE_AnimalsInColony.stages.1.label>quase nenhum animal na colônia</VTE_AnimalsInColony.stages.1.label>
-            <VTE_AnimalsInColony.stages.1.description>Quase não temos animais na colônia, isso é uma merda.</VTE_AnimalsInColony.stages.1.description>
-            <VTE_AnimalsInColony.stages.2.label>quase nenhum animal na colônia</VTE_AnimalsInColony.stages.2.label>
-            <VTE_AnimalsInColony.stages.2.description>Quase não temos animais na colônia, é alguma coisa eu acho.</VTE_AnimalsInColony.stages.2.description>
-            <VTE_AnimalsInColony.stages.3.label>quase nenhum animal na colônia</VTE_AnimalsInColony.stages.3.label>
-            <VTE_AnimalsInColony.stages.3.description>Quase não temos animais na colônia, é alguma coisa eu acho.</VTE_AnimalsInColony.stages.3.description>
-            <VTE_AnimalsInColony.stages.4.label>alguns animais na colônia</VTE_AnimalsInColony.stages.4.label>
-            <VTE_AnimalsInColony.stages.4.description>Temos alguns animais na colônia, isso é bom.</VTE_AnimalsInColony.stages.4.description>
-            <VTE_AnimalsInColony.stages.5.label>alguns animais na colônia</VTE_AnimalsInColony.stages.5.label>
-            <VTE_AnimalsInColony.stages.5.description>Temos alguns animais na colônia, isso é bom.</VTE_AnimalsInColony.stages.5.description>
-            <VTE_AnimalsInColony.stages.6.label>alguns animais da colônia</VTE_AnimalsInColony.stages.6.label>
-            <VTE_AnimalsInColony.stages.6.description>Temos uma quantidade razoável de animais agora, estamos chegando lá.</VTE_AnimalsInColony.stages.6.description>
-            <VTE_AnimalsInColony.stages.7.label>alguns animais da colônia</VTE_AnimalsInColony.stages.7.label>
-            <VTE_AnimalsInColony.stages.7.description>Temos uma quantidade razoável de animais agora, estamos chegando lá.</VTE_AnimalsInColony.stages.7.description>
-            <VTE_AnimalsInColony.stages.8.label>alguns animais da colônia</VTE_AnimalsInColony.stages.8.label>
-            <VTE_AnimalsInColony.stages.8.description>Temos uma quantidade razoável de animais agora, estamos chegando lá.</VTE_AnimalsInColony.stages.8.description>
-            <VTE_AnimalsInColony.stages.9.label>alguns animais da colônia</VTE_AnimalsInColony.stages.9.label>
-            <VTE_AnimalsInColony.stages.9.description>Temos uma quantidade razoável de animais agora, estamos chegando lá.</VTE_AnimalsInColony.stages.9.description>
-            <VTE_AnimalsInColony.stages.10.label>muitos animais na colônia</VTE_AnimalsInColony.stages.10.label>
-            <VTE_AnimalsInColony.stages.10.description>Temos muitos animais na colônia agora, eles são maravilhosos.</VTE_AnimalsInColony.stages.10.description>
-            <VTE_AnimalsInColony.stages.11.label>muitos animais na colônia</VTE_AnimalsInColony.stages.11.label>
-            <VTE_AnimalsInColony.stages.11.description>Temos muitos animais na colônia agora, eles são maravilhosos.</VTE_AnimalsInColony.stages.11.description>
-            <VTE_AnimalsInColony.stages.12.label>muitos animais na colônia</VTE_AnimalsInColony.stages.12.label>
-            <VTE_AnimalsInColony.stages.12.description>Temos muitos animais na colônia agora, eles são maravilhosos.</VTE_AnimalsInColony.stages.12.description>
-            <VTE_AnimalsInColony.stages.13.label>uma tonelada de animais na colônia</VTE_AnimalsInColony.stages.13.label>
-            <VTE_AnimalsInColony.stages.13.description>Temos tantos animais agora! Fico muito feliz em ver todos eles!</VTE_AnimalsInColony.stages.13.description>
-            <VTE_AnimalsInColony.stages.14.label>uma tonelada de animais na colônia</VTE_AnimalsInColony.stages.14.label>
-            <VTE_AnimalsInColony.stages.14.description>Temos tantos animais agora! Fico muito feliz em ver todos eles!</VTE_AnimalsInColony.stages.14.description>
-            <VTE_AnimalsInColony.stages.15.label>uma tonelada de animais na colônia</VTE_AnimalsInColony.stages.15.label>
-            <VTE_AnimalsInColony.stages.15.description>Temos tantos animais agora! Fico muito feliz em ver todos eles!</VTE_AnimalsInColony.stages.15.description>
-
-        <!-- Ocean Lover -->
-            <VTE_ChildOfSea.stages.0.label>amante do oceano</VTE_ChildOfSea.stages.0.label>
-            <VTE_ChildOfSea.stages.0.description>Eu adoro estar perto do oceano e dos rios, a água é linda.</VTE_ChildOfSea.stages.0.description>
-            <VTE_SoakingWetChildOfTheSea.stages.0.label>encharcado(a)</VTE_SoakingWetChildOfTheSea.stages.0.label>
-            <VTE_SoakingWetChildOfTheSea.stages.0.description>Estou encharcado(a). Adoro isso!</VTE_SoakingWetChildOfTheSea.stages.0.description>
-
-        <!-- Mountain Lover -->
-            <VTE_ChildOfMountain.stages.0.label>amante de montanhas</VTE_ChildOfMountain.stages.0.label>
-            <VTE_ChildOfMountain.stages.0.description>Eu adoro estar perto das montanhas, elas me tiram o fôlego.</VTE_ChildOfMountain.stages.0.description>
-            <VTE_EnvironmentDark.stages.0.label>escuridão</VTE_EnvironmentDark.stages.0.label>
-            <VTE_EnvironmentDark.stages.0.description>Eu estive no escuro por um tempo. Gosto disso.</VTE_EnvironmentDark.stages.0.description>
-
-        <!-- Mad Surgeon -->
-            <VTE_HaventHarvestedOrgansForLongTime.stages.0.label>não colheu órgãos</VTE_HaventHarvestedOrgansForLongTime.stages.0.label>
-            <VTE_HaventHarvestedOrgansForLongTime.stages.0.description>Estou ficando impaciente e entediado, preciso de mais assuntos.</VTE_HaventHarvestedOrgansForLongTime.stages.0.description>
-            <VTE_HarvestedOrgans.stages.0.label>colheu órgãos</VTE_HarvestedOrgans.stages.0.label>
-            <VTE_HarvestedOrgans.stages.0.description>A operação correu como o esperado, minha coleção cresceu!</VTE_HarvestedOrgans.stages.0.description>
-
-        <!-- Wanderlust -->
-            <VTE_HaventExitedColonyForLongTime.stages.0.label>não saiu da colônia</VTE_HaventExitedColonyForLongTime.stages.0.label>
-            <VTE_HaventExitedColonyForLongTime.stages.0.description>Faz algum tempo que não saio de casa, gostaria muito de viajar, para variar.</VTE_HaventExitedColonyForLongTime.stages.0.description>
-
-        <!-- Dunce -->
-            <VTE_Dunce.stages.0.label>burro</VTE_Dunce.stages.0.label>
-            <VTE_Dunce.stages.0.description>Eu realmente não entendo por que todo mundo está tão chateado o tempo todo.</VTE_Dunce.stages.0.description>
-
-        <!-- Animal Hater -->
-            <VTE_BondedAnimalDiedHater.stages.0.label>animal vinculado {0} morreu</VTE_BondedAnimalDiedHater.stages.0.label>
-            <VTE_BondedAnimalDiedHater.stages.0.description>Um animal tão nojento e irritante. Estou feliz que tenha ido embora!</VTE_BondedAnimalDiedHater.stages.0.description>
-            <VTE_BondedAnimalLostHater.stages.0.label>animal vinculado {0} perdido</VTE_BondedAnimalLostHater.stages.0.label>
-            <VTE_BondedAnimalLostHater.stages.0.description>Um animal tão nojento e irritante. Estou feliz que tenha ido embora!</VTE_BondedAnimalLostHater.stages.0.description>
-            <VTE_BondedAnimalBanishedHater.stages.0.label>animal vinculado {0} banido</VTE_BondedAnimalBanishedHater.stages.0.label>
-            <VTE_BondedAnimalBanishedHater.stages.0.description>Meu animal vinculado foi banido, finalmente.</VTE_BondedAnimalBanishedHater.stages.0.description>
-            <VTE_NuzzledHater.stages.0.label>acariciado</VTE_NuzzledHater.stages.0.label>
-            <VTE_NuzzledHater.stages.0.description>Um animal nojento me acariciou.</VTE_NuzzledHater.stages.0.description>
-            <VTE_KilledMyBondedAnimalHater.stages.0.label>matou meu animal vinculado</VTE_KilledMyBondedAnimalHater.stages.0.label>
-            <VTE_SoldMyBondedAnimalHater.stages.0.label>animal vinculado doado.</VTE_SoldMyBondedAnimalHater.stages.0.label>
-            <VTE_SoldMyBondedAnimalHater.stages.0.labelSocial>doou meu animal vinculado.</VTE_SoldMyBondedAnimalHater.stages.0.labelSocial>
-            <VTE_SoldMyBondedAnimalHater.stages.0.description>Meu desagradável animal vinculado foi doado, já estava na hora!</VTE_SoldMyBondedAnimalHater.stages.0.description>
-            <VTE_SoldMyBondedAnimalMoodHater.stages.0.label>animal vinculado doado.</VTE_SoldMyBondedAnimalMoodHater.stages.0.label>
-            <VTE_SoldMyBondedAnimalMoodHater.stages.0.labelSocial>doou meu animal vinculado.</VTE_SoldMyBondedAnimalMoodHater.stages.0.labelSocial>
-            <VTE_SoldMyBondedAnimalMoodHater.stages.0.description>Meu desagradável animal vinculado foi doado, já estava na hora!</VTE_SoldMyBondedAnimalMoodHater.stages.0.description>
-            <VTE_KilledColonyAnimalHater.stages.0.label>matou um animal da colônia</VTE_KilledColonyAnimalHater.stages.0.label>
-            <VTE_BondedAnimalMasterHater.stages.0.label>mestre de {0}</VTE_BondedAnimalMasterHater.stages.0.label>
-            <VTE_BondedAnimalMasterHater.stages.0.description>Estar perto daquela coisa desagradável me faz odiar a própria vida.</VTE_BondedAnimalMasterHater.stages.0.description>
-            <VTE_BondedAnimalMasterHater.stages.1.label>mestre de {0}</VTE_BondedAnimalMasterHater.stages.1.label>
-            <VTE_BondedAnimalMasterHater.stages.1.description>Estar perto daquela coisa desagradável me faz odiar a própria vida.</VTE_BondedAnimalMasterHater.stages.1.description>
-            <VTE_NotBondedAnimalMasterHater.stages.0.label>não é mestre de {0}</VTE_NotBondedAnimalMasterHater.stages.0.label>
-            <VTE_NotBondedAnimalMasterHater.stages.0.description>Essa coisa pode gostar de mim, mas eu certamente não gosto dela de volta - estou feliz que outra pessoa a tenha pego.</VTE_NotBondedAnimalMasterHater.stages.0.description>
-            <VTE_NotBondedAnimalMasterHater.stages.1.label>não é mestre de {0}</VTE_NotBondedAnimalMasterHater.stages.1.label>
-            <VTE_NotBondedAnimalMasterHater.stages.1.description>Essa coisa pode gostar de mim, mas eu certamente não gosto dela de volta - estou feliz que outra pessoa a tenha pego.</VTE_NotBondedAnimalMasterHater.stages.1.description>
 
     <!-- Xenohumans - Anthromorphs -->
         <!-- Designer Mate -->

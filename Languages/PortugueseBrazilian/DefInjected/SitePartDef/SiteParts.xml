@@ -97,20 +97,6 @@
             <VFEV_BroadcastingStation.label>estação de transmissão abandonada</VFEV_BroadcastingStation.label>
             <VFEV_BroadcastingStation.description>Uma estação de transmissão abandonada.</VFEV_BroadcastingStation.description>
 
-    <!-- Vanilla Factions Expanded - Medieval -->
-        <!-- Castle Ruins -->
-            <VFEM_CastleRuins.label>ruínas do castelo</VFEM_CastleRuins.label>
-            <VFEM_CastleRuins.description>Ruínas recém-descobertas que podem conter itens valiosos.</VFEM_CastleRuins.description>
-
-    <!-- Vanilla Factions Expanded - Settlers -->
-        <!-- Wanted Hideout -->
-            <WantedHideout.label>esconderijo segur</WantedHideout.label>
-            <WantedHideout.description>Um esconderijo seguro para um criminoso procurado.</WantedHideout.description>
-
-        <!-- Caravan Raid -->
-            <CaravanRaid.label>parada de caravana</CaravanRaid.label>
-            <CaravanRaid.description>Uma caravana desconhecida.</CaravanRaid.description>
-
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Ancient Ruins -->
             <VFEV_AncientRuins.label>ruínas antigas</VFEV_AncientRuins.label>

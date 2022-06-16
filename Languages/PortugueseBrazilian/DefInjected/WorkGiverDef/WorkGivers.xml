@@ -107,12 +107,6 @@
             <VBE_DoBillsWrite.verb>escrever</VBE_DoBillsWrite.verb>
             <VBE_DoBillsWrite.gerund>escrevendo em</VBE_DoBillsWrite.gerund>
 
-    <!-- Vanilla Brewing Expanded -->
-        <!-- Mix -->
-            <VBE_DoBillsBar.label>misturar bebidas no bar</VBE_DoBillsBar.label>
-            <VBE_DoBillsBar.verb>misturar bebidas</VBE_DoBillsBar.verb>
-            <VBE_DoBillsBar.gerund>misturando bebidas em</VBE_DoBillsBar.gerund>
-
     <!-- Vanilla Brewing Expanded - Coffees and Teas -->
         <!-- Brew -->
             <VBE_DoBillsEspressoMachine.label>fermentar na máquina de espresso</VBE_DoBillsEspressoMachine.label>
@@ -158,28 +152,6 @@
             <VFEI_InsertThirdGenome.verb>inserir genoma na incubadora</VFEI_InsertThirdGenome.verb>
             <VFEI_InsertThirdGenome.gerund>inserindo genoma na incubadora</VFEI_InsertThirdGenome.gerund>
 
-    <!-- Vanilla Factions Expanded - Medieval -->
-        <!-- Take Wine -->
-            <VFEM_TakeBeerOutOfWineBarrel.label>retirar vinho dos barris</VFEM_TakeBeerOutOfWineBarrel.label>
-            <VFEM_TakeBeerOutOfWineBarrel.verb>retirar vinho</VFEM_TakeBeerOutOfWineBarrel.verb>
-            <VFEM_TakeBeerOutOfWineBarrel.gerund>retirando vinho de</VFEM_TakeBeerOutOfWineBarrel.gerund>
-
-        <!-- Fill Wine -->
-            <VFEM_FillWineBarrel.label>preencher barris de vinho</VFEM_FillWineBarrel.label>
-            <VFEM_FillWineBarrel.verb>preencher</VFEM_FillWineBarrel.verb>
-            <VFEM_FillWineBarrel.gerund>preenchendo</VFEM_FillWineBarrel.gerund>
-
-    <!-- Vanilla Factions Expanded - Settlers -->
-        <!-- Take Chemshine -->
-            <TakeChemshineOutOfChemshineBarrel.label>retirar jägermeister dos barris</TakeChemshineOutOfChemshineBarrel.label>
-            <TakeChemshineOutOfChemshineBarrel.verb>retirar jägermeister</TakeChemshineOutOfChemshineBarrel.verb>
-            <TakeChemshineOutOfChemshineBarrel.gerund>retirando jägermeister de</TakeChemshineOutOfChemshineBarrel.gerund>
-
-        <!-- Fill Chemshine -->
-            <FillChemshineBarrel.label>preencher barris de jägermeister</FillChemshineBarrel.label>
-            <FillChemshineBarrel.verb>preencher</FillChemshineBarrel.verb>
-            <FillChemshineBarrel.gerund>preenchendo</FillChemshineBarrel.gerund>
-
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Bring Honey -->
             <VFEV_FillMeadBarrel.label>transporte de mel</VFEV_FillMeadBarrel.label>
@@ -200,56 +172,6 @@
             <VFEV_endToTheApiary.label>apicultura</VFEV_endToTheApiary.label>
             <VFEV_endToTheApiary.verb>cuidar de apiário</VFEV_endToTheApiary.verb>
             <VFEV_endToTheApiary.gerund>cuidando de</VFEV_endToTheApiary.gerund>
-
-    <!-- Vanilla Fishing Expanded -->
-        <!-- Fish -->
-	        <VCEF_Fish.label>pescar</VCEF_Fish.label>
-	        <VCEF_Fish.verb>pescar</VCEF_Fish.verb>
-	        <VCEF_Fish.gerund>pescando em</VCEF_Fish.gerund>
-
-    <!-- Vanilla Furniture Expanded - Power -->
-        <!-- Gas Powered Crematorium -->
-            <VPE_DoBillsGasCrematorium.label>trabalhar em crematório a gás</VPE_DoBillsGasCrematorium.label>
-            <VPE_DoBillsGasCrematorium.verb>trabalhar em crematório</VPE_DoBillsGasCrematorium.verb>
-            <VPE_DoBillsGasCrematorium.gerund>trabalhando em </VPE_DoBillsGasCrematorium.gerund>
-            <VPE_BurnGasCrematorium.label>queimar em crematório a gás</VPE_BurnGasCrematorium.label>
-            <VPE_BurnGasCrematorium.verb>queimar em crematório</VPE_BurnGasCrematorium.verb>
-            <VPE_BurnGasCrematorium.gerund>queimando em</VPE_BurnGasCrematorium.gerund>
-
-        <!-- Gas Smelter -->
-            <VPE_DoBillsGasSmelter.label>trabalhar em forno de fundição a gás</VPE_DoBillsGasSmelter.label>
-            <VPE_DoBillsGasSmelter.verb>trabalhar em forno de fundição</VPE_DoBillsGasSmelter.verb>
-            <VPE_DoBillsGasSmelter.gerund>trabalhando em</VPE_DoBillsGasSmelter.gerund>
-
-        <!-- Gas Stove -->
-            <VPE_DoBillsGasStove.label>cozinhar refeições em fogão</VPE_DoBillsGasStove.label>
-            <VPE_DoBillsGasStove.verb>cozinhar refeições em fogão</VPE_DoBillsGasStove.verb>
-            <VPE_DoBillsGasStove.gerund>cozinhando refeições em</VPE_DoBillsGasStove.gerund>
-
-        <!-- Gas Smithy -->
-            <VPE_DoBillsGasSmithy.label>fazer armas</VPE_DoBillsGasSmithy.label>
-            <VPE_DoBillsGasSmithy.verb>forjar</VPE_DoBillsGasSmithy.verb>
-            <VPE_DoBillsGasSmithy.gerund>forjando em</VPE_DoBillsGasSmithy.gerund>
-
-        <!-- Gas Refinary -->
-            <VPE_DoBillsGasRefinery.label>trabalhar em refinaria</VPE_DoBillsGasRefinery.label>
-            <VPE_DoBillsGasRefinery.verb>refinar químicos</VPE_DoBillsGasRefinery.verb>
-            <VPE_DoBillsGasRefinery.gerund>refinando químicos em</VPE_DoBillsGasRefinery.gerund>
-
-        <!-- Gas Excavator -->
-            <VPE_WorkAtGasExcavator.label>trabalhar em broca profunda a gás</VPE_WorkAtGasExcavator.label>
-            <VPE_WorkAtGasExcavator.verb>escavar em broca profunda</VPE_WorkAtGasExcavator.verb>
-            <VPE_WorkAtGasExcavator.gerund>escavando em</VPE_WorkAtGasExcavator.gerund>
-
-        <!-- Gas Hole -->
-            <VPE_WorkGiverPluggingHole.label>preencher buraco</VPE_WorkGiverPluggingHole.label>
-            <VPE_WorkGiverPluggingHole.verb>preencher</VPE_WorkGiverPluggingHole.verb>
-            <VPE_WorkGiverPluggingHole.gerund>preenchendo</VPE_WorkGiverPluggingHole.gerund>
-
-        <!-- Chemfuel Pond -->
-            <VPE_WorkGiverPluggingPond.label>preencher poça</VPE_WorkGiverPluggingPond.label>
-            <VPE_WorkGiverPluggingPond.verb>preencher</VPE_WorkGiverPluggingPond.verb>
-            <VPE_WorkGiverPluggingPond.gerund>preenchendo</VPE_WorkGiverPluggingPond.gerund>
 
     <!-- Zombieland -->
         <!-- Extract Zombie Serum -->

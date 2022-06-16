@@ -217,15 +217,6 @@
             <VBE_Printing.label>impressão</VBE_Printing.label>
             <VBE_Printing.description>Construa uma máquina de escrever, o que permite que seus colonos escrevam livros significativamente mais rápido, bem como criem jornais para um impulso temporário de alegria.</VBE_Printing.description>
 
-    <!-- Vanilla Brewing Expanded -->
-        <!-- Mixology -->
-            <VBE_MixologyResearch.label>mixologia</VBE_MixologyResearch.label>
-            <VBE_MixologyResearch.description>Permite a construção de máquinas avançadas que utilizam eletricidade para fermentação, engarrafamento e mistura de coquetéis na bancada de bar.</VBE_MixologyResearch.description>
-
-        <!-- Liquor Brewing -->
-            <VBE_LiquorBrewing.label>fermentação de licores</VBE_LiquorBrewing.label>
-            <VBE_LiquorBrewing.description>Utilize técnicas avançadas de fermentação que permitem a destilação e levedação de destilados mais fortes com efeitos únicos.</VBE_LiquorBrewing.description>
-
     <!-- Vanilla Brewing Expanded - Coffees and Teas -->
         <!-- Espresso Machine -->
             <VBE_EspressoMachine.label>máquina de espresso</VBE_EspressoMachine.label>
@@ -322,148 +313,10 @@
             <VFE_IndustrialRoasting.label>torrefação industrial</VFE_IndustrialRoasting.label>
             <VFE_IndustrialRoasting.description>Pesquise um forno de que torra grãos de café antes de dispensá-los a um moinho que os tritura em pó. Água fervente é então forçada e filtrada através do pó em uma grande quantidade de café.</VFE_IndustrialRoasting.description>
 
-    <!-- Vanilla Factions Expanded - Medieval -->
-        <!-- Heavy Crossbow -->
-            <VFEM_HeavyCrossbow.label>besta pesada</VFEM_HeavyCrossbow.label>
-            <VFEM_HeavyCrossbow.description>Crie bestas pesadas, capazes de disparar um projétil que não pode ser detido pela maioria das armaduras.</VFEM_HeavyCrossbow.description>
-
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Bee Keeping -->
             <VFEV_Beekeeping.label>apicultura</VFEV_Beekeeping.label>
             <VFEV_Beekeeping.description>Aprenda como manter as abelhas para produzir mel.</VFEV_Beekeeping.description>
-
-    <!-- Vanilla Furniture Expanded - Art -->
-        <!-- Obelisks -->
-            <VFE_Res_Obelisk.label>obeliscos</VFE_Res_Obelisk.label>
-            <VFE_Res_Obelisk.description>Aprenda a esculpir obeliscos altos e estreitos para comemorar eventos importantes.</VFE_Res_Obelisk.description>
-
-        <!-- Pottery -->
-            <VFE_Res_Pottery.label>cerâmica</VFE_Res_Pottery.label>
-            <VFE_Res_Pottery.description>Aprenda a criar lindos vasos de materiais simples.</VFE_Res_Pottery.description>
-
-        <!-- Carvings -->
-            <VFE_Res_WallCarvings.label>gravuras</VFE_Res_WallCarvings.label>
-            <VFE_Res_WallCarvings.description>Domine as técnicas de escultura de parede para criar belos pilares e relevos.</VFE_Res_WallCarvings.description>
-
-        <!-- Artful Display -->
-            <VFE_Res_ArtfulDisplay.label>exibição artística</VFE_Res_ArtfulDisplay.label>
-            <VFE_Res_ArtfulDisplay.description>Crie belas maneiras de exibir artefatos e bens importantes da colônia.</VFE_Res_ArtfulDisplay.description>
-
-        <!-- Statues -->
-            <VFE_Res_Statues.label>estátuas</VFE_Res_Statues.label>
-            <VFE_Res_Statues.description>Esculpa esculturas precisas em forma de personagens, inscritas com ilustrações artísticas.</VFE_Res_Statues.description>
-
-        <!-- Monuments -->
-            <VFE_Res_Monuments.label>monumentos</VFE_Res_Monuments.label>
-            <VFE_Res_Monuments.description>Crie monumentos massivos, peças centrais de sua colônia, para homenagear aqueles que morreram e inspirar aqueles que ainda lutam.</VFE_Res_Monuments.description>
-
-        <!-- Rugs -->
-            <VFE_Res_Rugs.label>tapetes</VFE_Res_Rugs.label>
-            <VFE_Res_Rugs.description>Aprenda a criar lindos tapetes para decorar sua colônia.</VFE_Res_Rugs.description>
-
-        <!-- Wallpapers -->
-            <VFE_Res_Wallpapers.label>papeis de parede</VFE_Res_Wallpapers.label>
-            <VFE_Res_Wallpapers.description>Construa lindas paredes forradas com papel de parede.</VFE_Res_Wallpapers.description>
-
-        <!-- Holograms -->
-            <VFE_Res_Holograms.label>hologramas</VFE_Res_Holograms.label>
-            <VFE_Res_Holograms.description>Adapte técnicas de exibição avançadas para mostrar modelos tridimensionais em sua colônia.</VFE_Res_Holograms.description>
-
-    <!-- Vanilla Furniture Expanded - Farming -->
-        <!-- Artificial Ecosystems -->
-            <VFE_Res_AdvancedHydroponics.label>ecossistemas artificiais</VFE_Res_AdvancedHydroponics.label>
-            <VFE_Res_AdvancedHydroponics.description>Aprenda a construir ecossistemas artificiais altamente avançados que melhoram amplamente a hidroponia.</VFE_Res_AdvancedHydroponics.description>
-
-        <!-- Sprinklers -->
-            <VFE_Res_Sprinkler.label>irrigadores</VFE_Res_Sprinkler.label>
-            <VFE_Res_Sprinkler.description>Construa um dispositivo que pode regar campos automaticamente, aumentando a velocidade de crescimento das safras.</VFE_Res_Sprinkler.description>
-
-        <!-- Farming Techniques -->
-            <VFE_Res_FarmingTechniques.label>técnicas de cultivo</VFE_Res_FarmingTechniques.label>
-            <VFE_Res_FarmingTechniques.description>Desenvolva uma base teórica para operações agrícolas em larga escala, incluindo alimentação centralizada e espantalhos dedicados para manter suas plantações intactas.</VFE_Res_FarmingTechniques.description>
-
-    <!-- Vanilla Furniture Expanded - Power -->
-        <!-- Industrial Generators -->
-            <VFE_IndustrialGenerators.label>geradores industriais</VFE_IndustrialGenerators.label>
-            <VFE_IndustrialGenerators.description>Construa geradores industriais, capazes de armazenar significativamente mais combustível e produzir mais energia.</VFE_IndustrialGenerators.description>
-
-        <!-- Advanced Battery -->
-            <VFE_AdvancedBatteries.label>baterias avançadas</VFE_AdvancedBatteries.label>
-            <VFE_AdvancedBatteries.description>Construa baterias espaciaus, capazes de armazenar com eficiência grandes quantidades de energia.</VFE_AdvancedBatteries.description>
-
-        <!-- Advanced Power Sources -->
-            <VFE_AdvancedPowerSources.label>fontes de energia avançadas</VFE_AdvancedPowerSources.label>
-            <VFE_AdvancedPowerSources.description>Construa geradores de energia verde, incluindo painéis solares avançados e turbinas eólicas.</VFE_AdvancedPowerSources.description>
-
-        <!-- Nuclear Energy -->
-            <VFE_NuclearPower.label>energia nuclear</VFE_NuclearPower.label>
-            <VFE_NuclearPower.description>O método de geração de energia final, a energia nuclear é tão suficiente quanto mortal.</VFE_NuclearPower.description>
-
-        <!-- Tidal Energy -->
-            <VFE_TidalPower.label>energia hidráulica</VFE_TidalPower.label>
-            <VFE_TidalPower.description>Construa geradores hidráulicos na água para produzir um grande volume de energia verde sustentável.</VFE_TidalPower.description>
-
-        <!-- Gas Extraction -->
-            <VFE_GasExtraction.label>extração de gás</VFE_GasExtraction.label>
-            <VFE_GasExtraction.description>Aprenda sobre o gás helixien e sua capacidade de agir como combustível.</VFE_GasExtraction.description>
-
-    <!-- Vanilla Furniture Expanded - Props And Decor -->
-        <!-- Industrial Props -->
-            <IndustrialProps.label>decorações industriais</IndustrialProps.label>
-            <IndustrialProps.description>Desbloqueia adereços e decorações industriais.</IndustrialProps.description>
-
-        <!-- Vehicle Props -->
-            <VehicleProps.label>decorações automóveis</VehicleProps.label>
-            <VehicleProps.description>Desbloqueia uma ampla seleção de decorações de veículos terrestres.</VehicleProps.description>
-
-        <!-- Plant props -->
-            <PlantProps.label>decorações vegetais</PlantProps.label>
-            <PlantProps.description>Desbloqueia uma seleção de plantas e árvores falsas.</PlantProps.description>
-
-        <!-- Medieval Props -->
-            <MedievalProps.label>decorações medievais</MedievalProps.label>
-            <MedievalProps.description>Desbloqueia uma série de decorações de inspiração medieval.</MedievalProps.description>
-
-        <!-- Farm Props -->
-            <FarmProps.label>decorações agrícolas</FarmProps.label>
-            <FarmProps.description>Concede acesso a uma seleção de decorações relacionadas à agricultura.</FarmProps.description>
-
-        <!-- Power Props -->
-            <PowerProps.label>decorações enérgicas</PowerProps.label>
-            <PowerProps.description>Desbloqueia uma série de geradores e outras decorações baseadas em energia.</PowerProps.description>
-
-        <!-- Kitchen Props -->
-            <KitchenProps.label>decorações culinárias</KitchenProps.label>
-            <KitchenProps.description>Desbloqueia uma seleção de decorações baseadas em cozinha.</KitchenProps.description>
-
-        <!-- Decals -->
-            <DecalsProps.label>decalques</DecalsProps.label>
-            <DecalsProps.description>Desbloqueia um grande número de decalques personalizáveis.</DecalsProps.description>
-
-        <!-- Furniture -->
-            <FurnitureProps.label>decorações mobiliárias</FurnitureProps.label>
-            <FurnitureProps.description>Garante acesso a uma variedade de decorações de móveis.</FurnitureProps.description>
-
-        <!-- Spaceship Props -->
-            <SpaceshipProps.label>decorações de espaçonaves</SpaceshipProps.label>
-            <SpaceshipProps.description>Desbloqueia uma seleção de decorações de espaçonaves.</SpaceshipProps.description>
-
-        <!-- Spacer Props -->
-            <SpacerProps.label>decorações espaciais</SpacerProps.label>
-            <SpacerProps.description>Desbloqueia um grande número de adereços e decorações espaciais.</SpacerProps.description>
-
-    <!-- Vanilla Furniture Expanded - Spacer Module -->
-        <!-- Spaver Furniture -->
-            <SpacerFurniture.label>móveis espaciais</SpacerFurniture.label>
-            <SpacerFurniture.description>Construa móveis espaciais, normalmente vistos apenas em colônias avançadas e edifícios do mundo brilhante.</SpacerFurniture.description>
-
-        <!-- Spacer Eletronics -->
-            <SpacerElectronics.label>eletrônicos espaciais</SpacerElectronics.label>
-            <SpacerElectronics.description>Construa eletrônicos espaciais geralmente vistos apenas em colônias avançadas e edifícios do mundo brilhante.</SpacerElectronics.description>
-
-        <!-- Mechanite Restoration -->
-            <MechaniteRestoration.label>restauração de mecanita</MechaniteRestoration.label>
-            <MechaniteRestoration.description>Use mecanitas ultratecnológicas para auxiliar na restauração de objetos construindo uma prateleira de reparo.</MechaniteRestoration.description>
 
     <!-- Vanilla Plants Expanded - Succulents -->
         <!-- Succulents Sowing -->
@@ -480,15 +333,6 @@
             <VWEFT_FrontierWeapons.label>armas de fronteira</VWEFT_FrontierWeapons.label>
             <VWEFT_FrontierWeapons.description>Crie armas de fronteira como revólveres, rifles e espingardas.</VWEFT_FrontierWeapons.description>
 
-    <!-- Vanilla Weapons Expanded - Laser -->
-        <!-- Salvaged Laser Weapons -->
-            <VWE_LaserWeapons.label>armas laser recuperadas</VWE_LaserWeapons.label>
-            <VWE_LaserWeapons.description>Aprenda a decompor e recuperar componentes avançados em armamento laser experimental e instável.</VWE_LaserWeapons.description>
-
-        <!-- Ultratech Laser Weapons -->
-            <VWE_UltratechLaserWeapons.label>armas laser ultratecnológicas</VWE_UltratechLaserWeapons.label>
-            <VWE_UltratechLaserWeapons.description>Crie armas laser avançadas, o auge da guerra ultratecnológica.</VWE_UltratechLaserWeapons.description>
-
     <!-- Vanilla Weapons Expanded - Makeshift -->
         <!-- Makeshift Weapons -->
             <VWE_MakeshiftWeapons.label>armas improvisadas</VWE_MakeshiftWeapons.label>
@@ -498,11 +342,6 @@
         <!-- Non-Lethal Weapons -->
             <VWE_NonLethal.label>armas não letais</VWE_NonLethal.label>
             <VWE_NonLethal.description>Crie uma seleção de armas não letais, incluindo lançadores de gás lacrimogêneo e tasers.</VWE_NonLethal.description>
-
-    <!-- Vanilla Weapons Expanded - Quickdraw -->
-        <!-- Quick Draw -->
-            <VWE_Quickdraw.label>saque rápido</VWE_Quickdraw.label>
-            <VWE_Quickdraw.description>Crie armas leves e rápidas para sacar e atirar.</VWE_Quickdraw.description>
 
     <!-- VFE - Mechanoids : Unoffical Add-On -->
         <!-- Mechanoid Structures -->

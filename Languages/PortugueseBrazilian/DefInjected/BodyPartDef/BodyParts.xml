@@ -27,13 +27,6 @@
         <AA_SlugBody.label>corpo de lesma</AA_SlugBody.label>
         <AA_InsectSting.label>ferrão</AA_InsectSting.label>
 
-    <!-- Vanilla Animals Expanded - Ice Sheet --> 
-        <AEXP_ForeFlipper.label>nadadeira</AEXP_ForeFlipper.label>
-        <AEXP_HindFlippers.label>nadadeiras</AEXP_HindFlippers.label>
-
-    <!-- Vanilla Animals Expanded - Tundra -->
-        <AEXP_Antlers.label>chifres</AEXP_Antlers.label>
-
     <!-- Vanilla Factions Expanded - Insectoids -->
         <VFEI_ExplosiveSac.label>saco explosivo</VFEI_ExplosiveSac.label>
         <VFEI_FrontClaw.label>garra dianteira</VFEI_FrontClaw.label>

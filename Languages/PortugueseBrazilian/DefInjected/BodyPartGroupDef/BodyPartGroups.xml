@@ -17,15 +17,6 @@
         <WMH_Pseudopods.label>pseudópodes</WMH_Pseudopods.label>
         <WMH_TailAttackTool.label>cauda</WMH_TailAttackTool.label>
 
-    <!-- Vanilla Animals Expanded - Australia -->
-        <AEXP_RearLeftClaws.label>garra esquerda</AEXP_RearLeftClaws.label>
-        <AEXP_RearRightClaws.label>garra direita</AEXP_RearRightClaws.label>
-        <AEXP_RearLeftSpur.label>pata esquerda</AEXP_RearLeftSpur.label>
-        <AEXP_RearRightSpur.label>pata direita</AEXP_RearRightSpur.label>
-
-    <!-- Vanilla Animals Expanded - Ice Sheet -->
-        <AEXP_ForeFlipers.label>nadadeiras</AEXP_ForeFlipers.label>
-
     <!-- Vanilla Factions Expanded - Insectoids -->
         <VFEI_Sting.label>ferrão</VFEI_Sting.label>
         <VFEI_PincerAttackTool.label>pinça</VFEI_PincerAttackTool.label>

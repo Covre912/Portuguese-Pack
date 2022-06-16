@@ -772,137 +772,6 @@
             <SM_AteSaucedLavishMeal.label>consumiu comida luxuosa temperada</SM_AteSaucedLavishMeal.label>
             <SM_AteSaucedLavishMeal.description>Este colono consumiu alimentos luxuosos com condimentos.</SM_AteSaucedLavishMeal.description>
 
-    <!-- Vanilla Brewing Expanded -->
-        <!-- Ambrandy -->
-            <VBE_AmbrandyInspiration.label>inspiração de ambrandia</VBE_AmbrandyInspiration.label>
-            <VBE_AmbrandyInspiration.description>Consumiu ambrandia. A ambrandia de alta qualidade fornecerá uma inspiração artística se o colono for capaz de obtê-la.</VBE_AmbrandyInspiration.description>
-            <VBE_AmbrandyInspiration.labelNoun>uma inspiração de ambrandia</VBE_AmbrandyInspiration.labelNoun>
-
-        <!-- Gin -->
-            <VBE_GinHigh.label>bêbado de gim</VBE_GinHigh.label>
-            <VBE_GinHigh.description>Bebeu um pouco de gim. Aumenta o impacto social.</VBE_GinHigh.description>
-            <VBE_GinHigh.stages.0.label>aquecido</VBE_GinHigh.stages.0.label>
-            <VBE_GinHigh.stages.1.label>tonto</VBE_GinHigh.stages.1.label>
-            <VBE_GinHigh.stages.2.label>bêbado</VBE_GinHigh.stages.2.label>
-            <VBE_GinHigh.stages.3.label>muito bêbado</VBE_GinHigh.stages.3.label>
-            <VBE_GinHigh.stages.4.label>blecaute alcoólico</VBE_GinHigh.stages.4.label>
-            <VBE_GinHigh.labelNoun>embriaguez de gim</VBE_GinHigh.labelNoun>
-
-        <!-- Tequila -->
-            <VBE_TequilaHigh.label>bêbado de tequila</VBE_TequilaHigh.label>
-            <VBE_TequilaHigh.description>Bebeu um pouco de tequila. Esses bêbados são conhecidos por se destacarem em combates.</VBE_TequilaHigh.description>
-            <VBE_TequilaHigh.stages.0.label>aquecido</VBE_TequilaHigh.stages.0.label>
-            <VBE_TequilaHigh.stages.1.label>tonto</VBE_TequilaHigh.stages.1.label>
-            <VBE_TequilaHigh.stages.2.label>bêbado</VBE_TequilaHigh.stages.2.label>
-            <VBE_TequilaHigh.stages.3.label>muito bêbado</VBE_TequilaHigh.stages.3.label>
-            <VBE_TequilaHigh.stages.4.label>blecaute alcoólico</VBE_TequilaHigh.stages.4.label>
-            <VBE_TequilaHigh.labelNoun>embriaguez de tequila</VBE_TequilaHigh.labelNoun>
-
-        <!-- Vodka -->
-            <VBE_VodkaHigh.label>bebâdo de vodca</VBE_VodkaHigh.label>
-            <VBE_VodkaHigh.description>Bebeu um pouco de vodca. Fornece um bônus de precisão corpo-a-corpo que aumenta proporcionalmente a embriaguez.</VBE_VodkaHigh.description>
-            <VBE_VodkaHigh.stages.0.label>aquecido</VBE_VodkaHigh.stages.0.label>
-            <VBE_VodkaHigh.stages.1.label>tonto</VBE_VodkaHigh.stages.1.label>
-            <VBE_VodkaHigh.stages.2.label>bêbado</VBE_VodkaHigh.stages.2.label>
-            <VBE_VodkaHigh.stages.3.label>muito bêbado</VBE_VodkaHigh.stages.3.label>
-            <VBE_VodkaHigh.stages.4.label>blecaute alcoólico</VBE_VodkaHigh.stages.4.label>
-            <VBE_VodkaHigh.labelNoun>embriaguez de vodca</VBE_VodkaHigh.labelNoun>
-
-        <!-- Whiskey -->
-            <VBE_WhiskeyHigh.label>bêbado de uísque</VBE_WhiskeyHigh.label>
-            <VBE_WhiskeyHigh.description>Bebeu um pouco de uísque. Aumenta a velocidade de trabalho global em 15%.</VBE_WhiskeyHigh.description>
-            <VBE_WhiskeyHigh.labelNoun>embriaguez de uísque</VBE_WhiskeyHigh.labelNoun>
-
-        <!-- Double-Aged Whiskey -->
-            <VBE_DoubleWhiskeyHigh.label>bêbado de uísque envelhecido</VBE_DoubleWhiskeyHigh.label>
-            <VBE_DoubleWhiskeyHigh.description>Bebeu um pouco de uísque envelhecido. Aumenta a velocidade de trabalho global em 20% e os preços comerciais em 20%.</VBE_DoubleWhiskeyHigh.description>
-            <VBE_DoubleWhiskeyHigh.labelNoun>embriaguez de uísque envelhecido</VBE_DoubleWhiskeyHigh.labelNoun>
-
-        <!-- Coffee -->
-            <VBE_HotCoffeeHigh.label>viajando no café</VBE_HotCoffeeHigh.label>
-            <VBE_HotCoffeeHigh.description>A cafeína encontrada naturalmente no café, uma vez que é metabolizada, aumenta os estímulos no sistema nervoso, suprimindo a vontade de dormir e também limpando a mente. Aumenta a velocidade de aprendizagem em 15% e redução de 15% na taxa de queda em repouso. O café quente reduz a hipotermia, o frio reduz a insolação.</VBE_HotCoffeeHigh.description>
-            <VBE_HotCoffeeHigh.labelNoun>embriaguez de café</VBE_HotCoffeeHigh.labelNoun>
-
-        <!-- Iced Coffee -->
-            <VBE_IcedCoffeeHigh.label>viajando no café gelado</VBE_IcedCoffeeHigh.label>
-            <VBE_IcedCoffeeHigh.description>A cafeína encontrada naturalmente no café, uma vez que é metabolizada, aumenta os estímulos no sistema nervoso, suprimindo a vontade de dormir e também limpando a mente. Aumenta a velocidade de aprendizagem em 15% e redução de 15% na taxa de queda em repouso. O café quente reduz a hipotermia, o frio reduz a insolação.</VBE_IcedCoffeeHigh.description>
-            <VBE_IcedCoffeeHigh.labelNoun>embriaguez de café</VBE_IcedCoffeeHigh.labelNoun>
-
-        <!-- Caffeine -->
-            <VBE_CaffeineTolerance.label>tolerância à cafeína</VBE_CaffeineTolerance.label>
-            <VBE_CaffeineTolerance.description>Uma tolerância acumulada à cafeína. Quanto mais grave for essa tolerância, mais cafeína será necessária para obter o mesmo efeito.</VBE_CaffeineTolerance.description>
-            <VBE_CaffeineAddiction.label>vício em cafeína</VBE_CaffeineAddiction.label>
-            <VBE_CaffeineAddiction.description>Um vício químico em cafeína. O uso prolongado da cafeína causou adaptações neurológicas no nível celular, de modo que o cérebro não pode mais funcionar adequadamente sem a droga.\n\nSem doses regulares de cafeína, os sintomas de abstinência começarão. No entanto, a abstinência prolongada forçará o cérebro a se adaptar ao seu estado normal, resolvendo o vício.</VBE_CaffeineAddiction.description>
-            <VBE_CaffeineAddiction.stages.1.label>abstinência</VBE_CaffeineAddiction.stages.1.label>
-
-        <!-- Energy Drink -->
-            <VBE_EnergyDrinkHigh.label>viajando no energético</VBE_EnergyDrinkHigh.label>
-            <VBE_EnergyDrinkHigh.description>As bebidas energéticas restauram o descanso imediatamente e aumentam a velocidade de movimento, mas ao custo de uma colisão posterior.</VBE_EnergyDrinkHigh.description>
-            <VBE_EnergyDrinkHigh.labelNoun>embriaguez de energético</VBE_EnergyDrinkHigh.labelNoun>
-            <VBE_EnergyDrinkCrash.label>ressaca de energético</VBE_EnergyDrinkCrash.label>
-            <VBE_EnergyDrinkCrash.description>Um desagradável efeito posterior retardado do consumo de bebida energética.</VBE_EnergyDrinkCrash.description>
-            <VBE_EnergyDrinkCrash.labelNoun>ressaca de energético</VBE_EnergyDrinkCrash.labelNoun>
-
-        <!-- Cocktail -->
-            <VBE_ConsumedCocktail.label>consumiu coquetel</VBE_ConsumedCocktail.label>
-            <VBE_ConsumedCocktail.description>Consumiu um bom coquetel. Chance de fornecer uma inspiração aleatória.</VBE_ConsumedCocktail.description>
-            <VBE_ConsumedCocktail.labelNoun>um coquetel</VBE_ConsumedCocktail.labelNoun>
-    
-        <!-- Tobacco -->
-            <VBE_TobaccoHigh.label>viajando no tabaco</VBE_TobaccoHigh.label>
-            <VBE_TobaccoHigh.description>Nicotina na corrente sanguínea. Gera uma sensação suave de bem-estar difuso.</VBE_TobaccoHigh.description>
-            <VBE_TobaccoHigh.labelNoun>embriaguez de tabaco</VBE_TobaccoHigh.labelNoun>
-            <VBE_DeluxeTobaccoHigh.label>viajando no tabaco de alta qualidade</VBE_DeluxeTobaccoHigh.label>
-            <VBE_DeluxeTobaccoHigh.description>Nicotina na corrente sanguínea. Gera uma sensação suave de bem-estar difuso.</VBE_DeluxeTobaccoHigh.description>
-            <VBE_DeluxeTobaccoHigh.labelNoun>embriaguez de tabaco de alta qualidade</VBE_DeluxeTobaccoHigh.labelNoun>
-            <VBE_TobaccoTolerance.label>tolerância ao tabaco</VBE_TobaccoTolerance.label>
-            <VBE_TobaccoTolerance.description>Uma tolerância acumulada ao tabaco. Quanto mais grave for essa tolerância, mais tabaco será necessário para obter o mesmo efeito.</VBE_TobaccoTolerance.description>
-            <VBE_TobaccoAddiction.label>vício em tabaco</VBE_TobaccoAddiction.label>
-            <VBE_TobaccoAddiction.description>Um vício químico em tabaco. O uso prolongado do tabaco causou adaptações neurológicas no nível celular, de modo que o cérebro não pode mais funcionar adequadamente sem a droga.\n\nSem doses regulares de tabaco, os sintomas de abstinência começarão. No entanto, a abstinência prolongada forçará o cérebro a se adaptar ao seu estado normal, resolvendo o vício.</VBE_TobaccoAddiction.description>
-            <VBE_TobaccoAddiction.stages.1.label>abstinência</VBE_TobaccoAddiction.stages.1.label>
-
-        <!-- Soda -->
-            <VBE_DrankSoda.label>bebeu refrigerante</VBE_DrankSoda.label>
-            <VBE_DrankSoda.description>Uma explosão de açúcar entra na corrente sanguínea, fornecendo alguma energia de curta duração. Fornece um bônus de manipulação de 5% por 5 horas.</VBE_DrankSoda.description>
-
-        <!-- Tea -->
-            <VBE_DrankTea.label>bebeu chá</VBE_DrankTea.label>
-            <VBE_DrankTea.description>Os taninos encontrados naturalmente no chá, uma vez metabolizados, aumentam os estímulos no sistema nervoso, suprimindo a vontade de dormir e estimulando o sistema imunológico. Aumenta a velocidade de ganho de imunidade em 15% e fornece redução de 10% na taxa de queda em repouso por 5 horas.</VBE_DrankTea.description>
-
-        <!-- Cocktail -->
-            <VBE_TequilaAsIngredient.label>bêbado de coquetel com tequila</VBE_TequilaAsIngredient.label>
-            <VBE_TequilaAsIngredient.description>Este colono bebeu um coquetel que tinha tequila como um de seus ingredientes. Fornece um bônus de chance de domar animal de 15%.</VBE_TequilaAsIngredient.description>
-            <VBE_WhiskeyAsIngredient.label>bêbado de coquetel com uísque</VBE_WhiskeyAsIngredient.label>
-            <VBE_WhiskeyAsIngredient.description>Este colono bebeu um coquetel que tinha uísque como um de seus ingredientes. Fornece um bônus de precisão de tiro.</VBE_WhiskeyAsIngredient.description>
-            <VBE_VodkaAsIngredient.label>bêbado de coquetel com vodca</VBE_VodkaAsIngredient.label>
-            <VBE_VodkaAsIngredient.description>Este colono bebeu um coquetel que tinha vodca como um de seus ingredientes. Aumenta a chance de esquiva em 20%.</VBE_VodkaAsIngredient.description>
-            <VBE_GinAsIngredient.label>bêbado de coquetel com gim</VBE_GinAsIngredient.label>
-            <VBE_GinAsIngredient.description>Este colono bebeu um coquetel que tinha gim como um de seus ingredientes.</VBE_GinAsIngredient.description>
-            <VBE_AmbrandyAsIngredient.label>bêbado de coquetel com ambrandia</VBE_AmbrandyAsIngredient.label>
-            <VBE_AmbrandyAsIngredient.description>Este colono bebeu um coquetel que tinha ambrandia como um de seus ingredientes.</VBE_AmbrandyAsIngredient.description>
-            <VBE_RBMeadAsIngredient.label>bêbado de coquetel com hidromel</VBE_RBMeadAsIngredient.label>
-            <VBE_RBMeadAsIngredient.description>Este colono bebeu um coquetel que tinha hidromel como um de seus ingredientes.</VBE_RBMeadAsIngredient.description>
-            <VBE_WineAsIngredient.label>bêbado de coquetel com vinho</VBE_WineAsIngredient.label>
-            <VBE_WineAsIngredient.description>Este colono bebeu um coquetel que tinha vinho como um de seus ingredientes. Seu monstro.</VBE_WineAsIngredient.description>
-            <VBE_CiderAsIngredient.label>bêbado de coquetel com sidra</VBE_CiderAsIngredient.label>
-            <VBE_CiderAsIngredient.description>Este colono bebeu um coquetel que tinha sidra como um de seus ingredientes. Diminui ligeiramente o acúmulo tóxico.</VBE_CiderAsIngredient.description>
-
-        <!-- Luciferium Powder -->
-            <VBE_ConsumedLuciferiumPowder.label>consumiu pó de lucifério</VBE_ConsumedLuciferiumPowder.label>
-            <VBE_ConsumedLuciferiumPowder.description>Um pó muito fino feito de lucifério. Tão diluído que o medicamento certamente não curará nenhuma ferida, mas revigorará consideravelmente seu consumidor.</VBE_ConsumedLuciferiumPowder.description>
-
-        <!-- Go-Juice Stock -->
-            <VBE_ConsumedGoStock.label>consumiu gelatina de suco-turbo</VBE_ConsumedGoStock.label>
-            <VBE_ConsumedGoStock.description>Um cubo gelatinizado de suco-turbo, que pode ser digerido em vez de injetado. Tão diluído que o medicamento não bloqueará tanta dor e as vantagens de combate serão muito mais sutis.</VBE_ConsumedGoStock.description>
-
-        <!-- Wake-Up Powder -->
-            <VBE_ConsumedWakeupPowder.label>consumiu pó de despertar</VBE_ConsumedWakeupPowder.label>
-            <VBE_ConsumedWakeupPowder.description>Uma forma de despertar triturada em pó, surpreendentemente doce e às vezes usada como substituto do açúcar em sobremesas ou dissolvida em um expresso matinal. Tão diluída que a droga não será tão estimulante. Observe que, embora não vicie, o pó para despertar ainda apresenta risco (embora muito pequeno) de ataque cardíaco.</VBE_ConsumedWakeupPowder.description>
-
-        <!-- Cider -->
-            <VBE_CiderHigh.label>bêbado de sidra</VBE_CiderHigh.label>
-            <VBE_CiderHigh.description>Álcool de cidra na corrente sanguínea. Faz as pessoas felizes, mas reduzcapacidades. Não pode causar dependência de álcool.</VBE_CiderHigh.description>
-
     <!-- Vanilla Brewing Expanded - Coffees and Teas -->
         <!-- Black Tea -->
             <VBE_DrankBlackTea.label>bebeu chá preto</VBE_DrankBlackTea.label>
@@ -1055,19 +924,6 @@
             <VCE_AteGourmetSushi.label>consumiu sushi gourmet</VCE_AteGourmetSushi.label>
             <VCE_AteGourmetSushi.description>Comi uma refeição de sushi deliciosa.</VCE_AteGourmetSushi.description>
 
-    <!-- Vanilla Events Expanded -->
-        <!-- Taritor -->
-            <Traitor.label>traidor</Traitor.label>
-            <Traitor.description>Traidor.</Traitor.description>
-
-        <!-- Stand Off -->
-            <StandOff.label>impasse</StandOff.label>
-            <StandOff.description>Impasse.</StandOff.description>
-
-        <!-- Might Join -->
-            <MightJoin.label>pode juntar-se</MightJoin.label>
-            <MightJoin.description>Pode juntar-se.</MightJoin.description>
-
     <!-- Vanilla Factions Expanded - Insectoids --> 
         <!-- Royal Jelly -->
             <VFEI_RoyalJellyHigh.label>viajando na geleia real</VFEI_RoyalJellyHigh.label>
@@ -1185,22 +1041,6 @@
             <VFE_MechanoidUplink.label>vínculo mecanoide</VFE_MechanoidUplink.label>
             <VFE_MechanoidUplink.description>Vínculo mecanoide.</VFE_MechanoidUplink.description>
 
-    <!-- Vanilla Factions Expanded - Settlers -->
-        <!-- Wanted -->
-            <Wanted.label>procurado</Wanted.label>
-            <Wanted.labelNoun>procurado</Wanted.labelNoun>
-            <Wanted.description>Considerado um criminoso por uma facção.</Wanted.description>
-            <Wanted.stages.0.label>procurado</Wanted.stages.0.label>
-
-        <!-- Chemshined -->
-            <Chemshined.label>jägermeister</Chemshined.label>
-            <Chemshined.labelNoun>embriaguez de jägermeister</Chemshined.labelNoun>
-            <Chemshined.description>Parece que alguém bebeu algo volátil.</Chemshined.description>
-            <Chemshined.stages.0.label>energizado(leve)</Chemshined.stages.0.label>
-            <Chemshined.stages.1.label>energizado</Chemshined.stages.1.label>
-            <Chemshined.stages.2.label>energizado(grave)</Chemshined.stages.2.label>
-            <Chemshined.stages.3.label>energizado(extremo)</Chemshined.stages.3.label>
-
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Dummy -->
             <VFEV_EnragedWithDamage.label>manequim</VFEV_EnragedWithDamage.label>
@@ -1221,44 +1061,6 @@
             <VFEV_Sting.comps.0.labelTendedWellInner>enfaixado</VFEV_Sting.comps.0.labelTendedWellInner>
             <VFEV_Sting.comps.0.labelSolidTendedWell>enfaixado</VFEV_Sting.comps.0.labelSolidTendedWell>
             <VFEV_Sting.comps.2.permanentLabel>cicatriz de picada</VFEV_Sting.comps.2.permanentLabel>
-
-    <!-- Vanilla Fishing Expanded -->
-        <!-- Pufferfish -->
-            <VCE_AteRawPufferfish.label>comeu baiacu cru recentemente</VCE_AteRawPufferfish.label>
-            <VCE_AteRawPufferfish.description>Você não morreu. Desta vez.</VCE_AteRawPufferfish.description>
-
-        <!-- Special -->
-            <VCEF_CaughtSpecialHediff.label>pescou algo especial recentemente</VCEF_CaughtSpecialHediff.label>
-            <VCEF_CaughtSpecialHediff.description>Esta pessoa pescou algo especial.</VCEF_CaughtSpecialHediff.description>
-
-    <!-- Vanilla Furniture Expanded - Spacer Module -->
-        <!-- Refreshing Sleep -->
-            <Bed_RefreshingSleep.label>sono refrescante</Bed_RefreshingSleep.label>
-            <Bed_RefreshingSleep.description>Repouso requintado devido aos sistemas avançados de sua cama.</Bed_RefreshingSleep.description>
-            <Bed_RefreshingSleep.stages.0.label>menor</Bed_RefreshingSleep.stages.0.label>
-            <Bed_RefreshingSleep.stages.1.label>maior</Bed_RefreshingSleep.stages.1.label>
-            <Bed_RefreshingSleep.stages.2.label>máximo</Bed_RefreshingSleep.stages.2.label>
-
-    <!-- Vanilla Traits Expanded -->
-        <!-- Rebelling -->
-            <VTE_SlowWorkSpeed.label>Rebelando</VTE_SlowWorkSpeed.label>
-            <VTE_SlowWorkSpeed.labelNoun>Rebelação</VTE_SlowWorkSpeed.labelNoun>
-            <VTE_SlowWorkSpeed.description>Seja por mau humor ou por problemas mentais, rebelar-se significa que qualquer trabalho forçado é recebido com comentários e olhares maliciosos, e menos levado a sério.</VTE_SlowWorkSpeed.description>
-
-        <!-- Imsonia -->
-            <VTE_RestSlowFallFactor.label>Insônia</VTE_RestSlowFallFactor.label>
-            <VTE_RestSlowFallFactor.labelNoun>Insônia</VTE_RestSlowFallFactor.labelNoun>
-            <VTE_RestSlowFallFactor.description>Agitação física ou mental pronunciada causa insônia, insônia significa que a pessoa muitas vezes pode se sentir lenta ou exausta e dificilmente conseguirá dormir.</VTE_RestSlowFallFactor.description>
-
-        <!-- Hyper-Coagulant -->
-            <VTE_SlowerBleedingRate.label>hiper-coagulante</VTE_SlowerBleedingRate.label>
-            <VTE_SlowerBleedingRate.labelNoun>hipercoagulação</VTE_SlowerBleedingRate.labelNoun>
-            <VTE_SlowerBleedingRate.description>Uma contagem mais alta de glóbulos vermelhos significa que ocorre hipercoagulação, fazendo com que as feridas sangrem muito menos profusamente.</VTE_SlowerBleedingRate.description>
-
-        <!-- Hemophilic -->
-            <VTE_HigherBleedingRate.label>hemofílico</VTE_HigherBleedingRate.label>
-            <VTE_HigherBleedingRate.labelNoun>hemofilia</VTE_HigherBleedingRate.labelNoun>
-            <VTE_HigherBleedingRate.description>A hemofilia é a incapacidade de o sangue coagular adequadamente, fazendo com que as feridas sangrem muito mais profusamente.</VTE_HigherBleedingRate.description>
 
     <!-- Vanilla Weapons Expanded - Non-Lethal -->
         <!-- Tear Gas -->

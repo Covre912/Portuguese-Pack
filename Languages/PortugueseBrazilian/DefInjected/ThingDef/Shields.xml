@@ -8,15 +8,6 @@
             <REN7_Omnishield.tools.0.label>base</REN7_Omnishield.tools.0.label>
             <REN7_Omnishield.tools.1.label>centro</REN7_Omnishield.tools.1.label>
 
-    <!-- Vanilla Factions Expanded - Medieval -->
-        <!-- Kite Shield -->
-            <VFEM_Shield_Kite.label>escudo de pipa</VFEM_Shield_Kite.label>
-            <VFEM_Shield_Kite.description>Um grande escudo de madeira, com a frente decorativamente revestida de couro. Oferece uma quantidade moderada de proteção contra ataques corpo a corpo e à distância.</VFEM_Shield_Kite.description>
-
-        <!-- Heater Shield -->
-            <VFEM_Shield_Heater.label>escudo</VFEM_Shield_Heater.label>
-            <VFEM_Shield_Heater.description>Um escudo de aço pesado de tamanho médio, com a frente decorativamente coberta por couro. Oferece uma quantidade significativa de proteção contra ataques corpo a corpo e à distância.</VFEM_Shield_Heater.description>
-
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Round Shield -->
             <VFEV_Shield_Round.label>escudo circular</VFEV_Shield_Round.label>

@@ -268,44 +268,6 @@
             <VFEI_Shield_Riot.description>Um escudo industrial pesado feito de aço reforçado. Fornece muita proteção contra danos contundentes.</VFEI_Shield_Riot.description>
             <VFEI_Shield_Riot.tools.0.label>centro</VFEI_Shield_Riot.tools.0.label>
 
-    <!-- Vanilla Factions Expanded - Medieval -->
-        <!-- Light Plate Helmet -->
-            <VFEM_Apparel_PlateHelmetLight.label>capacete de placas leve</VFEM_Apparel_PlateHelmetLight.label>
-            <VFEM_Apparel_PlateHelmetLight.description>Um capacete medieval leve que oferece proteção moderada contra ataques violentos. Não é eficaz contra armas contundentes. Restringe o campo de visão do usuário.</VFEM_Apparel_PlateHelmetLight.description>
-
-        <!-- Heavy Plate Helmet -->
-            <VFEM_Apparel_PlateHelmetHeavy.label>capacete de placas pesado</VFEM_Apparel_PlateHelmetHeavy.label>
-            <VFEM_Apparel_PlateHelmetHeavy.description>Um capacete medieval pesado que cobre toda a cabeça. Oferece uma quantidade considerável de proteção, mas restringe o campo de visão do usuário.</VFEM_Apparel_PlateHelmetHeavy.description>
-
-        <!-- Heavy Plate Armor -->
-            <VFEM_Apparel_PlateArmorHeavy.label>armadura de placas pesada</VFEM_Apparel_PlateArmorHeavy.label>
-            <VFEM_Apparel_PlateArmorHeavy.description>Placas sólidas que cobrem todo o corpo, do pescoço aos pés. As placas foram reforçadas, o que oferece uma proteção significativamente maior à custo de mobilidade.</VFEM_Apparel_PlateArmorHeavy.description>
-
-        <!-- Tabbard -->
-            <VFEM_Apparel_Tabard.label>tabardo</VFEM_Apparel_Tabard.label>
-            <VFEM_Apparel_Tabard.description>Uma vestimenta usada sobre a armadura pela milícia medieval para representar o brasão de seu reino.</VFEM_Apparel_Tabard.description>
-
-    <!-- Vanilla Factions Expanded - Settlers -->
-        <!-- Bandana -->
-            <VFES_Headgear_Bandana.label>bandana</VFES_Headgear_Bandana.label>
-            <VFES_Headgear_Bandana.description>Um pedaço de tecido longo que protege a mandíbula da exposição ao vento. Torna o usuário praticamente irreconhecível.</VFES_Headgear_Bandana.description>
-
-        <!-- Sombrero -->
-            <VFES_Headgear_Sombrero.label>sombrero</VFES_Headgear_Sombrero.label>
-            <VFES_Headgear_Sombrero.description>Usado para proteger o usuário do sol. Necessário para qualquer tipo de impasse.</VFES_Headgear_Sombrero.description>
-
-        <!-- Flat Cap -->
-            <VFES_Headgear_FlatCap.label>boina</VFES_Headgear_FlatCap.label>
-            <VFES_Headgear_FlatCap.description>Uma boina prática. Protege um pouco do sol. Usado por colonos e colonizadores durante suas ocupações diárias.</VFES_Headgear_FlatCap.description>
-
-        <!-- Vest -->
-            <Apparel_Vest.label>colete</Apparel_Vest.label>
-            <Apparel_Vest.description>Um colete simples, fornece decente isolamento ao calor e ao frio. Aumenta muito o impacto social.</Apparel_Vest.description>
-
-        <!-- Great Dress -->
-            <Apparel_GreatDress.label>vestido</Apparel_GreatDress.label>
-            <Apparel_GreatDress.description>Um vestido lindo, geralmente usado por senhoras e sufragistas. Aumenta muito o impacto social.</Apparel_GreatDress.description>
-
     <!-- Vanilla Factions Expanded - Vikings -->
         <!-- Throwable Torch Belt -->
             <VFEV_Apparel_TorchBelt.label>cinto de tochas arremessáveis</VFEV_Apparel_TorchBelt.label>

@@ -52,11 +52,6 @@
             <VFEM_TravelingMissile.label>míssil</VFEM_TravelingMissile.label>
             <VFEM_TravelingMissile.description>míssil em vôo.</VFEM_TravelingMissile.description>
 
-    <!-- Vanilla Factions Expanded - Medieval -->
-        <!-- Medieval Tournament -->
-            <VFEM_MedievalTournament.label>torneio medieval</VFEM_MedievalTournament.label>
-            <VFEM_MedievalTournament.description>Um local designado para um torneio medieval.</VFEM_MedievalTournament.description>
-
     <!-- [SYR] Set Up Camp -->
         <!-- Caravan Camp -->
             <CaravanCamp.label>Acampamento</CaravanCamp.label>

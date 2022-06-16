@@ -4,11 +4,6 @@
     <!-- Race to the Rim -->
         <RttR_ToxicGas.label>gás tóxico</RttR_ToxicGas.label>
 
-    <!-- Vanilla Furniture Expanded - Power -->
-        <!-- Helixien Gas -->
-            <Gas_Helixien.label>gás helixien</Gas_Helixien.label>
-            <Gas_Helixien.description>Altamente inflamável e altamente tóxico.</Gas_Helixien.description>
-
     <!-- Vanilla Weapons Expanded - Non-Lethal -->
         <VWENL_TearGasCloud.label>gás lacrimogêneo</VWENL_TearGasCloud.label>
 
