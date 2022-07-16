@@ -37,24 +37,6 @@
         <WMH_Flesh.label>cadáveres de monstros</WMH_Flesh.label>
         <WMH_BuildingsTrophies.label>troféus</WMH_BuildingsTrophies.label>
 
-    <!-- Vanilla Books Expanded -->
-        <VBE_Books.label>livros</VBE_Books.label>
-
-    <!-- Vanilla Cooking Expanded -->
-        <VCE_Condiments.label>condimentos</VCE_Condiments.label>
-        <VCE_Cheese.label>queijos</VCE_Cheese.label>
-        <VCE_UncookedSoups.label>sopas cruas</VCE_UncookedSoups.label>
-
-    <!-- Vanilla Cooking Expanded - Stews -->
-        <VCE_UncookedStews.label>ensopados crus</VCE_UncookedStews.label>
-
-    <!-- Vanilla Factions Expanded - Insectoids -->
-        <VFEI_BodyPartsInsect.label>insectoide</VFEI_BodyPartsInsect.label>
-
-    <!-- Vanilla Factions Expanded - Vikings -->
-        <WeaponsMeleeCrypto.label>cripto-armas</WeaponsMeleeCrypto.label>
-        <WeaponsRangedCrypto.label>cripto-armas</WeaponsRangedCrypto.label>
-
     <!-- Zombieland -->
         <Zombies.label>zumbis</Zombies.label>
         <ZombieSerum.label>soro</ZombieSerum.label>

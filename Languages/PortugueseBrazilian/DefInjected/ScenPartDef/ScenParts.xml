@@ -17,13 +17,4 @@
         <ROMV_LongerNights.label>noites mais longas</ROMV_LongerNights.label>
         <ROMV_VampirismChanceStarting.label>vampirismo</ROMV_VampirismChanceStarting.label>
 
-    <!-- Vanilla Factions Expanded - Insectoids -->
-        <ScenPart_PlayerPawnsArriveMethodEdge.label>método de chegada do colono</ScenPart_PlayerPawnsArriveMethodEdge.label>
-
-    <!-- Vanilla Factions Expanded - Mechanoids -->
-        <VFEM_StartingPackAnimal.label>começar com animal(is) de carga</VFEM_StartingPackAnimal.label>
-
-    <!-- Vanilla Factions Expanded - Vikings -->
-        <ScenPart_Settlement.label>gerar assentamento</ScenPart_Settlement.label>
-
 </LanguageData>

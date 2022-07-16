@@ -17,10 +17,6 @@
         <WMH_Pseudopods.label>pseudópodes</WMH_Pseudopods.label>
         <WMH_TailAttackTool.label>cauda</WMH_TailAttackTool.label>
 
-    <!-- Vanilla Factions Expanded - Insectoids -->
-        <VFEI_Sting.label>ferrão</VFEI_Sting.label>
-        <VFEI_PincerAttackTool.label>pinça</VFEI_PincerAttackTool.label>
-
     <!-- Xenohumans - Anthromorphs -->
         <ATK_Tail.label>cauda</ATK_Tail.label>
 

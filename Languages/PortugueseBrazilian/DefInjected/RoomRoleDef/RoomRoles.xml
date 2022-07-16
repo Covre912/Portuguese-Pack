@@ -8,9 +8,6 @@
     <!-- Psychology (unofficial 1.1/1.2) -->
         <Office.label>escritório</Office.label>
 
-    <!-- Vanilla Books Expanded -->
-        <VBE_Library.label>livraria</VBE_Library.label>
-
     <!-- Dubs Bad Hygiene -->
         <PublicBathroom.label>banheiro público</PublicBathroom.label>
         <PrivateBathroom.label>banheiro privado</PrivateBathroom.label>

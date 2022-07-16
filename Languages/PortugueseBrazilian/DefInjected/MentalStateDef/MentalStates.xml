@@ -90,12 +90,5 @@
             <ROMV_Rotschreck.beginLetterLabel>Rötschreck</ROMV_Rotschreck.beginLetterLabel>
             <ROMV_Rotschreck.recoveryMessage>Os temores de {0} diminuíram.</ROMV_Rotschreck.recoveryMessage>
             <ROMV_Rotschreck.baseInspectLine>Estado mental: Rötschreck</ROMV_Rotschreck.baseInspectLine>
-
-    <!-- Vanilla Factions Expanded - Vikings -->
-        <!-- Enraged -->
-            <VFEV_Enraged.label>enfurecido</VFEV_Enraged.label>
-            <VFEV_Enraged.recoveryMessage>A fúria de {0} chegou ao fim.</VFEV_Enraged.recoveryMessage>
-            <VFEV_Enraged.beginLetter>{0} enfureceu-se.\n\n[PAWN_pronoun] atacará qualquer hostil que vir, com velocidade de ataque dupla.</VFEV_Enraged.beginLetter>
-            <VFEV_Enraged.baseInspectLine>Estado mental: Enfurecido</VFEV_Enraged.baseInspectLine>
-
+            
 </LanguageData>

@@ -54,25 +54,4 @@
             <ROMV_ScenStrangeCargo.scenario.description>Você acorda após um pouso forçado em um planeta remoto. Olhando ao redor, você vê a si mesmo e outro colono. Entre vocês dois está um caixão selado.</ROMV_ScenStrangeCargo.scenario.description>
             <ROMV_ScenStrangeCargo.scenario.parts.19.text>Pego de surpresa durante um jogo de RPG improvisado com seu companheiro de bordo, você é sugado para uma cápsula de fuga de emergência. Após a queda, um estranho caixão permanece intacto, não muito longe de outros destroços. Ele irradia uma aura de mistério.</ROMV_ScenStrangeCargo.scenario.parts.19.text>
 
-    <!-- Vanilla Factions Expanded - Insectoids -->
-        <!-- Mercenary Squad -->
-            <VFEI_MercenarySquad.scenario.name>Esquadrão Mercenário</VFEI_MercenarySquad.scenario.name>
-            <VFEI_MercenarySquad.scenario.summary>Um grupo de mercenários cercado por enxames de insectoides. Muito difícil.</VFEI_MercenarySquad.scenario.summary>
-            <VFEI_MercenarySquad.scenario.description>Uma simples missão à superfície de um planeta há muito esquecido tornou-se inviável. Sua base foi invadida por criaturas que você nunca viu antes - insectoides gigantes, emergindo em números infinitos de suas colmeias. Forçado a escapar, você se aproxima de um pequeno posto avançado infestado de insetos.\n\nVocê pode exterminá-los e se estabelecer aqui ou sair e encontrar um novo lugar.\n\nAviso: Como você começa sem recursos e em uma base invadida por insectoides, este é um cenário especialmente difícil no início do jogo.</VFEI_MercenarySquad.scenario.description>
-            <VFEI_MercenarySquad.scenario.parts.9.text>Uma simples missão à superfície de um planeta há muito esquecido tornou-se inviável. Sua base foi invadida por criaturas que você nunca viu antes - insectoides gigantes, emergindo em números infinitos de suas colmeias. Forçado a escapar, você se aproxima de um pequeno posto avançado infestado de insetos.\n\nVocê pode exterminá-los e se estabelecer aqui ou sair e encontrar um novo lugar.</VFEI_MercenarySquad.scenario.parts.9.text>
-
-    <!-- Vanilla Factions Expanded - Mechanoids -->
-        <!-- The Lone Scavenger -->
-            <VFE_TheLoneScavenger.scenario.name>O Sucateador Solitário</VFE_TheLoneScavenger.scenario.name>
-            <VFE_TheLoneScavenger.scenario.description>Durante suas viagens pela superfície em busca de pedaços de sucata para vender em um dos assentamentos estrangeiros, você tropeça em uma visão inacreditável: uma fábrica abandonada totalmente automatizada. Seus sentidos de sucateador incentivam você a separá-lo e resgatar o que puder, mas seu empreendedor interior deseja ouvir as máquinas cantando novamente.\n\nAviso: Como seu personagem inicial não terá algumas habilidades, este é um cenário difícil no início do jogo.</VFE_TheLoneScavenger.scenario.description>
-            <VFE_TheLoneScavenger.scenario.summary>Um sucateador solitário com uma escolha. Difícil.</VFE_TheLoneScavenger.scenario.summary>
-            <VFE_TheLoneScavenger.scenario.parts.GameStartDialog.text>Vivendo de dia de pagamento em dia de pagamento, reunindo sucata valiosa ao redor do planeta e vendendo-a pelo melhor lance - geralmente proprietários de ferro-velho, você nunca esperava encontrar algo tão valioso quanto uma fábrica totalmente automatizada, utilizando a mais recente tecnologia mecanoide do mundo urbano\n\nAgora a escolha é sua - você vai desmontá-lo para não tentar tantos invasores que estão perturbando estas terras? Ou você vai trazer a fábrica de volta à sua antiga glória?</VFE_TheLoneScavenger.scenario.parts.GameStartDialog.text>
-            <VFE_TheLoneScavenger.scenario.parts.VFEC_AddStartingStructure.structureLabel>Uma fábrica abandonada</VFE_TheLoneScavenger.scenario.parts.VFEC_AddStartingStructure.structureLabel>
-
-    <!-- Vanilla Factions Expanded - Vikings -->
-        <!-- Restless Raid -->
-            <VFEV_NewClan.scenario.name>Invasão Incansável</VFEV_NewClan.scenario.name>
-            <VFEV_NewClan.scenario.summary>Um grupo de invasores pronto para pilhar um assentamento tribal. Difícil.</VFEV_NewClan.scenario.summary>
-            <VFEV_NewClan.scenario.description>Os deuses foram misericordiosos. Após uma longa e cansativa jornada pela terra, seu grupo de invasores descobriu um pequeno assentamento tribal, pronto para ser conquistado. Embora certamente seja um desafio, o saque que pode ser obtido vale a pena, e o abrigo improvisado será excelente para o inverno que se aproxima.\n\nAviso: devido à falta de recursos e a um forte inimigo presente no mapa, este é um cenário difícil.</VFEV_NewClan.scenario.description>
-
 </LanguageData>

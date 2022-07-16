@@ -1059,15 +1059,6 @@
             <RE_ColonialRecRoomTileMarble.label>ladrilho colonial de mármore</RE_ColonialRecRoomTileMarble.label>
             <RE_ColonialRecRoomTileMarble.description>Ladrilhos de pedra refinadas e cuidadosamente cortadas para um sentimento de castelo. Bonito de se olhar, mas eles levam um longo tempo para serem colocados.</RE_ColonialRecRoomTileMarble.description>
 
-    <!-- Vanilla Factions Expanded - Mechanoids -->
-        <!-- Factory Floor -->
-            <VFE_FactoryFloor.label>chão de fábrica</VFE_FactoryFloor.label>
-            <VFE_FactoryFloor.description>Ladrilhos de aço reforçados, capazes de manter no lugar máquinas pesadas e complexas. Não é o mais bonito de se olhar.</VFE_FactoryFloor.description>
-
-        <!-- Factory Path -->
-            <VFE_FactoryPath.label>caminho de fábrica</VFE_FactoryPath.label>
-            <VFE_FactoryPath.description>Um caminho de fábrica designado e seguro. Aumenta a velocidade de movimento, mas precisa ser colocado no chão de fábrica.</VFE_FactoryPath.description>
-
     <!-- VFE - Mechanoids : Unoffical Add-On -->
         <!-- Black Concrete -->
             <MAO_BlackConcrete.label>concreto preto</MAO_BlackConcrete.label>

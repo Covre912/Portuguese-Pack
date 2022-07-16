@@ -10,21 +10,6 @@
             <RE-JohnParagon.label>John Jurídico</RE-JohnParagon.label>
             <RE-JohnParagon.description>John tem integridade, compaixão e heroísmo em alta conta. Ele conta a história do parentesco e da perseverança de vários perigos juntos, como uma força unida. Ele enviará mais eventos ruins quanto mais inimigos você tiver.</RE-JohnParagon.description>
 
-    <!-- Vanilla Factions Expanded - Insectoids -->
-        <!-- Empress Evil -->
-            <VFEI_Empress.label>Imperatriz Impiedosa</VFEI_Empress.label>
-            <VFEI_Empress.description>A Imperatriz não acredita no conceito de bom. Impulsionada pela raiva primordial e pelo instinto selvagem, ela o forçará a estar constantemente alerta, realizando tarefas cada vez mais difíceis até que você desista e morra. Nenhum bom evento irá acontecer, nunca.</VFEI_Empress.description>
-
-    <!-- Vanilla Factions Expanded - Mechanoids -->
-        <!-- Igor Invader -->
-            <VFEMech-IgorInvader.label>Igor Invasor</VFEMech-IgorInvader.label>
-            <VFEMech-IgorInvader.description>Igor não se importa com histórias chatas sobre colônias prósperas. A única história que vale a pena contar é a do combate. Ele enviará invasões a cada dois ou três dias, recompensando os jogadores por lidar com elas rapidamente e punindo-os por quaisquer perdas. Este narrador dobra todos os tipos de dano, mas também avisa sobre as próximas invasões 12 horas antes de acontecerem.</VFEMech-IgorInvader.description>
-
-    <!-- Vanilla Factions Expanded - Vikings -->
-        <!-- Freya Fierce -->
-            <VFEV-Freya.label>Freya Feroz</VFEV-Freya.label>
-            <VFEV-Freya.description>Freya acredita que as melhores histórias são as de incursões e glória. Todos os anos após o primeiro ano, no início de Abrimaio, seu assentamento ficará cada vez mais infeliz até que você envie seus colonos em uma aventura ou ataque e traga de volta os despojos de guerra.</VFEV-Freya.description>
-
     <!-- Vanilla Storytellers Expanded - Diego Industrial -->
         <!-- Diego Industrial -->
             <VSE_DiegoIndustrial.label>Diego Industrial</VSE_DiegoIndustrial.label>
@@ -59,10 +44,5 @@
         <!-- Oskar Obnoxious -->
             <VSE_OskarObnoxious.label>Oskar Obnóxio</VSE_OskarObnoxious.label>
             <VSE_OskarObnoxious.description>Oskar não tem consideração pelas histórias em andamento. As coisas girarão em suas cabeças inúmeras vezes antes que uma colônia apareça em chamas. Notas de atualização são lançadas com frequência e podem alterar os valores do jogo, mudando quase tudo completamente.</VSE_OskarObnoxious.description>
-
-    <!-- Vanilla Storytellers Expanded - Perry Persistent -->
-        <!--  Perry Persistent -->
-            <VSE_PerryPersistent.label>Perry Persistente</VSE_PerryPersistent.label>
-            <VSE_PerryPersistent.description>Perry transmite uma história da mesma maneira que lida com suas investigações - com determinação e atenção aos detalhes. Ele irá mantê-lo constantemente alerta, pois todos os dias podem levá-lo ao fim de sua investigação.</VSE_PerryPersistent.description>
 
 </LanguageData>

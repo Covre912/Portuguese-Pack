@@ -27,16 +27,6 @@
         <AA_SlugBody.label>corpo de lesma</AA_SlugBody.label>
         <AA_InsectSting.label>ferrão</AA_InsectSting.label>
 
-    <!-- Vanilla Factions Expanded - Insectoids -->
-        <VFEI_ExplosiveSac.label>saco explosivo</VFEI_ExplosiveSac.label>
-        <VFEI_FrontClaw.label>garra dianteira</VFEI_FrontClaw.label>
-        <VFEI_FrontClaw.labelShort>garra</VFEI_FrontClaw.labelShort>
-        <VFEI_Thorax.label>tórax</VFEI_Thorax.label>
-        <VFEI_InsectTail.label>cauda</VFEI_InsectTail.label>
-        <VFEI_InsectSting.label>ferrão</VFEI_InsectSting.label>
-        <VFEI_LeftPincer.label>pinça esquerda</VFEI_LeftPincer.label>
-        <VFEI_RightPincer.label>pinça direita</VFEI_RightPincer.label>
-
     <!-- Xenohumans - Anthromorphs -->
         <ATK_Tail.label>cauda</ATK_Tail.label>
 

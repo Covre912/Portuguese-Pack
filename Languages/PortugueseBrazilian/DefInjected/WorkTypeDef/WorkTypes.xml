@@ -16,12 +16,4 @@
             <FinishingOff.description>Mate criaturas atordoadas de forma rápida e indolor.</FinishingOff.description>
             <FinishingOff.verb>Finalizar</FinishingOff.verb>
 
-    <!-- Vanilla Books Expanded -->
-        <!-- Write -->
-            <VBE_Writing.labelShort>Escrever</VBE_Writing.labelShort>
-            <VBE_Writing.pawnLabel>Escritor(a)</VBE_Writing.pawnLabel>
-            <VBE_Writing.gerundLabel>escrevendo</VBE_Writing.gerundLabel>
-            <VBE_Writing.description>Execute trabalho de redação.</VBE_Writing.description>
-            <VBE_Writing.verb>Escrever em</VBE_Writing.verb>
-
 </LanguageData>

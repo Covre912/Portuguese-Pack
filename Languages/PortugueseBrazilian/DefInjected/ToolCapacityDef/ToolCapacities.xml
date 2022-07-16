@@ -20,10 +20,6 @@
         <WMH_HymPunch.label>garras de hym</WMH_HymPunch.label>
         <WMH_ParalysingBite.label>mordida paralisante</WMH_ParalysingBite.label>
 
-    <!-- Vanilla Factions Expanded - Insectoids -->
-        <VFEI_ToxicSting.label>picada tóxica</VFEI_ToxicSting.label>
-        <SpittingOnPawn.label>cuspe ácido</SpittingOnPawn.label>
-
     <!-- Zombieland -->
         <ZombieBite.label>mordida</ZombieBite.label>
 

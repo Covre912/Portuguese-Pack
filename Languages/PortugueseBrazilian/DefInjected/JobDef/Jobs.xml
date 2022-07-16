@@ -73,51 +73,6 @@
         <ROMV_GhoulBloodBond.reportString>alimentando TargetA com vitae.</ROMV_GhoulBloodBond.reportString>
         <ROMV_EnterTorpor.reportString>entrando em estado de torpor.</ROMV_EnterTorpor.reportString>
 
-    <!-- Vanilla Animals Expanded - Endargered -->
-        <AEXP_IngestAnts.reportString>devorando formigas.</AEXP_IngestAnts.reportString>
-        <AEXP_GotoTheWild.reportString>indo para à naturza.</AEXP_GotoTheWild.reportString>
-
-    <!-- Vanilla Books Expanded -->
-        <VBE_ReadBook.reportString>lendo.</VBE_ReadBook.reportString>
-
-    <!-- Vanilla Factions Expanded - Insectoids -->
-        <VFEI_IngestWeird.reportString>consumindo TargetA.</VFEI_IngestWeird.reportString>
-        <VFEI_InsertFirstGenomeJob.reportString>inserindo genoma.</VFEI_InsertFirstGenomeJob.reportString>
-        <VFEI_InsertSecondGenomeJob.reportString>inserindo genoma.</VFEI_InsertSecondGenomeJob.reportString>
-        <VFEI_InsertThirdGenomeJob.reportString>inserindo genoma.</VFEI_InsertThirdGenomeJob.reportString>
-        <InsectFlee.reportString>saindo do mapa.</InsectFlee.reportString>
-
-    <!-- Vanilla Factions Expanded - Mechanoids -->
-        <VFEM_Disassemble.reportString>dissimulando TargetA.</VFEM_Disassemble.reportString>
-        <VFEM_RefuelSilo.reportString>reabastecendo TargetA.</VFEM_RefuelSilo.reportString>
-
-    <!-- Vanilla Factions Expanded - Vikings -->
-        <Play_Hnefatafl.reportString>jogando tafl.</Play_Hnefatafl.reportString>
-        <Play_TrainingDummy.reportString>treinando.</Play_TrainingDummy.reportString>
-        <VFEV_FillMeadBarrel.reportString>preenchendo TargetA.</VFEV_FillMeadBarrel.reportString>
-        <VFEV_TakeMeadOutOfMeadBarrel.reportString>retirando hidromel de TargetA.</VFEV_TakeMeadOutOfMeadBarrel.reportString>
-        <VFEV_TakeHoneyOutOfApiary.reportString>extraindo mel de TargetA.</VFEV_TakeHoneyOutOfApiary.reportString>
-        <VFEV_TendToApiary.reportString>cuidando de TargetA.</VFEV_TendToApiary.reportString>
-        <VFEV_ChangeFacepaint.reportString>pintando seu rosto em TargetA.</VFEV_ChangeFacepaint.reportString>
-        <VFEV_IgniteWithTorches.reportString>acendendo TargetA com tochas.</VFEV_IgniteWithTorches.reportString>
-        <VFEV_HypothermiaResponse.reportString>recuperando da hipotermia.</VFEV_HypothermiaResponse.reportString>
-
-    <!-- Vanilla Social Interactions Expanded -->
-        <VSIE_VentToFriend.reportString>desabafando para TargetA.</VSIE_VentToFriend.reportString>
-        <VSIE_StandAndHearVenting.reportString>ouvindo desabafos de TargetA.</VSIE_StandAndHearVenting.reportString>
-        <VSIE_TakingBeer.reportString>pegando TargetA.</VSIE_TakingBeer.reportString>
-        <VSIE_TalkToSecondPawn.reportString>conversando com TargetA.</VSIE_TalkToSecondPawn.reportString>
-        <VSIE_HonorPawn.reportString>homenageando TargetA.</VSIE_HonorPawn.reportString>
-        <VSIE_Skygaze.reportString>observando o céu com TargetB.</VSIE_Skygaze.reportString>
-        <VSIE_ViewArtTogether.reportString>apreciando arte com TargetB.</VSIE_ViewArtTogether.reportString>
-        <VSIE_BuildSnowmanTogether.reportString>construindo bonecos de neve com TargetB.</VSIE_BuildSnowmanTogether.reportString>
-        <VSIE_GotoWith.reportString>caminhando com TargetB.</VSIE_GotoWith.reportString>
-        <VSIE_GotoTalkToSecondPawn.reportString>conversando com Target.</VSIE_GotoTalkToSecondPawn.reportString>
-        <VSIE_Follow.reportString>caminhando com TargetA.</VSIE_Follow.reportString>
-        <VSIE_OneStandLovin.reportString>amando.</VSIE_OneStandLovin.reportString>
-        <VSIE_WatchTelevisionTogether.reportString>assistindo televisão.</VSIE_WatchTelevisionTogether.reportString>
-        <VSIE_HaveMealTogether.reportString>namorando.</VSIE_HaveMealTogether.reportString>
-
     <!-- Zombieland -->
         <Stumble.reportString>tropeçando.</Stumble.reportString>
         <Sabotage.reportString>sabotando.</Sabotage.reportString>

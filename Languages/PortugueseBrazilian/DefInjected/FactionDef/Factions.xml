@@ -49,41 +49,6 @@
             <WMH_Monsters.pawnSingular>monstro</WMH_Monsters.pawnSingular>
             <WMH_Monsters.pawnsPlural>monstros</WMH_Monsters.pawnsPlural>
 
-    <!-- Vanilla Factions Expanded - Insectoids -->
-        <!-- New Squad -->
-            <VFE_PlayerOutpost.label>Novo Esquadrão</VFE_PlayerOutpost.label>
-            <VFE_PlayerOutpost.description>Um pequeno esquadrão de mercenários, prontos para o combate.</VFE_PlayerOutpost.description>
-            <VFE_PlayerOutpost.pawnsPlural>mercenários</VFE_PlayerOutpost.pawnsPlural>
-
-        <!-- Insect Hive -->
-            <VFEI_Insect.label>colmeia insectoide</VFEI_Insect.label>
-            <VFEI_Insect.description>Resultado de um experimento que deu errado em toda a galáxia, essa monstruosa mente coletiva fez deste planeta seu lar. Dividida em castas, sua sociedade depende de uma rainha gigante.\n\nEstes insetóides não estão interessados ​​em diplomacia. Eles tentarão eliminar qualquer coisa que considerem uma ameaça.</VFEI_Insect.description>
-            <VFEI_Insect.pawnsPlural>insetos</VFEI_Insect.pawnsPlural>
-
-    <!-- Vanilla Factions Expanded - Mechanoids -->
-        <!-- Mechanoid Swarm -->
-            <VFE_Mechanoid.label>enxame mecanoide</VFE_Mechanoid.label>
-            <VFE_Mechanoid.description>Um grande enxame orbitado de naves mecanoides de terraformação e embarcações de combate. Controlado remotamente por comandantes humanos em um dos mundos centrais, no centro desse enxame mecanoide fica um covil, onde inúmeras máquinas são construídas e desconstruídas continuamente para servir a uma causa maior.\n\nEles não estão preocupados com os direitos humanos e não percebem os habitantes deste mundo como qualquer coisa, exceto macacos que precisam ser eliminados para que o projeto de terraformação continue.\n\nEste enxame mecanoide não pode ser aliado.</VFE_Mechanoid.description>
-            <VFE_Mechanoid.pawnSingular>mecanoide</VFE_Mechanoid.pawnSingular>
-            <VFE_Mechanoid.pawnsPlural>mecanoides</VFE_Mechanoid.pawnsPlural>
-
-    <!-- Vanilla Factions Expanded - Vikings -->
-        <!-- Rough -->
-            <VFEV_VikingsClan.label>clã feroz</VFEV_VikingsClan.label>
-            <VFEV_VikingsClan.description>Esses membros do clã estão aqui há muito tempo. Talvez seus ancestrais tenham caído aqui há mil anos, como sugerem suas lendas. Em qualquer caso, os nórdicos são pessoas ferozes que vivem do trabalho de outros e não têm medo de usar a força para pegar o que não é deles.\n\nEmbora não sejam tão avançados tecnologicamente como outras facções, os nórdicos podem ser valiosos aliados e um inimigo terrível devido à sua resistência e modos selvagens.\n\nEste clã em particular valoriza o domínio guerreiro; pode ser difícil transformá-los em aliados.</VFEV_VikingsClan.description>
-            <VFEV_VikingsClan.leaderTitle>guerreiro</VFEV_VikingsClan.leaderTitle>
-
-        <!-- Savage -->
-            <VFEV_VikingsSlaver.label>clã selvagem</VFEV_VikingsSlaver.label>
-            <VFEV_VikingsSlaver.description>Esses membros do clã estão aqui há muito tempo. Talvez seus ancestrais tenham caído aqui há mil anos, como sugerem suas lendas. Em qualquer caso, os nórdicos são pessoas ferozes que vivem do trabalho de outros e não têm medo de usar a força para pegar o que não é deles.\n\nEmbora não sejam tão avançados tecnologicamente como outras facções, os nórdicos podem ser valiosos aliados e um inimigo terrível devido à sua resistência e modos selvagens.\n\nEste clã em particular causa estragos nos assentamentos circundantes e leva todos os sobreviventes à escravidão - será muito difícil se tornar seu aliado!</VFEV_VikingsSlaver.description>
-            <VFEV_VikingsSlaver.leaderTitle>guerreiro</VFEV_VikingsSlaver.leaderTitle>
-
-        <!-- New Clan -->
-            <VFEV_PlayerClan.label>Novo Clã</VFEV_PlayerClan.label>
-            <VFEV_PlayerClan.description>Um pequeno clã.</VFEV_PlayerClan.description>
-            <VFEV_PlayerClan.pawnSingular>membro</VFEV_PlayerClan.pawnSingular>
-            <VFEV_PlayerClan.pawnsPlural>membros</VFEV_PlayerClan.pawnsPlural>
-
     <!-- Zombieland -->
         <!-- Zombies -->
             <Zombies.label>zumbis</Zombies.label>

@@ -6,19 +6,4 @@
             <Election.label>eleição</Election.label>
             <Election.description>Uma eleição está em andamento. A votação ocorrerá quando os colonos tiverem tempo de se familiarizar com os candidatos.</Election.description>
 
-    <!-- Vanilla Factions Expanded - Mechanoids -->
-        <!-- Climate Adjuster -->
-            <VFE_ClimateAdjuster.label>ajustador climático</VFE_ClimateAdjuster.label>
-            <VFE_ClimateAdjuster.letterText>ajustador climático</VFE_ClimateAdjuster.letterText>
-            <VFE_ClimateAdjuster.description>ajustador climático</VFE_ClimateAdjuster.description>
-            <VFE_ClimateAdjuster.descriptionFuture>uma frente de ar frio resfriará a área ao redor de [map_definite] por [gameConditionDuration_duration], prejudicando as plantações e qualquer pessoa ou animal sem proteção adequada</VFE_ClimateAdjuster.descriptionFuture>
-            <VFE_ClimateAdjuster.endMessage>A onda de frio acabou.</VFE_ClimateAdjuster.endMessage>
-
-        <!-- EMI Dynamo -->
-            <VFE_EMIDynamo.label>dínamo IEM</VFE_EMIDynamo.label>
-            <VFE_EMIDynamo.letterText>dínamo IEM</VFE_EMIDynamo.letterText>
-            <VFE_EMIDynamo.description>dínamo IEM</VFE_EMIDynamo.description>
-            <VFE_EMIDynamo.descriptionFuture>dínamo IEM</VFE_EMIDynamo.descriptionFuture>
-            <VFE_EMIDynamo.endMessage>dínamo IEM</VFE_EMIDynamo.endMessage>
-
 </LanguageData>

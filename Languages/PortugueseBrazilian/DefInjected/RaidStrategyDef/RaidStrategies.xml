@@ -1,14 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <!-- Vanilla Factions Expanded - Insectoids -->
-        <!-- Raid -->
-            <VFEI_ImmediateAttackInsect.letterLabelEnemy>Invasão</VFEI_ImmediateAttackInsect.letterLabelEnemy>
-            <VFEI_ImmediateAttackInsect.arrivalTextEnemy>Eles atacarão imediatamente.</VFEI_ImmediateAttackInsect.arrivalTextEnemy>
-
-    <!-- Vanilla Factions Expanded - Mechanoids -->
-        <!-- Mechanoid Ship -->
-            <VFEM_StrategyMechShipArrival.letterLabelEnemy>Nave mecanoide</VFEM_StrategyMechShipArrival.letterLabelEnemy>
-            <VFEM_StrategyMechShipArrival.arrivalTextEnemy>Os mecanoides que pousaram atacarão imediatamente. A nave fará uma cobertura de fogo e iniciará o cerco o mais rápido possível.</VFEM_StrategyMechShipArrival.arrivalTextEnemy>
-
 </LanguageData>
